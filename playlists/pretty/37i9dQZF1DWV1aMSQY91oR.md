@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: YG & Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,186 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,201 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 1 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 2 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 |
 | 3 | [Lucky](https://open.spotify.com/track/2dQhFMS8pe5fPAOG709E4c) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Lucky](https://open.spotify.com/album/0wSXgdslbGhC6gw8vjgv9m) | 2:30 |
 | 4 | [MF Gabhru!](https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [MF Gabhru!](https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i) | 3:20 |

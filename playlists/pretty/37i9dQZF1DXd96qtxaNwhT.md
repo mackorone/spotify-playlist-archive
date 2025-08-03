@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,931 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,928 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 14 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 |
 | 15 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 |
 | 16 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
-| 17 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 |
-| 18 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
+| 17 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
+| 18 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 |
 | 19 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
 | 20 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 |
 | 21 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 58 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
 | 59 | [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 |
 | 60 | [I Don't Know Why \(I Just Do\)](https://open.spotify.com/track/0WiIGxBzkA2SvE8clbz3X0) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Still Blooming](https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj) | 3:44 |
-| 61 | [When I Loved You](https://open.spotify.com/track/6uOT7G2JvftdMvPxeSJCW5) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [When I Loved You](https://open.spotify.com/album/2MQmCk9CWJRhSfnnbF0OxM) | 3:28 |
-| 62 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
+| 61 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
+| 62 | [When I Loved You](https://open.spotify.com/track/6uOT7G2JvftdMvPxeSJCW5) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [When I Loved You](https://open.spotify.com/album/2MQmCk9CWJRhSfnnbF0OxM) | 3:28 |
 | 63 | [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 |
 | 64 | [Cupid](https://open.spotify.com/track/0um0FIqHcG3EUfx0AYL3zl) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Cupid](https://open.spotify.com/album/1dXAqK6uYKVSypOiR5j01o) | 3:51 |
 | 65 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 72 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
 | 73 | [Cannibal](https://open.spotify.com/track/3Sg6B5YHoP2JvDEj4AndqL) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Cannibal](https://open.spotify.com/album/7M07KVSye8Bj8Qdn4ijnJ7) | 3:11 |
 | 74 | [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 |
-| 75 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
+| 75 | [Only Love](https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/0MMEETFIql7BICSfsIfoBF) | 4:19 |
 
 Snapshot ID: `aHZe8gAAAAAB2Spy6OkSzEYZWkO3Oj9M`

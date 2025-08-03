@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,234 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,381 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 88 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 |
 | 89 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
 | 90 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:02 |
-| 91 | [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 |
-| 92 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
+| 91 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
+| 92 | [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 |
 | 93 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 |
 | 94 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
 | 95 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7hmcaSpHioj7SGfOU565WI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/5jnRfyqVu1M8ATrJ0hOrVD) | 3:32 |

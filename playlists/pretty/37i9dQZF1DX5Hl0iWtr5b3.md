@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > Even a wallflower can bloom...Listen to the music from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,560,020 likes - 108 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560,284 likes - 108 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 107 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 108 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
 
-Snapshot ID: `AAAAAEFWy+C5zvuyxo2HKhC3o7jVOP7Y`
+Snapshot ID: `Z+0m3AAAAAAMAN7bwALutO3DzCVTr5Rf`

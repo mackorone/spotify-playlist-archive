@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with RIOT
 
-1,119 songs - 2 day 13 hr 18 min
+1,120 songs - 2 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -869,7 +869,7 @@
 | [Shadow \- Ace Aura Remix](https://open.spotify.com/track/61yIlAFAliC4poai45yRE1) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Cartell II \(Remixes\)](https://open.spotify.com/album/6TQnDo98vbJhh29cuqNwVv) | 4:28 | 2022-12-16 | 2023-04-01 |
 | [Shadows of Deceit](https://open.spotify.com/track/2saEmcdCaClJHTxadK9ZOp) | [Austeria](https://open.spotify.com/artist/15VvV8dnWKZBNufin6LzzS) | [Shadows of Deceit](https://open.spotify.com/album/5Kwwwq1rtbhV8iKIRkss7M) | 2:10 | 2024-05-17 | 2024-06-15 |
 | [Shallow Land Burial \- beastboi\. Remix](https://open.spotify.com/track/0lkU7opsj9odzNNmBQ9VSP) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [VOYD Vol\. 2.5 \(PART II\)](https://open.spotify.com/album/6oiCAPQVEATR7M9xiMLuaL) | 3:00 | 2025-07-12 |  |
-| [Shallow Land Burial \- THE RESISTANCE Remix](https://open.spotify.com/track/6EqYCzEcxTcB6dCqa5CzER) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [THE RESISTANCE](https://open.spotify.com/artist/4VU3TBTKad327N0Ql1P1ew) | [VOYD Vol\. 2.5 \(PART II\)](https://open.spotify.com/album/6oiCAPQVEATR7M9xiMLuaL) | 3:06 | 2025-07-12 |  |
+| [Shallow Land Burial \- THE RESISTANCE Remix](https://open.spotify.com/track/6EqYCzEcxTcB6dCqa5CzER) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [THE RESISTANCE](https://open.spotify.com/artist/4VU3TBTKad327N0Ql1P1ew) | [VOYD Vol\. 2.5 \(PART II\)](https://open.spotify.com/album/6oiCAPQVEATR7M9xiMLuaL) | 3:06 | 2025-07-12 | 2025-08-03 |
 | [Shank](https://open.spotify.com/track/6NrvGvEN9o6LutTMfvjNCQ) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Shank](https://open.spotify.com/album/4AvIrAAt7HreJ1EFTpnKkc) | 4:24 | 2022-08-12 | 2023-02-26 |
 | [Shank](https://open.spotify.com/track/7Mvl8tGMD5lmgpcdcm53WK) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Shank](https://open.spotify.com/album/7FHVGQCCAxhEeDWbEEuMZS) | 4:24 | 2023-03-10 | 2023-09-16 |
 | [Shape Shifter](https://open.spotify.com/track/48QPjsjPblbFMV33O0k8Qx) | [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc) | [Shape Shifter](https://open.spotify.com/album/118GGRATXZLOgNegqdEacA) | 3:14 | 2024-08-23 | 2024-10-05 |
@@ -1078,6 +1078,7 @@
 | [Voices](https://open.spotify.com/track/2djhpOJMkWCjNh3aggayyJ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE) | [Voices](https://open.spotify.com/album/0GAQ0au4glYJ2wJAaEkb5L) | 3:09 | 2022-02-25 | 2022-08-22 |
 | [Voices](https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Voices](https://open.spotify.com/album/3ZBZUT81UWro8rfdcxop06) | 3:15 | 2023-03-10 | 2023-12-02 |
 | [VOLTAGE](https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:09 | 2025-04-04 |  |
+| [Volume](https://open.spotify.com/track/6Vgjfu6CmLgecaSgHBcNAY) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Volume](https://open.spotify.com/album/1UYws5ZnO11wPrA5TdUBBo) | 2:26 | 2025-08-01 |  |
 | [W.Y.G.D](https://open.spotify.com/track/2DKuxCOVu1qG7LCwYONoxu) | [OG Nixin](https://open.spotify.com/artist/6AzehpPyhn3Qrwg6pQfPXz) | [W.Y.G.D](https://open.spotify.com/album/2cjDJfHQyg7JmVHDCW5nxu) | 3:31 | 2024-11-04 | 2025-04-26 |
 | [Wackman](https://open.spotify.com/track/3Jd41F0MSozEpktfqwuUst) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Wackman](https://open.spotify.com/album/26xUxS2LbgQknaac21HRPj) | 2:12 | 2025-08-01 |  |
 | [WAIT4U](https://open.spotify.com/track/7igtWMNT2mPCYARw9g0cLn) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [WAIT4U](https://open.spotify.com/album/6rjRB1yiwh2iOmyiWGmJp6) | 4:12 | 2023-10-13 | 2023-12-09 |

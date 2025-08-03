@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Tyler, The Creator, Travis Scott & JACKBOYS, Drake, Offset, YG and Buddah Bless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,136 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,111 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 |
 | 2 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
-| 3 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 3 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 4 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 |
 | 5 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 |
 | 6 | [Professional](https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Professional](https://open.spotify.com/album/3szFCrznF383ASda6GRzq2) | 2:57 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 48 | [Spinnin \(feat\. Nemzzz\) \- Segway Remix](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 |
 | 49 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 
-Snapshot ID: `aIw92gAAAACEt4tsyHmeeopzjnThHBPJ`
+Snapshot ID: `AAAAAJbAcL3yiIfFTgsOmLvcWlkFGOes`

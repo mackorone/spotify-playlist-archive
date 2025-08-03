@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Eileen Alister
 
-383 songs - 19 hr 47 min
+384 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 | 2025-04-06 |
 | [Mayhem](https://open.spotify.com/track/0bTNqfjULSzLvDiqO38K4w) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Mayhem](https://open.spotify.com/album/4B9uvunHpnqxAuie42u8t1) | 4:28 | 2025-04-17 | 2025-04-25 |
 | [Melody](https://open.spotify.com/track/5wZOJaNBQbOR4adcp4BDNU) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Aquatic Ballet](https://open.spotify.com/album/5J8qlAxbu3hczWlNi0CuY8) | 4:12 | 2025-05-01 | 2025-05-09 |
-| [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 |  |
+| [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 | 2025-08-03 |
 | [MEXENDO OMBRIN](https://open.spotify.com/track/4q4vNgUjbtSCjUiHfSBLae) | [BAHIANO](https://open.spotify.com/artist/1Eak86FtlSJpUcBi7TXEXA), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Trembart](https://open.spotify.com/artist/4rncj8X31QBuSSXiT5XiIR) | [MEXENDO OMBRIN](https://open.spotify.com/album/76M7ENrL7ywPCi0Nxorryx) | 2:19 | 2025-04-24 | 2025-05-02 |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-18 |
 | [Migros oder Coop](https://open.spotify.com/track/7DK5IE6ynYeCFRWWqVh5zk) | [Fründe](https://open.spotify.com/artist/2wfimwYFeZLGY59D7cxc3c) | [Migros oder Coop](https://open.spotify.com/album/1cc3f0UR1Gk2L5C3GEEFxM) | 2:40 | 2025-05-08 | 2025-05-16 |
@@ -298,6 +298,7 @@
 | [Schlüssu](https://open.spotify.com/track/0NYYj56OODUg2Gz0reX5ZQ) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [Schlüssu](https://open.spotify.com/album/51wb8H7NqVok5rhnSmhhdp) | 2:42 | 2025-04-24 | 2025-05-02 |
 | [Schön](https://open.spotify.com/track/1swGr7I8NjsAu8iZ6MT1Hx) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V), [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Schön](https://open.spotify.com/album/6SgeUyLbCBVSgohKv8x1Ir) | 2:45 | 2025-06-26 |  |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 | 2024-11-07 |
+| [Seg Wer](https://open.spotify.com/track/30d3dbDTmLoRsdoErGPFkH) | [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Seg Wer](https://open.spotify.com/album/3ZzgLaGww7ehVMoPNWMgRD) | 1:54 | 2025-07-31 |  |
 | [September Skies](https://open.spotify.com/track/2MQ6lxKWTVglCe88CDK7Xv) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [September Skies](https://open.spotify.com/album/1A5hVwUNgtvJudlzsnBKdV) | 3:25 | 2025-04-17 | 2025-04-25 |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |
 | [she calls me daddy](https://open.spotify.com/track/6411vwtWuPOLhAy4eipNOC) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 2:29 | 2025-04-24 | 2025-05-02 |

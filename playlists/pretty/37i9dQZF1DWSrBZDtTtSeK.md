@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrBZDtTtSeK.md) - [plain]
 
 > The official playlist for the GIANTS show with the Dean collection, opening in Minneapolis on March 7th\. Get your tickets<a href="https://tickets.artsmia.org/events/01934052\-e7dc\-337b\-b9f3\-e4216feb4d0e"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,683 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,701 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrBZDtTtSeK.md) - [plain]
 | 68 | [Pistol On My Side \(P.O.M.S\) \(feat\. Lil Wayne\)](https://open.spotify.com/track/0OjNpUxJjwTY5EbqJ2lm9z) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [POISON](https://open.spotify.com/album/7wQWfHMlE9OVghvW74yfz3) | 2:34 |
 | 69 | [Echo \(feat\. Nas\)](https://open.spotify.com/track/50sSNm5rq7O6wqvkIn42Zf) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [POISON](https://open.spotify.com/album/7wQWfHMlE9OVghvW74yfz3) | 5:05 |
 
-Snapshot ID: `Z8HtFwAAAACVXQITAbERm5sJQWnEGs/R`
+Snapshot ID: `AAAAAN4RxTedhnYHvKDxpuf9z9pEdiG0`

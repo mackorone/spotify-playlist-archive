@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,830 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,849 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
 | 50 | [amazing grace](https://open.spotify.com/track/31JQLlX86J62OspqfVfaRj) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [amazing grace](https://open.spotify.com/album/0JnvZXIaasyAGt1kbGtYzH) | 3:32 |
 
-Snapshot ID: `AAAAAFq/8CGczGv2BT2CxL/Rp/i3SSOY`
+Snapshot ID: `aIeekwAAAAAmT9cPrIpDr4AbdnvAECmb`

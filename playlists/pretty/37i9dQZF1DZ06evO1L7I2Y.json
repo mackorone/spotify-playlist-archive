@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3407,
+  "num_followers": 3409,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACD6rqme7lFtachdk2h58Ob",
+  "snapshot_id": "aIwDgAAAAAChUwY/KrPI0SAD7iSt+bUN",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOVA ERA",
-        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 246875,
       "name": "Oi, Sumido",
       "url": "https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOVA ERA",
+        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
     },
     {
       "added_at": null,
@@ -739,26 +739,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO III",
-        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
+        "name": "Downhill Domination - SECOND EDITION",
+        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
       },
       "artists": [
         {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+          "name": "NIKITO Labrae",
+          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
+        },
+        {
+          "name": "BPP Tan",
+          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ogrand",
-          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
         }
       ],
-      "duration_ms": 139591,
-      "name": "VIM DE L\u00c1",
-      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
+      "duration_ms": 251076,
+      "name": "Bizarro",
+      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
     },
     {
       "added_at": null,
@@ -791,54 +791,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downhill Domination - SECOND EDITION",
-        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
       },
       "artists": [
         {
-          "name": "NIKITO Labrae",
-          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
-        },
-        {
-          "name": "BPP Tan",
-          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "Bizarro",
-      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trono de Vidro",
-        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Thamiris",
-          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
         }
       ],
-      "duration_ms": 161896,
-      "name": "Paz Terr\u00edvel",
-      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
+      "duration_ms": 139591,
+      "name": "VIM DE L\u00c1",
+      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
     },
     {
       "added_at": null,
@@ -875,6 +847,34 @@
       "duration_ms": 352500,
       "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
       "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trono de Vidro",
+        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Thamiris",
+          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 161896,
+      "name": "Paz Terr\u00edvel",
+      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,

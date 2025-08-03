@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Hania
 
-540 songs - 1 day 2 hr 15 min
+541 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [8 am](https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 3:03 | 2025-02-06 | 2025-03-02 |
 | [a little bit](https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [a little bit](https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n) | 2:45 | 2025-03-27 | 2025-07-04 |
 | [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 | 2024-10-04 | 2025-01-10 |
-| [a może?](https://open.spotify.com/track/0lC5fionUUvt77bZlD87Hx) | [Klaudia Marzec](https://open.spotify.com/artist/2SlZJko0OpkOSKoZzoMkta) | [a może?](https://open.spotify.com/album/3XhmAdtbJEnVqhjgQbRFKL) | 3:39 | 2025-07-24 | 2025-08-01 |
+| [a może?](https://open.spotify.com/track/0lC5fionUUvt77bZlD87Hx) | [Klaudia Marzec](https://open.spotify.com/artist/2SlZJko0OpkOSKoZzoMkta) | [a może?](https://open.spotify.com/album/3XhmAdtbJEnVqhjgQbRFKL) | 3:39 | 2025-07-24 |  |
 | [Adoruje](https://open.spotify.com/track/6iYHlyG64QyVqCmI5eMosJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A), [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY) | [Adoruje](https://open.spotify.com/album/4coeoHHAySMXfGt4PjGsAp) | 2:35 | 2024-06-28 | 2024-07-19 |
 | [Ale Boli!](https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Ale Boli!](https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9) | 1:53 | 2024-09-27 | 2024-11-08 |
 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 | 2025-03-13 | 2025-07-04 |
@@ -158,7 +158,7 @@
 | [GOD DAMN](https://open.spotify.com/track/6SCpoGxbpXxiVRwI5S55VD) | [Bryan](https://open.spotify.com/artist/1JW9Q2DToFLptGpxXNKHWp), [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A), [WOLF HOUSE](https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt) | [GOD DAMN](https://open.spotify.com/album/1T2xXdMigMZQ2ANvVwdkWh) | 2:15 | 2025-01-30 | 2025-02-21 |
 | [GOJO SATORU](https://open.spotify.com/track/7t3JhX1H4UfANMijhzoI3M) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [GOJO SATORU](https://open.spotify.com/album/5dfXXlA1vpRXhFasJmahp6) | 3:25 | 2024-06-28 | 2024-09-14 |
 | [Gorset](https://open.spotify.com/track/5KkcaqjflHxH2MenhXxhXQ) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/2C6jNdGg4KZG0AdBJEKFuv) | 3:28 | 2025-02-06 | 2025-03-28 |
-| [Gołębie](https://open.spotify.com/track/5HSDp4WE5al3NP8tKcZyJD) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [Gołębie](https://open.spotify.com/album/1yTlty7l1TWZYl3BrkYeBj) | 4:50 | 2025-07-17 |  |
+| [Gołębie](https://open.spotify.com/track/5HSDp4WE5al3NP8tKcZyJD) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [Gołębie](https://open.spotify.com/album/1yTlty7l1TWZYl3BrkYeBj) | 4:50 | 2025-07-17 | 2025-08-03 |
 | [Gra Gra Gra](https://open.spotify.com/track/2KlqoFI1E2SM5BNYY8bjJW) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Gra Gra Gra](https://open.spotify.com/album/2o5S6SO44MfFHc5ZiMzTNC) | 3:03 | 2024-06-28 | 2024-09-07 |
 | [Great White Sharks](https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Great White Sharks](https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm) | 3:19 | 2025-05-08 | 2025-06-20 |
 | [Grzesiu](https://open.spotify.com/track/6BDV4Or3MFnqKNN9EH8p91) | [Oliver Gigon](https://open.spotify.com/artist/2FlyaCEJbYuZumkoDuFs0M) | [Grzesiu](https://open.spotify.com/album/4FZltuAdipxeoWAR0kYwWD) | 2:33 | 2024-06-28 | 2024-07-27 |
@@ -405,7 +405,7 @@
 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 | 2025-04-03 | 2025-07-04 |
 | [rychło](https://open.spotify.com/track/7MelYNEVwd91gVDJFpu6it) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [rychło](https://open.spotify.com/album/45wHP18JKaFAEMuUQHoKmm) | 3:37 | 2024-06-28 | 2024-08-02 |
 | [Róże](https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Róże](https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb) | 2:31 | 2025-05-15 |  |
-| [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 | 2025-05-01 |  |
+| [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 | 2025-05-01 | 2025-08-03 |
 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 | 2025-02-27 | 2025-05-15 |
 | [Safe Zone](https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Safe zone](https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG) | 3:02 | 2024-06-28 | 2024-08-02 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-03-13 | 2025-05-02 |
@@ -443,6 +443,7 @@
 | [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 | 2025-06-23 |
 | [szczęście](https://open.spotify.com/track/6PS4lie3LKue3O6qKolntj) | [zimny gulasz](https://open.spotify.com/artist/2Wuh8XkH0Z4eDztmZdMXT9), [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl) | [szczęście](https://open.spotify.com/album/6MF1Fy27vAuQfit5jpflJe) | 2:45 | 2024-09-19 | 2024-11-08 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-10-26 |
+| [szklane słowa](https://open.spotify.com/track/5iSxwQxs4cQ6XOUhCUrhRk) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5) | [szklane słowa](https://open.spotify.com/album/4jtsC63Y9ExVEszBljphUD) | 2:41 | 2025-07-31 |  |
 | [Sznurówki](https://open.spotify.com/track/6uvauiQGYGVkcC8E5IQRWR) | [Leo Natan](https://open.spotify.com/artist/53y2orCJp8NRmbw1V0FGTo) | [Sznurówki](https://open.spotify.com/album/2Pg3iONs9qmM365Vw9qqsn) | 1:37 | 2025-03-06 | 2025-03-14 |
 | [Sztorm](https://open.spotify.com/track/6MLoaND0PUNQD2itqN87LQ) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Sztorm](https://open.spotify.com/album/6ibXEXjfR42Zj3zX7boe8o) | 3:37 | 2024-06-28 | 2024-07-19 |
 | [Sztuka](https://open.spotify.com/track/5BWSe0116hTQNvd1L2MguA) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Sztuka](https://open.spotify.com/album/0kqyVn6xEqnTphg7XiYsrH) | 4:00 | 2025-02-27 | 2025-03-09 |

@@ -4,7 +4,7 @@
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 33 min
+78 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 | 2024-02-24 |  |
 | [No la Beses \- Sesión de Estudio](https://open.spotify.com/track/4ulIv3JXcoNnHJplhMKb6C) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:15 | 2023-03-10 |  |
 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 | 2023-03-10 |  |
+| [No Me Preguntes Más](https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:59 | 2025-08-03 |  |
 | [No Soy](https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla Ahora](https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ) | 3:16 | 2023-03-10 | 2025-02-11 |
 | [Noche De Copas](https://open.spotify.com/track/3aujR2yY9i1Y2uFph0ULzb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:08 | 2023-03-10 |  |
 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 | 2023-03-10 | 2024-05-22 |

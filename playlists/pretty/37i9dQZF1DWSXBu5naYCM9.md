@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 
 > Sun\-kissed and interesting
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,752 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,785 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 | 79 | [i hate djs](https://open.spotify.com/track/6lqcimXZWXiPWZNA5wKhX4) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [brand new girl, brand new machine](https://open.spotify.com/album/44OdCi96s0fPvjDCrFdJ1Q) | 3:07 |
 | 80 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 
-Snapshot ID: `aG5B5wAAAADtdiTSPGyYvCSBZWL/MXBK`
+Snapshot ID: `AAAAAApBpxJ+Cayw9kSziUynotwR/hjG`

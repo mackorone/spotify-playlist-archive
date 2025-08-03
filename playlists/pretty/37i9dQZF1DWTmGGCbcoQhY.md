@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,473 likes - 125 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,626 likes - 125 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 25 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
 | 26 | [El Angel Del Amor](https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 3:56 |
 | 27 | [El Afilador](https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn) | [Grupo Carabo](https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv) | [Grito En Silencio](https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS) | 3:35 |
-| 28 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
-| 29 | [Inténtalo Tú](https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Oro Puro: Éxitos](https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA) | 3:31 |
+| 28 | [Inténtalo Tú](https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Oro Puro: Éxitos](https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA) | 3:31 |
+| 29 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
 | 30 | [No Puedo Olvidarte](https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [No Puedo Olvidarte](https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS) | 5:31 |
 | 31 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
 | 32 | [Ilusión](https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H) | [Cuerdas De Venezuela](https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy) | [Ilusión y Más Ilusión](https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9) | 2:57 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 54 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
 | 55 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
 | 56 | [Lo Haré por Ti](https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Lo Haré por Ti](https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6) | 3:48 |
-| 57 | [El Ritmo Mamalon](https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [El Ritmo Mamalon](https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I) | 3:13 |
-| 58 | [Noches Oscuras](https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9) | [Grupo Yeah!](https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7) | [Noches Oscuras](https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B) | 5:50 |
+| 57 | [Noches Oscuras](https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9) | [Grupo Yeah!](https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7) | [Noches Oscuras](https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B) | 5:50 |
+| 58 | [El Ritmo Mamalon](https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [El Ritmo Mamalon](https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I) | 3:13 |
 | 59 | [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 |
 | 60 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
 | 61 | [Aléjate de Mi](https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W) | [Mexikolombia](https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T) | [Sin Mirar Atrás](https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX) | 3:16 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 120 | [Estupido \(feat\. Janeth Guadalupe\)](https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Janeth Guadalupe](https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq) | [Tonto Carino](https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6) | 4:59 |
 | 121 | [Las Amo a Las Dos](https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK) | 4:49 |
 | 122 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
-| 123 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
+| 123 | [Abandonado](https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX) | 4:31 |
 | 124 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
-| 125 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/10UiP7h6szsk0CitFO8NM2) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 1](https://open.spotify.com/album/10vSYmCwnxyQXCeMtq6a92) | 3:44 |
+| 125 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
 
 Snapshot ID: `aCbUbwAAAADn7UDGhEiKKcNYU2/zL5iD`

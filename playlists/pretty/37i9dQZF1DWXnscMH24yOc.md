@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,314 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,376 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 77 | [Earned It](https://open.spotify.com/track/2MxrQDEu6efhLEOWM2ckSU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Earned It](https://open.spotify.com/album/5F3EDc5Y9ca36xAwDEfAp8) | 4:07 |
 | 78 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 |
 | 79 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |
-| 80 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
-| 81 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 |
+| 80 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 |
+| 81 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
 | 82 | [Only You \(1twofeel Reprise\)](https://open.spotify.com/track/4JKq0hEhwUtxKSfK0rU1UH) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Only You \(1twofeel Reprise\)](https://open.spotify.com/album/6Sm1ySYQ4fa7F7nujVvjSO) | 3:38 |
 | 83 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
 | 84 | [No Surprises \(feat\. Janelle Monáe\)](https://open.spotify.com/track/4cRPXadQRylHEWmQJ02fIc) | [Roman GianArthur](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [OK Lady](https://open.spotify.com/album/5cxdHvTNzejoUNA48rbkRm) | 4:04 |

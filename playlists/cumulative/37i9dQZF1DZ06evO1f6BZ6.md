@@ -4,7 +4,7 @@
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 45 min
+66 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 | 2024-02-07 |  |
 | [She's A Hottie \- Single Version](https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:08 | 2024-02-07 |  |
 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 | 2024-03-31 |  |
-| [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 | 2024-02-07 |  |
+| [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 | 2024-02-07 | 2025-08-03 |
+| [Should've Been A Cowboy \- VAVO Remix](https://open.spotify.com/track/3dhv6Ng961tNRvX9LNJz9y) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Should've Been A Cowboy \(VAVO Remix\)](https://open.spotify.com/album/3bMgpITNt77XGg4dKVb2Fi) | 3:25 | 2025-08-03 |  |
 | [Shut up and Hold On](https://open.spotify.com/track/4LbyaKFseyaiyCCvbF1j2z) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Drinks After Work](https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH) | 2:55 | 2024-02-07 | 2024-09-30 |
 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 | 2024-02-07 |  |
 | [Sundown \- Live at the Fillmore New York at Irving Plaza, 2010](https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:33 | 2024-02-07 | 2024-03-24 |

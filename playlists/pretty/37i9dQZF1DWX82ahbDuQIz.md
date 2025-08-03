@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: EVITA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,726 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,770 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 79 | [Michael in the Bathroom](https://open.spotify.com/track/5ZvJjo2CyVO7SxAemvBjRA) | [George Salazar](https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB), [Be More Chill](https://open.spotify.com/artist/5Pjk0CjONGk3zq9SnKKx3r) | [Be More Chill \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1mbjEsFVnhw0v5dJMv9axG) | 5:07 |
 | 80 | [Stick It to the Man](https://open.spotify.com/track/0Yyr78TLC2HEhcMFfuoKfZ) | [The Original Broadway Cast Of School Of Rock](https://open.spotify.com/artist/4V41s4NEnbEnbTFErZbbZ5) | [School of Rock: The Musical \(Original Cast Recording\)](https://open.spotify.com/album/05btYRpojJ7muQ3r6YAF4N) | 3:12 |
 
-Snapshot ID: `AAAAANTygO4VYIb3yoO1UYPkVTh5XmgD`
+Snapshot ID: `aIzXjgAAAAB8TbpgrH6wWNFeqPiL0MG6`

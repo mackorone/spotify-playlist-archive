@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 154195,
       "name": "Best Rapper Alive",
       "url": "https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 243530,
       "name": "Body Count (feat. King Von & G Herbo)",
       "url": "https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 166808,
       "name": "Duffel",
       "url": "https://open.spotify.com/track/5CEUmdXZEG9dma8NnwoZjj"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 131210,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/3vq65qs6iwgK6gME2HReLp"
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 124617,
       "name": "Roc Block",
       "url": "https://open.spotify.com/track/7yY6dPn2XVioN68U4hPDij"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 181080,
       "name": "Swerve (feat. G Herbo)",
       "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 187673,
       "name": "Through The Fire",
       "url": "https://open.spotify.com/track/0EngAXfx8kNX7I8W4CVJZX"
@@ -3858,24 +3858,6 @@
     {
       "album": {
         "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "date_added": "2025-07-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140487,
-      "name": "Went Legit",
-      "url": "https://open.spotify.com/track/2I9517MJ7979KTtFjbDo5E"
-    },
-    {
-      "album": {
-        "name": "Greatest Rapper Alive",
         "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
       },
       "artists": [
@@ -3890,6 +3872,28 @@
       "duration_ms": 140487,
       "name": "Went Legit",
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"
+    },
+    {
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Went Legit",
+      "url": "https://open.spotify.com/track/2I9517MJ7979KTtFjbDo5E"
     },
     {
       "album": {
@@ -3926,7 +3930,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 168022,
       "name": "White Lies (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2xFFAAEhz1bIfYShWEto0K"

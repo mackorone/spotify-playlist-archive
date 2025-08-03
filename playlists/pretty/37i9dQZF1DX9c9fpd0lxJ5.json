@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 448210,
+  "num_followers": 448202,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 250178,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
         "name": "Jet Love",
         "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 246613,
       "name": "Te Lo Voy a Decir",
       "url": "https://open.spotify.com/track/6fjdYMqPz638sbKNyFV5SU"
+    },
+    {
+      "added_at": "2025-05-23 04:00:49",
+      "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 250178,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
     },
     {
       "added_at": "2025-05-23 04:00:49",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
         "name": "Feliz Feliz",
         "url": "https://open.spotify.com/album/29CQM5gFLFNCYCJewKtsax"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 167597,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/3X4O457O6740ekNTlvEG6f"
+    },
+    {
+      "added_at": "2025-05-23 04:00:49",
+      "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2025-05-23 04:00:49",
@@ -439,26 +439,6 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
-        }
-      ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
         "name": "Perreo Bonito",
         "url": "https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 187561,
       "name": "Perreo Bonito",
       "url": "https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea"
+    },
+    {
+      "added_at": "2025-05-23 04:00:49",
+      "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+        }
+      ],
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
     },
     {
       "added_at": "2025-05-23 04:00:49",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 261453,
+      "name": "Disco de Oro",
+      "url": "https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI"
+    },
+    {
+      "added_at": "2025-05-23 04:00:49",
+      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 261453,
-      "name": "Disco de Oro",
-      "url": "https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI"
     },
     {
       "added_at": "2025-05-23 04:00:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
         "name": "maracuy\u00e1",
         "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 138500,
       "name": "maracuy\u00e1",
       "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
+    },
+    {
+      "added_at": "2025-05-23 04:00:49",
+      "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2025-05-23 04:00:49",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2025-05-23 04:00:49",
+      "album": {
         "name": "Levitando Lento",
         "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
       },
@@ -1255,34 +1271,18 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
-        "name": "Te conoc\u00ed",
-        "url": "https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6"
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
         }
       ],
-      "duration_ms": 208332,
-      "name": "Te conoc\u00ed",
-      "url": "https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2025-05-23 04:00:49",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
+    },
+    {
+      "added_at": "2025-05-23 04:00:49",
+      "album": {
         "name": "Volver A Empezar",
         "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
       },
@@ -1319,34 +1335,18 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+        "name": "Te conoc\u00ed",
+        "url": "https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6"
       },
       "artists": [
         {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+      "duration_ms": 208332,
+      "name": "Te conoc\u00ed",
+      "url": "https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a"
     },
     {
       "added_at": "2025-05-23 04:00:49",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-05-23 04:00:49",
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
+    },
+    {
+      "added_at": "2025-05-23 04:00:49",
+      "album": {
         "name": "inigualable",
         "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 178645,
       "name": "inigualable",
       "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
-    },
-    {
-      "added_at": "2025-05-23 04:00:49",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
     },
     {
       "added_at": "2025-05-23 04:00:49",

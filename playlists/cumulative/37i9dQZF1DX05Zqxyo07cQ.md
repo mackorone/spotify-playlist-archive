@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-796 songs - 1 day 14 hr 40 min
+798 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Novation](https://open.spotify.com/track/04UlDODpopyY0bZ6rhJtXB) | [Abi Burkholder](https://open.spotify.com/artist/1sVWQGvblGt6xTMFwIT6Ta) | [Novation](https://open.spotify.com/album/0CCRyVo2yblONJcn10hTRV) | 2:57 | 2024-05-04 | 2025-01-23 |
 | [Nox](https://open.spotify.com/track/2l5RGPbH2eq93zMytmGZ4n) | [Esotherum](https://open.spotify.com/artist/2UMsy6qAcmjU3yYbTSJuwb) | [Nox](https://open.spotify.com/album/133wimkpma9DpRyIEgS5dV) | 2:46 | 2025-02-04 | 2025-06-26 |
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2023-03-23 | 2024-03-21 |
-| [Numerical](https://open.spotify.com/track/0YA68VQfQbe28MYoFauwIp) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Numerical](https://open.spotify.com/album/4nZK9I62hhmcUPCMtIKaTl) | 2:57 | 2025-01-08 |  |
+| [Numerical](https://open.spotify.com/track/0YA68VQfQbe28MYoFauwIp) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Numerical](https://open.spotify.com/album/4nZK9I62hhmcUPCMtIKaTl) | 2:57 | 2025-01-08 | 2025-08-03 |
 | [Numfashi](https://open.spotify.com/track/5IaczaQu93vHKEnrS1WVyo) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Numfashi](https://open.spotify.com/album/6MN3rLXKNFMSbXhLRdoyLF) | 3:15 | 2023-03-23 | 2024-02-09 |
 | [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 | 2023-03-23 | 2024-05-21 |
 | [Nyugalom](https://open.spotify.com/track/235v7dHl1bUhimWpF0rGT4) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Nyugalom](https://open.spotify.com/album/5TfVZpufvjjQRm758oCRa8) | 3:13 | 2023-03-23 | 2023-09-01 |
@@ -563,7 +563,7 @@
 | [Quiescence](https://open.spotify.com/track/0rHeQqMBDmxvatRfwKePNl) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Quiescence](https://open.spotify.com/album/7xihxBicgKRqZ9ZGUiSln4) | 3:37 | 2025-04-23 |  |
 | [Quiet](https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Quiet](https://open.spotify.com/album/5lyWODszd0IhEWQb8bVkj8) | 3:05 | 2024-12-03 | 2025-05-28 |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2023-03-23 | 2024-02-09 |
-| [Quiet Eternity](https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Quiet Eternity](https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr) | 3:17 | 2024-12-17 |  |
+| [Quiet Eternity](https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Quiet Eternity](https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr) | 3:17 | 2024-12-17 | 2025-08-03 |
 | [Quiet Lights](https://open.spotify.com/track/24AJr6RHcOOQG2dobtxFi4) | [Marzell Fischer](https://open.spotify.com/artist/0RzYpNqdYSyg9P4PtKlO1s) | [Quiet Lights](https://open.spotify.com/album/1nB1Z0e3yKPyXDlp5YLI4G) | 2:19 | 2023-03-23 | 2024-03-21 |
 | [Quietness](https://open.spotify.com/track/27ZLSp1tyjQQpm4doIhFCY) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Quietness](https://open.spotify.com/album/7qBTeldiyet58KcNxEgbav) | 2:54 | 2024-07-09 | 2025-05-22 |
 | [Radiance](https://open.spotify.com/track/2dE7f4gdVvdP6l5PBpBhYf) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Radiance](https://open.spotify.com/album/3WoRPqPIJnQZf5LlsHAHd5) | 2:58 | 2024-02-08 | 2024-07-27 |
@@ -699,6 +699,7 @@
 | [Still Night](https://open.spotify.com/track/7yBHqccP3VHJTp6gvGm4tb) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Still Night](https://open.spotify.com/album/1I4JE8UxNFwCnM3voFRq8i) | 2:57 | 2025-03-05 | 2025-06-26 |
 | [Stillheten](https://open.spotify.com/track/45NfL9LFXSj9WpuHkfixOR) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Stillheten](https://open.spotify.com/album/2UiL0eVQ2zO02S9vyxoCEZ) | 2:34 | 2023-03-23 | 2024-03-21 |
 | [Stillness](https://open.spotify.com/track/6cn3ydXeMViI9FKbvU5yC6) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Stillness](https://open.spotify.com/album/1tFhGEgEpA4bkmdYp2zYQ3) | 2:30 | 2023-03-23 | 2024-01-18 |
+| [Stillwater](https://open.spotify.com/track/6GdxSpl3FY43E6IkHEpWrU) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [Stillwater](https://open.spotify.com/album/7DUldEFJ5S2zN00a3RpmKi) | 2:40 | 2025-07-24 |  |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2023-03-23 | 2024-02-09 |
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [Storm](https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Storm](https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU) | 2:36 | 2024-02-08 | 2024-08-04 |
@@ -789,6 +790,7 @@
 | [Waves of Eternity](https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Waves of Eternity](https://open.spotify.com/album/2msrHKpBqJ4BGr1Vs4yEH9) | 2:40 | 2025-01-08 | 2025-06-25 |
 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2023-03-23 | 2023-10-05 |
 | [Weightless Dreams](https://open.spotify.com/track/3ruyqcT2OOhu1RjNRxdvt5) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Weightless Dreams](https://open.spotify.com/album/3d2qBapHwvc0BVRDzyicWL) | 3:13 | 2025-07-09 |  |
+| [Weightless Hours](https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS) | [Dreamhaven](https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z) | [Weightless Hours](https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr) | 2:35 | 2025-07-24 |  |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 | 2023-03-23 | 2023-05-06 |
 | [When we looked at the stars](https://open.spotify.com/track/2P8PPvipvkSK2iHsuqR27H) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 3:21 | 2023-03-23 | 2024-03-21 |

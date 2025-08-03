@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,961 likes - 105 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,000 likes - 105 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 104 | [Song for her](https://open.spotify.com/track/0ezGSiP56OzbGTjLQPYqSg) | [Nacho Sotomayor](https://open.spotify.com/artist/4uRLIC5uQs3CzTq7jEcrzJ) | [Time out](https://open.spotify.com/album/0p60DWfZ8j58uv5XeSZaZn) | 4:48 |
 | 105 | [Postlude](https://open.spotify.com/track/5crPCHLCUKTbUulzyR9BVT) | [Memory Pearl](https://open.spotify.com/artist/22jqaoK0HsEXfo8CyEelic), [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [Mas Aya](https://open.spotify.com/artist/3PQ5l1cwp95tCwIgynN7VW) | [Cosmic\-Astral](https://open.spotify.com/album/2uNHKmW4OA06uSyQHtTmcj) | 5:56 |
 
-Snapshot ID: `aHDiKgAAAADdIxdkbt7G2QsOiD3HBu4n`
+Snapshot ID: `AAAAALu++q9nHDX0QyzfJhA6MhZefZRI`

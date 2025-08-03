@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 180059,
+  "num_followers": 180131,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Don't Forget Me (When I'm Gone)",
-        "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
-      },
-      "artists": [
-        {
-          "name": "Les Crossaders",
-          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
-        },
-        {
-          "name": "Julie Benson",
-          "url": "https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Song Like Ours",
         "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 298549,
       "name": "Song Like Ours",
       "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Don't Forget Me (When I'm Gone)",
+        "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
+      },
+      "artists": [
+        {
+          "name": "Les Crossaders",
+          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
+        },
+        {
+          "name": "Julie Benson",
+          "url": "https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Sugilite",
         "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 278961,
       "name": "Sugilite",
       "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
-      },
-      "artists": [
-        {
-          "name": "Francesca Castro",
-          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
-        }
-      ],
-      "duration_ms": 394997,
-      "name": "Cup of Tea",
-      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Midnight Jones",
         "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 233173,
       "name": "Peace - First Sessions Demo",
       "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
+      },
+      "artists": [
+        {
+          "name": "Francesca Castro",
+          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
+        }
+      ],
+      "duration_ms": 394997,
+      "name": "Cup of Tea",
+      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "No Meanness",
-        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 238524,
-      "name": "No Meanness",
-      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "\u00e0 Fleur de Peau",
         "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 258900,
       "name": "Inside and Out",
       "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "No Meanness",
+        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 238524,
+      "name": "No Meanness",
+      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
-      },
-      "artists": [
-        {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
-        }
-      ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Chamomile Tea",
         "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 252261,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
+      },
+      "artists": [
+        {
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
+        }
+      ],
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
-      },
-      "artists": [
-        {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
-        }
-      ],
-      "duration_ms": 235539,
-      "name": "Love is Easy",
-      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "A Bridge",
         "url": "https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 243666,
       "name": "A Bridge",
       "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+      },
+      "artists": [
+        {
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+        }
+      ],
+      "duration_ms": 235539,
+      "name": "Love is Easy",
+      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
     },
     {
       "added_at": "2025-05-18 18:29:44",

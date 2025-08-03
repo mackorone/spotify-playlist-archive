@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 7220,
+  "num_followers": 7240,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAvDTwa2DQZpbC4o3H3HnVi",
+  "snapshot_id": "aIwDgAAAAADVyDhTUmjxphasOOU//5k0",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LVRS PARADISE (SIDE A)",
-        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
       "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 150038,
-      "name": "SEARCHING",
-      "url": "https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98"
+      "duration_ms": 123319,
+      "name": "You, The World Vs Me",
+      "url": "https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK"
     },
     {
       "added_at": null,
@@ -203,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thoughts I Never Said",
-        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+        "name": "LVRS PARADISE (SIDE A)",
+        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
       },
       "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 123319,
-      "name": "You, The World Vs Me",
-      "url": "https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK"
+      "duration_ms": 150038,
+      "name": "SEARCHING",
+      "url": "https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98"
     },
     {
       "added_at": null,

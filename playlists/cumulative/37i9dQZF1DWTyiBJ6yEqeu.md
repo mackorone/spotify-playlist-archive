@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-939 songs - 1 day 22 hr 18 min
+940 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [BM \(London View\)](https://open.spotify.com/track/2swRdG3vAk5bYBR3oSf1cg) | [OTP](https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI) | [BM \(London View\)](https://open.spotify.com/album/4oB0i1S43BE1uM7eopeurT) | 2:44 | 2022-04-02 | 2022-07-29 |
 | [Body](https://open.spotify.com/track/21spcb4suSZ50YET9ydYbE) | [Redda](https://open.spotify.com/artist/2iX9KbdYoshOwrGXDVqurh) | [DS3](https://open.spotify.com/album/6gSNazcfe8nTzklcO0NUUW) | 1:34 | 2022-01-14 | 2022-01-20 |
 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 | 2021-11-10 | 2022-02-05 |
-| [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-05-20 |  |
+| [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-05-20 | 2025-08-03 |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2024-03-22 | 2024-03-27 |
 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 | 2024-08-20 | 2024-09-07 |
 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 | 2021-08-20 | 2022-01-15 |
@@ -410,6 +410,7 @@
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-12-27 | 2025-03-28 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-04-02 | 2022-08-17 |
 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 | 2022-01-14 | 2022-01-29 |
+| [Im Doing Fine](https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG) | [Im Doing Fine](https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb) | 1:39 | 2025-07-28 |  |
 | [Immortal](https://open.spotify.com/track/5dcmm8ZvXDQMm24jqf4fS9) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Immortal](https://open.spotify.com/album/2ZkupRKYhxuZ2mZoSD7ADf) | 3:03 | 2022-03-18 | 2022-07-09 |
 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 | 2022-07-22 | 2022-11-07 |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-11-18 | 2023-05-04 |

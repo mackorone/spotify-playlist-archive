@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Rowma & CDobleta
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,309 likes - 180 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,311 likes - 180 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

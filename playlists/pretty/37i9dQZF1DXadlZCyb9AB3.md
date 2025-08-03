@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,180 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,224 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 49 | [Dress](https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo) | 3:18 |
 | 50 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 51 | [Just My Kind](https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:51 |
-| 52 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
-| 53 | [A Living Human Girl](https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 2:37 |
+| 52 | [A Living Human Girl](https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 2:37 |
+| 53 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
 | 54 | [Glass House](https://open.spotify.com/track/1luXZ3wGajUSfwMs24Izvp) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 3:44 |
 | 55 | [Where's My Wife](https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Willow](https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0) | 3:48 |
 | 56 | [Where the Girls Are](https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [That's Not What I Heard](https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf) | 1:44 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 87 | [Drive](https://open.spotify.com/track/1Bu4dpaiLJBugBfI2yrmJ7) | [Mere Women](https://open.spotify.com/artist/3VhrdhymJTzDnVEbXwkkJb) | [Drive](https://open.spotify.com/album/3b9w0oFof58xtgknc3wMPW) | 3:13 |
 | 88 | [Half Girl Half Rant](https://open.spotify.com/track/7f1yOiKyYUasPVR4LvsCVT) | [Chloe Le Fay](https://open.spotify.com/artist/2t2MJihJl9u08jj4N6dV16) | [Riot Grrrls and Kinder Whores](https://open.spotify.com/album/7EHVHN11h03RcqnDUQ1Twp) | 2:27 |
 | 89 | [Cannonball](https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61) | 3:33 |
-| 90 | [Celebrity Skin](https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj) | 2:42 |
-| 91 | [Second Skin](https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching the Bully](https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO) | 2:57 |
+| 90 | [Second Skin](https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching the Bully](https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO) | 2:57 |
+| 91 | [Celebrity Skin](https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj) | 2:42 |
 | 92 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 |
 | 93 | [Cute Boy Discount](https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1) | [Cold Cold Hearts](https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa) | [Cold Cold Hearts](https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod) | 3:17 |
 | 94 | [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 |

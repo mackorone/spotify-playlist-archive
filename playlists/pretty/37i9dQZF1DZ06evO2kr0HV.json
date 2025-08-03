@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 39985,
+  "num_followers": 39989,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAHzDAmNpYZYxpQ4Q91udhf",
+  "snapshot_id": "aIwDgAAAAAAEfHSpo6VpNuGCWx78orWD",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1o C\u00edtrico",
-        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
       "artists": [
         {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 202538,
-      "name": "Vencimiento",
-      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
     },
     {
       "added_at": null,
@@ -435,22 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00edstica",
-        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+        "name": "Sue\u00f1o C\u00edtrico",
+        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         },
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 232693,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+      "duration_ms": 202538,
+      "name": "Vencimiento",
+      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
     },
     {
       "added_at": null,

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,582 likes - 53 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,815 likes - 53 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 2 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 | 3 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
-| 4 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
-| 5 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
+| 4 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
+| 5 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 6 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 7 | [Qué Motor](https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Qué Motor](https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f) | 3:07 |
 | 8 | [Favourite Daughter](https://open.spotify.com/track/6FRKxwDHTDGr1lqQ0SEprH) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:28 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 28 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 |
 | 29 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 |
 | 30 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 |
-| 31 | [Deep Diving](https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Deep Diving](https://open.spotify.com/album/26TkLAiSMFSbKFXiveepTM) | 3:22 |
-| 32 | [Lucky stars](https://open.spotify.com/track/2L16wVFRt6cJeyIdVQs6U0) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 3:18 |
+| 31 | [Lucky stars](https://open.spotify.com/track/2L16wVFRt6cJeyIdVQs6U0) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 3:18 |
+| 32 | [Deep Diving](https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Deep Diving](https://open.spotify.com/album/26TkLAiSMFSbKFXiveepTM) | 3:22 |
 | 33 | [talk](https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [talk](https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx) | 2:40 |
 | 34 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 |
 | 35 | [gbesoke](https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [gbesoke](https://open.spotify.com/album/79TzsN0X2I2O4khudMIslP) | 4:15 |

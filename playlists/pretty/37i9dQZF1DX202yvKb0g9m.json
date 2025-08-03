@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 139685,
+  "num_followers": 139734,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "In Gold",
-        "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
-      },
-      "artists": [
-        {
-          "name": "Palms Trax",
-          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
-        }
-      ],
-      "duration_ms": 379695,
-      "name": "Sumo Acid Crew",
-      "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Probl\u00e8mes D'amour (All Versions)",
         "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 420653,
       "name": "Probl\u00e8mes d'Amour - Original",
       "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "In Gold",
+        "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
+      },
+      "artists": [
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        }
+      ],
+      "duration_ms": 379695,
+      "name": "Sumo Acid Crew",
+      "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
     },
     {
       "added_at": "2024-07-10 08:16:23",

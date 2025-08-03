@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,893 likes - 72 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,891 likes - 72 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 71 | [High Feeling](https://open.spotify.com/track/4LQDhX6UiJpTVxY0gdrBsW) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [High Feeling](https://open.spotify.com/album/5wLA13oULyZXO8MS56sCKg) | 2:57 |
 | 72 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 |
 
-Snapshot ID: `AAAAAIi+NnyM6UD+xlXygxpIe6mU8eHx`
+Snapshot ID: `aHnGywAAAABpi4HQ4GJeq2d53ixPy22R`

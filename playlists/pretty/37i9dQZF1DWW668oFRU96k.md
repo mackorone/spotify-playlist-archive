@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: R3HAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,472 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,491 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 17 min
+73 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bien Pilas \- En Vivo](https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Bien Pilas \(En Vivo\)](https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg) | 1:58 | 2024-08-08 |  |
 | [Botecitos Destapando \- En Vivo](https://open.spotify.com/track/7j2U6s8PNveSUBwDJfFz5v) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Meño Leon](https://open.spotify.com/artist/0D6qB7uGf9am07RDPCzeZ8) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 | 2024-08-08 | 2025-07-19 |
 | [Bsod3](https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Bsod3](https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx) | 3:14 | 2024-08-25 |  |
-| [Canchame](https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Canchame](https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr) | 3:30 | 2024-08-08 |  |
+| [Canchame](https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Canchame](https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr) | 3:30 | 2024-08-08 | 2025-08-03 |
 | [Chavalo Serio \- En Vivo](https://open.spotify.com/track/3xqtqir31h4pU9InbaIYS8) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:07 | 2024-08-08 | 2024-11-05 |
 | [Culichi Vibes](https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Culichi Vibes](https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS) | 3:09 | 2024-10-11 |  |
 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 | 2024-08-08 |  |
@@ -77,6 +77,7 @@
 | [Tiempo Duros](https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:44 | 2024-08-08 |  |
 | [Tirando Barra \- En Vivo](https://open.spotify.com/track/3eACDMVDI0gidg5P8dfTpM) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:42 | 2024-08-14 | 2024-10-25 |
 | [TOMORROWLAND](https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [TOMORROWLAND](https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD) | 3:05 | 2024-08-08 |  |
+| [Tonto](https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Tonto](https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo) | 3:06 | 2025-08-03 |  |
 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 | 2025-02-23 |  |
 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 | 2024-08-08 |  |
 | [Ya Tocó \- En Vivo](https://open.spotify.com/track/5aszJrVkcABWGnFgIWKA61) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:24 | 2024-08-14 | 2024-10-23 |

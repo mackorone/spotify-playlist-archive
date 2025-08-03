@@ -1,6 +1,6 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 95802,
+  "num_followers": 95813,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 161506,
       "name": "The Next Episode",
       "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Country Grammar (Hot Shit)",
+      "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "Magic In The Hamptons (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 164640,
       "name": "Magic In The Hamptons (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Country Grammar (Hot Shit)",
-      "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "finding it hard to smile",
-        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
       },
       "artists": [
         {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 204878,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
+      "duration_ms": 166890,
+      "name": "911",
+      "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
     }
   ],
   "unique_name": "Bachelor Party",

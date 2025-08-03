@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 
 > Los corridos más placosos que suenan en las calles\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,866 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629,702 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 | 49 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 50 | [La P\-90](https://open.spotify.com/track/1nMXGIFXA2bWyuqv3Q283w) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [La P\-90](https://open.spotify.com/album/3f35t7f5GYuB54jTLW29We) | 1:55 |
 
-Snapshot ID: `AAAAADJPAiogaeKowtPKhuVxfzhUSEBo`
+Snapshot ID: `aGdt6gAAAABCKfXkLeyuiVblpppsTuGw`

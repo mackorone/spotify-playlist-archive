@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Yeat, Metro Boomin, $uicideboy$ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,851 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,105 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 1 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 2 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 |
 | 3 | [I Need You](https://open.spotify.com/track/7iO8WUyCk622uHH7Tsc1SR) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [I Need You](https://open.spotify.com/album/1jmMTlleuRerK278uU9CK9) | 3:10 |
 | 4 | [Carried Away \(feat\. Night Lovell\)](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Weight On Me](https://open.spotify.com/track/7eueMnnCN0P85k2XB2kT9f) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [Swaggyono](https://open.spotify.com/artist/2eth98H0ggjeX0fPe1Aqvn) | [Weight On Me](https://open.spotify.com/album/2r6LY2IFVptHJZ5Pfknqkq) | 2:26 |
 | 50 | [40 Doors](https://open.spotify.com/track/03CBYseqfLSqzUXhRuJZqR) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [40 Doors](https://open.spotify.com/album/50mql4nHa72ylubgL32the) | 3:02 |
 
-Snapshot ID: `aIw76gAAAABdmF0B+p/YODMRtAO5Rq6t`
+Snapshot ID: `AAAAAHFzTtJmmaKYa/OIt08nYxplFlOK`

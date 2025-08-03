@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,509 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,518 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 30 | [Los Traficantes](https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:33 |
 | 31 | [Las Dos Plebes](https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:35 |
 | 32 | [La Feria de San Marcos](https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 2:46 |
-| 33 | [Ya No Te Vayas](https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:41 |
-| 34 | [El Corrido del Sinaloense](https://open.spotify.com/track/00Mq1N2k27InpqmS4RYpAt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos Prohibidos](https://open.spotify.com/album/43CoM6wSuOhcM53wTGpu8Q) | 3:11 |
+| 33 | [El Corrido del Sinaloense](https://open.spotify.com/track/00Mq1N2k27InpqmS4RYpAt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos Prohibidos](https://open.spotify.com/album/43CoM6wSuOhcM53wTGpu8Q) | 3:11 |
+| 34 | [Ya No Te Vayas](https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:41 |
 | 35 | [Sin Permiso Para Amarte](https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [De Aquí Pa'l Real](https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D) | 4:06 |
 | 36 | [Mayor de Edad](https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mayor de Edad](https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic) | 3:59 |
 | 37 | [Pa'que Me Sirve la Vida](https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 49 | [Hasta Mi Último Día](https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro \("45 Aniversario" \- Relanzamiento\)](https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ) | 2:34 |
 | 50 | [Entre Perico y Perico](https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:02 |
 
-Snapshot ID: `aIqyAAAAAADxgFbK+2pVxHBv3ZvOq0Zu`
+Snapshot ID: `aIwDgAAAAACUtHjEZ7b7vCBcFMl986O/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: HEYOON\(혜윤\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,223 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,285 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 |
 | 50 | [사랑인가 봐 Love, Maybe](https://open.spotify.com/track/7KU3A1fotuV0GXY1doHFT8) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:05 |
 
-Snapshot ID: `aItAKQAAAAC/T1dQtpc4/tnUpn7dlVCR`
+Snapshot ID: `AAAAAHQ9a5mTDJ/oZ064O6Jpd5OvqS9k`

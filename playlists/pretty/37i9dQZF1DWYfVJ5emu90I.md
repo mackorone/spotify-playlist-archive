@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,457 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,469 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 34 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |
 | 35 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
 | 36 | [Talk 2 Me](https://open.spotify.com/track/62mAKN9Ntrp9MFjBrbuTps) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:02 |
-| 37 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 |
-| 38 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
+| 37 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
+| 38 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 |
 | 39 | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 |
 | 40 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 41 | [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,676 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,699 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 22 | [Awuke](https://open.spotify.com/track/6erurkBpnedevTPib23gid) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:52 |
 | 23 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
 | 24 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 |
-| 25 | [Electricity](https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 2:12 |
-| 26 | [Risky](https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:30 |
-| 27 | [Nwa Baby](https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Nwa Baby](https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn) | 3:42 |
-| 28 | [One Ticket](https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:28 |
+| 25 | [Risky](https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:30 |
+| 26 | [Electricity](https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 2:12 |
+| 27 | [One Ticket](https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:28 |
+| 28 | [Nwa Baby](https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Nwa Baby](https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn) | 3:42 |
 | 29 | [Gobe](https://open.spotify.com/track/3d1aboWNpT2UYajHpbRExQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/6KjWnuW1bcexQkKuG8W4HK) | 3:49 |
 | 30 | [Blow My Mind](https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:19 |
 | 31 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 |
 | 50 | [Doe](https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Doe](https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP) | 4:02 |
 
-Snapshot ID: `aIqyAAAAAAAL2vEeUkHwCZ3PKY3Kchbz`
+Snapshot ID: `aIwDgAAAAABRxo9+rQQg7ask9v52gth1`

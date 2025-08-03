@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 60348,
+  "num_followers": 60356,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABIbRYjwNGZCe2DYtOcZ5vl",
+  "snapshot_id": "aIwDgAAAAAC3wQPHvjS3YeJMqZsppJlq",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+        "url": "https://open.spotify.com/album/6B90EJpSGFOJeTvAq8KWiA"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
+      "url": "https://open.spotify.com/track/6beSKm10DXDnYtOYnJ8dSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
       },
@@ -499,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-        "url": "https://open.spotify.com/album/6B90EJpSGFOJeTvAq8KWiA"
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
       },
       "artists": [
         {
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
-      "url": "https://open.spotify.com/track/6beSKm10DXDnYtOYnJ8dSG"
+      "duration_ms": 141773,
+      "name": "Tush",
+      "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
     },
     {
       "added_at": null,
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
       },
       "artists": [
         {
@@ -540,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 141773,
-      "name": "Tush",
-      "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
+      "duration_ms": 213666,
+      "name": "Roadrunner",
+      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
       "duration_ms": 247470,
       "name": "I Hate Myself For Loving You",
       "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Roadrunner",
-      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 182413,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Music",
         "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 139173,
       "name": "Fun, Fun, Fun",
       "url": "https://open.spotify.com/track/2UVOE5RJFc3Pd9dMA9U6kv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Good Music",
+      "url": "https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 188880,
       "name": "Fake Friends (feat. Joan Jett)",
       "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Good Music",
-      "url": "https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL"
     },
     {
       "added_at": null,

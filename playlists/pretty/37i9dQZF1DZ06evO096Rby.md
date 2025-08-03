@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,328 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,413 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 47 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 |
 | 48 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 |
 | 49 | [Se Cansó \- En Vivo](https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Se Cansó \(En Vivo\)](https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM) | 3:14 |
-| 50 | [La Bronco Raptor](https://open.spotify.com/track/763c8f06SuDgOhCSzlPv92) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Bronco Raptor](https://open.spotify.com/album/1wvNskhYrVLbNd6UNk3SfB) | 3:38 |
+| 50 | [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 |
 
-Snapshot ID: `aIqyAAAAAACjB+NnNBB2/4hGymAIuSjB`
+Snapshot ID: `aIwDgAAAAAAjjCD1XtsbEM36ikAtmZSL`

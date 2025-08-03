@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,690 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,708 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 6 | [Take Me to the River \- 2005 Remaster](https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 5:02 |
 | 7 | [And She Was](https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz) | 3:39 |
 | 8 | [Life During Wartime \- 2005 Remaster](https://open.spotify.com/track/7CqleiaEqHVazV19P532X9) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:41 |
-| 9 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
-| 10 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 |
+| 9 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 |
+| 10 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
 | 11 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 |
 | 12 | [Burning Down the House \- 2005 Remaster](https://open.spotify.com/track/3yO1OjqT59JyjHaQZcCYDX) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:01 |
 | 13 | [Wild Wild Life](https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [True Stories](https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 49 | [Big Business / I Zimbra \(Live\) \- 2023 Remaster](https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Deluxe Edition\) \[Live\]](https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK) | 7:23 |
 | 50 | [Memories Can't Wait \- 2005 Remaster](https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:30 |
 
-Snapshot ID: `aIqyAAAAAADFdMkaP8I4GAyUsfS+g/3x`
+Snapshot ID: `aIwDgAAAAAAXPGbon4FeAg3no331wRSS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Valerieblud
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,172 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,248 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 31 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
 | 32 | [Moon](https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:00 |
 | 33 | [Doberwoman](https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/4AsflFTM4l2rAdiIBii1TP) | 2:58 |
-| 34 | [Iori 7](https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 7](https://open.spotify.com/album/2Ey9s66K9xVd6eqVyOMAVv) | 2:46 |
-| 35 | [Head&Shoulders](https://open.spotify.com/track/3GWp8k6UYutdqAeKgSsVpq) | [Obito.Triple3](https://open.spotify.com/artist/7asvA6Yz9cItmIbt2HNUPQ), [Villain](https://open.spotify.com/artist/1i27pFc4SeQb0dgzelooMn), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ZETSU](https://open.spotify.com/album/1dOSiwqVdpeHeENILhIKNS) | 1:58 |
+| 34 | [Salt Bae](https://open.spotify.com/track/2GKH59rHgueXliY1onqFNe) | [Obito.Triple3](https://open.spotify.com/artist/7asvA6Yz9cItmIbt2HNUPQ) | [Bebetoo](https://open.spotify.com/album/70mZzNalKFl2YmDrTmApR8) | 2:22 |
+| 35 | [Iori 7](https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 7](https://open.spotify.com/album/2Ey9s66K9xVd6eqVyOMAVv) | 2:46 |
 | 36 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
 | 37 | [Money Cash](https://open.spotify.com/track/37enI5HLEliszFasVgpjlz) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 2:50 |
-| 38 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
-| 39 | [Tou7chtk](https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 2:47 |
+| 38 | [Tou7chtk](https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 2:47 |
+| 39 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
 | 40 | [No Love](https://open.spotify.com/track/75EsRQtLXd1p3sZnCqYGtj) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 |
 | 41 | [GALÈRE](https://open.spotify.com/track/5CCjNFx5hkx3GfRdux4DDQ) | [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [GALÈRE](https://open.spotify.com/album/3wmwLmLOPGjhyRmPPDJ5Hd) | 3:17 |
 | 42 | [Sabrine](https://open.spotify.com/track/2pl7M15413P7S23MWadlee) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Sabrine](https://open.spotify.com/album/7F8AGhPRsETl0HApPPhFLK) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Kolla Sa3a](https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Kolla Sa3a](https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV) | 2:31 |
 | 50 | [Yasuke](https://open.spotify.com/track/0ksL1aTNLTYKWSjCw19heM) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [TPS](https://open.spotify.com/album/5wnB3WsAiqAiH30W8lUVqP) | 5:41 |
 
-Snapshot ID: `aIwD5QAAAAAkAg5st4dJRd0lK9l1s/kq`
+Snapshot ID: `AAAAAHZlJGPwAvNmggVDXyr0IqiFblnv`

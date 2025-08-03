@@ -4,9 +4,29 @@ pretty - [cumulative](/playlists/cumulative/3yJ2wQ1ihDY9WiuckiFwRz.md) - [plain]
 
 > 
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 26 likes - 0 song - 0 sec
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 26 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
+| 1 | [fragments of your presence](https://open.spotify.com/track/0mYw7Se3zNLlTVQwwWrCdq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [fragments of your presence](https://open.spotify.com/album/1dv9nkQRXLJOwLShUvxuiP) | 2:52 |
+| 2 | [falling into place \(the cat's out!\)](https://open.spotify.com/track/74XYX1aXsDJYbbVXed7CWO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [falling into place \(the cat's out!\)](https://open.spotify.com/album/7c1VHKmc6CjVsXeklEcow9) | 3:06 |
+| 3 | [Need to know \(interlude\)](https://open.spotify.com/track/4pQghLNZWaZGGRYjd9z0Fq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Tell me!! with Need to know \(interlude\)](https://open.spotify.com/album/6sNO1w7Zpng9whJLeSiHQs) | 2:17 |
+| 4 | [Wings!!!](https://open.spotify.com/track/6gPt5C0jGGI97i7TzxHrOg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Wings!!!](https://open.spotify.com/album/3JQhE583coEBImqn82h1Du) | 3:42 |
+| 5 | [secrets \- natural accent version](https://open.spotify.com/track/0n0NOHtckswKyJWlP3r7aj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 |
+| 6 | [secrets](https://open.spotify.com/track/2PSuXiDUKWNBrsNBJegXF2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 |
+| 7 | [secrets \- instrumental](https://open.spotify.com/track/5DN9xEZw2BKshKCTYkokba) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 |
+| 8 | [Give it up](https://open.spotify.com/track/61SSsw33TH5Vmsj8VBsObe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [scrubi](https://open.spotify.com/artist/4Mz7QIwe9O2ZXzpDWIwNWu) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:04 |
+| 9 | [Tell me!!](https://open.spotify.com/track/0pLAxdzTL52Q4g9RvTb3Fl) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:13 |
+| 10 | [Need to know \- interlude](https://open.spotify.com/track/2lCCGZn7AVqAF36VKx9mlR) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:12 |
+| 11 | [Secrets\_album\_ver.wav!](https://open.spotify.com/track/2nfBvGCsdZbIHdnQhSPNMZ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:36 |
+| 12 | [Out of stock \(Do what you gotta!\)](https://open.spotify.com/track/5qDDpvcDmO4oqlkp5H2xab) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:44 |
+| 13 | [Wings!!!](https://open.spotify.com/track/0UudX2HUm3SEmpDuXSpNGC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:37 |
+| 14 | [Daggers](https://open.spotify.com/track/1SYcBqrTEG51ZsGQsiQeOd) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:30 |
+| 15 | [Icarus](https://open.spotify.com/track/74pY6EUBcsWNOj5th9AQyz) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:42 |
+| 16 | [Break my brain](https://open.spotify.com/track/5Q1uk3w1MaVfb6zvvkL2L5) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:58 |
+| 17 | [Choker](https://open.spotify.com/track/6tigrODGaiHxWcHbojaQOm) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:53 |
+| 18 | [Fragments of your presence](https://open.spotify.com/track/4zuHLGBZ1IFvOnGSTY5aFe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:50 |
+| 19 | [haunting](https://open.spotify.com/track/44qerQcxwwrUYdAqMtCi8W) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:47 |
+| 20 | [Stay true](https://open.spotify.com/track/5R9Pt8Phy3yaTeEsfzS4GA) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 4:08 |
 
 Snapshot ID: `AAAADi3sEPsfUVmOlm580x0dte8oMnlA`

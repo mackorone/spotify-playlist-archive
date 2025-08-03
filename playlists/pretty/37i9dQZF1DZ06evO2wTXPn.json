@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31660,
+  "num_followers": 31661,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADaly68Zw/hvOHthEwnn8+/",
+  "snapshot_id": "aIwDgAAAAACmMtAaYAQ4a5oI43fnziwb",
   "tracks": [
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00f3rrame",
-        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "B\u00f3rrame",
-      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
         "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 173720,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B\u00f3rrame",
+        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "B\u00f3rrame",
+      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
     },
     {
       "added_at": null,

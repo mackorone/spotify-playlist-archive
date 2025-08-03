@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:0uZRjholJ0fVC2J9EvnYnj">Meshell Ndegeocello</a> shares her jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,290 likes - 35 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,299 likes - 35 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 34 | [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 |
 | 35 | [Shopping for Jazz](https://open.spotify.com/track/6WZMuaEkTTUMvNj5QyxAA8) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Comet, Come to Me](https://open.spotify.com/album/1P1pB5OEU2oEofH2T7wLJ5) | 2:45 |
 
-Snapshot ID: `AAAAACbi1k7XSJLmgEOuPpx/QiKs+U/Z`
+Snapshot ID: `aFV/zAAAAAD3gXTd+MHrTuX2M1g8FUY/`

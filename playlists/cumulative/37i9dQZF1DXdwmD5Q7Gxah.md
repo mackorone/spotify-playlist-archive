@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: boylife
 
-3,472 songs - 7 day 21 hr 35 min
+3,473 songs - 7 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3056,6 +3056,7 @@
 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 | 2022-10-28 | 2023-03-22 |
 | [The Scientist \- Spotify Singles](https://open.spotify.com/track/3yDvl8B6st6XZ67gL9nLNK) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Spotify Singles](https://open.spotify.com/album/0G9aTAmGvg1q1ZWELfLwSQ) | 4:46 | 2024-06-28 | 2024-08-15 |
 | [The Story](https://open.spotify.com/track/1aQqtnz30d2vAG54XFNpu0) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [The Story](https://open.spotify.com/album/6zybPkFNyra328HkPyDOex) | 4:05 | 2020-01-14 | 2020-03-20 |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-02 |  |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-07 | 2024-09-07 |
 | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-22 | 2024-04-16 |
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-07-18 | 2023-08-19 |

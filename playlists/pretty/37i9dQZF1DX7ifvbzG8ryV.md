@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:playlist:37i9dQZF1EFP8Ixo8m8jnE">Ambré</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,163 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,166 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 50 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 |
 
-Snapshot ID: `aIw72gAAAADkGC9GhJEa6oKolm/roCuP`
+Snapshot ID: `AAAAAPX4wUkMAdX/SvyCp+QeBwbJhQ4t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,188 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,182 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 54 | [Last Christmas](https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Last Christmas](https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk) | 3:03 |
 | 55 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
 | 56 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
-| 57 | [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 |
-| 58 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
-| 59 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 |
-| 60 | [Last Christmas \- Techno Remix](https://open.spotify.com/track/0BnZyRDwbkEKyIZKuwoK1r) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1) | [Last Christmas \(Techno Remix\)](https://open.spotify.com/album/72Zzvgn7JbEeUquIXEUwe3) | 2:27 |
+| 57 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
+| 58 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 |
+| 59 | [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 |
+| 60 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
 
 Snapshot ID: `Z32hpQAAAABMbZgxeXK29siQH1gLojbG`

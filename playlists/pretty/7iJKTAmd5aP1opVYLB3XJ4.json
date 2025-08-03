@@ -3,11 +3,828 @@
   "num_followers": 459,
   "original_name": "Morning Rituals",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAAaCvA9/r8A348jV/xIIazgOh3xTRG",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2015-03-16 14:25:11",
+      "album": {
+        "name": "Year in the Kingdom",
+        "url": "https://open.spotify.com/album/7qXQBJrLIr2XRK7IwVkiwt"
+      },
+      "artists": [
+        {
+          "name": "J. Tillman",
+          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Howling Light",
+      "url": "https://open.spotify.com/track/2hoM3Tv2ZwYAi6cI8X6qvF"
+    },
+    {
+      "added_at": "2015-03-16 14:14:29",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1kl17TCIaR1GCVxY2elQOA"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0up48KQvGzMCrgqrfT07i2"
+    },
+    {
+      "added_at": "2015-03-16 14:29:23",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 290786,
+      "name": "Little Lover",
+      "url": "https://open.spotify.com/track/7atukzwVcRwDfzTQwJTvKm"
+    },
+    {
+      "added_at": "2015-04-23 14:13:58",
+      "album": {
+        "name": "Isbells",
+        "url": "https://open.spotify.com/album/7r5q7TFJ9TnRoVUOhYfZRI"
+      },
+      "artists": [
+        {
+          "name": "Isbells",
+          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/3FZp9Dzst1a9cnVJuxxtvH"
+    },
+    {
+      "added_at": "2015-04-23 14:08:43",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2015-03-16 14:17:03",
+      "album": {
+        "name": "Sun Giant",
+        "url": "https://open.spotify.com/album/2CBfjDdstyhyfOaNqLPOwg"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/18ycL9Q5zLDeY9M2Lr3Ozw"
+    },
+    {
+      "added_at": "2015-03-16 14:20:37",
+      "album": {
+        "name": "Muchacho De Lujo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song For Zula",
+      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
+    },
+    {
+      "added_at": "2015-04-23 14:07:31",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "added_at": "2015-03-16 14:23:58",
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "Gone Tomorrow",
+      "url": "https://open.spotify.com/track/5CQHTuNbYlEA4fZdxQ4PMi"
+    },
+    {
+      "added_at": "2015-03-16 18:27:01",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/23LhOaRaK4ZIsMoImdViej"
+    },
+    {
+      "added_at": "2015-03-16 14:28:49",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/27azvkCC6ztGrlwueFcMLW"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/0GvO7Z60uOyFw27NrBj7Y8"
+    },
+    {
+      "added_at": "2015-03-16 14:16:23",
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152626,
+      "name": "Naked As We Came",
+      "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
+    },
+    {
+      "added_at": "2015-04-23 14:08:26",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1nwW3p2Xq5BzSwGccjxWUr"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0kb10fZdI2pvDKY3zc0Gs1"
+    },
+    {
+      "added_at": "2015-03-16 14:28:06",
+      "album": {
+        "name": "Gold in the Shadow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7nydhXIFZjoyJUASiNg1W2"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "duration_ms": 158229,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/7o1sqq09bkaTT1DmE6t52P"
+    },
+    {
+      "added_at": "2015-03-16 18:16:16",
+      "album": {
+        "name": "Gold and Rust",
+        "url": "https://open.spotify.com/album/1i2UKFquAa9QjWi936r05T"
+      },
+      "artists": [
+        {
+          "name": "Lauren Shera",
+          "url": "https://open.spotify.com/artist/4BHgCTlgRJGkP54Ppwsz8R"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Light and Dust",
+      "url": "https://open.spotify.com/track/0dc0urjbYSgbmhdLWSSlP4"
+    },
+    {
+      "added_at": "2015-03-16 14:29:34",
+      "album": {
+        "name": "Cynic's New Year",
+        "url": "https://open.spotify.com/album/32HXUSvlymSKkbIVOAO2nM"
+      },
+      "artists": [
+        {
+          "name": "Horse Feathers",
+          "url": "https://open.spotify.com/artist/0lO2c86rQmrRJArBxgw0v8"
+        }
+      ],
+      "duration_ms": 169733,
+      "name": "A Heart Arcane",
+      "url": "https://open.spotify.com/track/264bH2jUIFmlclwJfpmEk9"
+    },
+    {
+      "added_at": "2015-03-16 14:22:20",
+      "album": {
+        "name": "Boy From The North (ADA / USA)",
+        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
+      },
+      "artists": [
+        {
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "Follow You Anywhere",
+      "url": "https://open.spotify.com/track/5aSOq5UQi3zpQ4VwqpQa4n"
+    },
+    {
+      "added_at": "2015-03-16 14:16:34",
+      "album": {
+        "name": "No Shade in the Shadow of The Cross",
+        "url": "https://open.spotify.com/album/4rNb1ix9vC0YO2hOmY1vNb"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 160881,
+      "name": "No Shade in the Shadow of The Cross",
+      "url": "https://open.spotify.com/track/5qNorWTAF5jRGpd3YshEov"
+    },
+    {
+      "added_at": "2015-03-16 18:19:18",
+      "album": {
+        "name": "Before July: Demos & Unreleased Songs",
+        "url": "https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL"
+      },
+      "artists": [
+        {
+          "name": "Marissa Nadler",
+          "url": "https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ"
+        }
+      ],
+      "duration_ms": 192998,
+      "name": "Leave the Light On - Demo",
+      "url": "https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI"
+    },
+    {
+      "added_at": "2015-03-16 14:29:01",
+      "album": {
+        "name": "Little May",
+        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Boardwalks",
+      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
+    },
+    {
+      "added_at": "2015-03-16 14:26:41",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 384080,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/7e5ce24mVnH7cgt00Zbh6C"
+    },
+    {
+      "added_at": "2015-03-16 18:16:33",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
+    },
+    {
+      "added_at": "2015-03-16 14:31:21",
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 268346,
+      "name": "Let's Be Still",
+      "url": "https://open.spotify.com/track/5IJnj6Um7jVuRPT4WGj1z6"
+    },
+    {
+      "added_at": "2015-04-01 16:41:43",
+      "album": {
+        "name": "Lonesome Dreams",
+        "url": "https://open.spotify.com/album/6zmmMSHLKk3CacdH3SwEGQ"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/33onVefa4PMs8b705pKRGz"
+    },
+    {
+      "added_at": "2015-03-16 14:16:13",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
+    },
+    {
+      "added_at": "2015-03-16 14:26:51",
+      "album": {
+        "name": "Early In The Morning",
+        "url": "https://open.spotify.com/album/40K3xMNKYEmvPdfwtWANN2"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 293800,
+      "name": "We Don't Eat",
+      "url": "https://open.spotify.com/track/3aDzxZK00STXm41wUiuKS2"
+    },
+    {
+      "added_at": "2015-03-16 14:27:22",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD"
+    },
+    {
+      "added_at": "2015-03-16 14:24:20",
+      "album": {
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Middle of the Bed",
+      "url": "https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq"
+    },
+    {
+      "added_at": "2015-03-16 14:18:52",
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
+    },
+    {
+      "added_at": "2015-03-16 14:21:46",
+      "album": {
+        "name": "The Voyager",
+        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "The Voyager",
+      "url": "https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl"
+    },
+    {
+      "added_at": "2015-03-16 14:19:18",
+      "album": {
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
+    },
+    {
+      "added_at": "2015-04-23 14:09:24",
+      "album": {
+        "name": "Wanted on Voyage",
+        "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1yJZwBqTyGTB7mz8nZyiel"
+    },
+    {
+      "added_at": "2015-04-23 14:09:09",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/3GEyBAiogktc1CaROx6ria"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260946,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7Klx6O8TJNqoy8zKZMDfKJ"
+    },
+    {
+      "added_at": "2015-04-23 14:09:15",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/1TIkCvpgUWCpjKOuMVaGZD"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/1MHXTAtfqlRNkGv5g6Ca6q"
+    },
+    {
+      "added_at": "2015-03-16 14:28:24",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Crosses",
+      "url": "https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r"
+    },
+    {
+      "added_at": "2015-03-16 14:23:36",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 128732,
+      "name": "1 2 3 4",
+      "url": "https://open.spotify.com/track/3S5BHm5V5H7XByF931hEU8"
+    },
+    {
+      "added_at": "2015-03-16 14:23:12",
+      "album": {
+        "name": "Brightly Painted One",
+        "url": "https://open.spotify.com/album/7rD8MC9AYKYr9QmeIqzSLS"
+      },
+      "artists": [
+        {
+          "name": "Tiny Ruins",
+          "url": "https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du"
+        }
+      ],
+      "duration_ms": 292120,
+      "name": "Straw into Gold",
+      "url": "https://open.spotify.com/track/1FYDgfkaQOGTmXiA0SUhg3"
+    },
+    {
+      "added_at": "2015-03-16 14:27:43",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 276506,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/3V4GBwxo5UjAAjXbYES3x1"
+    },
+    {
+      "added_at": "2015-03-16 14:31:41",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/4XYtSHEBqUnYbxJ5q3pCze"
+      },
+      "artists": [
+        {
+          "name": "Freelance Whales",
+          "url": "https://open.spotify.com/artist/7ucqItQmz1PCNHBFSbr0ki"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Broken Horse",
+      "url": "https://open.spotify.com/track/5tk34ADx2Z4cAwbKudEafX"
+    },
+    {
+      "added_at": "2015-03-16 14:25:46",
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/1Ib6a1XRZ0vOzFSr2BPiWe"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 319533,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/6FYladMsDCm0wZVHLtBWED"
+    },
+    {
+      "added_at": "2015-03-16 14:30:49",
+      "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Big Black Car",
+      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "added_at": "2015-03-16 18:23:06",
+      "album": {
+        "name": "Kid Face",
+        "url": "https://open.spotify.com/album/66AEans8pbzt5PbtfPcJ0Q"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 313453,
+      "name": "For the Miner",
+      "url": "https://open.spotify.com/track/4UjUUAuORKGitsE6yLax4e"
+    },
+    {
+      "added_at": "2015-03-16 14:20:26",
+      "album": {
+        "name": "Post-War",
+        "url": "https://open.spotify.com/album/0dGHgm63WE9dltjb9LcEsc"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Chinese Translation",
+      "url": "https://open.spotify.com/track/7IJlk42gDKt5dfSSLwtEsp"
+    },
+    {
+      "added_at": "2015-03-16 14:21:19",
+      "album": {
+        "name": "Wild Go",
+        "url": "https://open.spotify.com/album/1F8nZAZYDpmCz4dPRfRLdx"
+      },
+      "artists": [
+        {
+          "name": "Dark Dark Dark",
+          "url": "https://open.spotify.com/artist/3UORxcctdWi6drku1qOrol"
+        }
+      ],
+      "duration_ms": 288080,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4WpXfKBIJdGt38noCw5BTl"
+    },
+    {
+      "added_at": "2015-03-16 18:18:41",
+      "album": {
+        "name": "I See The Sign",
+        "url": "https://open.spotify.com/album/1RYCxAsLgpbYg9Qb4FmztQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        }
+      ],
+      "duration_ms": 254659,
+      "name": "Way Go Lily",
+      "url": "https://open.spotify.com/track/7GbnlFqfvDBvdsESXWJp5r"
+    },
+    {
+      "added_at": "2015-03-16 14:19:32",
+      "album": {
+        "name": "Shallow Grave",
+        "url": "https://open.spotify.com/album/6CwaEwoWhkrNTUk8t5OxBg"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/6oI3Inlpzlik5e7cy4Sdi8"
+    },
+    {
+      "added_at": "2015-03-16 14:17:32",
+      "album": {
+        "name": "Cease To Begin",
+        "url": "https://open.spotify.com/album/4a1jgSYZGMTR6Yp6IiSkbO"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "No One's Gonna Love You",
+      "url": "https://open.spotify.com/track/3LeNQIGi0zwmQm8WShZB95"
+    },
+    {
+      "added_at": "2015-03-16 14:17:46",
+      "album": {
+        "name": "Gorilla Manor",
+        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
+    },
+    {
+      "added_at": "2015-03-16 14:17:17",
+      "album": {
+        "name": "Sun Giant",
+        "url": "https://open.spotify.com/album/2CBfjDdstyhyfOaNqLPOwg"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 134320,
+      "name": "Sun Giant",
+      "url": "https://open.spotify.com/track/2nTitfujvMmOLqoMMG2YPn"
+    },
+    {
+      "added_at": "2015-03-16 14:18:19",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Dirty Paws",
+      "url": "https://open.spotify.com/track/1hxq7kWQnwdhxgpEugBMGk"
+    },
+    {
+      "added_at": "2015-03-16 14:18:00",
+      "album": {
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
+    }
+  ],
   "unique_name": "Morning Rituals",
   "url": "https://open.spotify.com/playlist/7iJKTAmd5aP1opVYLB3XJ4"
 }

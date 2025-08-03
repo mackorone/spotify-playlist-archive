@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 58171,
+  "num_followers": 58229,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADGoRwvJbhmZYKBKP6gGeTb",
+  "snapshot_id": "aIwDgAAAAAC5vzzYwll3ZjSiWWjTEToS",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Show Me Love (with Tyla)",
         "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 176957,
       "name": "Show Me Love (with Tyla)",
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": null,

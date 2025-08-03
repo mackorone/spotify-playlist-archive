@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,013 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,083 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Worst Way](https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:40 |
 | 2 | [Don't Mind If I Do](https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:38 |
-| 3 | [There Was This Girl](https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:14 |
-| 4 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
+| 3 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
+| 4 | [There Was This Girl](https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:14 |
 | 5 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:44 |
 | 6 | [Change My Mind](https://open.spotify.com/track/6puede6hRbNP5SdPmS2PT0) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:19 |
 | 7 | [When She Comes Home Tonight](https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Outlaws Like Us](https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS) | 4:10 |
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 10 | [Hell Of A Way To Go](https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go](https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf) | 2:46 |
 | 11 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 |
 | 12 | [Georgia Time](https://open.spotify.com/track/5XqHOqbjKb7YsQV6f3eGeD) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Georgia Time](https://open.spotify.com/album/0jj8xYfd6vh54BN4PyuWts) | 3:41 |
-| 13 | [Damn Good Day To Leave](https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
-| 14 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 |
+| 13 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 |
+| 14 | [Damn Good Day To Leave](https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
 | 15 | [Pick A Place](https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:59 |
 | 16 | [Hard To Leave](https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:35 |
 | 17 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 21 | [Mississippi Or Me](https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
 | 22 | [I Hope She's Drinkin' Tonight](https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [I Hope She’s Drinkin' Tonight / Get Back Home](https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl) | 3:08 |
 | 23 | [Way Out Here](https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:41 |
-| 24 | [Broken Branches \(feat\. John Anderson, Riley Green\)](https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [John Anderson](https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Broken Branches](https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8) | 3:17 |
-| 25 | [Cowboy In Me \- Acoustic](https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:14 |
+| 24 | [Cowboy In Me \- Acoustic](https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:14 |
+| 25 | [Broken Branches \(feat\. John Anderson, Riley Green\)](https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [John Anderson](https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Broken Branches](https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8) | 3:17 |
 | 26 | [They Don’t Make 'Em Like That No More](https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:15 |
 | 27 | [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 |
 | 28 | [Bury Me In Dixie](https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Bury Me In Dixie](https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 49 | [Put ‘Em On Mine](https://open.spotify.com/track/3IW7ksRFfK7zohn9INq6qU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:00 |
 | 50 | [North On 21](https://open.spotify.com/track/0wQCiHAgUJdlBdRtdrnLFK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Riley Green EP](https://open.spotify.com/album/1m6Vdvu3ttbD1rq0P6Ylvn) | 3:27 |
 
-Snapshot ID: `aIqyAAAAAAD9arQXPrJbg44pP/AOzau/`
+Snapshot ID: `aIwDgAAAAABySCiOBDOID7BuKJb5CZjX`

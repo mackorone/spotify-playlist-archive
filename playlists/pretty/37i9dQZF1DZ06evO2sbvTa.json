@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAD6EgKef6d9Z9Qw2E9f/6dm",
+  "snapshot_id": "aIwDgAAAAAAw3Wovb6k4iF1IaDrkM4pq",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugg King",
-        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "WAKA FLACKA",
-          "url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm"
-        }
-      ],
-      "duration_ms": 149420,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 233725,
       "name": "Do It Big (feat. Future)",
       "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "WAKA FLACKA",
+          "url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm"
+        }
+      ],
+      "duration_ms": 149420,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trap God 2",
         "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 184613,
       "name": "Big Guwap (feat. Young Scooter)",
       "url": "https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
     },
     {
       "added_at": null,

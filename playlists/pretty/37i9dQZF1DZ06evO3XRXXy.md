@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,278 likes - 44 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,299 likes - 44 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 34 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
 | 35 | [Everytime I Close My Eyes \(with Babyface\)](https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 4:58 |
 | 36 | [Besame Mucho](https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 7:11 |
-| 37 | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1) | 2:57 |
-| 38 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
+| 37 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
+| 38 | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1) | 2:57 |
 | 39 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 |
 | 40 | [Jasmine Flower](https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:36 |
 | 41 | [Paradise](https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Paradise](https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr) | 4:14 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 43 | [Edelweiss](https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:27 |
 | 44 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 
-Snapshot ID: `aIqyAAAAAACmKcotoq+WYxSigX3KpoBg`
+Snapshot ID: `aIwDgAAAAABqzkRaNNKqloEfN2ufjOv1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,269 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,285 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 43 | [Se Tu Creres \- Remix](https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Se Tu Creres \(Remix\)](https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD) | 2:51 |
 | 44 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
 | 45 | [Sorrindo à Toa \- Remix](https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU) | [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleytinho de Macaé](https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG) | [Sorrindo à Toa \(Remix\)](https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg) | 2:35 |
-| 46 | [Marcas \- Remix](https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k) | [Dj Lucas Augusto](https://open.spotify.com/artist/3HDlmQ4iyuqux2TTcPzFEc), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Marcas \(Remix\)](https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo) | 3:15 |
+| 46 | [Eu Voltei](https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Eliezer Rezende](https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh) | [Eu Voltei](https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD) | 3:11 |
 | 47 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
-| 48 | [Eu Voltei](https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Eliezer Rezende](https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh) | [Eu Voltei](https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD) | 3:11 |
+| 48 | [Marcas \- Remix](https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k) | [Dj Lucas Augusto](https://open.spotify.com/artist/3HDlmQ4iyuqux2TTcPzFEc), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Marcas \(Remix\)](https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo) | 3:15 |
 | 49 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
 | 50 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
 | 51 | [Dançando na Chuva \- Remix](https://open.spotify.com/track/5sh75lzhuAOjIOydFNhTUr) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Dançando na Chuva \(Remix\)](https://open.spotify.com/album/3Q5BZjgvWG9x5mI5OTg1Dg) | 3:13 |

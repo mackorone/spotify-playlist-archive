@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,839 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,837 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 8 | [NDA](https://open.spotify.com/track/1LTAYhorx76972Pr5ZOk8b) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [NDA](https://open.spotify.com/album/6AyR9OVzXt4FokEcjtautT) | 2:46 |
 | 9 | [MAMA POWTARZAŁA](https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [W ZWIĄZKU Z MUZYKĄ](https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy) | 3:22 |
 | 10 | [Ona Mówi](https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Ona Mówi](https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU) | 2:32 |
-| 11 | [Prawie straciłem głos](https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Prawie straciłem głos](https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr) | 2:24 |
-| 12 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
+| 11 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
+| 12 | [Prawie straciłem głos](https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Prawie straciłem głos](https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr) | 2:24 |
 | 13 | [Woda Księżycowa](https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Woda Księżycowa](https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb) | 3:11 |
 | 14 | [Multisport](https://open.spotify.com/track/5P1qwR2V4a5EFDrsztWqaZ) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4) | [Multisport](https://open.spotify.com/album/0N2RrkBLMYNnPvsrRYOJsa) | 2:59 |
 | 15 | [RAP](https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:36 |

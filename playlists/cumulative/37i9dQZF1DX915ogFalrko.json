@@ -786,7 +786,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 207493,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 292571,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS"
@@ -1565,6 +1565,28 @@
     },
     {
       "album": {
+        "name": "Sorry I'm Late, I Didn't Want To Come (Roosevelt Remix)",
+        "url": "https://open.spotify.com/album/40kYWTnePUZyDB8K59cAiW"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287445,
+      "name": "Sorry I'm Late, I Didn't Want To Come - Roosevelt Remix",
+      "url": "https://open.spotify.com/track/5oekWmarT1bxmufDNPRQcV"
+    },
+    {
+      "album": {
         "name": "special",
         "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
       },
@@ -1660,6 +1682,24 @@
       "duration_ms": 184970,
       "name": "Suburbs",
       "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
+    },
+    {
+      "album": {
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,138 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,145 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 34 | [Señor, Te Necesito](https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Señor, Te Necesito](https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK) | 3:24 |
 | 35 | [Your Grace Is Enough/Here I Am Lord \(Live\)](https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 6:05 |
 | 36 | [Son Of Heaven](https://open.spotify.com/track/25UM2D9QR9PeRgDvKPSISW) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [House Of Miracles \(Live\)](https://open.spotify.com/album/4rPYrJInxyCcYiUHC8P0qD) | 15:31 |
-| 37 | [Hosanna! \(Will You Rise?\)](https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Climate Vigil Songs](https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X) | 4:51 |
-| 38 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
-| 39 | [It's You \- Tide Electric Remix](https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Tide Electric](https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 3:58 |
+| 37 | [It's You \- Tide Electric Remix](https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Tide Electric](https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 3:58 |
+| 38 | [Hosanna! \(Will You Rise?\)](https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Climate Vigil Songs](https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X) | 4:51 |
+| 39 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
 | 40 | [The Way You Love Me](https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:18 |
 | 41 | [Lord of My Life](https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 3:59 |
 | 42 | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [As It Is In Heaven](https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Empty And Beautiful](https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs) | 4:09 |
 | 50 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
 
-Snapshot ID: `aIqyAAAAAABH1s2VB3ppfHwDIpmhv94j`
+Snapshot ID: `aIwDgAAAAACiIkSj7COQrY/iS9SnbP1X`

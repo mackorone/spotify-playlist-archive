@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 李芯駖
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,045 likes - 530 songs - 1 day 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,050 likes - 530 songs - 1 day 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

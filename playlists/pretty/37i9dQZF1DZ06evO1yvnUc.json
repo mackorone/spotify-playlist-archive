@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 153145,
+  "num_followers": 153275,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACAIHzWOg0cw8cMk8uPmlGS",
+  "snapshot_id": "aIwDgAAAAADVaVdMkiMRkj1BvR5rbQt5",
   "tracks": [
     {
       "added_at": null,
@@ -680,17 +680,21 @@
       "added_at": null,
       "album": {
         "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
       "artists": [
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
     },
     {
       "added_at": null,
@@ -752,21 +756,17 @@
       "added_at": null,
       "album": {
         "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 183219,
-      "name": "BELIEVE IT",
-      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
     },
     {
       "added_at": null,

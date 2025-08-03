@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Butcheress",
+        "url": "https://open.spotify.com/album/5Ab3UY74alxyACczdMB5pc"
+      },
+      "artists": [
+        {
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Butcheress",
+      "url": "https://open.spotify.com/track/6NOM8JwiXQc0RuXCMOWuH5"
+    },
+    {
+      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },

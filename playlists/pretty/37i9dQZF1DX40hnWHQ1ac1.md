@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40hnWHQ1ac1.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! \(아티스트의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,648 likes - 33 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,779 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40hnWHQ1ac1.md) - [plain]
 | 32 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 |
 | 33 | [Safety Zone](https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:45 |
 
-Snapshot ID: `aE2AdwAAAAAkw8o6dYQPF3ZNm7lIriVs`
+Snapshot ID: `AAAAAEOUjXUhu6jK627sCmSPKPVmwZxH`

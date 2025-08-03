@@ -4,7 +4,7 @@
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-207 songs - 13 hr 23 min
+208 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 | 2021-02-01 | 2024-04-19 |
 | [Love](https://open.spotify.com/track/4At8x7VjqQ4zUiWpKgH6lu) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [LOVE \- The 3rd Album](https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR) | 4:12 | 2021-02-01 | 2024-04-05 |
 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 | 2021-02-01 |  |
-| [Love Is...](https://open.spotify.com/track/49UtZk0vHW4tOmZFhZWGNb) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [Turbo \- Reboot : The Best](https://open.spotify.com/album/1JPqPWosww3OEkcZznuuSt) | 3:55 | 2024-04-04 |  |
+| [Love Is...](https://open.spotify.com/track/49UtZk0vHW4tOmZFhZWGNb) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [Turbo \- Reboot : The Best](https://open.spotify.com/album/1JPqPWosww3OEkcZznuuSt) | 3:55 | 2024-04-04 | 2025-08-03 |
 | [Magic carpet ride](https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim, The Wonder Land](https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3) | 3:33 | 2021-02-01 |  |
 | [Missing You](https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Come Come Come baby](https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW) | 3:51 | 2021-02-01 | 2024-04-05 |
 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 | 2021-02-01 |  |
@@ -132,6 +132,7 @@
 | [결혼을 할거라면](https://open.spotify.com/track/2MhOUadVpsBMkK3QfHOKfk) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:40 | 2021-02-01 | 2024-04-05 |
 | [고백](https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV) | [DELISPICE](https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf) | [Espresso](https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb) | 5:23 | 2021-02-01 |  |
 | [길 Road](https://open.spotify.com/track/7yVjKxpZ0FtIr8shugrsv1) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 4](https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp) | 3:46 | 2021-02-01 | 2025-04-23 |
+| [나 어릴 적 꿈](https://open.spotify.com/track/2yAuI7TREmfgZR7XJsLLG9) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [Turbo \- Reboot : The Best](https://open.spotify.com/album/1JPqPWosww3OEkcZznuuSt) | 4:09 | 2024-04-04 |  |
 | [난 널 원해](https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:53 | 2021-02-01 |  |
 | [날개](https://open.spotify.com/track/1QQkOKDSk8bdR5aqzR0WeL) | [언타이틀](https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2) | [The blue color](https://open.spotify.com/album/2FpdDy17iRIIYVw0aTKLdA) | 3:46 | 2021-02-01 | 2024-04-05 |
 | [날개](https://open.spotify.com/track/1taUg9YqPZjacpSnJTQJzQ) | [언타이틀](https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2) | [The blue color](https://open.spotify.com/album/3KPsP8XGvy68voyuMRPJzu) | 3:46 | 2024-04-04 | 2025-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,552 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,654 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 | 59 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 |
 | 60 | [MEJOR QUE VOS](https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [MEJOR QUE VOS](https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2) | 2:46 |
 
-Snapshot ID: `aIOJbAAAAAC3Ok0gn8F1oQpkLjgtC782`
+Snapshot ID: `AAAAAL3/n66O8MjWbnb6W1bxdJU07lTY`

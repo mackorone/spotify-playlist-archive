@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11115,
+  "num_followers": 11118,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAByf2JJ8tFhLhtKATAeLYmb",
+  "snapshot_id": "aIwDgAAAAADwE8J9/hLEmfj7zenWCUk8",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Wake of Determination",
-        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
+        "name": "Fell So Hard, Felt So Right (feat. Story Of The Year)",
+        "url": "https://open.spotify.com/album/7n9UbsXl8JjbGhi1eStE3t"
       },
       "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 247386,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
+      "duration_ms": 182266,
+      "name": "Fell So Hard, Felt So Right - feat. Story Of The Year",
+      "url": "https://open.spotify.com/track/2u8zwyH0Kwgs43ZMI4ikQw"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fell So Hard, Felt So Right (feat. Story Of The Year)",
-        "url": "https://open.spotify.com/album/7n9UbsXl8JjbGhi1eStE3t"
+        "name": "In the Wake of Determination",
+        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
       },
       "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Fell So Hard, Felt So Right - feat. Story Of The Year",
-      "url": "https://open.spotify.com/track/2u8zwyH0Kwgs43ZMI4ikQw"
+      "duration_ms": 247386,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 178318,
-      "name": "Take the Ride",
-      "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
+      "duration_ms": 171729,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 171729,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
+      "duration_ms": 178318,
+      "name": "Take the Ride",
+      "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
     },
     {
       "added_at": null,

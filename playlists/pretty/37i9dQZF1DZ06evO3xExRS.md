@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,854 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,882 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 25 | [Hace un año](https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:03 |
 | 26 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
 | 27 | [Una mujer de bandera](https://open.spotify.com/track/0QHmjX6DKlKLKPGqqIsRC4) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:06 |
-| 28 | [Qué soy yo para ti](https://open.spotify.com/track/4XGZ9gEAk4FXIGC1d7RrOS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Todo esto es muy extraño \(American edition\)](https://open.spotify.com/album/21qKh1Xap2JPTZ1EJUxbl1) | 5:36 |
+| 28 | [Tengo una chica](https://open.spotify.com/track/2ryq4M0wF5EqpGbxLTbHYM) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:52 |
 | 29 | [Vuelve a mí](https://open.spotify.com/track/7Lsl2OfRZGXUNMtLn5aXgT) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:19 |
 | 30 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 |
 | 31 | [¿Qué te he hecho yo?](https://open.spotify.com/track/1ZKYyqCoI6NnQ6bfr3ydKQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 2:31 |
-| 32 | [Tengo una chica](https://open.spotify.com/track/2ryq4M0wF5EqpGbxLTbHYM) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:52 |
+| 32 | [Qué soy yo para ti](https://open.spotify.com/track/4XGZ9gEAk4FXIGC1d7RrOS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Todo esto es muy extraño \(American edition\)](https://open.spotify.com/album/21qKh1Xap2JPTZ1EJUxbl1) | 5:36 |
 | 33 | [Lo Noto \(with Hombres G\) \- En Directo](https://open.spotify.com/track/7uxzk9549WrBgOpBmHAEju) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Mi Teatro \(En Directo\)](https://open.spotify.com/album/7vH5NPvG5BHV387GBNQSJ1) | 4:16 |
 | 34 | [Mi Primer Día Sin Ti \(En Vivo\)](https://open.spotify.com/track/7MTuVOR52Y3B06fmLdNTmP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:58 |
-| 35 | [Dos imanes](https://open.spotify.com/track/3mm5ug2SRIATyOG0ea0PXt) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:58 |
-| 36 | [Nassau](https://open.spotify.com/track/3CLgtUfOIHnh7tGc4mez56) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:30 |
+| 35 | [Nassau](https://open.spotify.com/track/3CLgtUfOIHnh7tGc4mez56) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:30 |
+| 36 | [Dos imanes](https://open.spotify.com/track/3mm5ug2SRIATyOG0ea0PXt) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:58 |
 | 37 | [Por que no ser amigos \(feat\. Dani Martín\)](https://open.spotify.com/track/49bjeL6wU0pqGUUXMJpDQP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Todo esto es muy extraño](https://open.spotify.com/album/0Gmyt4UXxwIgselvhsT3n5) | 3:18 |
 | 38 | [Solo otra vez](https://open.spotify.com/track/5G6IXS370wTnic8NwZjdy0) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:45 |
 | 39 | [Te necesito](https://open.spotify.com/track/6EgJCt5eopeP7RKhaQSxPt) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [¿Por qué no ser amigos?](https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 49 | [Nada que perder](https://open.spotify.com/track/0Las5hgYDIoTaF20OMK4Pm) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [20 Aniversario](https://open.spotify.com/album/2Q93WRwzR0ssaXTylIXDO7) | 3:17 |
 | 50 | [Amos del Piano Bar \(feat\. Hombres G\)](https://open.spotify.com/track/68xGtXidF9kdGOoKc5R4yd) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Tres Tequilas & Un Mezcal](https://open.spotify.com/album/1UmFGyH0WblA5bxEn9A92E) | 3:16 |
 
-Snapshot ID: `aIqyAAAAAAATYgsVc7JXVC3DATbM+/DT`
+Snapshot ID: `aIwDgAAAAAD4y7iKPJi22t5qQ/1jZarV`

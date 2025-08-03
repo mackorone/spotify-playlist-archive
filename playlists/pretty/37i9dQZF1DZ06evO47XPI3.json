@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12434,
+  "num_followers": 12436,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAB/4C7Jf3pCCt8UaXtGR99P",
+  "snapshot_id": "aIwDgAAAAAD+yXvmGVZchky2CE+yvPjX",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 190531,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/1AFFq11T6bTm3R8K3bYM4x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Delfonics",
         "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 125386,
       "name": "Going Out of My Head - Remastered",
       "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 190531,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/1AFFq11T6bTm3R8K3bYM4x"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
+      "duration_ms": 138066,
+      "name": "A Lover's Concerto",
+      "url": "https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 138066,
-      "name": "A Lover's Concerto",
-      "url": "https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx"
+      "duration_ms": 170000,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
     },
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
-        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
       },
       "artists": [
         {
           "name": "The Delfonics",
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        },
-        {
-          "name": "Ray, Goodman & Brown",
-          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
         }
       ],
-      "duration_ms": 126551,
-      "name": "Sunday - Live",
-      "url": "https://open.spotify.com/track/2MwXRhpyzJF4arnAI6bgLa"
+      "duration_ms": 191733,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
+        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
       },
       "artists": [
         {
           "name": "The Delfonics",
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Ray, Goodman & Brown",
+          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Round & Round",
-      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
+      "duration_ms": 126551,
+      "name": "Sunday - Live",
+      "url": "https://open.spotify.com/track/2MwXRhpyzJF4arnAI6bgLa"
     },
     {
       "added_at": null,
@@ -696,25 +696,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 176306,
-      "name": "Face It Girl, It's Over - Remastered",
-      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Looking for a Girl",
-      "url": "https://open.spotify.com/track/5HylsHxFBewHLod118HfHi"
+      "duration_ms": 168106,
+      "name": "My New Love",
+      "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Looking for a Girl",
+      "url": "https://open.spotify.com/track/5HylsHxFBewHLod118HfHi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrian Younge Presents: The Delfonics",
         "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
       },
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Silently",
-      "url": "https://open.spotify.com/track/5C9qWjHTa94hQC1oy9gCu7"
+      "duration_ms": 174760,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/5YfnR3WZr3E17OcLo5AaOr"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 168106,
-      "name": "My New Love",
-      "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
+      "duration_ms": 176306,
+      "name": "Face It Girl, It's Over - Remastered",
+      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
         }
       ],
-      "duration_ms": 174760,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/5YfnR3WZr3E17OcLo5AaOr"
+      "duration_ms": 157653,
+      "name": "Silently",
+      "url": "https://open.spotify.com/track/5C9qWjHTa94hQC1oy9gCu7"
     },
     {
       "added_at": null,

@@ -1,13 +1,710 @@
 {
   "description": "Enjoy the sweet rhythms of bossa nova - the perfect marriage of samba and jazz.",
-  "num_followers": 4075,
+  "num_followers": 4076,
   "original_name": "Bossa Nova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAAGzijqv8+n4b1mOC6cKTfm+UkYGUu",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/5ybWzNgRuOpY4vFoIGdsDk"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 281440,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/2k9INO4dSLTfEDRz7aorQC"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Clear Horizon - The Best Of Basia",
+        "url": "https://open.spotify.com/album/4bd6ybp8gp8lKAIxCwexGz"
+      },
+      "artists": [
+        {
+          "name": "Basia",
+          "url": "https://open.spotify.com/artist/4mITrNyXdPhy8phBHPgAHk"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/292Koxzl8ugcgGPl3NOv4P"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Molly Johnson Songbook",
+        "url": "https://open.spotify.com/album/2PDgjNqgLIbR4V3QmSBdUu"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Let's Waste Some Time",
+      "url": "https://open.spotify.com/track/28kMxHsImZWOiLSnLMZ9EX"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/4OVGVvLDFMBIFahCXcg5Ee"
+      },
+      "artists": [
+        {
+          "name": "Bianca Rossini",
+          "url": "https://open.spotify.com/artist/21U625AUwj23OxpWcugsun"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Passo a Passo",
+      "url": "https://open.spotify.com/track/1i1f7BZn1vIfK7kWEKG1Jy"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Mystery of You",
+        "url": "https://open.spotify.com/album/64n1qQtz5CkGBivxPTfMth"
+      },
+      "artists": [
+        {
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Shadow Man",
+      "url": "https://open.spotify.com/track/4YAwG5yhx7gq5RQxd2SnnE"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Sambou Sambou",
+        "url": "https://open.spotify.com/album/5dasiBFCNXXzRE7RpeutMM"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        },
+        {
+          "name": "Jo\u00e3o Castilho",
+          "url": "https://open.spotify.com/artist/1wHJR16reVwX2Z1ZeovrhA"
+        },
+        {
+          "name": "Sebastian Notini",
+          "url": "https://open.spotify.com/artist/29pYaUWQ3RYaJfkJ14ELm6"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/6uThTeCPBZRRWZgwspOhcA"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Changing Lights",
+        "url": "https://open.spotify.com/album/1Jk9EnbfUZCyIgtkvw2JYq"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "Waiter, Oh Waiter",
+      "url": "https://open.spotify.com/track/2nNI76fEAEXKpjrWLpqPf9"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Bossa Beleza",
+        "url": "https://open.spotify.com/album/1YPB3unFkBCXzCyxMkR9yx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Anders",
+          "url": "https://open.spotify.com/artist/3z1lMiC42WnFHHmwrACV66"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/4ov1vWVTE3gs8OLWXRDszR"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Light My Fire",
+        "url": "https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Isto Aqui O Que \u00c9 (Silver Sandal)",
+      "url": "https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Songs From Movies And Musicals",
+        "url": "https://open.spotify.com/album/1WwZczahfVT8K3OR5xjiBw"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "You Do Something To Me",
+      "url": "https://open.spotify.com/track/2pjQSocxwZvGFVKoZEqwPW"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "By Request: The Best of Karrin Allyson",
+        "url": "https://open.spotify.com/album/0z6z7Ot3NT6GzttIgWL4Jo"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 326640,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/34gedGefD9nxriWN31PRTl"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Heart Of The Matter",
+        "url": "https://open.spotify.com/album/5QupXSIXqRFRezb7bcQiUF"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 307666,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/1Wpi2b2K6mg0ewiSrCo5HB"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/7es4ndDdOP79VCEd88nqwr"
+      },
+      "artists": [
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Your Smiling Face",
+      "url": "https://open.spotify.com/track/5OUeiGuxlCPKksGmCQlU20"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Bossa Covers",
+        "url": "https://open.spotify.com/album/3fsgQPCmCIYpIi21FciJkh"
+      },
+      "artists": [
+        {
+          "name": "Sitti",
+          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/0SAOda92hEoiXU6yC0KeJ3"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Liberty Years",
+        "url": "https://open.spotify.com/album/2sH9FC8gzWUaO5TV6gu1A6"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 158240,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/6vremkl1MSn78wqkLw4vGE"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Jazz Classics - The Quintessence - Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/5RUvDUx3chZakpBa0uijcm"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 165117,
+      "name": "Soul Bossa Nova",
+      "url": "https://open.spotify.com/track/30Mzjj0qhwvobi0BTyefCz"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/26oYjhiRV72aoxdLF74NTQ"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/1e2rQJMmTK2GpI7vbBw2pk"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 139253,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Stan Getz: The Bossa Nova Albums",
+        "url": "https://open.spotify.com/album/4TcCL29jgD69v38woQX85i"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 309813,
+      "name": "Para Machuchar Meu Coracao",
+      "url": "https://open.spotify.com/track/0jsezJ6ZF2MjxTGIqSQfWC"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "As 10 + do Manguebeat",
+        "url": "https://open.spotify.com/album/4VYpmHovkGUVBvqeVlpG6d"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 261085,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/1aXPRjYQzAOnSLRgTVXGgu"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Pure Bossa Nova",
+        "url": "https://open.spotify.com/album/5AsuWDxKPYXmLOIm5KeOqX"
+      },
+      "artists": [
+        {
+          "name": "Os Cariocas",
+          "url": "https://open.spotify.com/artist/1FbL4RGqW5gvZ2kZNGdfpA"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Tim-Tim-Por-Tim-Tim",
+      "url": "https://open.spotify.com/track/4KDhYE59IceF0kklPXyVQI"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Quiet Nights",
+        "url": "https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "The Boy From Ipanema",
+      "url": "https://open.spotify.com/track/0Ug9LJTND5pegxb70A0rb0"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Very Best Of Julie London",
+        "url": "https://open.spotify.com/album/2KpxHciuO5Zwd31c4cpKqk"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Slightly Out Of Tune (Desafinado)",
+      "url": "https://open.spotify.com/track/04c0qM2oSmfGYEufFBytj1"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Que Falta Voc\u00ea Me Faz",
+        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Marcel Powell",
+          "url": "https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Samba da B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Vinicius de Moraes Songbook Vol. 1",
+        "url": "https://open.spotify.com/album/0Ntbl2C9lkRx0IVqR2e3sn"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Chega De Saudade",
+      "url": "https://open.spotify.com/track/73UE3tGwdKdU0bEnyuJJ2l"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Can\u00e7\u00f5es de Caymmi",
+        "url": "https://open.spotify.com/album/7Bb308nsxWjgOyY18ghys7"
+      },
+      "artists": [
+        {
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+        }
+      ],
+      "duration_ms": 242866,
+      "name": "L\u00e1 Vem a Baiana",
+      "url": "https://open.spotify.com/track/2OcfnaS3z0la3C05B2f1GL"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Antonio Carlos Jobim - Brasileiro",
+        "url": "https://open.spotify.com/album/76LXqyk5qDEXyeT2uzagX7"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/4P9HLmNcE6dUUvsPUvl3gs"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Tanto Tempo",
+        "url": "https://open.spotify.com/album/5atdzbc0d7OcHTrU2WBJRN"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Samba E Amor",
+      "url": "https://open.spotify.com/track/3uAGrrYTsBRu4ZvqnwJaXK"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 118893,
+      "name": "One Note Samba (Samba De Una Nota So) - Remastered",
+      "url": "https://open.spotify.com/track/52dX9SHXBcdIZUmptm9qFQ"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Passione",
+        "url": "https://open.spotify.com/album/4xhWw95PsBxOfQbXKqvmWJ"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Corcovado / Quiet Nights Of Quiet Stars",
+      "url": "https://open.spotify.com/track/0dH2xFxGEhvMzTuvm42oXZ"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Samba pa ti",
+        "url": "https://open.spotify.com/album/4nxO3mJT2fwuMmQXNi2FpS"
+      },
+      "artists": [
+        {
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/42bWaGbH2jUtxhM53AyWGp"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Bossa Nova Caf\u00e9",
+        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 72671,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "The Wonderful World Of Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "A Felicidade",
+      "url": "https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Viva A Bossa Nova",
+        "url": "https://open.spotify.com/album/3TUR9xCtbikoqk5WcCdCxL"
+      },
+      "artists": [
+        {
+          "name": "Dick Farney",
+          "url": "https://open.spotify.com/artist/5yrpqAQx2OwR62pNE7d5bm"
+        },
+        {
+          "name": "Claudette Soares",
+          "url": "https://open.spotify.com/artist/3mwORnkU8O0wdR9tXgcpmW"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "O Amor Em Paz",
+      "url": "https://open.spotify.com/track/6XKs3hMU57OYCc45LMCbz3"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "20 Grandes Sucessos De Nara Leao",
+        "url": "https://open.spotify.com/album/3szAhEAqI6a0L2INCE1IrJ"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/2oBiFDhFwbEHYaGOf1Mfrb"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Infinito Particular",
+        "url": "https://open.spotify.com/album/4d9es33iVSzOq7mcE6QgcZ"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Aconteceu",
+      "url": "https://open.spotify.com/track/4SBVtMUW8ufsjVhvJ55MFS"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Selecao De Ouro",
+        "url": "https://open.spotify.com/album/7yS1D93afopwXb0otVFdzC"
+      },
+      "artists": [
+        {
+          "name": "Miltinho",
+          "url": "https://open.spotify.com/artist/2aRdU5K1LA2G4BCzSbMcDp"
+        }
+      ],
+      "duration_ms": 84466,
+      "name": "Bolinha De Papel",
+      "url": "https://open.spotify.com/track/7b9t2ckqoB89ne1df00Y00"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Nova Bis - Leila Pinheiro",
+        "url": "https://open.spotify.com/album/5uqlfEe7ODkOzx82CrtDZH"
+      },
+      "artists": [
+        {
+          "name": "Leila Pinheiro",
+          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "A Primeira Vez",
+      "url": "https://open.spotify.com/track/5tE0p42JGc57Z9akUr3zCw"
+    },
+    {
+      "added_at": "2014-03-20 14:22:23",
+      "album": {
+        "name": "Let's Face The Music And Dance",
+        "url": "https://open.spotify.com/album/3FccB4IjLLpXcQvqxD4dR7"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Let's Face the Music and Dance",
+      "url": "https://open.spotify.com/track/0upEwTChCn08mKReV9Wisj"
+    }
+  ],
   "unique_name": "Bossa Nova",
   "url": "https://open.spotify.com/playlist/4LmOnbOmtMUyQQjo6L9mct"
 }

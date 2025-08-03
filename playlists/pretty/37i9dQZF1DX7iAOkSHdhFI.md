@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iAOkSHdhFI.md) - [plain]
 
 > The rise of the world's most influential punk band.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,824 likes - 24 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,823 likes - 24 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iAOkSHdhFI.md) - [plain]
 | 23 | [Welcome To Paradise](https://open.spotify.com/track/7H3X9tX72Mr7TjxpqxSo0P) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/5dSE8bGpHGIZN9fTPfInX0) | 3:50 |
 | 24 | [She](https://open.spotify.com/track/3MSHU8LTXUFf5GvDeDJnco) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/2xjpJx5Rnf0yRa0YMmCM2p) | 4:04 |
 
-Snapshot ID: `AAAAAPtD8IdljdDsKe45mj6c40IqsX7o`
+Snapshot ID: `ZIxTngAAAAAKIVsVf6IGsyJgMb9/AURz`

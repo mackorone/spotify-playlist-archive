@@ -4,7 +4,7 @@
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 38 min
+91 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 | 2023-03-10 | 2023-11-11 |
 | [Di Que Sí](https://open.spotify.com/track/0pliiCOWPN0IId8sXAqNJr) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:10 | 2023-11-10 | 2024-03-29 |
 | [Di Que Sí](https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:10 | 2024-03-28 |  |
-| [ECHÁNDOTE DE MENOS](https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:06 | 2024-05-12 |  |
+| [ECHÁNDOTE DE MENOS](https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:06 | 2024-05-12 | 2025-08-03 |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2023-09-15 |  |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-04 | 2023-09-16 |
 | [El Ultimo Beso \- En Vivo](https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:36 | 2023-03-10 | 2025-05-19 |
@@ -51,6 +51,7 @@
 | [La Ladrona \- En Vivo](https://open.spotify.com/track/4YKsiPP0QqHsANNaZJwQBT) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:06 | 2023-03-10 | 2025-06-20 |
 | [La Pareja Ideal \- En Vivo](https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 4:14 | 2023-03-10 |  |
 | [La Plata \- En Vivo](https://open.spotify.com/track/7yMU0OMBAHp9m74hdTBtIP) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [La Plata \(En Vivo\)](https://open.spotify.com/album/4R0lRmTOqQsjhCv0psBpms) | 2:19 | 2023-03-10 | 2025-03-08 |
+| [Lalala](https://open.spotify.com/track/4vtIzbuGPJap419X869GDz) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Lalala](https://open.spotify.com/album/2B1D0XyRpjNls2EAYKj1Yo) | 3:10 | 2025-08-03 |  |
 | [LAS FLORES](https://open.spotify.com/track/12uSaxjNUs5PJjMDgjdtqk) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 | 2023-08-04 | 2023-09-16 |
 | [LAS FLORES](https://open.spotify.com/track/6VMPXmoOp6cOqevqRW2XGL) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:46 | 2023-09-15 | 2023-11-11 |
 | [LE VA DOLER](https://open.spotify.com/track/41sTEjHxztd0AwF7Dn0HJe) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:33 | 2023-12-13 | 2025-07-16 |

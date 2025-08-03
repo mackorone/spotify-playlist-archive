@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,254 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,288 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 10 | [Agi Igual Homem](https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Agi Igual Homem](https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk) | 2:44 |
 | 11 | [TUDO DE NOVO](https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [CAOS DLX](https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM) | 3:45 |
 | 12 | [Alhamdulillah](https://open.spotify.com/track/3MFh3OMYE5895AjHAdGWkK) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [L\. Abner](https://open.spotify.com/artist/79RdzpkbsduCXP2eeCQxXL) | [Alhamdulillah](https://open.spotify.com/album/76QHYTSZxop4CeClYuj3mb) | 1:58 |
-| 13 | [Entrelinhas 2](https://open.spotify.com/track/6Ie9WFB8BlalfwxvLtB3LE) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Magia](https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ) | 2:33 |
+| 13 | [Entrelinhas 2](https://open.spotify.com/track/6Ie9WFB8BlalfwxvLtB3LE) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp) | [Magia](https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ) | 2:33 |
 | 14 | [Hiperfoco](https://open.spotify.com/track/1rO0uD1DwejqeZLNXTroJK) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:20 |
 | 15 | [Grama Verde](https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:56 |
 | 16 | [YoYo](https://open.spotify.com/track/7jtOEgEsdS55PZTC08OEjU) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [YoYo](https://open.spotify.com/album/1Fc3WVF7Mrz2DWRR3qKnjR) | 2:52 |

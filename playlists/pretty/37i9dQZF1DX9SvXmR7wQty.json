@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: \u00c9mile Bilodeau",
-  "num_followers": 45699,
+  "num_followers": 45702,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -96,29 +96,25 @@
           "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
         }
       ],
-      "duration_ms": 125533,
+      "duration_ms": 125575,
       "name": "Quelque chose",
       "url": "https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm"
     },
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Baddies",
-        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
+        "name": "Adriano",
+        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 207403,
-      "name": "Baddies",
-      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
+      "duration_ms": 142122,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -143,18 +139,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Adriano",
-        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
       },
       "artists": [
         {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 142122,
-      "name": "Adriano",
-      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
+      "duration_ms": 207403,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -267,26 +267,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "FARA FARA GANG - BDLM EXTENSION",
-        "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 229189,
-      "name": "MBIFE",
-      "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Corazon",
         "url": "https://open.spotify.com/album/5kC8331Mp6YWnB7oHQWtXL"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 179840,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "FARA FARA GANG - BDLM EXTENSION",
+        "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 229189,
+      "name": "MBIFE",
+      "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Ma Lady",
-        "url": "https://open.spotify.com/album/1U3G0sjm0rn1YAGxnOGM4T"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 164829,
-      "name": "Ma Lady",
-      "url": "https://open.spotify.com/track/2n7RaPQ79YbjHlyBFYqm1V"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "D\u00e9g\u00e2t",
         "url": "https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Ma Lady",
+        "url": "https://open.spotify.com/album/1U3G0sjm0rn1YAGxnOGM4T"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 164829,
+      "name": "Ma Lady",
+      "url": "https://open.spotify.com/track/2n7RaPQ79YbjHlyBFYqm1V"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "A TI",
         "url": "https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2"
       },
@@ -587,6 +587,26 @@
       "duration_ms": 162960,
       "name": "A TI",
       "url": "https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "kafini",
+        "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "kafini",
+      "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -631,6 +651,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Un, Dos, Tres",
+        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Un, Dos, Tres",
+      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "J'ai ce qu'il faut",
         "url": "https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre"
       },
@@ -671,22 +707,6 @@
       "duration_ms": 126191,
       "name": "Tout g\u00e2cher",
       "url": "https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Un, Dos, Tres",
-        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Un, Dos, Tres",
-      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -755,26 +775,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "kafini",
-        "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "kafini",
-      "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Ghali",
         "url": "https://open.spotify.com/album/4DuoVUAMYxE0j5ENAOJGqd"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 175218,
       "name": "ton ventre",
       "url": "https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Extraordinaire",
+        "url": "https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "Extraordinaire",
+      "url": "https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -843,22 +859,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Extraordinaire",
-        "url": "https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 165866,
-      "name": "Extraordinaire",
-      "url": "https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "\u00c9B\u0112M",
         "url": "https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s"
       },
@@ -875,22 +875,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "BIG SHOT - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7qVRh9enruTBAT1eBRo7Pz"
+        "name": "Congolaise",
+        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
       },
       "artists": [
         {
-          "name": "Yvnnis",
-          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 179900,
-      "name": "BIG SHOT - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2vqEpUnSacuv7k9ZAh2gar"
+      "duration_ms": 174920,
+      "name": "Congolaise",
+      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -931,22 +931,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Toute premi\u00e8re fois",
-        "url": "https://open.spotify.com/album/4MaY6euKQwdKVyj3LTFJdY"
+        "name": "BIG SHOT - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7qVRh9enruTBAT1eBRo7Pz"
       },
       "artists": [
         {
-          "name": "Bon Entendeur",
-          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+          "name": "Yvnnis",
+          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
         },
         {
-          "name": "Jeanne Mas",
-          "url": "https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR"
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 191786,
-      "name": "Toute premi\u00e8re fois",
-      "url": "https://open.spotify.com/track/1wrQRszAyr6cP8mj8PLQLS"
+      "duration_ms": 179900,
+      "name": "BIG SHOT - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2vqEpUnSacuv7k9ZAh2gar"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

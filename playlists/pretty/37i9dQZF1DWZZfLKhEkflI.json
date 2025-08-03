@@ -1,10 +1,10 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 86873,
+  "num_followers": 86910,
   "original_name": "Hard Bop Classics",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZtbY+wAAAADrJm0UmeDjTp2PCe++3DCj",
   "tracks": [
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 625293,
-      "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Cool Struttin' (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 563613,
       "name": "Cool Struttin'",
       "url": "https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 625293,
+      "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Caravan [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Sweet 'n' Sour",
-      "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 447173,
       "name": "If I Love Again - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "Caravan [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Sweet 'n' Sour",
+      "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
     },
     {
       "added_at": "2024-09-03 09:38:03",

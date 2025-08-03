@@ -4,7 +4,7 @@
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 13 min
+115 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 | 2021-12-28 | 2025-07-27 |
 | [Love Me](https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4) | [WiDE AWAKE](https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Me](https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA) | 3:15 | 2022-09-10 |  |
 | [Lovely Nanna](https://open.spotify.com/track/3q9cr2fdhQBeK4LJC98LjU) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 0:51 | 2024-07-14 | 2024-09-30 |
-| [Lover \(ōlowó ōrí mi\)](https://open.spotify.com/track/42PQRRTtzKuuhYLmoniLuT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book I](https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v) | 3:01 | 2024-11-23 |  |
+| [Lover \(ōlowó ōrí mi\)](https://open.spotify.com/track/3LjnZRA4lyQ9JtTbkWT3dX) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 3:01 | 2025-08-03 |  |
+| [Lover \(ōlowó ōrí mi\)](https://open.spotify.com/track/42PQRRTtzKuuhYLmoniLuT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book I](https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v) | 3:01 | 2024-11-23 | 2025-08-03 |
 | [Mercy](https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:11 | 2021-12-28 |  |
 | [Mexico](https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:40 | 2022-10-09 | 2022-10-11 |
 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 | 2025-02-23 |  |
@@ -107,7 +108,7 @@
 | [Sugarcoat](https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book III](https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa) | 2:00 | 2025-03-08 |  |
 | [Take My Hand Precious Lord \- Intro](https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 1:24 | 2024-07-14 | 2024-12-21 |
 | [Thank You](https://open.spotify.com/track/3ZUV6Iym0OTjgY6xZpcOXC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 0:45 | 2024-07-15 | 2024-08-15 |
-| [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 | 2021-12-28 |  |
+| [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 | 2021-12-28 | 2025-08-03 |
 | [Too Much](https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 4:50 | 2021-12-28 |  |
 | [Unholy War](https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:29 | 2021-12-28 |  |
 | [Unknown \(To You\)](https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:53 | 2021-12-28 |  |
@@ -120,6 +121,7 @@
 | [You Don't Even Call Me](https://open.spotify.com/track/1ZOyqkZPJdQyIWRr1rK8si) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 4:01 | 2022-09-21 | 2022-10-13 |
 | [You Don't Even Call Me](https://open.spotify.com/track/2Xxe9r20FuSheRY8832rr7) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 4:01 | 2021-12-28 | 2022-09-22 |
 | [You Like It I Love It](https://open.spotify.com/track/78OGe0lRtqJI6bMiQeE8x4) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book II](https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA) | 2:57 | 2025-02-03 | 2025-08-01 |
+| [You Like It I Love It](https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 2:57 | 2025-08-03 |  |
 | [You Might Find Me](https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 2:27 | 2021-12-28 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Chappell Roan, Demi Lovato, Rema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,710 likes - 123 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,787 likes - 123 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 14 | [Cabin Feva](https://open.spotify.com/track/6vxEPL0Z4WD18kcW2uCvQd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Cabin Feva](https://open.spotify.com/album/18ZMOxwR8uBaZc1n0X9uZx) | 2:48 |
 | 15 | [sunday morning](https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [sunday morning](https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ) | 2:20 |
 | 16 | [Can't Love Me](https://open.spotify.com/track/1tALflD6FaMu5fHeIIUHPy) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Can't Love Me](https://open.spotify.com/album/6Zk5PXlpX7Eu6NKLvgHjFp) | 3:07 |
-| 17 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 17 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 18 | [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 |
 | 19 | [Two Steps](https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Two Steps](https://open.spotify.com/album/1AiVydBPEu6DBHmOKXrRKK) | 2:04 |
 | 20 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 |

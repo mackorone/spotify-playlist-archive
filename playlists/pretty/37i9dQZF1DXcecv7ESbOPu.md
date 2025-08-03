@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Chappell Roan, Hooja, Peg Parnevik och Demi Lovato med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,955 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,968 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 14 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
 | 15 | [Blundar För En Stund](https://open.spotify.com/track/2tVyDrg1bbOzHnYAZxcOcO) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Blundar För En Stund](https://open.spotify.com/album/3lJKVj5d5dvy9BwFXPIGrN) | 3:07 |
 | 16 | [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 |
-| 17 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 17 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 18 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
 | 19 | [Coco's Lovesong \- DJ Carpenter Remix](https://open.spotify.com/track/5qikhvhyQ52shAb1bcwCpl) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Coco's Lovesong \(DJ Carpenter Remix\)](https://open.spotify.com/album/5QVTP7fogkU8OjLG0zSLo6) | 3:15 |
 | 20 | [Sakte Film](https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sakte Film](https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa) | 2:37 |

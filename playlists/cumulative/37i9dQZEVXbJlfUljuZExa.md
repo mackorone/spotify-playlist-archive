@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,276 songs - 3 day 1 hr 28 min
+1,277 songs - 3 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,7 @@
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-10 |
 | [Here With Me](https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/6VGoENqiseiYwmPUQW2oVl) | 4:02 | 2024-04-18 | 2025-08-02 |
 | [Here With Me](https://open.spotify.com/track/0xyHxzJBnU9xSB3i4AACBw) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Pride Hits 2023](https://open.spotify.com/album/0SR9GVUhtfNMNhTaH49F9C) | 4:02 | 2023-06-14 | 2023-06-16 |
-| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-31 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-31 | 2025-08-03 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-16 | 2023-06-01 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-06-10 | 2024-10-22 |
 | [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-05-01 | 2024-05-21 |
@@ -957,7 +957,7 @@
 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 | 2025-06-10 |  |
 | [Seribu Tahun](https://open.spotify.com/track/5dao4fg11b8udWiLFiXJFx) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Dengan Secara Kebetulan](https://open.spotify.com/album/7aXCIaTMFIXHBKJw66RGIH) | 3:53 | 2025-04-11 | 2025-04-21 |
 | [Seribu Tahun Lagi](https://open.spotify.com/track/1RKXxb95nvXtM7EQ6WtPmG) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Seribu Tahun Lagi](https://open.spotify.com/album/3zN8nN9moCS4xIGcGqTmMV) | 4:22 | 2025-03-18 | 2025-06-08 |
-| [Seribu Tahun Lagi](https://open.spotify.com/track/6091bZPxSMXCvRlZwaeDO3) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Sila Ambil Perhatian](https://open.spotify.com/album/2z2z8HFxfC3S1C52yvD6Jm) | 4:22 | 2025-06-07 | 2025-07-11 |
+| [Seribu Tahun Lagi](https://open.spotify.com/track/6091bZPxSMXCvRlZwaeDO3) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Sila Ambil Perhatian](https://open.spotify.com/album/2z2z8HFxfC3S1C52yvD6Jm) | 4:22 | 2025-06-07 |  |
 | [Serumpun](https://open.spotify.com/track/3uXtPOeDPx812uTfhz3dEf) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Serumpun](https://open.spotify.com/album/6CWVjCF0B95isfDZ9uWoWF) | 2:11 | 2025-03-21 | 2025-05-08 |
 | [Sesuci Lebaran](https://open.spotify.com/track/20gz9dYTVbtnDUFV2YmJC0) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Anugerah Aidilfitri](https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ) | 3:59 | 2021-04-30 | 2025-04-05 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-04-09 |
@@ -1038,7 +1038,7 @@
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-22 | 2023-11-24 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-25 |
 | [Strategy](https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:46 | 2025-07-04 | 2025-08-01 |
-| [Strategy \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/22fSzde77hjB052Vo155LF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 2:46 | 2025-07-01 |  |
+| [Strategy \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/22fSzde77hjB052Vo155LF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 2:46 | 2025-07-01 | 2025-08-03 |
 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 | 2022-01-17 | 2022-08-20 |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-04-10 |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2021-03-27\* | 2022-04-06 |
@@ -1134,6 +1134,7 @@
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-10 | 2023-01-13 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-20 | 2024-04-23 |
 | [The Story Of Us \(Taylor's Version\)](https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:27 | 2023-07-08 | 2023-07-10 |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-02 |  |
 | [The Sun, The Wine and You](https://open.spotify.com/track/6rYfWhx94NEPTxeaGQbHIx) | [IurisEkero](https://open.spotify.com/artist/4yh3pmJ514U9AfOrcPZyID) | [The Sun, The Wine and You](https://open.spotify.com/album/6VRx26TzwHcxIiSO0wqrvo) | 3:50 | 2025-07-09 | 2025-07-11 |
 | [The Tortured Poets Department](https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:53 | 2024-04-20 | 2024-04-30 |
 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 | 2025-07-15 | 2025-07-21 |

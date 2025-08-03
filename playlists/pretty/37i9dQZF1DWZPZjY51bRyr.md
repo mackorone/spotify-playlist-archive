@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,190 likes - 224 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,238 likes - 224 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 223 | [Vinyasa](https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Vinyasa](https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1) | 3:58 |
 | 224 | [Undertow](https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Undertow](https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4) | 2:40 |
 
-Snapshot ID: `AAAAAGxfZzKgdZgxkGT9PSoxdlTsywSP`
+Snapshot ID: `aG7M4QAAAABrqmam7DDkPSDn6iZSqOm4`

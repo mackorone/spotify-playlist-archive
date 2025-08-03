@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 49 | [She's Not Afraid](https://open.spotify.com/track/3MN0pucJbbFmqgvPcoC1Eb) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:10 |
 | 50 | [Hey Angel](https://open.spotify.com/track/4fLTtg48X0QtKrj0Jv8I3v) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 4:00 |
 | 51 | [On The Loose](https://open.spotify.com/track/0kThmY7A0ynir2qLWFFhrY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 |
-| 52 | [Act My Age](https://open.spotify.com/track/4bqIFmnVAsndYWuXxAwQet) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:18 |
-| 53 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
-| 54 | [Home](https://open.spotify.com/track/5UcphALlWd7sBBySclJvAi) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Rarities \- EP](https://open.spotify.com/album/7FGlnbYUbnqdlr6yk0JoPC) | 3:14 |
-| 55 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
+| 52 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
+| 53 | [Act My Age](https://open.spotify.com/track/4bqIFmnVAsndYWuXxAwQet) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:18 |
+| 54 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
+| 55 | [Home](https://open.spotify.com/track/5UcphALlWd7sBBySclJvAi) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Rarities \- EP](https://open.spotify.com/album/7FGlnbYUbnqdlr6yk0JoPC) | 3:14 |
 | 56 | [Somethin' 'Bout A Woman](https://open.spotify.com/track/2GnohZK1q5obRmQ2SuASyT) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 3:27 |
 | 57 | [Hoodie](https://open.spotify.com/track/410smJMzhna1ADC2ldqVHu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:39 |
 | 58 | [Better Than Words](https://open.spotify.com/track/4qG3Um3jXlQnaQV1yVo3it) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:28 |
@@ -322,11 +322,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 312 | [Oh Eh Ya](https://open.spotify.com/track/73nZ9M3SwDco6I7FgaShSw) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:01 |
 | 313 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 314 | [Back to Back](https://open.spotify.com/track/6Pyfl3wwjY3fGRoUqdGRvy) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:04 |
-| 315 | [Inspiration](https://open.spotify.com/track/1h7yMzWftbnh510LicmyLY) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
-| 316 | [Love Me 2](https://open.spotify.com/track/7wmrpFlw6bRlLf9i3XAPRJ) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
+| 315 | [Love Me 2](https://open.spotify.com/track/7wmrpFlw6bRlLf9i3XAPRJ) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
+| 316 | [Inspiration](https://open.spotify.com/track/1h7yMzWftbnh510LicmyLY) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
 | 317 | [Timber](https://open.spotify.com/track/63uhHdBTWeqDWTMvvL9WGy) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:58 |
 | 318 | [Ballerina](https://open.spotify.com/track/2HeIrXWLqBvBHMBMMQ3Zhv) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:28 |
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab4XagAAAABBy/q6KU6XWQY2CCzJlWsi`
+Snapshot ID: `Ab4dHgAAAAAtcJq4sy75MnmBkOqTSFyt`

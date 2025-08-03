@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 55291,
+  "num_followers": 55418,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
         "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 364573,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Triste canci\u00f3n",
-      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 354133,
       "name": "Busca Por Dentro",
       "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "\u00c9xitos Fruko",
+        "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297358,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 218019,
       "name": "Espantan - Remix",
       "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "\u00c9xitos Fruko",
-        "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297358,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Sue\u00f1os de Anoche",
-        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "15 Grandes",
         "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 308837,
       "name": "Si No La Tengo",
       "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Sue\u00f1os de Anoche",
+        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Exitos Originales",
         "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 202613,
       "name": "Al Despertar",
       "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 299960,
       "name": "Tu Me Quemas",
       "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 295640,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Grito En Silencio",
         "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 215973,
       "name": "El Afilador",
       "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 295640,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Folklore Tropical",
-        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Caf\u00e9 Tacvba",
         "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 205026,
       "name": "Las batallas",
       "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Folklore Tropical",
+        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
       "artists": [
         {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+      "duration_ms": 212066,
+      "name": "Chilanga banda",
+      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1683,22 +1699,6 @@
       "duration_ms": 222773,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/4f9eB0jXvDMNgSZdiEez6K"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Chilanga banda",
-      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "La Boa",
-      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
         "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
       },
@@ -1787,6 +1771,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "La Boa",
+      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -1799,6 +1799,22 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Del Barrio Bravo para el Mundo",
+        "url": "https://open.spotify.com/album/4VttcAL7Sf7W7qUVei2bYT"
+      },
+      "artists": [
+        {
+          "name": "Son Tepito",
+          "url": "https://open.spotify.com/artist/5YkLIvSOwaDZjeI0YwiZ3m"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Marisol",
+      "url": "https://open.spotify.com/track/12sPhdO6ShhswdebUQGArQ"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1823,22 +1839,6 @@
       "duration_ms": 161632,
       "name": "Tendo",
       "url": "https://open.spotify.com/track/7H3mL8tOH1VjHXuOH0AFOb"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Del Barrio Bravo para el Mundo",
-        "url": "https://open.spotify.com/album/4VttcAL7Sf7W7qUVei2bYT"
-      },
-      "artists": [
-        {
-          "name": "Son Tepito",
-          "url": "https://open.spotify.com/artist/5YkLIvSOwaDZjeI0YwiZ3m"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Marisol",
-      "url": "https://open.spotify.com/track/12sPhdO6ShhswdebUQGArQ"
     },
     {
       "added_at": "2024-07-02 23:02:31",

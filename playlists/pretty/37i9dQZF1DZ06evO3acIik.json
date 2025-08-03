@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 64603,
+  "num_followers": 64607,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADF10xH+okTXWd2xOWQXBBU",
+  "snapshot_id": "aIwDgAAAAACdCxlswrKP2VRTkruA/+R4",
   "tracks": [
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 205734,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB"
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 119156,
-      "name": "6:16am",
-      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
+      "duration_ms": 205734,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What\u2019s It Take to Be a Star?",
-        "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168176,
-      "name": "What\u2019s It Take to Be a Star?",
-      "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show the Signs.",
         "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
       },
@@ -879,30 +863,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Shit (feat. dj gummy bear)",
-        "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
+        "name": "What\u2019s It Take to Be a Star?",
+        "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
       },
       "artists": [
         {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168176,
+      "name": "What\u2019s It Take to Be a Star?",
+      "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+      },
+      "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         },
         {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+          "name": "Ending Heartfelt",
+          "url": "https://open.spotify.com/artist/0lWrUbgfPwwXIlmzJFO7vN"
         }
       ],
-      "duration_ms": 185205,
-      "name": "Same Shit (feat. dj gummy bear)",
-      "url": "https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF"
+      "duration_ms": 193135,
+      "name": "Far Lost Dreams",
+      "url": "https://open.spotify.com/track/73wzxiGClRqcmtBIFclnbz"
     }
   ],
   "unique_name": "This Is Montell Fish",

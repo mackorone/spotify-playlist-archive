@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 48,145 likes - 83 songs - 4 hr 13 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 48,151 likes - 83 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 9 | [Marylebone](https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Marylebone](https://open.spotify.com/album/6nDtDqA33jrEoW7qddJGz9) | 3:33 |
 | 10 | [Shadowstep](https://open.spotify.com/track/0rPPE0VTkTJLMGwolZGYRC) | [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW), [Preservation](https://open.spotify.com/artist/71Xm18ZYTMYSbLUXMiRt4k) | [Shadowstep](https://open.spotify.com/album/308ibxLKs2w1j8UiElzsrh) | 2:25 |
 | 11 | [4Mama](https://open.spotify.com/track/0OUjMqrRdo9SJny0OW3aFt) | [Genesis DJs](https://open.spotify.com/artist/3AL9asXkc4gO7NpOqmrjlO), [Buxie](https://open.spotify.com/artist/1Ey6IJIPSHQSPYf5SwVcyi), [Goitse Levati](https://open.spotify.com/artist/2M5PWy1I2CvIKyt51mcAoY) | [4Mama](https://open.spotify.com/album/7dzlhNCrQo9yHaBCqAdX2N) | 7:49 |
-| 12 | [Sweet Perfection](https://open.spotify.com/track/2sIdJSeUBn41POJI7JRbNv) | [Jasmine Golden](https://open.spotify.com/artist/01eLz83URAKMu9VBsYWjZw) | [Sweet Perfection](https://open.spotify.com/album/1bP52ijY30mC3qk6KLKEeM) | 4:35 |
+| 12 | [Sweet Perfection](https://open.spotify.com/track/2sIdJSeUBn41POJI7JRbNv) | [Jasmine Golden](https://open.spotify.com/artist/01eLz83URAKMu9VBsYWjZw) | [Sweet Perfection](https://open.spotify.com/album/1bP52ijY30mC3qk6KLKEeM) | 4:36 |
 | 13 | [Stamina](https://open.spotify.com/track/4Pacce2Y5Qd4HoRGsGRqaN) | [Salamanca Beatz](https://open.spotify.com/artist/6WCHcQkmx9NUGdH1LyUyzN), [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB) | [Eternal Engine Vs Salamanca Beatz](https://open.spotify.com/album/6BS3xJOnfrhQJ6d4ikfeGn) | 2:48 |
 | 14 | [White Lies](https://open.spotify.com/track/7vUW681IguIBdACrlBcBi1) | [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [White Lies](https://open.spotify.com/album/6tSTJB9gkrOst90pePZV38) | 3:01 |
 | 15 | [THE TRUTH](https://open.spotify.com/track/1BwAxsL7yAZndGCYQB3LPK) | [X&ND](https://open.spotify.com/artist/3wUYPC30RAmHqK9ZozBzq0) | [THE TRUTH](https://open.spotify.com/album/1575bITlH5DkGcL3GuiGc0) | 3:28 |

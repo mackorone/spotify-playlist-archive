@@ -10253,6 +10253,28 @@
     },
     {
       "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
+      },
+      "artists": [
+        {
+          "name": "Esther Rose",
+          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
+        },
+        {
+          "name": "Video Age",
+          "url": "https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "tailspin",
+      "url": "https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78"
+    },
+    {
+      "album": {
         "name": "Keep Breathing",
         "url": "https://open.spotify.com/album/6O3JyH7T2a51bIWAE3ZI4x"
       },

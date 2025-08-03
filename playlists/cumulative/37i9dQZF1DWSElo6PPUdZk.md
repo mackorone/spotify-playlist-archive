@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Miss Pooja
 
-205 songs - 10 hr 31 min
+206 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Jodi Teri Meri](https://open.spotify.com/track/4eVi7UxmpSIPiQ989dd8R2) | [Ajooni Dhillon](https://open.spotify.com/artist/5w2yqx7lnbYkZIgB3MouZa) | [Jodi Teri Meri](https://open.spotify.com/album/2hbCssH7iU6qRETkBlIyiP) | 2:46 | 2024-11-26 |  |
 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 | 2023-03-18 | 2024-04-24 |
 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 | 2025-01-24 |  |
-| [Kachi Umar](https://open.spotify.com/track/1iFpF1YTNWKeDFe0bFhb5E) | [Pavie Virk](https://open.spotify.com/artist/0o5zJsNi1DeT2YQMqQ2XzP), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Kachi Umar](https://open.spotify.com/album/5gFecZ1jVTSjkpQ5Dl4SSX) | 3:12 | 2025-01-09 |  |
+| [Kachi Umar](https://open.spotify.com/track/1iFpF1YTNWKeDFe0bFhb5E) | [Pavie Virk](https://open.spotify.com/artist/0o5zJsNi1DeT2YQMqQ2XzP), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Kachi Umar](https://open.spotify.com/album/5gFecZ1jVTSjkpQ5Dl4SSX) | 3:12 | 2025-01-09 | 2025-08-03 |
 | [KAHANI](https://open.spotify.com/track/1HBT2aq5MwWncKt4H4SiBr) | [Avin Gill](https://open.spotify.com/artist/0jl5MrF3Ry8ROjsl5Opfdp) | [KAHANI](https://open.spotify.com/album/5EktebJF2fNgJMROjzlPGS) | 2:46 | 2024-11-20 | 2025-03-21 |
 | [Kajla](https://open.spotify.com/track/5WLhcOzSlH8fGqwVWQN7QO) | [Sakshi Ratti](https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Kajla](https://open.spotify.com/album/7A8U16OreD6q9ahr2xsZY4) | 2:12 | 2024-10-08 | 2024-11-22 |
 | [Kala Dhaga](https://open.spotify.com/track/1D7hlxCIxeKvBYUVKTa1P9) | [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg) | [Kala Dhaga](https://open.spotify.com/album/6vHA6JUcG1QvLcZzRJKRiV) | 2:36 | 2023-03-18 | 2023-05-26 |
@@ -154,6 +154,7 @@
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2023-03-18 | 2024-09-06 |
 | [Patt Honeya](https://open.spotify.com/track/25EmyJwqn4w9XNgyavuYPv) | [Sona Walia](https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH) | [Patt Honeya](https://open.spotify.com/album/2wq9au4ttipIHtxUADKInY) | 3:05 | 2024-11-27 | 2024-12-10 |
 | [Perfection](https://open.spotify.com/track/6hN5PBVrnAwydgOYNWeUWj) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Perfection](https://open.spotify.com/album/4IToiiA9yQfiSmAJJcQM4a) | 1:40 | 2024-04-24 | 2024-09-03 |
+| [Petrol](https://open.spotify.com/track/7kyMYKaxPR87EYzoglW6g6) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Preet Walia](https://open.spotify.com/artist/4qsD4MnZzpSlNfp84gvhkh) | [Miss Pooja, Vol\. 1 All Time Hits](https://open.spotify.com/album/6M1iSeTkr6lUyx1gqhNZCt) | 4:43 | 2025-08-02 |  |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-03-18 | 2024-11-05 |
 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 | 2025-03-20 |  |
 | [Raah](https://open.spotify.com/track/5jZDDXuXDySYyd6DSCKOco) | [Manvi Arora](https://open.spotify.com/artist/5qrWplhwtDCuQdSDKrDrxf) | [Raah](https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy) | 2:20 | 2024-11-26 | 2025-01-18 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 
 > This is Sasha Keable\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,799 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,836 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 |
 | 2 | [NIGHT OFF](https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [NIGHT OFF](https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB) | 2:53 |
 | 3 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 |
-| 4 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
-| 5 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
+| 4 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
+| 5 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 6 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 |
 | 7 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
 | 8 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 13 | [Killing Me](https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk) | 3:25 |
 | 14 | [Just Friends](https://open.spotify.com/track/0x982r9aceSlBtLzcZJkZx) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Just Friends](https://open.spotify.com/album/3Ku6dD9ecLNxZvV2P32p8a) | 4:10 |
 | 15 | [Don't Get Lost](https://open.spotify.com/track/5LgHHLy2dZZsbOQBmPDvHB) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 3:42 |
-| 16 | [Voices](https://open.spotify.com/track/21Hi6CcF4daxzk9ZYurhTx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:09 |
-| 17 | [Under Your Skin](https://open.spotify.com/track/5Qg23yGJ9l20JMCRXhIcCD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [MAN](https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde) | 4:45 |
+| 16 | [Under Your Skin](https://open.spotify.com/track/5Qg23yGJ9l20JMCRXhIcCD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [MAN](https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde) | 4:45 |
+| 17 | [Voices](https://open.spotify.com/track/21Hi6CcF4daxzk9ZYurhTx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:09 |
 | 18 | [Loyalty \(Acoustic\)](https://open.spotify.com/track/0QrgYVvsHzzmJ5kM80VC85) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Loyalty \(Acoustic\)](https://open.spotify.com/album/65Xg40i0Wlqu7sdOkEMZPK) | 4:23 |
 | 19 | [Exception](https://open.spotify.com/track/0pbPiK8zJedhwBHOKPz9Fx) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 4:06 |
 | 20 | [That's the Shit](https://open.spotify.com/track/4yV3QkskfPf2dRJMBbVTqk) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [That's the Shit](https://open.spotify.com/album/2oAse00yR0sZoTByqVvmxn) | 3:06 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 39 | [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 |
 | 40 | [Spoke To Myself](https://open.spotify.com/track/5CVnpiYwMTNYeJofND7y3x) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:28 |
 
-Snapshot ID: `aIqyAAAAAADEak4/sPONpib1b0V5Mpme`
+Snapshot ID: `aIwDgAAAAABT5Pd5A8e2E7lOOM20WaDe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > sexy afrobeats
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,178 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,186 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 59 | [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 |
 | 60 | [weight](https://open.spotify.com/track/6Xs0BBQGIRCQxQwL0zt7lD) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Ashref](https://open.spotify.com/artist/5VlCWMebGynSUIx6dRxaPe) | [Dear Z](https://open.spotify.com/album/5yYCqkCxYnXFLqApA98Ltv) | 2:54 |
 
-Snapshot ID: `AAAAAA/jbs5ymS9+zMNFnKHdJjkvu7S5`
+Snapshot ID: `aIwD5AAAAADqGWrX0pAfPuDfEyuQN4oz`

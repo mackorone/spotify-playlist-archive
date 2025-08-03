@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,392 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,395 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
 | 50 | [Dreams Don’t Die](https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dreams Don’t Die](https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z) | 3:01 |
 
-Snapshot ID: `AAAAAJWDJpn3MQ9NmSu2NtH+EgRUqxFi`
+Snapshot ID: `aIt3BwAAAAC7H35F64Ht/jyU21dQpTVO`

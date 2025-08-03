@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 71618,
+  "num_followers": 71630,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 156126,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Carry You",
         "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 215905,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 156126,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Feels Right (I Love It)",
-        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Brian Kelley",
-          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
-        }
-      ],
-      "duration_ms": 147189,
-      "name": "Feels Right (I Love It)",
-      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Feels Right (I Love It)",
+        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "duration_ms": 147189,
+      "name": "Feels Right (I Love It)",
+      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
     },
     {
       "added_at": "2024-08-29 22:00:00",

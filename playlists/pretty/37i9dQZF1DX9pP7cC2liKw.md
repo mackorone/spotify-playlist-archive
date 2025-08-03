@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,042 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,738 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 10 | [AIO \- Bosq Remix](https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [AIO \(Bosq Remix\)](https://open.spotify.com/album/398yIs7sB6fNFJkpbMJcAg) | 3:13 |
 | 11 | [The Way That I Found You](https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq), [Val Fritz](https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6) | [The Way That I Found You](https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs) | 2:50 |
 | 12 | [Brunch With Suki](https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 3:44 |
-| 13 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 |
-| 14 | [Tu Te Vas](https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Laeti](https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf) | [Tu Te Vas](https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu) | 3:25 |
+| 13 | [Tu Te Vas](https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Laeti](https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf) | [Tu Te Vas](https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu) | 3:25 |
+| 14 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 |
 | 15 | [Perdida](https://open.spotify.com/track/2BI6KD4uL19vAqbUs76EpF) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Velveta](https://open.spotify.com/artist/6k0FM5lvukpP68GlodFQcA) | [Yo No Soy Marinero](https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5) | 3:54 |
 | 16 | [Laughter of the Sea](https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Mola Mola](https://open.spotify.com/artist/0Dx2tP67L4Gs9ucLTGk1S9) | [Laughter of the Sea](https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH) | 5:59 |
 | 17 | [Teu Sorriso \- Jex Opolis Remix](https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Claremont 56: 10 Years, Pt\. 1](https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP) | 7:09 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 63 | [Je Pense à Toi](https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Je pense à toi](https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz) | 4:32 |
 | 64 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
 | 65 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
-| 66 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
-| 67 | [Lo Bueno Está Aquí](https://open.spotify.com/track/3VZszH38QS6BWiKEWeZIw8) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i) | 4:22 |
-| 68 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
-| 69 | [Agua, Arena, Sol y Viento](https://open.spotify.com/track/1djvsJfRULPkKeTumFfwgL) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:08 |
+| 66 | [Lo Bueno Está Aquí](https://open.spotify.com/track/3VZszH38QS6BWiKEWeZIw8) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i) | 4:22 |
+| 67 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
+| 68 | [Agua, Arena, Sol y Viento](https://open.spotify.com/track/1djvsJfRULPkKeTumFfwgL) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:08 |
+| 69 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
 | 70 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
 
 Snapshot ID: `aGxJFQAAAAA1BEZMNGnkdo5r+a7SOAWv`

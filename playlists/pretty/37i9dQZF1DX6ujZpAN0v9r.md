@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,006 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,136 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 35 | [Fall](https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:59 |
 | 36 | [Pearl \- 12'' Version](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |
 | 37 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
-| 38 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
-| 39 | [Seagull \- 2001 Remaster](https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Nowhere \(Expanded\)](https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ) | 6:08 |
-| 40 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
-| 41 | [Porcelain](https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 5:07 |
+| 38 | [Seagull \- 2001 Remaster](https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Nowhere \(Expanded\)](https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ) | 6:08 |
+| 39 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
+| 40 | [Porcelain](https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 5:07 |
+| 41 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
 | 42 | [Ride](https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Dandys Rule OK](https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW) | 4:09 |
-| 43 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
-| 44 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 |
+| 43 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 |
+| 44 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
 | 45 | [Raindrop](https://open.spotify.com/track/6t56M2FiiLhebISr4GJwvF) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 4:04 |
 | 46 | [On My Own \- 2019 remaster](https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 6:39 |
 | 47 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 75 | [Landing](https://open.spotify.com/track/3JYkqeNDO72o8hNPwKsD6e) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/1wYMTM3mpZLYsoGzl5OFvR) | 3:52 |
 | 76 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
 | 77 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
-| 78 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
-| 79 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
+| 78 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
+| 79 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
 | 80 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |
 | 81 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
 | 82 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 |

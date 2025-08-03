@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,329 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,343 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 33 | [Pedacito de Mi Vida](https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX) | [Tommy Portugal](https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i) | [Homenaje a Nuestra Kumbia](https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW) | 3:47 |
 | 34 | [Me extrañarás](https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Me extrañarás](https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O) | 4:22 |
 | 35 | [Mujer Hilandera](https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Cumbia](https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU) | 5:00 |
-| 36 | [Tú Me Haces Más Fuerte](https://open.spotify.com/track/4xb2uD9GnCXuTyzrN1PANS) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Tú Me Haces Más Fuerte](https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn) | 3:22 |
-| 37 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
+| 36 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
+| 37 | [Tú Me Haces Más Fuerte](https://open.spotify.com/track/4xb2uD9GnCXuTyzrN1PANS) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Tú Me Haces Más Fuerte](https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn) | 3:22 |
 | 38 | [Tu Ausencia \- En Vivo](https://open.spotify.com/track/4Vy8gFPwZHuR35cwlYNoSE) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Nuestros 30 Años \(En Vivo\)](https://open.spotify.com/album/7uWi6ggwuyvGPmUn5QIKB1) | 5:36 |
 | 39 | [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 |
 | 40 | [Juraste Querrerme](https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [El Baile de la Serpiente](https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt) | 3:29 |

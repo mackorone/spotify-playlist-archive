@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,999 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,256 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 50 | [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 |
 | 51 | [Pistol](https://open.spotify.com/track/3WPIRfYHtn5REB8Ydp9PhO) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:30 |
 
-Snapshot ID: `AAAAAKx1BKulEsuuuS8ZCruEEzJnUCP7`
+Snapshot ID: `aIrtrgAAAAA1vWTeOsCT9AqyggktX6hI`

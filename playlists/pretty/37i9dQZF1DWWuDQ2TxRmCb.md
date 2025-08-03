@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,685 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,708 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 33 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |
 | 34 | [Sadho Re](https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:11 |
 | 35 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
-| 36 | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Gulzar Ahmad Ganaie](https://open.spotify.com/artist/4gB0ajRtDQXc2Vdp02A1pJ) | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH) | 5:06 |
-| 37 | [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 |
+| 36 | [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 |
+| 37 | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Gulzar Ahmad Ganaie](https://open.spotify.com/artist/4gB0ajRtDQXc2Vdp02A1pJ) | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH) | 5:06 |
 | 38 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 |
 | 39 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 |
 | 40 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |

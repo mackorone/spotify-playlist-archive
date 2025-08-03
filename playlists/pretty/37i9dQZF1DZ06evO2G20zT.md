@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,714 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,769 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 25 | [Hushpuppi](https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:42 |
 | 26 | [Superstar](https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NSNV](https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk) | 1:46 |
 | 27 | [Lagos](https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:25 |
-| 28 | [Sin City](https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:48 |
+| 28 | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \- Remix](https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \[Remix\]](https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf) | 3:35 |
 | 29 | [Flakky](https://open.spotify.com/track/6SHKNvlSpKXQOwEse9OT6I) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:18 |
-| 30 | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \- Remix](https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \[Remix\]](https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf) | 3:35 |
+| 30 | [Sin City](https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:48 |
 | 31 | [Emo \(Remix\)](https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:36 |
 | 32 | [Bank Of America](https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:40 |
 | 33 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/0ww0GM0f5USzNZidkcoCVX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 49 | [Cash](https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Wara Wara Szn](https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs) | 3:00 |
 | 50 | [Darling \(feat\. Simi\)](https://open.spotify.com/track/4poZqVkmRcBoR04BZGnHEw) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:55 |
 
-Snapshot ID: `aIqyAAAAAABx3FdYrSAYG6HnHxz+5rSd`
+Snapshot ID: `aIwDgAAAAAC5EiXIKAJO81HWGqcgnuYY`

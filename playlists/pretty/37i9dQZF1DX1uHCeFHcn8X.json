@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2010s. ",
-  "num_followers": 1422197,
+  "num_followers": 1423621,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 269560,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 340706,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 340706,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
         }
       ],
-      "duration_ms": 237933,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 237933,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
+      "duration_ms": 240133,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1043,22 +1059,6 @@
       "duration_ms": 180933,
       "name": "Bored",
       "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -1999,6 +1983,22 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
@@ -2011,38 +2011,6 @@
       "duration_ms": 224866,
       "name": "Sweet Creature",
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211763,
-      "name": "Hold My Girl",
-      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2063,6 +2031,38 @@
       "duration_ms": 197573,
       "name": "Talk (feat. Disclosure)",
       "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211763,
+      "name": "Hold My Girl",
+      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Trigga Reloaded",
-        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 197854,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Hard 2 Face Reality",
         "url": "https://open.spotify.com/album/6JDmapag0dUDumU4jh5XhI"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 196569,
       "name": "Hard 2 Face Reality",
       "url": "https://open.spotify.com/track/0sPJELXHyWpFgkxlzvvRFI"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 197854,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Me Before You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 261079,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/7poZ9Yjx1nBxpTrUAm7feN"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 229303,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/2TUzU4IkfH8kcvY2MUlsd2"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Me Before You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 261079,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2895,22 +2895,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 176078,
-      "name": "Just a Cloud Away",
-      "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -2931,22 +2915,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "RIP Indo Hisashi",
-        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
       },
       "artists": [
         {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        },
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 195501,
-      "name": "Narcissist (feat. The 1975)",
-      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
+      "duration_ms": 176078,
+      "name": "Just a Cloud Away",
+      "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2967,6 +2947,26 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "RIP Indo Hisashi",
+        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 195501,
+      "name": "Narcissist (feat. The 1975)",
+      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Selfless",
-        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "EX",
-      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Big Plans",
         "url": "https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 184665,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3271,22 +3271,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 270461,
-      "name": "That's Us",
-      "url": "https://open.spotify.com/track/7sTDqaGUr9NM8NHQ5SNHi1"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Love on the Weekend",
         "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
       },
@@ -3299,6 +3283,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 270461,
+      "name": "That's Us",
+      "url": "https://open.spotify.com/track/7sTDqaGUr9NM8NHQ5SNHi1"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3355,22 +3355,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "I Can't Carry This Anymore",
-        "url": "https://open.spotify.com/album/51FT0jxpcACduSG3w3NiFL"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I Can't Carry This Anymore",
-      "url": "https://open.spotify.com/track/2vzWylXWogTG11HR0frews"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "lovestrong.",
         "url": "https://open.spotify.com/album/7y9YBPD8no8ar1ft91Mmgl"
       },
@@ -3383,6 +3367,22 @@
       "duration_ms": 246587,
       "name": "jar of hearts",
       "url": "https://open.spotify.com/track/7p8wAUDFBSWPMh2KxfUDQk"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "I Can't Carry This Anymore",
+        "url": "https://open.spotify.com/album/51FT0jxpcACduSG3w3NiFL"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I Can't Carry This Anymore",
+      "url": "https://open.spotify.com/track/2vzWylXWogTG11HR0frews"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3407,26 +3407,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Silhouettes",
         "url": "https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC"
       },
@@ -3439,22 +3419,6 @@
       "duration_ms": 230416,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0ygOBx60exSPPvnI4sS28r"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "Robin Hood",
-        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Robin Hood",
-      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3495,6 +3459,42 @@
       "duration_ms": 245413,
       "name": "Everything Has Changed",
       "url": "https://open.spotify.com/track/5PjfMmF06QtxTPZBZHdhoZ"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Robin Hood",
+        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Robin Hood",
+      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3595,22 +3595,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Make My Bed",
-        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -3623,6 +3607,22 @@
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Make My Bed",
+        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3963,22 +3963,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Last Year Was Complicated",
-        "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Chainsaw",
-      "url": "https://open.spotify.com/track/5UsW4W8VgHrRLDzXQ9XSpt"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Think Before I Talk",
         "url": "https://open.spotify.com/album/0AZnZ7IuXAO9k6rYNKZSxg"
       },
@@ -3991,6 +3975,22 @@
       "duration_ms": 184908,
       "name": "Think Before I Talk",
       "url": "https://open.spotify.com/track/4lszNcJSaz61QT6gpMhFU1"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Last Year Was Complicated",
+        "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Chainsaw",
+      "url": "https://open.spotify.com/track/5UsW4W8VgHrRLDzXQ9XSpt"
     },
     {
       "added_at": "2024-07-15 19:36:11",

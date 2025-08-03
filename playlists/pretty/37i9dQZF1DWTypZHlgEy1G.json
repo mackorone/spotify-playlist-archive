@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536190,
+  "num_followers": 536175,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "France Gall CD Story",
+        "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 188466,
       "name": "C\u00e9line",
       "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Georges Brassens Gold",
-        "url": "https://open.spotify.com/album/1cQnovhPp0wDLyT4HfTLvW"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Les copains d'abord",
-      "url": "https://open.spotify.com/track/1RarFtujsd7NHoe0mFtVLx"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "France Gall CD Story",
-        "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
+        "name": "Georges Brassens Gold",
+        "url": "https://open.spotify.com/album/1cQnovhPp0wDLyT4HfTLvW"
       },
       "artists": [
         {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
         }
       ],
-      "duration_ms": 153480,
-      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
-      "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
+      "duration_ms": 241626,
+      "name": "Les copains d'abord",
+      "url": "https://open.spotify.com/track/1RarFtujsd7NHoe0mFtVLx"
     },
     {
       "added_at": "2024-07-25 13:22:22",

@@ -4,7 +4,7 @@
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 20 min
+81 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Inevitable](https://open.spotify.com/track/7l4u4dXMdXo88bq7pgbmgo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 2:40 | 2024-06-12 | 2024-06-22 |
 | [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 | 2023-03-10 |  |
 | [Kaleidoscope Jesus](https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:54 | 2024-06-23 |  |
+| [Let It Be A Hallelujah](https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Let It Be A Hallelujah](https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc) | 3:58 | 2025-08-03 |  |
 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 | 2023-03-13 |  |
 | [Look Up Child](https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:03 | 2023-03-10 |  |
 | [Love Like This](https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:14 | 2023-03-10 |  |

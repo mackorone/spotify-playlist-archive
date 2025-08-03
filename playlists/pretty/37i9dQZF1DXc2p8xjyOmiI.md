@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 Jasiel Nuñez, Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,187 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,380 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 | 74 | [Haganse A Un Lado](https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Haganse A Un Lado](https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B) | 2:36 |
 | 75 | [En El Humaderon](https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:23 |
 
-Snapshot ID: `AAAAAJsnswHqA3HRme+rrE7fsMvUR8f3`
+Snapshot ID: `aGcjtwAAAADgT5mPoXzIgiaalVWDwo0d`

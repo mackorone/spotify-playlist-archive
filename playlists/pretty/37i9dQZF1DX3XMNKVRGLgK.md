@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,918 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,922 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 9 | [War](https://open.spotify.com/track/1I55Ea0zVoSKs6MqW7DQ3i) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:00 |
 | 10 | [All Day](https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [All Day](https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO) | 5:10 |
 | 11 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
-| 12 | [If You Know You Know](https://open.spotify.com/track/6bGwKHXHNLmTy6yt147FPh) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 3:22 |
-| 13 | [Time \(feat\. Meek Mill\)](https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:02 |
+| 12 | [Time \(feat\. Meek Mill\)](https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:02 |
+| 13 | [If You Know You Know](https://open.spotify.com/track/6bGwKHXHNLmTy6yt147FPh) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 3:22 |
 | 14 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
 | 15 | [U Don't Know](https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 3:19 |
 | 16 | [Too Fast](https://open.spotify.com/track/42QRyJd5x6e2TFR1S41g2p) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Fast](https://open.spotify.com/album/3VOtFn4nuS6eOiwBMnEY2j) | 5:08 |

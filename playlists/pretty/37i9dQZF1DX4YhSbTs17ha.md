@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. Corina Smith y Lasso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,759,524 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760,247 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 | 79 | [Perfecta \(Versión 2023\)](https://open.spotify.com/track/0vUqiSvbUICW3YtTA5ecSX) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:41 |
 | 80 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 |
 
-Snapshot ID: `AAAAADU8+AxdPh3KAlnIXleriK5cVFlp`
+Snapshot ID: `aI0QpwAAAABQQiqTZEC4/+GEoVDjZPvG`

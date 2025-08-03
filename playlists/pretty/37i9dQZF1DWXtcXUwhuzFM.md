@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 ### [New Music Friday Suomi](https://open.spotify.com/playlist/37i9dQZF1DWXtcXUwhuzFM)
 
-> Uutta musiikkia Joel L, Sexmane monelta muulta!
+> Uutta musiikkia tarjoilevat Joe L, Sexmane, Jami Faltin, Chappell Roan ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,451 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,448 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 15 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 |
 | 16 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
 | 17 | [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 |
-| 18 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 18 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 19 | [Music for the Soul](https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:44 |
 | 20 | [Kaaos](https://open.spotify.com/track/3sAuSGeIAXMzl1VdMXtJtD) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kaaos](https://open.spotify.com/album/7gHx6mdw2L4TAXlAAtS2LZ) | 3:06 |
 | 21 | [The Runner](https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [The Runner](https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 99 | [Like I Do](https://open.spotify.com/track/4sccgnpKkKON1YSMplLVvY) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Like I Do](https://open.spotify.com/album/0x9ilAJRBn839RmtX7LqcE) | 2:13 |
 | 100 | [Pretty Girls](https://open.spotify.com/track/3AUpTpz3K8o54wxCHnTgDz) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Pretty Girls](https://open.spotify.com/album/6Rd08XZvsepsY6RqZ3cEyy) | 2:26 |
 
-Snapshot ID: `AAAAAGxhNB4/Y3ctNcrKJAAI/S9oVS1G`
+Snapshot ID: `aI3z9wAAAAA0+Sg+naRwsqNLXTGsfHTG`

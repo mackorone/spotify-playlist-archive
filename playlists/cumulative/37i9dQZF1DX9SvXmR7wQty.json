@@ -12441,6 +12441,28 @@
     },
     {
       "album": {
+        "name": "Congolaise",
+        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174920,
+      "name": "Congolaise",
+      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
+    },
+    {
+      "album": {
         "name": "D\u00e9g\u00e2t",
         "url": "https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4"
       },
@@ -50511,7 +50533,7 @@
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 125533,
+      "duration_ms": 125575,
       "name": "Quelque chose",
       "url": "https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm"
     },
@@ -60806,7 +60828,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 191786,
       "name": "Toute premi\u00e8re fois",
       "url": "https://open.spotify.com/track/1wrQRszAyr6cP8mj8PLQLS"

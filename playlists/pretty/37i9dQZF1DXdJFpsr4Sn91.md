@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,675 likes - 95 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,680 likes - 95 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

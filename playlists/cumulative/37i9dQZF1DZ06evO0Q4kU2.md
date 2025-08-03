@@ -4,7 +4,7 @@
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 17 min
+71 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 | 2025-03-04 | 2025-04-09 |
 | [The Monolith](https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar \(Traveler’s Log\)](https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j) | 4:32 | 2025-04-09 |  |
 | [The True Meaning Of Forever](https://open.spotify.com/track/5Ra7ByPWTvyDa9pSJlz5Xu) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The True Meaning Of Forever](https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED) | 2:51 | 2025-03-04 | 2025-07-31 |
-| [The Waves](https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:38 | 2025-03-08 |  |
+| [The Waves](https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:38 | 2025-03-08 | 2025-08-03 |
 | [The Winds](https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:01 | 2025-03-04 |  |
 | [Think Of Home \- Kelly Moran Rework](https://open.spotify.com/track/0P47tLCM8LXbELfQrsiu2A) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Reworks I](https://open.spotify.com/album/1ubqhgV9QM2EREaCbf41ep) | 3:38 | 2025-03-04 | 2025-04-10 |
 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 | 2025-03-04 |  |
@@ -78,5 +78,6 @@
 | [Whale Overture](https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Whale Overture](https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb) | 4:13 | 2025-03-04 |  |
 | [Whale Variation](https://open.spotify.com/track/45dS5EfgmAWuUsqQTWuI5A) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Whale Overture](https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb) | 2:36 | 2025-03-04 | 2025-03-30 |
 | [Whale Variation](https://open.spotify.com/track/4mtS9zsFo6OPcxwQOWfKau) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 2:36 | 2025-03-30 |  |
+| [Whales at Dusk](https://open.spotify.com/track/14M73gHqUYEayKdGQenYmZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Whales at Dusk](https://open.spotify.com/album/4mjvmugHULMyaD8J6v7FV7) | 2:23 | 2025-08-03 |  |
 
 \*This playlist was first scraped on 2025-03-04. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 304603,
+  "num_followers": 304661,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAkww3rgjmxoaxmv5HAE8w9",
+  "snapshot_id": "aIwDgAAAAAAvtFMQJ5l2tVr/W98Cb2kY",
   "tracks": [
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 192307,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
+      "duration_ms": 225400,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr"
+      "duration_ms": 192307,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 271933,
-      "name": "Circus for a Psycho",
-      "url": "https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 197992,
       "name": "You Ain't Ready",
       "url": "https://open.spotify.com/track/1v0031VtKGsWfPDkKzGV3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 271933,
+      "name": "Circus for a Psycho",
+      "url": "https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2"
     },
     {
       "added_at": null,

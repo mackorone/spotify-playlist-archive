@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,932 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,961 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `AAAAAGpobBmU9EXCOYhtkMaMKt2CgEuB`
+Snapshot ID: `Z8p9ZAAAAABAHyTVAhwF+U5rjn90ZMBA`

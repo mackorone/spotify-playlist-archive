@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by ROBI, Ruaw Alejandro, Chino Pacas, Emilia and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,005 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,043 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 29 | [Esos Ojitos](https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Esos Ojitos](https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw) | 2:50 |
 | 30 | [El Queso](https://open.spotify.com/track/6OYPOLCc7Vr2tVZN854s0q) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Queso](https://open.spotify.com/album/4nATRnXM5F8YaaYYdgfOFa) | 2:36 |
 | 31 | [Dime](https://open.spotify.com/track/1by8TAJF3wcXsvdr56dw6R) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dime](https://open.spotify.com/album/37cIG9qKxOHl0UcjjmH1Ys) | 3:40 |
-| 32 | [MÍA BB](https://open.spotify.com/track/3IEGlUhFgcLDnn1SBsWLbu) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Mía Bebe](https://open.spotify.com/album/332kDr954naSpxByBjHUKO) | 2:48 |
+| 32 | [MÍA BB](https://open.spotify.com/track/3IEGlUhFgcLDnn1SBsWLbu) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [MÍA BB](https://open.spotify.com/album/332kDr954naSpxByBjHUKO) | 2:48 |
 | 33 | [BÁILALO](https://open.spotify.com/track/6VbGsDdS6IADgudw9RLk03) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [RayBurger](https://open.spotify.com/artist/1slhiJk67NIqE9BV98UN3r) | [BÁILALO](https://open.spotify.com/album/5Nzqj7dKCIRqg7XodqfKOu) | 2:14 |
 | 34 | [Brillo](https://open.spotify.com/track/1dM9h8qE96K36wZGi6qgds) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Brillo](https://open.spotify.com/album/659cpSZqxmAmIgnJcqb5tQ) | 2:54 |
 | 35 | [3 AM](https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [3 AM](https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Por Ti Ya No Creo En Los Hombres](https://open.spotify.com/track/3xo0LrhsESiMMBXP06HkQ3) | [La Pardo](https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU) | [CABRONA](https://open.spotify.com/album/2MlliCtFBI9qPYFXCjzb1N) | 3:00 |
 | 50 | [Soy Un Perro](https://open.spotify.com/track/3VIXysznU0p8RlDvCyMC6n) | [Chune](https://open.spotify.com/artist/0M8yh4QnShC2YBY1TGznCm), [PAARIS](https://open.spotify.com/artist/5vxE66d4SfVuLo625uoecB) | [Soy Un Perro](https://open.spotify.com/album/1r4kwAkjhlv1usRoh2JrBe) | 3:23 |
 
-Snapshot ID: `aIw76wAAAACn5yOAXdgiBRAX+E9r8azo`
+Snapshot ID: `AAAAAEJe9s6++QHHi+Eg/AmFKWmJXs2V`

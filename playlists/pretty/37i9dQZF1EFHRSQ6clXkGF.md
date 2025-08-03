@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,267 likes - 270 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,267 likes - 270 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 156 | [Day After Day](https://open.spotify.com/track/0u9oWorCtCRwZB7rLFuKau) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Day After Day](https://open.spotify.com/album/0n0ii7DUbJYN4aRENlzCG1) | 2:10 |
 | 157 | [Lakota](https://open.spotify.com/track/0jJUULkCzLFazesFZdyNRA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 6:26 |
 | 158 | [Wild Things Run Fast](https://open.spotify.com/track/1hcEB4dpf3vzoMuF7qyrUc) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 2:16 |
-| 159 | [Be Cool](https://open.spotify.com/track/7BffcZU2SKqgkZe3WC4gni) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 5:09 |
+| 159 | [Be Cool](https://open.spotify.com/track/7tOUMl518Q9VNWI6L5ufvs) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 4:13 |
 | 160 | [Le grand parking](https://open.spotify.com/track/39cIOOwA67aAu31wFVgFZ0) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin \(Country\)](https://open.spotify.com/album/5ZmhcWrPhUkLxKhHL97eT8) | 2:15 |
 | 161 | [Alchemy](https://open.spotify.com/track/6ISD5HRFGMfdpwtYfv9Wbe) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:40 |
 | 162 | [The Silky Veils of Ardor](https://open.spotify.com/track/3UEKICgKuBB9U9nEg5PMap) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 4:01 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 269 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 270 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `Ab4XdAAAAAByWSQU0cauC3c+qwDLFth4`
+Snapshot ID: `Ab4dKAAAAAChayhT2kRjI/s9Csb/hk8P`

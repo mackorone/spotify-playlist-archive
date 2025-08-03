@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español con los 100 millones de streams de "High" de Rawayana 🇻🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,578 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197,394 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 72 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
 | 73 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
 | 74 | [Lágrimas](https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Lágrimas](https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu) | 4:40 |
-| 75 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
-| 76 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
+| 75 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
+| 76 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 77 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
 | 78 | [+ UNIDAD](https://open.spotify.com/track/6anJzxYYM8gkFhjE6CKlP8) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [+ UNIDAD](https://open.spotify.com/album/3z3IHTyAZP2EtRP7B2AwiG) | 3:05 |
 | 79 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
-| 80 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
-| 81 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
-| 82 | [Veneno](https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Veneno](https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp) | 3:19 |
+| 80 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
+| 81 | [Veneno](https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Veneno](https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp) | 3:19 |
+| 82 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
 | 83 | [Fragmentos del Alma](https://open.spotify.com/track/02atfXPeeIsceeZ6fuHipQ) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [Fragmentos del Alma](https://open.spotify.com/album/3dxhNXCDa4yuKZ1BioV7Ua) | 5:21 |
 | 84 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 |
 | 85 | [Mucha Experiencia \- Su Reggaeton Mix](https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 3:15 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 97 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 |
 | 98 | [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 |
 | 99 | [Entre Sueños y Raíces](https://open.spotify.com/track/5nq2HHQtaXvLmzzPRtYjCQ) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Entre Sueños y Raíces](https://open.spotify.com/album/54P5ka3t8iz5aQJ87WjWih) | 5:18 |
-| 100 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
+| 100 | [Mi Velero \- The Remix](https://open.spotify.com/track/6216xg8ZfPz40rUkrNifqc) | [Kinky Bwoy](https://open.spotify.com/artist/0MdmBtTM7CiggP607Mh1Fs) | [Mi Velero \(The Remix\)](https://open.spotify.com/album/0IoPfBP7g17KJefmuh8RcE) | 3:51 |
 
 Snapshot ID: `aIqnhwAAAABjfl7dtct8R3Izk02b4Umq`

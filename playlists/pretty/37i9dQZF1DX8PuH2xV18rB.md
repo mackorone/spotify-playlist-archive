@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,641 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,639 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 | 36 | [Beethoven Virus](https://open.spotify.com/track/299X2r8Ei0ecTat3CdmdaA) | [Diana](https://open.spotify.com/artist/2Zmqdz7cF17LbLOz3Kwnqg) | [Beethoven Virus](https://open.spotify.com/album/2wAcELxSyvFr5qYCvb558O) | 3:39 |
 | 37 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 
-Snapshot ID: `ZIxWYgAAAABIanzvNeWgk9tLhKiC2/s7`
+Snapshot ID: `AAAAAJ/Lf+u88nk1puGk82CFSUlWo5o0`

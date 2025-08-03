@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Fawad Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,664 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,687 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 69 | [Mujh Se Duur](https://open.spotify.com/track/0wCtnWUf3RrjUWSWM4FhP8) | [Eid Milan](https://open.spotify.com/artist/7BKTvq04dovtVmBCJN2jQj) | [LOLLYWOOD TAPES](https://open.spotify.com/album/57mBQ0Rbj7gyllup5448wy) | 1:13 |
 | 70 | [Dream Girl](https://open.spotify.com/track/11SHU1Q62PoP7h1DjrEHUe) | [TAHIR ABBAS](https://open.spotify.com/artist/4mBS6YbM7OV0XNIfwxaOpX) | [Dream Girl](https://open.spotify.com/album/3v3HiLAxz3Wn37FT5YKCYn) | 3:29 |
 
-Snapshot ID: `AAAAANaTAIKGHwM4sj/cf6eDJU3t9UKm`
+Snapshot ID: `aIyPrwAAAABu7OYebAaVRBx6ZLD3INxH`

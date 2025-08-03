@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 134380,
+  "num_followers": 134411,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABY7ndubAdZpvl78RmzVPXi",
+  "snapshot_id": "aIwDgAAAAABls3dDqhpEwZwAzJf/2PYO",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Of Love",
-        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 402413,
-      "name": "Power of Love / Love Power",
-      "url": "https://open.spotify.com/track/6ep87j7rt6j8Fok55N9NOs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dance",
         "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 257800,
       "name": "Can't Let You Go (The Sha La Song)",
       "url": "https://open.spotify.com/track/2WB9kG4tMNNtri6xvddDEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Power Of Love",
+        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 402413,
+      "name": "Power of Love / Love Power",
+      "url": "https://open.spotify.com/track/6ep87j7rt6j8Fok55N9NOs"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
       "duration_ms": 302533,
       "name": "Any Love",
       "url": "https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 297880,
-      "name": "Sugar and Spice (I Found Me a Girl)",
-      "url": "https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 297880,
+      "name": "Sugar and Spice (I Found Me a Girl)",
+      "url": "https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Love",
-        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 438466,
-      "name": "Love Won't Let Me Wait",
-      "url": "https://open.spotify.com/track/0j8bk2BNaEj0PYcNFCGwLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever, For Always, For Love",
         "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 282546,
       "name": "Promise Me",
       "url": "https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Love",
+        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 438466,
+      "name": "Love Won't Let Me Wait",
+      "url": "https://open.spotify.com/track/0j8bk2BNaEj0PYcNFCGwLb"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Of Love",
-        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Don't Want to Be a Fool",
-      "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever, For Always, For Love",
         "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 326813,
       "name": "Since I Lost My Baby",
       "url": "https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Power Of Love",
+        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Don't Want to Be a Fool",
+      "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Night With You: The Best Of Love, Volume 2",
-        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 327920,
-      "name": "It's All About You",
-      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 294000,
       "name": "All The Woman I Need",
       "url": "https://open.spotify.com/track/2VcUWg5UIQo0H5AqeA38zc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 373800,
+      "name": "Because It's Really Love",
+      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+        "name": "One Night With You: The Best Of Love, Volume 2",
+        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 373800,
-      "name": "Because It's Really Love",
-      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
+      "duration_ms": 327920,
+      "name": "It's All About You",
+      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Secret Love",
-        "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 335480,
-      "name": "I Can Make It Better",
-      "url": "https://open.spotify.com/track/70NmePXQxL3b688VuLSFae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 310266,
       "name": "Stop to Love",
       "url": "https://open.spotify.com/track/0M78T1W2eL8DsLgCufoGzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Secret Love",
+        "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "I Can Make It Better",
+      "url": "https://open.spotify.com/track/70NmePXQxL3b688VuLSFae"
     },
     {
       "added_at": null,

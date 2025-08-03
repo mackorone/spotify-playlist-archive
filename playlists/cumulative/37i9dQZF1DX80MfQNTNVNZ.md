@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-596 songs - 1 day 11 hr 8 min
+597 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-12-23 | 2022-07-29 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-07-28 | 2022-10-13 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/album/0nmhxFpBG8CgdjeoomP4go) | 2:30 | 2021-12-23 | 2022-07-27 |
+| [born to love you](https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [born to love you](https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio) | 3:38 | 2025-08-01 |  |
 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 | 2021-12-23 | 2022-11-13 |
 | [Boundaries](https://open.spotify.com/track/1x8Y6qmIS378NB720asCAm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boundaries](https://open.spotify.com/album/11HvsZeFnziylX9EaMzVaK) | 3:15 | 2022-10-06 | 2022-10-14 |
 | [brand new teeth](https://open.spotify.com/track/52DB1pkUN9cyYjLK0vmI0s) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [brand new teeth](https://open.spotify.com/album/2jxdO5piZh8yURPkJddghF) | 4:27 | 2025-06-03 | 2025-06-28 |
@@ -587,7 +588,7 @@
 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 | 2023-10-26 | 2024-12-01 |
 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-16 | 2023-03-25 |
 | [You or Nobody \(with Timbaland\)](https://open.spotify.com/track/4jqQxnUg9MEqjgNeAw61BA) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [You Or Nobody](https://open.spotify.com/album/4Q1r9x8b0JJkf3mzRD2OLc) | 2:33 | 2025-03-21 | 2025-05-03 |
-| [You're Stuck \(feat\. Summer Walker\)](https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 4:04 | 2024-11-15 |  |
+| [You're Stuck \(feat\. Summer Walker\)](https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 4:04 | 2024-11-15 | 2025-08-03 |
 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-03-31 | 2024-05-23 |
 | [Youth \(feat\. Skaai\)](https://open.spotify.com/track/5f7Yii4MaG1ksyHHsb0KCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Youth \(feat\. Skaai\)](https://open.spotify.com/album/48b1YVvyE3HpukwhEZR2Y9) | 2:52 | 2025-02-21 |  |
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-16 | 2025-06-13 |

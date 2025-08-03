@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,857 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,922 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 12 | [Flaca](https://open.spotify.com/track/26JLezveasjmj1YypgUGsf) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/5s9XYiGirdLhc10yXPBoMn) | 3:24 |
 | 13 | [Nunca Tuve Tanto](https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c) | 2:49 |
 | 14 | [Los No Tan Tristes](https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
-| 15 | [Sin Ti Estoy Bien](https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sin Ti Estoy Bien](https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw) | 3:41 |
-| 16 | [Ojalá](https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ojalá](https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5) | 3:00 |
+| 15 | [Ojalá](https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ojalá](https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5) | 3:00 |
+| 16 | [Sin Ti Estoy Bien](https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sin Ti Estoy Bien](https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw) | 3:41 |
 | 17 | [Prohibida](https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 3:26 |
 | 18 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 |
 | 19 | [Me Da Lo Mismo](https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 4:06 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 42 | [Camina Sola](https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:33 |
 | 43 | [LQRA Session \#7](https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [LQRA Session \#7](https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW) | 2:49 |
 | 44 | [Mía](https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG) | 3:10 |
-| 45 | [Diálogos de Paz](https://open.spotify.com/track/2woSoLI9JC4JpF7kw6v8vc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Diálogos de Paz](https://open.spotify.com/album/736bsgKua2P9W13gSIMKAg) | 3:10 |
-| 46 | [El Día Que Te Duela](https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:13 |
+| 45 | [El Día Que Te Duela](https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:13 |
+| 46 | [Diálogos de Paz](https://open.spotify.com/track/2woSoLI9JC4JpF7kw6v8vc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Diálogos de Paz](https://open.spotify.com/album/736bsgKua2P9W13gSIMKAg) | 3:10 |
 | 47 | [Desde el Fondo](https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/4xDD54XJqrbcLH8FtGjylv) | 3:39 |
 | 48 | [Pa' Que Mami No Llore](https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8) | 3:51 |
 | 49 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 |
 | 50 | [Como Tú Ninguna](https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Tú Ninguna](https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn) | 3:56 |
 
-Snapshot ID: `aIqyAAAAAAAU44IDsF6kfq+ZSfPPISDY`
+Snapshot ID: `aIwDgAAAAACy0nWvNlwkY4uR7Cz9yhZu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/><br/>Cover: Ruel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,423 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,349 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Fly Too Close](https://open.spotify.com/track/4ayKdgNYQKVGgQ77sVesVy) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [I Really Don't Care!](https://open.spotify.com/album/3RC6eBwdiknJTFFVQ3BEFj) | 3:10 |
 | 100 | [love's not pain](https://open.spotify.com/track/2mElFGDLWCZnuyHt6APKdl) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [love's not pain](https://open.spotify.com/album/0KFgeoREfHIGhvOiyWAAWn) | 2:26 |
 
-Snapshot ID: `aIw75gAAAAB1IkxIoZekT5kOMA8bV51T`
+Snapshot ID: `AAAAAGwxdDuZctLk0cvwj7wYOXNNGq04`

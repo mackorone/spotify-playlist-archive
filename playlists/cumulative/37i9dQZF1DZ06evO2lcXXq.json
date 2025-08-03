@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Let It Be A Hallelujah",
+        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Let It Be A Hallelujah",
+      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
+    },
+    {
+      "album": {
         "name": "Light of the World",
         "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
       },

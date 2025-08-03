@@ -4,7 +4,7 @@
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 37 min
+115 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [El Fuerte](https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Fuerte](https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5) | 2:30 | 2024-03-29 | 2025-03-12 |
 | [El Gerente](https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:57 | 2024-01-29 |  |
 | [El JP \(En Vivo\)](https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El JP \(En Vivo\)](https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl) | 3:22 | 2024-01-29 | 2024-08-30 |
-| [El Mz](https://open.spotify.com/track/388legjpqnOgFciK1rSJR1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:52 | 2025-05-29 |  |
+| [El Mz](https://open.spotify.com/track/388legjpqnOgFciK1rSJR1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:52 | 2025-05-29 | 2025-08-03 |
 | [El Nieto Del Mayo](https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:11 | 2024-01-29 | 2025-06-01 |
 | [El Nieto Del Mayo](https://open.spotify.com/track/4K9kaN5FtqZtzrfICek4OP) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK) | 3:11 | 2025-06-01 | 2025-07-04 |
 | [El Niño De La Tuna](https://open.spotify.com/track/1zeVhRm7Nd1dVcWCwcCVcY) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9) | 2:47 | 2025-06-02 | 2025-07-12 |
@@ -105,6 +105,7 @@
 | [Prometiste](https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:29 | 2024-01-29 | 2025-05-31 |
 | [Préstamela a Mi](https://open.spotify.com/track/05ZVJRpH2rS1tsoB4gNYof) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:39 | 2024-08-31 | 2025-06-04 |
 | [Querido Rey](https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY) | 2:48 | 2025-04-06 |  |
+| [Qué Belleza De Mujer](https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Qué Belleza De Mujer](https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm) | 2:47 | 2025-08-03 |  |
 | [Recuérdame](https://open.spotify.com/track/5vF6b7gpsRYNLiGfgxmYTf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Recuérdame](https://open.spotify.com/album/5VqX6ku8XE7CVA2COJ9kxu) | 2:14 | 2024-01-29 | 2024-04-16 |
 | [Sal De Tu Casa](https://open.spotify.com/track/3CoAErFmTlm3nEaXUof1GS) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Sal De Tu Casa](https://open.spotify.com/album/2DhhVLtsUABmza86yvCXvW) | 2:26 | 2025-07-06 |  |
 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit diesem sonnigen Genre Mix 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,991 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,860 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 79 | [Baddest in Germany](https://open.spotify.com/track/68riJ0IgArc6va32ihh57s) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Baddest in Germany](https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci) | 2:20 |
 | 80 | [Rude Boi](https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Lou Combo](https://open.spotify.com/artist/1kkNVQF0LOEnXqKPO0ltVX), [Erin Kimberly](https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe) | [Rude Boi](https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB) | 3:35 |
 
-Snapshot ID: `aIzhiAAAAABvcUI0kFgdFnsszy5tiHRx`
+Snapshot ID: `AAAAAJQ9SF74A/ZtaapzadYL/o8o2Js5`

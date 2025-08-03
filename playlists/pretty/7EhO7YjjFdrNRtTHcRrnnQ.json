@@ -7,7 +7,816 @@
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAAAzejZYiY0o+IftuZuZIWutnwKGVC",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "#1 Hits of the 60's",
+        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
+      },
+      "artists": [
+        {
+          "name": "Bobby Lewis",
+          "url": "https://open.spotify.com/artist/6KfBWaX13etjtEZ4d9aTWW"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Tossin' and Turnin' (Rerecorded)",
+      "url": "https://open.spotify.com/track/4nbfkzqJQmGOBPYyHDInF3"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Introducing the Dwights",
+        "url": "https://open.spotify.com/album/3Z0LdhZyBaeniH7m9VpSrR"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 169473,
+      "name": "I Fall To Pieces",
+      "url": "https://open.spotify.com/track/5U2uhwJseYO7eH5nEwPb8z"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Cambridge Tapes",
+        "url": "https://open.spotify.com/album/1qOswBTXoVWSxyIyQIcfWj"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/42zQWH4QjEPz9xO4tJpgjZ"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/5EDhHmezbcIxL6qzPpMlhx"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Crying",
+        "url": "https://open.spotify.com/album/5GYI3MYDtS3pDZOQ29Unr5"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/2M3OVvigcmanSnRq1sdlVE"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "#1 Hits of the 60's",
+        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
+      },
+      "artists": [
+        {
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Runaway (Rerecorded)",
+      "url": "https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Golden Oldies",
+        "url": "https://open.spotify.com/album/4jiyg7yYn3iMkHsU13XsLc"
+      },
+      "artists": [
+        {
+          "name": "The Jive Five",
+          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
+        }
+      ],
+      "duration_ms": 154483,
+      "name": "My True Story",
+      "url": "https://open.spotify.com/track/2Dnosc9eeTGYSBjNlcqhkz"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Chubby Checker's Greatest Hits",
+        "url": "https://open.spotify.com/album/1nH3Sc0ajdHMJUzRlme2nk"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "Pony Time (Rerecorded)",
+      "url": "https://open.spotify.com/track/6eQCOABK6G41PBTaHXeR4Y"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Very Best Of The String-A-Longs",
+        "url": "https://open.spotify.com/album/7bdYWc82ghgo6dCOupoVpp"
+      },
+      "artists": [
+        {
+          "name": "The String-A-Longs",
+          "url": "https://open.spotify.com/artist/7CG3fjmCcZHXOnxYrpgE6W"
+        }
+      ],
+      "duration_ms": 116360,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/789lq0oHhOa4pHh2y9rjkN"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Golden Hits forever V5",
+        "url": "https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh"
+      },
+      "artists": [
+        {
+          "name": "Dee Clark",
+          "url": "https://open.spotify.com/artist/6PyZY3e7wgYgRdegqvqhSo"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/15Mgtv48qiYKrGuAWugXGe"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Wooden Heart",
+        "url": "https://open.spotify.com/album/2WoXvDJbgfpgdi7zStiZmO"
+      },
+      "artists": [
+        {
+          "name": "Joe Dowell",
+          "url": "https://open.spotify.com/artist/1b5taabb9eKSbyzVFVtEjh"
+        }
+      ],
+      "duration_ms": 119866,
+      "name": "Wooden Heart",
+      "url": "https://open.spotify.com/track/7h5V6w1ZGb8VHlq6HHbCoY"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Gold Pop Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/40Yzx8QGyYyke893SEqY5m"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Welk",
+          "url": "https://open.spotify.com/artist/2GMH35k5oLCjzYpn5HbaD8"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "Calcutta",
+      "url": "https://open.spotify.com/track/6G43xPTXl0zVgTajZMhW0y"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Very Best Of",
+        "url": "https://open.spotify.com/album/7d0HZUrDOmRKEzHvJv3ITe"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/19ZAI2LNUDj8TVpA6GwVWS"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Soul of Rock and Roll",
+        "url": "https://open.spotify.com/album/6VRhs2rkIAiREYXkVBAznF"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 131746,
+      "name": "Running Scared",
+      "url": "https://open.spotify.com/track/3aVE8eVqfZrGapoJlZxwIY"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Their Very Best (Rerecorded Version)",
+        "url": "https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "Dedicated to the One I Love (Rerecorded)",
+      "url": "https://open.spotify.com/track/365aSqfttyHcCsUZyJqVlg"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Stax-Volt: The Complete Singles 1959-1968",
+        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
+      },
+      "artists": [
+        {
+          "name": "The Mar-Keys",
+          "url": "https://open.spotify.com/artist/4EYRKWX3RvHihDHDr8TocR"
+        }
+      ],
+      "duration_ms": 157999,
+      "name": "Last Night - Single/",
+      "url": "https://open.spotify.com/track/6oAOIKatIRmIrHgKJUq3Pn"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Their Very Best (Rerecorded Version)",
+        "url": "https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 156186,
+      "name": "Will You Love Me Tomorrow (Rerecorded)",
+      "url": "https://open.spotify.com/track/3k0Ow4RdqhAi9Xi4hymx2j"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "All-Time Great Movie Themes",
+        "url": "https://open.spotify.com/album/2p2qPa5OyxOHLZM0ti8nmL"
+      },
+      "artists": [
+        {
+          "name": "Ernest Gold",
+          "url": "https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE"
+        },
+        {
+          "name": "Charles Eugene Patrick Boone",
+          "url": "https://open.spotify.com/artist/6nqkjhZ5YWO4AKDD2wHXMq"
+        },
+        {
+          "name": "Ferrante & Teicher",
+          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/4pKUJwmq9mYcs1KNUsqAHH"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Connie Francis",
+        "url": "https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Where The Boys Are",
+      "url": "https://open.spotify.com/track/6N3LlP0e7sWkNaTw8aXEnX"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Hit The Road Jack and Don't You Come Back",
+        "url": "https://open.spotify.com/album/2BrLSZzr3ryjGOhY75G9Ne"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 118200,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/3otXVqKkFcmc8gics3zxVS"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Golden Oldies Vol 2",
+        "url": "https://open.spotify.com/album/2BPeZ7fpH4MpxEftTq41xM"
+      },
+      "artists": [
+        {
+          "name": "Sue Thompson",
+          "url": "https://open.spotify.com/artist/4KCnuZQWRl9FEwAcduZhP9"
+        }
+      ],
+      "duration_ms": 193445,
+      "name": "Sad Movies",
+      "url": "https://open.spotify.com/track/1D5EXAiJbsw08mRKFGW2xO"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Oldies But Goodies",
+        "url": "https://open.spotify.com/album/1PfyeXVGmSGjhbUoWekrLD"
+      },
+      "artists": [
+        {
+          "name": "Ernie K-Doe",
+          "url": "https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly"
+        }
+      ],
+      "duration_ms": 157973,
+      "name": "Mother In Law",
+      "url": "https://open.spotify.com/track/2l4fBmSX9cOeDq6MMQtAEV"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Best Of The Dovells 1961-1965",
+        "url": "https://open.spotify.com/album/2nVaoyKCz1nGdNny3bqoUm"
+      },
+      "artists": [
+        {
+          "name": "The Dovells",
+          "url": "https://open.spotify.com/artist/6LaraO4gcDKWw0fwIOTodm"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Bristol Stomp",
+      "url": "https://open.spotify.com/track/0B1cm1Z7J9v8Wug9idr8T6"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Greatest Hits - Ricky Nelson (Remastered Edition)",
+        "url": "https://open.spotify.com/album/6JohQ1VCMCTwDmj2vpY6FD"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Travelin' Man - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/0LA0c8SIOnKNHfEd8LZoac"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF"
+      },
+      "artists": [
+        {
+          "name": "The Miracles",
+          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Shop Around",
+      "url": "https://open.spotify.com/track/0bd61NWrbAY48KFvDuq3tF"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Best of Brook Benton (Rerecorded Version)",
+        "url": "https://open.spotify.com/album/7ILTWBBK4BX4RajMXxMrMA"
+      },
+      "artists": [
+        {
+          "name": "Brook Benton",
+          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "The Boll Weevil Song (Rerecorded)",
+      "url": "https://open.spotify.com/track/4Hw8ZdplPYWDBkJqCPAgRP"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Best Of Gene McDaniels",
+        "url": "https://open.spotify.com/album/2MZI44uUGjAPHIJd2olyQH"
+      },
+      "artists": [
+        {
+          "name": "Gene McDaniels",
+          "url": "https://open.spotify.com/artist/6I7tqjEzznFPrardDfvsvq"
+        }
+      ],
+      "duration_ms": 143600,
+      "name": "A Hundred Pounds Of Clay - 1995 Digital Remaster",
+      "url": "https://open.spotify.com/track/2WRPCPMu1Qadq0J7Af8aCC"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Lost Hits Of The 60's (All Original Artists & Versions)",
+        "url": "https://open.spotify.com/album/5n3yhXw0DNTRIpSfRE98tT"
+      },
+      "artists": [
+        {
+          "name": "Dick & Dee Dee",
+          "url": "https://open.spotify.com/artist/6TLwl6BCLZ5D1jwn4l2KGh"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "The Mountain's High",
+      "url": "https://open.spotify.com/track/0YVlMTY2kaQc2fxu2ezlI6"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Marty Robbins' All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/0BUwybdSAULe982sAEKjfE"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/1xFTK0nWCUHiAhNA7w9aei"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Essential Floyd Cramer",
+        "url": "https://open.spotify.com/album/1P4nnFm1S5OqHSfXlggBEV"
+      },
+      "artists": [
+        {
+          "name": "Floyd Cramer",
+          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "On the Rebound",
+      "url": "https://open.spotify.com/track/4QjrLPqpSYSlLV6mqELvVg"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Portrait Of My Love",
+        "url": "https://open.spotify.com/album/0YXZCASpXbZo1PVqe8f4MO"
+      },
+      "artists": [
+        {
+          "name": "Steve Lawrence",
+          "url": "https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p"
+        }
+      ],
+      "duration_ms": 173489,
+      "name": "Portrait Of My Love",
+      "url": "https://open.spotify.com/track/0iwv2DTT8TOEnrKQ4l4P77"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "At The Hop",
+        "url": "https://open.spotify.com/album/2Dv69A0gikPgoPOPWIRAVL"
+      },
+      "artists": [
+        {
+          "name": "Gary U.S. Bonds",
+          "url": "https://open.spotify.com/artist/1Qw8MHpjYxm9Xf0O1ZfPiX"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Quarter To Three",
+      "url": "https://open.spotify.com/track/1LW2cxcZtwBumNd6ZrfCsL"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Who Put The Bomp In The Bomp-Bomp-Bomp",
+        "url": "https://open.spotify.com/album/4u6c0El5f78GfHj8vQEmrK"
+      },
+      "artists": [
+        {
+          "name": "Barry Mann",
+          "url": "https://open.spotify.com/artist/3OmuR7XFXBig8yLeMSm9mU"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Who Put The Bomp?",
+      "url": "https://open.spotify.com/track/1zjzLPwQi3qoKndgNurI29"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Very Best Of Neil Sedaka",
+        "url": "https://open.spotify.com/album/4LEVq549JUbYQmzma1NzEl"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 156533,
+      "name": "Calendar Girl - Remastered",
+      "url": "https://open.spotify.com/track/1Pg2yx1drvE8uJhMCnIpGN"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Chris Kenner",
+          "url": "https://open.spotify.com/artist/3mCIMoeTyKjHlgNv7wFZYI"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/5wIxMTfyrSEx4w1MxaM96c"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Atlantic 60th: Instrumental Jams",
+        "url": "https://open.spotify.com/album/4pOVCX3BM02U0AudLBVoQG"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rgen Ingmann",
+          "url": "https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Apache",
+      "url": "https://open.spotify.com/track/0FKNRNN2mcY9dBjenoxbeY"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Karaoke Hits: More Uk Hits",
+        "url": "https://open.spotify.com/album/0Y4tISfZNfwU0j1TTZSlHC"
+      },
+      "artists": [
+        {
+          "name": "Original Backing Tracks",
+          "url": "https://open.spotify.com/artist/3zTYSIlGGbY2wLixqetrvM"
+        }
+      ],
+      "duration_ms": 153155,
+      "name": "Don't Bet Money, Honey (In the Style of Linda Scott) [instrumental Backing Track]",
+      "url": "https://open.spotify.com/track/7tAjijxeQ8hT7HuRI4BltI"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Deep Into The Sixties - 20 Rare Grooves",
+        "url": "https://open.spotify.com/album/3pHHT1JwvLNu89JUbfADaW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "Without You (Rerecorded)",
+      "url": "https://open.spotify.com/track/69f7vu51cpC4TM6MKrqJOi"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "60's Country - Six Days On The Road",
+        "url": "https://open.spotify.com/album/7bePNwwUP5oUzBKPlJAQba"
+      },
+      "artists": [
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "duration_ms": 140680,
+      "name": "Wings Of A Dove - Re-Recording",
+      "url": "https://open.spotify.com/track/6q5UzeMm00DBIkKv8uL18e"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Elvis Is Back (Legacy Edition)",
+        "url": "https://open.spotify.com/album/0kpojnjqQ487UnNJXMlylU"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 151360,
+      "name": "Little Sister",
+      "url": "https://open.spotify.com/track/2uy2PS2vq6uwZItb2waSrF"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "#1 Hits of the 60's",
+        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
+      },
+      "artists": [
+        {
+          "name": "The Marcels",
+          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
+        }
+      ],
+      "duration_ms": 130213,
+      "name": "Blue Moon (Rerecorded)",
+      "url": "https://open.spotify.com/track/7CIv316ZKCQhkspH80kiUC"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Oldies But Goodies",
+        "url": "https://open.spotify.com/album/1PfyeXVGmSGjhbUoWekrLD"
+      },
+      "artists": [
+        {
+          "name": "Shep And The Limelites",
+          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Daddys Home",
+      "url": "https://open.spotify.com/track/0uTWICEvYa78HlUyt5JbUU"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Golden Hits forever V5",
+        "url": "https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh"
+      },
+      "artists": [
+        {
+          "name": "Troy Shondell",
+          "url": "https://open.spotify.com/artist/4R3U54HaBxqbw1ey5lMcXQ"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/5hqNWobmQ9yYtIuEbcoS7w"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Golden Hits forever V6",
+        "url": "https://open.spotify.com/album/59AvmMCslqiSj8qz3Y5vEo"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Frogman\" Henry",
+          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
+        }
+      ],
+      "duration_ms": 141400,
+      "name": "(I Don\u2019t Know Why) But I Do",
+      "url": "https://open.spotify.com/track/3DrHuyEwZ93vQFgDltpauz"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "60's Super Hits (Rerecorded Version)",
+        "url": "https://open.spotify.com/album/5S5TwSmNCvK8ttbDLyA32d"
+      },
+      "artists": [
+        {
+          "name": "Kokomo",
+          "url": "https://open.spotify.com/artist/00FrqfQ1NB4Dlr10yUP4Hr"
+        }
+      ],
+      "duration_ms": 118133,
+      "name": "Asia Minor (Rerecorded)",
+      "url": "https://open.spotify.com/track/4uNAdFLTuiIhDtbZsq31Og"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Best Of Dion & The Belmonts",
+        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "Runaround Sue - Remastered 1991",
+      "url": "https://open.spotify.com/track/6AL6Wbn1xA3R86vAvuiho5"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Greatest Hits Of Arthur Lyman Taboo",
+        "url": "https://open.spotify.com/album/0cVVclcFM23MjZi5eyE0YV"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/2vLDQqTeIGJsShqHOt4yUx"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "The Best Of Timi Yuro",
+        "url": "https://open.spotify.com/album/18UaMS0uVYtzsIoDIS5v3P"
+      },
+      "artists": [
+        {
+          "name": "Timi Yuro",
+          "url": "https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK"
+        }
+      ],
+      "duration_ms": 148466,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6mqfq8EdYoV07TXM2rgPgb"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Greatest Hits - Ricky Nelson (Remastered Edition)",
+        "url": "https://open.spotify.com/album/6JohQ1VCMCTwDmj2vpY6FD"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Hello Mary Lou (Goodbye Heart) - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/4bnULOWizYveoiu141901k"
+    },
+    {
+      "added_at": "2013-06-27 15:40:07",
+      "album": {
+        "name": "Golden Hits forever V5",
+        "url": "https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh"
+      },
+      "artists": [
+        {
+          "name": "The Capris",
+          "url": "https://open.spotify.com/artist/42SCX0E1m3YSaY2l3zHVJ4"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "There's A Moon Out Tonight",
+      "url": "https://open.spotify.com/track/0aYthEZhdcr2xMAJzh4NEE"
+    }
+  ],
   "unique_name": "1961",
   "url": "https://open.spotify.com/playlist/7EhO7YjjFdrNRtTHcRrnnQ"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,140 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,151 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 40 | [What's Changed](https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:40 |
 | 41 | [Addicted \- Radio Edit](https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Greg Parys](https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV) | [Addicted \(Radio Edit\)](https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs) | 3:34 |
 | 42 | [Abracadabra, Pt\. 2 \(Feat\. Craig David\)](https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra, Pt\. 2 \(Feat\. Craig David\)](https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ) | 2:47 |
-| 43 | [Let Her Go](https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:02 |
-| 44 | [In Your Hands](https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [In Your Hands](https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW) | 3:17 |
+| 43 | [In Your Hands](https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [In Your Hands](https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW) | 3:17 |
+| 44 | [Let Her Go](https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:02 |
 | 45 | [Let's Stay Together](https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:36 |
 | 46 | [Woman Trouble \(Full Length Version\)](https://open.spotify.com/track/4JrZTTJbSzuy7IUM8tzRLr) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Robbie Craig](https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Woman Trouble](https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA) | 7:03 |
 | 47 | [Spanish](https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 5:03 |
 | 48 | [This Is the Girl \(with Kano\)](https://open.spotify.com/track/1vKTU8e7tC851a8tMzc8NY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 4:10 |
-| 49 | [For Once In My Life](https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:34 |
-| 50 | [Couldn't Be Mine](https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:01 |
+| 49 | [Couldn't Be Mine](https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:01 |
+| 50 | [For Once In My Life](https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:34 |
 
-Snapshot ID: `aIqyAAAAAACNa8W4VRGPw55sAaI1jEpl`
+Snapshot ID: `aIwDgAAAAAA0YaEIbjSzt7h6jyTxCjZB`

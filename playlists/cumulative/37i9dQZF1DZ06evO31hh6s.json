@@ -76,7 +76,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 197086,
       "name": "Alone",
       "url": "https://open.spotify.com/track/2djI4NaLOiIv6EaWHPGwqI"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 307526,
       "name": "Feel About You",
       "url": "https://open.spotify.com/track/0YZrS4yVwl2DNWOuGPh1O5"
@@ -1177,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "E.1999: The LeathaFace Project",
+        "url": "https://open.spotify.com/album/7h0YJYW1c6b6EGxdmJgfTV"
+      },
+      "artists": [
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298333,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/1IZDCUBhENHGqh2ua1WVcm"
+    },
+    {
+      "album": {
         "name": "Rolling 200 Deep",
         "url": "https://open.spotify.com/album/42Yobaqr3Qfk5IiAmmFmRu"
       },
@@ -1318,7 +1340,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 227925,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5kFV2qrbtsBjIsNNeT2LQk"

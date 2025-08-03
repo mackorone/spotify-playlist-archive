@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,993 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,996 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 25 | [Casino](https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/6bT5SWbxuKHfzZGmnkIqCi) | 1:57 |
 | 26 | [Ханнамонтана](https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:10 |
 | 27 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
-| 28 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
+| 28 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
 | 29 | [цена](https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [паранойя](https://open.spotify.com/artist/6xcOPl8sgatUgeDsUE9QQb) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 2:18 |
 | 30 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 |
 | 31 | [Hoodtrapstar](https://open.spotify.com/track/7N1AiJjucLwjTBvRajtnW0) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [From Sparta to Padre](https://open.spotify.com/album/5H12u8bLTbrdlLQ96iETPL) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Адская колыбельная](https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Адская колыбельная](https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS) | 2:58 |
 | 50 | [Катюха](https://open.spotify.com/track/3Fdo0fNzj2QnPU1SgsNHcV) | [whitek3d](https://open.spotify.com/artist/3IWgGXUSjXN8Lc2fJkAMsP) | [Катюха](https://open.spotify.com/album/1SfskVJm321ZlEFV3YFrVM) | 1:17 |
 
-Snapshot ID: `MCAyUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MCGIgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

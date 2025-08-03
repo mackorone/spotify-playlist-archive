@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Skyline
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,942 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,941 likes - 112 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 98 | [Two Shades of Blue \(again\)](https://open.spotify.com/track/4KQW4RNux6n948tQ75tykF) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Two Shades of Blue \(again\)](https://open.spotify.com/album/1t3ZowILVpZ96x89sKGENN) | 4:31 |
 | 99 | [Unfinished](https://open.spotify.com/track/7jjiNv6lqv9l7GNnqrjtFL) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Unfinished](https://open.spotify.com/album/0Fw8otiXWyj2kBGymjqywY) | 3:38 |
 | 100 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 |
+| 101 | [It Don't Mean a Thing](https://open.spotify.com/track/53kdKA8W4Fh6L5OKxPBUOA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [CINEMA\. extended](https://open.spotify.com/album/4SO2qY7jxlQqc5dghBj4Jt) | 2:01 |
+| 102 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 |
+| 103 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
+| 104 | [Sin](https://open.spotify.com/track/5k59VaLMbV9UsrEPasU5me) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Sin](https://open.spotify.com/album/2x9OXzRHaYZ3tmTLVaXSLF) | 6:49 |
+| 105 | [Sonder \(feat\. Valentine\)](https://open.spotify.com/track/1G4PULBh1Geupl2F7ocy0W) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Valentine](https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k) | [Sonder](https://open.spotify.com/album/6btTGzpKcQuQLAjHynSXmm) | 4:28 |
+| 106 | [Essence](https://open.spotify.com/track/43P2BUpH7mWjOx9nLZpC8C) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL) | [Snakes & Ladders](https://open.spotify.com/album/3YZtiYIwDMveS0c7M4zWSO) | 4:18 |
+| 107 | [only us tonight](https://open.spotify.com/track/0zStg9YMWWNqOdhCWeMDIR) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [only us tonight](https://open.spotify.com/album/1yJbMkMWhMWWfCsV4gBy06) | 3:12 |
+| 108 | [sour & sweet](https://open.spotify.com/track/2sIC3yNKPTc0t4s824DaQu) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [sour & sweet](https://open.spotify.com/album/2fo9HXnPcQUDEt044V4Rc0) | 2:32 |
+| 109 | [I Gotchu](https://open.spotify.com/track/6VGd5cSK8dpHgaMJKmhaN0) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [I Gotchu](https://open.spotify.com/album/51NxI3UHm3wm5dDBpCSRx3) | 2:58 |
+| 110 | [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 |
+| 111 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 |
+| 112 | [Better Run](https://open.spotify.com/track/2suxNr50PEr7O44dsTuF5S) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Better Run](https://open.spotify.com/album/2omrnJTVqNLfM8Wy18fbBQ) | 3:42 |
 
 Snapshot ID: `aIwdVAAAAAAt7I9ocBLyeojRpxNz2reZ`

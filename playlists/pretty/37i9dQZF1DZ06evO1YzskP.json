@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 59112,
+  "num_followers": 59173,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAApic5NezLfVuRaZjdYIuvr",
+  "snapshot_id": "aIwDgAAAAABwrYeKWXvLLbs2yGKAaxHW",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sal De Tu Casa",
-        "url": "https://open.spotify.com/album/2DhhVLtsUABmza86yvCXvW"
-      },
-      "artists": [
-        {
-          "name": "Reynaldos de la Sierra",
-          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 146522,
-      "name": "Sal De Tu Casa",
-      "url": "https://open.spotify.com/track/3CoAErFmTlm3nEaXUof1GS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 130368,
       "name": "Tus Red flags",
       "url": "https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sal De Tu Casa",
+        "url": "https://open.spotify.com/album/2DhhVLtsUABmza86yvCXvW"
+      },
+      "artists": [
+        {
+          "name": "Reynaldos de la Sierra",
+          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 146522,
+      "name": "Sal De Tu Casa",
+      "url": "https://open.spotify.com/track/3CoAErFmTlm3nEaXUof1GS"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Querido Rey",
-        "url": "https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 168376,
-      "name": "Querido Rey",
-      "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -707,34 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+        "name": "Querido Rey",
+        "url": "https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 237948,
-      "name": "El Gerente",
-      "url": "https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
-      },
-      "artists": [
+        },
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Apenas Es Martes",
-      "url": "https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf"
+      "duration_ms": 168376,
+      "name": "Querido Rey",
+      "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"
     },
     {
       "added_at": null,
@@ -755,6 +723,38 @@
       "duration_ms": 193153,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Apenas Es Martes",
+      "url": "https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 237948,
+      "name": "El Gerente",
+      "url": "https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 Belleza De Mujer",
+        "url": "https://open.spotify.com/album/2yoNgWrbxrxtoR85pzuacm"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Qu\u00e9 Belleza De Mujer",
+      "url": "https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHV FLX",
         "url": "https://open.spotify.com/album/68EI67bTyaPhfmJxwTbYlL"
       },
@@ -923,22 +943,6 @@
       "duration_ms": 184060,
       "name": "ALUCINACIONES",
       "url": "https://open.spotify.com/track/21XR5z4CSZDDc6WVAwrGk8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 172462,
-      "name": "El Mz",
-      "url": "https://open.spotify.com/track/388legjpqnOgFciK1rSJR1"
     }
   ],
   "unique_name": "This Is La Receta",

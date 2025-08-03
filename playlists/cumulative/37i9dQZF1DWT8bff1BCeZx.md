@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-569 songs - 1 day 13 hr 26 min
+570 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Baba](https://open.spotify.com/track/232eeADNA3bz9OmurYANKQ) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Baba](https://open.spotify.com/album/51wJ2YFD6Ci13LEOQPInqj) | 2:55 | 2025-03-28 |  |
 | [BABA](https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab) | [Callie4k](https://open.spotify.com/artist/2j9rROYpEIotEUlh8FescC), [ManLikeStunna](https://open.spotify.com/artist/2vHJNXr3Xe6p0wi2YPSXxL) | [BABA](https://open.spotify.com/album/6jXXw60JwgQJczltb0uMmy) | 2:24 | 2024-07-03 | 2025-03-14 |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2025-03-14 |
+| [Baba \- Live](https://open.spotify.com/track/6B72ZKiTWdETsvdBYiVaxH) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N) | [Baba \(Live\)](https://open.spotify.com/album/16tmL6VNAlCge3aOIWzznF) | 4:25 | 2025-08-02 |  |
 | [BABA SAANU](https://open.spotify.com/track/5solCPoM5lNcPkndd3LZMB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [BABA SAANU](https://open.spotify.com/album/0Hb3BEdlnKqvzMsNa2t4QP) | 2:54 | 2025-04-25 |  |
 | [Baffled King](https://open.spotify.com/track/2VQVYq7gfzJZKGaW0T7faY) | [Temple](https://open.spotify.com/artist/0JbxX1XHZznkLBwIE6NcKT), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [Baffled King](https://open.spotify.com/album/4hu5gW5O5hNGNN3x8HSeJt) | 2:19 | 2025-01-17 | 2025-05-30 |
 | [Battalion](https://open.spotify.com/track/6YbrL95kfmfsIOt1f4s9UF) | [Wealth Doherty](https://open.spotify.com/artist/1qMxH21DDOjNN9lF3Xz5A6), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Battalion](https://open.spotify.com/album/2j4gzwXojMMhhKrTpMEk2S) | 3:04 | 2025-01-31 | 2025-02-28 |

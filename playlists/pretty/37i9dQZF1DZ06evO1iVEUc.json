@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25486,
+  "num_followers": 25489,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAyQP5EL1jQfYAKXrJZrPOR",
+  "snapshot_id": "aIwDgAAAAACMlsxvydgLWB8Rw++aGumT",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do What U Gotta Do",
-        "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "Do What U Gotta Do",
-      "url": "https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Covered in Soul",
         "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 245173,
       "name": "In the Air Tonight",
       "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do What U Gotta Do",
+        "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "Do What U Gotta Do",
+      "url": "https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97"
     },
     {
       "added_at": null,
@@ -650,15 +650,11 @@
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Dave Hollister",
-          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
         }
       ],
-      "duration_ms": 243641,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
+      "duration_ms": 222570,
+      "name": "Forget About Me",
+      "url": "https://open.spotify.com/track/42hNrPluWAiCOULra1Ckpz"
     },
     {
       "added_at": null,
@@ -724,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 222570,
-      "name": "Forget About Me",
-      "url": "https://open.spotify.com/track/42hNrPluWAiCOULra1Ckpz"
+      "duration_ms": 209345,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
     },
     {
       "added_at": null,
@@ -790,11 +786,15 @@
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Dave Hollister",
+          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
         }
       ],
-      "duration_ms": 209345,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
+      "duration_ms": 243641,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
     },
     {
       "added_at": null,

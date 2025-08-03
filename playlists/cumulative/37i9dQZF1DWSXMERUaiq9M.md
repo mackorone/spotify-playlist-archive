@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Funk Tribu
 
-536 songs - 1 day 9 hr 23 min
+537 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-16 | 2025-06-27 |
 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 | 2023-03-10 | 2023-06-29 |
 | [Edwin Rosen Vertigo \- Academic Remix](https://open.spotify.com/track/7960s9wdbpgSwGFg2SxHtj) | [Edwin Rosen](https://open.spotify.com/artist/5P7LNVuQRN9Ath8svUaUnV), [Academic](https://open.spotify.com/artist/2sUryncO3HHMUDslIciLZk) | [Edwin Rosen Vertigo \(Academic Remix\)](https://open.spotify.com/album/5G18wJMs69jln4Aw8ZpAFb) | 3:52 | 2023-03-22 | 2023-03-23 |
-| [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 |  |
+| [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 | 2025-08-03 |
 | [Elektra](https://open.spotify.com/track/01e8d1lr1fFyPuIGOCRnRG) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [White Keys Vol.2](https://open.spotify.com/album/73JNp7GCaS3sh9QBCY6uOY) | 7:05 | 2023-08-10 | 2023-08-19 |
 | [ELEMENTS 2](https://open.spotify.com/track/41ms08jzNzvkdFjWVyeiE7) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [ELEMENTS 2](https://open.spotify.com/album/5rYkb1JeOzm6I1QzDV5ozq) | 3:51 | 2024-12-28 | 2025-01-07 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2023-03-10 | 2023-06-06 |
@@ -275,6 +275,7 @@
 | [Let's go](https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 2:26 | 2024-08-12 | 2024-08-23 |
 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 | 2024-12-28 | 2025-06-06 |
 | [Lets go](https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC) | [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n) | [Brilletje](https://open.spotify.com/album/2xmq2AcsQDHmSMRu6YGGsz) | 2:54 | 2023-10-02 | 2024-05-04 |
+| [Life To Begin](https://open.spotify.com/track/5EpzGCcC2OYB4JqHADdSQy) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Life To Begin](https://open.spotify.com/album/6sy3VL8Syc8XAdGNIPh0kG) | 2:06 | 2025-08-01 |  |
 | [LIGHT IT UP](https://open.spotify.com/track/5fDMxAnUvFwVqIUPQjlGcV) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [LIGHT IT UP](https://open.spotify.com/album/3bdwPBIYg2JrDrMvKN5iUH) | 2:20 | 2024-08-12 | 2024-08-23 |
 | [Lights Out](https://open.spotify.com/track/0CtEQErgyA7Jp4Jb3LGC7S) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Lights Out](https://open.spotify.com/album/0VkJvDI13bCS5WJ6zNBp0m) | 2:33 | 2024-07-25 | 2024-08-13 |
 | [Like This](https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [STORM](https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Like This](https://open.spotify.com/album/21kaF8OYz66A91XR46Npx0) | 2:22 | 2025-05-22 | 2025-06-06 |

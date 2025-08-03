@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 47949,
+  "num_followers": 47958,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mambo Mundial",
-        "url": "https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        },
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "P\u00e1jaro Zinzontle",
-      "url": "https://open.spotify.com/track/511pu0YZEk21PSpghFADdy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Je pense \u00e0 toi",
         "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
       },
@@ -279,6 +259,26 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Mambo Mundial",
+        "url": "https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        },
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "P\u00e1jaro Zinzontle",
+      "url": "https://open.spotify.com/track/511pu0YZEk21PSpghFADdy"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Tropicoso",
         "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 206430,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -359,6 +343,22 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Teniente Harina (Cumbia Manifiesto)",
-        "url": "https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
-      "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Savage Love",
         "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 234812,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Teniente Harina (Cumbia Manifiesto)",
+        "url": "https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
+      "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Noche triler",
-        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
-      },
-      "artists": [
-        {
-          "name": "LA MECANICA POPULAR",
-          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
-        }
-      ],
-      "duration_ms": 238907,
-      "name": "Noche triler",
-      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Me Estoy Poniendo Viejo",
         "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 234382,
       "name": "Me Estoy Poniendo Viejo",
       "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+      },
+      "artists": [
+        {
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+        }
+      ],
+      "duration_ms": 238907,
+      "name": "Noche triler",
+      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Chacho",
-        "url": "https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn"
+        "name": "Dos Santos",
+        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
       },
       "artists": [
         {
-          "name": "Carmelo Torres & Los Toscos",
-          "url": "https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ"
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
         }
       ],
-      "duration_ms": 241639,
-      "name": "La Camisola",
-      "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
+      "duration_ms": 213186,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Dos Santos",
-        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
+        "name": "El Chacho",
+        "url": "https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn"
       },
       "artists": [
         {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+          "name": "Carmelo Torres & Los Toscos",
+          "url": "https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ"
         }
       ],
-      "duration_ms": 213186,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
+      "duration_ms": 241639,
+      "name": "La Camisola",
+      "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mi Gran Dolor",
-        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 254908,
-      "name": "Mi Gran Dolor",
-      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Shake & Bake",
         "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 280822,
       "name": "Shake & Bake",
       "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Mi Gran Dolor",
+        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 254908,
+      "name": "Mi Gran Dolor",
+      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Levante la Mano",
-        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 188817,
-      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
-      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 237524,
       "name": "Luna Villera",
       "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Levante la Mano",
+        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 188817,
+      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
+      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
-      },
-      "artists": [
-        {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Paganismo (Deluxe)",
         "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 189514,
       "name": "Mambo Del Fierro Viejo",
       "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+      },
+      "artists": [
+        {
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Amaru Tribe",
+        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
+      },
+      "artists": [
+        {
+          "name": "Amaru Tribe",
+          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
+        }
+      ],
+      "duration_ms": 401937,
+      "name": "Cumbia Ocea\u00cc\u0081nica",
+      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
         "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Amaru Tribe",
-        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
+        "name": "Cumbia Siglo XXI",
+        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
       },
       "artists": [
         {
-          "name": "Amaru Tribe",
-          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
         }
       ],
-      "duration_ms": 401937,
-      "name": "Cumbia Ocea\u00cc\u0081nica",
-      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
+      "duration_ms": 197066,
+      "name": "Cumbia del Picham\u00e1n",
+      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1687,22 +1703,6 @@
       "duration_ms": 146496,
       "name": "El Vacile Del T\u00edo",
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Cumbia Siglo XXI",
-        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Cumbia del Picham\u00e1n",
-      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
     },
     {
       "added_at": "2025-05-19 17:05:09",

@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 40202,
+  "num_followers": 40232,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACo8g0CzWy9FsuyCLNT4I/h",
+  "snapshot_id": "aIwDgAAAAADwUfVIqA4tVoUKwRtIwxCs",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 229745,
-      "name": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REDRUM Wizard (Gangsta Grillz)",
         "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 202285,
       "name": "BOP (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 229745,
+      "name": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Accent (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Said I Love You First... And You Said It Back",
         "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 163631,
       "name": "Cowboy (with GloRilla) - GloRilla Remix",
       "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Accent (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 152759,
+      "name": "Don't Know (GloRidaz Bonus)",
+      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
-        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 152759,
-      "name": "Don't Know (GloRidaz Bonus)",
-      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
     },
     {
       "added_at": null,

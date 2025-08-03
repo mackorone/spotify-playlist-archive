@@ -4,7 +4,7 @@
 
 > Cover: Valerieblud
 
-423 songs - 22 hr 19 min
+424 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Hanya Lwe9te](https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Hanya Lwe9te](https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls) | 3:21 | 2024-06-20 |  |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2022-11-14 | 2023-07-14 |
 | [HASSIT](https://open.spotify.com/track/6tYP1jWtifDbPqbag1XFjF) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [HASSIT](https://open.spotify.com/album/16qfby0d8gOvjDJEESVVTb) | 3:31 | 2023-10-19 | 2024-05-10 |
-| [Head&Shoulders](https://open.spotify.com/track/3GWp8k6UYutdqAeKgSsVpq) | [Obito.Triple3](https://open.spotify.com/artist/7asvA6Yz9cItmIbt2HNUPQ), [Villain](https://open.spotify.com/artist/1i27pFc4SeQb0dgzelooMn), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ZETSU](https://open.spotify.com/album/1dOSiwqVdpeHeENILhIKNS) | 1:58 | 2025-07-24 |  |
+| [Head&Shoulders](https://open.spotify.com/track/3GWp8k6UYutdqAeKgSsVpq) | [Obito.Triple3](https://open.spotify.com/artist/7asvA6Yz9cItmIbt2HNUPQ), [Villain](https://open.spotify.com/artist/1i27pFc4SeQb0dgzelooMn), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ZETSU](https://open.spotify.com/album/1dOSiwqVdpeHeENILhIKNS) | 1:58 | 2025-07-24 | 2025-08-03 |
 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 | 2023-05-12 | 2023-06-23 |
 | [Hiphop is dead](https://open.spotify.com/track/08FKkdkbm4FXA0fWLscjJh) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Hiphop is dead](https://open.spotify.com/album/2nPyvcEJof1Xg70FmEOYp2) | 2:47 | 2022-11-28 | 2023-05-19 |
 | [HKZ GANG V2](https://open.spotify.com/track/055mtpjA761fk09YyAXAoF) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/7zCD2W5LfZ1h68oM33gACn) | 3:02 | 2023-08-23 | 2023-09-10 |
@@ -326,6 +326,7 @@
 | [SAKA](https://open.spotify.com/track/4YxQW5226q4oacUOSbfIFS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 3:00 | 2025-01-09 | 2025-07-17 |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-11-14 | 2022-12-13 |
 | [Sality Wla Ba91](https://open.spotify.com/track/6qEennteH7K9g4Lw1sb9Hn) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Sality Wla Ba91](https://open.spotify.com/album/15pDNMHadZGbwQBwev9SwP) | 3:09 | 2024-10-02 | 2024-10-23 |
+| [Salt Bae](https://open.spotify.com/track/2GKH59rHgueXliY1onqFNe) | [Obito.Triple3](https://open.spotify.com/artist/7asvA6Yz9cItmIbt2HNUPQ) | [Bebetoo](https://open.spotify.com/album/70mZzNalKFl2YmDrTmApR8) | 2:22 | 2025-08-02 |  |
 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 | 2024-04-26 | 2024-10-03 |
 | [San Siro](https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:24 | 2024-10-02 | 2025-05-29 |
 | [SANTOS](https://open.spotify.com/track/5dQdIb0SogTvOjZtLpftLn) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [SANTOS](https://open.spotify.com/album/7iWAdQWeCG429Zq5UusAER) | 2:48 | 2025-07-24 |  |

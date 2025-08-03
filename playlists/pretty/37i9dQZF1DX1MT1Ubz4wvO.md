@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español, con Los Chivatos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,474 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,473 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Le conté a mi psicólogo de vos](https://open.spotify.com/track/0peDKddtxstiRwgEJBRN7o) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [Le conté a mi psicólogo de vos](https://open.spotify.com/album/7CGx8wKrOGJ8wKIe6FF1Mc) | 3:25 |
 | 50 | [For Your Love](https://open.spotify.com/track/49768PixpSxavruNoPHzdf) | [Johnny Nasty Boots](https://open.spotify.com/artist/4ZdTJ5fUA3yjAbkK8rvVod) | [For Your Love](https://open.spotify.com/album/05mW6JhQ0QgpDtnBonTpul) | 4:05 |
 
-Snapshot ID: `AAAAAFn/wJmryCnJ/RkDgjs8ToyCQLwk`
+Snapshot ID: `aIw75QAAAAAK0TaWNfhrseolW5aF3JgG`

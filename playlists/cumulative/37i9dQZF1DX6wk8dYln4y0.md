@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: Darcie Haven
 
-559 songs - 1 day 6 hr 13 min
+561 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 | 2025-02-20 |  |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 | 2025-04-04 |
 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 | 2025-02-13 | 2025-04-05 |
-| [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 | 2025-07-24 |  |
+| [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 | 2025-07-24 | 2025-08-03 |
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-25 | 2023-09-10 |
 | [Julie's House](https://open.spotify.com/track/6wIy2XMSP4q7FPq22g8oIZ) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Julie's House](https://open.spotify.com/album/7gnzw64SgJ73FGO4jAMoTZ) | 4:41 | 2025-05-08 | 2025-05-23 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2023-04-28 | 2023-12-20 |
@@ -288,6 +288,7 @@
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2024-06-18 | 2025-01-31 |
 | [Kiss Me](https://open.spotify.com/track/3EjTnZRaykPSYBGsSWS1AP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kiss Me](https://open.spotify.com/album/4NOkk0d26Bx9ewNxtIo1Px) | 2:53 | 2024-07-18 | 2024-08-03 |
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-22 | 2024-03-01 |
+| [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-07-31 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-04-13 | 2023-05-10 |
 | [Laila](https://open.spotify.com/track/0VS6Zx5v82N0LFDgVOvgMO) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Laila](https://open.spotify.com/album/1uLpQLcdpCv6F3MtxDm47b) | 3:18 | 2024-11-14 | 2024-12-06 |
 | [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 | 2025-06-12 | 2025-07-11 |
@@ -412,6 +413,7 @@
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-03-16 | 2023-11-10 |
 | [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 | 2024-04-18 | 2024-06-01 |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2023-03-16 | 2024-06-28 |
+| [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 | 2025-07-31 |  |
 | [Sideshow](https://open.spotify.com/track/3AfqWj9c2YkDXQiG57maQC) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Sideshow](https://open.spotify.com/album/200ad5LFRYHGxmUsgja0Xq) | 3:14 | 2024-04-04 | 2024-04-12 |
 | [simon says](https://open.spotify.com/track/70OkYX2vVdktgONmoNQypf) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [simon says](https://open.spotify.com/album/7nGSnccAgmoYG8WCCsTN22) | 3:01 | 2025-07-10 | 2025-08-01 |
 | [Simple Life](https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Simple Life](https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf) | 2:33 | 2024-08-02 | 2024-09-07 |
@@ -472,7 +474,7 @@
 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 | 2024-03-28 | 2024-04-05 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-08 | 2024-07-10 |
 | [Taking It Easy](https://open.spotify.com/track/1Qm6oqgMJZQSlAIBgo16xJ) | [Meila](https://open.spotify.com/artist/45z2aQmnsWVBrGxBtV8wVu) | [Taking It Easy](https://open.spotify.com/album/0mSdps1rVEgwr0PtYGA9vr) | 3:59 | 2025-05-29 | 2025-06-13 |
-| [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 |  |
+| [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 | 2025-08-03 |
 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 | 2025-06-19 | 2025-07-06 |
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-02-29 | 2024-03-08 |
 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 | 2023-12-19 | 2025-02-28 |

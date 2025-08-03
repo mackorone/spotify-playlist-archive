@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 
 > Happiness! This is Red Velvet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,889 likes - 127 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,904 likes - 127 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

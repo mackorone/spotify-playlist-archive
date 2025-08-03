@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1340,
+  "num_followers": 1339,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAB1O/uY+D9uLFl5j+j2tCh8",
+  "snapshot_id": "aIwDgAAAAACrOhl0cPg7t8pYnsqvlrGH",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave 687",
-        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 207230,
-      "name": "Nave 687",
-      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 159712,
       "name": "Touring Tx",
       "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nave 687",
+        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 207230,
+      "name": "Nave 687",
+      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FTNSWL",
+        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "FTNSWL",
+      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuerno De Chivo",
         "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FTNSWL",
-        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "FTNSWL",
-      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 209111,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E30",
-        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
-      },
-      "artists": [
-        {
-          "name": "Le$",
-          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 287973,
-      "name": "Big Le$ter",
-      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E30",
+        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
+      },
+      "artists": [
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 287973,
+      "name": "Big Le$ter",
+      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Bailes Asi (Remix)",
-        "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
       },
       "artists": [
-        {
-          "name": "Santos Jaguar",
-          "url": "https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE"
-        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 153600,
-      "name": "No Bailes Asi - Remix",
-      "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
     },
     {
       "added_at": null,
@@ -803,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+        "name": "No Bailes Asi (Remix)",
+        "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
       },
       "artists": [
+        {
+          "name": "Santos Jaguar",
+          "url": "https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+      "duration_ms": 153600,
+      "name": "No Bailes Asi - Remix",
+      "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
     },
     {
       "added_at": null,
@@ -879,6 +879,34 @@
       "duration_ms": 142415,
       "name": "25 Lighters",
       "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tamales",
+        "url": "https://open.spotify.com/album/7eVOlXJwA0yxfZqf42IdUH"
+      },
+      "artists": [
+        {
+          "name": "NAWF$IDEVOODO",
+          "url": "https://open.spotify.com/artist/3NYbLjNxvJObYSOsu2MA5S"
+        },
+        {
+          "name": "LTR",
+          "url": "https://open.spotify.com/artist/56rSgcGV0PamwI8ULtrt2I"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/0VkrHRdt8c84cyTMqCt9Af"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Tamales",
+      "url": "https://open.spotify.com/track/0QyWZSNSfw2cIkOi5DUz2U"
     },
     {
       "added_at": null,

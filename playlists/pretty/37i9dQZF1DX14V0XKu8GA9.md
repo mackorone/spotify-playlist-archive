@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Shoreline Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,729 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,753 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 39 | [Pretty\-Girl](https://open.spotify.com/track/4j8SSgWhBKV5JkfnXDTiIu) | [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Pretty\-Girl](https://open.spotify.com/album/324cIGfRh9x41ElKFnKvan) | 3:15 |
 | 40 | [Lyrical Hammers](https://open.spotify.com/track/0THr9ZlnB3jfhyzWI85gPQ) | [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Psycho Les](https://open.spotify.com/artist/73vr1C7hAgKGfFEWLfgTCh), [Stephen Carpenter](https://open.spotify.com/artist/0tmmSee4oTo3ieSf1NOSjH) | [Lyrical Hammers](https://open.spotify.com/album/1zMKHSk0krP7RENFA8douy) | 3:23 |
 
-Snapshot ID: `aF7q1QAAAAD/OFqeBOHvtrYDMft90RJe`
+Snapshot ID: `aF7q1QAAAACU/aU0lVkl9SX2XtBMr5l7`

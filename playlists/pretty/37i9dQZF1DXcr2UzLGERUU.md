@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,491 likes - 92 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,519 likes - 92 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 91 | [Set Me Free](https://open.spotify.com/track/7d7bokEHYGrUc5snfIpHIw) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [Songs with My Daughters](https://open.spotify.com/album/4MyybH1mOTmaADrhjWXDgb) | 3:06 |
 | 92 | [Sea of Love](https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/5FbcUqv44TZnt8Ox6bzzZT) | 2:19 |
 
-Snapshot ID: `AAAAAIHsRi2rrWBEhtIRTe2PV7l/A5fg`
+Snapshot ID: `aH0X8wAAAAA/qIB2sx21UPtTFYEyZggn`

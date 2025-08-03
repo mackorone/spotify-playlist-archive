@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1848653,
+  "num_followers": 1848761,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Hallelujah, I Love Her So",
+      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Hallelujah, I Love Her So",
-      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Billie Holiday",
         "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 192866,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "For Collectors Only",
-        "url": "https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6"
-      },
-      "artists": [
-        {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "In The Still of the Night",
-      "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 185280,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "For Collectors Only",
+        "url": "https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6"
+      },
+      "artists": [
+        {
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "In The Still of the Night",
+      "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Who's Sorry Now",
-      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Dance Album",
         "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 134445,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Who's Sorry Now",
+      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Exciting Lloyd Price",
-        "url": "https://open.spotify.com/album/0QutFp2d494sxD57IbvfGu"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Price",
-          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
-        }
-      ],
-      "duration_ms": 144626,
-      "name": "Stagger Lee",
-      "url": "https://open.spotify.com/track/7qoaMWT3eRCKG1RN6dVuOY"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "I Love You 1000 Times",
         "url": "https://open.spotify.com/album/6hHrhFkL6GwZd11CHALzOR"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 166466,
       "name": "Only You (And You Alone)",
       "url": "https://open.spotify.com/track/3NhqNUMkRhHxEHbQ3bUaCc"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Exciting Lloyd Price",
+        "url": "https://open.spotify.com/album/0QutFp2d494sxD57IbvfGu"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Price",
+          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+        }
+      ],
+      "duration_ms": 144626,
+      "name": "Stagger Lee",
+      "url": "https://open.spotify.com/track/7qoaMWT3eRCKG1RN6dVuOY"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Aladdin '52-'59:Let The Good Times Roll",
-        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
-      },
-      "artists": [
-        {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
-        }
-      ],
-      "duration_ms": 145653,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/2ePDfIXoP2HmC1hfsujb2J"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Love Potion No. 9",
         "url": "https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 112280,
       "name": "Love Potion No.9",
       "url": "https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Aladdin '52-'59:Let The Good Times Roll",
+        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
+      },
+      "artists": [
+        {
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+        }
+      ],
+      "duration_ms": 145653,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/2ePDfIXoP2HmC1hfsujb2J"
     },
     {
       "added_at": "2024-09-06 14:23:51",

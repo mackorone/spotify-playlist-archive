@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[](https://open.spotify.com/user/null) - 76,838 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,864 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,18 +25,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 15 | [Lopen Tot De Zon Komt](https://open.spotify.com/track/6svNJ2WPO69uhVOgyBr2VF) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda en de Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 3:25 |
 | 16 | [Verliefd Zijn](https://open.spotify.com/track/2wLPPLc2mNOskEOtpwgqX8) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:30 |
 | 17 | [Afscheid](https://open.spotify.com/track/2h1jMOkIDg1RmYaTdh8RcL) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 4:35 |
-| 18 | [De Bestemming](https://open.spotify.com/track/78vBe7yQRROyT42PzT5Xpm) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [De Bestemming](https://open.spotify.com/album/4hW03mjO8bRizIMv86hvF3) | 4:25 |
-| 19 | [Blauw](https://open.spotify.com/track/1jlphb2nyrZ76BIjSgdbcG) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 4:36 |
+| 18 | [Blauw](https://open.spotify.com/track/1jlphb2nyrZ76BIjSgdbcG) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 4:36 |
+| 19 | [De Bestemming](https://open.spotify.com/track/78vBe7yQRROyT42PzT5Xpm) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [De Bestemming](https://open.spotify.com/album/4hW03mjO8bRizIMv86hvF3) | 4:25 |
 | 20 | [Limburg](https://open.spotify.com/track/73I6ItRxUde63sVOva6TW2) | [Rowwen Hèze](https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1) | [Kilomeaters \('T Beste Van 20 Joar Rowwen Hèze\)](https://open.spotify.com/album/306XLcXeyptPX7YIQHrx4o) | 4:06 |
 | 21 | [Passie](https://open.spotify.com/track/34oyuLfWrmAPXENXDa9kvX) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Oker](https://open.spotify.com/album/1urDkwjhvrgs30RYsxierf) | 5:02 |
 | 22 | [Is Dit Nou Later](https://open.spotify.com/track/1IzELBSXRDrHDnku1wHJwh) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:35 |
-| 23 | [Margherita](https://open.spotify.com/track/1pJmdIiTYfGtYRKXCnM5S5) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Als Geen Ander](https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7) | 4:10 |
-| 24 | [Hart Van Mijn Gevoel](https://open.spotify.com/track/75og56sR5lahWgyRyhag5w) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Onvoorspelbaar](https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w) | 4:28 |
+| 23 | [Hart Van Mijn Gevoel](https://open.spotify.com/track/75og56sR5lahWgyRyhag5w) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Onvoorspelbaar](https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w) | 4:28 |
+| 24 | [Margherita](https://open.spotify.com/track/1pJmdIiTYfGtYRKXCnM5S5) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Als Geen Ander](https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7) | 4:10 |
 | 25 | [Zo Ver Weg](https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:34 |
 | 26 | [Als Ze Er Niet Is](https://open.spotify.com/track/1IQLFJXaUNVkFI4QzMmrxe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:31 |
 | 27 | [Dans Je De Hele Nacht Met Mij](https://open.spotify.com/track/0kd4Br1X9dw2lZxeHQl7Wj) | [De Sjonnies](https://open.spotify.com/artist/4NmiKq5IMQAq7cRBnmEs2S) | [Verse Vis En Lingerie](https://open.spotify.com/album/0DvNs9Ozl7viPlteEZ3D0Q) | 3:47 |
-| 28 | [Wereld Zonder Jou](https://open.spotify.com/track/1f4VAmKMduljFaWtRGGweZ) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [De Waarheid](https://open.spotify.com/album/0tsLLrRYEzdpphF6QSFhBT) | 3:55 |
-| 29 | [In Nije Dei \(Live\)](https://open.spotify.com/track/6ckD6hc0JylXs6xHuwKx3b) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Niets te verliezen](https://open.spotify.com/album/432zDZZ4qvY2MJxIYruxg8) | 4:58 |
+| 28 | [In Nije Dei \(Live\)](https://open.spotify.com/track/6ckD6hc0JylXs6xHuwKx3b) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Niets te verliezen](https://open.spotify.com/album/432zDZZ4qvY2MJxIYruxg8) | 4:58 |
+| 29 | [Wereld Zonder Jou](https://open.spotify.com/track/1f4VAmKMduljFaWtRGGweZ) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [De Waarheid](https://open.spotify.com/album/0tsLLrRYEzdpphF6QSFhBT) | 3:55 |
 | 30 | [Kon Ik Maar Even Bij Je Zijn](https://open.spotify.com/track/0vWOq4z0mDYs0GSs7imUEd) | [Gordon](https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2) | [Kon ik maar even bij je zijn](https://open.spotify.com/album/1dxE4FTB0e9gtDEqjByt0J) | 4:41 |
 | 31 | [Zeg Me Dat Het Niet Zo Is](https://open.spotify.com/track/5SO1xQrOt9JfiLsNmp2Ha8) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 2:41 |
 | 32 | [Niemand In De Stad](https://open.spotify.com/track/03aukU1sYTGD7bE5mypWWe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Niemand In De Stad](https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H) | 4:51 |

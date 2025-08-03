@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-[](https://open.spotify.com/user/null) - 485,269 likes - 100 songs - 5 hr 51 min
+[Topsify](https://open.spotify.com/user/topsify) - 485,244 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

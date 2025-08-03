@@ -3,11 +3,1740 @@
   "num_followers": 672,
   "original_name": "Get Happy!",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAAQkWGSVQ+hhMX2BJ/hJeOdafccG33",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2015-05-07 15:36:09",
+      "album": {
+        "name": "Uptown Funk (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Golden Moments",
+        "url": "https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/4ZrbWwFHHjPoe7cfUBJ9WQ"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/2stPxcgjdSImK7Gizl8ZUN"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "An American Love Story",
+        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/0Vpswx5knuuXW8HmNK1LrT"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "I Really Like You",
+        "url": "https://open.spotify.com/album/79BbEqR3l7qGKd61y9S8Oj"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "I Really Like You",
+      "url": "https://open.spotify.com/track/3O09PoBmmhotSUxLZfcRP0"
+    },
+    {
+      "added_at": "2015-05-16 17:21:36",
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 233305,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/7tNkiYXv3W2Sv132IuL6zH"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 313466,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/6wEFAhLjqpt1xWfkZSieRd"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Twelve Deadly Cyns...And Then Some",
+        "url": "https://open.spotify.com/album/7nGN8ny3YbvegR1NkU2LqB"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/0QVgZCAnasHo3TevIz7XLW"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "I Will Always Love You: The Best Of Whitney Houston",
+        "url": "https://open.spotify.com/album/1rHNR6cz7WzrGmuqL9Wlyq"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 290426,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/5ifX6jfT33QWKP9DE0YRG8"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 272546,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e) - Acoustic [Acoustic]",
+      "url": "https://open.spotify.com/track/5tbz0VnVwfF3jubvjDGdHo"
+    },
+    {
+      "added_at": "2015-04-23 13:01:40",
+      "album": {
+        "name": "Come On Get Happy! The Very Best Of The Partridge Family",
+        "url": "https://open.spotify.com/album/0BX46gm7cwfCmh2Yi1MvoZ"
+      },
+      "artists": [
+        {
+          "name": "David Cassidy",
+          "url": "https://open.spotify.com/artist/0isDnZYMWbwDz7hzw0XRjt"
+        }
+      ],
+      "duration_ms": 65933,
+      "name": "Come On Get Happy - The Partridge Family Theme",
+      "url": "https://open.spotify.com/track/3fiWru4ins2Mso83shTZTz"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Stunt",
+        "url": "https://open.spotify.com/album/4FsibLgkGMV9AfbLtEqvxT"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "I Will Never Let You Down",
+        "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "I Will Never Let You Down",
+      "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "What I Like About You (And Other Romantic Hits)",
+        "url": "https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B"
+      },
+      "artists": [
+        {
+          "name": "The Romantics",
+          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "What I Like About You",
+      "url": "https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6"
+    },
+    {
+      "added_at": "2015-05-07 15:35:08",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Cobrastyle (feat. Mad Cobra) - As featured in Superman",
+      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The Best Of Hanson 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "MMMBop - Single Version",
+      "url": "https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The Way You Move / Hey Ya!",
+        "url": "https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "added_at": "2015-04-23 13:02:34",
+      "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The Very Best Of The Foundations",
+        "url": "https://open.spotify.com/album/49uCKJBpnEGdZ7C2JDnkXx"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 180280,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/3iwujDVtiJQwqbvjVS6LZV"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The Very Best of Daryl Hall / John Oates",
+        "url": "https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/7HX9f8AMBl0vQxAoAzLqhS"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Rhino Hi-Five: A-Ha",
+        "url": "https://open.spotify.com/album/2nvTm82RzlrbX0yhb7Tsbn"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/1nbMkRhfldXcmCyB83x8lK"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Let's Dance (1999 Remaster)",
+        "url": "https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457133,
+      "name": "Let's Dance - 1999 Remaster",
+      "url": "https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Stayin' Alive - Remastered Version",
+      "url": "https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Original Musiquarium",
+        "url": "https://open.spotify.com/album/6QnqUBcQocB0U3nl8eBVjm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/3dTNNizDOulTTV5uwtEGct"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/26JRni5Lqiyd9GNnlaz6DI"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Music From The Motion Picture Michael",
+        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Bright Side of the Road - 1996 Remaster",
+      "url": "https://open.spotify.com/track/4M6KXdzqkOfTpKOrBIqWx0"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Pratt & McClain featuring \"Happy Days\"",
+        "url": "https://open.spotify.com/album/3L0FxSHAAHw75PvQJmAVh9"
+      },
+      "artists": [
+        {
+          "name": "Pratt & McClain",
+          "url": "https://open.spotify.com/artist/3vNHR4OsgOsktxndG612B7"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Happy Days (Theme from ''Happy Days'')",
+      "url": "https://open.spotify.com/track/1CCuMgDauGruOwxrSh9NSW"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/3UeQky60klTQg4svlsc0yT"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        },
+        {
+          "name": "Alexi Blue",
+          "url": "https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34"
+        }
+      ],
+      "duration_ms": 226048,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1L3kS9vJM1cYa4QB2nI3MQ"
+    },
+    {
+      "added_at": "2015-05-07 15:36:43",
+      "album": {
+        "name": "Night Visions (Deluxe)",
+        "url": "https://open.spotify.com/album/1vAEF8F0HoRFGiYOEeJXHW"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/4eLSCSELtKxZwXnFbNLXT5"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Celebrate!",
+        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Frank Guida Presents: Jimmy Soul \"If You Wanna Be Happy\"",
+        "url": "https://open.spotify.com/album/52RYT3SK1MzjGDOfcDupUA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Soul",
+          "url": "https://open.spotify.com/artist/7k4MYPtpz3fAViMuuLi9ry"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "If You Wanna Be Happy",
+      "url": "https://open.spotify.com/track/7D97JnBT73FWUh9KmRvP9M"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Pirate Radio",
+        "url": "https://open.spotify.com/album/7GFn8ze0gydX3f0WNMCxaG"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/2Q3Cgx2JvsUvpDLEkFx8BG"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The 'See For Miles' 10th Anniversary Catalogue",
+        "url": "https://open.spotify.com/album/3eKCM6wEN9J2dxq3MBNV5e"
+      },
+      "artists": [
+        {
+          "name": "Small Faces",
+          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "Itchycoo Park",
+      "url": "https://open.spotify.com/track/4SjbNgABPeyQNm8Lr9B0Ur"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Curtis (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 535333,
+      "name": "Move on Up - Extended Version",
+      "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Dave 'Baby' Cortez & His Happy Organ",
+        "url": "https://open.spotify.com/album/2EXis7lWj99WCFMmNedxyn"
+      },
+      "artists": [
+        {
+          "name": "Dave \"Baby\" Cortez",
+          "url": "https://open.spotify.com/artist/7fGPj0sGEcZACQTUVbz3NY"
+        }
+      ],
+      "duration_ms": 123507,
+      "name": "The Happy Organ",
+      "url": "https://open.spotify.com/track/31nG1fOSr30Yy6Ef7IB1qH"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
+      },
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Thrift Shop (feat. Wanz)",
+        "url": "https://open.spotify.com/album/0XN945pdw7kvYRndgbDuSb"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3TVPk700O6Wec04D2K2vJ7"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Wanz",
+          "url": "https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Thrift Shop (feat. Wanz)",
+      "url": "https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Comfort Eagle",
+        "url": "https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 204128,
+      "name": "Short Skirt / Long Jacket",
+      "url": "https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Rhino Hi-Five: Deee-Lite",
+        "url": "https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "99 Luftballons",
+        "url": "https://open.spotify.com/album/0V8ETNFjMiaCoG45ZPWsUs"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "99 Luftballons",
+      "url": "https://open.spotify.com/track/6HA97v4wEGQ5TUClRM0XLc"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/0QNluXFRHFyRVDiBHXmstK"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "duration_ms": 287306,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Steal My Sunshine EP",
+        "url": "https://open.spotify.com/album/7xXKgIFgbBSdBAV4rDZ9yp"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Steal My Sunshine - Single Version",
+      "url": "https://open.spotify.com/track/5Muvh0ooAJkSgBylFyI3su"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3xazQNal4TMbXoJgCV7zqa"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/4zzL7ATa95g88MwzuQ1v8G"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Pocketful Of Sunshine",
+        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "ZARRO NATION",
+        "url": "https://open.spotify.com/album/2NbK7WNNq4aq93BimJ8Glw"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        }
+      ],
+      "duration_ms": 276156,
+      "name": "Blue (Da Ba Dee)",
+      "url": "https://open.spotify.com/track/7G48fCUg41dBEwqmxR7D0B"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The Lions Sleeps Tonight (Remastered)",
+        "url": "https://open.spotify.com/album/2AHtfFn70pLKeK0pzfhY2F"
+      },
+      "artists": [
+        {
+          "name": "The Tokens",
+          "url": "https://open.spotify.com/artist/0GFhVDdXUQi2hyTgm34nPm"
+        }
+      ],
+      "duration_ms": 163474,
+      "name": "The Lion Sleeps Tonight - Remastered",
+      "url": "https://open.spotify.com/track/5qoT6MJByLif7MNrBeyiYO"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "To Win Just Once, The Best of the Saw Doctors",
+        "url": "https://open.spotify.com/album/425GbowlzBU5QANMWdfyFb"
+      },
+      "artists": [
+        {
+          "name": "The Saw Doctors",
+          "url": "https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Joyce Country C\u00e9il\u00ed Band",
+      "url": "https://open.spotify.com/track/0gjHwCTNhJKmwwob4SwHsk"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Music From Party of Five",
+        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
+      },
+      "artists": [
+        {
+          "name": "Rusted Root",
+          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Send Me on My Way",
+      "url": "https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "The Essential Jacksons",
+        "url": "https://open.spotify.com/album/56P85b0u2ND6dJL9AgOB95"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "Blame It on the Boogie",
+      "url": "https://open.spotify.com/track/2JPhjahxid1Y6nv6keJ3q2"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Billionaire (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/1Bv1RMxZzd9X6KPnOVZGRE"
+      },
+      "artists": [
+        {
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 211162,
+      "name": "Billionaire (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/16Ldvr8SKdenSlADkLsdYF"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Dead Presidents Vol. 1/Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/09yaGU6AaYLHAONWqhWmMk"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/3rCNLeHuSDsEPJshmo5OuR"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Sex Packets",
+        "url": "https://open.spotify.com/album/7xOwZi6Ks5f5XjTEWoTAH8"
+      },
+      "artists": [
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "duration_ms": 391693,
+      "name": "The Humpty Dance",
+      "url": "https://open.spotify.com/track/4WxQGUmWBRNovxlF2g8Xdv"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "How Bizarre",
+        "url": "https://open.spotify.com/album/3JSCkR1qkv6A0s8MkT49EU"
+      },
+      "artists": [
+        {
+          "name": "OMC",
+          "url": "https://open.spotify.com/artist/4vdt8TD56jjQfmxFCmhubX"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "How Bizarre",
+      "url": "https://open.spotify.com/track/0wJyFu6JHwUoKQN5X3uzVe"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "First Band On The Moon",
+        "url": "https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Lovefool - Radio Edit",
+      "url": "https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX"
+    },
+    {
+      "added_at": "2015-05-03 13:45:54",
+      "album": {
+        "name": "6 PICKS: Essential Radio Hits EP",
+        "url": "https://open.spotify.com/album/5kci1HTcEZfK1Jv5HrzPad"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 205239,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/75fuzn623bYyKISKlFHdCw"
+    },
+    {
+      "added_at": "2015-04-23 13:08:12",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Get Up Offa That Thing",
+      "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Burning Down the House / I Get Wild / Wild Gravity",
+        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "60s Greatest Hits And Rare Classics",
+        "url": "https://open.spotify.com/album/1dfxP0Yua5quOvBeKGcjSD"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 148533,
+      "name": "Twist And Shout",
+      "url": "https://open.spotify.com/track/3LLAyyUl6U1HHd9vVUqf7X"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The 50's Vol. 3",
+        "url": "https://open.spotify.com/album/6m8M3NeOGYLymHXzHcMcqH"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 121973,
+      "name": "Wake Up Little Susie",
+      "url": "https://open.spotify.com/track/0H2hXJU6jPoHnNXYYQyAh5"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The Georgia Peach",
+        "url": "https://open.spotify.com/album/6WrwHm2bOjKxHvQ04bfcDD"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 143426,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2vXk7PcNLLXsdnVaoMxzTj"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The Best of The Monkees",
+        "url": "https://open.spotify.com/album/338yWfNJWW2SXxVfIdczUD"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "I'm a Believer",
+      "url": "https://open.spotify.com/track/1CSLeVCXmetBh8IkTPMFdL"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "H.o.t.s Presents : The Very Best of Bobby Darin, Vol.1",
+        "url": "https://open.spotify.com/album/4wYlxLmZIq6cCEel9fUOAV"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 131056,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/76xWDGXAPQBIPAUMcgB6mB"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Best Of Bill Haley & His Comets: 20th Century Masters: The Millennium Collection",
+        "url": "https://open.spotify.com/album/4pPyO5FgPmrBkmZ76tXXjJ"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Shake, Rattle And Roll - Single Version",
+      "url": "https://open.spotify.com/track/2McHF33C9Tx4lfwKBefE4n"
+    },
+    {
+      "added_at": "2015-08-05 18:32:49",
+      "album": {
+        "name": "The Best Of Chubby Checker 1959-1963",
+        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
+    },
+    {
+      "added_at": "2015-04-23 13:01:42",
+      "album": {
+        "name": "Come On Get Happy! The Very Best Of The Partridge Family",
+        "url": "https://open.spotify.com/album/0BX46gm7cwfCmh2Yi1MvoZ"
+      },
+      "artists": [
+        {
+          "name": "The Partridge Family",
+          "url": "https://open.spotify.com/artist/7u1mqP3ykglpCB2c1p1p5I"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "I Think I Love You",
+      "url": "https://open.spotify.com/track/2hb6LFp0TwBjkhf37od4G3"
+    },
+    {
+      "added_at": "2015-04-23 13:05:30",
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+      },
+      "artists": [
+        {
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Back To Basics: The Essential Collection 1971-1992",
+        "url": "https://open.spotify.com/album/2oakCvKsiK8NqZvvlEzmn4"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/5k611PjxiTgNqt4FVr033f"
+    },
+    {
+      "added_at": "2015-08-05 18:32:25",
+      "album": {
+        "name": "Rhino Hi-Five: The Trammps",
+        "url": "https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "Disco Inferno - Single Edit",
+      "url": "https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8"
+    },
+    {
+      "added_at": "2015-08-05 18:32:38",
+      "album": {
+        "name": "I Will Survive (Rerecorded)",
+        "url": "https://open.spotify.com/album/0EvxRMIJySiL1ges38c753"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 250887,
+      "name": "I Will Survive - Rerecorded",
+      "url": "https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Youthquake",
+        "url": "https://open.spotify.com/album/0HEKWtu7St3tKgZDKZsX90"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/0BB9eUBBaaX6GALSYNcEp7"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The Best of Kylie Minogue",
+        "url": "https://open.spotify.com/album/3woO87VD1hOuRcvZh9UUyr"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "The Loco-motion - 7\" Mix",
+      "url": "https://open.spotify.com/track/5DpC0P3GaP2NBFnRgmU5Ex"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "ABBA Gold",
+        "url": "https://open.spotify.com/album/2rp5riHULWgrXPsDtsp1ir"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/2rgqPSIRAfaO2MGo9smdSX"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Golden Years 1974",
+        "url": "https://open.spotify.com/album/2RbrwShA5bs0nrRf6sZNMZ"
+      },
+      "artists": [
+        {
+          "name": "Carl Douglas",
+          "url": "https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Kung Fu Fighting",
+      "url": "https://open.spotify.com/track/1SPo9DRZi8iDGVfyJmLiMe"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The Best Of Culture Club",
+        "url": "https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Karma Chameleon",
+      "url": "https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 325266,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "We Are Family / Easier To Love [Digital 45]",
+        "url": "https://open.spotify.com/album/5lAf7Hwwm6Pqv97O5OS3qp"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "We Are Family",
+      "url": "https://open.spotify.com/track/0x3VuSP9TB6yHSpkHB2nPv"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Mr. & Mrs. Smith - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1ooPcS9FzXuXOuRUnoWtwq"
+      },
+      "artists": [
+        {
+          "name": "Wright, Charles and the Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/5266DvbMl9IBKrwMZB50Bj"
+        }
+      ],
+      "duration_ms": 271853,
+      "name": "Express Yourself (Mocean Worker Remix)",
+      "url": "https://open.spotify.com/track/5LMw1LcXsFwvfUhyav14Mz"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "Jailhouse Rock",
+      "url": "https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7EAya7Hj01YTP9mxLK12SY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161773,
+      "name": "No Particular Place To Go - Single Version",
+      "url": "https://open.spotify.com/track/07zToRJlr6YYaDNL70CFz8"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Tina!",
+        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "River Deep - Mountain High",
+      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "It's Your Thing: The Story Of The Isley Brothers",
+        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/2oezpnnea1VXHpJEbqnBhw"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Forever: The Complete Motown Albums, Volume 1",
+        "url": "https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The Very Best Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Ain't No Mountain High Enough - Stereo Version",
+      "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Tainted Love / Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/1GfUA3buY8Ref28escKLrC"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/1tVzVPIcCFz5QUMGLPHJEc"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
+      "added_at": "2015-04-23 13:03:51",
+      "album": {
+        "name": "The Very Best of Frankie Valli & The 4 Seasons",
+        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
+      },
+      "artists": [
+        {
+          "name": "The Four Seasons",
+          "url": "https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/7ePFDzrnLt3Ynqgy2UFWri"
+    }
+  ],
   "unique_name": "Get Happy!",
   "url": "https://open.spotify.com/playlist/4Buj61XKuhfVLsW8rPX8YQ"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,832 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,841 likes - 68 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 67 | [Introduction \(Titles\)](https://open.spotify.com/track/4T0M3ao3PfYRkIolo5wpLK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/5K8mB1LGyBDQBKnj6k64Uq) | 2:36 |
 | 68 | [Friends Not Food](https://open.spotify.com/track/3DcE3KXwuUV8WVpKKN2iNo) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 1:50 |
 
-Snapshot ID: `AAAAAHuMTx0CkwToOvTd5RunPYPm44fo`
+Snapshot ID: `ZIsLvQAAAACWKushzTpV22Rmad4PKiYq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Orbit Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,010 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,147 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 99 | [In The Airwaves](https://open.spotify.com/track/6qL5975wPR7YZgIFZFYx6o) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [In The Airwaves](https://open.spotify.com/album/3q90NOCTVImb5J4kyOTayw) | 4:37 |
 | 100 | [Cyberpsychosis](https://open.spotify.com/track/3oePqJxORNEP1WLyOSATUT) | [dEMOTIONAL](https://open.spotify.com/artist/0RuPWYczjuZmLc4omO51GN) | [Cyberpsychosis](https://open.spotify.com/album/0GsGFKb51kTqktOWyEhxC1) | 4:25 |
 
-Snapshot ID: `aIxpswAAAAD5lSQ67jekW5iAi/AbANM/`
+Snapshot ID: `AAAAADj2fMiOVM5fNSl1T9vR6KNbgzqh`

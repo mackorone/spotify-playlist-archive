@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 14 | [Furore](https://open.spotify.com/track/1grE7P4DFbcgWrG8uTW6W0) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Per Sempre](https://open.spotify.com/album/4cHkEbaasmk9Bk5W5bXpgO) | 2:56 |
 | 15 | [scossa](https://open.spotify.com/track/7aoU4HfD4yc1LhpyldWFtm) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/67LfyhhnPgGxXKMDuXzLnT) | 3:01 |
 | 16 | [Ti amo non lo so dire](https://open.spotify.com/track/0ghwEektHMemDGqmOzsNnc) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Ti amo non lo so dire](https://open.spotify.com/album/4xdh3qnIp6cwjHUzq27svz) | 3:37 |
-| 17 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 |
-| 18 | [hype](https://open.spotify.com/track/4DWCjOAFbhfjZzcvKkleIx) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:53 |
+| 17 | [hype](https://open.spotify.com/track/4DWCjOAFbhfjZzcvKkleIx) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:53 |
+| 18 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 |
 | 19 | [Musica Italiana](https://open.spotify.com/track/1DHkzrjQ9Knz4zmRifZMM1) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/6mb62aOsgJ2yItwqViACbE) | 3:03 |
 | 20 | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/album/1Bc0ufj4QsSISl1gApoJCa) | 2:28 |
 | 21 | [RAGAZZI FUORI](https://open.spotify.com/track/6fJcbngwZoGyhpO1JOHI2R) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 69 | [CENTOMILA](https://open.spotify.com/track/4EFxaNq7V6LzMZv6dNdL2r) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 3:07 |
 | 70 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 
-Snapshot ID: `Ab4XnAAAAAA9LWoY1PsIA8ZUVwu+Ya7t`
+Snapshot ID: `Ab4dKAAAAABxva5Jhmte0GLzUyEs404y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 
 > Las canciones de pop latino más escuchadas del año\. Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,349 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,345 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 | 49 | [Pasado Mañana](https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:17 |
 | 50 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 |
 
-Snapshot ID: `Z1BHxAAAAAAmYENUktERjckaVQ4TjBuJ`
+Snapshot ID: `AAAAAKmrio2AZa2Npzl+6+hjvQG6+g3o`

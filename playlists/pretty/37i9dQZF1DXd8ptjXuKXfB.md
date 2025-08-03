@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,641 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,648 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 58 | [lánc](https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [lánc](https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3) | 2:39 |
 | 59 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 |
 | 60 | [Libikóka](https://open.spotify.com/track/66FSHBlaFjgUBE7AKVRxmj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Libikóka](https://open.spotify.com/album/6BKsMwAE9c1NM5moE808Yb) | 4:01 |
-| 61 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 |
-| 62 | [Boldog igazán](https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [HA MEGÉRKEZEL](https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS) | 3:11 |
+| 61 | [Boldog igazán](https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [HA MEGÉRKEZEL](https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS) | 3:11 |
+| 62 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 |
 | 63 | [ZHA MAJ DUR](https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Farkas Pisti](https://open.spotify.com/artist/3S80BK8zfo0nGXKOgG4vo3) | [ZHA MAJ DUR](https://open.spotify.com/album/0QWmGuYzWAkZuvZPzZ8bV3) | 3:39 |
 | 64 | [Meztelen](https://open.spotify.com/track/2DUQVPD8RtAcVZGzabRezv) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB), [Horváth Tamás](https://open.spotify.com/artist/4I1y8Rd0H2NGXMzmT6JWsz) | [Meztelen](https://open.spotify.com/album/6TgAPeBHnPFcNBPryaOQHi) | 4:08 |
 | 65 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 76 | [SZÖRNYETEG](https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ SZÁLLODA \(1\. RÉSZ\)](https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF) | 3:28 |
 | 77 | [10/10](https://open.spotify.com/track/32OAOWJCY2IweKSGggKWta) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [10/10](https://open.spotify.com/album/10cKEAf2bKBFIcWIrsQFKV) | 2:26 |
 | 78 | [Gyere Kislány](https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Gyere Kislány](https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX) | 3:36 |
-| 79 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
-| 80 | [VOLT PÁR ALKALOM](https://open.spotify.com/track/1TxuMRsWqKFtBVerKoGrhp) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [VOLT PÁR ALKALOM](https://open.spotify.com/album/5ci8XSR7YwZ7LnpM4Uum7R) | 2:35 |
+| 79 | [VOLT PÁR ALKALOM](https://open.spotify.com/track/1TxuMRsWqKFtBVerKoGrhp) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [VOLT PÁR ALKALOM](https://open.spotify.com/album/5ci8XSR7YwZ7LnpM4Uum7R) | 2:35 |
+| 80 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
 
 Snapshot ID: `aIo+LAAAAAC85JqrRmXrKwCx/GpwP1O/`

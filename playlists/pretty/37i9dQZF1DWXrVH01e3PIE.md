@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Zell en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,775 likes - 119 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,749 likes - 119 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

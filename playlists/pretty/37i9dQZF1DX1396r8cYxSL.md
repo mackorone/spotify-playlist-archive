@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuracak şarkılar\. Kapak: M Lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,535 likes - 57 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,866 likes - 57 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 25 | [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 |
 | 26 | [pUTA](https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [BIGBAT](https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix) | [pUTA](https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd) | 1:44 |
 | 27 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |
-| 28 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 |
+| 28 | [BALMAIN](https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BALMAIN](https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM) | 2:03 |
 | 29 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 |
-| 30 | [BALMAIN](https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BALMAIN](https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM) | 2:03 |
+| 30 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 |
 | 31 | [HA HA HA HA](https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [HA HA HA HA](https://open.spotify.com/album/5cQ0A1z9Xlpi2M4RLGO8Xz) | 1:42 |
 | 32 | [Dönmüyor Giden](https://open.spotify.com/track/3UXzQ5XshA4IENsaPuo0iW) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Dönmüyor Giden](https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq) | 3:25 |
 | 33 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 41 | [Kabul](https://open.spotify.com/track/2nyigm34dUR20LTLTt2g11) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kabul](https://open.spotify.com/album/0K7EIVgGtYvc71CpGQBtt3) | 3:52 |
 | 42 | [Mucize](https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Mucize](https://open.spotify.com/album/3rLShAcaMZZls5uZx7bPE4) | 2:37 |
 | 43 | [AŞKIM ALLAH KURTARSIN](https://open.spotify.com/track/7pOzz5RxPcBCrXSdlIIFwJ) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [AŞKIM ALLAH KURTARSIN](https://open.spotify.com/album/6RDAJhqOK6TXBj6uVGxfxW) | 2:05 |
-| 44 | [TAMAM SENSİN](https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [TAMAM SENSİN](https://open.spotify.com/album/3UrsDDzsM6SPz13RE47RVR) | 2:22 |
-| 45 | [Sahte Dualar](https://open.spotify.com/track/3bUkBCbcOg787J2jEp3lN7) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Sahte Dualar](https://open.spotify.com/album/2NHiHNUsDwEW49Y5ss910e) | 3:30 |
+| 44 | [Sahte Dualar](https://open.spotify.com/track/3bUkBCbcOg787J2jEp3lN7) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Sahte Dualar](https://open.spotify.com/album/2NHiHNUsDwEW49Y5ss910e) | 3:30 |
+| 45 | [TAMAM SENSİN](https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [TAMAM SENSİN](https://open.spotify.com/album/3UrsDDzsM6SPz13RE47RVR) | 2:22 |
 | 46 | [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 |
 | 47 | [İSTANBOO](https://open.spotify.com/track/4Fg1yutthlIqyIW7p9f5Rc) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [İSTANBOO](https://open.spotify.com/album/2GTyXXvEbPSr2sAf2W6Kk5) | 2:24 |
 | 48 | [Duymuyor Beni](https://open.spotify.com/track/5WW1DoKTUataphGlJZNRUq) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Duymuyor Beni](https://open.spotify.com/album/3asOVgkMchNY4aukd8f90a) | 2:39 |

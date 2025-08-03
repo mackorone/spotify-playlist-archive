@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,996 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,000 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 49 | [Marrow](https://open.spotify.com/track/2AzT1hdfUcPSL59OmhdC4U) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/6vKUhbJvFvm4TxQymOlM7V) | 3:24 |
 | 50 | [Hombre Roto](https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 3:21 |
 
-Snapshot ID: `aIqyAAAAAAB6RDW7m5zGd8rCrNn1dfvq`
+Snapshot ID: `aIwDgAAAAACaK7Prsr1NGjDlf5ggCvDk`

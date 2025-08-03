@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,383 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,413 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 41 | [Dil Ko Karaar Aaya \(From "Sukoon"\)](https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc) | [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Dil Ko Karaar Aaya \(From "Sukoon"\)](https://open.spotify.com/album/3PRk98aAwGeeXQsoDa5DGe) | 3:51 |
 | 42 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
 | 43 | [Filhall](https://open.spotify.com/track/7DE0I3buHcns00C0YEsYsY) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Akshay Kumar](https://open.spotify.com/artist/0w0mlcvl7QH28Cs28O6waY), [Nupur Sanon](https://open.spotify.com/artist/2vCsnF6h4c2b1csudqJiV5) | [Filhall](https://open.spotify.com/album/6qc16gUvik05h9ztn3OwHn) | 4:15 |
-| 44 | [Qismat](https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Qismat](https://open.spotify.com/album/4muMYLvaAOE7frJPImJE7J) | 4:03 |
+| 44 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 |
 | 45 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
-| 46 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 |
+| 46 | [Qismat](https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Qismat](https://open.spotify.com/album/4muMYLvaAOE7frJPImJE7J) | 4:03 |
 | 47 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 |
 | 48 | [Bewafa Tera Masoom Chehra](https://open.spotify.com/track/2plj6f8TqOF0YNuHd2VzJD) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Bewafa Tera Masoom Chehra](https://open.spotify.com/album/5u8vmQ2Y0KRf5cYMa1VwV4) | 4:02 |
 | 49 | [Feelings](https://open.spotify.com/track/0LRNOwAcNjPMxTYQahFo3S) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM) | [Feelings](https://open.spotify.com/album/06nUJVt5CG7tZPQ7G1JNNU) | 3:44 |

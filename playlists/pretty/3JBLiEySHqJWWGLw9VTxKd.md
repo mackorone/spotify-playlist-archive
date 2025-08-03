@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3JBLiEySHqJWWGLw9VTxKd.md) - [plain]
 
 > 
 
-[](https://open.spotify.com/user/null) - 8,806 likes - 30 songs - 2 hr 28 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 8,805 likes - 30 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

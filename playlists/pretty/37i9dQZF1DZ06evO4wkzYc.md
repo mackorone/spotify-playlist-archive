@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,732 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,857 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 25 | [Joven Bragado](https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 3:05 |
 | 26 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
 | 27 | [El Cuadros \- Live](https://open.spotify.com/track/5qiQEFkHH84ezsj7aGCnwV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Cuadros \(Live\)](https://open.spotify.com/album/6l8x9Tk6AcApr0IzT3iGWK) | 4:06 |
-| 28 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 |
+| 28 | [Don \(En Vivo\)](https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Don \(En Vivo\)](https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD) | 3:30 |
 | 29 | [Promesa Cumplida](https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 5:38 |
-| 30 | [Don \(En Vivo\)](https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Don \(En Vivo\)](https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD) | 3:30 |
+| 30 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 |
 | 31 | [Que Te Vaya Bien](https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G) | 3:58 |
 | 32 | [Fuentes De Ortiz](https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Fuentes De Ortiz](https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS) | 3:52 |
 | 33 | [El Del Ice \- Live](https://open.spotify.com/track/1p4qVUJ8J2E8F7RcToq8Bf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \(Live\)](https://open.spotify.com/album/3LlXNXKkBrt0S43Jvwx5b8) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Me Vuelve Loco](https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd) | 3:52 |
 | 50 | [Serafín](https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Serafín](https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X) | 4:00 |
 
-Snapshot ID: `aIqyAAAAAAAmAwTmdkMwkv7xUm+uYt7e`
+Snapshot ID: `aIwDgAAAAACrRjPgGGNqoM7fYmuF+uss`

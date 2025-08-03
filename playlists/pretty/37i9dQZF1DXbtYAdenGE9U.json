@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 698510,
+  "num_followers": 698857,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Seven Cities",
-        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
-      },
-      "artists": [
-        {
-          "name": "Solarstone",
-          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
-        },
-        {
-          "name": "Andy Bury",
-          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Seven Cities - Solarstone's Atlantis Mix",
-      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Superstring",
         "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
       },
@@ -507,18 +487,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Fire Wire",
-        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
+        "name": "Seven Cities",
+        "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
       },
       "artists": [
         {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        },
+        {
+          "name": "Andy Bury",
+          "url": "https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Fire Wire - Radio Edit",
-      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
+      "duration_ms": 211333,
+      "name": "Seven Cities - Solarstone's Atlantis Mix",
+      "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -535,6 +519,22 @@
       "duration_ms": 241346,
       "name": "Mystery Land",
       "url": "https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Fire Wire",
+        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Fire Wire - Radio Edit",
+      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
     },
     {
       "added_at": "2024-07-23 09:55:55",

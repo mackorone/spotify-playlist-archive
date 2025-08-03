@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,205 likes - 35 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,298 likes - 35 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 7 | [Holy Ground \(feat\. Jessie Murph\)](https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:57 |
 | 8 | [Pray](https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:26 |
 | 9 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:53 |
-| 10 | [Gucci Mane](https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Gucci Mane](https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW) | 2:46 |
-| 11 | [Heroin](https://open.spotify.com/track/5LkXpdUpSCHOO1yJI5aLbV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Heroin](https://open.spotify.com/album/4haogKoKcT5t0vGVJkBBY2) | 4:16 |
+| 10 | [Heroin](https://open.spotify.com/track/5LkXpdUpSCHOO1yJI5aLbV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Heroin](https://open.spotify.com/album/4haogKoKcT5t0vGVJkBBY2) | 4:16 |
+| 11 | [Gucci Mane](https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Gucci Mane](https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW) | 2:46 |
 | 12 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 |
 | 13 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
 | 14 | [I Like How I Look](https://open.spotify.com/track/5UhmDALCzmMrY0voaPfx0z) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:16 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 34 | [A Little Too Drunk](https://open.spotify.com/track/61yBKW3uXN13DUax0kLZKd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:28 |
 | 35 | [Nothing Else Matters](https://open.spotify.com/track/4FowjhkBn9wwIWNgbBvlke) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 3:10 |
 
-Snapshot ID: `aIqyAAAAAADUiss4lSaN9w/LdimsCDtL`
+Snapshot ID: `aIwDgAAAAAAzG1ZgJ/vmlLWMfPmIZdt9`

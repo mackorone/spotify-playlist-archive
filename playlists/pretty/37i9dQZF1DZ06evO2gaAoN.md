@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,171 likes - 27 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,229 likes - 27 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
 | 2 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 |
-| 3 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti) | 2:56 |
-| 4 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 3 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 4 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti) | 2:56 |
 | 5 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 6 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 | 7 | [When I'm With You \(feat\. Tyla\)](https://open.spotify.com/track/4JxY3pNkxMKHjrPiOGQqcQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:52 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 26 | [Bana Ba \(feat\. Tyla & Shaunmusiq & Ftears\)](https://open.spotify.com/track/67J5DZeYwWOdJ1p0Az0jSA) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:05 |
 | 27 | [La Di](https://open.spotify.com/track/4OCK9za3Z06Oqj4HaKBE2S) | [Mykyle](https://open.spotify.com/artist/3EdCT2bYR55ySYU7hwbmcG), [Si Xiazi](https://open.spotify.com/artist/0DhzfTcgpek8kkWvNJKwtB), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [La Di](https://open.spotify.com/album/0dSB2LstksZRA0adSfyTbV) | 4:09 |
 
-Snapshot ID: `aIqyAAAAAADGoRwvJbhmZYKBKP6gGeTb`
+Snapshot ID: `aIwDgAAAAAC5vzzYwll3ZjSiWWjTEToS`

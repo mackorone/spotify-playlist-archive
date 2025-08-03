@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7buHbubC96caOTOSQQJ4pl.md) - [plain]
 
 > Another great metal year is coming to a close\. Explore this year's highlights in metal with this playlist!
 
-[](https://open.spotify.com/user/null) - 3,921 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,916 likes - 116 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,21 @@ pretty - [cumulative](/playlists/cumulative/7buHbubC96caOTOSQQJ4pl.md) - [plain]
 | 98 | [A Gluttonous Abomination](https://open.spotify.com/track/4ywlVADMEchrtcD15nx2EG) | [Acrania](https://open.spotify.com/artist/6D3PbIyyqH2NaqPZSE6X5N) | [Totalitarian Dystopia](https://open.spotify.com/album/0rjLXJXYSchgldcJ592bgW) | 6:22 |
 | 99 | [\. \_ \_ \_ \_](https://open.spotify.com/track/0gkkfUbuGoQ4nGblM1As5L) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [Away With Words, Part 1](https://open.spotify.com/album/6kpahkQqZJ1vJxCpaxgThh) | 5:11 |
 | 100 | [Last Warning](https://open.spotify.com/track/3BD65moylQUqAEnhQCcogY) | [Shear](https://open.spotify.com/artist/3IuE8RO3y9Y6MhNMOCFJH2) | [Katharsis](https://open.spotify.com/album/76CG8hdwqoSrL8xMWmCvNv) | 4:38 |
+| 101 | [Chains](https://open.spotify.com/track/06OJS3L2Sl0IKCY5OgRvBz) | [Morbus Chron](https://open.spotify.com/artist/44ZkVgSsYmdOvX4Pho8e0E) | [Sweven](https://open.spotify.com/album/3Cr9wXHP7u3EejI1Bo9yQQ) | 4:49 |
+| 102 | [Death Mask](https://open.spotify.com/track/5YGMiq65UKuWiSS09DItGB) | [Lord Mantis](https://open.spotify.com/artist/1LslKyduMzQNZ4jSBis6xg) | [Death Mask](https://open.spotify.com/album/3lIiMLGEeHJZgLvNx4GxaJ) | 6:37 |
+| 103 | [Absorbing Black Ignition](https://open.spotify.com/track/5DT78xycB2ct2werfysgbg) | [Artificial Brain](https://open.spotify.com/artist/0FJTTwSyFG3TnPYs0Gwuwr) | [Labyrinth Constellation](https://open.spotify.com/album/2iOQAM3STw2SoBn7XLdEuu) | 5:23 |
+| 104 | [Incense For The Damned](https://open.spotify.com/track/16Equ45CyX97NPyjlQUCB3) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Time To Die](https://open.spotify.com/album/0Wog8ZTHQGjngwsB0d7Ueo) | 10:42 |
+| 105 | [Scabs](https://open.spotify.com/track/39yvjK7AWwWFvbBGtHWezO) | [Vallenfyre](https://open.spotify.com/artist/60vtfdGwf77ISFBw37EYRM) | [Splinters](https://open.spotify.com/album/4xOHzKP6Wu09bxry7xeV7i) | 3:36 |
+| 106 | [Savagery](https://open.spotify.com/track/2bIB1gKcupgjIw7WqcFi8H) | [Autopsy](https://open.spotify.com/artist/6hR8mUd2yyHFazoCuweiIJ) | [Tourniquets, Hacksaws & Graves](https://open.spotify.com/album/12gIgtiFASdDnVoyUmhlbg) | 2:21 |
+| 107 | [A Greater Purpose](https://open.spotify.com/track/59KcsisSHM4G7UqTB3cRRS) | [Ancient Bards](https://open.spotify.com/artist/3ZlSRBv3StWrGuGTAwKskP) | [A New Dawn Ending](https://open.spotify.com/album/0ElzXeDLwri5dut1bxv9Jv) | 7:55 |
+| 108 | [Norrønaprogen](https://open.spotify.com/track/1PaMXNWJGO8hSXWXdYUHkg) | [Solefald](https://open.spotify.com/artist/1jBJHkyQLO6Ga1Dx3W6nG3) | [Norrønasongen\. Kosmopolis Nord](https://open.spotify.com/album/7b04xgVyJoAxoT28KTjs7d) | 11:25 |
+| 109 | [Fireheart](https://open.spotify.com/track/6Jm1C1QH2skWkZ30d4v5DE) | [Nachtmystium](https://open.spotify.com/artist/5Cz18ETgjR6kcVMUK0YOqD) | [The World We Left Behind](https://open.spotify.com/album/2ERVg9mdqy4VEVreGkAh8P) | 5:15 |
+| 110 | [Compos Mentis \- Temptation 6](https://open.spotify.com/track/6YK22ufj8MozZzhxUmo2e4) | [Abigor](https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR) | [Leytmotif Luzifer](https://open.spotify.com/album/7hsWuux8fV0ggdhUJXkZbn) | 5:34 |
+| 111 | [Torn by the Fox of the Crescent Moon](https://open.spotify.com/track/2GPJfPvjRjalaahyDLbs4Y) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Primitive and Deadly](https://open.spotify.com/album/1IQcIcLBB1bnUOvSrKf063) | 8:54 |
+| 112 | [Children of the Mist](https://open.spotify.com/track/5DeWERhlyYJBVivrZg7NQB) | [Saor](https://open.spotify.com/artist/4rHMzJ1RKUMtid1K2QEYbr) | [Aura](https://open.spotify.com/album/1BhdMkVHX7OGnAo1llUEmq) | 12:14 |
+| 113 | [Baring Teeth for Revolt](https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Constricting Rage of the Merciless](https://open.spotify.com/album/3QbTZRKjsh4cul7nYj5k1n) | 3:47 |
+| 114 | [Feeding the Crawling Shadows](https://open.spotify.com/track/4vpCRAhPJr8F2t983TkWdp) | [Sargeist](https://open.spotify.com/artist/6zl5IXVgj1nG1fqjUh68xe) | [Feeding the Crawling Shadows](https://open.spotify.com/album/4jO3MPorrsqr9CF5UUj17A) | 5:06 |
+| 115 | [Underworldly](https://open.spotify.com/track/4nUJ0qUCV7LymWTImE0Iv0) | [Iskald](https://open.spotify.com/artist/2CyJpMZ9au9A8DuecC8L2n) | [Nedom og Nord](https://open.spotify.com/album/5hQJGa4SX4q0ogG3v7dwS7) | 7:37 |
+| 116 | [Villainous](https://open.spotify.com/track/4U6qmtcQWwTc4UVG0YyAln) | [Auroch](https://open.spotify.com/artist/3BBD29stXsGdg4MURSs4dL) | [Taman Shud](https://open.spotify.com/album/7ahfapxB0g3388iOB02nWd) | 3:02 |
 
 Snapshot ID: `AAAADnV1x9f5FI8GZaXNgJ0veTDy5k0b`

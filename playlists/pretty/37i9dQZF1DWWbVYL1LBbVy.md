@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbVYL1LBbVy.md) - [plain]
 
 > Music to see you through the tough times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,584 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,820 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbVYL1LBbVy.md) - [plain]
 | 99 | [The Last Time](https://open.spotify.com/track/7vvIpJZye5cRR6De1LKM0m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Gary Lightbody](https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z) | [Red \(Deluxe Edition\)](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 4:58 |
 | 100 | [Sober](https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Sober](https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA) | 3:17 |
 
-Snapshot ID: `AAAAAE/gESOA4zATLTADwZwilNzQcf7O`
+Snapshot ID: `aEuiZgAAAAAzPZ6fRBG9jN6P9DoIW2Jm`

@@ -4,7 +4,7 @@
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-90 songs - 6 hr 50 min
+91 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Believe in Love \- 2015 \- Remaster](https://open.spotify.com/track/7dJgMpT6LzQTlLMEuoapq2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Savage Amusement](https://open.spotify.com/album/60eR5X7jp8eSwlOSXbz5Qk) | 5:23 | 2023-12-21 |  |
 | [Believe in Love \- 2015 Remaster](https://open.spotify.com/track/1rQzg5VzNl4dZPQ6BAIm5p) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Savage Amusement](https://open.spotify.com/album/3jW8ocBVKcyWjJ4P8pBs3O) | 5:23 | 2023-10-10 | 2023-11-11 |
 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 | 2022-09-17 |  |
-| [Blackout](https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:48 | 2022-09-17 |  |
+| [Blackout](https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:48 | 2022-09-17 | 2025-08-03 |
+| [Blackout \- On Stage](https://open.spotify.com/track/1mvkk58Q3Kj2Di201UoVh6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout \(On Stage\)](https://open.spotify.com/album/6b22I2om7wbieFpkd0B3fx) | 4:28 | 2025-08-03 |  |
 | [Born to Touch Your Feelings \- Studio Edit](https://open.spotify.com/track/2zx0Fenu8cjtt3d8llIokv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 4:01 | 2022-09-17 |  |
 | [Can't Live Without You](https://open.spotify.com/track/0mOMvN8GNGAVW5e5934fUn) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:47 | 2023-12-30 |  |
 | [Children of the Revolution](https://open.spotify.com/track/4D3er4MMJDsRR2Oj6ESWM1) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:33 | 2022-09-17 | 2022-10-13 |

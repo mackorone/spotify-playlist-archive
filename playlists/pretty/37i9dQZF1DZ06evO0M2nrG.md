@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,364 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,367 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 23 | [Si Dios Fuera Poeta](https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:27 |
 | 24 | [Hola Mi Amor](https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:38 |
 | 25 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 |
-| 26 | [La Rutina](https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:12 |
+| 26 | [Quiéreme](https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:02 |
 | 27 | [El Egoísmo](https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:50 |
 | 28 | [Quédate Aquí](https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:03 |
 | 29 | [Contigo Hasta El Final](https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo Hasta El Final](https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn) | 2:48 |
-| 30 | [Quiéreme](https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:02 |
+| 30 | [La Rutina](https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:12 |
 | 31 | [La Mitad](https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Mitad](https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe) | 3:01 |
 | 32 | [Le Hace Falta Un Beso \(feat\. Mike Bahía\) \- Versión Reggaeton](https://open.spotify.com/track/2jec7cCgz0dWzLwJd9jWh2) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Le Hace Falta Un Beso \(feat\. Mike Bahía\) \[Versión Reggaeton\]](https://open.spotify.com/album/5jdcm1AstweMXm4HoTuVl8) | 3:24 |
 | 33 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 47 | [Si tú te vas \(feat\. Mike Bahía\)](https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si tú te vas \(feat\. Mike Bahía\)](https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA) | 3:02 |
 | 48 | [Déjame](https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Déjame](https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF) | 3:09 |
 | 49 | [Gracias](https://open.spotify.com/track/5nVQQ8OC27WSMVdOX35DfY) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [ATACA SERGIO! Presents: URBAN SALSA SESSIONS!](https://open.spotify.com/album/4uPusTcYeflF9cHUbqrnBw) | 2:50 |
-| 50 | [La Depre](https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Depre](https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4) | 2:03 |
+| 50 | [Algún Día](https://open.spotify.com/track/7Bogg3lO8fpYsAiHxuYX6g) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 3:16 |
 
-Snapshot ID: `aIqyAAAAAABlDsIEoLUr6hQ+kb+WZS/4`
+Snapshot ID: `aIwDgAAAAAAaCKpyD3ExivLDoVUzY7VA`

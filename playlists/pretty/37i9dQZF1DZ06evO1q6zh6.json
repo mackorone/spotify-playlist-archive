@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 179267,
+  "num_followers": 179296,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACpFIRXq3fvrHFUMkCIGtK+",
+  "snapshot_id": "aIwDgAAAAAAXETsM7AcZoQTdB6bbnLw/",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 237266,
-      "name": "All Guns Blazing",
-      "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
+      "duration_ms": 344400,
+      "name": "A Touch of Evil",
+      "url": "https://open.spotify.com/track/08hn5vq1XnVmVQI4mfzsXa"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 39920,
-      "name": "The Hellion",
-      "url": "https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "British Steel",
         "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 39920,
+      "name": "The Hellion",
+      "url": "https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 344400,
-      "name": "A Touch of Evil",
-      "url": "https://open.spotify.com/track/08hn5vq1XnVmVQI4mfzsXa"
+      "duration_ms": 237266,
+      "name": "All Guns Blazing",
+      "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 420686,
+  "num_followers": 420753,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAA1nnTQVlbyZxasadLUxoNd",
+  "snapshot_id": "aIwDgAAAAABelTdBEA4TFUq2YlfI8zsd",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 134760,
-      "name": "(Can't Get My) Head Around You",
-      "url": "https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 232160,
       "name": "Gotta Get Away",
       "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 134760,
+      "name": "(Can't Get My) Head Around You",
+      "url": "https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G"
     },
     {
       "added_at": null,
@@ -543,26 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Out For #1",
-        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "Bob Rock",
-          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
-        },
-        {
-          "name": "Adam Greenholtz",
-          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
         }
       ],
-      "duration_ms": 150553,
-      "name": "Looking Out For #1 - Ska Version",
-      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
+      "duration_ms": 228240,
+      "name": "Defy You",
+      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
     },
     {
       "added_at": null,
@@ -599,18 +591,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+        "name": "Looking Out For #1",
+        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
+        },
+        {
+          "name": "Adam Greenholtz",
+          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Defy You",
-      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+      "duration_ms": 150553,
+      "name": "Looking Out For #1 - Ska Version",
+      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
     },
     {
       "added_at": null,

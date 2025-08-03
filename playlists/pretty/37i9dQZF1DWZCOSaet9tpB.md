@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,722 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,974 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 50 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
 | 51 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 |
 
-Snapshot ID: `AAAAAMN1ZV7DIgIiktArg0hmO7NQelkA`
+Snapshot ID: `aIxfowAAAAAqljkPIop+CUTRZYw6Xv7O`

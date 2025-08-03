@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > freshly squeezed indie pop 🥤 cover: kilu
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,244 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,250 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 79 | [Shoulders](https://open.spotify.com/track/2IjG4DhRZ2eOkScfJn7hcm) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [Shoulders](https://open.spotify.com/album/5GshgWDxIaD1GhL23EPIxz) | 3:31 |
 | 80 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
 
-Snapshot ID: `AAAAAJx6gq7QC7ZYXx5kCKB+u3ei47wQ`
+Snapshot ID: `aIv1fgAAAAAUEnbj6bO0uCtwLWQ3eakZ`

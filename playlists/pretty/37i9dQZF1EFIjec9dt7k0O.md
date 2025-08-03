@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,923 likes - 208 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,924 likes - 208 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 155 | [Got To Give](https://open.spotify.com/track/0pbo6zLqhafAy4r1T4F4jD) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:37 |
 | 156 | [Frenzy](https://open.spotify.com/track/5JngFjxkVIvlGSsHgUME7B) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:00 |
 | 157 | [On My Way](https://open.spotify.com/track/5yYcUqdQoaYa3udHBsUMDA) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Haywood](https://open.spotify.com/artist/2qlW5MFeHssyUCbitfNmJx) | [On My Way](https://open.spotify.com/album/7s8wjo42XcZ3rLN78QuJEt) | 3:16 |
-| 158 | [Swing For The Fences](https://open.spotify.com/track/5K1IDBdLzxEb6LYXsRyR6e) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 3:22 |
-| 159 | [Mr Darkness \(feat\. Zakk Wylde\)](https://open.spotify.com/track/4xV2QwgyP4xOSjZgQ7heRN) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 |
+| 158 | [Mr Darkness \(feat\. Zakk Wylde\)](https://open.spotify.com/track/4xV2QwgyP4xOSjZgQ7heRN) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 |
+| 159 | [Swing For The Fences](https://open.spotify.com/track/5K1IDBdLzxEb6LYXsRyR6e) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 3:22 |
 | 160 | [About Last Night](https://open.spotify.com/track/6zCvA2MctP74yeHgvlDkFn) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:28 |
 | 161 | [Little Richard’s Bible](https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o) | 2:59 |
 | 162 | [The Dark](https://open.spotify.com/track/2XXqwxlUq8C3gLc1TyDtPt) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 3:56 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 207 | [Children of the Ocean](https://open.spotify.com/track/67GmvvxZlw3J7CvqNNcr2F) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:09 |
 | 208 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 
-Snapshot ID: `Ab4XagAAAABIXAWcD2wLtA+fj0gFKldL`
+Snapshot ID: `Ab4dKAAAAAAtNd6LMOL/gPnuovLo7dFS`

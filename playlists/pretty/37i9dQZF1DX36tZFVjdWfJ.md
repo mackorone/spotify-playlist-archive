@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36tZFVjdWfJ.md) - [plain]
 
 > Listen to the music from and inspired by Priscilla, curated by Sofia Coppola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,821 likes - 28 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,825 likes - 28 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36tZFVjdWfJ.md) - [plain]
 | 27 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
 | 28 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
 
-Snapshot ID: `ZU25DAAAAABlXWuM2UImjkEB7cWXJBo1`
+Snapshot ID: `ZU25DAAAAABroCanvUncr/vBXP8ezQGM`

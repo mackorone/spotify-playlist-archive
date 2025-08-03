@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,119 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,096 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 16 | [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 |
 | 17 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 |
 | 18 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
-| 19 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
-| 20 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
+| 19 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
+| 20 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
 | 21 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
 | 22 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
 | 23 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 39 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
 | 40 | [Labio Inferior](https://open.spotify.com/track/62jyvcXfpiZLHWMi0p8VJL) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:51 |
 | 41 | [Una Temporada en el Invierno](https://open.spotify.com/track/2BpSPF4MMl9dgr52nuRsH9) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 3:56 |
-| 42 | [17](https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [17](https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO) | 5:11 |
-| 43 | [Con Mi Amiga](https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:04 |
+| 42 | [Con Mi Amiga](https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:04 |
+| 43 | [17](https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [17](https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO) | 5:11 |
 | 44 | [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 |
 | 45 | [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 |
 | 46 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 |
 | 47 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
 | 48 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
-| 49 | [Fuga](https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Fuga](https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt) | 3:01 |
-| 50 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
+| 49 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
+| 50 | [Fuga](https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Fuga](https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt) | 3:01 |
 | 51 | [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 |
 | 52 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
 | 53 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 69 | [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 |
 | 70 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
 | 71 | [Hoy Dejé De Llorar](https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Hoy Dejé De Llorar](https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D) | 2:31 |
-| 72 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
-| 73 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:20 |
-| 74 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
+| 72 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
+| 73 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
+| 74 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:20 |
 | 75 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
 | 76 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 |
 | 77 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 |
 | 78 | [JE NE SAIS QUOI](https://open.spotify.com/track/4tUn9uj21MoT5FppBWvE74) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [JE NE SAIS QUOI](https://open.spotify.com/album/3iNCBXsKMQ4SBKXu3Exb0s) | 2:59 |
-| 79 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA SEGURA](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
-| 80 | [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 |
+| 79 | [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 |
+| 80 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA SEGURA](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
 
 Snapshot ID: `aHl8XgAAAAC27E5wByCBj0evJUKzpSj1`

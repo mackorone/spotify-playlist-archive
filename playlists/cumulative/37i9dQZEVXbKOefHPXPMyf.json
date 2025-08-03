@@ -5012,7 +5012,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -22130,7 +22130,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 189560,
       "name": "Esp\u00edritu Guanacasteco",
       "url": "https://open.spotify.com/track/3m2KbuNF6QTPrsssDujM0O"
@@ -24133,6 +24133,24 @@
     },
     {
       "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/4FyDWt4qFhDRJ4TdGwSoXy"
+      },
+      "artists": [
+        {
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226375,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/0xvdPvNBT4vgzptgpHudJU"
+    },
+    {
+      "album": {
         "name": "Flow Violento (Remix)",
         "url": "https://open.spotify.com/album/6iWto0Hn1ZEAbOjym7ZTEL"
       },
@@ -24482,7 +24500,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 190431,
       "name": "Frecuencia",
       "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
@@ -37810,7 +37828,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
@@ -47514,7 +47532,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 258026,
       "name": "P.O.V.",
       "url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
@@ -48596,6 +48614,28 @@
       "duration_ms": 182187,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
+    },
+    {
+      "album": {
+        "name": "PASAME LA UBI",
+        "url": "https://open.spotify.com/album/2HP0ujTPvlVCt2431cfJFF"
+      },
+      "artists": [
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        },
+        {
+          "name": "Aldair Productions",
+          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136045,
+      "name": "PASAME LA UBI",
+      "url": "https://open.spotify.com/track/7sZx7cNdeHy4d3Ye5xXzqj"
     },
     {
       "album": {
@@ -50833,6 +50873,24 @@
     },
     {
       "album": {
+        "name": "POR SUS BESOS",
+        "url": "https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186142,
+      "name": "POR SUS BESOS",
+      "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
+    },
+    {
+      "album": {
         "name": "TROPICALIA",
         "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
       },
@@ -51848,7 +51906,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 148915,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
@@ -71402,7 +71460,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 205000,
       "name": "Woy",
       "url": "https://open.spotify.com/track/3UB1zEUQBh9Ff1emup6gvW"

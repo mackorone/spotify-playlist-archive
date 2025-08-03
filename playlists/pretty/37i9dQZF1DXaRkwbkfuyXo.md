@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. El Komander en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,490 likes - 95 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,780 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 94 | [Empleado De La Mafia](https://open.spotify.com/track/4AH10RDYaGSYckWXbN5BSl) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:56 |
 | 95 | [El Compa 1](https://open.spotify.com/track/5JaLUDg9vhCmlMtvK5KAdg) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Poder y Respeto](https://open.spotify.com/album/2DaRZDIgbjHe746Gx3pYRQ) | 3:01 |
 
-Snapshot ID: `aGcmaQAAAACFleEnURq8tnJRr3cgy9ge`
+Snapshot ID: `AAAAAOYZ0nXIZsemALx+LFCD7/rof+HF`

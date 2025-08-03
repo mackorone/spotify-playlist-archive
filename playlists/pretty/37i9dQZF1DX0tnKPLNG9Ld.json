@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 117360,
+  "num_followers": 117453,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 238120,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Gemini Changes",
-        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Gemini Changes",
+        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Motions & Emotions",
-        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 174641,
-      "name": "Wandering - Remastered",
-      "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 132160,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Motions & Emotions",
+        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "Wandering - Remastered",
+      "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "May I Come In?",
-        "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 124266,
-      "name": "Something Happens To Me",
-      "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
+      "duration_ms": 143800,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+        "name": "May I Come In?",
+        "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 143800,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+      "duration_ms": 124266,
+      "name": "Something Happens To Me",
+      "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Lou's Blues",
-      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Chet Baker In Milan",
         "url": "https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 284426,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Lou's Blues",
+      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra",
-        "url": "https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 142573,
-      "name": "Woman's Got Soul",
-      "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 139906,
       "name": "This Time The Dream's On Me - Remastered",
       "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra",
+        "url": "https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 142573,
+      "name": "Woman's Got Soul",
+      "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
     },
     {
       "added_at": "2024-06-13 12:36:56",

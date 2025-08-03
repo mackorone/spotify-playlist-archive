@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,118 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,139 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 26 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
 | 27 | [Suhe Ve Cheere Waliya](https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Suhe Ve Cheere Waliya](https://open.spotify.com/album/3P5YAxuCPE1WRZ8oXiM0Ln) | 3:13 |
 | 28 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
-| 29 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 |
-| 30 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
-| 31 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
+| 29 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
+| 30 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 |
+| 31 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
 | 32 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 |
 | 33 | [Munda Sakhiyo Ni](https://open.spotify.com/track/09Gy3xqh13lw2UoiGQTI9s) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Munda Sakhiyo Ni](https://open.spotify.com/album/4NbRfMn3VX7Xj4nZq9RPgU) | 3:17 |
 | 34 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |

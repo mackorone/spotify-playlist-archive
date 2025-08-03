@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Allie Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,936 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,974 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [Together Alone](https://open.spotify.com/track/6BZfQ4qQpjXjruDwkJiyP9) | [Shelltown Paradise](https://open.spotify.com/artist/4jNKRbeZhuY5xoZ2jURbhX) | [Together Alone](https://open.spotify.com/album/158EccgNmsZ7shtcV7Ms20) | 3:08 |
 | 75 | [bound to break \- Maggie Youngs Version](https://open.spotify.com/track/5DHIjoGwFdJcMPwzMudmKI) | [Jordan Blaine](https://open.spotify.com/artist/553lq8J2X0RKxYbQkO512x), [Maggie Youngs](https://open.spotify.com/artist/1od0eEAnxBM6dStqE5lUv0), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [bound to break \(Maggie Youngs Version\)](https://open.spotify.com/album/3hlvAg2I9xUmSEF4ia9EW7) | 3:02 |
 
-Snapshot ID: `AAAAABlE7x3YgTPwpKQbPfL4trGiJpEI`
+Snapshot ID: `aHod5wAAAADoIZy/tqPObVLG5LF4mD9x`

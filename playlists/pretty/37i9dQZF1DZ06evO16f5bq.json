@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155108,
+  "num_followers": 155116,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADF//QVz/3yJ188Bt1ycBJJ",
+  "snapshot_id": "aIwDgAAAAABdV4Wk3q6XszPfEft+JJ5O",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paz Terr\u00edvel",
+        "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "De Marola",
+      "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "18K",
         "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 284117,
       "name": "Meu Mundo",
       "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paz Terr\u00edvel",
-        "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
-      },
-      "artists": [
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "De Marola",
-      "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
     },
     {
       "added_at": null,
@@ -1055,26 +1055,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+        "name": "Dono das Esquinas",
+        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
       "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 317340,
-      "name": "BEM MELHOR",
-      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+      "duration_ms": 240000,
+      "name": "Carro Forte",
+      "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
     },
     {
       "added_at": null,
@@ -1107,30 +1111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dono das Esquinas",
-        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
       },
       "artists": [
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
           "name": "Dallass",
           "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Carro Forte",
-      "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
+      "duration_ms": 198231,
+      "name": "VOC\u00ca&EU",
+      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
     },
     {
       "added_at": null,
@@ -1151,26 +1147,6 @@
       "duration_ms": 211544,
       "name": "ngm \u00e9 perfeito",
       "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 198231,
-      "name": "VOC\u00ca&EU",
-      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
     },
     {
       "added_at": null,
@@ -1211,6 +1187,30 @@
       "duration_ms": 170000,
       "name": "GOTHAM",
       "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 317340,
+      "name": "BEM MELHOR",
+      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
     },
     {
       "added_at": null,

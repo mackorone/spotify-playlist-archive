@@ -1,13 +1,29 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 249565,
+  "num_followers": 249637,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACDRjTxu+fznL4z/1UC/9qD",
+  "snapshot_id": "aIwDgAAAAABzYoarWAn1og3jGlRlaM6x",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "perfectas",
+      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
+    },
     {
       "added_at": null,
       "album": {
@@ -303,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Miranda!",
+        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 215248,
+      "name": "Uno los Dos",
+      "url": "https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -323,26 +359,6 @@
       "duration_ms": 165054,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Miranda!",
-        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 215248,
-      "name": "Uno los Dos",
-      "url": "https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H"
     },
     {
       "added_at": null,
@@ -867,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "servidora \ud83d\udd76\ufe0f",
+        "url": "https://open.spotify.com/album/01wueU0QUElPyE1GmymglY"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "servidora \ud83d\udd76\ufe0f",
+      "url": "https://open.spotify.com/track/6x6CoOGyNqDcPx96paNGSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moana 2 (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM"
       },
@@ -907,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "servidora \ud83d\udd76\ufe0f",
-        "url": "https://open.spotify.com/album/01wueU0QUElPyE1GmymglY"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "servidora \ud83d\udd76\ufe0f",
-      "url": "https://open.spotify.com/track/6x6CoOGyNqDcPx96paNGSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
       },
@@ -947,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "beautiful \ud83d\udc84",
+        "url": "https://open.spotify.com/album/6pcInSOVlCAT2s5RWM8Sj2"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 143794,
+      "name": "beautiful \ud83d\udc84",
+      "url": "https://open.spotify.com/track/0nKaPY20BUkAirtEAgyNIN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NAGASAKI",
         "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
       },
@@ -963,22 +995,6 @@
       "duration_ms": 206098,
       "name": "NAGASAKI",
       "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "beautiful \ud83d\udc84",
-        "url": "https://open.spotify.com/album/6pcInSOVlCAT2s5RWM8Sj2"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 143794,
-      "name": "beautiful \ud83d\udc84",
-      "url": "https://open.spotify.com/track/0nKaPY20BUkAirtEAgyNIN"
     }
   ],
   "unique_name": "This Is Emilia",

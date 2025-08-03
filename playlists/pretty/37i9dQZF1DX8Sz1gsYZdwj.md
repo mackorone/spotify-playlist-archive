@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,752 likes - 103 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,785 likes - 103 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

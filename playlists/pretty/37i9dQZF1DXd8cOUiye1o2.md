@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Feel the love, feel the music & groove to the beats of Aavan Jaavan from WAR 2\. Listen now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,023 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,305 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 74 | [Jab Tu Sajan \(From "Aap Jaisa Koi"\)](https://open.spotify.com/track/0v716URUxpcG1AhIZmulz7) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Jab Tu Sajan \(From "Aap Jaisa Koi"\)](https://open.spotify.com/album/5gyC0Z4BwSxuVoFJGS2YqU) | 4:11 |
 | 75 | [Mausam](https://open.spotify.com/track/7qSqVmEQQ61iLQXmqd8mTP) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Qaisar\-Ul\-Jafri](https://open.spotify.com/artist/5SMMGwEnXqIWXvhfBfV6BD), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Metro ..\. In Dino \(Side A\)](https://open.spotify.com/album/6lzbOHCYz5zP6P66LtdWcM) | 4:14 |
 
-Snapshot ID: `AAAAABSTVcmM3ezVAuLGXqABVit1Pe0O`
+Snapshot ID: `aIxl/wAAAAB+GKNt9f7GkWA1K+2gAPBQ`

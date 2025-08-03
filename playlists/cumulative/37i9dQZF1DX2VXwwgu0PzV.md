@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Gaise Baba
 
-1,190 songs - 2 day 16 hr 22 min
+1,191 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -888,7 +888,7 @@
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-08-11 |  |
 | [Praise \- Afrobeat Remix](https://open.spotify.com/track/5S0eyHsGZID1X2rgfkWpVK) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Praise \(Afrobeat Remix\)](https://open.spotify.com/album/5eRNBhZeflHdRq4HmtmX1Y) | 1:31 | 2024-02-16 | 2024-04-12 |
 | [Praise God](https://open.spotify.com/track/5oLoJ32iCzN9iVVTtvtsyl) | [Liyia](https://open.spotify.com/artist/2PNfnkkF3KCEGfJQ2JbyEa), [DJ Samtop](https://open.spotify.com/artist/1QO8Ftp8j6Tlo9PJiB73Mi), [Richard Lovings](https://open.spotify.com/artist/1sTC6qMc09R7PzvpNNKtPs) | [Praise God](https://open.spotify.com/album/2zqpIU3EAnIDKQB0TykEZo) | 3:14 | 2025-07-04 |  |
-| [Praise Jesus](https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Praise Jesus](https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37) | 3:11 | 2025-07-04 |  |
+| [Praise Jesus](https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Praise Jesus](https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37) | 3:11 | 2025-07-04 | 2025-08-03 |
 | [Praise the Lord](https://open.spotify.com/track/1Pk9UFsZgHa2WLaLmnBPKM) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Praise the Lord](https://open.spotify.com/album/3XrPQfM05Oz6M1D9fOfJ8o) | 2:12 | 2023-12-05 | 2023-12-11 |
 | [Praise The Lord](https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN) | [Praise The Lord](https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt) | 2:56 | 2024-11-22 | 2025-06-20 |
 | [Praise You](https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Praise You](https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV) | 1:59 | 2024-06-14 | 2024-08-02 |
@@ -1076,6 +1076,7 @@
 | [Trust In You: TIY](https://open.spotify.com/track/4OW2XVZYgV63tLYGwQv3YE) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Daraaa](https://open.spotify.com/artist/4gXPHQnawRp8WMBeTWtWys), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Trust In You: TIY](https://open.spotify.com/album/5NmJ9x1iDEIAd2rgLf62Qq) | 3:01 | 2025-06-06 |  |
 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 | 2024-01-19 | 2024-02-23 |
 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 | 2023-08-25 | 2023-10-20 |
+| [Tuale](https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 5:05 | 2025-08-02 |  |
 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 | 2023-09-08 | 2023-12-01 |
 | [Turn By Turn](https://open.spotify.com/track/0p0mocw5wy6yAtAyPsDURx) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Turn By Turn](https://open.spotify.com/album/5Zg4Dv2qudMVSH0N7nxEuI) | 2:34 | 2023-03-17 | 2023-03-25 |
 | [Two](https://open.spotify.com/track/6VoKd5RwrDOM39EtbsP79I) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [TWO](https://open.spotify.com/album/1RhaR2Ta2fmJvnxRcmF2qf) | 2:48 | 2023-02-10 | 2023-06-23 |

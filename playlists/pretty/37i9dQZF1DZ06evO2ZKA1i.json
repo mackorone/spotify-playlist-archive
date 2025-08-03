@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 298123,
+  "num_followers": 298168,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABzCAFJI2tLGx/WE2G+2yEy",
+  "snapshot_id": "aIwDgAAAAACRoSd8i0CnREyj2FlB6wJ6",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 218693,
       "name": "Throw My Bones",
       "url": "https://open.spotify.com/track/4W1SllpK1wf1I2YeW3tG0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Child In Time (Superhuman Stranger Things Version)",
+        "url": "https://open.spotify.com/album/6ZwsgTLmCaxB7DwfgVAlEB"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 207740,
+      "name": "Child In Time - Superhuman Stranger Things Version",
+      "url": "https://open.spotify.com/track/0H4GqAsdLZWRR4uytEBrNl"
     },
     {
       "added_at": null,
@@ -171,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 613440,
-      "name": "Child in Time - 1995 Remaster",
-      "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "Wasted Sunsets",
-      "url": "https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Do We Think We Are (Remastered)",
         "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 351693,
       "name": "Woman From Tokyo - Remastered 2000",
       "url": "https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "Wasted Sunsets",
+      "url": "https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "King of Dreams",
-      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 238354,
       "name": "Never Before - Remastered 2012",
       "url": "https://open.spotify.com/track/7Hak5ai4Zs9BR4OMrPZbgH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326013,
+      "name": "King of Dreams",
+      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "You Keep On Moving - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 352760,
       "name": "Speed King - 1995 Remaster",
       "url": "https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 324733,
+      "name": "You Keep On Moving - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "inFinite",
-        "url": "https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 282426,
-      "name": "All I Got Is You",
-      "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Do We Think We Are (Remastered)",
         "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 326906,
       "name": "Rat Bat Blue - Remastered",
       "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "inFinite",
+        "url": "https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 282426,
+      "name": "All I Got Is You",
+      "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Things I Never Said",
+        "url": "https://open.spotify.com/album/2NQGMl5fRl0EBcRBOK10XI"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 287479,
+      "name": "Things I Never Said - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Book of Taliesyn",
         "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "You Fool No One - Remastered 2004",
-      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 209200,
       "name": "Into the Fire - 1995 Remaster",
       "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "You Fool No One - Remastered 2004",
+      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 282866,
       "name": "Nothing at All",
       "url": "https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "You Can't Do It Right - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz"
     }
   ],
   "unique_name": "This Is Deep Purple",

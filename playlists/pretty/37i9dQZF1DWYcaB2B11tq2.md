@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,339 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,482 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 60 | [Creyendo En Ti](https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne) | [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Coleccion De Oro](https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2) | 4:01 |
 | 61 | [Vives en Mí](https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS) | [Dorcas Cancel](https://open.spotify.com/artist/0N4rdCv0xy3ontQXyF3iRX), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vives en Mí](https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4) | 4:08 |
 | 62 | [Que Baje la Nube](https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Mujer Frente a la Cruz](https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d) | 6:07 |
-| 63 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
-| 64 | [Volver a Ti](https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa) | [Anagrace](https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w) | [Volver a Ti](https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz) | 4:10 |
-| 65 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
+| 63 | [Volver a Ti](https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa) | [Anagrace](https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w) | [Volver a Ti](https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz) | 4:10 |
+| 64 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
+| 65 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
 | 66 | [Quien Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9) | [4 Trinity](https://open.spotify.com/artist/31nSv3P3QAEUk8dtkOJRWT), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [4t](https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB) | 4:15 |
 | 67 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
 | 68 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 72 | [Le Pertenezco](https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Mauricio Alen](https://open.spotify.com/artist/2xobqRIT4uGkrZVPJjRQeY) | [Le Pertenezco](https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy) | 3:46 |
 | 73 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
 | 74 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
-| 75 | [Glorioso Día](https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd) | [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Glorioso Día](https://open.spotify.com/album/79lisODI2SlbY69xklS6kE) | 7:10 |
-| 76 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
+| 75 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
+| 76 | [Glorioso Día](https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd) | [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Glorioso Día](https://open.spotify.com/album/79lisODI2SlbY69xklS6kE) | 7:10 |
 | 77 | [Eres Mi Padre](https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh) | [David Letelier](https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R) | [Eres Mi Padre \- Single](https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF) | 9:04 |
 | 78 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
 | 79 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |

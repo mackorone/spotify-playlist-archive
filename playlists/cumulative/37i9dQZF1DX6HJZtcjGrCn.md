@@ -4,7 +4,7 @@
 
 > ☀️O teu verão alternativo chegou☀️\. Foto: Chappell Roan
 
-315 songs - 18 hr 37 min
+316 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Desvio na Mealhada](https://open.spotify.com/track/5EEY17TWCAJs6T17MY7Dzy) | [Nunca Mates o Mandarim](https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ) | [Desvio na Mealhada](https://open.spotify.com/album/4CkHng5yaBMci51omchUC9) | 5:22 | 2025-06-05 | 2025-07-26 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-20 | 2025-01-12 |
 | [DIVAGAR](https://open.spotify.com/track/624r0HNNdqxnakN9DJv6lz) | [Nuno Cabral](https://open.spotify.com/artist/0fINFcQpW4fdYSTBY0e0gq) | [DIVAGAR](https://open.spotify.com/album/5PeLMfcF5ZeQHZJ1rI1X80) | 2:50 | 2025-07-10 | 2025-08-01 |
-| [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 | 2025-04-24 | 2025-08-01 |
+| [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 | 2025-04-24 |  |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-06-20 | 2024-07-05 |
 | [Dois Dias](https://open.spotify.com/track/63kNuUJlACeCpa05bYt8c4) | [Virgem Suta](https://open.spotify.com/artist/75kEM6sw8FhizUFcg8rKZs) | [Dois Dias](https://open.spotify.com/album/0ctKS2AY7qkiN7ohiyoTri) | 3:34 | 2024-06-20 | 2024-07-27 |
 | [Dominó](https://open.spotify.com/track/5s8m0vw5bgRaYVUzihQhWg) | [Nunca Mates o Mandarim](https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ) | [Dominó](https://open.spotify.com/album/6Ce4x7Ud7dnXOF3ko9AETt) | 4:11 | 2025-03-21 | 2025-04-18 |
@@ -117,6 +117,7 @@
 | [FOREVER & EVER](https://open.spotify.com/track/29SEKAHwzIHkvrc7HfiVQ2) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/0Gg1dfjbFbWqH11NsBB5TW) | 3:26 | 2025-01-17 | 2025-03-21 |
 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-04 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2024-06-20 | 2025-02-21 |
+| [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 | 2025-08-01 |  |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-06-20 |  |
 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 | 2024-10-24 | 2025-05-23 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-09-20 |  |
@@ -129,7 +130,7 @@
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 |  |
 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-07-25 |  |
 | [Home Is Where the Hurt Is](https://open.spotify.com/track/0ytRXziKO9jo0FuMfXbgfp) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Satellites](https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5) | 2:40 | 2024-08-22 | 2024-09-28 |
-| [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-06-20 |  |
+| [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-06-20 | 2025-08-03 |
 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-01-10 | 2025-01-31 |
 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-03 | 2025-01-17 |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2024-06-20 |  |
@@ -266,7 +267,7 @@
 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 |  |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-06-20 |  |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 | 2025-05-23 |
-| [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-20 |  |
+| [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-20 | 2025-08-03 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-20 | 2024-10-13 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-31 | 2025-02-28 |
 | [Sylvia](https://open.spotify.com/track/0dLFlKIw6up52Aftqd88Mx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sylvia](https://open.spotify.com/album/1PqBRShBcNCi2gKM7CHfd5) | 2:20 | 2025-02-07 | 2025-02-28 |

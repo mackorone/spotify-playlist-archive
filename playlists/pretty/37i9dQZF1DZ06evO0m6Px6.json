@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACU427U4CN/FQgNik2B/Lw/",
+  "snapshot_id": "aIwDgAAAAABMpyHQ36HvxtdKCoAZDHSm",
   "tracks": [
     {
       "added_at": null,
@@ -446,11 +446,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 142500,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
     },
     {
       "added_at": null,
@@ -514,15 +518,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,

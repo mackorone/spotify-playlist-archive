@@ -196,10 +196,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 228266,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu"
+    },
+    {
+      "album": {
+        "name": "Blackout (On Stage)",
+        "url": "https://open.spotify.com/album/6b22I2om7wbieFpkd0B3fx"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268480,
+      "name": "Blackout - On Stage",
+      "url": "https://open.spotify.com/track/1mvkk58Q3Kj2Di201UoVh6"
     },
     {
       "album": {

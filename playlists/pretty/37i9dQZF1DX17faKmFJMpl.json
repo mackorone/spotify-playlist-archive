@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 4735,
+  "num_followers": 4738,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -747,18 +747,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+        "name": "Fanatic",
+        "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
       },
       "artists": [
         {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+          "name": "Fana",
+          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
+        },
+        {
+          "name": "Kebee & The Quiett",
+          "url": "https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim"
         }
       ],
-      "duration_ms": 223640,
-      "name": "You Don\u2019t Know",
-      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+      "duration_ms": 258506,
+      "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
+      "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Fanatic",
-        "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
       "artists": [
         {
-          "name": "Fana",
-          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
-        },
-        {
-          "name": "Kebee & The Quiett",
-          "url": "https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim"
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 258506,
-      "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
-      "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
+      "duration_ms": 223640,
+      "name": "You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
+      },
+      "artists": [
+        {
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+        }
+      ],
+      "duration_ms": 253988,
+      "name": "\uc5c9\ud130\ub9ac \ud559\uc0dd",
+      "url": "https://open.spotify.com/track/44S4m3SbKCTQmS23BsNhNr"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 297586,
       "name": "B.L.K. (feat. New Champ, Wutan, Carry Diamond, CeeJay, Swings, Okasian, Rocky L & Vasco) [Bonus Track]",
       "url": "https://open.spotify.com/track/5Aa65H6ueFTucHVZcSV4Bf"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
-      },
-      "artists": [
-        {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
-        }
-      ],
-      "duration_ms": 253988,
-      "name": "\uc5c9\ud130\ub9ac \ud559\uc0dd",
-      "url": "https://open.spotify.com/track/44S4m3SbKCTQmS23BsNhNr"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Heavy Deep",
-        "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
-      },
-      "artists": [
-        {
-          "name": "DEEPFLOW",
-          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
-        },
-        {
-          "name": "Juvie Train",
-          "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
-        },
-        {
-          "name": "KOONTA",
-          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
-        }
-      ],
-      "duration_ms": 263575,
-      "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
-      "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 166974,
       "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
       "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Heavy Deep",
+        "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
+      },
+      "artists": [
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "Geegooin",
+          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
+        },
+        {
+          "name": "New Champ",
+          "url": "https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x"
+        }
+      ],
+      "duration_ms": 231993,
+      "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
+      "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Heavy Deep",
-        "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
-      },
-      "artists": [
-        {
-          "name": "DEEPFLOW",
-          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
-        },
-        {
-          "name": "Geegooin",
-          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
-        },
-        {
-          "name": "New Champ",
-          "url": "https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x"
-        }
-      ],
-      "duration_ms": 231993,
-      "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
-      "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "MP Hip Hop 2001 \ub300\ubc15",
         "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 249946,
       "name": "Beatz 4 Da Streetz",
       "url": "https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Heavy Deep",
+        "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
+      },
+      "artists": [
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "Juvie Train",
+          "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
+        },
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "duration_ms": 263575,
+      "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
+      "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
     },
     {
       "added_at": "2024-11-20 08:34:55",

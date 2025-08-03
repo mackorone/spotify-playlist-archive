@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Kofee Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,457 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,488 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 69 | [Let Me Go](https://open.spotify.com/track/5erVR1Kb81BQH02BowvXH4) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm) | [Let Me Go](https://open.spotify.com/album/2VwqhYq2mHTDtHPwYYNxab) | 1:53 |
 | 70 | [Selfish](https://open.spotify.com/track/47c3T4umi0phpbU6lrR9iY) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Selfish](https://open.spotify.com/album/0NB2SFsGwFANKEOjGt56tc) | 2:42 |
 
-Snapshot ID: `aIwD4QAAAAC8GaUVu356slqxBhfebqjA`
+Snapshot ID: `AAAAACnSVXNso9BF7b3REyvr/rnJADjy`

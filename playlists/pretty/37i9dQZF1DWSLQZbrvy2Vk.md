@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 
 > All vengeance, no brakes\. Listen to music from the series Duster, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,725 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,767 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 | 89 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
 | 90 | [Long Cool Woman \(In a Black Dress\) \- 1999 Remaster](https://open.spotify.com/track/1J5XEPamp7iQaCU0aFuMnd) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Distant Light \(Expanded Edition\)](https://open.spotify.com/album/0zoquAfzZquEJIos24KUJr) | 3:19 |
 
-Snapshot ID: `AAAAAB7ekQV+vXME2dcYmXHamkDfLx/p`
+Snapshot ID: `aGcntgAAAACCFxZPNU0l0CbFwYQndMmg`

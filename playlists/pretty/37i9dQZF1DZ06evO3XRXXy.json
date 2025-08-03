@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 147278,
+  "num_followers": 147299,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACmKcotoq+WYxSigX3KpoBg",
+  "snapshot_id": "aIwDgAAAAABqzkRaNNKqloEfN2ufjOv1",
   "tracks": [
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
-        "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 177094,
-      "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
-      "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 213877,
       "name": "Use This Gospel",
       "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
+        "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 177094,
+      "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
+      "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"
     },
     {
       "added_at": null,

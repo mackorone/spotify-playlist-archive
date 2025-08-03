@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054 likes - 187 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056 likes - 187 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 113 | [Cruel](https://open.spotify.com/track/7MaRmvRgXtScvGuMj7e7dE) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Cruel](https://open.spotify.com/album/04M4kFfCnyUYOsazsEylcX) | 3:11 |
 | 114 | [Temporary](https://open.spotify.com/track/77c7q9unffhRZdpZluP6xW) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Temporary](https://open.spotify.com/album/5FlZ1McXTK4DxVSGXWSdKS) | 3:01 |
 | 115 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 |
-| 116 | [Making Me Dance](https://open.spotify.com/track/4CXzB7sfask9ekNzdXX83q) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Making Me Dance](https://open.spotify.com/album/6aN6Gf2xG7PLTACXGsu4kU) | 3:28 |
-| 117 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
+| 116 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
+| 117 | [Making Me Dance](https://open.spotify.com/track/4CXzB7sfask9ekNzdXX83q) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Making Me Dance](https://open.spotify.com/album/6aN6Gf2xG7PLTACXGsu4kU) | 3:28 |
 | 118 | [Happy](https://open.spotify.com/track/6jbvtCxnmDhqIMb36AE94R) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
 | 119 | [I'll Remember You](https://open.spotify.com/track/3PuyCRR2JN1Nbk1yjl0xYE) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 |
 | 120 | [The Other Side](https://open.spotify.com/track/1fWTLLBR90ZdAgklPTTPRr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:45 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 138 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
 | 139 | [Hard 2 Forget](https://open.spotify.com/track/3ryUZShGkAcKw10fxyBaNt) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:25 |
 | 140 | [Beat Of My Drum](https://open.spotify.com/track/3gGoF9iiOSW24FvRmkuoWd) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 3:16 |
-| 141 | [Feel Something](https://open.spotify.com/track/4asjjfwB4ioZm1JHWARyPa) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Feel Something](https://open.spotify.com/album/5Snr4L26gHmVIIYcg7oSMM) | 2:59 |
-| 142 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
+| 141 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
+| 142 | [Feel Something](https://open.spotify.com/track/4asjjfwB4ioZm1JHWARyPa) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Feel Something](https://open.spotify.com/album/5Snr4L26gHmVIIYcg7oSMM) | 2:59 |
 | 143 | [Thankful](https://open.spotify.com/track/5eVNpfTi4H5h12p3LGFyWD) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Thankful \(Unwrapped\)](https://open.spotify.com/album/7vZ0uemkoDmG7tGC5qQ6uQ) | 3:35 |
 | 144 | [I See You](https://open.spotify.com/track/3CtXyZcmgrff9szb6o9cRZ) | [Kalin and Myles](https://open.spotify.com/artist/2BL5VxhQadpc4v2VlZyKY5) | [Kalin And Myles](https://open.spotify.com/album/643h7mtzQNXbMEH3CptYEb) | 3:06 |
 | 145 | [Where We Left](https://open.spotify.com/track/3z9yT94FvmgWOgXZHuE0b6) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Where We Left](https://open.spotify.com/album/5a5ywLo0LuBmnOO1hb28P7) | 3:40 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 186 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 187 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 
-Snapshot ID: `Ab4XagAAAAB4mOCb74Kkx+HLFdyThLAO`
+Snapshot ID: `Ab4dKAAAAAA/cKQSlJcY6a+QbtResGnq`

@@ -129,6 +129,36 @@
     },
     {
       "album": {
+        "name": "Agi Igual Homem",
+        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164204,
+      "name": "Agi Igual Homem",
+      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
+    },
+    {
+      "album": {
         "name": "Amor Intenso",
         "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
       },
@@ -454,7 +484,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 176562,
       "name": "Coisa Fina",
       "url": "https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s"

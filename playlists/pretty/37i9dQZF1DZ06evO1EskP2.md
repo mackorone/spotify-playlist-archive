@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,948 likes - 48 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,947 likes - 48 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 7 | [Mixed Feelings](https://open.spotify.com/track/2zJTDNNnwctkSYROKPXUyP) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:23 |
 | 8 | [Perfect Day](https://open.spotify.com/track/1cUzoEuPjVFowBl96Yttjy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P) | [Butterflies: Live](https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo) | 4:33 |
 | 9 | [Come over Love](https://open.spotify.com/track/5jA4WyzabsahYARRUAX8Gy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 4:05 |
-| 10 | [Sweet Thing](https://open.spotify.com/track/5PvuGqN2szvSEzGMHdibG4) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG) | 3:31 |
-| 11 | [Heart Revival](https://open.spotify.com/track/1m2JpJxlT4eoTeTmWliUDC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:19 |
+| 10 | [Heart Revival](https://open.spotify.com/track/1m2JpJxlT4eoTeTmWliUDC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:19 |
+| 11 | [Sweet Thing](https://open.spotify.com/track/5PvuGqN2szvSEzGMHdibG4) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG) | 3:31 |
 | 12 | [Enough \(with Anuhea\)](https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Holding on Tight](https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J) | 3:28 |
 | 13 | [Looking for Love](https://open.spotify.com/track/2liD4Ly60aQvb8dVaCJjOa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:21 |
 | 14 | [Forever Summer](https://open.spotify.com/track/6CncbrtpabSOB378tazFvL) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo) | 4:27 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 36 | [Maui Rain](https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Maui Rain](https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30) | 3:37 |
 | 37 | [Hard Place](https://open.spotify.com/track/3oBPGOYerZaJOMmO3Holws) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:27 |
 | 38 | [I Won't Settle](https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:54 |
-| 39 | [Underrated](https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR) | [Tripp Wilson](https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Moku Soul](https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4) | 3:10 |
-| 40 | [Mr\. Mellow](https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6) | [King Kekai](https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Mana Maoli, Volume V \- Hui Na Moku](https://open.spotify.com/album/1acebQxhPagBiWionPJtrm) | 3:28 |
+| 39 | [Mr\. Mellow](https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6) | [King Kekai](https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Mana Maoli, Volume V \- Hui Na Moku](https://open.spotify.com/album/1acebQxhPagBiWionPJtrm) | 3:28 |
+| 40 | [Underrated](https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR) | [Tripp Wilson](https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Moku Soul](https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4) | 3:10 |
 | 41 | [Spam Musubi Song](https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Spam Musubi Song](https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk) | 2:20 |
 | 42 | [True Colors/Kou ‘Ano Kü I’o \- Live](https://open.spotify.com/track/5mGsLdpxK4AEIrIltjN5EV) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [A10: Best of Anuhea](https://open.spotify.com/album/1YDTiycP1SilLdmMYc2nJv) | 3:35 |
 | 43 | [Endlessly](https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:14 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 47 | [Right Love, Wrong Time](https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:44 |
 | 48 | [Rumors](https://open.spotify.com/track/69xu7QEf8ZNTDZl6BL961r) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:09 |
 
-Snapshot ID: `aIqyAAAAAAAc+0awGdEUzXfYjBRWI0gi`
+Snapshot ID: `aIwDgAAAAAAwaeFozgabPskpiYkrMR6+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,551 likes - 120 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,486 likes - 120 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 54 | [Mimosa](https://open.spotify.com/track/2oW7OUvAO37WFMAgbcK8in) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Mimosa](https://open.spotify.com/album/4vGqznDBnofJ4df0QUM0Tb) | 2:22 |
 | 55 | [Celestial](https://open.spotify.com/track/0MYcISmg7wKW9LhW3iVN4Y) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf) | [Celestial](https://open.spotify.com/album/0rnNBvMlFPIzxfRkIWZH5w) | 3:01 |
 | 56 | [The Subtle Ninth](https://open.spotify.com/track/3OfivZEQyYjopYl1GUti6k) | [Nordic Summit](https://open.spotify.com/artist/3u6k3YSsANfB8I4upTGZhI) | [The Subtle Ninth](https://open.spotify.com/album/4gNAvXL7w9YeZktVWCJ5oP) | 2:30 |
-| 57 | [Focus Six](https://open.spotify.com/track/41NUt7zfx0tOAj3QcLZBGX) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Six](https://open.spotify.com/album/2aGVOo42ckBShiGz3gQ5YX) | 2:44 |
-| 58 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 |
+| 57 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 |
+| 58 | [Focus Six](https://open.spotify.com/track/41NUt7zfx0tOAj3QcLZBGX) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Six](https://open.spotify.com/album/2aGVOo42ckBShiGz3gQ5YX) | 2:44 |
 | 59 | [Silent River](https://open.spotify.com/track/2Bh0liES3CmP6pCH7xENfL) | [bluescape](https://open.spotify.com/artist/1yu77LzkFIhpDDnHQ330aN) | [Silent River](https://open.spotify.com/album/3P5cnuuW72iMBngg84vufZ) | 2:05 |
 | 60 | [can't sleep](https://open.spotify.com/track/51h8OOwcmfbgkfU8SjcaV7) | [Nova Dust](https://open.spotify.com/artist/5UyiEIfJDSqqBP0lRVQUVI) | [can't sleep](https://open.spotify.com/album/5EQnwpuO2ayCxiNGefURQ1) | 2:12 |
 | 61 | [Zenith](https://open.spotify.com/track/1S8d3I6D4hqGCq4DJ5Ddhk) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Zenith](https://open.spotify.com/album/2sWQYLr4ZtuoYBEzxWq5i6) | 2:46 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 66 | [the long way home](https://open.spotify.com/track/1gRgYigye8TN8lvTZqsy6T) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [the long way home](https://open.spotify.com/album/3mK1UAfpzst5GhoHCF5Z6e) | 2:00 |
 | 67 | [Drifting](https://open.spotify.com/track/4MlqWksk8j8qQJLuOar00p) | [Altered Echoes](https://open.spotify.com/artist/3wUAuh9pHdfvZuw5y7VE1f) | [Drifting](https://open.spotify.com/album/0lKdWwszYHyXO4a2FlMx72) | 2:11 |
 | 68 | [Aurora Crest](https://open.spotify.com/track/1VOQPL4KzM4lSA8B3a6Poy) | [Lost storys](https://open.spotify.com/artist/5z30j24d40G43dHG9LDa3e) | [Aurora Crest](https://open.spotify.com/album/5wFQjHfxLhZBxtJhky5sBX) | 2:38 |
-| 69 | [Fireflies](https://open.spotify.com/track/3atAfR4aXUyhTaO387Uemj) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Fireflies](https://open.spotify.com/album/4BgQbbSfFkKQhcwtZnrx47) | 3:22 |
+| 69 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 |
 | 70 | [Sepia Dreams](https://open.spotify.com/track/7AmKStZhRS1vo7aT3vURqO) | [Nebula Drift](https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh) | [Sepia Dreams](https://open.spotify.com/album/3sykd6tVUWJwCNEhPKCshJ) | 2:42 |
-| 71 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 |
+| 71 | [Fireflies](https://open.spotify.com/track/3atAfR4aXUyhTaO387Uemj) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Fireflies](https://open.spotify.com/album/4BgQbbSfFkKQhcwtZnrx47) | 3:22 |
 | 72 | [Violet](https://open.spotify.com/track/6UexB3inLD8R9lVXCSMnF3) | [Ólafur Apollo](https://open.spotify.com/artist/1uBzypkt8OzAyPkGifMjHI) | [Violet](https://open.spotify.com/album/6I21wxPlRPPTxalFaoVnTd) | 2:17 |
 | 73 | [Ashes](https://open.spotify.com/track/4SSEGcMR6QGz6U0vRQ8Lsk) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Ashes](https://open.spotify.com/album/7vJco1Uvoefx2kbHsY8yHb) | 2:23 |
 | 74 | [Spring](https://open.spotify.com/track/14bOlJfMU6o2BLwmWNBRDK) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [Spring](https://open.spotify.com/album/6OTSiKMhUELDgG1VE86Bgp) | 3:22 |
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 79 | [We're Almost Home](https://open.spotify.com/track/0UGJ7pI399zNAYvGxcpXGO) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [We're Almost Home](https://open.spotify.com/album/1j5J3X5s6x2gvq4alZD5rG) | 2:26 |
 | 80 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 |
 | 81 | [Eternal Flame](https://open.spotify.com/track/4S0YD6dPpQRe9ftkF9UlyI) | [Mists in citys](https://open.spotify.com/artist/5E36n1Z8Ib7DN1LTse3kVF) | [Eternal Flame](https://open.spotify.com/album/4s6BL7UtJL8OcgqBB45YRU) | 2:57 |
-| 82 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 |
-| 83 | [Morning Song](https://open.spotify.com/track/5xwjyZHMhpl0L1Obp0fV2j) | [Cijon](https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj) | [Morning Song](https://open.spotify.com/album/1kewlFuBDRl9Je0mKP0ttc) | 2:37 |
+| 82 | [Morning Song](https://open.spotify.com/track/5xwjyZHMhpl0L1Obp0fV2j) | [Cijon](https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj) | [Morning Song](https://open.spotify.com/album/1kewlFuBDRl9Je0mKP0ttc) | 2:37 |
+| 83 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 |
 | 84 | [Selina's Lullaby](https://open.spotify.com/track/5fuX8gwk2TGrpIKX6RR4Y3) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Selina's Lullaby](https://open.spotify.com/album/6Kx4PI0i6MxVeodtP9YgBr) | 2:18 |
 | 85 | [Underlying Cause](https://open.spotify.com/track/42eEBz1XT0b0uvZDZPisyL) | [Experia](https://open.spotify.com/artist/5NTXP9El0Kk8oAEIaKZZfZ) | [Underlying Cause](https://open.spotify.com/album/38Lsf8bDz8BsQ0zzNUzEwn) | 3:10 |
-| 86 | [Coincide](https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Coincide](https://open.spotify.com/album/1BkkNmbNMhHUoZBwugCKMp) | 2:14 |
-| 87 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 |
+| 86 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 |
+| 87 | [Coincide](https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Coincide](https://open.spotify.com/album/1BkkNmbNMhHUoZBwugCKMp) | 2:14 |
 | 88 | [Surface](https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [Surface](https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6) | 2:06 |
-| 89 | [Nyligen](https://open.spotify.com/track/6u5TZEuNThWqVHUWeysPO6) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nyligen](https://open.spotify.com/album/449FOsDuTGwpeK6frsUEdT) | 2:21 |
-| 90 | [Freefall](https://open.spotify.com/track/1ujbFpWro9LW6OprUiX8zr) | [tonin](https://open.spotify.com/artist/6vh92pGd0glJjM8j9xgQZG) | [Freefall](https://open.spotify.com/album/1WhbMi2QmuyL7phaa3DTcL) | 3:55 |
+| 89 | [Freefall](https://open.spotify.com/track/1ujbFpWro9LW6OprUiX8zr) | [tonin](https://open.spotify.com/artist/6vh92pGd0glJjM8j9xgQZG) | [Freefall](https://open.spotify.com/album/1WhbMi2QmuyL7phaa3DTcL) | 3:55 |
+| 90 | [Nyligen](https://open.spotify.com/track/6u5TZEuNThWqVHUWeysPO6) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nyligen](https://open.spotify.com/album/449FOsDuTGwpeK6frsUEdT) | 2:21 |
 | 91 | [Find A Way](https://open.spotify.com/track/5Cd2qfF2RNVYDlOfHkL4q2) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Find A Way](https://open.spotify.com/album/3QEnPlOdNhpQnSWSixDwWY) | 2:39 |
-| 92 | [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 |
-| 93 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 |
+| 92 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 |
+| 93 | [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 |
 | 94 | [Air](https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Air](https://open.spotify.com/album/54TRcRE5cExljtlDYn6pH1) | 2:40 |
 | 95 | [Orchid](https://open.spotify.com/track/4sOwnjnmJVbvODmibHP6NA) | [Silentro](https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl) | [Orchid](https://open.spotify.com/album/5gSmCor6UGPw8cKWg8utL7) | 4:12 |
 | 96 | [Ode to Blue](https://open.spotify.com/track/5slC4oYhwfrRaQfohUUNro) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Ode to Blue](https://open.spotify.com/album/3qI04UX6VcWk6X2Hejl3qk) | 3:57 |
@@ -114,19 +114,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 104 | [Opulence](https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Opulence](https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9) | 2:24 |
 | 105 | [Planisphere](https://open.spotify.com/track/1W0YP2A8OtX5QuZsmhWTJQ) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Planisphere](https://open.spotify.com/album/0KLDFB02OJIOfekbHVyJVq) | 2:34 |
 | 106 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 |
-| 107 | [Incomplete](https://open.spotify.com/track/0phFdr3EQVRPcTUmAZD1k6) | [Rizzolo](https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO) | [Incomplete](https://open.spotify.com/album/2h1tEWwXqg9Cvee9jX8VZM) | 3:14 |
-| 108 | [The Featherwinged Beetle](https://open.spotify.com/track/1W3keID7xtx3kE8ZVB3wl0) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [The Featherwinged Beetle](https://open.spotify.com/album/3EJW0H4QvaoSd7uF5D52Zm) | 4:20 |
-| 109 | [Park](https://open.spotify.com/track/0gsjFj57XcWxZ4D0EzsKvj) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Park](https://open.spotify.com/album/0IXlKOZaA2I7XyQ3ElvjRW) | 2:44 |
+| 107 | [The Featherwinged Beetle](https://open.spotify.com/track/1W3keID7xtx3kE8ZVB3wl0) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [The Featherwinged Beetle](https://open.spotify.com/album/3EJW0H4QvaoSd7uF5D52Zm) | 4:20 |
+| 108 | [Incomplete](https://open.spotify.com/track/0phFdr3EQVRPcTUmAZD1k6) | [Rizzolo](https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO) | [Incomplete](https://open.spotify.com/album/2h1tEWwXqg9Cvee9jX8VZM) | 3:14 |
+| 109 | [The Mist](https://open.spotify.com/track/7A087XKnj9LRqRgR5qzKQw) | [Milo Mariam](https://open.spotify.com/artist/68lsEBWe04lPdYWwx3zjFe) | [Singularity](https://open.spotify.com/album/0GGeGvVF9DedbmSBec0n7n) | 2:53 |
 | 110 | [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 |
-| 111 | [The Mist](https://open.spotify.com/track/7A087XKnj9LRqRgR5qzKQw) | [Milo Mariam](https://open.spotify.com/artist/68lsEBWe04lPdYWwx3zjFe) | [Singularity](https://open.spotify.com/album/0GGeGvVF9DedbmSBec0n7n) | 2:53 |
+| 111 | [Park](https://open.spotify.com/track/0gsjFj57XcWxZ4D0EzsKvj) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Park](https://open.spotify.com/album/0IXlKOZaA2I7XyQ3ElvjRW) | 2:44 |
 | 112 | [Futura Nova](https://open.spotify.com/track/0oEiyb6tSp2zXavLyUAAlF) | [Ministry of Ambience](https://open.spotify.com/artist/1RoGSkb1MexMKcChn74Vx9) | [Futura Nova](https://open.spotify.com/album/6z8wIJZvAw5DPhVQR6zrcT) | 2:34 |
 | 113 | [Across the Sky](https://open.spotify.com/track/6v8xPSIQSererU5KSy9YkD) | [dsntf](https://open.spotify.com/artist/7pGATqxSjgQ7u0YQzeTH9F) | [Across the Sky](https://open.spotify.com/album/1V2l9t4HxfVoVwQnafOv4L) | 2:34 |
 | 114 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 |
 | 115 | [Remeber](https://open.spotify.com/track/2UhEhSNnO7nNEwcOiy5Dxh) | [Noble S](https://open.spotify.com/artist/16I5ZrxxRz1JXlj8emMyKU) | [Remeber](https://open.spotify.com/album/04JqQZKjEkBykd74ZxSdtE) | 3:12 |
-| 116 | [Solicitude](https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v) | [Garden of Sound](https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9) | [Solicitude](https://open.spotify.com/album/3p2ACTKxG9jRenqzfVi6x3) | 3:09 |
-| 117 | [Intervention](https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Intervention](https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62) | 2:55 |
-| 118 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 |
+| 116 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 |
+| 117 | [Solicitude](https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v) | [Garden of Sound](https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9) | [Solicitude](https://open.spotify.com/album/3p2ACTKxG9jRenqzfVi6x3) | 3:09 |
+| 118 | [Intervention](https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Intervention](https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62) | 2:55 |
 | 119 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 |
-| 120 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 |
+| 120 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 |
 
 Snapshot ID: `aHZqmgAAAADXE/jhRtgQnE9r6rQl+UaW`

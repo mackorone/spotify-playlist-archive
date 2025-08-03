@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbz4oNHFacRG.md) - [plain]
 
 > Listen to music from and inspired by Marvel's Spider\-Man game franchise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,938 likes - 67 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,991 likes - 67 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbz4oNHFacRG.md) - [plain]
 | 66 | [Where We Come From](https://open.spotify.com/track/2IjthaptX4H9KQwEj52Bqx) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [Where We Come From](https://open.spotify.com/album/66iVSYAzkm2gqBAvaBgaGj) | 2:29 |
 | 67 | [This is My Time](https://open.spotify.com/track/0NuO1kL7vrWOX8P63qsCsb) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [This is My Time](https://open.spotify.com/album/6nJWaWQT89YyRS9juVAvO0) | 2:15 |
 
-Snapshot ID: `AAAAAEHuintIiAPc+dexx2IcF3YbzkPO`
+Snapshot ID: `ZXObagAAAADreh3fTzEpqD0pK+EM5bLS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,372 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,025 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 21 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
 | 22 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 23 | [Highway Blood](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 |
-| 24 | [Feels Like Home](https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Feels Like Home](https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW) | 4:03 |
-| 25 | [Like Gold](https://open.spotify.com/track/0IcYIjsfFEOIY1GI4t7dLu) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Like Gold](https://open.spotify.com/album/6yRUQ6BsMwy64HN85KDOol) | 3:43 |
+| 24 | [Like Gold](https://open.spotify.com/track/0IcYIjsfFEOIY1GI4t7dLu) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Like Gold](https://open.spotify.com/album/6yRUQ6BsMwy64HN85KDOol) | 3:43 |
+| 25 | [Feels Like Home](https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Feels Like Home](https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW) | 4:03 |
 | 26 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 27 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 28 | [True Faith](https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 4:42 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 49 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 50 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
 | 51 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
-| 52 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
-| 53 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
+| 52 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
+| 53 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
 | 54 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 |
 | 55 | [always you](https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [always you](https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI) | 3:08 |
 | 56 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
-| 57 | [IOU](https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Shelter](https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC) | 4:03 |
-| 58 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 |
-| 59 | [Mourning in America](https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:04 |
+| 57 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 |
+| 58 | [Mourning in America](https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:04 |
+| 59 | [IOU](https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Shelter](https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC) | 4:03 |
 | 60 | [Lights Out](https://open.spotify.com/track/2te2574HryYNJMPHJSpQvN) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [Lights Out](https://open.spotify.com/album/0cPPcr4ZDcVVolsBZL6HOS) | 3:17 |
 | 61 | [Precious Days](https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Precious Days](https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC) | 2:45 |
 | 62 | [Note to Self](https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:15 |

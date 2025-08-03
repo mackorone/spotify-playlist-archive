@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 
 > This is Metro Boomin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,055 likes - 49 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,110 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 | 44 | [Rap Saved Me \(feat\. Quavo\)](https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 4:17 |
 | 45 | [PURPLE RAIN \(FEAT\. FUTURE & METRO BOOMIN\)](https://open.spotify.com/track/7i8ncEfBk3s0w5YoG43SV9) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:27 |
 | 46 | [Streets Made Me A King](https://open.spotify.com/track/4Orf7Hvci6SZrPIoUjGuFY) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:04 |
-| 47 | [dangerous](https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:25 |
-| 48 | [Mad Stalkers](https://open.spotify.com/track/6HR1z11h0ROUlWP4Kx8Z7G) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 3:22 |
-| 49 | [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 |
+| 47 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 48 | [dangerous](https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:25 |
+| 49 | [Mad Stalkers](https://open.spotify.com/track/6HR1z11h0ROUlWP4Kx8Z7G) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 3:22 |
+| 50 | [Butterflies \(Right Now\)](https://open.spotify.com/track/4q2QzhkICCUNDMTFevCu38) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:28 |
 
-Snapshot ID: `aIqyAAAAAAB6FAqfC3v/Mp2jZUWFnQOH`
+Snapshot ID: `aIwDgAAAAAD9x/oGYVAdJD4+LwS/p1CI`

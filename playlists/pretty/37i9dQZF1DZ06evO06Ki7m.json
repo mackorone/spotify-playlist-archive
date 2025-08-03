@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 407055,
+  "num_followers": 407110,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAB6FAqfC3v/Mp2jZUWFnQOH",
+  "snapshot_id": "aIwDgAAAAAD9x/oGYVAdJD4+LwS/p1CI",
   "tracks": [
     {
       "added_at": null,
@@ -1071,6 +1071,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Porter",
+          "url": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "They Wanna Have Fun",
+      "url": "https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -1119,26 +1147,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Roscoe Dash",
+          "url": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 231338,
-      "name": "just like me",
-      "url": "https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35"
+      "duration_ms": 208840,
+      "name": "Butterflies (Right Now)",
+      "url": "https://open.spotify.com/track/4q2QzhkICCUNDMTFevCu38"
     }
   ],
   "unique_name": "This Is Metro Boomin",

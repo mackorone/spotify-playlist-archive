@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29919,
+  "num_followers": 29924,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADMHJIAa05P9DycSFd8EMnc",
+  "snapshot_id": "aIwDgAAAAADFc671G8QRmf7qrHIeA9nV",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "El Cazador",
-      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cu-Cu-Cu Cumbia!",
         "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 228306,
       "name": "Otra Como T\u00fa",
       "url": "https://open.spotify.com/track/055pJYboqVEcECyQQnANFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "El Cazador",
+      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Cantarle a Ella",
-      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Voy A Amar (En Vivo)",
         "url": "https://open.spotify.com/album/1x2NskCBNshzTbfR5YmCG8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 250133,
       "name": "Te Voy A Amar - En Vivo",
       "url": "https://open.spotify.com/track/5Z2uCELdECtX0Ar9YzoOQ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
     },
     {
       "added_at": null,
@@ -680,13 +680,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 194874,
-      "name": "Separarnos - En Vivo",
-      "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
+      "duration_ms": 187066,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
     },
     {
       "added_at": null,
@@ -760,13 +760,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
+      "duration_ms": 194874,
+      "name": "Separarnos - En Vivo",
+      "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Dias de Ayer",
-      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Cazador",
         "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 212466,
       "name": "Como Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Dias de Ayer",
+      "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
-        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Jennifer Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
-        }
-      ],
-      "duration_ms": 218886,
-      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
-      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Te Lo Pido (En Vivo)",
         "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 287205,
       "name": "Y Te Lo Pido - En Vivo",
       "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
+        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+        }
+      ],
+      "duration_ms": 218886,
+      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
+      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
     },
     {
       "added_at": null,
@@ -935,22 +935,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Camino",
-        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
-        {
-          "name": "Vuelta en U",
-          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 217199,
-      "name": "Vuelta En U (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
+      "duration_ms": 169000,
+      "name": "No S\u00e9 Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
     },
     {
       "added_at": null,

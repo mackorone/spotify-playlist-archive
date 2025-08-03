@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181122,
+      "name": "Lover (\u014dlow\u00f3 \u014dr\u00ed mi)",
+      "url": "https://open.spotify.com/track/3LjnZRA4lyQ9JtTbkWT3dX"
+    },
+    {
+      "album": {
         "name": "Yonder: Book I",
         "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
       },
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 181122,
       "name": "Lover (\u014dlow\u00f3 \u014dr\u00ed mi)",
       "url": "https://open.spotify.com/track/42PQRRTtzKuuhYLmoniLuT"
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 342012,
       "name": "The Descent",
       "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
@@ -2210,6 +2228,24 @@
       "duration_ms": 177400,
       "name": "You Like It I Love It",
       "url": "https://open.spotify.com/track/78OGe0lRtqJI6bMiQeE8x4"
+    },
+    {
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "You Like It I Love It",
+      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
     },
     {
       "album": {

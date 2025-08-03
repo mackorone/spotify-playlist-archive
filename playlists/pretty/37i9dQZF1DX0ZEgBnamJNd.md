@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,754 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,770 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
 | 2 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
-| 3 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 4 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
+| 3 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
+| 4 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 5 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 |
 | 6 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 7 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 77 | [Crying](https://open.spotify.com/track/56SVBTiWKPVwqNxiNkCpKS) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Love So Beautiful: Roy Orbison & The Royal Philharmonic Orchestra](https://open.spotify.com/album/0OY480YYBT6oEuTQbxR3kK) | 2:58 |
 | 78 | [Pastorale](https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 4:16 |
 | 79 | [The Life I Live](https://open.spotify.com/track/3IhHkd0OPXZc6hNLD4N8Ao) | [Q65](https://open.spotify.com/artist/2gaNCDWEC4FeANd9uJKelZ) | [Revolution](https://open.spotify.com/album/6b00wZnLXMXTvjh2zdaNVg) | 3:19 |
-| 80 | [B\-A\-B\-Y \(From "Baby Driver"\)](https://open.spotify.com/track/3t7VYEzgcTDWXpEmHQAOVs) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [B\-A\-B\-Y](https://open.spotify.com/album/2EVSSXijDa2zw8m4mJbpyJ) | 2:53 |
-| 81 | [Brandend Zand](https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:51 |
+| 80 | [Brandend Zand](https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:51 |
+| 81 | [B\-A\-B\-Y \(From "Baby Driver"\)](https://open.spotify.com/track/3t7VYEzgcTDWXpEmHQAOVs) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [B\-A\-B\-Y](https://open.spotify.com/album/2EVSSXijDa2zw8m4mJbpyJ) | 2:53 |
 | 82 | [Sweet Soul Music](https://open.spotify.com/track/4iV9451W6WrY0kJYgKZua6) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:21 |
-| 83 | [Dear Ann](https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Little Green Bag](https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj) | 3:02 |
-| 84 | [I'm A Believer](https://open.spotify.com/track/1Dix6w1eVOCVNLqehxLXH1) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 |
+| 83 | [I'm A Believer](https://open.spotify.com/track/1Dix6w1eVOCVNLqehxLXH1) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 |
+| 84 | [Dear Ann](https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Little Green Bag](https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj) | 3:02 |
 | 85 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
 | 86 | [I See You Face Again](https://open.spotify.com/track/0yOL0hphTHQ8vGVAt5Ozqi) | [Sandy Coast](https://open.spotify.com/artist/2Ym4vFrYKclJDy0Jq4CpcR) | [Good for Gold](https://open.spotify.com/album/7MdMBbgNqWncF10ULnk2pk) | 3:19 |
 | 87 | [Turn Around And Start Again](https://open.spotify.com/track/4KQSyeFwXXYvdjFi9oPVJ8) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Favorieten Expres](https://open.spotify.com/album/6vjJpzdtItQIK9FxJNnXs9) | 2:59 |

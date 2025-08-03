@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQcxgTJZWi5.md) - [plain]
 
 > Grandes clásicos del rock para grandes y pequeños.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,102 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,105 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQcxgTJZWi5.md) - [plain]
 | 59 | [Rock the Casbah](https://open.spotify.com/track/50II44HZBCH4ZOEkTNhh1G) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of the Clash](https://open.spotify.com/album/5uYUR7HqfGtPZrhL1qhcPq) | 2:41 |
 | 60 | [Wake Me Up When September Ends](https://open.spotify.com/track/51dJ3QCSWInbWLxr4F7ybu) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Green Day](https://open.spotify.com/album/2TLCCLv44eXZGgiE5VKfuc) | 4:07 |
 
-Snapshot ID: `Zn3u5AAAAADyHXI7WtFuL4i5iNBFfvt6`
+Snapshot ID: `AAAAAFiEz1wmRqIUK0CEYor4Q9XfXDwM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Seaside \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,654 likes - 88 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,655 likes - 88 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

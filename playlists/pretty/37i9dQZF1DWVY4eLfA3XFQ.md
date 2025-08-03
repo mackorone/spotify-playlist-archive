@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇 Tech house technicians, featuring SCRIPT
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,499 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,598 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 |
 | 2 | [London's On Fire](https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [London's On Fire](https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB) | 2:59 |
-| 3 | [Backtrack Blow Up \- Max Styler Remix](https://open.spotify.com/track/2gyyB70dNaYPD5yKWCpOlV) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Backtrack Blow Up \(Max Styler Remix\)](https://open.spotify.com/album/6CQ9rcuravEBO6IOIjyIKy) | 3:37 |
+| 3 | [Apple Cider](https://open.spotify.com/track/3tC1yR3AZxpgac6ajPHHfL) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Apple Cider](https://open.spotify.com/album/23vD66LgullE2QYuqVmuX9) | 2:35 |
 | 4 | [Let Me Clear My Throat](https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Let Me Clear My Throat](https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt) | 2:41 |
-| 5 | [Apple Cider](https://open.spotify.com/track/3tC1yR3AZxpgac6ajPHHfL) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Apple Cider](https://open.spotify.com/album/23vD66LgullE2QYuqVmuX9) | 2:35 |
-| 6 | [Blue Monday](https://open.spotify.com/track/1RMhO8CQw025Jppf3yULwh) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Blue Monday](https://open.spotify.com/album/6F0NbhJKw2adEJlUbJPQWX) | 3:00 |
-| 7 | [Street Symphony](https://open.spotify.com/track/3QStdcxpkTbA8nwqi6BB42) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Street Symphony](https://open.spotify.com/album/6i45FuOhiBOZDFqnF0D6o3) | 2:33 |
-| 8 | [Sticky](https://open.spotify.com/track/1RMcfaJ3f4a4vLU7veJU5H) | [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29) | [Sticky](https://open.spotify.com/album/0GWfAq8pUP627zvkEZQYyy) | 3:00 |
+| 5 | [Blue Monday](https://open.spotify.com/track/1RMhO8CQw025Jppf3yULwh) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Blue Monday](https://open.spotify.com/album/6F0NbhJKw2adEJlUbJPQWX) | 3:00 |
+| 6 | [Street Symphony](https://open.spotify.com/track/3QStdcxpkTbA8nwqi6BB42) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Street Symphony](https://open.spotify.com/album/6i45FuOhiBOZDFqnF0D6o3) | 2:33 |
+| 7 | [Sticky](https://open.spotify.com/track/1RMcfaJ3f4a4vLU7veJU5H) | [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29) | [Sticky](https://open.spotify.com/album/0GWfAq8pUP627zvkEZQYyy) | 3:00 |
+| 8 | [Backtrack Blow Up \- Max Styler Remix](https://open.spotify.com/track/2gyyB70dNaYPD5yKWCpOlV) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Backtrack Blow Up \(Max Styler Remix\)](https://open.spotify.com/album/6CQ9rcuravEBO6IOIjyIKy) | 3:37 |
 | 9 | [Chemistry](https://open.spotify.com/track/1y4TYozBU3YYf8WOaisCd0) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Equinøx](https://open.spotify.com/artist/5Pfc3lrQ5LtFXRcGhNs3cH) | [Chemistry](https://open.spotify.com/album/2uTSksM4bVzJkb32c8TtVW) | 3:19 |
 | 10 | [Front & Back Seat](https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Front & Back Seat](https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG) | 2:51 |
 | 11 | [Night Time](https://open.spotify.com/track/6lRMBIxee93wZmbUMgzqOD) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Night Time](https://open.spotify.com/album/0PJGRfQTywmeibJjwL756e) | 3:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Crusin](https://open.spotify.com/track/72kwm40QlqYaXf3SgyDtPO) | [Ssol](https://open.spotify.com/artist/0r1nzP20Iambhd9ubmmkQJ) | [Crusin](https://open.spotify.com/album/2wutMDPV65g2V9xwuKjXRm) | 2:31 |
 | 125 | [Blocked](https://open.spotify.com/track/768JazCT1tUiO0vqp47MXH) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Blocked](https://open.spotify.com/album/0x0Ou3FP7rLlFKPkG4sVzF) | 3:21 |
 
-Snapshot ID: `aIzR4AAAAABZo4ErlUcMz4ZVO8nUSyB7`
+Snapshot ID: `aI4+dwAAAABpeYzlnBccfi/yME/X0R5g`

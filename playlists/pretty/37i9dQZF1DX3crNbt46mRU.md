@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Chappell Roan, GIMS, Felix Jaehn, Lune and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,633 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,631 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 47 | [Was war das](https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Was war das](https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn) | 2:40 |
 | 48 | [Beautiful Odyssey](https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Beautiful Odyssey](https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb) | 2:50 |
 | 49 | [wie es war](https://open.spotify.com/track/6GItLfbLMM8Weu099G46qx) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [wie es war](https://open.spotify.com/album/5HCuzJgVYadq0XyR3bdRTq) | 2:48 |
-| 50 | [Achterbahn fahren](https://open.spotify.com/track/4g0EDV5qO2p3uuSCi6AiIN) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [Achterbahn fahren](https://open.spotify.com/album/5zR7IorZF87Fi9qpzhUA1m) | 2:06 |
+| 50 | [Achterbahn fahren](https://open.spotify.com/track/4g0EDV5qO2p3uuSCi6AiIN) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x), [TUN](https://open.spotify.com/artist/6FjgaqFC2jqck5hiP5zdC0) | [Achterbahn fahren](https://open.spotify.com/album/5zR7IorZF87Fi9qpzhUA1m) | 2:06 |
 | 51 | [Apple Cider](https://open.spotify.com/track/3tC1yR3AZxpgac6ajPHHfL) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Apple Cider](https://open.spotify.com/album/23vD66LgullE2QYuqVmuX9) | 2:35 |
 | 52 | [Zucker](https://open.spotify.com/track/0HvpJwN4OaztkY5BJPg04N) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Zucker](https://open.spotify.com/album/5ulXOHFVmyihtb9nPTqHaw) | 2:34 |
 | 53 | [Heavens Sirens](https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Heavens Sirens](https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn) | 2:56 |

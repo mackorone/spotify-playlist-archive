@@ -1,13 +1,814 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 478688,
+  "num_followers": 478774,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZmmIMwAAAADIp0wXUhM13YZk/wapjUWa",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Gangs of New Holland",
+        "url": "https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "An Irish Pub Song",
+      "url": "https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Drunken Lullabies",
+        "url": "https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "What's Left of the Flag",
+      "url": "https://open.spotify.com/track/5dDDlK2uYeRo0DmvJGfIDW"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Sally MacLennane",
+      "url": "https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Tales from the Wasteland",
+        "url": "https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bastard",
+          "url": "https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8"
+        }
+      ],
+      "duration_ms": 100573,
+      "name": "My Son John",
+      "url": "https://open.spotify.com/track/6PxC0ilHOSZGO6ASrktNv4"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Uncle Touchy Goes to College",
+        "url": "https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9"
+      },
+      "artists": [
+        {
+          "name": "The Dreadnoughts",
+          "url": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "The Cruel Wars",
+      "url": "https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "duration_ms": 141426,
+      "name": "Salty Dog",
+      "url": "https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "SIR REG",
+        "url": "https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE"
+      },
+      "artists": [
+        {
+          "name": "Sir Reg",
+          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Arrive On St. Patrick's Day",
+      "url": "https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "duration_ms": 140693,
+      "name": "If I Should Fall from Grace with God",
+      "url": "https://open.spotify.com/track/1Z5rTFsClLFgsIGuZ7Ymt2"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "The State Of Massachusetts",
+      "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
+      },
+      "artists": [
+        {
+          "name": "Blaggards",
+          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
+        }
+      ],
+      "duration_ms": 158213,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "The Worst Day Since Yesterday",
+      "url": "https://open.spotify.com/track/5S1qWBPGQoktlmFd6bj3JY"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Sleepin' Rough",
+        "url": "https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 287186,
+      "name": "A Fistful O' Roses",
+      "url": "https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "The Bollox",
+        "url": "https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP"
+      },
+      "artists": [
+        {
+          "name": "The Bollox",
+          "url": "https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip"
+        }
+      ],
+      "duration_ms": 224732,
+      "name": "Tura Lu",
+      "url": "https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Worker's Song",
+      "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Tales from the Wasteland",
+        "url": "https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bastard",
+          "url": "https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Cheer Up Love (Worse Things Happen at Sea), Pt. 3",
+      "url": "https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Gaelic Storm",
+        "url": "https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip"
+      },
+      "artists": [
+        {
+          "name": "Gaelic Storm",
+          "url": "https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK"
+        }
+      ],
+      "duration_ms": 300173,
+      "name": "Johnny Jump Up/Morrison's Jig",
+      "url": "https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Hung, Drawn & Portered",
+        "url": "https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 117880,
+      "name": "I'll Tell Me Ma!",
+      "url": "https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "duration_ms": 421106,
+      "name": "Black Friday Rule",
+      "url": "https://open.spotify.com/track/0tXYtoyv8OH1dz45CLPP9G"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "The Warrior's Code",
+      "url": "https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Modem Operandi",
+        "url": "https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg"
+      },
+      "artists": [
+        {
+          "name": "The Stanfields",
+          "url": "https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
+      },
+      "artists": [
+        {
+          "name": "Blaggards",
+          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Botany Bay",
+      "url": "https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Honor",
+        "url": "https://open.spotify.com/album/5q7liZNAS6nQ2gST7wGMmJ"
+      },
+      "artists": [
+        {
+          "name": "The Killigans",
+          "url": "https://open.spotify.com/artist/6EnFVB7au1aUyNvdhIzXPB"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "Whiskey and Gin",
+      "url": "https://open.spotify.com/track/5Z86P3a0reCE58nhDZDCgk"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "25 Blarney Roses",
+        "url": "https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Victor and His Demons",
+      "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Off the Leash",
+        "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Drink Some More",
+      "url": "https://open.spotify.com/track/71MLYxrDVR7PjGmOPqghp9"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Saints Preserve Us",
+        "url": "https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "The Foreman O'rourke",
+      "url": "https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Within a Mile of Home",
+        "url": "https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "duration_ms": 317906,
+      "name": "Tobacco Island",
+      "url": "https://open.spotify.com/track/7cv7U6KO9uSCCw5JE7GEMS"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Rats On Board",
+        "url": "https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw"
+      },
+      "artists": [
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Heyday (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "duration_ms": 215613,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "10,000 Shots",
+        "url": "https://open.spotify.com/album/65PMNI831NSdZ6SoW30sAv"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Farewell to Nova Scotia",
+      "url": "https://open.spotify.com/track/4RQkO78A3ZowkGTGGpxf98"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Gangs of New Holland",
+        "url": "https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "Uncle Tommy",
+      "url": "https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Sixth and Porter",
+        "url": "https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8"
+      },
+      "artists": [
+        {
+          "name": "The Kreellers",
+          "url": "https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Orange and the Green",
+      "url": "https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "No Offence",
+        "url": "https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD"
+      },
+      "artists": [
+        {
+          "name": "Happy Ol'McWeasel",
+          "url": "https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "On the Rocks",
+        "url": "https://open.spotify.com/album/2aIBq4cJweU84E0PZuXa05"
+      },
+      "artists": [
+        {
+          "name": "Seamus Kennedy",
+          "url": "https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf"
+        }
+      ],
+      "duration_ms": 114946,
+      "name": "The Beer Song",
+      "url": "https://open.spotify.com/track/6ei9tbLjSdYpZatWSQfzQd"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "On A Fine Spring Evening",
+        "url": "https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW"
+      },
+      "artists": [
+        {
+          "name": "The Tossers",
+          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
+        }
+      ],
+      "duration_ms": 81293,
+      "name": "Whiskey Makes Me Crazy",
+      "url": "https://open.spotify.com/track/7gLbLGteklzcPSd53ojUDg"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "The Loyal Men",
+        "url": "https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788"
+      },
+      "artists": [
+        {
+          "name": "Black Tartan Clan",
+          "url": "https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt"
+        }
+      ],
+      "duration_ms": 259578,
+      "name": "Country Roads",
+      "url": "https://open.spotify.com/track/7qA7nOX5DuM1Eob1EBwCvA"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Sobriety",
+        "url": "https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs"
+      },
+      "artists": [
+        {
+          "name": "Jolly Jackers",
+          "url": "https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy"
+        }
+      ],
+      "duration_ms": 151634,
+      "name": "Sobriety",
+      "url": "https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "When the Shite Hits the Fans",
+        "url": "https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK"
+      },
+      "artists": [
+        {
+          "name": "The Gobshites",
+          "url": "https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF"
+        }
+      ],
+      "duration_ms": 160146,
+      "name": "Arsehole",
+      "url": "https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/2K0fjyPXmaZV7i51AAmbB7"
+      },
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
+        }
+      ],
+      "duration_ms": 118080,
+      "name": "Waxies Dargle",
+      "url": "https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Pro Libertate",
+        "url": "https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu"
+      },
+      "artists": [
+        {
+          "name": "Scrum",
+          "url": "https://open.spotify.com/artist/0sGdJHX64lQqPYY0is2MjX"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "Drunk Again",
+      "url": "https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "The Parting Glass (The Very Best of Liam Clancy)",
+        "url": "https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn"
+      },
+      "artists": [
+        {
+          "name": "Liam Clancy",
+          "url": "https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "The Streets of London",
+      "url": "https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Devil's Dozen",
+        "url": "https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Bottoms Up",
+      "url": "https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Off The Leash",
+        "url": "https://open.spotify.com/album/4gOFYHgQfBZhqilL96qMtE"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "White Knuckle Ride",
+      "url": "https://open.spotify.com/track/1rUiICtcJ7UpGn55gRxpdo"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Heard Ya Say!",
+        "url": "https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x"
+      },
+      "artists": [
+        {
+          "name": "Happy Ol'McWeasel",
+          "url": "https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p"
+        }
+      ],
+      "duration_ms": 229539,
+      "name": "On Your Own",
+      "url": "https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "The Loyal Men",
+        "url": "https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788"
+      },
+      "artists": [
+        {
+          "name": "Black Tartan Clan",
+          "url": "https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "Banks of the Roses",
+      "url": "https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "The Hail Mary EP",
+        "url": "https://open.spotify.com/album/2XXNqcmTUvhsn95c9KIqX8"
+      },
+      "artists": [
+        {
+          "name": "The Bastard Suns",
+          "url": "https://open.spotify.com/artist/5Pl6l5ZS7eSQhcfH93grw4"
+        }
+      ],
+      "duration_ms": 189626,
+      "name": "My Pint",
+      "url": "https://open.spotify.com/track/0PbGQfcCmKAYaNDg50hhcE"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Raise 'em All",
+        "url": "https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I"
+      },
+      "artists": [
+        {
+          "name": "Irish Moutarde",
+          "url": "https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Two Devils Will Talk",
+        "url": "https://open.spotify.com/album/7Bu6iKJ9HzyGEtBndg3zak"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "Due West",
+      "url": "https://open.spotify.com/track/44rcYmW4XZy8PNJnjGL2Ld"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Grace O'malley",
+        "url": "https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        }
+      ],
+      "duration_ms": 216736,
+      "name": "Grace O'malley",
+      "url": "https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5"
+    }
+  ],
   "unique_name": "Celtic Punk",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb1IUaS6F7Z8"
 }

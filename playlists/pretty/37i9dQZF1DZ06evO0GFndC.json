@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 60756,
+  "num_followers": 60774,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACOQKfZOPmG7y4+ireVvs6p",
+  "snapshot_id": "aIwDgAAAAACRGoTDrm4kJbMnzZasKEmP",
   "tracks": [
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+        "name": "El Flee",
+        "url": "https://open.spotify.com/album/5xe8387ud3FWx0DtXFeH5O"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Criminales de Verdad - En Vivo",
-      "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
+      "duration_ms": 174124,
+      "name": "El Flee",
+      "url": "https://open.spotify.com/track/4JoBXRrnYHiKO5TTEQgCVp"
     },
     {
       "added_at": null,
@@ -491,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Flee",
-        "url": "https://open.spotify.com/album/5xe8387ud3FWx0DtXFeH5O"
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Antonin Padilla",
-          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
         }
       ],
-      "duration_ms": 174124,
-      "name": "El Flee",
-      "url": "https://open.spotify.com/track/4JoBXRrnYHiKO5TTEQgCVp"
+      "duration_ms": 187066,
+      "name": "Criminales de Verdad - En Vivo",
+      "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
     },
     {
       "added_at": null,
@@ -520,25 +520,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 172031,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/3W776OCqqcv2IqphOc0j15"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "Mejor Sin Ti",
-      "url": "https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y"
+      "duration_ms": 140373,
+      "name": "No Critican",
+      "url": "https://open.spotify.com/track/5JeUhEtXsRIo03h1LJ7DSn"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 179669,
       "name": "Holy Molly",
       "url": "https://open.spotify.com/track/0tL39kApl53imatnaQiY4H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "Mejor Sin Ti",
+      "url": "https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y"
     },
     {
       "added_at": null,
@@ -588,25 +588,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 140373,
-      "name": "No Critican",
-      "url": "https://open.spotify.com/track/5JeUhEtXsRIo03h1LJ7DSn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 170965,
-      "name": "Triste Historia",
-      "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
+      "duration_ms": 172031,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/3W776OCqqcv2IqphOc0j15"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 179600,
       "name": "TRX",
       "url": "https://open.spotify.com/track/1oOUieyKJeJiJGiAOydpLx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 170965,
+      "name": "Triste Historia",
+      "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Equipados",
-        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 170461,
-      "name": "Bien Equipados",
-      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 190966,
       "name": "La Bolsita",
       "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Equipados",
+        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 170461,
+      "name": "Bien Equipados",
+      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Tras las Rejas",
-      "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 162000,
       "name": "Belik Frozen",
       "url": "https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Tras las Rejas",
+      "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 212499,
-      "name": "Puro Gas",
-      "url": "https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey De Los Paquetes",
         "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 122212,
       "name": "El Rey de Los Paquetes",
       "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 212499,
+      "name": "Puro Gas",
+      "url": "https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ"
     },
     {
       "added_at": null,

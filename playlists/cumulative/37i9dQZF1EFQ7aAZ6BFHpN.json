@@ -4440,6 +4440,28 @@
     {
       "album": {
         "name": "Gershwin: Complete Piano Works",
+        "url": "https://open.spotify.com/album/3MVZO9aE7crs8CzjydpD4h"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Maurizio Zaccaria",
+          "url": "https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "Swiss Miss",
+      "url": "https://open.spotify.com/track/4V1vagqTpBkTfNqoYwWLOX"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Complete Piano Works",
         "url": "https://open.spotify.com/album/3LY0vX4TBU0spPk0r0LXDZ"
       },
       "artists": [
@@ -4454,7 +4476,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 166300,
       "name": "Swiss Miss",
       "url": "https://open.spotify.com/track/6qeTkxWiaqZO8XDA2SgQNr"

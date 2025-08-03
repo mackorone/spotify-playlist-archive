@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,948 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,050 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [Reto a la Muerte](https://open.spotify.com/track/1U7RVWs5oFa3e3eHN06W5F) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [20 Exitos](https://open.spotify.com/album/0nJ38JGt1eAIQx6PZ3wDk2) | 3:01 |
 | 50 | [Por Una Rencilla Vieja](https://open.spotify.com/track/2CMcLBaFgUFVkMeHnyhNGR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 3:38 |
 
-Snapshot ID: `aIqyAAAAAAAUjz/S9nmx9fPvdmBZhOcj`
+Snapshot ID: `aIwDgAAAAADhGxUpR6zRsyoEHdZ8H2P/`

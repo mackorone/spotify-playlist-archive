@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,365 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,368 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 90 | [Everyone I please hates me](https://open.spotify.com/track/1KaZWvFJELretod1Gk98nS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [I'm cool...I guess](https://open.spotify.com/album/5duNYF5T14CMxB4V3ps9lA) | 4:44 |
 | 91 | [Vegas Days](https://open.spotify.com/track/2GihXKy7Y9dF3JEs33p4db) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Vegas Days](https://open.spotify.com/album/3iDz7wS8M2d2rZDSoRKqxj) | 3:27 |
 
-Snapshot ID: `aHqaPAAAAAD4D4ks5rutAzdEY+sUzUhY`
+Snapshot ID: `aHqaPAAAAACPRftcEHIsCc8qndXiCYyY`

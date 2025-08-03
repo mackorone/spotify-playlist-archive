@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,286 likes - 202 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,514 likes - 202 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 201 | [Another Day](https://open.spotify.com/track/4lbgrO7sGhdLx8UM28lHa1) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Another Day](https://open.spotify.com/album/6pWv9L9GIK68UUyQV72rQW) | 2:36 |
 | 202 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 |
 
-Snapshot ID: `aIN8MAAAAADguVt+e7VHLs3SWLPUwkSx`
+Snapshot ID: `AAAAAJ5xJa/P7hOQ099NPj8MbCjHoPkf`

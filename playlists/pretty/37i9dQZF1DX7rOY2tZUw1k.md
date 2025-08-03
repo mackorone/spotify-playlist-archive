@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rOY2tZUw1k.md) - [plain]
 
 > The ultimate romantic playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,387,248 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,387,279 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rOY2tZUw1k.md) - [plain]
 | 99 | [Babylon](https://open.spotify.com/track/5jLqVCGlKNYrLqCA1Qy4FV) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:25 |
 | 100 | [You're The First, The Last, My Everything](https://open.spotify.com/track/0jIA3DQGOF7rY6Z0py3XOw) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Ultimate Collection](https://open.spotify.com/album/21JfWJ9OpjUFaG9dmAvcOP) | 3:26 |
 
-Snapshot ID: `ZlkC1wAAAAD0GqPD6Kwy+Fl0ZDjCaG8K`
+Snapshot ID: `AAAAAIempR6/uB3cIEglLrmr8cwBT5MG`

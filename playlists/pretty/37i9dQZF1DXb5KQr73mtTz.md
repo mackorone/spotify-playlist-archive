@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,574 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,576 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 9 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 10 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
 | 11 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
-| 12 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
-| 13 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 |
-| 14 | [Goodbye](https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I) | [Choo young woo](https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2) | [Head over Heels, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5) | 4:21 |
+| 12 | [Goodbye](https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I) | [Choo young woo](https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2) | [Head over Heels, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5) | 4:21 |
+| 13 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
+| 14 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 |
 | 15 | [Even if you leave,](https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx) | 4:32 |
 | 16 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
 | 17 | [Can't Go](https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp) | 3:31 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 29 | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg) | 3:39 |
 | 30 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 | 31 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 |
-| 32 | [One More Day](https://open.spotify.com/track/260qGZnKIKC41u6LH2L9pq) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [In The Spring](https://open.spotify.com/album/0SDjas70ExEIhpRm24UCUz) | 3:25 |
-| 33 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
+| 32 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
+| 33 | [One More Day](https://open.spotify.com/track/260qGZnKIKC41u6LH2L9pq) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [In The Spring](https://open.spotify.com/album/0SDjas70ExEIhpRm24UCUz) | 3:25 |
 | 34 | [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 |
 | 35 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
-| 36 | [RAINY DAYS](https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hierarchy \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ) | 3:34 |
-| 37 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
+| 36 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
+| 37 | [RAINY DAYS](https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hierarchy \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ) | 3:34 |
 | 38 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
 | 39 | [Our sea](https://open.spotify.com/track/41Uv8ri1InCygCF8ImOZZ2) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Our sea \(Crushology 101 OST Part.7\)](https://open.spotify.com/album/6YBjAt603jhnckUKdLoeeG) | 4:29 |
 | 40 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 45 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 |
 | 46 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
 | 47 | [Spring days pass](https://open.spotify.com/track/1WACArKm987xYhEAiuetlx) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Jeongnyeon: The Star is Born, Pt\. 3 : Spring days pass \(Original Soundtrack\)](https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp) | 3:21 |
-| 48 | [사랑했지만](https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [7th X 독수리 5형제를 부탁해!](https://open.spotify.com/album/1aURZoBC382M0jpiQQ34KH) | 4:45 |
-| 49 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
+| 48 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
+| 49 | [사랑했지만](https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [7th X 독수리 5형제를 부탁해!](https://open.spotify.com/album/1aURZoBC382M0jpiQQ34KH) | 4:45 |
 | 50 | [CRY](https://open.spotify.com/track/02PDptomPdxVlbkYXqcZxn) | [LEE YEEUN](https://open.spotify.com/artist/4yltNNj8uZnhQNh9XyGlwD), [Ashatree](https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up) | [CRY](https://open.spotify.com/album/1GHJYdO0IUEbCMaXNXhZf1) | 4:08 |
 
 Snapshot ID: `aIbdnAAAAABmET16pP1QlGB9sogpvivB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,707 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,735 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 59 | [Mejor Ya No Regreses](https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Mejor Ya No Regreses](https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF) | 3:45 |
 | 60 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 |
 | 61 | [Como una punzada](https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM) | [Silvia & Karmen](https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK), [Eleonor](https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW) | [No tenemos prisa](https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk) | 3:58 |
-| 62 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
+| 62 | [Ni una Gota de Amor](https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 2:31 |
 | 63 | [El Andariego](https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:17 |
-| 64 | [Ni una Gota de Amor](https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 2:31 |
+| 64 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
 | 65 | [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/0DAsx2InZwMNTnfkd4GXa4) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 |
-| 66 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
+| 66 | [Rayando el Sol](https://open.spotify.com/track/0aYUIQyAR6P7R4FtEEG9Ik) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas](https://open.spotify.com/album/2Z3BXtXY75OOYcJljBozCb) | 2:27 |
 | 67 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
-| 68 | [Rayando el Sol](https://open.spotify.com/track/0aYUIQyAR6P7R4FtEEG9Ik) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas](https://open.spotify.com/album/2Z3BXtXY75OOYcJljBozCb) | 2:27 |
+| 68 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 69 | [Noche Fría](https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Noche Fría](https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx) | 3:09 |
 | 70 | [La Distancia](https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Distancia](https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE) | 3:33 |
 | 71 | [Sabor a Mí \- Amuzgo](https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Mariano García](https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:17 |

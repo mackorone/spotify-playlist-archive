@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Unico Grado
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,048 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,084 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [No Se Pudo](https://open.spotify.com/track/30cAqdinNm6e6GrNjcOg0Z) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [No Se Pudo](https://open.spotify.com/album/4IBsZvx1IxXSBwvqmHWA4s) | 3:37 |
 | 50 | [Te Vas](https://open.spotify.com/track/78VvnSI0Xe6Lu9t6KZFNCC) | [Diana Araujo](https://open.spotify.com/artist/2gddhtroO8YVORZShAjf2O) | [Te Vas](https://open.spotify.com/album/0t8J2Qp5zxPiPT26SKJKKM) | 3:16 |
 
-Snapshot ID: `aI0m/gAAAADeEsI4e+Kq3Ojs6PWQ+iIY`
+Snapshot ID: `AAAAAPsIIUNr+JnLXWvtZi5q1RlklLdC`

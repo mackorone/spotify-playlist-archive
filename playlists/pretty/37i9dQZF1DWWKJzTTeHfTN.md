@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKJzTTeHfTN.md) - [plain]
 
 > Enjoy theTOMORROW X TOGETHER Seoul world tour LIVE SET including the voices of them on stage! \(투머로우바이투게더의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,564 likes - 25 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,590 likes - 25 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKJzTTeHfTN.md) - [plain]
 | 24 | [Our Summer](https://open.spotify.com/track/22PEycypPsZpzlMxTgukiQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:30 |
 | 25 | [Blue Spring](https://open.spotify.com/track/7o3sxXABQ4VacMPDa6hUFO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:05 |
 
-Snapshot ID: `AAAAAAsg6kg9GBiza1KZBDzYR/usy3NH`
+Snapshot ID: `ZXmAoAAAAAD5m10ujXQD0vWbeOtdUve0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmyIPX2ivrY.md) - [plain]
 
 > Relaxing classical music to soothe your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,573 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,614 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmyIPX2ivrY.md) - [plain]
 | 45 | [Chants du Rhin, WD 52: Les rêves](https://open.spotify.com/track/0Kubohno5e03J30wNFg4B2) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Nathanaël Gouin](https://open.spotify.com/artist/6ycB2zc7NqE59KlP0WQCBl) | [Bizet sans Paroles](https://open.spotify.com/album/0UbRmtk4reK9XEzz1yk2P4) | 3:44 |
 | 46 | [String Quartet No\. 3 in D Major, Op\. 18: II\. Andante con moto](https://open.spotify.com/track/0o3Mcv1JOPsrnc3wBROq2S) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Jerusalem Quartet](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) | [Beethoven: String Quartets, Op\. 18](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) | 7:05 |
 | 47 | [Concerto for Two Violins in D Minor, BWV 1043: II\. Largo ma non tanto](https://open.spotify.com/track/0hIr784kGfRf5EVFGP1dFi) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Andrew Manze](https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr), [Rachel Podger](https://open.spotify.com/artist/15Z3Bkemf6mvB3IkOBvJOn), [Academy of Ancient Music](https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf) | [Bach: Solo & Double Violin Concertos](https://open.spotify.com/album/0M1DxKzMIxUk8XME68Mgeq) | 6:27 |
-| 48 | [Written on the Sky](https://open.spotify.com/track/0x1sDBH8c2eAqmBSjwv4yd) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Spring](https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw) | 2:02 |
+| 48 | [Written on the Sky](https://open.spotify.com/track/0x1sDBH8c2eAqmBSjwv4yd) | [Max Richter](https://open.spotify.com/artist/6TdjPOLNzXK1HridjWRfTl), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Spring](https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw) | 2:02 |
 | 49 | [Wind Quintet in E\-Flat Major, Hess 19: II\. Adagio maestoso](https://open.spotify.com/track/5TGCJDjLkKg05iT1ajUE1w) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Ottó Rácz](https://open.spotify.com/artist/29K3KFah5KwkXAXgFUxz8o), [Jozsef Vajda](https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ), [Sándor Berki](https://open.spotify.com/artist/67AxY6bRRMB32PxGkObf3Y), [János Keveházi](https://open.spotify.com/artist/6osnx8WSs1oNzaUArgf8Vn), [Jeno Kevehazi](https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN) | [Beethoven: Chamber Music for Horns, Winds and Strings](https://open.spotify.com/album/1Wmvid9DMr8fyqyW33wAHy) | 3:52 |
 
-Snapshot ID: `Z++5lgAAAACaEJobvygqB5Wo7unCyW8x`
+Snapshot ID: `AAAAACQrZIzQ7hLI1Pvm6F1OPNb8qsZO`

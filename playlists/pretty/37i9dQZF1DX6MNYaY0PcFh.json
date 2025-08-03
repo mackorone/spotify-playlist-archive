@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Jorja Smith",
-  "num_followers": 93265,
+  "num_followers": 93306,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "six missed calls",
-        "url": "https://open.spotify.com/album/1gWdOqu1lh6XB8o99mNB8r"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 137090,
-      "name": "pick your poison",
-      "url": "https://open.spotify.com/track/6OaYA5Xn6xVwcLyYEE2Ard"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
         "name": "Piece Of My Soul",
         "url": "https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 162374,
       "name": "Piece Of My Soul",
       "url": "https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "six missed calls",
+        "url": "https://open.spotify.com/album/1gWdOqu1lh6XB8o99mNB8r"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 137090,
+      "name": "pick your poison",
+      "url": "https://open.spotify.com/track/6OaYA5Xn6xVwcLyYEE2Ard"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/16kgfRu4InGlPouk5dzOjZ"
+      },
+      "artists": [
+        {
+          "name": "nate band",
+          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2LsJ4sBvlz0V6MDCbwy4Bn"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
         "name": "On Sum (MPH Remix)",
         "url": "https://open.spotify.com/album/2GG04Ana1NWA4pScy2s0RO"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/16kgfRu4InGlPouk5dzOjZ"
-      },
-      "artists": [
-        {
-          "name": "nate band",
-          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2LsJ4sBvlz0V6MDCbwy4Bn"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
         "name": "if thats okay with u <3",
         "url": "https://open.spotify.com/album/12YLAsNkEyWzbYvj4x1OYg"
       },
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Body Type",
-        "url": "https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 132378,
-      "name": "Body Type",
-      "url": "https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
         "name": "Falling 4 U",
         "url": "https://open.spotify.com/album/6XW53yYoCcc8nZCWAKLMF2"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 197142,
       "name": "Falling 4 U",
       "url": "https://open.spotify.com/track/7g041SdEW1CgvWxi5KT6rN"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "Body Type",
+        "url": "https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 132378,
+      "name": "Body Type",
+      "url": "https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
+        "name": "DUWML",
+        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 190869,
+      "name": "DUWML",
+      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
         "name": "Afters (feat. Scrufizzer)",
         "url": "https://open.spotify.com/album/38JsJCxEYCjzwpcZHw1u9X"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 174205,
       "name": "Afters (feat. Scrufizzer)",
       "url": "https://open.spotify.com/track/4aFiJfrymnGXR9VFuOmDJn"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
-        "name": "DUWML",
-        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 190869,
-      "name": "DUWML",
-      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Mash Up",
-        "url": "https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        }
-      ],
-      "duration_ms": 185720,
-      "name": "Mash Up",
-      "url": "https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb"
-    },
-    {
-      "added_at": "2025-07-24 23:00:30",
-      "album": {
         "name": "When I'm With U",
         "url": "https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 287818,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "Mash Up",
+        "url": "https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "duration_ms": 185720,
+      "name": "Mash Up",
+      "url": "https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -1299,18 +1299,26 @@
     {
       "added_at": "2025-07-24 23:00:30",
       "album": {
-        "name": "Speedy Sax",
-        "url": "https://open.spotify.com/album/6QfzkEhE46wIat9LSbldk1"
+        "name": "Badman Control",
+        "url": "https://open.spotify.com/album/3R9SndcM89m7kAcIOlv54O"
       },
       "artists": [
         {
-          "name": "Ken Spieker",
-          "url": "https://open.spotify.com/artist/1hFWjKEaPnMKiM73jlEIt2"
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "ATW",
+          "url": "https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6"
         }
       ],
-      "duration_ms": 217391,
-      "name": "Speedy Sax",
-      "url": "https://open.spotify.com/track/5iwr0fsr4BV2sDep67lMaT"
+      "duration_ms": 214730,
+      "name": "Badman Control",
+      "url": "https://open.spotify.com/track/4NmbdhxOHSryHgqMYxLpEs"
     }
   ],
   "unique_name": "New UK Garage",

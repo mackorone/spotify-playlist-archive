@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 153756,
+  "num_followers": 153780,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Rain Healing",
-        "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
-      },
-      "artists": [
-        {
-          "name": "Heal Your Soul",
-          "url": "https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Rain Healing",
-      "url": "https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
         "name": "Noise Of The Forest",
         "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 138000,
       "name": "Noise Of The Forest",
       "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
+        "name": "Rain Healing",
+        "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
+      },
+      "artists": [
+        {
+          "name": "Heal Your Soul",
+          "url": "https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Rain Healing",
+      "url": "https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq"
     },
     {
       "added_at": "2025-02-18 15:28:48",

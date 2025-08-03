@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19120,
+  "num_followers": 19123,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
         "name": "TN's",
         "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 196267,
       "name": "TN's",
       "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -439,6 +439,26 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
+        "name": "Ready To Ride",
+        "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
+      },
+      "artists": [
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        },
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Ready To Ride",
+      "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
-        "name": "Ready To Ride",
-        "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
-      },
-      "artists": [
-        {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        },
-        {
-          "name": "Te Wehi",
-          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Ready To Ride",
-      "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
         "name": "Blister",
         "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 211814,
       "name": "Clean",
       "url": "https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -735,18 +735,18 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+        "name": "Russian Roulette",
+        "url": "https://open.spotify.com/album/1D0knXchRfzVXkQWc6fSZs"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
+      "duration_ms": 279746,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/15FlGj5TdFqPgKFwEnKDOm"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -767,22 +767,18 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Holding Your Hand",
-        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
       },
       "artists": [
         {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 152603,
-      "name": "Holding Your Hand",
-      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -803,18 +799,22 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Russian Roulette",
-        "url": "https://open.spotify.com/album/1D0knXchRfzVXkQWc6fSZs"
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
       },
       "artists": [
         {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 279746,
-      "name": "Russian Roulette",
-      "url": "https://open.spotify.com/track/15FlGj5TdFqPgKFwEnKDOm"
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "The Drip",
-        "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
-      },
-      "artists": [
-        {
-          "name": "Body Ocean",
-          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "What Would It Profit",
-      "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
         "name": "L.A.B VI",
         "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
+        "name": "The Drip",
+        "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
+      },
+      "artists": [
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "What Would It Profit",
+      "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Bashville on the Sugar",
-        "url": "https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Bashville on the Sugar",
-      "url": "https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 170691,
       "name": "Maumahara Noa Ahau",
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
+        "name": "Bashville on the Sugar",
+        "url": "https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Bashville on the Sugar",
+      "url": "https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Toogood",
+          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
+        }
+      ],
+      "duration_ms": 214624,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
         "name": "Crazy Dream (Edit)",
         "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 107232,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
-      },
-      "artists": [
-        {
-          "name": "Jon Toogood",
-          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
-        }
-      ],
-      "duration_ms": 214624,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
     },
     {
       "added_at": "2025-07-24 14:00:12",

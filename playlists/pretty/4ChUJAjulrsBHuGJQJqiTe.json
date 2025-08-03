@@ -7,7 +7,328 @@
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
   "snapshot_id": "AAAAIpS0TEimahT4teuEHgoBk4/nKaCa",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2023-03-03 08:45:09",
+      "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "Amy aka Spent Gladiator 1",
+      "url": "https://open.spotify.com/track/3cjLFY0mLXqBXsnqNhvKH9"
+    },
+    {
+      "added_at": "2023-03-05 08:47:58",
+      "album": {
+        "name": "16 / 04 / 16",
+        "url": "https://open.spotify.com/album/7zJknj1MoTb25pk1dplN1m"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 258012,
+      "name": "16 /04 / 16 (Jack\u2019s Song)",
+      "url": "https://open.spotify.com/track/2a3TuWJcF21zXHgPHNSdn9"
+    },
+    {
+      "added_at": "2023-03-21 04:13:56",
+      "album": {
+        "name": "Welcome To The Madhouse (Deluxe)",
+        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 223619,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/00dPDZGBvNHhkbQSDV11os"
+    },
+    {
+      "added_at": "2023-03-21 00:05:51",
+      "album": {
+        "name": "In League with Dragons",
+        "url": "https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Going Invisible 2",
+      "url": "https://open.spotify.com/track/1SQ0UkdEsFqABIPqMfYCB4"
+    },
+    {
+      "added_at": "2023-03-08 12:24:56",
+      "album": {
+        "name": "Animal Kingdom: Jackson",
+        "url": "https://open.spotify.com/album/7f1gs84I839Rth0WNdGhz1"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 335101,
+      "name": "Hug All Ur Friends",
+      "url": "https://open.spotify.com/track/7gbFUfnFWyhSRwkdy4fFrS"
+    },
+    {
+      "added_at": "2023-03-21 04:37:05",
+      "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 227746,
+      "name": "Through Me (The Flood)",
+      "url": "https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV"
+    },
+    {
+      "added_at": "2023-03-23 04:51:03",
+      "album": {
+        "name": "The Life Of The World To Come",
+        "url": "https://open.spotify.com/album/1MxD6tOa9FMBKpQYLnUUYS"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 350226,
+      "name": "Matthew 25:21",
+      "url": "https://open.spotify.com/track/4TkrknkID0VW1dq0P91xnf"
+    },
+    {
+      "added_at": "2023-03-23 05:25:21",
+      "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/7l2lKqa3E3oTrF3y6rHAzJ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 238093,
+      "name": "Lakeside View Apartments Suite",
+      "url": "https://open.spotify.com/track/5Y7kurWaiHa8xqqF7NYI9t"
+    },
+    {
+      "added_at": "2023-03-27 08:32:23",
+      "album": {
+        "name": "Welcome To The Madhouse (Deluxe)",
+        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 194531,
+      "name": "Sad Songs",
+      "url": "https://open.spotify.com/track/6spFAE12J5kM51cKEzsgmF"
+    },
+    {
+      "added_at": "2023-06-09 01:56:26",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 224743,
+      "name": "You Said You'd Grow Old With Me",
+      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
+    },
+    {
+      "added_at": "2023-07-03 13:14:00",
+      "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 384453,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/7rFN0DhIFPjAWG1EaHO2F0"
+    },
+    {
+      "added_at": "2023-07-03 13:20:38",
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "You Want It Darker",
+      "url": "https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn"
+    },
+    {
+      "added_at": "2023-10-30 14:19:07",
+      "album": {
+        "name": "Jenny from Thebes",
+        "url": "https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Jenny III",
+      "url": "https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb"
+    },
+    {
+      "added_at": "2024-10-03 11:02:26",
+      "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Cowboy Tears",
+      "url": "https://open.spotify.com/track/70XhaWZd0PsZgpEgqJhUgG"
+    },
+    {
+      "added_at": "2024-10-31 08:31:08",
+      "album": {
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Grenade Jumper",
+      "url": "https://open.spotify.com/track/3jsNPTt6LUyB2srOcZaq47"
+    },
+    {
+      "added_at": "2024-11-05 13:53:35",
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
+    },
+    {
+      "added_at": "2024-11-10 03:16:10",
+      "album": {
+        "name": "New Asian Cinema",
+        "url": "https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 151189,
+      "name": "Korean Bird Paintings",
+      "url": "https://open.spotify.com/track/1ZPiuKIHn9ECc147svdvuR"
+    },
+    {
+      "added_at": "2024-11-10 05:32:11",
+      "album": {
+        "name": "Jam Eater Blues",
+        "url": "https://open.spotify.com/album/50BmgetAf64rSs8oFunijs"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 140116,
+      "name": "Store",
+      "url": "https://open.spotify.com/track/4mlPWNXldFV7EgH2heTuM5"
+    },
+    {
+      "added_at": "2024-12-13 03:40:10",
+      "album": {
+        "name": "Get Lonely",
+        "url": "https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Maybe Sprout Wings",
+      "url": "https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW"
+    },
+    {
+      "added_at": "2025-04-28 20:40:06",
+      "album": {
+        "name": "Jenny from Thebes",
+        "url": "https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 282800,
+      "name": "Fresh Tattoo",
+      "url": "https://open.spotify.com/track/6mjZGEbwJuT0ACECrF8HFF"
+    }
+  ],
   "unique_name": "I miss you",
   "url": "https://open.spotify.com/playlist/4ChUJAjulrsBHuGJQJqiTe"
 }

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Émile Bilodeau
 
-3,435 songs - 7 day 13 hr 31 min
+3,436 songs - 7 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
 | [confettis \(hey ho hey\)](https://open.spotify.com/track/6XqNQEPsnrRESrG75HJgDt) | [Fovelle](https://open.spotify.com/artist/6LoMfV6BitdhcaKkme41PS), [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s), [TDH](https://open.spotify.com/artist/1pFYAdXD5dgTdJBa68uHfq) | [confettis \(hey ho hey\)](https://open.spotify.com/album/0Iil8DzHWziaanaWishAv5) | 2:16 | 2024-06-07 | 2024-06-15 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 | 2024-07-06 |
+| [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 | 2025-08-01 |  |
 | [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 | 2025-07-18 |  |
 | [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 | 2024-02-04 |
 | [Conscious Rapper](https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Conscious Rapper](https://open.spotify.com/album/4D0XzP2BdjFmTBXRZWOXce) | 3:34 | 2024-06-14 | 2024-06-29 |
@@ -3121,7 +3122,7 @@
 | [Tout y est](https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Jozii](https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d) | [Tout y est](https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU) | 2:47 | 2024-07-12 | 2024-09-21 |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-02-25 |
 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 | 2023-02-03 | 2023-02-18 |
-| [Toute première fois](https://open.spotify.com/track/1wrQRszAyr6cP8mj8PLQLS) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Toute première fois](https://open.spotify.com/album/4MaY6euKQwdKVyj3LTFJdY) | 3:11 | 2025-07-25 |  |
+| [Toute première fois](https://open.spotify.com/track/1wrQRszAyr6cP8mj8PLQLS) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Toute première fois](https://open.spotify.com/album/4MaY6euKQwdKVyj3LTFJdY) | 3:11 | 2025-07-25 | 2025-08-03 |
 | [Toutes les filles sont belles](https://open.spotify.com/track/1ZliLkP38q7adhN8UdMGHX) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Toutes les filles sont belles](https://open.spotify.com/album/4kNKsBAE1sWjUbf4jarGVV) | 3:29 | 2022-07-22 | 2022-08-20 |
 | [Toutes tes idoles](https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Toutes tes idoles](https://open.spotify.com/album/0qpHQfFDCT0OU5adY5SfB2) | 3:53 | 2024-11-22 | 2024-11-30 |
 | [Toxic](https://open.spotify.com/track/18DQCUGYEvzGcCy50phQn7) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Toxic](https://open.spotify.com/album/3pG1YMOWFmGdvWt8KTGBqO) | 2:38 | 2023-01-06 | 2023-01-21 |

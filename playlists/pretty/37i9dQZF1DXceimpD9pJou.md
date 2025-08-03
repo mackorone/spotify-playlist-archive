@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: TOMATULUGAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,959 likes - 99 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,011 likes - 99 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 6 | [Gloria a Cristo el Señor \- en vivo desde Monterrey](https://open.spotify.com/track/3C2HWcbzdd3RJWyuldkgAM) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Gloria a Cristo el Señor \(en vivo desde Monterrey\)](https://open.spotify.com/album/6vuf1K1SIMbYGx5DsQ5rWP) | 5:05 |
 | 7 | [El Dios De Mi Vida](https://open.spotify.com/track/4lOBd2LbNN0HNoqmvbCbx7) | [Chanel Novas](https://open.spotify.com/artist/359NLJX4VHDyNLBfybI0Uz) | [Lázaro](https://open.spotify.com/album/7373YLcnfoECjw4qmhX3cm) | 7:01 |
 | 8 | [Porque Grande Es](https://open.spotify.com/track/6CbQxiFFGH9Vrzi775qi0z) | [Billy Bunster](https://open.spotify.com/artist/4lB2TSTALeQLZiwak6fKHX) | [Porque Grande Es](https://open.spotify.com/album/13djx236oEc0KaOX8o15KW) | 5:10 |
-| 9 | [Momentos de Adoración](https://open.spotify.com/track/2JpAWZ8yimPVlo0TJN5wax) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Momentos de Adoración](https://open.spotify.com/album/1Cpk94pg08IyUxMBlIm0Px) | 25:05 |
+| 9 | [Momentos de Adoración \- En Vivo](https://open.spotify.com/track/2JpAWZ8yimPVlo0TJN5wax) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Momentos de Adoración \(En Vivo\)](https://open.spotify.com/album/1Cpk94pg08IyUxMBlIm0Px) | 25:00 |
 | 10 | [Él Está Aquí](https://open.spotify.com/track/4EabNLm20lusvgnrgksH7M) | [Priscila Matiesco](https://open.spotify.com/artist/1wdCbEqpZ64lJTjXbqnD8M), [Selah Worship](https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA), [La Catedral](https://open.spotify.com/artist/028xpD94ojZ0WraOcCTkEe), [Brian Orellana](https://open.spotify.com/artist/3quJe8K2N4s5S3uxzyXrDP) | [Él Está Aquí](https://open.spotify.com/album/5pGHgOVlqjhqjXE9hymicj) | 6:35 |
 | 11 | [Me Entrego](https://open.spotify.com/track/4f0nhCWtRUGMimJQTzp5w2) | [Casa de Dios Música](https://open.spotify.com/artist/0OdkD953bIc3208eVmoweb) | [Me Entrego](https://open.spotify.com/album/1YEWDfSnegouDsG6p4HHOw) | 4:28 |
 | 12 | [Buenas Vibras](https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7) | [Germán Barceló](https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ) | [Buenas Vibras](https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9) | 3:08 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Rey](https://open.spotify.com/track/0F0avlMQwKBXvZVc9gAoQx) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Rey](https://open.spotify.com/album/3kaYlsVPR6trh6wl6aERVE) | 6:10 |
 | 99 | [Mañana Me Irá Mejor](https://open.spotify.com/track/7wJPvSDJEp4nf3b6IPGukM) | [Yamilka](https://open.spotify.com/artist/0fpgHrtIeF5g66x4zeI4S0) | [Mañana Me Irá Mejor](https://open.spotify.com/album/6jr5cCq6ds9xVRtfVEo2IE) | 4:27 |
 
-Snapshot ID: `AAAAAKmGkw3ZLUBCnH8xd/PQzbpjJMHz`
+Snapshot ID: `aIyyEAAAAAAcJ6XbpH6FCnR4YJnyl7SS`

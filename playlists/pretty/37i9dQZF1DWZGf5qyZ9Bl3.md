@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 
 > chill piano melodies and cozy lofi beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,625 likes - 100 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,638 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 99 | [waltz up](https://open.spotify.com/track/2GmmbiHk0cTtEPI2cuhVx5) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [waltz up](https://open.spotify.com/album/1VYd7kvw4MMt9VxOYAeEBl) | 2:24 |
 | 100 | [night impressionism](https://open.spotify.com/track/6h0CAChkoKd7DiyDy0ApZy) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [night impressionism](https://open.spotify.com/album/0qwW7iPELLdDGTmYcTlk5C) | 2:11 |
 
-Snapshot ID: `AAAAANEuyIq5Jt1wNgueBXFNzfNtrmLX`
+Snapshot ID: `aIJI+gAAAAC/i/Fl34oWfWHe9VwaiGLt`

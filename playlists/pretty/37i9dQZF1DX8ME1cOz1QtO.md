@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,330 likes - 100 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,361 likes - 100 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 26 | [Meditation No\. 1](https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 18:47 |
 | 27 | [Midnight On Mars](https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:56 |
 | 28 | [Wolkenreise \- 2012 Remastered Version](https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc) | [Eroc](https://open.spotify.com/artist/7cRkblZrsjG5oxg9JKwZC4) | [Wolkenreise II](https://open.spotify.com/album/0z4VCxSxe0oe5o4Zbz0RqM) | 4:32 |
-| 29 | [To Drift Like Clouds](https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Music For Zen Meditation And Other Joys](https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp) | 1:36 |
-| 30 | [Movements Of A Visionary \- Remastered 2018](https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 7:57 |
+| 29 | [Movements Of A Visionary \- Remastered 2018](https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 7:57 |
+| 30 | [To Drift Like Clouds](https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Music For Zen Meditation And Other Joys](https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp) | 1:36 |
 | 31 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 | 32 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
 | 33 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 44 | [Dion Blue](https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS) | [Tim Weisberg](https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v) | [Best Of Tim Weisberg: Smile!](https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox) | 3:29 |
 | 45 | [Hergest Ridge: Part One \- 2010 Stereo Mix](https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Hergest Ridge \(Deluxe Edition\)](https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG) | 19:21 |
 | 46 | [Canyon Sunrise](https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Jonathan Kramer](https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO) | [Desert Dawn Song](https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW) | 8:32 |
-| 47 | [Zen Garden of the Soul Part III \- IV](https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 6:22 |
-| 48 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
-| 49 | [Stained\-Glass Morning](https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 1:54 |
-| 50 | [The Fifth Wave \- Water Lullaby](https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:47 |
+| 47 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
+| 48 | [Zen Garden of the Soul Part III \- IV](https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 6:22 |
+| 49 | [The Fifth Wave \- Water Lullaby](https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:47 |
+| 50 | [Stained\-Glass Morning](https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 1:54 |
 | 51 | [Alchemy](https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Sands of Time: Selected Studio & Concert Recordings 1974\-1990](https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI) | 7:35 |
 | 52 | [The Mermaid](https://open.spotify.com/track/121rsnNOWZusu5fTGCb1XY) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Out Of Silence](https://open.spotify.com/album/0G37K8IC27QEk9lNPjHjJz) | 3:47 |
 | 53 | [Stepping Stars](https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Valley In The Clouds](https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S) | 3:45 |

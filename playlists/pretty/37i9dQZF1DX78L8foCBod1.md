@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,722 likes - 129 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,721 likes - 129 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 104 | [BELONG](https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [BELONG](https://open.spotify.com/album/7gkbhbpygQvDvGYekPOWNX) | 3:50 |
 | 105 | [Inferno](https://open.spotify.com/track/1haosXb8XNSXWBuNirom1g) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/69VJ66DL7INzABSeI90Ufh) | 3:54 |
 | 106 | [narrative](https://open.spotify.com/track/3iaUOZm0Hfycs8xFBy7dmZ) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 4:20 |
-| 107 | [The Reluctant Heroes](https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [MPI](https://open.spotify.com/artist/39SnON5tzXGfF0wkKJEMK3) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:27 |
+| 107 | [The Reluctant Heroes](https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/1tpOWWj05FyhBx69jj5lM5) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:27 |
 | 108 | [REMIND YOU](https://open.spotify.com/track/28lfGtjQI5KYTRXxxzsu2t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [機動戦士ガンダムUC オリジナルサウンドトラック 2](https://open.spotify.com/album/7gd542CJnlwAYiTJvpvynh) | 4:56 |
 | 109 | [UNICORN](https://open.spotify.com/track/3YbioJ807KAVVzY3NFdpF5) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダムUC オリジナルサウンドトラック 1](https://open.spotify.com/album/356HeuMTwxtzeeIREkfJTo) | 4:46 |
 | 110 | [Vigilante](https://open.spotify.com/track/2Hke7HBRTa9rlbSN2gUKNB) | [mpi & Gemie](https://open.spotify.com/artist/23YITgz9JtLap171zsjibc) | [Vigilante](https://open.spotify.com/album/26lu87DIn5RzIAtVDNtvaP) | 3:45 |

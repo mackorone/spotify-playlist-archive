@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Loud
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,924 likes - 74 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,925 likes - 74 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [Nouveau Chapitre](https://open.spotify.com/track/6DobGjLzrEevifya8rWxIl) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Nouveau Chapitre](https://open.spotify.com/album/1Djf3JZKEMTRnfCXYH7lGR) | 3:53 |
 | 74 | [Mean mug](https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5) | [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [1001 Nuits](https://open.spotify.com/album/4VIP3RkEK6Yb9sjonaRYWA) | 4:16 |
 
-Snapshot ID: `AAAAAM8Xrp23i5AfPqZyq3he1bduqwa+`
+Snapshot ID: `aIw73QAAAAAo7a5qGeJnAOY5NMfbiwuL`

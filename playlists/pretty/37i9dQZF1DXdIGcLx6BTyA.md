@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,669 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,694 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 75 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 |
 | 76 | [Spud Infinity](https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 5:34 |
 | 77 | [Night Rider](https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow) | 3:18 |
-| 78 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 |
-| 79 | [Loretta](https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Loretta](https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9) | 2:28 |
+| 78 | [Loretta](https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Loretta](https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9) | 2:28 |
+| 79 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 |
 | 80 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 
 Snapshot ID: `aGdR0gAAAAAP+ehRFsSKA4Pd3iMcQBAJ`

@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 317557,
+  "num_followers": 317588,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Mitsuko",
+        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "duration_ms": 129078,
+      "name": "Mitsuko",
+      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "DOWN (feat. Malevolence)",
         "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 234549,
       "name": "DOWN (Feat. Malevolence)",
       "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Mitsuko",
-        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
-      },
-      "artists": [
-        {
-          "name": "Lake Malice",
-          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
-        }
-      ],
-      "duration_ms": 129078,
-      "name": "Mitsuko",
-      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "FUCK WITH A WITCH 2",
-        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
       "artists": [
         {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
         }
       ],
-      "duration_ms": 90491,
-      "name": "FUCK WITH A WITCH 2",
-      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+      "duration_ms": 249979,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Telescope",
-        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
+        "name": "FUCK WITH A WITCH 2",
+        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
       },
       "artists": [
         {
-          "name": "Tallah",
-          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
         }
       ],
-      "duration_ms": 249979,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+      "duration_ms": 90491,
+      "name": "FUCK WITH A WITCH 2",
+      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fuck What You Heard",
-        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Fuck What You Heard",
-      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Touch the Corpse",
         "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 166948,
       "name": "Touch the Corpse",
       "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Fuck What You Heard",
+        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Fuck What You Heard",
+      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Machine Violence",
-        "url": "https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP"
-      },
-      "artists": [
-        {
-          "name": "Realize",
-          "url": "https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Alone Against Flames",
-      "url": "https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "The Angel of History",
         "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 213688,
       "name": "Dante's Inspiration",
       "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Machine Violence",
+        "url": "https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP"
+      },
+      "artists": [
+        {
+          "name": "Realize",
+          "url": "https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Alone Against Flames",
+      "url": "https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo"
     },
     {
       "added_at": "2024-07-19 10:51:43",

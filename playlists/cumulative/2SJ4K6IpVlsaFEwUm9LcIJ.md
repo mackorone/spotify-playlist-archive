@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-672 songs - 1 day 15 hr 16 min
+673 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 | 2024-05-16 | 2024-07-12 |
 | [Surfboard](https://open.spotify.com/track/61APOtq25SCMuK0V5w2Kgp) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [The Genius of Esquivel](https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj) | 2:56 | 2025-06-15 | 2025-07-04 |
 | [Swallows Wings](https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 3:10 | 2024-11-21 | 2025-01-12 |
+| [tailspin](https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs), [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 3:38 | 2025-08-02 |  |
 | [Take Refuge](https://open.spotify.com/track/16PM5R7DFzNFaCyIrTIVCq) | [Webster Harrod](https://open.spotify.com/artist/7yleLfgpIXZy8KptsfpbTr) | [Keep Breathing](https://open.spotify.com/album/6O3JyH7T2a51bIWAE3ZI4x) | 1:58 | 2024-06-24 | 2024-07-01 |
 | [Talking Fishing Blues](https://open.spotify.com/track/5uRZQacQqmhdRwoAMbYnlW) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Land is Your Land: The Asch Recordings, Vol\. 1](https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt) | 3:06 | 2025-02-21 | 2025-03-02 |
 | [Tape 27 Track 5](https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [The Electronic Tapes \(Habibi Funk 005\)](https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J) | 1:38 | 2024-01-08 | 2024-03-10 |

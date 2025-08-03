@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 235092,
       "name": "ANYTHING > HUMAN",
       "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
@@ -5811,6 +5811,24 @@
     },
     {
       "album": {
+        "name": "Children of the Grave",
+        "url": "https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287780,
+      "name": "Children of the Grave",
+      "url": "https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd"
+    },
+    {
+      "album": {
         "name": "Christmas Isn\u2019t Christmas",
         "url": "https://open.spotify.com/album/1bSjH8cgr3IIYCbNInKqt6"
       },
@@ -9096,7 +9114,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 200010,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
@@ -13538,6 +13556,28 @@
       "duration_ms": 195280,
       "name": "If You're Blue",
       "url": "https://open.spotify.com/track/0GcYrixlyRkIVsR0IczzDP"
+    },
+    {
+      "album": {
+        "name": "GRIZZLY",
+        "url": "https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        },
+        {
+          "name": "Ronnie Radke",
+          "url": "https://open.spotify.com/artist/6fZEAUcjlTdVh66xQodmth"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229982,
+      "name": "Imdead",
+      "url": "https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn"
     },
     {
       "album": {

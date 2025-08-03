@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Escarlata
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,627 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,652 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 29 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 30 | [Casi algo](https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Casi algo](https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY) | 2:45 |
 | 31 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
-| 32 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
-| 33 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
+| 32 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
+| 33 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
 | 34 | [Déjame Conocerte](https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Déjame Conocerte](https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2) | 3:37 |
 | 35 | [tu amor me da paz](https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [tu amor me da paz](https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN) | 3:15 |
 | 36 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |

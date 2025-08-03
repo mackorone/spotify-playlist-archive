@@ -1,13 +1,942 @@
 {
   "description": "",
-  "num_followers": 2821,
+  "num_followers": 2818,
   "original_name": "Top Tracks in Popculture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAABW2MaMhPFmnW8RrCICbvjAJQ4yOV",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Rewind the Film",
+        "url": "https://open.spotify.com/album/2BnILbb4wJR2qp9qZbSUDr"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "This Sullen Welsh Heart (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/7ynvXCLdbzFfeOsyx2URX9"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/1DmdXg5mmFOvlRvHYPjRU8"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "Unchained (The Payback / Untouchable)",
+      "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "Brother Dege",
+          "url": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Too Old To Die Young",
+      "url": "https://open.spotify.com/track/43JngJ3vMsaTL8SiRwEYQp"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
+      },
+      "artists": [
+        {
+          "name": "Santa Esmeralda",
+          "url": "https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS"
+        }
+      ],
+      "duration_ms": 628546,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Quentin Tarantino's Inglourious Basterds (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4bjjJu3euJ6tVIeobbhwRO"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Cat People (Putting Out The Fire)",
+      "url": "https://open.spotify.com/track/6HXvGhmrsMEZ9AxD1Vjejz"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Surfer's Choice",
+        "url": "https://open.spotify.com/album/4VhkkcKpV1ObX5OXrBNY7f"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "duration_ms": 135426,
+      "name": "Miserlou",
+      "url": "https://open.spotify.com/track/1MLUxFwS1d4eY0JWIEkn4X"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "The Silver Collection",
+        "url": "https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 146626,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2Q5rvrn3qR5HpLlvz3fcOy"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "John Williams Conducts The Star Wars Trilogy",
+        "url": "https://open.spotify.com/album/5R8j8Y0vi297HrnHQhymkB"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Skywalker Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4RthKPF9IkyJJIGdXyN48C"
+        }
+      ],
+      "duration_ms": 350333,
+      "name": "Star Wars, Episode IV \"A New Hope\": Main Theme",
+      "url": "https://open.spotify.com/track/2o660Ri2wTg7Rv6cKbFBCe"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Mission Impossible",
+        "url": "https://open.spotify.com/album/3iORrfqq2iex2Fh0axmW1N"
+      },
+      "artists": [
+        {
+          "name": "Mission Impossible",
+          "url": "https://open.spotify.com/artist/2ZViqkMuOqaHstf6Ffef9A"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Mission Impossible",
+      "url": "https://open.spotify.com/track/3Kf0ZYgeknOzJFxK4krGhk"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Saturday Night Fever [The Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 285373,
+      "name": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
+      "url": "https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Ghost - The Musical",
+        "url": "https://open.spotify.com/album/0KUHaO8OBXXvyrag5kxdF5"
+      },
+      "artists": [
+        {
+          "name": "Original Cast Recording",
+          "url": "https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1Y49gqQSerc9xxdxAvvySE"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Nothing But The Best [The Frank Sinatra Collection]",
+        "url": "https://open.spotify.com/album/48ijda2pd3B1CcrqN9sgdV"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Theme From New York, New York - Remastered ) [The Frank Sinatra Collection]",
+      "url": "https://open.spotify.com/track/4bBgZTIRQ2PHonaRwnn3jf"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Shaft",
+        "url": "https://open.spotify.com/album/2KIGwFJHrXcyK0VUb5FH9m"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Theme From \"Shaft\"",
+      "url": "https://open.spotify.com/track/2tqxkJtkbik8o0b3vsSEl5"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Flashdance\u2026 What a Feeling - EP",
+        "url": "https://open.spotify.com/album/6q5JAUaGNy7jkAMhWygnUj"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Flashdance\u2026 What A Feeling",
+      "url": "https://open.spotify.com/track/44SLjUsOa1ChiuKlIsUmDP"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Street Life",
+      "url": "https://open.spotify.com/track/4CWUGKyUi4aJOq7tF6HAIF"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Tarantino Fiction",
+        "url": "https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ"
+      },
+      "artists": [
+        {
+          "name": "Kim Circle",
+          "url": "https://open.spotify.com/artist/5MtxtrfQgi9vKBMtE1oWCr"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/6zHTQ3QaQSsQSLEtZzh377"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 394133,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "'80s Pop Hits",
+        "url": "https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/1KjqybxJeKMlq1h5s6YhIt"
+    },
+    {
+      "added_at": "2013-11-15 14:45:02",
+      "album": {
+        "name": "Grease",
+        "url": "https://open.spotify.com/album/3ku54lKW19XjXwhNkNdtzZ"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 216906,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/0ej0YkMM8E0WOWuWVZliDh"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Cool Like Me",
+        "url": "https://open.spotify.com/album/1wAxNLK7pptfG10KgWet1W"
+      },
+      "artists": [
+        {
+          "name": "Fryars",
+          "url": "https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg"
+        }
+      ],
+      "duration_ms": 218309,
+      "name": "Cool Like Me",
+      "url": "https://open.spotify.com/track/1B7EckTNMf3hvyjT8KE5h2"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Breakfast Can Wait",
+        "url": "https://open.spotify.com/album/01aD66T31ZdM6g5MeUrXC6"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Breakfast Can Wait",
+      "url": "https://open.spotify.com/track/61lFyRVNu2vvuZ2y8B4feb"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Now That's What I Call Disney",
+        "url": "https://open.spotify.com/album/0SwQJLUagWInm8VT0UgvZL"
+      },
+      "artists": [
+        {
+          "name": "Carmen Twillie",
+          "url": "https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "duration_ms": 239253,
+      "name": "Circle of Life - From Disney's ''The Lion King''",
+      "url": "https://open.spotify.com/track/5PgJrleszhpuuN0MPq7vrC"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Blazing I",
+        "url": "https://open.spotify.com/album/6SrO4ddUxiGYOTI2qjZouD"
+      },
+      "artists": [
+        {
+          "name": "Jenny Wilson",
+          "url": "https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB"
+        }
+      ],
+      "duration_ms": 305240,
+      "name": "Anchor Made of Gold",
+      "url": "https://open.spotify.com/track/7HIJv1nlyZtA0ph0WJAsOk"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Smallpools",
+        "url": "https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ayah Marar",
+          "url": "https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Thinking About You (feat. Ayah Marar)",
+      "url": "https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 254620,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/5WSdMcWTKRdN1QYVJHJWxz"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/7vmj3wjJP4KsxqH6OPooNX"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245893,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/1O8ZOGQ36pRr6nCVKpNuoB"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 173158,
+      "name": "Hol' Up",
+      "url": "https://open.spotify.com/track/5DO1SazQppcsKQ1c1JpyQz"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "The Little Mermaid Greatest Hits",
+        "url": "https://open.spotify.com/album/3fEvkXjnmWNotOWFrhnVjP"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Under the Sea - From \"The Little Mermaid\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/6WXF2wCb3yeTuoGFyP7U5C"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Settle",
+        "url": "https://open.spotify.com/album/1bEnTsCvG4FPW7NpIEC5Zc"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 244174,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/2xLjUu171Bw57kMNBwzE2R"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/5KxQUt6p9DgJdKDFmd5YzK"
+      },
+      "artists": [
+        {
+          "name": "Karin Str\u00f6m",
+          "url": "https://open.spotify.com/artist/3t0URaMuSBsAWB1hdBOjvj"
+        }
+      ],
+      "duration_ms": 314880,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/6KiFw7ycVlAax3C1ELOQrm"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Safe And Sound",
+        "url": "https://open.spotify.com/album/5iXfZywYLQWeUjoLr3Oy5J"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/2Oj5BXOY01EDuJhVYNlEoq"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Brains Out",
+        "url": "https://open.spotify.com/album/1iTIERVCYuOfCalYZ9A2D5"
+      },
+      "artists": [
+        {
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
+        }
+      ],
+      "duration_ms": 229746,
+      "name": "Brains Out",
+      "url": "https://open.spotify.com/track/2581vQ3UzUjSiR52ONCRWi"
+    },
+    {
+      "added_at": "2013-09-30 09:26:59",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/4mqvYNI8QwJ7pZQFe8SC8G"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6TEcefDal90uAMxeNJeuAM"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "C O O L",
+        "url": "https://open.spotify.com/album/1rOch2rJkCzdRUdGql31Hv"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "C O O L - Radio Edit",
+      "url": "https://open.spotify.com/track/4L0HMiE70JyFSfOsnoHGbj"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/37qAVEAZSyRTVFvVRHcwOa"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4QRZirU4s1f30iDHzuKncj"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Hold On, We're Going Home",
+        "url": "https://open.spotify.com/album/1YR2S3aFmpPbGlH3hXc5Mr"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/2axd59iRySNyY8JlmHcmFn"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "You Make Me",
+        "url": "https://open.spotify.com/album/3gv00Ai9Ddr1NLGx24LTg6"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 232924,
+      "name": "You Make Me",
+      "url": "https://open.spotify.com/track/1KRH1AhRdmYh0OTZa5QAqn"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Coming On Strong",
+        "url": "https://open.spotify.com/album/6sl8LmZPOiR7HkqU2S9Zbt"
+      },
+      "artists": [
+        {
+          "name": "Lisa Miskovsky",
+          "url": "https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/5ABGibV2V7K9TY9eVbrNLL"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Royals",
+        "url": "https://open.spotify.com/album/03obw2gfIvQh3i65dUwslM"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/5YNFRKdTj5JG18ZWNDPDnD"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Take Back the Night",
+        "url": "https://open.spotify.com/album/2vDfuLrMno6wOMI5afl7Xo"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 354986,
+      "name": "Take Back the Night",
+      "url": "https://open.spotify.com/track/2vmxF4cWxi9v9Lv055SfXt"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "You've Got Time",
+        "url": "https://open.spotify.com/album/5QOP3w3rOF5TBYgzjGep5Y"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "You've Got Time",
+      "url": "https://open.spotify.com/track/1vDMGBzqLJWZC5UzePDURw"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 231211,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0xMd5bcWTbyXS7wPrBtZA6"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Girl On Fire",
+        "url": "https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 242693,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/2rMreweJkDadtWMOEv1w67"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/6Qj1WXW41Mn3Fh9V2sHphM"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Went to War",
+        "url": "https://open.spotify.com/album/5z05Vs3nBDQZxMVJiSvyii"
+      },
+      "artists": [
+        {
+          "name": "Amason",
+          "url": "https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN"
+        }
+      ],
+      "duration_ms": 180372,
+      "name": "Went to War - EP Version",
+      "url": "https://open.spotify.com/track/2DlPc5LAoWvKRkSdUNAM5a"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "Right Action",
+      "url": "https://open.spotify.com/track/2LUDnlO2OY57M9DkX2OjHu"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "I Don't Like To Wait",
+        "url": "https://open.spotify.com/album/0xZqahXcsk2hlK1EnL2zMV"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "I Don't Like To Wait",
+      "url": "https://open.spotify.com/track/0dHeDmdJgMEX3XFhB1PHld"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "...Like Clockwork",
+        "url": "https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "I Sat By The Ocean",
+      "url": "https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/2bELFHKEF8yIDHMelNab2p"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/3XSczvk4MRteOw4Yx3lqMU"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "We Can't Stop",
+        "url": "https://open.spotify.com/album/5xx8Jv66fH3T8DD5L985vd"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/5ve0BYRZZ2aoHFqZMxqYgt"
+    },
+    {
+      "added_at": "2013-09-26 11:44:02",
+      "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 258342,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    }
+  ],
   "unique_name": "Top Tracks in Popculture",
   "url": "https://open.spotify.com/playlist/6dvI9YLz5JyXhoUo0eQJze"
 }

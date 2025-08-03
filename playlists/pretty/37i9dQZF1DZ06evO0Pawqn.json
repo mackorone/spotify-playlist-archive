@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABsRoNSXvhdnBnrcaK+MXli",
+  "snapshot_id": "aIwDgAAAAAC/c9qedxAM7Nql9M6jsC/D",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 183614,
-      "name": "Charola de Plata",
-      "url": "https://open.spotify.com/track/5wT6aZvQzOCrESPS34hrXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Mi Reina",
         "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 199836,
       "name": "Extrana Manera",
       "url": "https://open.spotify.com/track/5vhHAeK0rdm95eoJOf5ZPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 183614,
+      "name": "Charola de Plata",
+      "url": "https://open.spotify.com/track/5wT6aZvQzOCrESPS34hrXr"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 157884,
-      "name": "De la Tierra al Cielo",
-      "url": "https://open.spotify.com/track/1z45rHA0VeDLRrvxtG5ORF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Mi Reina",
         "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 210546,
       "name": "Nosotros Tambien Podemos",
       "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 157884,
+      "name": "De la Tierra al Cielo",
+      "url": "https://open.spotify.com/track/1z45rHA0VeDLRrvxtG5ORF"
     },
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De La Tierra Al Cielo",
-        "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
+        "name": "Asomate a Mi Alma",
+        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
       },
       "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 157559,
-      "name": "De La Tierra Al Cielo",
-      "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
+      "duration_ms": 174419,
+      "name": "Te Pido y Te Ruego",
+      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
     },
     {
       "added_at": null,
@@ -679,34 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asomate a Mi Alma",
-        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
+        "name": "De La Tierra Al Cielo",
+        "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
       },
       "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 174419,
-      "name": "Te Pido y Te Ruego",
-      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 196075,
-      "name": "El Libro de los Dioses",
-      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
+      "duration_ms": 157559,
+      "name": "De La Tierra Al Cielo",
+      "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
+      "duration_ms": 196075,
+      "name": "El Libro de los Dioses",
+      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 200150,
       "name": "Para la Reina",
       "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
     },
     {
       "added_at": null,

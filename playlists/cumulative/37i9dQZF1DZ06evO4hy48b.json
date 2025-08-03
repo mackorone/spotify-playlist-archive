@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144950,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1"
+    },
+    {
+      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -230,7 +252,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 146493,
       "name": "Berl\u00edn",
       "url": "https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH"
@@ -736,7 +758,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 203960,
       "name": "Hermosa Casualidad",
       "url": "https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5"

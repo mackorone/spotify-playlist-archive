@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,387 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,544 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 |
 | 50 | [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 |
 
-Snapshot ID: `AAAAAKOixkWz9KOrIj0MmEW8qvon2/o+`
+Snapshot ID: `aIz6mwAAAAA8nGzneBMXMvXYBT1zvQ4x`

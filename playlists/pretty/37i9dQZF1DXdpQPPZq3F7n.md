@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621,922 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,254 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Jugraafiya \- From "Super 30"](https://open.spotify.com/track/3ZaUoURLkQwqU5TXzQ7RbZ) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Super 30 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MMdOgSgDZdhvKWWiM5IMh) | 4:34 |
 | 75 | [Kamle \(From "Raid 2"\)](https://open.spotify.com/track/5VUGcMfS9El8R39tSmBNxo) | [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Kamle \(From "Raid 2"\)](https://open.spotify.com/album/3mUxT8tSMCVWIg6G69ekPq) | 3:52 |
 
-Snapshot ID: `AAAAAMldwSiwVjRx+lmY18H5/zFUVSX7`
+Snapshot ID: `aInOfAAAAAD/wL3g4R4Bqi6+/BwcIp7d`

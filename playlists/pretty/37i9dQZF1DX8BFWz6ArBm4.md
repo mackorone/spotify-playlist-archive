@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Ilias Vrettos
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,130 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,141 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 11 | [Na Peite Sto Paidi](https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Na Peite Sto Paidi](https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl) | 3:47 |
 | 12 | [M' Agapas, S' Agapo](https://open.spotify.com/track/7ENyqcjGvujS8B3v38ANHJ) | [Kelly Kelekidou](https://open.spotify.com/artist/6Q82RybMiymldGwcP6Al2M), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [M' Agapas, S' Agapo](https://open.spotify.com/album/74E5DJve9CnG67u1OyfTVK) | 2:57 |
 | 13 | [Gia Tin Epomeni](https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Diko Mou DNA](https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg) | 2:48 |
-| 14 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 |
+| 14 | [Planitis Gi](https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Planitis Gi](https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK) | 4:07 |
 | 15 | [Ston Evdomo Ourano](https://open.spotify.com/track/44c2xHnmwHeoHOUftBDrLw) | [Lefteris Pantazis](https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q), [Kings](https://open.spotify.com/artist/72zZ87G4L9Lfx0mstygJVE), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Ston Evdomo Ourano](https://open.spotify.com/album/3GxZm9sJKZRhrGlxOCkyH5) | 2:47 |
-| 16 | [Planitis Gi](https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Planitis Gi](https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK) | 4:07 |
+| 16 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 |
 | 17 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
 | 18 | [Mera Nyxta](https://open.spotify.com/track/41EAUp153DEo7fPRzE0FFK) | [Dimos Anastasiadis](https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq) | [Tora Milao Ego](https://open.spotify.com/album/1nGIMaZ5Zwqoh7TUW4U2Mu) | 3:39 |
 | 19 | [Ola Gia Ola](https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Ola Gia Ola](https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo) | 4:41 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 25 | [Ypervoles](https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp) | [Droulias Brothers](https://open.spotify.com/artist/4FMwxdwvIlkoArdXv2ddpL), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ypervoles](https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr) | 2:47 |
 | 26 | [To Viografiko](https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [To Viografiko](https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr) | 3:25 |
 | 27 | [Gyrismos](https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu), [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [Gyrismos](https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp) | 3:32 |
-| 28 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
-| 29 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
+| 28 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
+| 29 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
 | 30 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 |
 | 31 | [Ekptotos Aggelos](https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Ekptotos Aggelos](https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM) | 4:23 |
 | 32 | [Perifanos Aetos](https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Perifanos Aetos](https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1) | 3:48 |

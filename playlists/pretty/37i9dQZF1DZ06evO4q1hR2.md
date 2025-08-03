@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,681 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,754 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [50 y Pico](https://open.spotify.com/track/2hSrqMfABPszeVC8L4UkmN) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [50 y Pico](https://open.spotify.com/album/3NffwOXCg95YitW7ABdZnm) | 2:54 |
 | 50 | [Vida Mafiosa](https://open.spotify.com/track/7y2rMsFIh7wKS6cTwWLSXU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Ley De La Vida](https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg) | 1:58 |
 
-Snapshot ID: `aIqyAAAAAACi32g3bWecmMoYbMXY5ECE`
+Snapshot ID: `aIwDgAAAAAC8I2dGkcrEKppukZTsK9xN`

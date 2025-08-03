@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-349 songs - 23 hr 43 min
+351 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 | 2024-09-27 |  |
 | [Ebezina](https://open.spotify.com/track/1TNbR1efpWjLxGr9ATmHFi) | [Preye](https://open.spotify.com/artist/7sZYy3TvFnDW6ekgqFxE4x) | [My Script](https://open.spotify.com/album/5uM4BWaSOcWdyElItmnZ6v) | 4:33 | 2024-09-30 | 2025-02-07 |
 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 | 2024-09-27 | 2025-02-28 |
+| [El\-Roi \- Live Version](https://open.spotify.com/track/7dWSfWkNhN3n3b61oFt2mE) | [Nnamdi Bonny](https://open.spotify.com/artist/1QlYMSiYIKX34AEVizRAE6), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [El\-Roi](https://open.spotify.com/album/0wZLhZ88ouq5BaoXhEtDGK) | 10:31 | 2025-08-02 |  |
 | [Ema Seun Ni](https://open.spotify.com/track/2AHoIZCFesinwTVfdZ7IZT) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Ema Seun Ni](https://open.spotify.com/album/1is9MoMbx28rDIJGgcY46h) | 1:43 | 2025-01-24 | 2025-03-07 |
 | [Enough](https://open.spotify.com/track/3sTKNrsUuwIQ13DzlN0YR3) | [Char](https://open.spotify.com/artist/15qYBwVZ3s8UjqAOT8rxGf), [Takunda](https://open.spotify.com/artist/6euX8HpygCP19RCkGJbR6p), [Cleo Arie](https://open.spotify.com/artist/3kPnhC2DzfytfKwustsyqK) | [Enough](https://open.spotify.com/album/3nUA8EVKM3iMk21HFcGEQP) | 3:24 | 2025-05-16 | 2025-06-27 |
 | [Esandleni](https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Esandleni](https://open.spotify.com/album/4GG6rS5yCifLj4BpOzkmab) | 5:36 | 2025-01-31 |  |
@@ -313,6 +314,7 @@
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-09-27 |  |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-07-25 |
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
+| [Tuale](https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 5:05 | 2025-08-02 |  |
 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 | 2024-09-27 | 2025-02-28 |
 | [Under Your Wings](https://open.spotify.com/track/1n619z1YF7l8UHDxGvKgxd) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Under Your Wings](https://open.spotify.com/album/7KeRYGXwoVvXtSn2A6avAy) | 3:36 | 2024-12-27 | 2025-02-28 |
 | [Undercover](https://open.spotify.com/track/5cBWaDfCIFEvTnUF73urP6) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44), [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Undercover](https://open.spotify.com/album/6XHM4gKUXfRwPpO1XIRPA5) | 2:30 | 2025-06-27 |  |

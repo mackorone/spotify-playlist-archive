@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Bausa!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,211 likes - 106 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,214 likes - 106 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 17 | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
 | 18 | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS) | 3:28 |
 | 19 | [Heavens Sirens](https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Heavens Sirens](https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn) | 2:56 |
-| 20 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 20 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 21 | [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 |
 | 22 | [37\-VEIEN](https://open.spotify.com/track/6gkl0Qmu475jqpQ9cfbsbd) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [37\-VEIEN](https://open.spotify.com/album/6LeYK7ExGUA0lV920Z7ha9) | 2:12 |
 | 23 | [Is It a Crime](https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Is It a Crime](https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci) | 3:01 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 82 | [Ærlig](https://open.spotify.com/track/4Cp0WEATNEW1lYTAZwiJSS) | [Martin Hazy](https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b), [Angelo Reira](https://open.spotify.com/artist/108MBqDoWGVHCyUNfOj47O), [CHEKK](https://open.spotify.com/artist/4xduwtxS5FUkYJdoeMhoOx), [Spacewave](https://open.spotify.com/artist/03h3gjHBkUp7VK8cAg4Nul) | [Ærlig](https://open.spotify.com/album/1bQJ42gcsxqATeDY4CT7dL) | 2:28 |
 | 83 | [Mellom hei og ha det](https://open.spotify.com/track/1xsWvU13oZWeODzEmrJXrb) | [BLKSTD](https://open.spotify.com/artist/1durHwES7iW4UCtqeGtfFY) | [Mellom hei og ha det](https://open.spotify.com/album/1XS0Py0XlFeXg4gPDH2nVn) | 3:13 |
 | 84 | [Make Truth Dangerous Again](https://open.spotify.com/track/3KekOyqDhOIwrlCl2L386L) | [Polyphonic Exophilia](https://open.spotify.com/artist/7dU9fQzUsugFDChgmPlIs1) | [Make Truth Dangerous Again](https://open.spotify.com/album/5Q8kGHXhlZ3u4Mab96LfDv) | 8:56 |
-| 85 | [CLS \(Wesh\)](https://open.spotify.com/track/0P486mnE1KcrxwCJVU5avn) | [Daniel Obede](https://open.spotify.com/artist/52iOjoWrTb6PywzCQjyKNl), [Samuel Lola](https://open.spotify.com/artist/4zMSpw4meW8Bb3bqbGU0tT), [hanProdusenten](https://open.spotify.com/artist/5xrQE1R4Sf7qR3luNwfelg) | [Kunst..](https://open.spotify.com/album/4NghkC2U2ROnyUwAQWgKk5) | 2:31 |
+| 85 | [CLS \(Wesh\)](https://open.spotify.com/track/0P486mnE1KcrxwCJVU5avn) | [Daniel Obede](https://open.spotify.com/artist/52iOjoWrTb6PywzCQjyKNl), [Samuel Lola](https://open.spotify.com/artist/4zMSpw4meW8Bb3bqbGU0tT), [hanProdusenten](https://open.spotify.com/artist/2ddBLFiNBVcWJU76NuToZU) | [Kunst..](https://open.spotify.com/album/4NghkC2U2ROnyUwAQWgKk5) | 2:31 |
 | 86 | [BLA BLA BLA BLA BLA](https://open.spotify.com/track/0s670d6JDOw7VpfGnKmbvU) | [shahin](https://open.spotify.com/artist/4UahOkDtEAWCb6zhWwxVTf) | [BLA BLA BLA BLA BLA](https://open.spotify.com/album/0CxLPMAJpjvMtF4djufyRw) | 2:33 |
 | 87 | [O O](https://open.spotify.com/track/6d2bNkJNhEpbLi3TdFWIhp) | [odelia tirza](https://open.spotify.com/artist/7N1Qoaz2IKkCXZMe0HQGrp), [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [O O](https://open.spotify.com/album/6MvZgLV71U3OifdqMrtF24) | 3:26 |
 | 88 | [Black Bear](https://open.spotify.com/track/2SPacYHu9nWUVnxnmSEJOI) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Black Bear](https://open.spotify.com/album/3ClE7KHKTRFulaAREMqSbD) | 3:46 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 105 | [Let them be](https://open.spotify.com/track/5RMf7DHsnRyHKMcd2nuIK2) | [Elvic Kongolo](https://open.spotify.com/artist/0IsOtNddzfQdIzRzbumT4q) | [Let them be](https://open.spotify.com/album/5Rw7JA52Xg6LKW3HzLv7EV) | 4:48 |
 | 106 | [Evig lover girl](https://open.spotify.com/track/5NSOqQj1hhuxj6biZx06h9) | [Ingrid Holm Andersen](https://open.spotify.com/artist/3Jc2p3WO7tmqXvymKkcTxS) | [Evig lover girl](https://open.spotify.com/album/7lNhLIJwzUshfOUSxXvLjQ) | 3:15 |
 
-Snapshot ID: `aIyO/wAAAAClAHfKN8RwPZ5jfS99yXBG`
+Snapshot ID: `AAAAAFw5E3CIc/FeqpqJFeLEi8nEJGrY`

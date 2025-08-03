@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
+    },
+    {
+      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },

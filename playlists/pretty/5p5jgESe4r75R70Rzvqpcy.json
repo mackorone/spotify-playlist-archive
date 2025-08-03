@@ -7,7 +7,816 @@
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAABZ3qHByb231byIbWGmdnuJfzV7g+",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1iaIEmZHrjGzWUmJ9BaFr6"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "No End in Sight: The Very Best of Foreigner",
+        "url": "https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "I Want to Know What Love Is - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Rhino Hi-Five: Chaka Khan",
+        "url": "https://open.spotify.com/album/7mA7PWIGtE4IVGJz8YTSHw"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/26vKwxgkbm2jcKyjvmScPK"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "The Very Best of Daryl Hall / John Oates",
+        "url": "https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Shout: The Very Best Of Tears For Fears",
+        "url": "https://open.spotify.com/album/7r4ByJyCnRFjmaobrCagsE"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/76798uYU1DhBRVWxSo1bhY"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "Crazy for You",
+      "url": "https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Rhino Hi-Five: A-Ha",
+        "url": "https://open.spotify.com/album/2nvTm82RzlrbX0yhb7Tsbn"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/1nbMkRhfldXcmCyB83x8lK"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1Mc07d9wxKEWY7hYBLAMII"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 321573,
+      "name": "Everytime You Go Away",
+      "url": "https://open.spotify.com/track/0IpfTMKENGLJcULkMnU8Rb"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "'80s Pop Hits",
+        "url": "https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg"
+      },
+      "artists": [
+        {
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        },
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/6OqvA8eljqHDFTso8szjCe"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "80s Mania",
+        "url": "https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 363933,
+      "name": "We Built This City - Re-Recorded",
+      "url": "https://open.spotify.com/track/0FWRA2sewbJ491kmjRRFw6"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Glittering Prize 81/92",
+        "url": "https://open.spotify.com/album/0HiLSEd3yuvK6ZTN67CZ0V"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/0OzwLNVnzfG43IyQB2RMPH"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Kool & The Gang",
+        "url": "https://open.spotify.com/album/37zC760BSwY1JWNPvSZOik"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/41leurKH9keV9KO7bk83uz"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "St. Elmo's Fire - Music From The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/70P9doc1EAqyb36gRmaPcU"
+      },
+      "artists": [
+        {
+          "name": "John Parr",
+          "url": "https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "St. Elmos Fire (Man in Motion)",
+      "url": "https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Solo Collection",
+        "url": "https://open.spotify.com/album/1YHw7JrXxh3pt6NBVEOuof"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 225506,
+      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
+      "url": "https://open.spotify.com/track/0Ohb2OGQiYWNVPSMprmBtM"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Kids For Peace",
+        "url": "https://open.spotify.com/album/3fQ972YnPPNc84LHpc6Etk"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew",
+          "url": "https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0"
+        }
+      ],
+      "duration_ms": 266680,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/5q1cXPh7A9ir78qeLss5XL"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Shout: The Very Best Of Tears For Fears",
+        "url": "https://open.spotify.com/album/7r4ByJyCnRFjmaobrCagsE"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 391800,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/0wWNbkx0BR4CBJrTjG0sJ4"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/0AXLkDLSHWMTi8O0FHgQhc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/3SP1zxzi8drzJXahGGgdIf"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 237136,
+      "name": "Saving All My Love for You",
+      "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/0ex8ILH2tYYRfoL4ZnZKwB"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0GIOPJKTSxagq3rq07Ch3U"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "The Best Of New Edition 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/2gaBb3t3mZDIjGPeM6Bgtz"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Cool It Now - Single Version",
+      "url": "https://open.spotify.com/track/6uPnJMpmcYw9f8oyQZP4XD"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Escape From Television",
+        "url": "https://open.spotify.com/album/4VXfAG3xDFDkt6OEuBHLqK"
+      },
+      "artists": [
+        {
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Miami Vice Theme",
+      "url": "https://open.spotify.com/track/2lNm3PtNIj5DDZa96edje6"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6O86TIFuVxSpIp0VnO71ZU"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 249973,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/0HlKZzvWf9slQlXoNf6S3B"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+        }
+      ],
+      "duration_ms": 259560,
+      "name": "Lovergirl",
+      "url": "https://open.spotify.com/track/13xKh7WqwxzEFYhYCJJwHg"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Solo Collection",
+        "url": "https://open.spotify.com/album/1YHw7JrXxh3pt6NBVEOuof"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 351906,
+      "name": "You Belong To The City",
+      "url": "https://open.spotify.com/track/26bNrOZYAO8MISgmJ0aj11"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Ready For The World",
+        "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
+      },
+      "artists": [
+        {
+          "name": "Ready For The World",
+          "url": "https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Oh Sheila",
+      "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "20th Century Masters - The Millennium Collection: The Best of DeBarge",
+        "url": "https://open.spotify.com/album/72gPje6FmoNjsn3jDxlK5y"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/12N4F6pvIOmMxS7B8KM41n"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "No Jacket Required",
+        "url": "https://open.spotify.com/album/3qtMUaEjvbHbPCmnGcrVCi"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 292120,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/5IlaV4UNciCTDGxWVPfMKL"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "The Honeydrippers, Vol. 1 (Expanded)",
+        "url": "https://open.spotify.com/album/0fwGgCBAMQ0ItsxR7yBE8O"
+      },
+      "artists": [
+        {
+          "name": "The Honeydrippers",
+          "url": "https://open.spotify.com/artist/7J7YRBSoiXpdTmcbkKZL2C"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Sea of Love - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0VMGij4wSGBM5pSTcqjxeD"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "The Best of Bond...James Bond",
+        "url": "https://open.spotify.com/album/2lHvf04m2IO93HC7PNdkfL"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/0iYCroZis7UePauAkQRgau"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/2siHYnkgCUsilqW5UYjY1y"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "The Wild Boys",
+      "url": "https://open.spotify.com/track/07hTrg8boummuVMUtVRRR0"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "20 Mejores Melodias Encadenadas Vol.5",
+        "url": "https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 229746,
+      "name": "You're The Inspiration",
+      "url": "https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Collections",
+        "url": "https://open.spotify.com/album/1HzWXrumIyeb6odW9nJQ3b"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "Neutron Dance",
+      "url": "https://open.spotify.com/track/41th2RVnBYzhP4EQse7jAC"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Tropico",
+        "url": "https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "We Belong",
+      "url": "https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6b2nNF4nUoWfGfwez9hwst"
+      },
+      "artists": [
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Things Can Only Get Better",
+      "url": "https://open.spotify.com/track/3lCMAtfFDcJj9nzZB3ayeB"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Greatest Hits 1980-94",
+        "url": "https://open.spotify.com/album/5Pj0mof9Nm0Y3vXEb9xh7K"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 353760,
+      "name": "Freeway of Love",
+      "url": "https://open.spotify.com/track/6fJY8FtkQGKgoAF0XSXhP0"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "duration_ms": 296266,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/0T6RXLRYzXi3nXq7ZdU74y"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "No Jacket Required",
+        "url": "https://open.spotify.com/album/3qtMUaEjvbHbPCmnGcrVCi"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Sussudio",
+      "url": "https://open.spotify.com/track/07zkNvtcmPOFlMOXbma13k"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7oYG4SA51T8d3QAMpImZ7G"
+      },
+      "artists": [
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/2OyhKMrcQ38esiohOixowR"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 276822,
+      "name": "You Give Good Love",
+      "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "The Best Of Survivor",
+        "url": "https://open.spotify.com/album/3jITVhLuMmIAnVpW7jCpk2"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "The Search Is Over",
+      "url": "https://open.spotify.com/track/10b7RJ4vWHQFxpTikfsf6A"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "Greatest Hits - The RCA Years",
+        "url": "https://open.spotify.com/album/0Dq6f8t1FZWoEkeQRh8ita"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5KMvHV04U7JnyS2KOnxvSv"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "...Hits",
+        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        },
+        {
+          "name": "Marilyn Martin",
+          "url": "https://open.spotify.com/artist/3vtjCpFunIFNdbXkBVx0gL"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Separate Lives (Love Theme From White Nights)",
+      "url": "https://open.spotify.com/track/40JVyQzjWxUzymi6pcjdWn"
+    },
+    {
+      "added_at": "2013-06-27 16:37:59",
+      "album": {
+        "name": "The Very Best of Prince",
+        "url": "https://open.spotify.com/album/5oQClEU6YXiVoaz4ZTmOOO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/6lOPbNUxDvkUkWpJLebgs7"
+    }
+  ],
   "unique_name": "1985",
   "url": "https://open.spotify.com/playlist/5p5jgESe4r75R70Rzvqpcy"
 }

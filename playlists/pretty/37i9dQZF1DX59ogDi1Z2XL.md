@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🧊
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,086 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,132 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 74 | [222](https://open.spotify.com/track/2mmqMSpOXQZ1R3s6PJgxt2) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [222](https://open.spotify.com/album/2V9Q97lKamiSUUx6kpW8Xc) | 2:09 |
 | 75 | [mnu](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [mnu](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 |
 
-Snapshot ID: `aIw8IwAAAABT/+OGscLEtG38sT/fZ3mb`
+Snapshot ID: `AAAAABBxmNY/rDEGOTp2Vt3eSGPPlv2a`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,032 songs - 2 day 14 hr 20 min
+1,033 songs - 2 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-09 | 2023-09-14 |
 | [Bahala Na](https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Bahala Na](https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U) | 3:48 | 2022-11-02 | 2023-07-09 |
-| [Balisong \- Transformed](https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Balisong \(Transformed\)](https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt) | 2:43 | 2025-05-20 |  |
+| [Balisong \- Transformed](https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Balisong \(Transformed\)](https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt) | 2:43 | 2025-05-20 | 2025-08-03 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-12 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-05-23 |
 | [Bazinga](https://open.spotify.com/track/5QZw4F3N3PvuKNKHm9L20b) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 3:22 | 2021-07-24 | 2021-08-13 |
@@ -177,7 +177,7 @@
 | [Christmas in Our Hearts](https://open.spotify.com/track/6fu6uFC8eSFWnEcZnkIUdJ) | [Jose Mari Chan](https://open.spotify.com/artist/1EHAbA1GMYOfkh9ds9eNfS) | [Christmas in Our Hearts](https://open.spotify.com/album/1M1Gi9L0gttpvARre57p7y) | 3:27 | 2023-12-25 | 2024-12-27 |
 | [Christmas in Our Hearts](https://open.spotify.com/track/7rrVN7f83kwaz2sGxoFnJY) | [Jose Mari Chan](https://open.spotify.com/artist/1EHAbA1GMYOfkh9ds9eNfS) | [Christmas in Our Hearts](https://open.spotify.com/album/3WPwRhJqWbl9lkv8DDq8jh) | 3:27 | 2021-09-03 | 2022-12-27 |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-26 | 2022-03-22 |
-| [City Girl](https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [City Girl](https://open.spotify.com/album/4iG7VV7lveOx4wM0iCLg2j) | 3:08 | 2023-01-07 | 2025-07-30 |
+| [City Girl](https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [City Girl](https://open.spotify.com/album/4iG7VV7lveOx4wM0iCLg2j) | 3:08 | 2023-01-07 |  |
 | [City Girl](https://open.spotify.com/track/3L9rTnMdVeqX3CqAaGQh4E) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [City Girl](https://open.spotify.com/album/0NI5j63Y83dEQWItn3tHIg) | 3:08 | 2022-12-13 | 2023-01-07 |
 | [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 | 2024-04-20 | 2024-04-23 |
 | [Clean \(Taylor's Version\)](https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:31 | 2023-10-28 | 2023-11-03 |
@@ -223,7 +223,7 @@
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-08 | 2025-06-18 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-08 | 2024-11-12 |
 | [Dikapamigay](https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [ENZO MF](https://open.spotify.com/artist/1Miwe0S1KiQu7zZhTYdtJV) | [Dikapamigay](https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp) | 4:17 | 2024-06-29 | 2024-10-07 |
-| [Dilaw](https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Dilaw](https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp) | 3:12 | 2024-05-25 |  |
+| [Dilaw](https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Dilaw](https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp) | 3:12 | 2024-05-25 | 2025-08-03 |
 | [Dito Sa'kin](https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dito Sa'kin](https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ) | 5:30 | 2025-03-16 | 2025-06-15 |
 | [Dito Sa'kin](https://open.spotify.com/track/6Owt1G43Ip2DtVnIl7omvI) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 5:30 | 2025-06-14 | 2025-06-17 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-21 | 2023-04-16 |
@@ -919,6 +919,7 @@
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-08 | 2023-05-21 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-20 | 2024-04-23 |
 | [The Story Of Us \(Taylor's Version\)](https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:27 | 2023-07-08 | 2023-07-20 |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-02 |  |
 | [The Tortured Poets Department](https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:53 | 2024-04-20 | 2024-05-01 |
 | [The Very First Night \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:20 | 2021-11-14 | 2021-11-19 |
 | [The Way I Loved You \(Taylor’s Version\)](https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:03 | 2021-04-11 | 2021-04-19 |

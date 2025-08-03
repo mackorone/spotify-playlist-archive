@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
         "name": "Broken Girl",
         "url": "https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI"
       },
@@ -8310,7 +8328,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 292720,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/4nvYDy427VvA1TcEkdgZII"
@@ -11388,7 +11406,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
@@ -22488,7 +22506,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 117678,
       "name": "\u0431\u043b\u044e\u0437",
       "url": "https://open.spotify.com/track/78uUo0Beh7ugFOyKks8JFt"
@@ -26504,7 +26522,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 140800,
       "name": "\u041a\u0443\u0445\u043d\u0438",
       "url": "https://open.spotify.com/track/69zCrlRTLn4sLeU4fJOzmE"
@@ -29384,7 +29402,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 111124,
       "name": "\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u0440\u043e\u043b\u044c",
       "url": "https://open.spotify.com/track/03unkZidjzUbrOd35kUPXd"
@@ -34752,7 +34770,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 91875,
       "name": "\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u0432\u0430\u043c\u043f\u0438\u0440 vamp",
       "url": "https://open.spotify.com/track/6wkSonQhYvYe1LPeEswTYk"
@@ -35268,10 +35286,28 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30eb\u30ab\u30ea\u30d9\u30fc\u30b3\u30f3",
+        "url": "https://open.spotify.com/album/6NUpyfYu4iZDHqXjGSNeny"
+      },
+      "artists": [
+        {
+          "name": "HALCALI",
+          "url": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239547,
+      "name": "\u304a\u3064\u304b\u308cSUMMER",
+      "url": "https://open.spotify.com/track/1eHRolfobHFD6oqeKJ8zSF"
     },
     {
       "album": {
@@ -35410,7 +35446,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 211677,
       "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
       "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"

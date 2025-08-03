@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 214920,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Addicted (feat. TIMID.)",
       "url": "https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE"
@@ -5498,7 +5498,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -16200,7 +16200,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 133220,
       "name": "Dame Un Grrr",
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
@@ -42450,10 +42450,28 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 228480,
       "name": "Lost Highway",
       "url": "https://open.spotify.com/track/4JWRos6zAz0GyBfCRoeC0C"
+    },
+    {
+      "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/27YR015ivk3I2maWmr9E5P"
+      },
+      "artists": [
+        {
+          "name": "NightCrawl",
+          "url": "https://open.spotify.com/artist/7HK5eMsJv8xiiQbaywSKab"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228494,
+      "name": "Lost Highway",
+      "url": "https://open.spotify.com/track/48wDzW9U8nSqohygqSrQj4"
     },
     {
       "album": {
@@ -44316,7 +44334,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -50282,7 +50300,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
@@ -61350,7 +61368,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 370426,
       "name": "See You on the Other Side",
       "url": "https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk"
@@ -74770,6 +74788,32 @@
       "duration_ms": 75692,
       "name": "TUCA DONKA",
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
+    },
+    {
+      "album": {
+        "name": "Tum Ho Toh (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/69oxllULO1PeIO1VHT97uk"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318217,
+      "name": "Tum Ho Toh (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp"
     },
     {
       "album": {

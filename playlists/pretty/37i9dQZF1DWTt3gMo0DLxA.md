@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: HIT 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,702 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,172 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Neeti Mullai \(Bit\)](https://open.spotify.com/track/29ffQxBUZLJdN3kiPndB9n) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Varsham](https://open.spotify.com/album/7h1jWklU81GDvg0N02TiH7) | 1:21 |
 | 50 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `aIsU3AAAAAC+UPXyHYTMkuAf25wvoYuy`
+Snapshot ID: `AAAAAMcDNM99hJf9ybmBHSS96wugZPsM`

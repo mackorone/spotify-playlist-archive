@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: фрози
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 96,062 likes - 94 songs - 5 hr 8 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 96,035 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,11 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 92 | [T\-Shirt](https://open.spotify.com/track/6PM6pYoesUlOQqO3R6AkPK) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [T\-Shirt](https://open.spotify.com/album/2EaRYYNXuypVyGrXyLNGCI) | 2:50 |
 | 93 | [FTS \(feat\. Yo Majesty\)](https://open.spotify.com/track/2CYqXlwFLkSgEG0WiDopmw) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Yo Majesty](https://open.spotify.com/artist/02QcKlcRiv2tXgI669XopZ) | [FTS \(feat\. Yo Majesty\)](https://open.spotify.com/album/7CwYs6RMo9hDjEQlfPmXvi) | 3:05 |
 | 94 | [How You Feelin'](https://open.spotify.com/track/2PP6GkSbJX4WySMZhUZYWE) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [TwoForAll](https://open.spotify.com/artist/1rxnoxuKZHlpEQ92mLZ9n0) | [How You Feelin'](https://open.spotify.com/album/0shwYYh4hSmtIVazfeWApy) | 2:43 |
+| 95 | [Powerful Play](https://open.spotify.com/track/482zeFq9eCLEWfKEAXzZhx) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Powerful Play](https://open.spotify.com/album/1RuraFrvixcj0HUGvRoWZn) | 5:31 |
+| 96 | [Last Goodbye](https://open.spotify.com/track/5k6xT2sU07BDki7O9Bz1pd) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [Ocean Roses](https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4) | [Last Goodbye](https://open.spotify.com/album/7gZ3sBkWxTaQoEGLSsiPTz) | 3:12 |
+| 97 | [Therapy](https://open.spotify.com/track/4TTgj6193ViqePm6haUkm4) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [JUSTN X](https://open.spotify.com/artist/6a6XPqUW48oSQbIylizF5i) | [Therapy](https://open.spotify.com/album/4Kst3KEL3qb5loPXVBQzqA) | 2:40 |
+| 98 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
+| 99 | [Our Future](https://open.spotify.com/track/62oJjkXdoGQ9T44blbOSky) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Amal Nemer](https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm), [Adam Nazar](https://open.spotify.com/artist/0K9gqsmGSMWBcf0tDgbMGa) | [Our Future](https://open.spotify.com/album/73QTtFjtCw5z6AT1MewUBC) | 4:10 |
+| 100 | [Para Pensa \(feat\. MC K9\)](https://open.spotify.com/track/39CORr5XfPSsYhntdnXQig) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Para Pensa \(feat\. MC K9\)](https://open.spotify.com/album/4Z4GxorLLkhEqN8jhCPxJv) | 1:58 |
 
 Snapshot ID: `AAARWeVYtkueZkBgDiug2IDXoXwj2yxv`

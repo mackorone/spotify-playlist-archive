@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,957 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,955 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 61 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 |
 | 62 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 |
 | 63 | [dance around it](https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [dance around it](https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H) | 2:25 |
-| 64 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 |
-| 65 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 |
+| 64 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 |
+| 65 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 |
 | 66 | [This Is Me \(From the Greatest Showman\)](https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [This Is Me \(From The Greatest Showman\)](https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8) | 3:54 |
-| 67 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
-| 68 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
-| 69 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
-| 70 | [Breakaway](https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:43 |
-| 71 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 |
+| 67 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
+| 68 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 |
+| 69 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
+| 70 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
+| 71 | [Breakaway](https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:43 |
 | 72 | [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 |
 | 73 | [Dead End Road](https://open.spotify.com/track/1unTSILv272aGjufNBJjQj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:32 |
 | 74 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 |

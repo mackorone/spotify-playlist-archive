@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,122 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,359 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 16 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
 | 17 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 |
 | 18 | [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 |
-| 19 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 |
-| 20 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
+| 19 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
+| 20 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 |
 | 21 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
 | 22 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 |
 | 23 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 37 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 |
 | 38 | [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 |
 | 39 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
-| 40 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
-| 41 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 |
+| 40 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 |
+| 41 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
 | 42 | [Planet XX \- Extended Mix](https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Planet XX](https://open.spotify.com/album/7CWg0oYwESxCpnDxhkQbx7) | 5:38 |
-| 43 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
-| 44 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
+| 43 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
+| 44 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
 | 45 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 |
 | 46 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
 | 47 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |

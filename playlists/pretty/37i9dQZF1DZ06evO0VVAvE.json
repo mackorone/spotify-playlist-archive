@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6126,
+  "num_followers": 6146,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACwAc6dZPmZ5L1B6EaIv83z",
+  "snapshot_id": "aIwDgAAAAADry/3mROkAbhHDJCb0J5HF",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 135070,
       "name": "Popori",
       "url": "https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
     },
     {
       "added_at": null,
@@ -315,22 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okanlawon, Vol. 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
+        "name": "Pay Me",
+        "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
       },
       "artists": [
         {
-          "name": "Cazulee",
-          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
+          "name": "Panaache",
+          "url": "https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27"
         },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 212871,
-      "name": "The Way (Remix)",
-      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
+      "duration_ms": 127529,
+      "name": "Pay Me",
+      "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
     },
     {
       "added_at": null,
@@ -367,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pay Me",
-        "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
+        "name": "Okanlawon, Vol. 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
       },
       "artists": [
         {
-          "name": "Panaache",
-          "url": "https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27"
+          "name": "Cazulee",
+          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
         },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 127529,
-      "name": "Pay Me",
-      "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
+      "duration_ms": 212871,
+      "name": "The Way (Remix)",
+      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
     },
     {
       "added_at": null,

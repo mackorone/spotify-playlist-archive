@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 44916,
+  "num_followers": 44920,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAZs24PPJgMWUU4/4NMLgH+",
+  "snapshot_id": "aIwDgAAAAAC+5zQEkw7LFApu159DSc3T",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "The Rescue Blues",
-      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 151960,
       "name": "Oh My God, Whatever, Etc.",
       "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "The Rescue Blues",
+      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
     },
     {
       "added_at": null,

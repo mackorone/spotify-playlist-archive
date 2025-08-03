@@ -16165,6 +16165,28 @@
     },
     {
       "album": {
+        "name": "jellyous (Feat. Sophie Powers)",
+        "url": "https://open.spotify.com/album/0XKtGPLlJMTOP4DmhRpOwg"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "jellyous (Feat. Sophie Powers)",
+      "url": "https://open.spotify.com/track/1hAAuDuBSaoIkgSb7Lyakt"
+    },
+    {
+      "album": {
         "name": "Jeogeumtong",
         "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
       },
@@ -19670,7 +19692,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"

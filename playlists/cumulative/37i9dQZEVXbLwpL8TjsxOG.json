@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 180250,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA"
@@ -11950,7 +11950,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -13742,7 +13742,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -14244,6 +14244,24 @@
       "duration_ms": 245541,
       "name": "The Smallest Man Who Ever Lived",
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
+    },
+    {
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "album": {
@@ -18406,7 +18424,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 202000,
       "name": "\u590f\u65e5\u4e4b\u5b50",
       "url": "https://open.spotify.com/track/4USYCS3GwdQ6F12DZP9UCy"
@@ -18478,7 +18496,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 193333,
       "name": "\u591c\u95cc\u4eba\u975c",
       "url": "https://open.spotify.com/track/44FUMcOGhsXw79mwOTS6vr"
@@ -18864,7 +18882,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 224513,
       "name": "\u5ca9\u5dc9",
       "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
@@ -20658,6 +20676,24 @@
       "duration_ms": 249986,
       "name": "\u6afb\u82b1\u6a39\u4e0b",
       "url": "https://open.spotify.com/track/2FgDWCqMCIAATvqr9ozeYm"
+    },
+    {
+      "album": {
+        "name": "\u6b4c\u9813\u82b1\u5712",
+        "url": "https://open.spotify.com/album/25camrKxmkOfxpXuRJYe2A"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "\u6b4c\u9813\u82b1\u5712",
+      "url": "https://open.spotify.com/track/02dfGgKRSaxADhn2yUfRH5"
     },
     {
       "album": {

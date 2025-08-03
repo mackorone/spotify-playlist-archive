@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YENA\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,349 likes - 109 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,388 likes - 109 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 108 | [Vivid LaLa Love](https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 4:00 |
 | 109 | [In Your Fantasy](https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 |
 
-Snapshot ID: `aIyEMAAAAADekyYbepH/oXVO02BZgVY8`
+Snapshot ID: `AAAAABLyfOfwifD9/XSKTCFWsu9eirnK`

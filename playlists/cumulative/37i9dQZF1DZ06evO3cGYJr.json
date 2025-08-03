@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "HALCYON",
+        "url": "https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "better than i was",
+      "url": "https://open.spotify.com/track/07sn5SwgSMxhj2PJxK5i6s"
+    },
+    {
+      "album": {
         "name": "better than i was",
         "url": "https://open.spotify.com/album/2JpRnpearfI5QTXvhHCrsX"
       },
@@ -186,7 +204,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 204800,
       "name": "better than i was",
       "url": "https://open.spotify.com/track/0HLs9ktjeINGigUq6i1hAP"
@@ -522,7 +540,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 166332,
       "name": "D1FFERENT (INTRO)",
       "url": "https://open.spotify.com/track/43pus1gZHRnJ73PvkX2orL"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 220800,
       "name": "Halcyon",
       "url": "https://open.spotify.com/track/3eAMZYxihi4IQomVVBqDep"

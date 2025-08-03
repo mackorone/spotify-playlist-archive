@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 164196,
+  "num_followers": 164341,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "The Touch Of Your Lips",
-      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Tommy Flanagan Trio",
         "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 221893,
       "name": "In The Blue Of The Evening",
       "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "The Touch Of Your Lips",
+      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
+        "name": "Tommy Flanagan Trio",
+        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan Trio",
+          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
+        }
+      ],
+      "duration_ms": 319626,
+      "name": "Velvet Moon",
+      "url": "https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 164866,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
-        "name": "Tommy Flanagan Trio",
-        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan Trio",
-          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
-        }
-      ],
-      "duration_ms": 319626,
-      "name": "Velvet Moon",
-      "url": "https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Something Cool (1955 Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Helen Merrill With Strings",
         "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 187266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Something Cool (1955 Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 246506,
       "name": "I Was Doing All Right",
       "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Sings The Blues",
-        "url": "https://open.spotify.com/album/28T3uReFtvHdOo0rcztcxY"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "It's Only A Paper Moon",
-      "url": "https://open.spotify.com/track/4qKMHZqa4jSBPUCT9NL6kd"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "The Jazz Giants '56",
         "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 569880,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Sings The Blues",
+        "url": "https://open.spotify.com/album/28T3uReFtvHdOo0rcztcxY"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/4qKMHZqa4jSBPUCT9NL6kd"
     },
     {
       "added_at": "2025-01-20 15:39:56",

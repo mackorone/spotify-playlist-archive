@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,843 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,846 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 17 | [Kissing a Fool](https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:36 |
 | 18 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 |
 | 19 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
-| 20 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [My Romance](https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf) | 4:13 |
-| 21 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
+| 20 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
+| 21 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [My Romance](https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf) | 4:13 |
 | 22 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 23 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 |
-| 24 | [And Then There Was You](https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:05 |
-| 25 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
+| 24 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Bossa Lounge en Español](https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A) | 3:29 |
+| 25 | [And Then There Was You](https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:05 |
 | 26 | [Flowers](https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Flowers](https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2) | 2:56 |
 | 27 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 |
 | 28 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 65 | [Hungry Like The Wolf](https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Jazz And 80s](https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0) | 4:03 |
 | 66 | [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 |
 | 67 | [Pretty Blue](https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [The Vienna Affair](https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k) | 3:57 |
-| 68 | [Full Moon](https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg) | [Full Moon](https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM) | 2:01 |
-| 69 | [I Want To Talk About You](https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [I Want To Talk About You](https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW) | 4:33 |
+| 68 | [I Want To Talk About You](https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [I Want To Talk About You](https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW) | 4:33 |
+| 69 | [Full Moon](https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg) | [Full Moon](https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM) | 2:01 |
 | 70 | [May I Come In](https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:10 |
 | 71 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
 | 72 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |

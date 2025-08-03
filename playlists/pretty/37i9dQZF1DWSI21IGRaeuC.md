@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,442 likes - 115 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,494 likes - 115 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 13 | [Open Your Eyes](https://open.spotify.com/track/0Tk1bGsHNJWVgsw6nK3cIi) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Open Your Eyes](https://open.spotify.com/album/1S50W2WN9qp2nclzQuFaFE) | 4:19 |
 | 14 | [Subwave](https://open.spotify.com/track/4i8YMkRxCeClZtz3rnTlpv) | [Dan Fresco](https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB) | [Subwave EP](https://open.spotify.com/album/1EJtinVucStvzmokrBuzTJ) | 4:09 |
 | 15 | [groovy sound](https://open.spotify.com/track/6y9ZHB5YdYkWzGTwOt7GtV) | [Jake Antonio](https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC) | [groovy sound](https://open.spotify.com/album/3eMtNEEmPfzUohZ5M34NWf) | 4:30 |
-| 16 | [The Saw That Broke The Camels Back \- Radio Edit](https://open.spotify.com/track/41z5UyRNqFVmmGheKvgeX5) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Return The Phavour \(Radio Edits\)](https://open.spotify.com/album/0DiTZwkBwEKwYCA1Bc3sIT) | 3:46 |
+| 16 | [The Saw That Broke The Camels Back](https://open.spotify.com/track/41z5UyRNqFVmmGheKvgeX5) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Return The Phavour](https://open.spotify.com/album/0DiTZwkBwEKwYCA1Bc3sIT) | 3:46 |
 | 17 | [Get Up](https://open.spotify.com/track/66uQcDAdfRuty13WuchaAQ) | [Silvie Loto](https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um) | [Get Up](https://open.spotify.com/album/63aVxnGIzOIBS7DUWBypIs) | 3:00 |
 | 18 | [Fungo](https://open.spotify.com/track/7K7xIcfUBS6gPqerHRwIf9) | [Carvalho\(BR\)](https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c) | [Fungo](https://open.spotify.com/album/1gfhAh1m1G9DnBHXIJTmej) | 2:47 |
 | 19 | [Front & Back Seat](https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Front & Back Seat](https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG) | 2:51 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 114 | [50 INCH WOOFAS](https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN), [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [50 INCH WOOFAS](https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb) | 2:56 |
 | 115 | [On Deck](https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [On Deck](https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy) | 3:18 |
 
-Snapshot ID: `aIzX8AAAAACmW29qRYLGT8cNeuZx8KIe`
+Snapshot ID: `AAAAAP9TbyyGFGhEE9b0gQRtOgeHLu2Z`

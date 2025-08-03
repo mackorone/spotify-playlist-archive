@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,237 likes - 38 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,224 likes - 38 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 24 | [A Rua](https://open.spotify.com/track/2OKEIwfQhf2a6lJuR3aMXJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:36 |
 | 25 | [VSF](https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:56 |
 | 26 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
-| 27 | [Super](https://open.spotify.com/track/7yox0qN7AieRr3Z9zGmBM4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 4:28 |
+| 27 | [Maria](https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 1:58 |
 | 28 | [Imaturo](https://open.spotify.com/track/0S86atec73KKaexn67JsDy) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:58 |
 | 29 | [Enquanto Me Beija](https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:39 |
 | 30 | [Ressaca](https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:00 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 37 | [Vou Morrer Sozinho](https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:54 |
 | 38 | [Eu Quero Ser Como Você](https://open.spotify.com/track/3XbqMexOs4oiE9n6ATZ35K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:09 |
 
-Snapshot ID: `aIqyAAAAAABTzEfupirLCbCuOuc0VjkN`
+Snapshot ID: `aIwDgAAAAAC/k+YLFKqrGuVo9gDxNYfl`

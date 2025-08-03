@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 67153,
+  "num_followers": 67188,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Llamado",
-        "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Anblessnabi",
-          "url": "https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7"
-        }
-      ],
-      "duration_ms": 225431,
-      "name": "Llamado",
-      "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
         "name": "Mamita Peyote",
         "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
       },
@@ -759,18 +739,22 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "\u00c1ngel Del Pasado",
-        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
+        "name": "Llamado",
+        "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Anblessnabi",
+          "url": "https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7"
         }
       ],
-      "duration_ms": 246857,
-      "name": "\u00c1ngel Del Pasado",
-      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
+      "duration_ms": 225431,
+      "name": "Llamado",
+      "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -795,6 +779,22 @@
       "duration_ms": 170906,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
+        "name": "\u00c1ngel Del Pasado",
+        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "\u00c1ngel Del Pasado",
+      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Hasta Que Me Olvides",
-        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 255744,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 225600,
       "name": "Soy d\u00e9bil Sr.",
       "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 255744,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
         "name": "Si no Regreso",
         "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 250493,
       "name": "Culpable O No",
       "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "Stailok",
+          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 325124,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
+      "duration_ms": 258349,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
       "artists": [
         {
-          "name": "Stailok",
-          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 258349,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
+      "duration_ms": 325124,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Tenia Tanto Para Darte",
-        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
       "artists": [
         {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 263144,
-      "name": "Tenia Tanto Para Darte",
-      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+        "name": "Tenia Tanto Para Darte",
+        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
         }
       ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+      "duration_ms": 263144,
+      "name": "Tenia Tanto Para Darte",
+      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "La Naturaleza",
-        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
       },
       "artists": [
         {
-          "name": "Planta & Canta",
-          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         },
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "E.N Young",
+          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
         }
       ],
-      "duration_ms": 254058,
-      "name": "La Naturaleza",
-      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
+      "duration_ms": 190660,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+        "name": "La Naturaleza",
+        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
       "artists": [
         {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+          "name": "Planta & Canta",
+          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
         },
         {
-          "name": "E.N Young",
-          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 190660,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
+      "duration_ms": 254058,
+      "name": "La Naturaleza",
+      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
     },
     {
       "added_at": "2025-08-01 03:00:08",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "Seguirla",
-        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
-      },
-      "artists": [
-        {
-          "name": "Gaspar OM",
-          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 191776,
-      "name": "Seguirla",
-      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
         "name": "M\u00e1s amor",
         "url": "https://open.spotify.com/album/1k7OvMaQnYJ57SwEcoTYhF"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 217324,
       "name": "M\u00e1s amor",
       "url": "https://open.spotify.com/track/1BPcvQFG4cib6GNvzN1dcH"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
+        "name": "Seguirla",
+        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
+      },
+      "artists": [
+        {
+          "name": "Gaspar OM",
+          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 191776,
+      "name": "Seguirla",
+      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
     }
   ],
   "unique_name": "Reggae al Sur",

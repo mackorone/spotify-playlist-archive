@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-387 songs - 22 hr 10 min
+388 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-03-22 |  |
 | [Ben poca cosa tens](https://open.spotify.com/track/6bjEfCnfH1aTkDVxmXkptn) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Ben poca cosa tens](https://open.spotify.com/album/4eBnmtZBcmN8eGCALV5SdL) | 5:10 | 2025-06-02 | 2025-07-01 |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2022-11-11 | 2024-06-07 |
+| [Better Believe It](https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Better Believe It](https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh) | 2:22 | 2025-07-31 |  |
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2024-04-11 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2022-11-11 | 2024-04-19 |
 | [Bizarre Love Triangle \- 2014 Remaster](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album \- 21st Anniversary Edition](https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ) | 1:59 | 2022-11-11 |  |
@@ -85,7 +86,7 @@
 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 | 2024-04-11 |  |
 | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/track/7MQsvYlWeJUnMuY84MraBg) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/album/0ol8B8mnMgdkTJCR3ipqQx) | 3:16 | 2023-12-28 | 2024-05-03 |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2022-11-11 |  |
-| [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 | 2024-06-06 |  |
+| [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 | 2024-06-06 | 2025-08-03 |
 | [Cógelo fuerte \(antes de que cambie\)](https://open.spotify.com/track/4fPxWYxu7v7At8qiNEEMuG) | [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [Cógelo fuerte \(antes de que cambie\)](https://open.spotify.com/album/3PsHzP6LP243vsNhecVWqq) | 3:27 | 2025-03-31 |  |
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-07-03 |  |
 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 | 2023-10-26 | 2024-04-19 |
@@ -302,7 +303,7 @@
 | [Recording 15](https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 4:02 | 2022-11-11 | 2023-03-28 |
 | [Renegades \- Acoustic Version](https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM) | [Vinyl Hotel](https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h) | [Café Acoustic Session \(Acoustic Version\)](https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW) | 2:57 | 2024-04-11 |  |
 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 | 2023-08-18 | 2024-09-25 |
-| [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 | 2024-04-11 | 2025-08-02 |
+| [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 | 2024-04-11 |  |
 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 | 2022-11-11 | 2024-04-19 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-15 | 2024-12-24 |
 | [Sanadoras Voluntades](https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Sanadoras Voluntades](https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa) | 2:44 | 2024-04-11 |  |
@@ -349,7 +350,7 @@
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2025-01-10 | 2025-06-20 |
 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 | 2022-11-11 | 2023-07-07 |
 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 | 2023-04-20 | 2024-04-19 |
-| [Time \(For You\)](https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 2:56 | 2024-04-11 |  |
+| [Time \(For You\)](https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 2:56 | 2024-04-11 | 2025-08-03 |
 | [Time After Time](https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Time After Time](https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc) | 3:26 | 2024-03-07 |  |
 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 | 2023-03-28 | 2023-04-21 |
 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 | 2022-11-11 | 2023-03-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1415492,
+  "num_followers": 1415560,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABJ1K/3ikpz0EaxI0V75tAG",
+  "snapshot_id": "aIwDgAAAAADAMDEneTFfnY7Jr7EwOx5o",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Contract",
-        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "The Contract",
-      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 195920,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
     },
     {
       "added_at": null,

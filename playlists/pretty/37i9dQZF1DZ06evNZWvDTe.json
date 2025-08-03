@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12921,
+  "num_followers": 12929,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABkyiwTt+oxsRJ/3HZ07cXL",
+  "snapshot_id": "aIwDgAAAAADIa/1VwESPHBFX1BJKl3DC",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "EL",
-          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
-        }
-      ],
-      "duration_ms": 225625,
-      "name": "U Go Kill Me (feat. El)",
-      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "EL",
+          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
+        }
+      ],
+      "duration_ms": 225625,
+      "name": "U Go Kill Me (feat. El)",
+      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Illuminati",
-      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -879,22 +863,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope (Brighter Day)",
-        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 316421,
-      "name": "Hope (Brighter Day)",
-      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
+      "duration_ms": 166800,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
     },
     {
       "added_at": null,
@@ -919,18 +915,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+        "name": "Hope (Brighter Day)",
+        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+      "duration_ms": 316421,
+      "name": "Hope (Brighter Day)",
+      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epistles of Mama",
+        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207150,
+      "name": "Odo Bi",
+      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
     },
     {
       "added_at": null,
@@ -959,26 +979,6 @@
       "duration_ms": 275440,
       "name": "Bambi Too (feat. Maleek Berry, Quavo & Sarkodie)",
       "url": "https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epistles of Mama",
-        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 207150,
-      "name": "Odo Bi",
-      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
     },
     {
       "added_at": null,

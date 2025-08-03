@@ -4643,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t"
+    },
+    {
+      "album": {
         "name": "Fix It to Break It",
         "url": "https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8"
       },
@@ -6002,7 +6020,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 158594,
       "name": "Here's Your Perfect",
       "url": "https://open.spotify.com/track/7ranmtPVs7Ckg2WLHO2L0m"
@@ -14340,7 +14358,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -14470,6 +14488,24 @@
       "duration_ms": 163636,
       "name": "the reason i hate home",
       "url": "https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj"
+    },
+    {
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "album": {

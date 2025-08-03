@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,988 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,992 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `ZNNMJAAAAAAprs5MQp5Zvo3wfksLmY3K`
+Snapshot ID: `ZNNMJAAAAABywcrrvBaoXRd5mbXrX10l`

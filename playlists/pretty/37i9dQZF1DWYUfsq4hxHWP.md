@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Max Alan, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,470 likes - 200 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,513 likes - 200 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

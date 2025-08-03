@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 51442,
+  "num_followers": 51444,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACW15A46SL/4RDZhPIwnhXL",
+  "snapshot_id": "aIwDgAAAAAA70ehlJWCCR/1uxWhfeeA9",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/2NQx76UjA38rcdzf76vG8G"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/1kiTM1ByxHSTFscROWBH86"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 176626,
       "name": "Esa Muchacha Me Gusta",
       "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/2NQx76UjA38rcdzf76vG8G"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/1kiTM1ByxHSTFscROWBH86"
     },
     {
       "added_at": null,

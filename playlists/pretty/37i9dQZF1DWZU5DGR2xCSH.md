@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,722 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,626 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 8 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 9 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 10 | [Lunes Por La Madrugada](https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Himno De Mi Corazon](https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC) | 3:14 |
-| 11 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 5:36 |
-| 12 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
+| 11 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
+| 12 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 5:36 |
 | 13 | [Pronta Entrega](https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 4:33 |
 | 14 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 15 | [¿Qué Ves?](https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 5:13 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 62 | [Desconfío \- En Vivo](https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Se Vuelve Cada Día Mas Loca por Amor al Blues \(En Vivo\)](https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp) | 6:20 |
 | 63 | [Agua de Río](https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 5:26 |
 | 64 | [Genesis](https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 6:38 |
-| 65 | [Tan Solo](https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 4:00 |
-| 66 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 |
+| 65 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 |
+| 66 | [Tan Solo](https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 4:00 |
 | 67 | [Mil Horas](https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Vasos Y Besos](https://open.spotify.com/album/5O8onsit6TM3W7qqxshwqN) | 2:50 |
 | 68 | [No Tan Distintos](https://open.spotify.com/track/4dG3znpT3NJjfRRvPc77xe) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Obras Cumbres](https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP) | 2:39 |
 | 69 | [Libros Sapienciales](https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 7:34 |
-| 70 | [Demoliendo Hoteles](https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL) | 2:15 |
+| 70 | [Vencedores Vencidos](https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Un Baión para el Ojo Idiota](https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5) | 3:28 |
 
 Snapshot ID: `ZzI3owAAAABmvQw4gtRhYGwDz0HWfv26`

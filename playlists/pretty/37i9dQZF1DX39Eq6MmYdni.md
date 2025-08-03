@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Lo que suena in the lone star state\. Texas\. Cover: LOS DOS DE TAMAULIPAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,108 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,086 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 49 | [Vision De Tunel](https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Vision De Tunel](https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I) | 2:52 |
 | 50 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 
-Snapshot ID: `AAAAAGmQooEUZbfa32wFunMMB2YZjpPX`
+Snapshot ID: `aIw76gAAAABfXOphBP+CS/28NluyiNbM`

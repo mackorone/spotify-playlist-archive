@@ -1,13 +1,29 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 48492,
+  "num_followers": 48677,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAXl3GRfD2y04CntBEX+SFa",
+  "snapshot_id": "aIwDgAAAAADIveyMyPRSd5mFwpS5N6tj",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pasta",
+        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 194858,
+      "name": "Pasta",
+      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
+    },
     {
       "added_at": null,
       "album": {

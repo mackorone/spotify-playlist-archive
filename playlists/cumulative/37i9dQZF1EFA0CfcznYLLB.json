@@ -3907,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "Exis (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6pvcpl3eOpmENd2W0Fh3dw"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224546,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/2nefpDEMiozxhrssWCvQMa"
+    },
+    {
+      "album": {
         "name": "Exis",
         "url": "https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr"
       },
@@ -3918,7 +3936,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 224546,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/46df2qqZrXxDfhaXuSTRAm"

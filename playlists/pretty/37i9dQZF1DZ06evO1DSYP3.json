@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5643,
+  "num_followers": 5644,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADO4DKh5iJOAeJIUnQPQ5C4",
+  "snapshot_id": "aIwDgAAAAAA5ftS+4KVmDJVpDXeZc/3k",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going Off",
+        "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 123810,
+      "name": "Going Off",
+      "url": "https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Hunnids (feat. P-Lo) - Single",
         "url": "https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 216100,
       "name": "Too Big",
       "url": "https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going Off",
-        "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 123810,
-      "name": "Going Off",
-      "url": "https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Me Lit",
+        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 131794,
+      "name": "Get Me Lit",
+      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 139427,
       "name": "Feel Me?",
       "url": "https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Me Lit",
-        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 131794,
-      "name": "Get Me Lit",
-      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
     },
     {
       "added_at": null,
@@ -464,17 +464,17 @@
           "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
         },
         {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 169566,
-      "name": "WHO ELSE YOU KNOW!?",
-      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
+      "duration_ms": 198165,
+      "name": "GIVE ME A BEAT!",
+      "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
     },
     {
       "added_at": null,
@@ -556,17 +556,17 @@
           "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
         },
         {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 198165,
-      "name": "GIVE ME A BEAT!",
-      "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
+      "duration_ms": 169566,
+      "name": "WHO ELSE YOU KNOW!?",
+      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
     },
     {
       "added_at": null,
@@ -675,30 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Connected And Respected",
-        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
-      },
-      "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "B-Legit",
-          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 221287,
-      "name": "Boy (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moovie!",
         "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 205480,
       "name": "On One",
       "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Connected And Respected",
+        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "B-Legit",
+          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 221287,
+      "name": "Boy (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Lose Your Head",
-        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Zion I",
-          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Don't Lose Your Head",
-      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -815,18 +791,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Hook",
-        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
       },
       "artists": [
         {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Zion I",
+          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
         }
       ],
-      "duration_ms": 96421,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
+      "duration_ms": 161250,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
       "duration_ms": 218453,
       "name": "Mad",
       "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 96421,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 144060,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -999,6 +979,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 175354,
       "name": "Level",
       "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,
@@ -1071,26 +1055,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
       "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 175982,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,
@@ -1115,6 +1091,30 @@
       "duration_ms": 168342,
       "name": "Vomit",
       "url": "https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175982,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
     }
   ],
   "unique_name": "This Is P-Lo",

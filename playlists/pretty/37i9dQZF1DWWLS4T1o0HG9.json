@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 456779,
+  "num_followers": 457179,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Storm Front",
         "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 287733,
       "name": "We Didn't Start the Fire",
       "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Midnight Madness",
-        "url": "https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
       "artists": [
         {
-          "name": "Night Ranger",
-          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
         }
       ],
-      "duration_ms": 302933,
-      "name": "Sister Christian",
-      "url": "https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk"
+      "duration_ms": 185694,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1135,34 +1135,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+        "name": "Midnight Madness",
+        "url": "https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs"
       },
       "artists": [
         {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+          "name": "Night Ranger",
+          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
         }
       ],
-      "duration_ms": 185694,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Stuck With You",
-      "url": "https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA"
+      "duration_ms": 302933,
+      "name": "Sister Christian",
+      "url": "https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1179,6 +1163,22 @@
       "duration_ms": 267426,
       "name": "The Reflex - Single Version; 2010 Remaster",
       "url": "https://open.spotify.com/track/4sz1Ng2Cgidfqqiy0pNL6R"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Stuck With You",
+      "url": "https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 295133,
       "name": "Roam",
       "url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
     },
     {
       "added_at": "2024-06-26 01:58:02",

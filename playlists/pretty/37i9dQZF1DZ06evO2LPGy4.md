@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[](https://open.spotify.com/user/null) - 464,347 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,397 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 37 | [Amado Carrillo](https://open.spotify.com/track/7pf6MMhKRoKVc7JR6SsTgP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Amado Carrillo](https://open.spotify.com/album/7GpDCavtQXcXwjTJ1R59dE) | 2:59 |
 | 38 | [Morir Y Existir](https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:05 |
 | 39 | [Millones de Besos](https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:29 |
-| 40 | [Me Voy](https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
-| 41 | [El Aroma de Tu Piel](https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:52 |
+| 40 | [El Aroma de Tu Piel](https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:52 |
+| 41 | [Me Voy](https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
 | 42 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 |
-| 43 | [El Primer Ministro](https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 1:54 |
-| 44 | [Angeles O Demonios](https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 4:08 |
-| 45 | [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 |
+| 43 | [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 |
+| 44 | [El Primer Ministro](https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 1:54 |
+| 45 | [Angeles O Demonios](https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 4:08 |
 | 46 | [14 Guerras \(En Vivo\)](https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:44 |
 | 47 | [Soy De Durango](https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro \(Version Deluxe\)](https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX) | 2:39 |
 | 48 | [La Noche Es Tuya](https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Globall](https://open.spotify.com/album/1caIQHGbNF21Ed3X65iEWu) | 3:01 |
 | 49 | [Area 81](https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:45 |
 | 50 | [Soy Familia, Soy Michoacano \(En Vivo\)](https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:11 |
 
-Snapshot ID: `aIqyAAAAAABVQrPgdASk3bWlxTRtbWNE`
+Snapshot ID: `aIwDgAAAAAD/QfOyX8G8ZKS+qBcwEawr`

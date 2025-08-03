@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > be on your way with Marsai Martin's curated tunes and see her in "G20," now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,061 likes - 39 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,028 likes - 39 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 38 | [Dent Jusay](https://open.spotify.com/track/5jPYTT7rhC2IzRopDMtwyj) | [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9), [Syd](https://open.spotify.com/artist/06rCaeCVeHYDaURRHW8Ys8), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Drum Chord Theory](https://open.spotify.com/album/2cQVdKJMhGWzuO5QrYFbaS) | 2:37 |
 | 39 | [Gorgeous](https://open.spotify.com/track/0EytHHNzOxDyxNThyCx9oT) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Best Night Of My Life](https://open.spotify.com/album/3T1fgMprST5C4hhl19Xv40) | 5:02 |
 
-Snapshot ID: `Z/lwfAAAAAB3r5VE1TaI9JK2O3TJS5Kb`
+Snapshot ID: `AAAAAE8I+rgTRdpn8VUH3aali/R0/M9E`

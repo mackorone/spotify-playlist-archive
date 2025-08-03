@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Los Primos del Este
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,219 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,248 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Te Hubiera Besado](https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Te Hubiera Besado](https://open.spotify.com/album/2plPejGZIWWggruY0NizsL) | 2:19 |
+| 1 | [NO TE HUBIERA BESADO](https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [NO TE HUBIERA BESADO](https://open.spotify.com/album/2plPejGZIWWggruY0NizsL) | 2:19 |
 | 2 | [El Queso](https://open.spotify.com/track/6OYPOLCc7Vr2tVZN854s0q) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Queso](https://open.spotify.com/album/4nATRnXM5F8YaaYYdgfOFa) | 2:36 |
 | 3 | [Malandrin](https://open.spotify.com/track/3jRXaEb0C8Gz2w99Gvkmrg) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Malandrin](https://open.spotify.com/album/1z8479vViQ5svBGirVpm40) | 3:04 |
 | 4 | [CATALOGADO](https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [CATALOGADO](https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB) | 2:07 |

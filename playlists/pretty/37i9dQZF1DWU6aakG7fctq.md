@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Niko Rubio
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,209 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,140 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
 | 50 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
 
-Snapshot ID: `aIw75gAAAAC53SK6550owhixiHe+pAw7`
+Snapshot ID: `AAAAAHKIFyc7HpuqlcqJAmJrtGsTqQp0`

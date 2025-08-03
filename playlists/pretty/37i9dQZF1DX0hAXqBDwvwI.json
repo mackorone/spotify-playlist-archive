@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 710546,
+  "num_followers": 710621,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2025-07-22 15:00:22",
       "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        },
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 241156,
+      "name": "\u5922\u5e7b",
+      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
+    },
+    {
+      "added_at": "2025-07-22 15:00:22",
+      "album": {
         "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
         "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 219200,
       "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
-    },
-    {
-      "added_at": "2025-07-22 15:00:22",
-      "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        },
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 241156,
-      "name": "\u5922\u5e7b",
-      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
     },
     {
       "added_at": "2025-07-22 15:00:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-07-22 15:00:22",
       "album": {
-        "name": "BLOODY STREAM",
-        "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
-        }
-      ],
-      "duration_ms": 261920,
-      "name": "BLOODY STREAM",
-      "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
-    },
-    {
-      "added_at": "2025-07-22 15:00:22",
-      "album": {
         "name": "\u30aa\u30ec\u30f3\u30b8",
         "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 235200,
       "name": "\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+    },
+    {
+      "added_at": "2025-07-22 15:00:22",
+      "album": {
+        "name": "BLOODY STREAM",
+        "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "BLOODY STREAM",
+      "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
     },
     {
       "added_at": "2025-07-22 15:00:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-07-22 15:00:22",
       "album": {
-        "name": "TAIDADA",
-        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "TAIDADA",
-      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
-    },
-    {
-      "added_at": "2025-07-22 15:00:22",
-      "album": {
         "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
         "url": "https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 219911,
       "name": "\u5929\u4f7f\u3068\u60aa\u9b54",
       "url": "https://open.spotify.com/track/614SrzamJ4d8gJOLkiZbRn"
+    },
+    {
+      "added_at": "2025-07-22 15:00:22",
+      "album": {
+        "name": "TAIDADA",
+        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "TAIDADA",
+      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
     },
     {
       "added_at": "2025-07-22 15:00:22",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-07-22 15:00:22",
       "album": {
-        "name": "\u9752\u306e\u3059\u307f\u304b (Acoustic ver.)",
-        "url": "https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 203542,
-      "name": "\u9752\u306e\u3059\u307f\u304b (Acoustic ver.)",
-      "url": "https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP"
-    },
-    {
-      "added_at": "2025-07-22 15:00:22",
-      "album": {
         "name": "\u5e78\u305b\u306e\u30ec\u30b7\u30d4",
         "url": "https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2025-07-22 15:00:22",
       "album": {
-        "name": "BOYZ",
-        "url": "https://open.spotify.com/album/6CjShkNC5nkZxNVdH6zlZR"
+        "name": "\u9752\u306e\u3059\u307f\u304b (Acoustic ver.)",
+        "url": "https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg"
       },
       "artists": [
         {
-          "name": "SixTONES",
-          "url": "https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 185386,
-      "name": "BOYZ",
-      "url": "https://open.spotify.com/track/1oDe5TtaFUT4puki7twdMG"
+      "duration_ms": 203542,
+      "name": "\u9752\u306e\u3059\u307f\u304b (Acoustic ver.)",
+      "url": "https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP"
     },
     {
       "added_at": "2025-07-22 15:00:22",
@@ -1355,6 +1339,22 @@
       "duration_ms": 230524,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
+    },
+    {
+      "added_at": "2025-07-22 15:00:22",
+      "album": {
+        "name": "BOYZ",
+        "url": "https://open.spotify.com/album/6CjShkNC5nkZxNVdH6zlZR"
+      },
+      "artists": [
+        {
+          "name": "SixTONES",
+          "url": "https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "BOYZ",
+      "url": "https://open.spotify.com/track/1oDe5TtaFUT4puki7twdMG"
     },
     {
       "added_at": "2025-07-22 15:00:22",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-07-22 15:00:22",
       "album": {
-        "name": "\u7136\u3089\u3070",
-        "url": "https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 237904,
-      "name": "\u7136\u3089\u3070",
-      "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7"
-    },
-    {
-      "added_at": "2025-07-22 15:00:22",
-      "album": {
         "name": "\u8272\u5f69",
         "url": "https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2025-07-22 15:00:22",
       "album": {
+        "name": "\u7136\u3089\u3070",
+        "url": "https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 237904,
+      "name": "\u7136\u3089\u3070",
+      "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7"
+    },
+    {
+      "added_at": "2025-07-22 15:00:22",
+      "album": {
         "name": "\u9006\u5149 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-07-22 15:00:22",
       "album": {
-        "name": "porte",
-        "url": "https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI"
-      },
-      "artists": [
-        {
-          "name": "\u9808\u7530\u666f\u51ea",
-          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
-        }
-      ],
-      "duration_ms": 209636,
-      "name": "veil",
-      "url": "https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F"
-    },
-    {
-      "added_at": "2025-07-22 15:00:22",
-      "album": {
         "name": "Falling Up",
         "url": "https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 190093,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ"
+    },
+    {
+      "added_at": "2025-07-22 15:00:22",
+      "album": {
+        "name": "porte",
+        "url": "https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "duration_ms": 209636,
+      "name": "veil",
+      "url": "https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F"
     },
     {
       "added_at": "2025-07-22 15:00:22",

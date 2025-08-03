@@ -4,7 +4,7 @@
 
 > The indie viral hits you can't escape\. Cover: Gigi Perez
 
-162 songs - 9 hr 20 min
+163 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Over & Over](https://open.spotify.com/track/0NSKePv9EAvvCL4YHiMfUv) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Over & Over](https://open.spotify.com/album/1SvObtq8R8BpE2CsfCt2tF) | 1:40 | 2024-07-15 | 2024-07-27 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-02-18 |  |
 | [Pool](https://open.spotify.com/track/5cHDAJwQx3CUxRWHfAvbkv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 4:29 | 2025-07-28 |  |
+| [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 | 2025-07-28 |  |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-11-30 | 2024-10-30 |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2024-11-25 | 2025-05-19 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-05-20 | 2024-10-18 |
@@ -136,7 +137,7 @@
 | [See Her Out \(Thats Just Life\)](https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:30 | 2024-10-03 | 2024-10-05 |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-11-30 | 2023-12-30 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 3:16 | 2023-11-29 |  |
-| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-10-03 |  |
+| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-10-03 | 2025-08-03 |
 | [Sleep Talking](https://open.spotify.com/track/02YWpfMAUVTvsbhu3QO9fM) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Boys](https://open.spotify.com/album/00CYAyKNYKcxoszMmhAI6G) | 3:06 | 2025-06-20 |  |
 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 | 2023-11-29 | 2024-03-05 |
 | [Some Protector](https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:37 | 2025-04-04 | 2025-06-21 |

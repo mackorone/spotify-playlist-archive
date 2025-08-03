@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Jonah Kagen",
-  "num_followers": 957870,
+  "num_followers": 957849,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZteBfVrQyjbxR7xKMalxGXCSsh",
+  "snapshot_id": "AAAAAG9XjfJzsoV/pQP8RR26TQiSivbd",
   "tracks": [
     {
       "added_at": "2025-07-25 04:00:55",
@@ -71,6 +71,26 @@
       "duration_ms": 207887,
       "name": "RUT",
       "url": "https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh"
+    },
+    {
+      "added_at": "2025-08-02 14:00:33",
+      "album": {
+        "name": "Giving Up (with JOSEPH)",
+        "url": "https://open.spotify.com/album/5W2jEjoYv8uwgDYkNQKHLU"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        },
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 194997,
+      "name": "Giving Up (with JOSEPH)",
+      "url": "https://open.spotify.com/track/5VEoJBwpMt3cvEa5ptpsET"
     },
     {
       "added_at": "2025-07-25 04:00:55",
@@ -991,22 +1011,6 @@
       "duration_ms": 190534,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
-    },
-    {
-      "added_at": "2025-07-25 04:00:55",
-      "album": {
-        "name": "Growing Through It",
-        "url": "https://open.spotify.com/album/3QGYowAWcYKXjbapjtHL5v"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        }
-      ],
-      "duration_ms": 231139,
-      "name": "Growing Exponentially",
-      "url": "https://open.spotify.com/track/0vKaiWad18yPie45nWpDz8"
     },
     {
       "added_at": "2025-07-25 04:00:55",

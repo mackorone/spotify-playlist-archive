@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Compa Chuy Montana, aquí su legado sigue vigente 🕊️✨🙏
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,707 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,757 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 66 | [Prenda Del Alma](https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:20 |
 | 67 | [Caja de Muerte](https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [20 Éxitos Querido Amigo](https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq) | 3:22 |
 | 68 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
-| 69 | [Mi Credo](https://open.spotify.com/track/7GhyiB8rG71HqBmG27w7qT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:04 |
+| 69 | [Hasta Que Te Conocí](https://open.spotify.com/track/0LeeZNbW4ysuCgd1xWo5eh) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/1wsHlyDVMoYvfIQI4oZg22) | 7:13 |
 | 70 | [Necesito Un Amor](https://open.spotify.com/track/4R9jVnCwzi7ZAZKDAg1ihF) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Siempre y Para Siempre](https://open.spotify.com/album/1NEwzxQd2bLEFGD8LSiqrP) | 3:31 |
 | 71 | [Florita Del Alma](https://open.spotify.com/track/2HFV1Ag8fdvGqF28TVHtKp) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:55 |
 | 72 | [Esa Fue Mi Novia](https://open.spotify.com/track/1AQbqlR0kZTpN8kuk0T6PE) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [Éxitos de Ley](https://open.spotify.com/album/0Eszrxoxfu75PAXPwG7uRt) | 2:32 |
 | 73 | [El Chico Del Apartamento 512](https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:28 |
-| 74 | [Hasta Que Te Conocí](https://open.spotify.com/track/0LeeZNbW4ysuCgd1xWo5eh) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/1wsHlyDVMoYvfIQI4oZg22) | 7:13 |
+| 74 | [Mi Credo](https://open.spotify.com/track/7GhyiB8rG71HqBmG27w7qT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:04 |
 | 75 | [Te La Pasas feat\. EP](https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [No Eres Tu, Ahora Soy Yo](https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1) | 2:50 |
 
 Snapshot ID: `aGLbdQAAAABZMFkszH1PY/5xQB6/nZ/5`

@@ -1,32 +1,28 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 293929,
+  "num_followers": 294071,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACtemmQk+GJFk2bMWAlY48q",
+  "snapshot_id": "aIwDgAAAAACbgxbLKPYppvZ0gMyB30Ng",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "AyMami",
-        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
       },
       "artists": [
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 164131,
-      "name": "AyMami",
-      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
+      "duration_ms": 163411,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
     },
     {
       "added_at": null,
@@ -99,6 +95,26 @@
       "duration_ms": 157755,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AyMami",
+        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "AyMami",
+      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
     },
     {
       "added_at": null,
@@ -559,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Ojala",
+      "url": "https://open.spotify.com/track/6Boai8zLsZZG2AEHnlLXqj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Epa Wei",
         "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
       },
@@ -615,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Uuu",
+      "url": "https://open.spotify.com/track/0To1HWIDce0JUJbJMZno0W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
       },
@@ -651,6 +699,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 148791,
+      "name": "Istanbul",
+      "url": "https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 144950,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -671,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
       "artists": [
         {
@@ -680,9 +764,45 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 148791,
-      "name": "Istanbul",
-      "url": "https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "NO ES AMOR",
+      "url": "https://open.spotify.com/track/0YarQTTvWdA8qnalK79fdD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 144854,
+      "name": "Babylona",
+      "url": "https://open.spotify.com/track/3m9ffnQYlWhsIClqADZ5SO"
     },
     {
       "added_at": null,
@@ -716,9 +836,9 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 197366,
-      "name": "No te enamores de \u00e9l",
-      "url": "https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg"
+      "duration_ms": 149834,
+      "name": "Medio friends",
+      "url": "https://open.spotify.com/track/1WpWQJnnZL8qGNOUoF1wE9"
     },
     {
       "added_at": null,
@@ -739,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
       },
       "artists": [
         {
@@ -748,13 +868,13 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 178413,
-      "name": "NO ES AMOR",
-      "url": "https://open.spotify.com/track/0YarQTTvWdA8qnalK79fdD"
+      "duration_ms": 150314,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/1bdNW5chWyLIenlLVHY64Z"
     },
     {
       "added_at": null,
@@ -784,78 +904,6 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 149834,
-      "name": "Medio friends",
-      "url": "https://open.spotify.com/track/1WpWQJnnZL8qGNOUoF1wE9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "venequia.",
-        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "por la peque\u00f1a Venecia",
-      "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205210,
-      "name": "Fino",
-      "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "4:22",
-      "url": "https://open.spotify.com/track/1TRnIxwWeJoE6MVimzjw2w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
       "duration_ms": 144421,
       "name": "Tauro y Piscis",
       "url": "https://open.spotify.com/track/0saR6zgPZPIDxVxujDX2Ah"
@@ -872,69 +920,9 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 211546,
-      "name": "Me reh\u00faso - 2024 ac\u00fastico",
-      "url": "https://open.spotify.com/track/6VXvnqNNJ5ivmiFLlBH4Qz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
-        "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 207980,
-      "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
-      "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby I Won't",
-        "url": "https://open.spotify.com/album/25S2NFMHnTQhB0oQmi6ghq"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Baby I Won't",
-      "url": "https://open.spotify.com/track/1G0xFA3KNiKdbjhT2asL43"
+      "duration_ms": 182479,
+      "name": "por la peque\u00f1a Venecia",
+      "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
     }
   ],
   "unique_name": "This Is Danny Ocean",

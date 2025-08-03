@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,446 likes - 75 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,507 likes - 75 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 74 | [Before \- Live](https://open.spotify.com/track/337N0QJcvAYC0iVTxXPYNX) | [Boundless](https://open.spotify.com/artist/1LiHsfD2scznUKu0HH39Mo), [Nathan Jess](https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Before \(Live\)](https://open.spotify.com/album/3aTiTIdJh71J1pZLEdx4SF) | 4:10 |
 | 75 | [In Christ Alone](https://open.spotify.com/track/7rk50Ud5SVX8PU9pbCtaea) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [In Christ Alone](https://open.spotify.com/album/3MzourdoMOaPz6LOz3Uoyu) | 4:55 |
 
-Snapshot ID: `aHD/4gAAAAAs384mwiNuhH9GuP/q4UYv`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66879,
+  "num_followers": 66876,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABptLTcESYNDlx+9a6nV3w5",
+  "snapshot_id": "aIwDgAAAAADBsoAvLJU74pX7YjpPvqyu",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 324104,
-      "name": "Posso Clamar",
-      "url": "https://open.spotify.com/track/37GYyTGRnPcP01Ff7ziOoi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 322943,
       "name": "Nada Pode Calar um Adorador",
       "url": "https://open.spotify.com/track/1yGsdYR6HBxRTMVJzD5FED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 324104,
+      "name": "Posso Clamar",
+      "url": "https://open.spotify.com/track/37GYyTGRnPcP01Ff7ziOoi"
     },
     {
       "added_at": null,
@@ -207,46 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Milagre Sou Eu",
-        "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        },
-        {
-          "name": "Lucas Santos",
-          "url": "https://open.spotify.com/artist/216ebrw2DF5jcgmTR06rtR"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "O Milagre Sou Eu",
-      "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 375838,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -267,6 +227,46 @@
       "duration_ms": 341717,
       "name": "Ele Se Move",
       "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 375838,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Milagre Sou Eu",
+        "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        },
+        {
+          "name": "Lucas Santos",
+          "url": "https://open.spotify.com/artist/216ebrw2DF5jcgmTR06rtR"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "O Milagre Sou Eu",
+      "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Podes Fazer de Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 306240,
-      "name": "Tu Podes Fazer de Novo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 291646,
       "name": "Deus no Controle",
       "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Podes Fazer de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 306240,
+      "name": "Tu Podes Fazer de Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ele Vem",
+        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 403586,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Vem",
-        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 403586,
-      "name": "Ele Vem",
-      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
     },
     {
       "added_at": null,

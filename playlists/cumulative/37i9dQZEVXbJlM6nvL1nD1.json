@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 177882,
       "name": "AMISTA",
       "url": "https://open.spotify.com/track/1kJyDcBrZ7rSKnFtKc82vm"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 225838,
       "name": "Bajo El Agua",
       "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 207306,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -9088,10 +9088,32 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
+    },
+    {
+      "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d"
     },
     {
       "album": {
@@ -9568,7 +9590,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
@@ -13080,7 +13102,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
@@ -14908,7 +14930,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -15176,7 +15198,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 205264,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"
@@ -16499,6 +16521,28 @@
     },
     {
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130968,
+      "name": "Priti",
+      "url": "https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1"
+    },
+    {
+      "album": {
         "name": "Priti",
         "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
       },
@@ -16514,7 +16558,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 130968,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
@@ -21918,7 +21962,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 190605,
       "name": "Una y Otra Vez",
       "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
@@ -22518,7 +22562,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"

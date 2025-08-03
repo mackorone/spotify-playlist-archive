@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest 70s Funk\. Cover: Sly Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,998 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,020 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4MFs2skk7Il9H2ZdjzPsB9) | [Rokk](https://open.spotify.com/artist/48McRVqf7fzAy2OvfHbYba) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/68Y5osdEeNdFhWlPRiecpx) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/3Cl149D2AlCdX2YjAwvOko) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/6BEk5wE05h424K4Cund75D) | 3:57 |
 
-Snapshot ID: `aEdhaQAAAABqGKDm1s+L42Y2wcYp5UOv`
+Snapshot ID: `AAAAAHOpr/Ed4ULLeNpkc7h3U+rh1DM4`

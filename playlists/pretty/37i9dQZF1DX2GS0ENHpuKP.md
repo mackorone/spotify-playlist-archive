@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,576 likes - 93 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,629 likes - 93 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 92 | [Maruzzella](https://open.spotify.com/track/0CiS3XKKWmTsuOminBpl1B) | [Paolo Petrella](https://open.spotify.com/artist/3cwCee0r3bGytBhrccjT04), [Paolo Batà Bianconcini](https://open.spotify.com/artist/6mmAGoy7iLFg1hbrTybW4s) | [Cumbia Luciana](https://open.spotify.com/album/3TUX1v3cFEEw6fv59k61YO) | 5:03 |
 | 93 | [Tienaté](https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Tienaté](https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE) | 4:38 |
 
-Snapshot ID: `aHE8FAAAAACF2NKOgVT6ZDTCLj0mWxIS`
+Snapshot ID: `aHE8FAAAAAAaHukELrsL7nN1gcXtfPa2`

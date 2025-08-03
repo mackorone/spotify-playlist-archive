@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,921 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,923 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 9 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 |
 | 10 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 |
 | 11 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
-| 12 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
+| 12 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
 | 13 | [Kyle \(i found you\)](https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:16 |
-| 14 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
+| 14 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
 | 15 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 |
 | 16 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 |
 | 17 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 |

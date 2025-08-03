@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 84398,
+  "num_followers": 84497,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAVvjt2T8uNCpPEGdeKY9yM",
+  "snapshot_id": "aIwDgAAAAABFxEErFvS4cFVBpK5WS6KV",
   "tracks": [
     {
       "added_at": null,
@@ -623,34 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 305002,
-      "name": "Antes dos Gigantes Chegarem",
-      "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -675,6 +647,34 @@
       "duration_ms": 240055,
       "name": "HOTEL ZONA SUL",
       "url": "https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 305002,
+      "name": "Antes dos Gigantes Chegarem",
+      "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
     },
     {
       "added_at": null,
@@ -1087,26 +1087,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+        "name": "Sonho das Esquinas",
+        "url": "https://open.spotify.com/album/7mdJzXUmc1DxpXTNpSQQO2"
       },
       "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         }
       ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+      "duration_ms": 287400,
+      "name": "Sonho das Esquinas",
+      "url": "https://open.spotify.com/track/4GvOLMwaQBdFyK9UyJNJok"
     },
     {
       "added_at": null,
@@ -1131,26 +1131,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonho das Esquinas",
-        "url": "https://open.spotify.com/album/7mdJzXUmc1DxpXTNpSQQO2"
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
       "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
         }
       ],
-      "duration_ms": 287400,
-      "name": "Sonho das Esquinas",
-      "url": "https://open.spotify.com/track/4GvOLMwaQBdFyK9UyJNJok"
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,511 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,568 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 53 | [Hasta Cuando](https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke), [Los Musicales](https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:26 |
 | 54 | [Amor Querido](https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [12 Favoritas](https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk) | 4:00 |
 | 55 | [Todavía](https://open.spotify.com/track/7bHkADmhokpM5nIwkZYkbo) | [Elsa Garcia](https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:38 |
-| 56 | [Por Favor Corazon](https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:43 |
+| 56 | [Lágrimas](https://open.spotify.com/track/0Ni9rZBFkAXXQgeVli29zM) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:43 |
 | 57 | [Ay Mujer](https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 2:49 |
 | 58 | [Al Partir](https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:14 |
 | 59 | [Rosas Para Una Rosa](https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:32 |
-| 60 | [Lágrimas](https://open.spotify.com/track/0Ni9rZBFkAXXQgeVli29zM) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:43 |
+| 60 | [Por Favor Corazon](https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:43 |
 | 61 | [Nuestra Canción](https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
 | 62 | [Te Aprovechas](https://open.spotify.com/track/5XDzjngBmRhuY9Q1PAPvpe) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/7z6Mg4FgZucMjSfMxbXkoA) | 3:06 |
 | 63 | [Como Te Extrano](https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:50 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 88 | [Te Voy A Amar](https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:56 |
 | 89 | [El Mariachi Loco](https://open.spotify.com/track/7E4zThdgqCQO3WCPY0C3r5) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Porque Todavía Te Quiero](https://open.spotify.com/album/4AbAg6HHrjQzgCxni3fSLb) | 4:13 |
 | 90 | [Fotos Y Recuerdos](https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 2:35 |
-| 91 | [Quiero Ser](https://open.spotify.com/track/1y4RgBiBb7VvQUQ2EuGQuZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:21 |
+| 91 | [Don Luis El Tejano](https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:02 |
 | 92 | [Con Mis Alas Rotas](https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:36 |
 | 93 | [Un Golpe De Suerte](https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:23 |
-| 94 | [Don Luis El Tejano](https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:02 |
+| 94 | [Quiero Ser](https://open.spotify.com/track/1y4RgBiBb7VvQUQ2EuGQuZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:21 |
 | 95 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
 | 96 | [Preciosa](https://open.spotify.com/track/6lruDosJz30DwXkz1hxytg) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:43 |
 | 97 | [Soy Un Novato](https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:15 |
 | 98 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
 | 99 | [Paloma Sin Nidal](https://open.spotify.com/track/5phyOuyAYmqiYwRemC9qS8) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:45 |
-| 100 | [I Could Fall In Love](https://open.spotify.com/track/3BK927dUqOGro6GtXO3e2S) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 4:41 |
+| 100 | [Missing My Baby](https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:51 |
 
 Snapshot ID: `ZjMTHAAAAAAH9JhuIYk1QMhF0DsR2JY+`

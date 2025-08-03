@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjI92W86nZe.md) - [plain]
 
 > El que por su gusto muere, hasta la muerte la sabe\. Las historias de nuestro México con Alfredo Olivas 💀🪦💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,510 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,629 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjI92W86nZe.md) - [plain]
 | 49 | [La Tambora Va A Sonar](https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 2:39 |
 | 50 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 |
 
-Snapshot ID: `Z74A1QAAAADg8YrWgCyxWYBis4QZa4G7`
+Snapshot ID: `AAAAAASib2PyzIV4J5q36LxraI8A/bhA`

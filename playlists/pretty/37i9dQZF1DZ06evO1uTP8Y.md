@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,220 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,240 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 7 | [My Heart](https://open.spotify.com/track/1CqcGbXZrpJJygqUM8PW05) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:52 |
 | 8 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
 | 9 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
-| 10 | [SEARCHING](https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:30 |
+| 10 | [You, The World Vs Me](https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:03 |
 | 11 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 |
-| 12 | [You, The World Vs Me](https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:03 |
+| 12 | [SEARCHING](https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:30 |
 | 13 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
 | 14 | [ONOME](https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy) | 3:18 |
 | 15 | [Patience](https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 49 | [Na You](https://open.spotify.com/track/2X61NkgiKmrZz1c2WHSieA) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Marzi](https://open.spotify.com/artist/3n9c9SsiabKzoNqyjoWYdY) | [Na You](https://open.spotify.com/album/4wV1PM9TN583HAak6iCIQX) | 3:30 |
 | 50 | [Ringaling \(feat\. Headie One and Odeal\)](https://open.spotify.com/track/3clsaaFmHO6N6rvr77h68f) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:50 |
 
-Snapshot ID: `aIqyAAAAAAAvDTwa2DQZpbC4o3H3HnVi`
+Snapshot ID: `aIwDgAAAAADVyDhTUmjxphasOOU//5k0`

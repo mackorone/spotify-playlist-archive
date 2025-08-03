@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 265 songs - 14 hr 40 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 275 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,5 +273,15 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 263 | [Let's Talk About It \(feat\. Clipse\)](https://open.spotify.com/track/1FGz6lTLWBGzBkD0WpUUmK) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 5:10 |
 | 264 | [By The Grace Of God](https://open.spotify.com/track/5XhsQnSiO6JPuiG4RPTugh) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:06 |
 | 265 | [Tape You](https://open.spotify.com/track/3REnVcPtMXDxR4g8sZ4QtM) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:51 |
+| 266 | [LOCO](https://open.spotify.com/track/7tuTUJmXroFsjZv4U3bmBf) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:34 |
+| 267 | [LOOSE LEAF](https://open.spotify.com/track/0rDy4G5erghtM8RR0svKzA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:50 |
+| 268 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 |
+| 269 | [\[ADL IS COMING\]](https://open.spotify.com/track/0F31Vz4Lw1EPXF0vKPAa7Z) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:40 |
+| 270 | [M.F.U.](https://open.spotify.com/track/0H77pplHNl1rGYcRi9X7RX) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:43 |
+| 271 | [FLY NITË](https://open.spotify.com/track/3xDnJvoFMxSRmboLsYwPfU) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:48 |
+| 272 | [GROWING PAINS](https://open.spotify.com/track/5qeo2I07smHxiXY6GKMBUj) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:53 |
+| 273 | [Sneaky "B"](https://open.spotify.com/track/0tnOqAPvtKcmj3GE7Iyc58) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Sneaky "B"](https://open.spotify.com/album/5CJnXpMnstOEdvRWIGOdjf) | 2:38 |
+| 274 | [Yoppenheimer](https://open.spotify.com/track/59xdYjVILhhafdiPHBpRda) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Yoppenheimer](https://open.spotify.com/album/1eUhZBzrbVNVkP0UE1r5bB) | 2:15 |
+| 275 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
 
-Snapshot ID: `AAAe0iAnRBpOEU3mvisQOxOPTy5fzuB9`
+Snapshot ID: `AAAe3MeXLOSZYhqR78uTEfX9w+eI/IrQ`

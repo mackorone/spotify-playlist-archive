@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: LE MOTAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,665 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,672 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 42 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
 | 43 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 |
 | 44 | [Stad Van Glas](https://open.spotify.com/track/7KIghh1w3H3a6W26pD5FlO) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Stad van Glas](https://open.spotify.com/album/1zMs5mM33RFD3j1GZz0UUG) | 3:08 |
-| 45 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
+| 45 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
 | 46 | [De Tijd](https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Tijd](https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr) | 3:33 |
 | 47 | [Haast](https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Haast](https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f) | 3:00 |
 | 48 | [Als Ik Verdwaal](https://open.spotify.com/track/2CO40n2AIdtJb0z4ZSMnHj) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Als Ik Verdwaal](https://open.spotify.com/album/6KUBPnMGDsaTNvdplPKYjb) | 3:43 |
-| 49 | [Vroeger Had Ik Alles](https://open.spotify.com/track/0xABY7pJvLdFPTRMwTVnKh) | [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Gezeik \(Soundtrack\)](https://open.spotify.com/album/66QuPm5BjL1DLk6XJVtWVW) | 1:52 |
-| 50 | [niet meer zo](https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [niet meer zo](https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV) | 3:34 |
+| 49 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
+| 50 | [Vroeger Had Ik Alles](https://open.spotify.com/track/0xABY7pJvLdFPTRMwTVnKh) | [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Gezeik \(Soundtrack\)](https://open.spotify.com/album/66QuPm5BjL1DLk6XJVtWVW) | 1:52 |
 
 Snapshot ID: `aHlyjAAAAADQCK9gx6YjWaM1RHlKgkDE`

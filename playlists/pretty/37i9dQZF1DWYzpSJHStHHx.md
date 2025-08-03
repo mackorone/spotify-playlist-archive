@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,679 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,698 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,20 +60,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 50 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
 | 51 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:32 |
 | 52 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
-| 53 | [Sunday Scaries](https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Sunday Scaries](https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY) | 2:52 |
-| 54 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
+| 53 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
+| 54 | [Sunday Scaries](https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Sunday Scaries](https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY) | 2:52 |
 | 55 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
 | 56 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
 | 57 | [Stargazer](https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Stargazer](https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID) | 3:02 |
 | 58 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |
 | 59 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
-| 60 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
-| 61 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
+| 60 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |
+| 61 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
 | 62 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
 | 63 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
 | 64 | [Fever Dream](https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2) | [Jimmy Cloud](https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv), [Willy Sinclair](https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ) | [Fever Dream](https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5) | 2:20 |
-| 65 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |
-| 66 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |
+| 65 | [Stained Glass Curtain](https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ) | [Conflict at Serenity Pools](https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd) | [Stained Glass Curtain](https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L) | 2:50 |
+| 66 | [Surfin' Detective](https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3) | [The Meerkats](https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB) | [Surfin' Detective](https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi) | 4:56 |
 | 67 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
 | 68 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
 | 69 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 71 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 72 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
 | 73 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
-| 74 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
+| 74 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
 | 75 | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 |
 
 Snapshot ID: `aC8t7wAAAAChzcvrkK4nMW4/pXYi8X2A`

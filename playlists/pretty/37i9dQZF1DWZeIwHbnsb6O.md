@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,630 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,757 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 18 | [El cariño que perdí \- Con banda](https://open.spotify.com/track/7maoxJQadySDhEp2RWrtzs) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:26 |
 | 19 | [Soy Yo](https://open.spotify.com/track/5qzfsHAvFUWFChTxo9hEe6) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [20 Megaexitos Romanticos](https://open.spotify.com/album/7nBL4GGsuJafaXg4Qs5fGW) | 3:37 |
 | 20 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
-| 21 | [Dilo Tu](https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:42 |
-| 22 | [Lamento De Amor](https://open.spotify.com/track/66nefjRgrIOjrUKCnKZJPq) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [40 Aniversario \(Componente 1\)](https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq) | 3:17 |
+| 21 | [Lamento De Amor](https://open.spotify.com/track/66nefjRgrIOjrUKCnKZJPq) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [40 Aniversario \(Componente 1\)](https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq) | 3:17 |
+| 22 | [Dilo Tu](https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:42 |
 | 23 | [Déjenme llorar \- Con banda](https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 2:37 |
 | 24 | [Vamos A Platicar](https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [15 De Coleccion](https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t) | 3:18 |
 | 25 | [De Vez En Vez](https://open.spotify.com/track/49crz2PzxM5sy8aFeVIWDM) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Imprescindibles](https://open.spotify.com/album/34FPXkANKuTO0ZixD9fqrm) | 2:24 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 43 | [Hasta Que Vuelvas](https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [25 Exitos](https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We) | 3:57 |
 | 44 | [Cambia, Cambia](https://open.spotify.com/track/3aVnShJUHI4HJjSxukRmhC) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 3:22 |
 | 45 | [Ella Fue](https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Si Tú Te Acuerdas de Mi](https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG) | 4:24 |
-| 46 | [Volver Volver](https://open.spotify.com/track/2T843kQT0bYF8fa5J9vOB4) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI) | 2:57 |
-| 47 | [Llamarada](https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA) | 3:19 |
+| 46 | [Llamarada](https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA) | 3:19 |
+| 47 | [Volver Volver](https://open.spotify.com/track/2T843kQT0bYF8fa5J9vOB4) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI) | 2:57 |
 | 48 | [Quedate](https://open.spotify.com/track/6eyWgog31WtU2IG1irXU9l) | [Los João](https://open.spotify.com/artist/7u23Qh2OuzqBbQEuzHh7X9) | [Los Joao \- Quedate](https://open.spotify.com/album/2ZcSYMy0gzMQjSnT3PVNJL) | 3:34 |
 | 49 | [Lost In My World \(Perdido en Mi Mundo\)](https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:07 |
 | 50 | [Si Supieras](https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Las Número 1 de Manoella Torres](https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM) | 3:17 |

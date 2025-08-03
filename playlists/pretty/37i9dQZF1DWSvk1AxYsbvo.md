@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,116 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,131 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 23 | [Joy](https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2) | 2:40 |
 | 24 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
 | 25 | [Green \(feat\. Sonny Zero\) \- Korean Version](https://open.spotify.com/track/2mg7e1agZxXUaFHfkejgul) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Green \(Korean Version\)](https://open.spotify.com/album/6pHyGhqsTeSu7EXQB32bAw) | 2:53 |
-| 26 | [Seesaw](https://open.spotify.com/track/2QmCEHRbRyl1OjqBC0lmoS) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Seesaw](https://open.spotify.com/album/0sqUVkNYhIvfiC37x1MxHl) | 2:53 |
-| 27 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 |
+| 26 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 |
+| 27 | [Seesaw](https://open.spotify.com/track/2QmCEHRbRyl1OjqBC0lmoS) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Seesaw](https://open.spotify.com/album/0sqUVkNYhIvfiC37x1MxHl) | 2:53 |
 | 28 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 |
 | 29 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 |
 | 30 | [Your Sun Is Stupid](https://open.spotify.com/track/0dSzOuc6GcCz4IYUgyTAie) | [Big Baby Driver](https://open.spotify.com/artist/4JgbccOQwDGx8VDrmJsxMI) | [Big Baby Driver](https://open.spotify.com/album/0K3kITcUWB1iM35W2KLJpQ) | 2:35 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 44 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 45 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
 | 46 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 |
-| 47 | [Love Letter](https://open.spotify.com/track/4SaKKiDTgFIJvoeG1mjlgf) | [ SHIN SOOHYUN](https://open.spotify.com/artist/4cYFhgAfVfdeAy40A7pyO8) | [Love Letter](https://open.spotify.com/album/6aOFvbkNJUbutdkF7mQP31) | 3:56 |
-| 48 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
-| 49 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
-| 50 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 47 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
+| 48 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
+| 49 | [Love Letter](https://open.spotify.com/track/4SaKKiDTgFIJvoeG1mjlgf) | [ SHIN SOOHYUN](https://open.spotify.com/artist/4cYFhgAfVfdeAy40A7pyO8) | [Love Letter](https://open.spotify.com/album/6aOFvbkNJUbutdkF7mQP31) | 3:56 |
+| 50 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
 
 Snapshot ID: `aIbhowAAAADERWZVm0vTLmAhEbYU/ZmB`

@@ -3,11 +3,1332 @@
   "num_followers": 6454,
   "original_name": "Bring Back the 2000s",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAAoJvfGNaB1pizSDYCOn4GIpQlBUZa",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/2Pr6XAzfBObBUTgiSXmr3n"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/6GC6lcKgjCdsdIz5OiCUw5"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Frank & Back To Black",
+        "url": "https://open.spotify.com/album/4O5NY8SjUZqs4D9tvhJhk6"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/1bGQ57jxWpqBWMMw1X9ni7"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/00XMrHZoOsYLmiyx890axX"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya! - Radio Mix / Club Mix",
+      "url": "https://open.spotify.com/track/5WQ1hIc5d2EVbRQ8qsj8Uh"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/5z1Su2S6WXspjhLNBkAScm"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/5DCA1FOUDBURlRTNg4ganf"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "M!ssundaztood",
+        "url": "https://open.spotify.com/album/03pT16iWbhVKpDodI37D8b"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Get the Party Started",
+      "url": "https://open.spotify.com/track/4bk78jvK8Fe9YHqruOJW0v"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/7h6XeTzy0SRXDrFJeA9gO7"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/4omisSlTk6Dsq2iQD7MA07"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Nellyville (Explicit Version)",
+        "url": "https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/0oXuKhuNkXiZtuoxrdt3Ca"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "All You Wanted",
+      "url": "https://open.spotify.com/track/0kr6d8wHDQPlzuET33NVn6"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Chariot",
+        "url": "https://open.spotify.com/album/70ZsiClM7RBUsoTERq2qXu"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "I Don't Want to Be",
+      "url": "https://open.spotify.com/track/1ccNXmmgYnajJ8ulYYEK9Y"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 216880,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Life For Rent",
+        "url": "https://open.spotify.com/album/0AT7x0fzP1D1oFxwWZUPoE"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/6g5kjnAcxn057GzPqOPUy8"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "t.A.T.u. - The Best",
+        "url": "https://open.spotify.com/album/6MWyJ2fcZPAXMk8JOfKPKF"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "All The Things She Said - Original Album Version (Edited)",
+      "url": "https://open.spotify.com/track/2yVvXAQIuYpd6PIetGYppQ"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "P.I.M.P. (International Version)",
+        "url": "https://open.spotify.com/album/3JvNOcNBCD3K6ML4CJ4cUM"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249840,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/1IRNjfivqiDhzey02C11ge"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/2cMTIlktg3M9mXYqCPqw1J"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 264893,
+      "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
+      "url": "https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Monkey Business (International Version)",
+        "url": "https://open.spotify.com/album/6Cu5XkN2BOy4XZxs3tmiuj"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 326960,
+      "name": "My Humps",
+      "url": "https://open.spotify.com/track/2tVouQintSo2ffjVgnv6Sh"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Suga Suga",
+        "url": "https://open.spotify.com/album/30EknR1eWRmfP4aQhAzMYw"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Suga Suga",
+      "url": "https://open.spotify.com/track/14B2bUopOga5V3ypld7d6n"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "The R. In R&B Collection: Volume 1",
+        "url": "https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl"
+      },
+      "artists": [
+        {
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Ignition (Remix)",
+      "url": "https://open.spotify.com/track/0nmxH6IsSQVT1YEsCB9UMi"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "In Your Honour",
+        "url": "https://open.spotify.com/album/02jqf49ws9bcTvXLPGtjbT"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best Of You",
+      "url": "https://open.spotify.com/track/35eI7JN7aJ9lkCUgcPWn4h"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "All That You Can't Leave Behind (EU Version)",
+        "url": "https://open.spotify.com/album/1RU8Q05flmfFoczPtuWoHv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/4icxdcI1mNNFNDx0ChCRy7"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Sheryl Crow - Hits & Rarities (International Version)",
+        "url": "https://open.spotify.com/album/0Ti0WDl5NvXlDxcVGnYNMs"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 291413,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/7F1BUnd7mjogQZHZ2FcME1"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/37qI0mchgzUSeUhPiwUWPY"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/2ixev48xYzspaWS6mxTPRU"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Country Grammar (Hot Shit)",
+      "url": "https://open.spotify.com/track/5pZrTiyyerSGHUJExDCOxZ"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Servicio De Lavander\u00eda",
+        "url": "https://open.spotify.com/album/62F8unRY46ZDR2EE5ag5Z5"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/0RJWhctsc1G1Hg3Ov2th7x"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/6WTTIoyBv6hUNYNnGsmRbJ"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Thong Song",
+      "url": "https://open.spotify.com/track/60e1nB8fP9h4Yw44sIfeQx"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Songs From Dawson's Creek, Vol. II",
+        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+      },
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Superman (It's Not Easy)",
+      "url": "https://open.spotify.com/track/1GVj2x3lXqvK4TaYF41rxc"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "The Boombastic Collection - Best Of Shaggy (International Version)",
+        "url": "https://open.spotify.com/album/0JFoLERkkPF0TMg5XnMjDs"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Rik Rok",
+          "url": "https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/0ec2YqaLnasKAES0iWMmhy"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "A Thousand Miles (Enhanced)",
+        "url": "https://open.spotify.com/album/2LRcfTB3ZI7xHDyu1HseQg"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "A Thousand Miles - Single Version",
+      "url": "https://open.spotify.com/track/6t6rudGjkLftasgUiSGcPN"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/0ihjmiVZGjZWS7x7sa1S9d"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/1GakyY5lyvZGZXZYkk3FjS"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "The Last Temptation",
+        "url": "https://open.spotify.com/album/0rLZHGRrjPwwUTfEPNTawc"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 278720,
+      "name": "Mesmerize",
+      "url": "https://open.spotify.com/track/2iclfHORMqpR3TxuhwVRhD"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "It Ain't Safe No More. . .",
+        "url": "https://open.spotify.com/album/7xfoGxTPNTt33IVcWjDrRt"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Flipmode Squad",
+          "url": "https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl"
+        }
+      ],
+      "duration_ms": 324306,
+      "name": "I Know What You Want (feat. Flipmode Squad)",
+      "url": "https://open.spotify.com/track/440JHgcmlgu65MbKBg20ba"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/2zZZazmfGkAIFCYapYBSWP"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Don't Cha",
+      "url": "https://open.spotify.com/track/4o3cq2szX7THGyZDsWtp59"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Dip It Low",
+        "url": "https://open.spotify.com/album/3iJxV52syDyKSOoS6aC3cE"
+      },
+      "artists": [
+        {
+          "name": "Christina Milian",
+          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Dip It Low",
+      "url": "https://open.spotify.com/track/4L55p6txv9vuCWhpNnY6eY"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Sick Of Being Lonely",
+        "url": "https://open.spotify.com/album/77gfNwjzJEu82d8ai8TGtd"
+      },
+      "artists": [
+        {
+          "name": "Field Mob",
+          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Sick Of Being Lonely",
+      "url": "https://open.spotify.com/track/7kScbS865xisYyLJUUHwY6"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Ultimate R&B (International Version)",
+        "url": "https://open.spotify.com/album/5vnT57kyyPAtwEUtJQQyWx"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "My Love Is Like...Wo - Main Mix/Album Version",
+      "url": "https://open.spotify.com/track/3Hv5C8sbNd8i6LhfrIY3Yo"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2EllCL0ddoEdwKWW0hKEPN"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2mHNLanyznatvwMwGCfU2i"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "No Such Thing",
+      "url": "https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0zktx87Zil6xHw7OWtXwIz"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/3Y8WRvVlQHMvtBwaV4TGlJ"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "The Senior",
+        "url": "https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "In Those Jeans",
+      "url": "https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Curtain Call (Deluxe)",
+        "url": "https://open.spotify.com/album/71xFWYFtiHC8eP99QB30AA"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Cleanin' Out My Closet",
+      "url": "https://open.spotify.com/track/7wFmQutRb7XUDo2mlftXa2"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3UdSdz4TjW3tjmTZE03Ehv"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/7C86DVl6REN8VPeGEMOf9q"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Kings Of Crunk",
+        "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        },
+        {
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        }
+      ],
+      "duration_ms": 334066,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
+      },
+      "artists": [
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "One Minute Man (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/0jG92AlXau21qgCQRxGLic"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "La Bella Mafia",
+        "url": "https://open.spotify.com/album/1R2LlG2a5ThXAVYfNtmWZR"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 334773,
+      "name": "Magic Stick",
+      "url": "https://open.spotify.com/track/4SVLlDIeY6w5axpMVhy0qH"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/3uokrD2y3VIZ2z1lGLJ2ez"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/3Noa5kppo2crIEMpwOmsHf"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+      },
+      "artists": [
+        {
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Right Thurr",
+      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Tipsy",
+        "url": "https://open.spotify.com/album/75g3L3m32TIGTugnpNeJDt"
+      },
+      "artists": [
+        {
+          "name": "J-Kwon",
+          "url": "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
+        }
+      ],
+      "duration_ms": 247106,
+      "name": "Tipsy - Club Mix",
+      "url": "https://open.spotify.com/track/6fqqAsCYfDOtXAD8Ydo06K"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "The Jump Off",
+        "url": "https://open.spotify.com/album/1NkY8i3eomC9juoFFoTFSh"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "The Jump Off",
+      "url": "https://open.spotify.com/track/08cqYeYWTjDUqNLVOiJMUF"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Turn Me On (Online Music)",
+        "url": "https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0Y332qE9Yrq5NN0QY2aTln"
+      },
+      "artists": [
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Wanna Get To Know You",
+      "url": "https://open.spotify.com/track/6mU3a8GcwOt1FiT06TiTFF"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Get It On...Tonite",
+        "url": "https://open.spotify.com/album/37NzUuSoEWf1a2nKWcRHv4"
+      },
+      "artists": [
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        }
+      ],
+      "duration_ms": 276224,
+      "name": "Get It On Tonite",
+      "url": "https://open.spotify.com/track/5iKYZAcAchghry6h8Iu5IL"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "R&B Hits",
+        "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Peaches & Cream (feat. P. Diddy)",
+      "url": "https://open.spotify.com/track/6iajHa34cSiD5s42Cq9miJ"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Rule 3:36",
+        "url": "https://open.spotify.com/album/0pTkklbz3Z2nngNxOk8xbM"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        },
+        {
+          "name": "Lil' Mo",
+          "url": "https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/0VGHoMRGfUf2CMFokyuhaC"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "R&B Hits",
+        "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "I Need a Girl (Pt. 1) [feat. Usher & Loon]",
+      "url": "https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        },
+        {
+          "name": "Mario Winans",
+          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
+        }
+      ],
+      "duration_ms": 285586,
+      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
+      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Get Ur Freak On - R&B Anthems",
+        "url": "https://open.spotify.com/album/2jMO6nL86sKZR1UsvZV54s"
+      },
+      "artists": [
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Oops (Oh My) (feat. Missy Elliott) - 2012 Collection Remaster",
+      "url": "https://open.spotify.com/track/64afZKCOK6u3iVMOLaRGLI"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Playlist: The Very Best Of Omarion",
+        "url": "https://open.spotify.com/album/2fWjB2sGEPtte5tWTQlU4v"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Bump, Bump, Bump (feat. P. Diddy)",
+      "url": "https://open.spotify.com/track/5tKbrFMvQJlG1reK5aDmkc"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Back In The Day ... Hip Hop Classics",
+        "url": "https://open.spotify.com/album/296IL53UMChcX9kIqopeNv"
+      },
+      "artists": [
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Freek-A-Leek",
+      "url": "https://open.spotify.com/track/7mbHBynOPIPJ0rEqp7K7PQ"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Bluestars",
+        "url": "https://open.spotify.com/album/5mAjYVpMG2MHn8qLYqYoaX"
+      },
+      "artists": [
+        {
+          "name": "Pretty Ricky",
+          "url": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju"
+        }
+      ],
+      "duration_ms": 239386,
+      "name": "Grind With Me",
+      "url": "https://open.spotify.com/track/1ILtQzEsKALgFVVlbeqCGS"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Ultimate R&B (International Version)",
+        "url": "https://open.spotify.com/album/5vnT57kyyPAtwEUtJQQyWx"
+      },
+      "artists": [
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Slow Down - 12\" Version",
+      "url": "https://open.spotify.com/track/2FLi5qKmz0tgiSBPvW1jKg"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Suit",
+        "url": "https://open.spotify.com/album/2OngzqI3AHJL8k3XlTWEam"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Over And Over - Album Version / Explicit",
+      "url": "https://open.spotify.com/track/6zrKRVtq4cjkZLXzjpS4Ij"
+    },
+    {
+      "added_at": "2016-08-24 12:40:31",
+      "album": {
+        "name": "Get It Poppin' (feat. Nelly) [Radio Version]",
+        "url": "https://open.spotify.com/album/6vKZKCLOg4Yc8VuxFEowtY"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Get It Poppin' (feat. Nelly) - Radio Version",
+      "url": "https://open.spotify.com/track/3zdDxhDo5SycC7XSAPfdjv"
+    }
+  ],
   "unique_name": "Bring Back the 2000s",
   "url": "https://open.spotify.com/playlist/5baU2nNxC8ag8XzlHNsANg"
 }

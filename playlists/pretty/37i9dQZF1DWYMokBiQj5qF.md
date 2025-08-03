@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMokBiQj5qF.md) - [plain]
 
 > Immerse yourself in the sounds of Night City with the official playlist for Cyberpunk 2077.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,387 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,844 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMokBiQj5qF.md) - [plain]
 | 49 | [Kill the Messenger](https://open.spotify.com/track/68yx2Beo1RjNVZnqJLSLdI) | [Rezodrone](https://open.spotify.com/artist/2tEdEw3y27YJiYmE7PBhEt), [The Cartesian Duelists](https://open.spotify.com/artist/1mOFFFCUHaHqHh7MqYG4GU) | [Cyberpunk 2077: More Music from Night City Radio \(Original Soundtrack\)](https://open.spotify.com/album/4mrlWRASoO5Ue8IXLHAApC) | 3:28 |
 | 50 | [Never Fade Away \(SAMURAI Cover\)](https://open.spotify.com/track/6pV1lc8lIc8ARNB6KsZukt) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM), [Olga Jankowska](https://open.spotify.com/artist/21wBpKqWBjOZA1lERaq4lb) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:46 |
 
-Snapshot ID: `AAAAABdxf+CJFS5A6PXmRRs2SPzdsQVQ`
+Snapshot ID: `ZRcOhQAAAABfWdjgZh8mDvC1itvomgMh`

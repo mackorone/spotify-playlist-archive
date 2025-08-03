@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Tesher, Jonita Gandhi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,257 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,285 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 48 | [Ishq Mera \(Feat\. Esha Gupta\)](https://open.spotify.com/track/6TOeOjAKDOxJon6geucX92) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Mukund Suryawanshi](https://open.spotify.com/artist/2hrppdWsJvHkX3y1yLjUTa) | [Ishq Mera \(Feat\. Esha Gupta\)](https://open.spotify.com/album/5nyfbc7DahN9JT6R2iudhx) | 3:58 |
 | 49 | [Raatein Guzaari](https://open.spotify.com/track/0ZnBHVFiUAnVTF38LUVDpR) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raatein Guzaari](https://open.spotify.com/album/60trf9nIrCQdiU7CcoUyK6) | 2:57 |
 
-Snapshot ID: `AAAAAGiGbOwBsapAy4LTT7Ni4fg+rve8`
+Snapshot ID: `aIwttgAAAABIR3/qmyE0BxJqDbmosOFP`

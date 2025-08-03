@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 
 > Des chansons qui vous feront rire, vous et vos enfants
 
-[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 26 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 26 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

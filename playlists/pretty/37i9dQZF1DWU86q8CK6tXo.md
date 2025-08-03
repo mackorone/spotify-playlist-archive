@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,956 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,960 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 21 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 |
 | 22 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
 | 23 | [Oh Lala](https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Oh Lala](https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW) | 3:50 |
-| 24 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 |
-| 25 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 |
+| 24 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 |
+| 25 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 |
 | 26 | [Desperate](https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Desperate](https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9) | 3:30 |
 | 27 | [You Ain't Gotta Die \(To Be Dead To Me\)](https://open.spotify.com/track/5Bs3A5vn8M6RPpARXL0cMh) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 3:19 |
 | 28 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
@@ -51,18 +51,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 41 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
 | 42 | [Vertigo](https://open.spotify.com/track/5ElhrA4i6PX4vkJ6sOEPE3) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Vertigo](https://open.spotify.com/album/7awFCf1IxOUrMpBqt4IZxx) | 3:04 |
 | 43 | [Ain't Sad About It](https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Ain't Sad About It](https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq) | 3:43 |
-| 44 | [HAKiA](https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [HAKiA](https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi) | 2:13 |
-| 45 | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/album/5PzOrHKY9PIZ0FjR4lLglH) | 3:09 |
+| 44 | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/album/5PzOrHKY9PIZ0FjR4lLglH) | 3:09 |
+| 45 | [HAKiA](https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [HAKiA](https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi) | 2:13 |
 | 46 | [White Limousine](https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc) | 4:07 |
 | 47 | [bad brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 |
 | 48 | [I Won't Sleep](https://open.spotify.com/track/0mi2jX9EjiMcG0lRqV2gPB) | [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [I Won't Sleep](https://open.spotify.com/album/2Cv3X0S014FgbbBahaEQLh) | 2:15 |
-| 49 | [Heartthrob](https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Heartthrob](https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP) | 3:13 |
-| 50 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
+| 49 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
+| 50 | [Heartthrob](https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Heartthrob](https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP) | 3:13 |
 | 51 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
 | 52 | [I'm in Love](https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Planting by the Signs](https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t) | 3:42 |
 | 53 | [Hole In A Frame](https://open.spotify.com/track/0yhZkGZwcvcnUCfJ6MulaT) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 3:03 |
 | 54 | [sofocón](https://open.spotify.com/track/53Ox636iTlznBrMT3FH8Jd) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [sofocón](https://open.spotify.com/album/03scjA6OFm6LUFQQa8dOOy) | 2:26 |
-| 55 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
-| 56 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
+| 55 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
+| 56 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 
 Snapshot ID: `aIw+IgAAAAAsUvd0PrtEIIF9nL8QbDp2`

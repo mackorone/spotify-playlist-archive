@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-175 songs - 9 hr 38 min
+176 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2023-12-07 |  |
 | [Goma](https://open.spotify.com/track/6ADV5jQv9nflcA5t4DIlwY) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Goma](https://open.spotify.com/album/0z6pXUmnSyaaZHKYt9SMkC) | 2:29 | 2024-06-07 |  |
 | [GUARACHA](https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [GUARACHA](https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy) | 2:37 | 2023-12-01 | 2024-06-08 |
-| [GUIAME](https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [GUIAME](https://open.spotify.com/album/057ObaWRT9nY13cHAEggco) | 3:18 | 2024-07-25 |  |
+| [GUIAME](https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [GUIAME](https://open.spotify.com/album/057ObaWRT9nY13cHAEggco) | 3:18 | 2024-07-25 | 2025-08-03 |
 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2024-02-29 | 2024-04-19 |
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2024-04-05 |  |
 | [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 | 2023-12-01 | 2024-04-19 |
@@ -95,6 +95,7 @@
 | [Liit](https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Liit](https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss) | 2:47 | 2023-12-01 | 2024-08-12 |
 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 | 2023-12-01 |  |
 | [Llamame](https://open.spotify.com/track/52pBr4O7TlAQ7rDS8TPxlf) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Llamame](https://open.spotify.com/album/3qx0TEK0UIW4bceOm50D8f) | 3:28 | 2024-06-07 |  |
+| [Llueve Sobre Mojado](https://open.spotify.com/track/7AbXvFA3CC6sA7t1wlwApo) | [Deborah De Corral](https://open.spotify.com/artist/0cEINGGZS5I0npSooTOQRZ) | [Piel](https://open.spotify.com/album/22zFtS2ipuNixDofMq176B) | 4:03 | 2024-09-20 |  |
 | [Lo que fuera](https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo que fuera](https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia) | 2:57 | 2024-01-19 |  |
 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 | 2023-12-01 | 2024-12-02 |
 | [Magia](https://open.spotify.com/track/1DhyUIHhu7e6KwiTfKasiU) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Magia](https://open.spotify.com/album/2HKVZFyt8s52LzQYhZsmic) | 2:56 | 2023-12-01 | 2024-04-19 |

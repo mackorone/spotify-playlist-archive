@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 275794,
+  "num_followers": 275928,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -139,8 +139,8 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 208066,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
+      "duration_ms": 247840,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -219,8 +219,8 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Quiereme",
-        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 247840,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN"
+      "duration_ms": 208066,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -539,26 +539,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Recuerdos, Tristeza Y Soledad",
-      "url": "https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 279333,
       "name": "Olv\u00eddame t\u00fa (with Marco Antonio Sol\u00eds) - MTV Unplugged",
       "url": "https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Recuerdos, Tristeza Y Soledad",
+      "url": "https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "C\u00f3mo Me Duele Irte Perdiendo",
-      "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "C\u00f3mo Me Duele Irte Perdiendo",
+      "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
-      },
-      "artists": [
-        {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 291640,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Mi Rechazo",
-      "url": "https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 235106,
       "name": "\u00bf A D\u00f3nde Vamos A Parar ?",
       "url": "https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Mi Rechazo",
+      "url": "https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1839,8 +1839,8 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "A Traves De Tus Ojos",
-        "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
       },
       "artists": [
         {
@@ -1848,9 +1848,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 286013,
-      "name": "Chiquilla Bonita",
-      "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
+      "duration_ms": 245786,
+      "name": "Mi Mayor Necesidad",
+      "url": "https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1923,8 +1923,8 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Quiereme",
-        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
+        "name": "A Traves De Tus Ojos",
+        "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
       },
       "artists": [
         {
@@ -1932,9 +1932,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 245786,
-      "name": "Mi Mayor Necesidad",
-      "url": "https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq"
+      "duration_ms": 286013,
+      "name": "Chiquilla Bonita",
+      "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
     },
     {
       "added_at": "2025-01-23 17:30:18",

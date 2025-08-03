@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,168 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,174 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 14 | [Disco Tango](https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj) | [Tommy Seebach](https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz) | [Disco Tango \[Remastered\]](https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY) | 2:50 |
 | 15 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
 | 16 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
-| 17 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
-| 18 | [1, 2, 3](https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK) | [Catherine Ferry](https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A) | [Mélodie bleue](https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm) | 2:30 |
+| 17 | [1, 2, 3](https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK) | [Catherine Ferry](https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A) | [Mélodie bleue](https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm) | 2:30 |
+| 18 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
 | 19 | [Bailemos un Vals](https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj) | [José Velez](https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm) | [Lo Mejor de José Velez](https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8) | 3:07 |
 | 20 | [Occhi di ragazza](https://open.spotify.com/track/1w7ID6DNVqWTkFigG5bHgE) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/0Bp1XMvxKay4gZrEkMXn6w) | 2:52 |
 | 21 | [Swiss Lady](https://open.spotify.com/track/0832pCssQRETuqoNPLOtpO) | [Pepe Lienhard Band](https://open.spotify.com/artist/5eCPVMIgv86yjbfmCp4faz) | [Swiss Lady](https://open.spotify.com/album/033LXpLUFi89URJiEqc2qf) | 2:58 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 31 | [I See A Star](https://open.spotify.com/track/7qsXX1PCCCsGusfjU7gTFu) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [How Do You Do?](https://open.spotify.com/album/48yOqmMIGCwGJIKSeQxeVJ) | 2:56 |
 | 32 | [Ding\-A\-Dong \(English\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
 | 33 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
-| 34 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
-| 35 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
+| 34 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
+| 35 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
 | 36 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
 | 37 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
 | 38 | [Save Your Kisses For Me \- Re\-Recording](https://open.spotify.com/track/6SLwazNlnXu3cwn9sYhRZd) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [The Definitive Collection](https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43) | 3:03 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 49 | [Merci Chérie](https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Alle Macht den Gefühlen](https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI) | 2:46 |
 | 50 | [Il giorni dell 'arcobaleno](https://open.spotify.com/track/43lMF4kX4cIAdgYUaCPCSj) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Todos sus Exitos: Nicola di Bari](https://open.spotify.com/album/7sgdkdAYvA72xtayFNSU8Z) | 3:06 |
 | 51 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
-| 52 | [Tom Pillibi](https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS) | [Jacqueline Boyer](https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH) | [Succès et raretés \(Collection "78 tours et puis s'en vont..."\)](https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG) | 3:03 |
-| 53 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
+| 52 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
+| 53 | [Tom Pillibi](https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS) | [Jacqueline Boyer](https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH) | [Succès et raretés \(Collection "78 tours et puis s'en vont..."\)](https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG) | 3:03 |
 | 54 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |
 | 55 | [Era](https://open.spotify.com/track/6rOWvMzDHtOUabr8TsDVrh) | [Dori Ghezzi](https://open.spotify.com/artist/28iEG9gvRrh6taxyKFmDnB), [Wess](https://open.spotify.com/artist/1pXnYmLbedhz708gdE8zhe) | [Wess & Dori Ghezzi](https://open.spotify.com/album/13I0wj6y9uifqp1jYk8htl) | 2:53 |
 | 56 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |

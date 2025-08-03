@@ -4582,7 +4582,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
@@ -7058,7 +7058,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 232706,
       "name": "Bwo",
       "url": "https://open.spotify.com/track/4De1ry2yC79qVUR2So9to8"
@@ -33457,6 +33457,28 @@
     },
     {
       "album": {
+        "name": "PARISIENNE",
+        "url": "https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158859,
+      "name": "PARISIENNE",
+      "url": "https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj"
+    },
+    {
+      "album": {
         "name": "Depuis le temps",
         "url": "https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu"
       },
@@ -43183,6 +43205,24 @@
     },
     {
       "album": {
+        "name": "D&P \u00e0 vie",
+        "url": "https://open.spotify.com/album/6uM848cCnX04qUjs3Fkfep"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "Toi et moi",
+      "url": "https://open.spotify.com/track/6F1q9sr0YSCqsxtitQ4N0V"
+    },
+    {
+      "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
       },
@@ -43520,7 +43560,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 180973,
       "name": "Tout Pour L'\u00e9quipe",
       "url": "https://open.spotify.com/track/2D2JZ8FHmkyGxcGrDpWGe4"
@@ -45308,7 +45348,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -45330,7 +45370,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 135013,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt"
@@ -45476,6 +45516,28 @@
       "duration_ms": 161920,
       "name": "Velar",
       "url": "https://open.spotify.com/track/2MGSHTuIsRqGmYqjswWiBB"
+    },
+    {
+      "album": {
+        "name": "Encore / Viano",
+        "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111764,
+      "name": "Viano",
+      "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
     },
     {
       "album": {

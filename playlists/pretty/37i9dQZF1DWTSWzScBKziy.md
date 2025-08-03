@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Jeremy Rosado
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,106 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,132 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 74 | [Over & Over](https://open.spotify.com/track/52FhD7HIHbPCmSdR9ZfunL) | [Travis Clark](https://open.spotify.com/artist/4GdxPCUc1CXEoynATy6qe5) | [Over & Over](https://open.spotify.com/album/0YIgZ5628fUKFxQIcoZflR) | 3:15 |
 | 75 | [Searching for Mercy](https://open.spotify.com/track/48CnSKjksR3L0udDsF4jjo) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Letters at Midnight, Vol.1](https://open.spotify.com/album/6NLyzUxgvlIGygLVzvNwd5) | 2:36 |
 
-Snapshot ID: `aHvNRAAAAABBK7KApQhUybfJGaXoAq1z`
+Snapshot ID: `AAAAAHoZfJr6zazwD8GtVqmAwjYpkN/l`

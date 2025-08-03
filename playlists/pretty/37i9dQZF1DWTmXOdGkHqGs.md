@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,558 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,620 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 14 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
 | 15 | [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 |
 | 16 | [Otra Noche](https://open.spotify.com/track/1bh78E6P230qD5OLLNnAqq) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Cumbia del Corazón](https://open.spotify.com/album/2vfaAgiqzNxbHP14nIe0Ht) | 3:18 |
-| 17 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 |
-| 18 | [Voy a pintar un corazón](https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:28 |
+| 17 | [Voy a pintar un corazón](https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:28 |
+| 18 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 |
 | 19 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
 | 20 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
 | 21 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 56 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 |
 | 57 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
 | 58 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
-| 59 | [Lo Haré por Ti](https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Lo Haré por Ti](https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6) | 3:48 |
-| 60 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
+| 59 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
+| 60 | [Lo Haré por Ti](https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Lo Haré por Ti](https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6) | 3:48 |
 | 61 | [16 Toneladas \- Radio Edit](https://open.spotify.com/track/1PyKQCH6KRFw55dYeWXB80) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [16 Toneladas \(Radio Edit\)](https://open.spotify.com/album/5A0kulglTtKewmTdqYYpAc) | 4:30 |
 | 62 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
 | 63 | [Tirate un paso](https://open.spotify.com/track/4Bb0zvyxchESHX1gNyAfWN) | [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo) | [Tirate un paso](https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm) | 3:04 |

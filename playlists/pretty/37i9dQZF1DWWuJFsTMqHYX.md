@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,372 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,493 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 28 | [Be Ki Don](https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Albala](https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH) | 5:11 |
 | 29 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
 | 30 | [Sinanon Saran \(Chant de griot\)](https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 3:43 |
-| 31 | [Haiyu \- Bonus Track](https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [Shouka \(Versión Con Bonus Track\)](https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0) | 3:22 |
-| 32 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |
-| 33 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
+| 31 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
+| 32 | [Haiyu \- Bonus Track](https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [Shouka \(Versión Con Bonus Track\)](https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0) | 3:22 |
+| 33 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |
 | 34 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 35 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
 | 36 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 47 | [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 |
 | 48 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
 | 49 | [Taxi Brousse](https://open.spotify.com/track/67MvBcAEhyKnyNdT1A54wi) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3 MA \(Madagascar, Mali, Maroc\)](https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2) | 1:28 |
-| 50 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
+| 50 | [Banani \- feat\. Lobi Traoré](https://open.spotify.com/track/0pKqawIX3uh1iycrPw5LMQ) | [Bassekou Kouyate](https://open.spotify.com/artist/2reknFuZPFjVat474Q35SQ), [Ngoni ba](https://open.spotify.com/artist/2wgNtcVFxnFkxrjpPZxXiw), [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Segu Blue](https://open.spotify.com/album/4QTlRKU34j7RvBuflzAOSP) | 3:39 |
 
 Snapshot ID: `aFBpTwAAAACnCCJAQidhx8D5u2oIWmGU`

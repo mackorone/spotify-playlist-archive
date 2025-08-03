@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,170 likes - 42 songs - 2 hr 50 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,168 likes - 43 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 40 | [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 |
 | 41 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 |
 | 42 | [Non\-Fiction](https://open.spotify.com/track/7dDauLlNTGu5I1PHBcrhFe) | [Piano Magic](https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt) | [Seasonally Affective, A Piano Magic Retrospective 1996\-2000: Disc 1](https://open.spotify.com/album/5DITMuAXKBK4CdWWMPFQ6L) | 3:47 |
+| 43 | [tailspin](https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs), [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 3:38 |
 
-Snapshot ID: `AAAM4MPdwsQ6kc5jw5IYluNL4X9bJdau`
+Snapshot ID: `AAAM4Q2uP9OCEKwZMudx9uyKDWlk7cdA`

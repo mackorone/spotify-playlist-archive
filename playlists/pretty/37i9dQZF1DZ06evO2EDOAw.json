@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4998,
+  "num_followers": 4999,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADjyiH5raXNHo3TPfzhBV33",
+  "snapshot_id": "aIwDgAAAAAB80CPvRtE0YklcXWOqarSd",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Flaws",
+      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 238610,
       "name": "We Need You",
       "url": "https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -755,22 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+        "name": "V4...The Other Side",
+        "url": "https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         }
       ],
-      "duration_ms": 217911,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+      "duration_ms": 238733,
+      "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2"
     },
     {
       "added_at": null,
@@ -823,50 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V4...The Other Side",
-        "url": "https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ"
-      },
-      "artists": [
-        {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glory Song",
-        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 307960,
-      "name": "All Glory",
-      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -895,6 +875,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory Song",
+        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 307960,
+      "name": "All Glory",
+      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Judge Me (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 204000,
       "name": "Don't Judge Me (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
     },
     {
       "added_at": null,
@@ -1111,22 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND (Deluxe)",
-        "url": "https://open.spotify.com/album/6nm8tTmroGHi4nxsqcAmPQ"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 334640,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/54IEqN27jsWFRIKstqk9Fg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Owe You",
         "url": "https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 172693,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACELAND (Deluxe)",
+        "url": "https://open.spotify.com/album/6nm8tTmroGHi4nxsqcAmPQ"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 334640,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/54IEqN27jsWFRIKstqk9Fg"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

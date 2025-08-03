@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,639,485 likes - 125 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,639,564 likes - 125 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 124 | [Bosse Zorro](https://open.spotify.com/track/2QgZMS7J44N1cHflkK2are) | [OHOJ](https://open.spotify.com/artist/5oL30GXMiPkJpEQ99Q7Cdh), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Bosse Zorro](https://open.spotify.com/album/6LrpCNNRKvpn0F9sRZ38UY) | 4:07 |
 | 125 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 |
 
-Snapshot ID: `AAAAAHrjx8LQOMIJ/GyU+RpgeuO9qP1/`
+Snapshot ID: `aHo+PwAAAAAiD5W/5JLQWNnO6QaIhJzS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema,  Tiwa Savage, D'Banj and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,939 likes - 63 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,093 likes - 63 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

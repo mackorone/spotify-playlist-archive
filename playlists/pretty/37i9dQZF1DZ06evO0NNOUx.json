@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 118605,
+  "num_followers": 119185,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABocy9bt9YgTGkCfxpKBb/9",
+  "snapshot_id": "aIwDgAAAAADm1ehuplPKp80O4Mq5rfm4",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 158388,
       "name": "GOD'S GOT MY BACK",
       "url": "https://open.spotify.com/track/08tPPfrrG7Hx0cWue5kk1y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
     },
     {
       "added_at": null,

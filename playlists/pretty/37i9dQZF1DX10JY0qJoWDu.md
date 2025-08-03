@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,226 likes - 132 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,223 likes - 132 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 131 | [Welcome to Christmas \- 2024](https://open.spotify.com/track/4W8xZtZJsdUykH4yrecKSj) | [Kaho Shimada](https://open.spotify.com/artist/5f3bK61MPrJ94WSj4RrRHi) | [Welcome to Christmas \(2024\)](https://open.spotify.com/album/2yhj9psSlGARlSSBxzhBFk) | 4:24 |
 | 132 | [Wonderful Christmastime](https://open.spotify.com/track/5d9KEEJtgG64m9QJGjK4qu) | [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [Wonderful Christmastime](https://open.spotify.com/album/71ZMvI9IWv1YWembrZsYhk) | 2:36 |
 
-Snapshot ID: `AAAAAH6xb6/m/lENT22O86QbNftjeXVP`
+Snapshot ID: `Z2EVXQAAAAAcheqS8+lqkxlWyNyEFq8M`

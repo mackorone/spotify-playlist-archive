@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,527 likes - 120 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,412 likes - 120 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 119 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 |
 | 120 | [Fourth Street](https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Fourth Street](https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl) | 4:12 |
 
-Snapshot ID: `aIw76QAAAAASr1m0HG0i0zgvHEVfrHiJ`
+Snapshot ID: `AAAAACEz4URZ3MfRQhnsxMHhAnP1XRpM`

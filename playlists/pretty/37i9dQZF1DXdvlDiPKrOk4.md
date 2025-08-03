@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,643 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,688 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

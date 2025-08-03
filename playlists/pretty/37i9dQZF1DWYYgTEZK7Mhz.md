@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,061 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,140 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 2 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 3 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
 | 4 | [Figli Delle Stelle](https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Figli Delle Stelle \(2005 \- Remaster\)](https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB) | 4:35 |
-| 5 | [Marina](https://open.spotify.com/track/3pFT1UfjSdKwjIS0tWg7ka) | [Rocco Granata](https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI) | [20 Hits](https://open.spotify.com/album/1uI6WVN1SGvDR29AIijC8m) | 2:46 |
-| 6 | [Non sono una signora](https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Traslocando](https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z) | 3:29 |
+| 5 | [Non sono una signora](https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Traslocando](https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z) | 3:29 |
+| 6 | [Marina](https://open.spotify.com/track/3pFT1UfjSdKwjIS0tWg7ka) | [Rocco Granata](https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI) | [20 Hits](https://open.spotify.com/album/1uI6WVN1SGvDR29AIijC8m) | 2:46 |
 | 7 | [Maracaibo](https://open.spotify.com/track/1AsCxLAvSfilIM9ubCf89B) | [Lu Colombo](https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk) | [Aurora](https://open.spotify.com/album/40dxLKkrj0AqkArRXJQb9J) | 3:53 |
 | 8 | [Voglio Vederti Danzare \- Remastered](https://open.spotify.com/track/0Yncd2CxjjlWLrIukzsk2M) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Arca Di Noè \(2008 Remastered Edition\)](https://open.spotify.com/album/2OulSxrNGCvCvz5rX7lUH5) | 3:44 |
 | 9 | [Fotoromanza](https://open.spotify.com/track/5aqLXmh8SpcmR21finoww3) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Puzzle](https://open.spotify.com/album/55q2ylJP8PZ9XWiIILMImE) | 4:27 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 41 | [Il mare nel cassetto](https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Milva: i più grandi successi](https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY) | 2:59 |
 | 42 | [Ciao Ciao](https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Nostalgia Italiana \- 1965](https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb) | 2:56 |
 | 43 | [Self Control](https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Self control](https://open.spotify.com/album/7AYodrNIhuRvYAsMcfzBdP) | 3:58 |
-| 44 | [Il Ballo Del Mattone](https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum) | 2:17 |
-| 45 | [Nessuno mi può giudicare](https://open.spotify.com/track/0ZXKyekFgjiSJ6q2Wc3bRn) | [Caterina Caselli](https://open.spotify.com/artist/19tdzR0mBQe9NrCyXvzw3p) | [Qualcuno mi può giudicare](https://open.spotify.com/album/1ydi18iypjZlrUszS7gsbO) | 2:41 |
-| 46 | [Kobra](https://open.spotify.com/track/6RyJ57TU2qJCw3GIv9Ag1B) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Donatella Rettore](https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU) | 3:27 |
+| 44 | [Kobra](https://open.spotify.com/track/6RyJ57TU2qJCw3GIv9Ag1B) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Donatella Rettore](https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU) | 3:27 |
+| 45 | [Il Ballo Del Mattone](https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum) | 2:17 |
+| 46 | [Nessuno mi può giudicare](https://open.spotify.com/track/0ZXKyekFgjiSJ6q2Wc3bRn) | [Caterina Caselli](https://open.spotify.com/artist/19tdzR0mBQe9NrCyXvzw3p) | [Qualcuno mi può giudicare](https://open.spotify.com/album/1ydi18iypjZlrUszS7gsbO) | 2:41 |
 | 47 | [Bandiera gialla](https://open.spotify.com/track/1ANLC3r7DQ5KCH4WRBnUXq) | [Gianni Pettenati](https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo) | [I Grandi Successi degli anni '60 \[New Edition\]](https://open.spotify.com/album/1membNisSAiJIocUKBuvCz) | 2:28 |
 | 48 | [La Partita Di Pallone](https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum) | 2:13 |
 | 49 | [Boys \(Summertime Love\)](https://open.spotify.com/track/05Vs9EV1E8HI2u0EzopMdP) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 3:52 |

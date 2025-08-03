@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADmbAHEtH1JVP/+3xUX3iHu",
+  "snapshot_id": "aIwDgAAAAAD9Z4GdgRclioJRmCBirwnh",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 354213,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/1FNW6pTw6US1YHi0miBlto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u5922\u3054\u3053\u3061",
         "url": "https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 271600,
       "name": "\u5922\u3054\u3053\u3061",
       "url": "https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 354213,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/1FNW6pTw6US1YHi0miBlto"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c9\u30e9\u30b4\u30f3",
-        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "\u30bf\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 239226,
       "name": "Oama",
       "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30c9\u30e9\u30b4\u30f3",
+        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "\u30bf\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 244013,
-      "name": "\u30a8\u30f3\u30b8\u30a7\u30eb",
-      "url": "https://open.spotify.com/track/1AsfyvfHnDdFbIA18Y1zIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Greatest Day",
         "url": "https://open.spotify.com/album/0NEElyt7JwoVWdJyKObGX2"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 244013,
+      "name": "\u30a8\u30f3\u30b8\u30a7\u30eb",
+      "url": "https://open.spotify.com/track/1AsfyvfHnDdFbIA18Y1zIO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
         "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 222266,
       "name": "\u30b9\u30ed\u30fc\u30fb\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9 - Solo",
-      "url": "https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9"
     },
     {
       "added_at": null,
@@ -935,6 +919,22 @@
       "duration_ms": 224960,
       "name": "Train Ride",
       "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9 - Solo",
+      "url": "https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9"
     }
   ],
   "unique_name": "This Is Jake Shimabukuro",

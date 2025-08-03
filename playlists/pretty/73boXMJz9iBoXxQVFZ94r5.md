@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain]
 
 > If you travel the world and the seven seas, cashing six figure checks in all currencies, this playlist is a perfect companion for that business class seat or limo ride...
 
-[](https://open.spotify.com/user/null) - 16,468 likes - 23 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,467 likes - 23 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

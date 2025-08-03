@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,872 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,879 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 14 | [With A Little Help From My Friends \- Live At The Ryman](https://open.spotify.com/track/3GLTVdKxnBHsTneZnx9166) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [With A Little Help From My Friends \(Live At The Ryman\)](https://open.spotify.com/album/36KnAqfnX3MbfH8TeKDtu6) | 3:52 |
 | 15 | [Preachin' Blues](https://open.spotify.com/track/3Mi6mtEZ2MopQ7MKfkWl9f) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz) | 3:21 |
 | 16 | [Nowhere Fast](https://open.spotify.com/track/4O65OTIE0r8ak5klJoJUe5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:00 |
-| 17 | [Strike Up The Band \(feat\. Larkin Poe\)](https://open.spotify.com/track/510rMwLDrh18RtY92EEyUH) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Up The Band](https://open.spotify.com/album/1o6Iyj8lMmPtiaR6XFsjq6) | 5:39 |
-| 18 | [Southern Comfort](https://open.spotify.com/track/6SrhbwzEATeafnd0DmkiuA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:47 |
+| 17 | [Southern Comfort](https://open.spotify.com/track/6SrhbwzEATeafnd0DmkiuA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:47 |
+| 18 | [Strike Up The Band \(feat\. Larkin Poe\)](https://open.spotify.com/track/510rMwLDrh18RtY92EEyUH) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Up The Band](https://open.spotify.com/album/1o6Iyj8lMmPtiaR6XFsjq6) | 5:39 |
 | 19 | [She's A Self Made Man](https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:01 |
 | 20 | [If God Is A Woman](https://open.spotify.com/track/7llKKAoifoYvmnOuHEC9kg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 3:25 |
 | 21 | [Runnin' Down a Dream](https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Runnin' Down a Dream](https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 49 | [Strangler Fig](https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C) | [Blair Dunlop](https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Killing Time](https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R) | 1:51 |
 | 50 | [Look Away](https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz) | 3:24 |
 
-Snapshot ID: `aIqyAAAAAAAzpkXNJjDl0L/kVebGXa4x`
+Snapshot ID: `aIwDgAAAAAB8oaPjdxHEw5aDeq56h9t/`

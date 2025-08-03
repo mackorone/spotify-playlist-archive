@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3982118,
+  "num_followers": 3981754,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 272200,
       "name": "Por Amarte As\u00ed",
       "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Alejandro Sanz 3",
-        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "La fuerza del coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "La fuerza del coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Entre El Agua Y El Fuego",
         "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 248000,
       "name": "\u00bfY C\u00f3mo Es \u00c9l?",
       "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 306986,
       "name": "Coleccionista de Canciones",
       "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
         "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
         "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
         }
       ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+      "duration_ms": 218973,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+      "duration_ms": 237440,
+      "name": "En cambio no",
+      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 237440,
-      "name": "En cambio no",
-      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "\"Miguel\"",
-        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Tiempo de oto\u00f1o",
         "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 251520,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "\"Miguel\"",
+        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "S\u00f3lo D\u00e9jate Amar",
-      "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Si Tu Me Miras",
         "url": "https://open.spotify.com/album/2iSb8znJjwpsaGMA5NlcnW"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 257920,
       "name": "Si t\u00fa me miras",
       "url": "https://open.spotify.com/track/3ZyaRoOvgTIzfsceL7l16G"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Negroklaro",
+        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "S\u00f3lo D\u00e9jate Amar",
+      "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
     },
     {
       "added_at": "2025-07-18 04:00:09",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-07-18 04:00:09",
       "album": {
-        "name": "Yo S\u00e9 Que Te Acordar\u00e1s Pop Latino (Vol. 2)",
-        "url": "https://open.spotify.com/album/7wdGqytcLvhJCFkE2t5pNZ"
-      },
-      "artists": [
-        {
-          "name": "Pilar Montenegro",
-          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/41MbmJ4NShxvMc8KrsmiiE"
-    },
-    {
-      "added_at": "2025-07-18 04:00:09",
-      "album": {
         "name": "Mentiras sinceras",
         "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 232280,
       "name": "Estar contigo",
       "url": "https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:09",
+      "album": {
+        "name": "Yo S\u00e9 Que Te Acordar\u00e1s Pop Latino (Vol. 2)",
+        "url": "https://open.spotify.com/album/7wdGqytcLvhJCFkE2t5pNZ"
+      },
+      "artists": [
+        {
+          "name": "Pilar Montenegro",
+          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/41MbmJ4NShxvMc8KrsmiiE"
     },
     {
       "added_at": "2025-07-18 04:00:09",

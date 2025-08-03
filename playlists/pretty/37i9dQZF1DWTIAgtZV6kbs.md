@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > 「<a href="https://eva\-x\-expo.exhibit.jp/">エヴァンゲリオン大博覧会―東京凱旋</a>」9/13\~10/22まで六本木ミュージアムで開催！期間限定エヴァ博ver.でプレイリスト公開！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,821 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,883 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 124 | [She said,"Don't make others suffer for your personal hatred."](https://open.spotify.com/track/58KIY6gFlLQCeAtLXAnN1p) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX](https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX) | 1:55 |
 | 125 | [THE BEAST Ⅱ](https://open.spotify.com/track/3Aa85sLXx98Za8msqyXbNV) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX](https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX) | 2:19 |
 
-Snapshot ID: `AAAAAB79Gj5yEM5H2GsQtZ22H5yw/PMs`
+Snapshot ID: `Zs87cAAAAAAAcDDKfrYt3J9G5cVWF5xC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,190 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,193 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 8 | [Arab Trap: Made in Egypt](https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap: Made in Egypt](https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7) | 2:34 |
 | 9 | [Kobra \(feat\. Pouvoir Magique\)](https://open.spotify.com/track/6JTUikvtPRHUhcg0K3eXid) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT), [Pouvoir Magique](https://open.spotify.com/artist/6jOzYw2JWxujmMIwwiAaEA) | [Kobra \(feat\. Pouvoir Magique\)](https://open.spotify.com/album/3TOeBRsAVOjxnP2bGU5aWx) | 3:18 |
 | 10 | [Omri](https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U) | [FEARSTbeats](https://open.spotify.com/artist/4MhTe1Q9Y811m4EjaTbf2w) | [Omri](https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL) | 3:16 |
-| 11 | [Manama](https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x) | [URUS Squad](https://open.spotify.com/artist/2bRnKEAk11EOei6FppGcto) | [Manama](https://open.spotify.com/album/585HAjkmk1LL2ceEdzOCQm) | 2:53 |
-| 12 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 |
+| 11 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 |
+| 12 | [Manama](https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x) | [URUS Squad](https://open.spotify.com/artist/2bRnKEAk11EOei6FppGcto) | [Manama](https://open.spotify.com/album/585HAjkmk1LL2ceEdzOCQm) | 2:53 |
 | 13 | [Hawa \(Arab Trap 8\)](https://open.spotify.com/track/1WzCTw3PIv4oWwxW57VIbW) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q), [NGM](https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn) | [Hawa \(Arab Trap 8\)](https://open.spotify.com/album/77tT5i4ifAjyCmt4SgDqnH) | 2:44 |
 | 14 | [Sailor Mars](https://open.spotify.com/track/38n8scVMRubWOn1rIN2hfr) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sailor Mars](https://open.spotify.com/album/4Ql6PbVf1kgd4g22lWdgf7) | 2:32 |
 | 15 | [Dulce](https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Dulce](https://open.spotify.com/album/01f58ABTNjb0quUNprou4v) | 3:13 |

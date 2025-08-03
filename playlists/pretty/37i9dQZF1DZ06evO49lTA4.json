@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 881177,
+  "num_followers": 881385,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACuVmk+Wvf6ZpbApxBrhMgK",
+  "snapshot_id": "aIwDgAAAAAANOREvPrXyBzMbRtN6lNOO",
   "tracks": [
     {
       "added_at": null,
@@ -471,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "WHY (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
       },
       "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 211053,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk"
+      "duration_ms": 177760,
+      "name": "WHY (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
     },
     {
       "added_at": null,
@@ -503,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHY (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 177760,
-      "name": "WHY (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk"
     },
     {
       "added_at": null,

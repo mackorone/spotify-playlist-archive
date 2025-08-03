@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 946186,
+  "num_followers": 946416,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACescFU+X2UXG2T5h3f9taU",
+  "snapshot_id": "aIwDgAAAAACJgXHXQDhfjDgxIQVT3uV0",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monalisa",
-        "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 212975,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
+      "duration_ms": 250666,
+      "name": "Kiss Kiss (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
     },
     {
       "added_at": null,
@@ -383,22 +379,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+        "name": "Monalisa",
+        "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         },
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 250666,
-      "name": "Kiss Kiss (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
+      "duration_ms": 212975,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
     },
     {
       "added_at": null,

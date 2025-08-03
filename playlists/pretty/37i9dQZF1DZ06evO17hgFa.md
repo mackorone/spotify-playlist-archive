@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,514 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,546 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 44 | [Speak Low](https://open.spotify.com/track/17SIqmKU86yUoUq41MyklH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 4:29 |
 | 45 | [I Cover The Waterfront](https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:29 |
 | 46 | [My Sweet Hunk O' Trash \- Single Version](https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Louis and Friends](https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx) | 3:20 |
-| 47 | [They Can't Take That Away From Me](https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 4:08 |
-| 48 | [There Is No Greater Love](https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 2:59 |
+| 47 | [There Is No Greater Love](https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 2:59 |
+| 48 | [They Can't Take That Away From Me](https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 4:08 |
 | 49 | [If The Moon Turns Green](https://open.spotify.com/track/3VVfyUGLBWKkTbGIuoLd1l) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:48 |
 | 50 | [Don't Explain](https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:24 |
 
-Snapshot ID: `aIqyAAAAAAANBSypfVHUAac9WJttVwf5`
+Snapshot ID: `aIwDgAAAAAAZj6winf0rfdaIjCKZKj3O`

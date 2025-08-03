@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem KayBlack, Lauana Prado, Demi Lovato, Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129,272 likes - 91 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,129,208 likes - 91 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 87 | [Quer se aventurar](https://open.spotify.com/track/29h4aEPNDufBC2Q7CRxzh4) | [DJ J2](https://open.spotify.com/artist/64ZV1p2uqJZi2StfpemVFD), [Mc Coutinho 256](https://open.spotify.com/artist/200na929vVhQjQegC7BxWy), [Meno G](https://open.spotify.com/artist/7K3uNjono0BooTud0WXj1u) | [Quer se aventurar](https://open.spotify.com/album/7sqOnJEYwl4VPETIjcQEtz) | 3:10 |
 | 88 | [Carro escuro](https://open.spotify.com/track/5oIxbnx3ZgGe6SqtMyclJY) | [DJ Lg do Sf](https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q), [DJ MARTINS](https://open.spotify.com/artist/6VcfaDKRcZH1KZQ0qpjsS5), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Carro escuro](https://open.spotify.com/album/7cNjuW8uobzqvM3Z5bkQY5) | 2:42 |
 | 89 | [Ela Saiu da Sul](https://open.spotify.com/track/7c0ZjxELwoQRQTwZQw9sav) | [Mc Dudu Sk](https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1), [Mc Gordinho do Catarina](https://open.spotify.com/artist/1hwyfcwFZ3U6VqSTnBsTMA), [Lucas BHZ](https://open.spotify.com/artist/2a3xFskoNnSmNYrDzIeUKN) | [Ela Saiu da Sul](https://open.spotify.com/album/30mctJLzAkfZ6yXJOR00Ul) | 1:59 |
-| 90 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 90 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 91 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 |
 
 Snapshot ID: `aI0ulgAAAADQFwDhJRQWG9dx5wAiz5UU`

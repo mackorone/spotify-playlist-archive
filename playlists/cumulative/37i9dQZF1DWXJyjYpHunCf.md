@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Jonah Kagen
 
-524 songs - 1 day 5 hr 40 min
+525 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Get Born, Grow up and Move Away](https://open.spotify.com/track/6kzo6FPHeAiJ9Fu0ep6Vyh) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Mother’s Milk](https://open.spotify.com/album/6WB2kQKKY1mq9zRrsKU46b) | 2:22 | 2021-11-12 | 2022-07-29 |
 | [Ghost](https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:26 | 2024-03-29 | 2025-02-01 |
 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 | 2021-11-12 | 2022-07-27 |
+| [Giving Up \(with JOSEPH\)](https://open.spotify.com/track/5VEoJBwpMt3cvEa5ptpsET) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Giving Up \(with JOSEPH\)](https://open.spotify.com/album/5W2jEjoYv8uwgDYkNQKHLU) | 3:14 | 2025-08-02 |  |
 | [Glad You Did](https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Glad You Did](https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR) | 3:11 | 2024-04-05 | 2025-07-05 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:38 | 2025-04-11 |  |
 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 | 2021-11-12 | 2024-07-13 |
@@ -197,7 +198,7 @@
 | [Grace](https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Grace](https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK) | 3:20 | 2023-08-18 | 2024-03-30 |
 | [Greatest Enemy](https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Greatest Enemy](https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu) | 3:09 | 2021-11-12 | 2022-08-20 |
 | [Grow Up](https://open.spotify.com/track/3Qt3A2x143Eo3PeZb0rRfH) | [Late Night Thoughts](https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN) | [Grow Up](https://open.spotify.com/album/2Pr2RQKoF6y9HI2ytleeM3) | 3:48 | 2025-02-14 |  |
-| [Growing Exponentially](https://open.spotify.com/track/0vKaiWad18yPie45nWpDz8) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Growing Through It](https://open.spotify.com/album/3QGYowAWcYKXjbapjtHL5v) | 3:51 | 2024-10-25 |  |
+| [Growing Exponentially](https://open.spotify.com/track/0vKaiWad18yPie45nWpDz8) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Growing Through It](https://open.spotify.com/album/3QGYowAWcYKXjbapjtHL5v) | 3:51 | 2024-10-25 | 2025-08-03 |
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-19 | 2024-03-30 |
 | [Happy Girl](https://open.spotify.com/track/4KERVj1ZarxTVdsUJJDS3U) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Happy Girl](https://open.spotify.com/album/4lPXRjKmQPMX5yYD81Wodh) | 3:03 | 2022-03-12 | 2022-07-21 |
 | [Harshest Critic](https://open.spotify.com/track/21FgHK5OHDvgNxW3ZgqIfp) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Harshest Critic](https://open.spotify.com/album/49lMIK60bcwjMPgDfaIV71) | 3:16 | 2021-11-12 | 2022-07-29 |

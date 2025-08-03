@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,361 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,376 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 29 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
 | 30 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
 | 31 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
-| 32 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
-| 33 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
+| 32 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
+| 33 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 34 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
 | 35 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
 | 36 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Model Citizen](https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5) | 3:03 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 64 | [Macaulay Sulkin'](https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY) | [90'sdreamboy](https://open.spotify.com/artist/03i7AdjvxoQCgJRNBh3NyQ) | [I <3 90's dreamboy](https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6) | 2:13 |
 | 65 | [Binary](https://open.spotify.com/track/612neH3gcy0ke7jLRRca53) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye) | 3:15 |
 | 66 | [Peeling Off the Rind](https://open.spotify.com/track/0yafbfp4DMrGTnntAtkJFi) | [Kermes](https://open.spotify.com/artist/6Hnr7L6eznEjLMxCsIlynH) | [Peeling Off the Rind // Terms](https://open.spotify.com/album/2GMkpNFzUeNcjteXnvlke9) | 2:14 |
-| 67 | [Fuck Shades](https://open.spotify.com/track/3arJ7yXJcIWds8vzd0PZTG) | [BRASHER](https://open.spotify.com/artist/4AOuRtMkFhZYXKARVdz3xt) | [Everything](https://open.spotify.com/album/6zYJ76uVjUQyJzhKiq9uBX) | 2:19 |
-| 68 | [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 |
+| 67 | [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 |
+| 68 | [Fuck Shades](https://open.spotify.com/track/3arJ7yXJcIWds8vzd0PZTG) | [BRASHER](https://open.spotify.com/artist/4AOuRtMkFhZYXKARVdz3xt) | [Everything](https://open.spotify.com/album/6zYJ76uVjUQyJzhKiq9uBX) | 2:19 |
 | 69 | [Take Another](https://open.spotify.com/track/3S7KVKmwbxYbN41tltqZdT) | [Size Of Sadness](https://open.spotify.com/artist/2YuRANSZU5LahqGdk7cM5y) | [Little Trauma Things](https://open.spotify.com/album/37iLVqvAeUeTsXiDlYxKR5) | 3:00 |
 | 70 | [Famous](https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe) | [SATE](https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7) | [The Fool](https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W) | 3:16 |
 | 71 | [What You Do for Love](https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [What You Do for Love](https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr) | 3:20 |

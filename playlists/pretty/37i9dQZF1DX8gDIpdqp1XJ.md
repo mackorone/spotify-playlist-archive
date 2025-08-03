@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,972 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,023 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 104 | [Possibilities](https://open.spotify.com/track/02sCcp0dfMOZ644LDcDUZF) | [The Great Escape](https://open.spotify.com/artist/1kPPXyGPHwbZGsnuxFtjYg) | [Possibilities](https://open.spotify.com/album/3AvsHikvd4mLWgLkchQv8n) | 4:12 |
 | 105 | [Nothing in the Dark](https://open.spotify.com/track/7ohaAMlkJCeTLTnOhxdeR1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Nothing in the Dark](https://open.spotify.com/album/5yVOGagZfxr6W9Q3VFyuR8) | 4:58 |
 
-Snapshot ID: `aF4XagAAAADriX9ylApUI1/oU+DD9Shx`
+Snapshot ID: `AAAAAOO6Q1gDo6AyUx7qWbMllynu6Ur3`

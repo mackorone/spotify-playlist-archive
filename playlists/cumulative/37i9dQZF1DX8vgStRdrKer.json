@@ -622,7 +622,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 176962,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/3LPNm4v3yBQouZbLI3oqC5"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 163399,
       "name": "Classic Jesus",
       "url": "https://open.spotify.com/track/523Bo9a3mFwUTxMAhuGeit"
@@ -10007,6 +10007,24 @@
     },
     {
       "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/4RmmwLWxkxihUhOFlFJQ0h"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167561,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/3uGMVZsnoP9UZliJ2kDwtf"
+    },
+    {
+      "album": {
         "name": "We Prevail",
         "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
       },
@@ -10142,6 +10160,28 @@
       "duration_ms": 202758,
       "name": "What Kind of Love - Flow Mix",
       "url": "https://open.spotify.com/track/3Jwg37On8OhLaWEyUArEpM"
+    },
+    {
+      "album": {
+        "name": "WHATEVER (TO YOUR GLORY)",
+        "url": "https://open.spotify.com/album/5ngawYJwVt7bRpJwU8m0jX"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386382,
+      "name": "WHATEVER (TO YOUR GLORY)",
+      "url": "https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO"
     },
     {
       "album": {

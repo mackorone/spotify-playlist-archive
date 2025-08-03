@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,061 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,076 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 39 | [Sleep Deprivation](https://open.spotify.com/track/2E1ZDtrJtsWdkyIbPDwFTu) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 4:58 |
 | 40 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
 | 41 | [Bad Girls \- Switch Remix](https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Bad Girls \(The Remixes\)](https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW) | 3:23 |
-| 42 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
-| 43 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
+| 42 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
+| 43 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
 | 44 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
 | 45 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
-| 46 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
-| 47 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
+| 46 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
+| 47 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
 | 48 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
 | 49 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
 | 50 | [Drunk Girls \- Holy Ghost! Remix](https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6), [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Drunk Girls \(Holy Ghost! Remix\)](https://open.spotify.com/album/162AQYS4VkC7Hx3l2EBASj) | 7:30 |

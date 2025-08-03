@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Apache & Reke
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,584 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,588 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 49 | [Holy Ghost $$$](https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Holy Ghost $$$](https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh) | 2:37 |
 | 50 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
 
-Snapshot ID: `aFmDdgAAAADtyXyxkclOWoaYVMYM5QWZ`
+Snapshot ID: `AAAAAETxclOCRGgDtMyb3M21seJayq7/`

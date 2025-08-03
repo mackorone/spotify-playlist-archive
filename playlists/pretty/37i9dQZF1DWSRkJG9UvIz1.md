@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,031 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,028 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 17 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
 | 18 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 19 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 |
-| 20 | [Sweetie Odo](https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sway Clarke](https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:35 |
-| 21 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
+| 20 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
+| 21 | [Sweetie Odo](https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sway Clarke](https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:35 |
 | 22 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 23 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
 | 24 | [Quando Eu Te Vi / Sorriso \(Ao Vivo\)](https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Ecoando](https://open.spotify.com/artist/0xKSSq2tMMOz7UCSIKQJxu) | [Quando Eu Te Vi / Sorriso \(Ao Vivo\)](https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2) | 5:29 |

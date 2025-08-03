@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 173202,
+  "num_followers": 173307,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABcHx9o1udNFm68n1r3EqXZ",
+  "snapshot_id": "aIwDgAAAAAA9Kn5BIv78Amdgy+JqO69U",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
     },
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 142521,
+      "name": "Spring breakers",
+      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AR",
         "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 126105,
       "name": "2 die 4 (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 142521,
-      "name": "Spring breakers",
-      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
     },
     {
       "added_at": null,

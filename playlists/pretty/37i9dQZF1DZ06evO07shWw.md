@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,015 likes - 34 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,016 likes - 34 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 22 | [Life of the Party](https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 2:56 |
 | 23 | [Falling For You](https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:39 |
 | 24 | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:33 |
-| 25 | [Here for It \(feat\. Ingrid Andress\)](https://open.spotify.com/track/539AfK6L46AlSeQLKerleq) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:03 |
-| 26 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
+| 25 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
+| 26 | [Here for It \(feat\. Ingrid Andress\)](https://open.spotify.com/track/539AfK6L46AlSeQLKerleq) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:03 |
 | 27 | [How Honest Do You Want Me To Be?](https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 2:54 |
 | 28 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 |
 | 29 | [Treated Me Good](https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 3:20 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 33 | [Wish You Would](https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 4:18 |
 | 34 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 |
 
-Snapshot ID: `aIqyAAAAAAD6PqAiBILYGC+yhdvo0gNf`
+Snapshot ID: `aIwDgAAAAABHiQ7w56IKcdvK6Y6fIvsU`

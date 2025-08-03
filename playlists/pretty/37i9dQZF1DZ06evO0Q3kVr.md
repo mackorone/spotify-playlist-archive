@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,202 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,202 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 35 | [Mi Amigo Manuel](https://open.spotify.com/track/0UMy7gWkj930S829cgLNns) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:37 |
 | 36 | [Hipotecados](https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 6:25 |
 | 37 | [Rateros Con Placas](https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 3:33 |
-| 38 | [Redada](https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:21 |
+| 38 | [Donde Estas Hermano](https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:34 |
 | 39 | [Guerrillero](https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:43 |
 | 40 | [Pandillero, Pt\. 1](https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:56 |
 | 41 | [Jesús de Nazaret](https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 7:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 49 | [Exeso de Droga](https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 7:06 |
 | 50 | [Maribel](https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:11 |
 
-Snapshot ID: `aIqyAAAAAACoMN9b+605mQ4VEEeK59N6`
+Snapshot ID: `aIwDgAAAAAB6QeoWTIdbFmpqmnrVScgV`

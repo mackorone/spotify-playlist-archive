@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,891 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,943 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 13 | [Lose You](https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:23 |
 | 14 | [Learn The Hard Way](https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra) | 2:48 |
 | 15 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
-| 16 | [Jesus Wouldn't Do](https://open.spotify.com/track/4yy06NXG2rBCOvcyMHAYux) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jesus Wouldn't Do](https://open.spotify.com/album/23yzPzQnYJs50BrBeoInz2) | 3:03 |
-| 17 | [A Little Lime](https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 2:39 |
+| 16 | [A Little Lime](https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 2:39 |
+| 17 | [Jesus Wouldn't Do](https://open.spotify.com/track/4yy06NXG2rBCOvcyMHAYux) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jesus Wouldn't Do](https://open.spotify.com/album/23yzPzQnYJs50BrBeoInz2) | 3:03 |
 | 18 | [In Case You Missed It](https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [In Case You Missed It](https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1) | 2:45 |
 | 19 | [Banks](https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Among Friends](https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT) | 3:41 |
 | 20 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 39 | [Trouble Town](https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Trouble Town](https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF) | 3:04 |
 | 40 | [The Ride \(feat\. Jordan Davis\)](https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:27 |
 
-Snapshot ID: `aIqyAAAAAAC8BZKUnCNckgkMe1ygWNTP`
+Snapshot ID: `aIwDgAAAAACJ1CtmOjg5fKpfLTD0RjD3`

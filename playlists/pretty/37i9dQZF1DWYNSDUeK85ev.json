@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 687086,
+  "num_followers": 687209,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2025-08-01 22:13:56",
       "album": {
+        "name": "Si Me Tomo una Cerveza",
+        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+        }
+      ],
+      "duration_ms": 182198,
+      "name": "Si Me Tomo Una Cerveza",
+      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2025-08-01 22:13:56",
+      "album": {
         "name": "El Amante (feat. Ozuna & Bad Bunny) [Remix]",
         "url": "https://open.spotify.com/album/55uno9tUFr9N5Gq5Rnzfwd"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 225520,
       "name": "El Amante (feat. Ozuna & Bad Bunny) - Remix",
       "url": "https://open.spotify.com/track/04f13iELcsYpY2yeLiAcfq"
-    },
-    {
-      "added_at": "2025-08-01 22:13:56",
-      "album": {
-        "name": "Si Me Tomo una Cerveza",
-        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Alico",
-          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
-        }
-      ],
-      "duration_ms": 182198,
-      "name": "Si Me Tomo Una Cerveza",
-      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
       "added_at": "2025-08-01 22:13:56",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2025-08-01 22:13:56",
       "album": {
+        "name": "King Of Kings (Armageddon Edition)",
+        "url": "https://open.spotify.com/album/5P7eeivoVmpnalOUtwzj4h"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 252386,
+      "name": "Ayer La Vi",
+      "url": "https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq"
+    },
+    {
+      "added_at": "2025-08-01 22:13:56",
+      "album": {
         "name": "TURRA",
         "url": "https://open.spotify.com/album/2g1zRrhhMX2cnyoP8HvgH7"
       },
@@ -1875,18 +1891,46 @@
     {
       "added_at": "2025-08-01 22:13:56",
       "album": {
-        "name": "King Of Kings (Armageddon Edition)",
-        "url": "https://open.spotify.com/album/5P7eeivoVmpnalOUtwzj4h"
+        "name": "Piscina",
+        "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 252386,
-      "name": "Ayer La Vi",
-      "url": "https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq"
+      "duration_ms": 225661,
+      "name": "Piscina",
+      "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
+    },
+    {
+      "added_at": "2025-08-01 22:13:56",
+      "album": {
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
     },
     {
       "added_at": "2025-08-01 22:13:56",
@@ -1923,26 +1967,6 @@
     {
       "added_at": "2025-08-01 22:13:56",
       "album": {
-        "name": "ROZE | DJ TAO Turreo Sessions #22",
-        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 155291,
-      "name": "ROZE | DJ TAO Turreo Sessions #22",
-      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
-    },
-    {
-      "added_at": "2025-08-01 22:13:56",
-      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
       },
@@ -1955,30 +1979,6 @@
       "duration_ms": 215891,
       "name": "911",
       "url": "https://open.spotify.com/track/2p2Q23iaaPSEa1tI6TsCVX"
-    },
-    {
-      "added_at": "2025-08-01 22:13:56",
-      "album": {
-        "name": "Piscina",
-        "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 225661,
-      "name": "Piscina",
-      "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
     },
     {
       "added_at": "2025-08-01 22:13:56",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2025-08-01 22:13:56",
       "album": {
-        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 161485,
-      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
-    },
-    {
-      "added_at": "2025-08-01 22:13:56",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 167843,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH"
+    },
+    {
+      "added_at": "2025-08-01 22:13:56",
+      "album": {
+        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 161485,
+      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
     },
     {
       "added_at": "2025-08-01 22:13:56",
@@ -2219,18 +2219,18 @@
     {
       "added_at": "2025-08-01 22:13:56",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     }
   ],
   "unique_name": "Joda",

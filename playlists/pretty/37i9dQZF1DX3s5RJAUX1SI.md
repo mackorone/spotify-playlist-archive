@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,721 likes - 125 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,822 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 11 | [La Nena](https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:55 |
 | 12 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
 | 13 | [Alma Enamorada \(En Vivo\)](https://open.spotify.com/track/0vLXA9eQpe56eGBz0lTDqW) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 2:58 |
-| 14 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 |
+| 14 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
 | 15 | [Basta Ya \(En Vivo\)](https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Basta Ya \(En Vivo\)](https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y) | 4:31 |
-| 16 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
+| 16 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 |
 | 17 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 |
 | 18 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
 | 19 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
@@ -124,14 +124,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 114 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
 | 115 | [En Mi Viejo San Juan](https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie Coleccion 15 Autenticos Exitos](https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf) | 2:54 |
 | 116 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
-| 117 | [Te He Prometido](https://open.spotify.com/track/0EEch8uGilw3eU2Dzoy32U) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 2:42 |
-| 118 | [Miro Al Cielo](https://open.spotify.com/track/3t6VXxSIoa4cyRdmJowRkq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [Miro Al Cielo](https://open.spotify.com/album/7ftkH3sMO9gYvpWNlwXoQf) | 3:54 |
+| 117 | [Miro Al Cielo](https://open.spotify.com/track/3t6VXxSIoa4cyRdmJowRkq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [Miro Al Cielo](https://open.spotify.com/album/7ftkH3sMO9gYvpWNlwXoQf) | 3:54 |
+| 118 | [Te He Prometido](https://open.spotify.com/track/0EEch8uGilw3eU2Dzoy32U) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 2:42 |
 | 119 | [Despedida Con Mariachi](https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Una Aventura](https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe) | 2:44 |
 | 120 | [¡Qué Va!](https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:45 |
 | 121 | [Te Encontré \- En Vivo](https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Amor y Dolor \(En Vivo\)](https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq) | 3:14 |
 | 122 | [Sindrome De Estocolmo](https://open.spotify.com/track/4xNuSQSXV0LyKV43lqTRNR) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Sindrome De Estocolmo](https://open.spotify.com/album/7hlGcrJSOGlcHTOD1UMtKX) | 3:51 |
 | 123 | [Y Ándale](https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:09 |
-| 124 | [Buena Vibra](https://open.spotify.com/track/6eh452iRjUXEXqjLDEdAWk) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Buena Vibra](https://open.spotify.com/album/2ncSmhsDaRTsXJk8gciknr) | 3:22 |
-| 125 | [Pudimos Ser](https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Pudimos Ser](https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY) | 3:09 |
+| 124 | [Pudimos Ser](https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Pudimos Ser](https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY) | 3:09 |
+| 125 | [Buena Vibra](https://open.spotify.com/track/6eh452iRjUXEXqjLDEdAWk) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Buena Vibra](https://open.spotify.com/album/2ncSmhsDaRTsXJk8gciknr) | 3:22 |
 
 Snapshot ID: `ZxkxWgAAAAAfKq0dhtFm6peiWGWKzcW5`

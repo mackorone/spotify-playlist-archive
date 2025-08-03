@@ -4,7 +4,7 @@
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-334 songs - 15 hr 8 min
+335 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 | 2025-02-07 |  |
 | [Horror \- Acoustic](https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 3:40 | 2023-11-09 |  |
 | [Hurt So Bad](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [Hurt So Bad](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 | 2024-01-19 | 2025-07-12 |
-| [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 | 2022-05-24 |  |
+| [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 | 2022-05-24 | 2025-08-03 |
 | [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 | 2024-02-27 | 2024-07-02 |
 | [Il Filmografo](https://open.spotify.com/track/5nqOdSrqurNq8ejE7Ujc9l) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 2:26 | 2024-07-01 | 2025-03-22 |
 | [il mio miglior nemico](https://open.spotify.com/track/65oHYt1kcURRA9sSGwB5mt) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [il mio miglior nemico](https://open.spotify.com/album/6NdAEcBSIq2p6QMGisSCCZ) | 2:28 | 2025-02-07 | 2025-07-12 |
@@ -212,6 +212,7 @@
 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 | 2024-01-12 |
 | [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 | 2024-01-19 |
 | [Orgia](https://open.spotify.com/track/7bJiGfQ6oH8IPm41BTMtSc) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Acne](https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby) | 2:06 | 2022-04-21 | 2022-12-09 |
+| [OSSIGENO](https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9), [143 Kore](https://open.spotify.com/artist/42gIvhdClOPZVVW5iYrX8c) | [OSSIGENO](https://open.spotify.com/album/7yAuPTYJ49u5xcULOVw6GT) | 2:18 | 2025-07-31 |  |
 | [Pagine](https://open.spotify.com/track/2qfLABUmMubADB6tRridR3) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU) | 2:24 | 2023-02-23 | 2024-01-26 |
 | [Pagine](https://open.spotify.com/track/2zc5IR5UZb013SPfZnXezx) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/3klEMkbs4lchGCz3j4LPSB) | 2:24 | 2022-04-21 | 2023-02-25 |
 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 | 2022-04-21 | 2025-08-01 |

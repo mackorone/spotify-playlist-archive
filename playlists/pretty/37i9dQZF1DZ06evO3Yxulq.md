@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,224 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,226 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 17 | [Admirable](https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 10:32 |
 | 18 | [Fidelidad / Grande Es Tu Fidelidad](https://open.spotify.com/track/3SGMCcxDGJDOnRJFyCmsrS) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 4:56 |
 | 19 | [Cómo No Voy A Creer](https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/1kifdLXic75PKnWsDOVgru) | 10:33 |
-| 20 | [Incomparable Dios](https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 5:48 |
+| 20 | [Él Viene Otra Vez](https://open.spotify.com/track/0dpkcyEMBoxObM6ZdZVmov) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:38 |
 | 21 | [Dios de Maravillas](https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 8:33 |
-| 22 | [Él Viene Otra Vez](https://open.spotify.com/track/0dpkcyEMBoxObM6ZdZVmov) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:38 |
+| 22 | [Incomparable Dios](https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 5:48 |
 | 23 | [Yahweh](https://open.spotify.com/track/1mAFnZcwyrQD93RX5jLJBj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:26 |
 | 24 | [El Shaddai \- Live](https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Grande y Fiel \(Live\)](https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH) | 5:35 |
 | 25 | [Respirar del Cielo](https://open.spotify.com/track/6DiHzZu4jl8v3g6COAyUQL) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX) | 5:46 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 44 | [Ancla](https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A) | 8:19 |
 | 45 | [Mi Padre Me Ama \- Adoración Espontánea](https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 7:38 |
 | 46 | [Cristo Es Necesario](https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 4:05 |
-| 47 | [Santo \(Tu Nombre Es\)](https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 4:02 |
-| 48 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY) | 4:31 |
+| 47 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY) | 4:31 |
+| 48 | [Santo \(Tu Nombre Es\)](https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 4:02 |
 | 49 | [Hasta Poder Ver](https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP) | 5:09 |
 | 50 | [Hermoso](https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:30 |
 
-Snapshot ID: `aIqyAAAAAAC+7wNqiLnhfmM+vIraL4FY`
+Snapshot ID: `aIwDgAAAAAAPlzKS67WS8W/1HfUGazck`

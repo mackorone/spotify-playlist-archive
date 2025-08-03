@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,179 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,198 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 48 | [PENTOTHAL](https://open.spotify.com/track/3WS0TcakSQfE0t1fFTQwDW) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:47 |
 | 49 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 | 50 | [Stare Senza \(feat\. Fashion Forty\)](https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 |
-| 51 | [Lo Sai Che Ci Penso](https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Davide](https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8) | 3:00 |
-| 52 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
+| 51 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
+| 52 | [Lo Sai Che Ci Penso](https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Davide](https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8) | 3:00 |
 | 53 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
 | 54 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 |
 | 55 | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/track/2QieMRkH51KbJw4ZauGJfY) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/album/257g998F1JZB1zxKp0CPNd) | 3:06 |

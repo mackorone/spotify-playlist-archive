@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 203104,
+  "num_followers": 203129,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -681,26 +681,6 @@
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
-      "added_at": "2024-11-12 18:12:40",
-      "album": {
-        "name": "Music for Peace and Harmony",
-        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
-      },
-      "artists": [
-        {
-          "name": "Hiro Ama",
-          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
-        },
-        {
-          "name": "Keeley Forsyth",
-          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
-        }
-      ],
-      "duration_ms": 275194,
-      "name": "Billowing",
-      "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -723,6 +703,26 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2024-11-12 18:12:40",
+      "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        },
+        {
+          "name": "Keeley Forsyth",
+          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
+        }
+      ],
+      "duration_ms": 275194,
+      "name": "Billowing",
+      "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
     },
     {
       "added_at": "2024-01-04 01:06:11",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
     },
     {
-      "added_at": "2023-06-07 04:10:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
-    },
-    {
       "added_at": "2024-01-03 18:45:56",
       "album": {
         "name": "Space Jumps",
@@ -1157,20 +1141,20 @@
       "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
-      "added_at": "2024-04-29 20:30:55",
+      "added_at": "2023-06-07 04:10:00",
       "album": {
-        "name": "thieves",
-        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 178616,
-      "name": "thieves",
-      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1187,6 +1171,22 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
+    },
+    {
+      "added_at": "2024-04-29 20:30:55",
+      "album": {
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-10-25 00:44:14",
@@ -1221,6 +1221,26 @@
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
       "added_at": "2023-06-05 20:56:02",
       "album": {
         "name": "Crispy Moon",
@@ -1251,26 +1271,6 @@
       "duration_ms": 318447,
       "name": "love is not the poison",
       "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2024-08-19 20:57:31",
@@ -1361,26 +1361,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Al Sur",
-        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
-      },
-      "artists": [
-        {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Al Sur",
-      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
-    },
-    {
       "added_at": "2024-08-16 20:06:32",
       "album": {
         "name": "Hay Veces",
@@ -1413,36 +1393,24 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
-      "added_at": "2024-09-01 14:54:22",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Always a Stranger",
-        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+        "name": "Al Sur",
+        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
       },
       "artists": [
         {
-          "name": "Tindersticks",
-          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
-        }
-      ],
-      "duration_ms": 227704,
-      "name": "New World - Edit",
-      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
-    },
-    {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
         }
       ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+      "duration_ms": 198773,
+      "name": "Al Sur",
+      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1461,6 +1429,22 @@
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
+      "added_at": "2024-09-01 14:54:22",
+      "album": {
+        "name": "Always a Stranger",
+        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+      },
+      "artists": [
+        {
+          "name": "Tindersticks",
+          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+        }
+      ],
+      "duration_ms": 227704,
+      "name": "New World - Edit",
+      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
+    },
+    {
       "added_at": "2023-01-03 23:48:36",
       "album": {
         "name": "Where To Put The Pain",
@@ -1475,6 +1459,22 @@
       "duration_ms": 234693,
       "name": "Where To Put The Pain",
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2023-10-23 19:41:11",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
-    },
-    {
       "added_at": "2023-03-31 19:12:14",
       "album": {
         "name": "Follow the Cyborg",
@@ -1523,6 +1507,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
     },
     {
-      "added_at": "2024-01-30 05:23:45",
-      "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
-    },
-    {
       "added_at": "2024-04-15 18:24:59",
       "album": {
         "name": "Vallahi Yok / Kirik Cam",
@@ -1607,6 +1591,22 @@
       "duration_ms": 277810,
       "name": "Vallahi Yok",
       "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
+    },
+    {
+      "added_at": "2024-01-30 05:23:45",
+      "album": {
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
       "added_at": "2024-08-16 20:06:32",

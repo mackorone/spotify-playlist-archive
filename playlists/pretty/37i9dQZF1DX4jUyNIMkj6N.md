@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,069 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,076 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,19 +53,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 43 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
 | 44 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
 | 45 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
-| 46 | [Summer Season](https://open.spotify.com/track/3TvRQLowsGNEMXMMHB30KK) | [PS.](https://open.spotify.com/artist/0nHLaX2ZYKfNOtkASkDk48) | [Summer Season](https://open.spotify.com/album/1W6UY4RUUYu8QJHZ4H2bGT) | 2:42 |
-| 47 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
+| 46 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
+| 47 | [Summer Season](https://open.spotify.com/track/3TvRQLowsGNEMXMMHB30KK) | [PS.](https://open.spotify.com/artist/0nHLaX2ZYKfNOtkASkDk48) | [Summer Season](https://open.spotify.com/album/1W6UY4RUUYu8QJHZ4H2bGT) | 2:42 |
 | 48 | [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 |
 | 49 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
 | 50 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 | 51 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 |
 | 52 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
-| 53 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
+| 53 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
 | 54 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
-| 55 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
+| 55 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
 | 56 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
-| 57 | [Slemt eller frekt](https://open.spotify.com/track/1d2SVO62vktTnvhopUzCaD) | [Valkyrien Allstars](https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU) | [Slemt eller frekt](https://open.spotify.com/album/7lLfhTlVHKEvJJqwirglDt) | 5:00 |
-| 58 | [Peace Song](https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Peace Song](https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1) | 2:50 |
+| 57 | [Peace Song](https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Peace Song](https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1) | 2:50 |
+| 58 | [Slemt eller frekt](https://open.spotify.com/track/1d2SVO62vktTnvhopUzCaD) | [Valkyrien Allstars](https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU) | [Slemt eller frekt](https://open.spotify.com/album/7lLfhTlVHKEvJJqwirglDt) | 5:00 |
 | 59 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 60 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 

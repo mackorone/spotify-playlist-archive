@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: B Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,568 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,608 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 24 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 |
 | 25 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 |
 | 26 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
-| 27 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 |
-| 28 | [Chấm Hết](https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [ZEXZEX](https://open.spotify.com/artist/4hNP1VYe1hO5ppmWDlGhsx), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [Chấm Hết](https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj) | 3:06 |
+| 27 | [Chấm Hết](https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [ZEXZEX](https://open.spotify.com/artist/4hNP1VYe1hO5ppmWDlGhsx), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [Chấm Hết](https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj) | 3:06 |
+| 28 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 |
 | 29 | [Anh Đã Ổn Hơn](https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:14 |
 | 30 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 |
 | 31 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |

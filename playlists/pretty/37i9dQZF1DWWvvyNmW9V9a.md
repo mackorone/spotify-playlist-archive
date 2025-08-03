@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > In a room full of people sombr looks for Addison 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,114,964 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114,841 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

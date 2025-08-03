@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,645 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,708 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 19 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
 | 20 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 |
 | 21 | [is this real love](https://open.spotify.com/track/2p3SjPcPdxZ9rYYzS6l6F0) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [is this real love](https://open.spotify.com/album/0kVBNM3IL2xyDCigklYFAF) | 2:46 |
-| 22 | [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 |
-| 23 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
+| 22 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
+| 23 | [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 |
 | 24 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
 | 25 | [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 |
 | 26 | [With You](https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo), [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [With You](https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O) | 3:42 |

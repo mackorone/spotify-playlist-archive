@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-328 songs - 16 hr 58 min
+329 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 | 2025-05-29 |  |
 | [Skriker mitt namn](https://open.spotify.com/track/3jGTLWpILJexFMVibAjij9) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Skriker mitt namn](https://open.spotify.com/album/3vYIwRY2034ADqRskGJpFr) | 3:01 | 2025-01-23 | 2025-05-05 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2024-11-02 |
-| [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-01-16 |  |
+| [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-01-16 | 2025-08-03 |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 |  |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-06-27 | 2024-11-02 |
 | [So cool](https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [So cool](https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U) | 3:42 | 2025-05-08 | 2025-07-11 |
@@ -293,6 +293,7 @@
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-06-27 | 2024-11-02 |
 | [The Flood](https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Flood](https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv) | 4:29 | 2025-04-03 | 2025-04-23 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 |  |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-07-31 |  |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-13 | 2025-05-31 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-27 | 2025-03-08 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2025-01-02 | 2025-01-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 55919,
+  "num_followers": 55957,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAC3V35Ba7VECb+bii8bfLXW",
+  "snapshot_id": "aIwDgAAAAAAKnkrkDRGRqopjzwrWqFIW",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 256133,
-      "name": "House Of The Lord",
-      "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
+      "duration_ms": 287533,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 287533,
-      "name": "Battle Belongs",
-      "url": "https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT"
+      "duration_ms": 256133,
+      "name": "House Of The Lord",
+      "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People Of Heaven",
         "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 252624,
       "name": "People Of Heaven",
       "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "It's Always Been You",
-      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
     },
     {
       "added_at": null,

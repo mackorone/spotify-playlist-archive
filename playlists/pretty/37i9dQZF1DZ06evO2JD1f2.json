@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 12908,
+  "num_followers": 12909,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADn7KI7qm/8YFMoUQgMtp6S",
+  "snapshot_id": "aIwDgAAAAABjbwuIbFlRAL/vouh4WzPV",
   "tracks": [
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 199565,
-      "name": "My Love (feat. Veeze & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/047PEPAZ1uaAGls8D86gZa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 231085,
       "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
       "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "My Love (feat. Veeze & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/047PEPAZ1uaAGls8D86gZa"
     },
     {
       "added_at": null,

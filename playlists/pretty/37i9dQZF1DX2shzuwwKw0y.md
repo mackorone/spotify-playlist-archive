@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Linea Personal, Jorsshh en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,471,367 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,471,307 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [TENGO MI VICIO](https://open.spotify.com/track/2w7icrqLX1OhriYtS7n9Q1) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [TENGO MI VICIO](https://open.spotify.com/album/68E1jikzWOcDFNbkeYQYxe) | 3:33 |
 | 75 | [El Capitán](https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Capitán](https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E) | 2:31 |
 
-Snapshot ID: `aIxOnQAAAACnpZ9GB6ytI2Aa3w61wX0V`
+Snapshot ID: `AAAAAOllwlWcBO+xMLwnYsbigUi92LR8`

@@ -2,7 +2,7 @@
 
 ### [New Music Friday Suomi](https://open.spotify.com/playlist/37i9dQZF1DWXtcXUwhuzFM)
 
-> Uutta musiikkia Joel L, Sexmane monelta muulta!
+> Uutta musiikkia tarjoilevat Joe L, Sexmane, Jami Faltin, Chappell Roan ja moni muu!
 
 7,140 songs - 15 day 16 hr 12 min
 
@@ -6157,7 +6157,7 @@
 | [These Scars Won't Define Us](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 | 2024-11-14 | 2024-11-22 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-02 | 2024-05-10 |
 | [They Turn into Ghosts](https://open.spotify.com/track/78hXC9muYVwK95xFiWcLfw) | [MAGLY](https://open.spotify.com/artist/3bVunlWHUpBqbav70P6Dbu) | [They Turn Into Ghosts](https://open.spotify.com/album/7x64asG9RtbTCO8Pguty4u) | 2:51 | 2025-01-23 | 2025-01-31 |
-| [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 | 2025-08-01 |  |
+| [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 | 2025-08-01 |  |
 | [They Wanna See Me](https://open.spotify.com/track/239J9xvfJsdmvWMSk3vib5) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [They Wanna See Me](https://open.spotify.com/album/6gs4sadslEIdT9taav0Uby) | 3:07 | 2024-07-04 | 2024-07-12 |
 | [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-06 | 2025-02-14 |
 | [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 | 2024-10-03 | 2024-10-11 |

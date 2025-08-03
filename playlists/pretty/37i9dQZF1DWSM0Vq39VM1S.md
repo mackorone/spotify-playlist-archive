@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,894 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,904 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 29 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 |
 | 30 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
 | 31 | [22:23](https://open.spotify.com/track/0TjAjZ6Hp7smLH8qUBlNuR) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Vico](https://open.spotify.com/artist/1QwGRdDUTv7oISCcd5sPgM), [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 4:29 |
-| 32 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
-| 33 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
+| 32 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
+| 33 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 | 34 | [Mornin Dew](https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Satin Psicodelic](https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W) | 5:24 |
 | 35 | [Beautiful Thingz](https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Beautiful Thingz](https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ) | 3:28 |
 | 36 | [You Might Need Somebody](https://open.spotify.com/track/5lijIZgEqHF35VSG6WtYCC) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [You Might Need Somebody](https://open.spotify.com/album/73sppbd5vjMj9FkogKQN6r) | 4:52 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 46 | [The Lovers Side](https://open.spotify.com/track/0d9tFcFuTCaCcFpCFDnaCu) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 4:07 |
 | 47 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
 | 48 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |
-| 49 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
-| 50 | [It..\. What or Why?](https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ) | [Gypsy Mitchell](https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD) | [Love Is..\. Infinite](https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds) | 6:40 |
+| 49 | [It..\. What or Why?](https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ) | [Gypsy Mitchell](https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD) | [Love Is..\. Infinite](https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds) | 6:40 |
+| 50 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 51 | [Stockholm Syndrome](https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL) | [Xavier Boyer](https://open.spotify.com/artist/6UxYOpNlzi6CGqEHhwbvWJ) | [Stockholm Syndrome](https://open.spotify.com/album/7EwDQOoi10XXX5p1FMgYoB) | 2:51 |
 | 52 | [Within a Heartbeat](https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Within a Heartbeat](https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor) | 3:41 |
 | 53 | [Grateful For](https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Grateful For](https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc) | 3:39 |

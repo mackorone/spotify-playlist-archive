@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Doony Graff ",
-  "num_followers": 91707,
+  "num_followers": 91708,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,26 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "Nocturna (Remix)",
+        "url": "https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 235752,
+      "name": "Nocturna - Remix",
+      "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/1mjSdq627mNj9Cc7aYjDoE"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 189024,
       "name": "All I See",
       "url": "https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "Nocturna (Remix)",
-        "url": "https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        },
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 235752,
-      "name": "Nocturna - Remix",
-      "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -735,18 +735,26 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Un Error",
-        "url": "https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b"
+        "name": "Tu Consentido",
+        "url": "https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J"
       },
       "artists": [
         {
-          "name": "Monte Carlo",
-          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
+          "name": "Dimelow Pro",
+          "url": "https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m"
+        },
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        },
+        {
+          "name": "Ibarra",
+          "url": "https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY"
         }
       ],
-      "duration_ms": 239358,
-      "name": "Un Error",
-      "url": "https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr"
+      "duration_ms": 190515,
+      "name": "Tu Consentido",
+      "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -775,26 +783,18 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "Tu Consentido",
-        "url": "https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J"
+        "name": "Un Error",
+        "url": "https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b"
       },
       "artists": [
         {
-          "name": "Dimelow Pro",
-          "url": "https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m"
-        },
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        },
-        {
-          "name": "Ibarra",
-          "url": "https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY"
+          "name": "Monte Carlo",
+          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
         }
       ],
-      "duration_ms": 190515,
-      "name": "Tu Consentido",
-      "url": "https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k"
+      "duration_ms": 239358,
+      "name": "Un Error",
+      "url": "https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
-        "name": "rompopito",
-        "url": "https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc"
-      },
-      "artists": [
-        {
-          "name": "gatitaartistica",
-          "url": "https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH"
-        }
-      ],
-      "duration_ms": 119162,
-      "name": "rompopito",
-      "url": "https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
         "name": "Ni\u00f1os",
         "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 154500,
       "name": "Ni\u00f1os",
       "url": "https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
+        "name": "rompopito",
+        "url": "https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc"
+      },
+      "artists": [
+        {
+          "name": "gatitaartistica",
+          "url": "https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH"
+        }
+      ],
+      "duration_ms": 119162,
+      "name": "rompopito",
+      "url": "https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k"
     },
     {
       "added_at": "2025-06-27 06:00:26",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-06-27 06:00:26",
       "album": {
+        "name": "Al Infinito y M\u00e1s All\u00e1",
+        "url": "https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ"
+      },
+      "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        }
+      ],
+      "duration_ms": 142277,
+      "name": "Al Infinito y M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx"
+    },
+    {
+      "added_at": "2025-06-27 06:00:26",
+      "album": {
         "name": "PECAR O MORIR",
         "url": "https://open.spotify.com/album/2ygx4LSExZk8R0fLHyHdXk"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 304109,
       "name": "PECAR O MORIR",
       "url": "https://open.spotify.com/track/3IszEykw0GCI400DKnNiLU"
-    },
-    {
-      "added_at": "2025-06-27 06:00:26",
-      "album": {
-        "name": "Al Infinito y M\u00e1s All\u00e1",
-        "url": "https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ"
-      },
-      "artists": [
-        {
-          "name": "La Cuadrilla Oficial",
-          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
-        }
-      ],
-      "duration_ms": 142277,
-      "name": "Al Infinito y M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx"
     },
     {
       "added_at": "2025-06-27 06:00:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como el G\-5.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,916 likes - 120 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,927 likes - 120 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 78 | [El imperio contraataca](https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf) | [LOS NIKIS](https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS) | [Marines A Pleno Sol](https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539) | 3:12 |
 | 79 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |
 | 80 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
-| 81 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
-| 82 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 |
+| 81 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 |
+| 82 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
 | 83 | [La Salvación](https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Salvación](https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC) | 4:45 |
 | 84 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
 | 85 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |
@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 108 | [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 |
 | 109 | [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 |
 | 110 | [Quiero tener tu presencia](https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:40 |
-| 111 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
-| 112 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 |
-| 113 | [Solitud](https://open.spotify.com/track/17ZiNld8bR0sVmdsJkDM9H) | [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Solitud](https://open.spotify.com/album/5cjZ3dixljUXaAOB00aZ9m) | 3:48 |
-| 114 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 |
+| 111 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 |
+| 112 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
+| 113 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 |
+| 114 | [Solitud](https://open.spotify.com/track/17ZiNld8bR0sVmdsJkDM9H) | [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Solitud](https://open.spotify.com/album/5cjZ3dixljUXaAOB00aZ9m) | 3:48 |
 | 115 | [Pongamos Que Hablo de Madrid](https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [12 Botellines y 5 Tercios](https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd) | 2:53 |
 | 116 | [Chiquilla](https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [30 años de musica en TVE\. 1980\-2010](https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6) | 3:07 |
 | 117 | [Agradecido](https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un Palo Al Agua \(20 Grandes Canciones\)](https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq) | 4:33 |

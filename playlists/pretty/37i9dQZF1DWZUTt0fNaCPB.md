@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,502 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,670 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 57 | [Kids in America](https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kids in America](https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8) | 3:08 |
 | 58 | [Seasons](https://open.spotify.com/track/1NE4ga03C5fRXGPcDIo9pA) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Against The Grain](https://open.spotify.com/album/3T2Hq3PpqBroi2CcnmcUUH) | 3:47 |
 | 59 | [Sham Pain](https://open.spotify.com/track/03HyPRDdAwvkovBE6XubBC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Sham Pain](https://open.spotify.com/album/44udkZDmo8afuEnu0nTgUY) | 3:29 |
-| 60 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
-| 61 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
+| 60 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
+| 61 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
 | 62 | [Sound of Madness](https://open.spotify.com/track/1TRr8Pp2uOqL24fMHpJyV3) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/661dSFpYtPulSNDZZLkokq) | 3:53 |
 | 63 | [She's A Blast](https://open.spotify.com/track/428x14AvuMoTmmO6pBeozu) | [Beautiful Bodies](https://open.spotify.com/artist/1L5Wcid8qi4K85Ynq7mLaZ) | [Battles](https://open.spotify.com/album/7mYRLbEp6R5P5iYadPENUy) | 2:47 |
 | 64 | [Hollywood](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) | [After Midnight Project](https://open.spotify.com/artist/1CCtRpOlg6EL0HP9DdEtk4) | [Let's Build Something To Break](https://open.spotify.com/album/1VbvHqARu0WjoXRiF2yak7) | 3:02 |

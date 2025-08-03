@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA Cover: <a href="https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N?si=IrkB2\-i8SnicIqN9IfQjYw">Will Linley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,289 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,290 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

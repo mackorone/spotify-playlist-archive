@@ -7,7 +7,408 @@
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAAA4F/gl/A4EKQQ0MSKMSUALihkZGP",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 258342,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/4c1UVOzAFB4mqGYZGadOru"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/294vBlXfZYspeI29SXZaON"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Blurred Lines",
+        "url": "https://open.spotify.com/album/2160bNuBZNQmpeBn99Dmis"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 263053,
+      "name": "Blurred Lines",
+      "url": "https://open.spotify.com/track/0XzkemXSiXJa7VgDFPfU4S"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "I Need Your Love (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Thrift Shop (feat. Wanz)",
+        "url": "https://open.spotify.com/album/0XN945pdw7kvYRndgbDuSb"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3TVPk700O6Wec04D2K2vJ7"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Wanz",
+          "url": "https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Thrift Shop (feat. Wanz)",
+      "url": "https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 369626,
+      "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "url": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Blurred Lines",
+        "url": "https://open.spotify.com/album/2qVN3yVtkrPT9YL7djTNwt"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 263053,
+      "name": "Blurred Lines",
+      "url": "https://open.spotify.com/track/5PUvinSo4MNqW7vmomGRS7"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Pompeii",
+        "url": "https://open.spotify.com/album/5LdqbRBfjz6qfhC4Q77rDe"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/7Fw5i56my24ZBnGS7hFX2n"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "We Can't Stop",
+        "url": "https://open.spotify.com/album/5xx8Jv66fH3T8DD5L985vd"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/5ve0BYRZZ2aoHFqZMxqYgt"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "I Love It (feat. Charli XCX)",
+        "url": "https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 155337,
+      "name": "I Love It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "#thatPOWER",
+        "url": "https://open.spotify.com/album/40BoIHtXbP5fv64atFHvwG"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "#thatPOWER",
+      "url": "https://open.spotify.com/track/6LuHcIZmMG5LU2hiqxscNb"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 484146,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Fast & Furious 6",
+        "url": "https://open.spotify.com/album/0SnSqNH4ay5Ymd4Lmv4Mcr"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "We Own It (Fast & Furious)",
+      "url": "https://open.spotify.com/track/5DD9jE8Z3LvpVn2TxknJyX"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/1jdNcAD8Ir58RlsdGjJJdx"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/52gvlDnre9craz9dKGObp8"
+    },
+    {
+      "added_at": "2013-07-02 20:08:13",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+    }
+  ],
   "unique_name": "Top Picks Toplists",
   "url": "https://open.spotify.com/playlist/4lCv0oN3gPxoqvXmA3cDjS"
 }

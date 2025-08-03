@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,452 likes - 40 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,459 likes - 40 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 39 | [Body Heat](https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Body Heat](https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv) | 3:58 |
 | 40 | [Za\-Za Solo](https://open.spotify.com/track/5uBTjPNku2eE4TF6Rjbajb) | [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [My Field Recordings from Across the Planet](https://open.spotify.com/album/3EmUGs6NPCzWB4JOMsmyk7) | 1:18 |
 
-Snapshot ID: `AAAAAEzGS06r2ySeiRsmVQ6CcxMc1O9C`
+Snapshot ID: `Z23uIgAAAAA9G0NS795UAptz8izI20ys`

@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 21883,
+  "num_followers": 21900,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwD3QAAAAChaz10Eq5AZ3qkfkei/puo",
+  "snapshot_id": "aI4DKgAAAADmPiOwvvUxmWtYtjHvUHBb",
   "tracks": [
     {
       "added_at": "2025-07-18 00:01:14",
@@ -163,6 +163,22 @@
       "duration_ms": 184347,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/4kQlvea7CbFtYSiy9t3ykj"
+    },
+    {
+      "added_at": "2025-08-02 12:23:06",
+      "album": {
+        "name": "Baba (Live)",
+        "url": "https://open.spotify.com/album/16tmL6VNAlCge3aOIWzznF"
+      },
+      "artists": [
+        {
+          "name": "Otejiri Imah",
+          "url": "https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N"
+        }
+      ],
+      "duration_ms": 265151,
+      "name": "Baba - Live",
+      "url": "https://open.spotify.com/track/6B72ZKiTWdETsvdBYiVaxH"
     },
     {
       "added_at": "2025-02-28 00:01:32",

@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Khamari
 
-1,455 songs - 3 day 4 hr 41 min
+1,456 songs - 3 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,7 +854,7 @@
 | [Neo Surf](https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Neo Surf](https://open.spotify.com/album/2g3h5sHGcVvbvsit77Sbbb) | 3:20 | 2022-04-01 | 2022-04-14 |
 | [NEON PEACH feat\. Tyler, The Creator](https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:12 | 2021-07-23 | 2022-07-23 |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 |  |
-| [Never Felt Better](https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Never Felt Better](https://open.spotify.com/album/6LgXtpkfa3VlhfPZhWGhem) | 4:27 | 2025-02-28 |  |
+| [Never Felt Better](https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Never Felt Better](https://open.spotify.com/album/6LgXtpkfa3VlhfPZhWGhem) | 4:27 | 2025-02-28 | 2025-08-03 |
 | [New Faces](https://open.spotify.com/track/2QAtG4bBRtLtvgeC3rSTRy) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [New Faces](https://open.spotify.com/album/2tEbyjjMbPQ7uOAXjW7MhR) | 3:09 | 2021-05-14 | 2022-01-09 |
 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-23 |  |
 | [Next 2 Me](https://open.spotify.com/track/1W3xsWvZq7k1XtMk9U5Mnr) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Next 2 Me](https://open.spotify.com/album/50CQhtln0o5KQjb5QcTL8p) | 2:43 | 2024-10-26 | 2025-02-15 |
@@ -1312,6 +1312,7 @@
 | [TRICK DADDY](https://open.spotify.com/track/3K8xZoLRRqwfZQyudI6vH3) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 1:53 | 2025-05-02 |  |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 | 2023-10-22 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-15 | 2022-07-24 |
+| [True Believer](https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [True Believer](https://open.spotify.com/album/59CWOYyzKcrts5u07Bs6jI) | 3:49 | 2025-08-01 |  |
 | [Truman Show](https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Truman Show](https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1) | 2:57 | 2024-06-07 | 2025-07-06 |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2022-10-07 | 2022-12-03 |
 | [Trust Nobody](https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Trust Nobody](https://open.spotify.com/album/3Ysfk40yB4vJNCjflkD7tZ) | 3:15 | 2021-11-05 | 2022-07-29 |

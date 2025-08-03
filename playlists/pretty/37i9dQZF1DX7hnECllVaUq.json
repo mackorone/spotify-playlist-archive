@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Lewis Love",
-  "num_followers": 303816,
+  "num_followers": 303938,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,18 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
-        "name": "Bloodline (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 182008,
-      "name": "Bloodline (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
+      "duration_ms": 204963,
+      "name": "I Got Better",
+      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
     },
     {
       "added_at": "2025-07-25 04:00:56",
@@ -303,18 +299,22 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 204963,
-      "name": "I Got Better",
-      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
       "added_at": "2025-07-25 04:00:56",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
-    {
-      "added_at": "2025-07-25 04:00:56",
-      "album": {
         "name": "Night Diving",
         "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194120,
       "name": "Better Me For You (Brown Eyes)",
       "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:56",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2025-07-25 04:00:56",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2025-07-25 04:00:56",
+      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2025-07-25 04:00:56",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2025-07-25 04:00:56",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
-        "name": "House Again",
-        "url": "https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW"
-      },
-      "artists": [
-        {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
-        }
-      ],
-      "duration_ms": 203822,
-      "name": "House Again",
-      "url": "https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:56",
-      "album": {
         "name": "still hungover",
         "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 193666,
       "name": "weren't for the wind",
       "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
+    },
+    {
+      "added_at": "2025-07-25 04:00:56",
+      "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 203822,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5"
     },
     {
       "added_at": "2025-07-25 04:00:56",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2025-07-25 04:00:56",
+      "album": {
         "name": "you look like you love me (feat. Riley Green)",
         "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
-    },
-    {
-      "added_at": "2025-07-25 04:00:56",
-      "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "added_at": "2025-07-25 04:00:56",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 181621,
-      "name": "Cowgirls (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
+      "duration_ms": 212200,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
     }
   ],
   "unique_name": "Country Worldwide",

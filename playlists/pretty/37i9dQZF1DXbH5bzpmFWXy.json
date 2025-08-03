@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. El Malilla en portada.",
-  "num_followers": 288561,
+  "num_followers": 288578,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "PRIMO",
-        "url": "https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 164991,
-      "name": "PRIMO",
-      "url": "https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "PRIMO",
+        "url": "https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164991,
+      "name": "PRIMO",
+      "url": "https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf"
     },
     {
       "added_at": "2025-07-18 06:00:08",

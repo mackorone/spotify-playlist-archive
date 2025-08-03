@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Saweetie & TWICE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,659 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,713 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 99 | [妳在哪裡 \(WYA\)](https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [妳在哪裡 \(WYA\)](https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt) | 3:43 |
 | 100 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 |
 
-Snapshot ID: `aIzUpAAAAABy6brqVcRD/DgGnpdjbGAt`
+Snapshot ID: `aIzUpAAAAAB/xCEZ3d2h9UqrXWtnhQET`

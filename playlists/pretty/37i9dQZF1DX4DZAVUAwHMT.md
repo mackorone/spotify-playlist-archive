@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Wisp
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,682 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,631 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 |
 | 80 | [Mountain](https://open.spotify.com/track/4hzzWQqdqoTO48Eh169CVk) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Cryogeyser](https://open.spotify.com/album/6Mlt3SMLODQopH5IqNAtj6) | 2:59 |
 
-Snapshot ID: `AAAAAHqBbkEdUJiaDrmEbaP0SqqyGHCL`
+Snapshot ID: `aIv1ewAAAADyfotGO7KiJgQwfzTkoT5T`

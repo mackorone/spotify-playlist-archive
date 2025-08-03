@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto:Chinoy",
-  "num_followers": 189544,
+  "num_followers": 189527,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Solo de Ti",
-        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
-        }
-      ],
-      "duration_ms": 237830,
-      "name": "Solo de Ti",
-      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "T\u00f3tem",
         "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 147000,
       "name": "T\u00f3tem",
       "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Solo de Ti",
+        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        }
+      ],
+      "duration_ms": 237830,
+      "name": "Solo de Ti",
+      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Si es de morir",
         "url": "https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 205765,
       "name": "Eternos",
       "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 225967,
       "name": "Hacia Ti",
       "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
-        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 174683,
-      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
-      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Punk Para Gatitos",
-        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
+        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
       },
       "artists": [
         {
-          "name": "VerDor",
-          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Mech\u00f3n",
-      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
+      "duration_ms": 174683,
+      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
+      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
+        "name": "Punk Para Gatitos",
+        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+      },
+      "artists": [
+        {
+          "name": "VerDor",
+          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mech\u00f3n",
+      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
         "name": "Asocial",
         "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 197747,
       "name": "Asocial",
       "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Despertar (Cuando Todo Quema)",
+        "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
+      },
+      "artists": [
+        {
+          "name": "Massonico",
+          "url": "https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB"
+        }
+      ],
+      "duration_ms": 201496,
+      "name": "Despertar (Cuando Todo Quema)",
+      "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Despertar (Cuando Todo Quema)",
-        "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
-      },
-      "artists": [
-        {
-          "name": "Massonico",
-          "url": "https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB"
-        }
-      ],
-      "duration_ms": 201496,
-      "name": "Despertar (Cuando Todo Quema)",
-      "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Lo Que Es Real",
         "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Tu primero y luego yo",
-        "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 146922,
-      "name": "Tu primero y luego yo",
-      "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Blue Dalom",
         "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 222133,
       "name": "Let Me Fly",
       "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Tu primero y luego yo",
+        "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 146922,
+      "name": "Tu primero y luego yo",
+      "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Partido Platanista",
-        "url": "https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Partido Platanista",
-      "url": "https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "SUE\u00d1OS MOJADOS",
         "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 144000,
       "name": "SUE\u00d1OS MOJADOS",
       "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Partido Platanista",
+        "url": "https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Partido Platanista",
+      "url": "https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X"
     },
     {
       "added_at": "2025-08-01 03:00:09",

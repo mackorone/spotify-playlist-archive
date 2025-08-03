@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-108 songs - 6 hr 36 min
+110 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 | 2025-07-18 |  |
 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 | 2025-07-18 |  |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2025-07-18 |  |
-| [Jardin d'hiver](https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Jardin d'hiver](https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE) | 3:27 | 2025-07-18 |  |
+| [Jardin d'hiver](https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Jardin d'hiver](https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE) | 3:27 | 2025-07-18 | 2025-08-03 |
 | [Just Around the Corner](https://open.spotify.com/track/5Mxmje3T8MAEGBnIEl0k1b) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 3:13 | 2025-07-18 |  |
 | [La Californie](https://open.spotify.com/track/1g7tqO5lzjQIQxdVZapBwf) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [La Beat Tape](https://open.spotify.com/album/78QxpVLxXgG7rvYQUXDOfe) | 2:56 | 2025-07-18 |  |
 | [La prima estate](https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [La prima estate](https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB) | 4:00 | 2025-07-18 |  |
@@ -71,7 +71,7 @@
 | [Montego Bay Spleen](https://open.spotify.com/track/38LpbjQx5XAA95pb7AGRnE) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:25 | 2025-07-18 |  |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-07-18 |  |
 | [Moonlit](https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Moonlit](https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC) | 3:41 | 2025-07-25 |  |
-| [Move on Up](https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS) | [The Dynamics](https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn) | [Disco Reggae](https://open.spotify.com/album/5Wiqlnm1WL65Oae5PWNBcx) | 4:52 | 2025-07-18 |  |
+| [Move on Up](https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS) | [The Dynamics](https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn) | [Disco Reggae](https://open.spotify.com/album/5Wiqlnm1WL65Oae5PWNBcx) | 4:52 | 2025-07-18 | 2025-08-03 |
 | [My Mind Is For Sale](https://open.spotify.com/track/4zohK59ouRruiqESaTcOZW) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:59 | 2025-07-18 | 2025-07-26 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-07-18 | 2025-07-26 |
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2025-07-18 |  |
@@ -90,11 +90,13 @@
 | [Small Town Girls](https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 2:30 | 2025-07-18 | 2025-07-26 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 | 2025-07-18 |  |
 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 | 2025-07-18 |  |
+| [Sorry I'm Late, I Didn't Want To Come \- Roosevelt Remix](https://open.spotify.com/track/5oekWmarT1bxmufDNPRQcV) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Sorry I'm Late, I Didn't Want To Come \(Roosevelt Remix\)](https://open.spotify.com/album/40kYWTnePUZyDB8K59cAiW) | 4:47 | 2025-08-01 |  |
 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-07-18 |  |
 | [Spell on You](https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Isteri](https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk) | 4:00 | 2025-07-18 |  |
 | [Steal](https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:39 | 2025-07-18 |  |
 | [Sua Alma](https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [D'Alma](https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us) | [Umoja](https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA) | 4:42 | 2025-07-18 |  |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-18 |  |
+| [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-08-01 |  |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-07-18 |  |
 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 | 2025-07-18 |  |
 | [Taking Over](https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa) | 5:36 | 2025-07-18 |  |

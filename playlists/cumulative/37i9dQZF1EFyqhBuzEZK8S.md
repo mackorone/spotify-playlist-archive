@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-354 songs - 21 hr 50 min
+356 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [I've Let You Go](https://open.spotify.com/track/1B1aiivjavlMOFOTwkKgAQ) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 3:47 | 2024-04-19 |  |
 | [illicit affairs](https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:10 | 2024-04-19 |  |
 | [imgonnagetyouback](https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:42 | 2024-04-20 |  |
+| [In the Sun She Lies \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/track/32Hpq9OZTW4fmAXC5uTO4r) | [Lace Manhattan](https://open.spotify.com/artist/0I7CZtEq5rPKtJewJvBjyJ) | [ODDWADD / In the Sun She Lies \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/album/2PlNR6OhQJ6aAnQH0rEbyj) | 3:05 | 2025-08-02 |  |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2024-04-19 |  |
 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 | 2024-04-19 |  |
 | [It Gets Better](https://open.spotify.com/track/0OdgyUig3oQTf96PcKJDZG) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 3:36 | 2025-01-09 | 2025-04-12 |
@@ -235,6 +236,7 @@
 | [Nothing Is U](https://open.spotify.com/track/4PDuIdU1oXL4hHfriaOXFv) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 2:31 | 2024-04-19 |  |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2024-04-19 |  |
 | [Oceanic Feeling](https://open.spotify.com/track/6kj8TeHSns33wt1Z1wdmMx) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 6:39 | 2024-04-19 |  |
+| [ODDWADD \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/track/34D78QnkBV42QouI2DE66p) | [Lace Manhattan](https://open.spotify.com/artist/0I7CZtEq5rPKtJewJvBjyJ) | [ODDWADD / In the Sun She Lies \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/album/2PlNR6OhQJ6aAnQH0rEbyj) | 2:18 | 2025-08-02 |  |
 | [One Foot](https://open.spotify.com/track/1SGLgGAv1W2CRF9sovnJXu) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 3:31 | 2024-04-19 |  |
 | [Ordinary Heaven](https://open.spotify.com/track/37iTeSsKvk2PQqNMH5hfoc) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 5:12 | 2024-04-19 |  |
 | [Out Of The Woods](https://open.spotify.com/track/0qUnBLZ8bJqUNEeQgayL9t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:55 | 2024-04-19 |  |

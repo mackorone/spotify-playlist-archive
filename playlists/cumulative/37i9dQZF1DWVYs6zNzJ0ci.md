@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español con los 100 millones de streams de "High" de Rawayana 🇻🇪
 
-414 songs - 1 day 3 hr 9 min
+415 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,9 +253,10 @@
 | [Mi Niña](https://open.spotify.com/track/22Kk5FBOwKq0ojHyXIQjrb) | [Cañaman](https://open.spotify.com/artist/04igWRFWpM5duyi0r95fUn), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Fronteras](https://open.spotify.com/album/1zngtI4hhYoXvJH379bHWa) | 6:24 | 2022-07-08 | 2022-10-15 |
 | [Mi Niña](https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg) | [Spiritual Reggae Band](https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS) | [Ruge](https://open.spotify.com/album/05KcuSthgbWCRQkV8liSvJ) | 4:03 | 2021-12-10 | 2023-02-07 |
 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 | 2021-12-10 |  |
+| [Mi Velero \- The Remix](https://open.spotify.com/track/6216xg8ZfPz40rUkrNifqc) | [Kinky Bwoy](https://open.spotify.com/artist/0MdmBtTM7CiggP607Mh1Fs) | [Mi Velero \(The Remix\)](https://open.spotify.com/album/0IoPfBP7g17KJefmuh8RcE) | 3:51 | 2025-07-30 |  |
 | [Mi Yerba Siempre Sube](https://open.spotify.com/track/0pltFU6OY4iRAertDeQb4Z) | [Chulito Camacho](https://open.spotify.com/artist/409BGtiorPu7SiAJKsUGSW) | [Mi Yerba Siempre Sube](https://open.spotify.com/album/4PwHU7dPUpflgabt8BOSuM) | 2:48 | 2023-03-03 | 2023-05-06 |
 | [Mil Noches en Vela](https://open.spotify.com/track/2fRP313b0kxKzDGtfC37yW) | [Accion Sanchez](https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Mil Noches en Vela](https://open.spotify.com/album/23l5sVAJJZzFkv1FgscGCy) | 3:04 | 2024-05-10 | 2024-07-05 |
-| [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 | 2021-12-10 |  |
+| [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 | 2021-12-10 | 2025-08-03 |
 | [Mira Qué Buena Que Estás](https://open.spotify.com/track/04ro70w4y43l6TjjJZhTt9) | [Los Elefantes](https://open.spotify.com/artist/6tgzJFBvtuw7rITf072msd) | [Grandes Éxitos de Otros](https://open.spotify.com/album/57VDRtzaKThZTnI2qOhpxW) | 5:12 | 2025-06-06 | 2025-07-03 |
 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 | 2021-12-10 |  |
 | [Morena](https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Morena](https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7) | 3:16 | 2021-12-10 | 2025-05-30 |

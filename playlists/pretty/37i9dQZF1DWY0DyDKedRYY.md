@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Tyler Nance
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,449 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,408 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 59 | [honeydew \(praise the Lord\)](https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [honeydew \(praise the Lord\)](https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz) | 3:44 |
 | 60 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 
-Snapshot ID: `aI0EbgAAAAApMAZ4RpRlOJxSaRlNXAkz`
+Snapshot ID: `aI0EbgAAAADF/ZXVHShH3Bu6CWRIGdAe`

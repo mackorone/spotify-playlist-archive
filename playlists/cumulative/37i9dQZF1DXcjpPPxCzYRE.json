@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Better Believe It",
+        "url": "https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh"
+      },
+      "artists": [
+        {
+          "name": "Carla Geneve",
+          "url": "https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142892,
+      "name": "Better Believe It",
+      "url": "https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH"
+    },
+    {
+      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
       },
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 190502,
       "name": "Cruzando el Charco",
       "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
@@ -5672,7 +5690,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
@@ -6546,7 +6564,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 176160,
       "name": "Time (For You)",
       "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"

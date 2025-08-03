@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-719 songs - 2 day 20 hr 59 min
+720 songs - 2 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Arena](https://open.spotify.com/track/76CKJfYgZ17WZn6HQHszxT) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Polytone](https://open.spotify.com/album/0LSCZqG1dAwWKeBqDvmiTh) | 6:15 | 2020-02-29 | 2021-10-14 |
 | [Articulation](https://open.spotify.com/track/1yVxLul2a4s6icKnMJsb93) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/5gI4vXb0TDc2vW0VVZIELj) | 6:30 | 2020-06-12 | 2021-05-28 |
 | [As We Roll](https://open.spotify.com/track/0wtVKPi0ctiZTlntlHjxLM) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [As We Roll](https://open.spotify.com/album/4L6AsmCj0aKipkcfA4Ug1d) | 6:52 | 2021-12-17 | 2022-07-28 |
-| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 |  |
+| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 | 2025-08-03 |
 | [Ashes in Paradise](https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ashes in Paradise](https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z) | 6:30 | 2023-11-27 | 2024-06-22 |
 | [Asiri](https://open.spotify.com/track/4bdbWkbYxmGDOA7jLq5DdA) | [Joep Mencke](https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm) | [Asiri](https://open.spotify.com/album/77PSTw3UsjsWTcxfgnDw72) | 9:38 | 2019-08-06\* | 2019-12-07 |
 | [Assaya \- Original Mix](https://open.spotify.com/track/13mciLwmOHd3gPWoHxwwuS) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Assaya](https://open.spotify.com/album/54FKQZNSDsGKTBG5X6MfI4) | 6:32 | 2019-08-06\* | 2019-08-15 |
@@ -241,6 +241,7 @@
 | [Get Lucky](https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Gracie Thunder](https://open.spotify.com/artist/25d61nDt5Q9CgyfTraRplX) | [Get Lucky](https://open.spotify.com/album/17OsldS6iPodvsbgVOJEho) | 3:45 | 2023-06-30 | 2024-08-24 |
 | [Ghostkeeper](https://open.spotify.com/track/13EMVBU1hcy5yJdX1Xhf9a) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Ghostkeeper](https://open.spotify.com/album/1yv2QCPD4HcYendMbnMnet) | 5:31 | 2020-02-26 | 2020-10-21 |
 | [Gimme Something](https://open.spotify.com/track/6JcHGCnx7iWrtZS26TJGK3) | [Drauf & Dran](https://open.spotify.com/artist/7vDF2oFndw0LFoqtF1nopb), [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Gimme Something](https://open.spotify.com/album/0lTIOKZtFl72ZEnr8EH6BR) | 5:53 | 2020-03-10 | 2021-12-21 |
+| [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 | 2025-08-01 |  |
 | [Give It All to You](https://open.spotify.com/track/1j4K66xky5S6qU3ng5YQoD) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Give It All to You](https://open.spotify.com/album/065o4Yye2hn6zHa9g1yvFV) | 6:39 | 2019-08-06\* | 2019-08-29 |
 | [Glow](https://open.spotify.com/track/43Y8J1INTd88M9zJTUPMaT) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [JØREN OZ](https://open.spotify.com/artist/5VKVgpHKOCFbto8DwpnadA) | [Glow](https://open.spotify.com/album/2NtTJ9sWOH2NeTX5LLGgM8) | 5:36 | 2021-01-09 | 2022-04-16 |
 | [glow](https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 7:33 | 2024-09-06 |  |

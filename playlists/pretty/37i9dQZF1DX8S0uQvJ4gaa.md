@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Gabby Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,959 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,301,054 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 36 | [Ain't Country](https://open.spotify.com/track/6fjJaCurUYhcMp9ZZ94u04) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Tough Love](https://open.spotify.com/album/4O05wlo4QK908vJiOQGpJc) | 2:45 |
 | 37 | [99](https://open.spotify.com/track/22CKFavEurPuJJsOFaobac) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Burning Daylight](https://open.spotify.com/album/1mHx616eNbODxMf4vnBG1j) | 3:21 |
 | 38 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:27 |
-| 39 | [I Mean It](https://open.spotify.com/track/7ppYbpPqxoNdyxm6117MVK) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [I Mean It](https://open.spotify.com/album/3qzY6amUI4j16xFsZM4WN0) | 3:05 |
+| 39 | [I Mean It](https://open.spotify.com/track/7ppYbpPqxoNdyxm6117MVK) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [I Mean It](https://open.spotify.com/album/3qzY6amUI4j16xFsZM4WN0) | 3:07 |
 | 40 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
 | 41 | [Water My Flowers](https://open.spotify.com/track/3YSDdyuCgLiYmT0SkOKOxa) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Water My Flowers](https://open.spotify.com/album/4pJjKdO71lcyiz7KMOKMFW) | 3:40 |
 | 42 | [the hell you are](https://open.spotify.com/track/6E02wi9oGn2EvKiLc2cuMv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [the hell you are](https://open.spotify.com/album/5yqBQUm3a7jXyfM3OMw5rJ) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Scornful Woman](https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Scornful Woman](https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq) | 2:55 |
 | 100 | [Spin the Block](https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Spin the Block](https://open.spotify.com/album/0LsePMxxlwcaDQgNc0m6N6) | 2:46 |
 
-Snapshot ID: `AAAAAOVgWmuMCwMzKreNB+/u964lmYy9`
+Snapshot ID: `aIw75QAAAACphY6WoO7vbET+TUl8rlt6`

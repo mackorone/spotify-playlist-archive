@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,044 likes - 450 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,090 likes - 450 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

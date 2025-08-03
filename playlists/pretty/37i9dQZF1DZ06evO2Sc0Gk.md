@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,299 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,303 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
 | 50 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
 
-Snapshot ID: `aIqyAAAAAAAEMnrcFcxKemo32SDbW/Ux`
+Snapshot ID: `aIwDgAAAAADbiCLTb7HpBD365suTMM9c`

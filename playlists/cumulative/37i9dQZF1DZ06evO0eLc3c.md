@@ -4,7 +4,7 @@
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-65 songs - 5 hr 14 min
+66 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [As The Night Goes By](https://open.spotify.com/track/3DjteqYqBVPCV3rgVs7udt) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 5:04 | 2025-03-08 |  |
 | [Ask the Angels](https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 3:09 | 2025-03-08 |  |
 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 | 2025-03-08 |  |
+| [Beneath the Southern Cross](https://open.spotify.com/track/1KRWRshqiMiYm6cTped4pp) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 4:34 | 2025-08-03 |  |
 | [Beneath the Southern Cross](https://open.spotify.com/track/24J408JkCXOIv4lXAmQFQG) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 4:34 | 2025-05-12 | 2025-05-14 |
 | [Break It Up](https://open.spotify.com/track/5UoBmpb4VHNBbKjxmL8WGe) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 4:01 | 2025-03-08 |  |
 | [Changing of the Guards](https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:45 | 2025-05-11 |  |
@@ -70,7 +71,7 @@
 | [We Three](https://open.spotify.com/track/62qEv00qkhGyQdwVzeyXsC) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:18 | 2025-03-08 |  |
 | [When Doves Cry](https://open.spotify.com/track/7w0chcuNV2QYryLRRXSuyh) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Land \(1975\-2002\)](https://open.spotify.com/album/6mlMWDW1rLGEdyY4e56bcO) | 4:59 | 2025-03-08 |  |
 | [Where Duty Calls](https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 7:48 | 2025-03-08 |  |
-| [Wicked Messenger](https://open.spotify.com/track/2CKlx0XM0zACsOfl3SWE2w) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 3:48 | 2025-03-08 |  |
+| [Wicked Messenger](https://open.spotify.com/track/2CKlx0XM0zACsOfl3SWE2w) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 3:48 | 2025-03-08 | 2025-08-03 |
 | [Wild Leaves](https://open.spotify.com/track/057qO32zoehoIz6lKdvP3t) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 4:04 | 2025-03-08 |  |
 | [Wing](https://open.spotify.com/track/3CKLNsnMOpi4yPZepcHDth) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 4:53 | 2025-03-08 |  |
 

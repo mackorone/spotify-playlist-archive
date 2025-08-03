@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,670 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,702 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 49 | [Stewball](https://open.spotify.com/track/6VWex3iRJFdsKeY18uI67E) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:52 |
 | 50 | [Toulouse](https://open.spotify.com/track/4Ose68cyLGiTCCsJ6iLp2z) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Toulouse 1965\-1968](https://open.spotify.com/album/13Cr79G98YMqz6n7msaJhX) | 4:21 |
 
-Snapshot ID: `AAAAAOKRBiSRrcL74rOEtH+5YOosIOuo`
+Snapshot ID: `ZnRMMgAAAACWn2J79tmA3slaMlxsF31K`

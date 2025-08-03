@@ -4,7 +4,7 @@
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-129 songs - 6 hr 40 min
+130 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [BW](https://open.spotify.com/track/5UJvtcAGjB4HkcJTacYWXP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [BW](https://open.spotify.com/album/1CGDlDzRZwzxCMcT6qXXRs) | 2:51 | 2024-10-13 | 2025-05-16 |
 | [Bélico X Siempre](https://open.spotify.com/track/7uZ3mZbVE1e7NtYMBAK3hA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre](https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj) | 2:53 | 2023-08-08 | 2024-02-02 |
 | [Chingón sin chingar](https://open.spotify.com/track/5UHKqatK8TCqiL1ycgaccM) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/6qkENPFwil1ObSPNM112Uw) | 3:07 | 2023-08-08 | 2024-06-06 |
-| [Chingón sin chingar](https://open.spotify.com/track/1Ea2n0ppekKL216GUPdQ7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/3RIMaNcCUCGWmJNXbAR4ol) | 3:07 | 2025-08-01 |  |
+| [Chingón sin chingar](https://open.spotify.com/track/1Ea2n0ppekKL216GUPdQ7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/3RIMaNcCUCGWmJNXbAR4ol) | 3:07 | 2025-08-01 | 2025-08-03 |
 | [Clausurado](https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:06 | 2024-11-03 |  |
 | [Corleone](https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:47 | 2023-08-08 | 2024-05-28 |
 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 | 2023-08-08 | 2023-11-11 |
@@ -73,6 +73,7 @@
 | [En El Audi](https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [En El Audi](https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C) | 3:18 | 2024-09-22 | 2025-04-05 |
 | [Eres Mi Crush](https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ) | 2:40 | 2025-07-30 |  |
 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 | 2023-08-08 | 2025-07-30 |
+| [Esos Ojitos](https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Esos Ojitos](https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw) | 2:50 | 2025-08-03 |  |
 | [Estilo Sinaloa](https://open.spotify.com/track/3EtubqAbWJoVFg65iT7HlI) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Estilo Sinaloa](https://open.spotify.com/album/1bN6vo9qSj5Kw4KN0uTYZ3) | 4:28 | 2023-08-08 | 2023-09-22 |
 | [Fui Marito Choklos](https://open.spotify.com/track/3c8xkGXxMlvBwpMNPtR0zB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Fui Marito Choklos](https://open.spotify.com/album/4CB1C5rC9ufFE1QOETJ839) | 4:10 | 2023-08-08 | 2023-12-19 |
 | [GOZANDO](https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [GOZANDO](https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH) | 2:51 | 2023-09-18 | 2025-04-23 |

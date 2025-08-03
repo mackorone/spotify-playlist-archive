@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,812 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,886 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 13 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
 | 14 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
 | 15 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
-| 16 | [Ich will alles](https://open.spotify.com/track/3GsD3Dzap9dZrGGU9I3h0S) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8), [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [ALLES ODER NIX](https://open.spotify.com/album/5bhD7Kl3zfhdbnJiVVUXgx) | 3:40 |
-| 17 | [Dickes B \(feat\. Black Kappa\)](https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV), [Black Kappa](https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6) | [New Dubby Conquerors](https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le) | 4:44 |
+| 16 | [Dickes B \(feat\. Black Kappa\)](https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV), [Black Kappa](https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6) | [New Dubby Conquerors](https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le) | 4:44 |
+| 17 | [Ich will alles](https://open.spotify.com/track/3GsD3Dzap9dZrGGU9I3h0S) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8), [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [ALLES ODER NIX](https://open.spotify.com/album/5bhD7Kl3zfhdbnJiVVUXgx) | 3:40 |
 | 18 | [Urlaub fürs Gehirn](https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Urlaub fürs Gehirn](https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR) | 4:01 |
 | 19 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
 | 20 | [Weck mich auf](https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 5:43 |

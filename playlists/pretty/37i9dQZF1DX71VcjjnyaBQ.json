@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 427176,
+  "num_followers": 427238,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,34 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/79e8PZ5KAERcCMeDkPyK8x"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 226766,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/11A8pDjC04wlmALbtrfoWw"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
         "name": "Stay a While",
         "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
       },
@@ -191,34 +219,6 @@
       "duration_ms": 322362,
       "name": "When I Fell for You",
       "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/79e8PZ5KAERcCMeDkPyK8x"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
-        },
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 226766,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/11A8pDjC04wlmALbtrfoWw"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
-      },
-      "artists": [
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Abiyoyo",
-      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Nothing Happens Here",
         "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
       "artists": [
         {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
         }
       ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
+      "duration_ms": 204733,
+      "name": "Abiyoyo",
+      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -639,18 +623,34 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Came and Went",
-        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
       },
       "artists": [
         {
-          "name": "Geoffrey Dean",
-          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
         }
       ],
-      "duration_ms": 335196,
-      "name": "Came and Went",
-      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "These Simple Things",
+        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 308786,
+      "name": "These Simple Things",
+      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "These Simple Things",
-        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+        "name": "Came and Went",
+        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
       },
       "artists": [
         {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+          "name": "Geoffrey Dean",
+          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
         }
       ],
-      "duration_ms": 308786,
-      "name": "These Simple Things",
-      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
+      "duration_ms": 335196,
+      "name": "Came and Went",
+      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 280011,
       "name": "Blues Arabesque",
       "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 301783,
-      "name": "June 2nd",
-      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -1163,6 +1139,30 @@
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 301783,
+      "name": "June 2nd",
+      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2025-07-18 12:27:16",
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        }
-      ],
-      "duration_ms": 213823,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
         "name": "Some Gospel According to Matthew",
         "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
@@ -1511,22 +1487,6 @@
       "duration_ms": 323426,
       "name": "Some Gospel According to Matthew - Live",
       "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
-    },
-    {
-      "added_at": "2025-07-18 12:27:16",
-      "album": {
-        "name": "Bye Bye Blackbird (Live)",
-        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
-      },
-      "artists": [
-        {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
-        }
-      ],
-      "duration_ms": 422813,
-      "name": "Bye Bye Blackbird - Live",
-      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
     },
     {
       "added_at": "2025-07-18 12:27:16",
@@ -1555,6 +1515,46 @@
       "duration_ms": 251863,
       "name": "Professor Nelson Strikes Again - Single Version",
       "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Bye Bye Blackbird (Live)",
+        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        }
+      ],
+      "duration_ms": 422813,
+      "name": "Bye Bye Blackbird - Live",
+      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
+    },
+    {
+      "added_at": "2025-07-18 12:27:16",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5WiF17p09CHWY9qzBa2hNT"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        }
+      ],
+      "duration_ms": 213823,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/27SJ1u5fP52xLjPYGH0Ogt"
     },
     {
       "added_at": "2025-07-18 12:27:16",

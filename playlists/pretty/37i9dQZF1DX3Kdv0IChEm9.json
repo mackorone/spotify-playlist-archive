@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 458034,
+  "num_followers": 458372,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -86,11 +86,15 @@
         {
           "name": "Calvin Harris",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+      "duration_ms": 227266,
+      "name": "Outside (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -178,15 +182,11 @@
         {
           "name": "Calvin Harris",
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Outside (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -271,26 +271,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 219043,
-      "name": "Sugar (feat. Francesco Yates)",
-      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 212960,
       "name": "Blame (feat. John Newman)",
       "url": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Sugar (feat. Francesco Yates)",
+      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 212560,
       "name": "Sweet Nothing (feat. Florence Welch)",
       "url": "https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Infinity 2008",
-        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
-      },
-      "artists": [
-        {
-          "name": "Guru Josh Project",
-          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
-        },
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 192294,
-      "name": "Infinity 2008 - Klaas Vocal Edit",
-      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "THIS IS... ICONA POP",
         "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Infinity 2008",
+        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 192294,
+      "name": "Infinity 2008 - Klaas Vocal Edit",
+      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
     },
     {
       "added_at": "2025-01-16 12:30:53",

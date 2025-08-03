@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 
 > Baby, ¿qué más?¿Qué fue?¿Qué tal si por la noche apagamos los dos el cel? 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,510 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,634 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 | 59 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
 | 60 | [Culpables](https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV) | 4:12 |
 
-Snapshot ID: `AAAAALyrELhyuqaZ7pj1RTFP43bHngbW`
+Snapshot ID: `aIpvNQAAAABAeXQYKEcsnK2CZ1uV9K3K`

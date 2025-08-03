@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-334 songs - 17 hr 26 min
+335 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-08-12 | 2024-06-23 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-05-31 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2022-01-15 | 2022-04-10 |
+| [BAI\-LALA](https://open.spotify.com/track/2uaKfM2eY5AsomhPWMh7lP) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [BAI\-LALA](https://open.spotify.com/album/72iBprQcMjpvvC7op8Zk68) | 2:33 | 2025-08-02 |  |
 | [BAILAR Y LLORAR](https://open.spotify.com/track/1xdN7tQWUo6eaeW9dOpiyh) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [BAILAR Y LLORAR](https://open.spotify.com/album/3ZST50Sb0uJuqGV4fiJdKF) | 2:57 | 2025-03-22 |  |
 | [Bailarina](https://open.spotify.com/track/0PTnMPnIvXRgb5IaANYzVN) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Bailarina](https://open.spotify.com/album/0OCGfj5zYqgfbeqUaXiP2f) | 3:05 | 2024-04-13 | 2024-08-25 |
 | [Bajo la luna](https://open.spotify.com/track/04A1KwRPMxzRSTWoonLlIi) | [Hilario](https://open.spotify.com/artist/3ACh8ywebnva0GQkJgHuF7) | [Bajo la luna](https://open.spotify.com/album/4DZu7eKmKYpYrbqHoIPO3f) | 2:53 | 2023-12-09 | 2024-04-21 |
@@ -258,7 +259,7 @@
 | [Quién Diría](https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Quién Diría](https://open.spotify.com/album/2zZljKaQGNaogYs8QN2wMM) | 3:03 | 2022-04-30 | 2022-11-27 |
 | [Qué bonita](https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Qué bonita](https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX) | 2:43 | 2022-12-03 | 2023-05-07 |
 | [Qué Pasaría...](https://open.spotify.com/track/0OxKf18dUo2G5dFOQYCvBN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Qué Pasaría...](https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn) | 3:11 | 2025-01-11 | 2025-05-25 |
-| [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 | 2024-10-19 |  |
+| [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 | 2024-10-19 | 2025-08-03 |
 | [Quédate, mi corazón](https://open.spotify.com/track/6U53lx27bu7TQmVP5In6NC) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Quédate, mi corazón](https://open.spotify.com/album/5aeqpx8rdMn9XdgCILsCdv) | 2:46 | 2024-04-20 | 2024-08-18 |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-07-29 | 2023-10-29 |
 | [RAYO DE LUZ](https://open.spotify.com/track/4e48qabruKkdAHWuSh67xM) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [RAYO DE LUZ](https://open.spotify.com/album/2g5GgTx8lV9UNovLeJiTFZ) | 3:16 | 2025-03-01 | 2025-06-01 |

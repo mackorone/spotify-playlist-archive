@@ -1,6 +1,6 @@
 {
   "description": "Boss music for boss people. Cover: James Marriott ",
-  "num_followers": 128247,
+  "num_followers": 128255,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
-        "name": "Thorn",
-        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Thorn",
-      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
-    },
-    {
-      "added_at": "2025-06-23 00:26:18",
-      "album": {
         "name": "Yay! Saturday",
         "url": "https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "added_at": "2025-06-23 00:26:18",
+      "album": {
+        "name": "Thorn",
+        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Thorn",
+      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
     },
     {
       "added_at": "2025-06-23 00:26:18",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
-        "name": "Blood On The Hospital Floor",
-        "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Blood On The Hospital Floor",
-      "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
-    },
-    {
-      "added_at": "2025-06-23 00:26:18",
-      "album": {
         "name": "Breadline",
         "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194652,
       "name": "Breadline",
       "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
+    },
+    {
+      "added_at": "2025-06-23 00:26:18",
+      "album": {
+        "name": "Blood On The Hospital Floor",
+        "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Blood On The Hospital Floor",
+      "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
     },
     {
       "added_at": "2025-06-23 00:26:18",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
-        "name": "Reeling",
-        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Life's a Bitch (But I Like it So Much)",
-      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
-    },
-    {
-      "added_at": "2025-06-23 00:26:18",
-      "album": {
         "name": "Girl From NYC",
         "url": "https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
-        "name": "Vain",
-        "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
       "artists": [
         {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
         }
       ],
-      "duration_ms": 156106,
-      "name": "Vain",
-      "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2025-06-23 00:26:18",
@@ -1359,6 +1343,22 @@
       "duration_ms": 171280,
       "name": "Lucky Bean",
       "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
+    },
+    {
+      "added_at": "2025-06-23 00:26:18",
+      "album": {
+        "name": "Vain",
+        "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Vain",
+      "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
     },
     {
       "added_at": "2025-06-23 00:26:18",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
-        "name": "Anxiety Replacement Therapy",
-        "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
-      },
-      "artists": [
-        {
-          "name": "The Lottery Winners",
-          "url": "https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b"
-        }
-      ],
-      "duration_ms": 186083,
-      "name": "Sertraline",
-      "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
-    },
-    {
-      "added_at": "2025-06-23 00:26:18",
-      "album": {
         "name": "Nothing's As It Seems",
         "url": "https://open.spotify.com/album/4LF9kAQz5mw8nJQgpR80S7"
       },
@@ -1487,38 +1471,6 @@
       "duration_ms": 222507,
       "name": "Nothing's As It Seems",
       "url": "https://open.spotify.com/track/5YgWCmoVZDch6bdaTa33EL"
-    },
-    {
-      "added_at": "2025-06-23 00:26:18",
-      "album": {
-        "name": "Drive to Goldenhammer",
-        "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
-      },
-      "artists": [
-        {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
-        }
-      ],
-      "duration_ms": 210732,
-      "name": "Lord",
-      "url": "https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI"
-    },
-    {
-      "added_at": "2025-06-23 00:26:18",
-      "album": {
-        "name": "Smitten",
-        "url": "https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 187817,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/1eDkgAb10MpvfquvlvVxqW"
     },
     {
       "added_at": "2025-06-23 00:26:18",
@@ -1539,18 +1491,50 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/4RFi9MnCrBsxIM01Vq9hdy"
+        "name": "Drive to Goldenhammer",
+        "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
       },
       "artists": [
         {
-          "name": "Bandit",
-          "url": "https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop"
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
         }
       ],
-      "duration_ms": 227174,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/3Xk4QYUoZ1TszBMINEHkUa"
+      "duration_ms": 210732,
+      "name": "Lord",
+      "url": "https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI"
+    },
+    {
+      "added_at": "2025-06-23 00:26:18",
+      "album": {
+        "name": "Anxiety Replacement Therapy",
+        "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
+      },
+      "artists": [
+        {
+          "name": "The Lottery Winners",
+          "url": "https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "Sertraline",
+      "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
+    },
+    {
+      "added_at": "2025-06-23 00:26:18",
+      "album": {
+        "name": "Smitten",
+        "url": "https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 187817,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/1eDkgAb10MpvfquvlvVxqW"
     },
     {
       "added_at": "2025-06-23 00:26:18",
@@ -1583,6 +1567,22 @@
       "duration_ms": 179093,
       "name": "Dirty White",
       "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
+    },
+    {
+      "added_at": "2025-06-23 00:26:18",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/4RFi9MnCrBsxIM01Vq9hdy"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop"
+        }
+      ],
+      "duration_ms": 227174,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/3Xk4QYUoZ1TszBMINEHkUa"
     },
     {
       "added_at": "2025-06-23 00:26:18",

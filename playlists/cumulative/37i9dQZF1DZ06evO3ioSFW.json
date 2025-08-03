@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239626,
+      "name": "No Me Preguntes M\u00e1s",
+      "url": "https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k"
+    },
+    {
+      "album": {
         "name": "Habla Ahora",
         "url": "https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ"
       },

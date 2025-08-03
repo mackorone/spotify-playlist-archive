@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Sheila Majid, yung kai, Faizal Tahir,  Henry Moodie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,252 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,264 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 24 | [云瑶（逆水寒云瑶流派宣传曲）](https://open.spotify.com/track/5HPNiohD7iXHya5JTMaYec) | [逆水寒](https://open.spotify.com/artist/4fimUX8gF9oHYHsRJNcEuF), [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [云瑶（逆水寒云瑶流派宣传曲）](https://open.spotify.com/album/2ivKxoNNSPVJ7m45SgMnto) | 3:07 |
 | 25 | [CDEFG](https://open.spotify.com/track/2jz2OCkYGhRB7EEcHM6YOW) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.0](https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf) | 3:00 |
 | 26 | [Stylish](https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:35 |
-| 27 | [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 |
+| 27 | [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [j money](https://open.spotify.com/artist/2UHDz6ljf365oUXK4tW6tK), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 |
 | 28 | [Is It a Crime](https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Is It a Crime](https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci) | 3:01 |
-| 29 | [带走](https://open.spotify.com/track/3uFaFl6p8iyjHOdJVG8tfB) | [洪晨峰](https://open.spotify.com/artist/742J3ZuHeApWlvO5YxrgQH) | [带走](https://open.spotify.com/album/3AqGNuNm3dCxxjm73wcBYF) | 4:23 |
+| 29 | [带走](https://open.spotify.com/track/3uFaFl6p8iyjHOdJVG8tfB) | [Joshua Fung 洪晨峰](https://open.spotify.com/artist/2xtkUhBS3Rs5WfObPloClx) | [带走](https://open.spotify.com/album/3AqGNuNm3dCxxjm73wcBYF) | 4:23 |
 | 30 | [Oru Pambai](https://open.spotify.com/track/4bUZucZvb6etCQ4PvCgFoo) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Oru Pambai](https://open.spotify.com/album/2wZdAn1gkUTTbM2OpDbZd4) | 3:51 |
 | 31 | [Percik Kecil](https://open.spotify.com/track/6CsSNFkQVVuQjRQMrzyDzq) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC), [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Percik Kecil](https://open.spotify.com/album/3TrKCx9c3yJ7iD7NsIDRAC) | 3:49 |
 | 32 | [Tak Halu Lagi](https://open.spotify.com/track/78u16742DkFCGnGjYXzgoH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Tak Halu Lagi](https://open.spotify.com/album/1sknQvj8wY6k2dJJ0JIY3L) | 4:07 |

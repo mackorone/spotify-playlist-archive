@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,787 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,786 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 51 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 |
 | 52 | [South of the Border \(feat\. Camila Cabello\) \- Acoustic](https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [South of the Border \(feat\. Camila Cabello\) \[Acoustic\]](https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT) | 3:14 |
 | 53 | [Cool Kids \- Live from Spotify NYC](https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Spotify Sessions](https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf) | 3:21 |
-| 54 | [Dancing On My Own \- triple j Like A Version](https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dancing On My Own \(triple j Like A Version\)](https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf) | 3:50 |
-| 55 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
+| 54 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
+| 55 | [Dancing On My Own \- triple j Like A Version](https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dancing On My Own \(triple j Like A Version\)](https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf) | 3:50 |
 | 56 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
 | 57 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 58 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 86 | [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 |
 | 87 | [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 |
 | 88 | [Eu Gosto Assim](https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv) | [Karol Ribê](https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt) | [Eu Gosto Assim](https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd) | 3:26 |
-| 89 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 |
-| 90 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 |
+| 89 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 |
+| 90 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 |
 
 Snapshot ID: `Z+YsrgAAAABxvfKo6Lk01av8hXz8KIN+`

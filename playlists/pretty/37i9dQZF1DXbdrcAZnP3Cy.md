@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,655 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,811 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 60 | [La Dieta](https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 2:44 |
 | 61 | [Pistear, Pistear, Pistear](https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Pistear, Pistear](https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0) | 2:45 |
 | 62 | [Se Menea](https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Se Menea Se Menea](https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D) | 2:31 |
-| 63 | [Dime Cómo Quieres](https://open.spotify.com/track/5fnbYKGq0zhFCCesNhiUE6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Dime Cómo Quieres](https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS) | 2:49 |
-| 64 | [El Sonidito](https://open.spotify.com/track/5L5Ox4ze5TZaQNw5CvD6CL) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [El Sonidito](https://open.spotify.com/album/7517072y7Mved9OzrsTB4E) | 3:19 |
+| 63 | [El Sonidito](https://open.spotify.com/track/5L5Ox4ze5TZaQNw5CvD6CL) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [El Sonidito](https://open.spotify.com/album/7517072y7Mved9OzrsTB4E) | 3:19 |
+| 64 | [Dime Cómo Quieres](https://open.spotify.com/track/5fnbYKGq0zhFCCesNhiUE6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Dime Cómo Quieres](https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS) | 2:49 |
 | 65 | [Pena Tras Pena](https://open.spotify.com/track/17Atin09BMavpAvwc8qWph) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tengo Una Illusión](https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m) | 2:50 |
 | 66 | [Azúcar](https://open.spotify.com/track/71hlW24Et0ZIHjp6pI7SXU) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Fito Olivares](https://open.spotify.com/artist/4VRHPqW54KVxJAhUWNKjNF) | [A.B\. Quintanilla III Presents Kumbia Kings Greatest Hits "Album Versions"](https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ) | 3:30 |
 | 67 | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ) | 2:51 |

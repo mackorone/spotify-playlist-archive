@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Tiwa Savage, Skepta",
-  "num_followers": 319300,
+  "num_followers": 319301,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-07-31 23:00:13",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "YAYO",
+      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
+    },
+    {
+      "added_at": "2025-07-31 23:00:13",
+      "album": {
         "name": "Escaladizzy",
         "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 164745,
       "name": "Escaladizzy",
       "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
-    },
-    {
-      "added_at": "2025-07-31 23:00:13",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "YAYO",
-      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
     },
     {
       "added_at": "2025-07-31 23:00:13",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-07-31 23:00:13",
       "album": {
-        "name": "FLAKO",
-        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "FLAKO",
-      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
-    },
-    {
-      "added_at": "2025-07-31 23:00:13",
-      "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+    },
+    {
+      "added_at": "2025-07-31 23:00:13",
+      "album": {
+        "name": "FLAKO",
+        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "FLAKO",
+      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
     },
     {
       "added_at": "2025-07-31 23:00:13",
@@ -935,18 +935,22 @@
     {
       "added_at": "2025-07-31 23:00:13",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B"
+        "name": "soso (JOSEPH Remix)",
+        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
         }
       ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb"
+      "duration_ms": 291500,
+      "name": "soso - JOSEPH Remix",
+      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
     },
     {
       "added_at": "2025-07-31 23:00:13",

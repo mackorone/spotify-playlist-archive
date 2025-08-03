@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Simge ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,763 likes - 123 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,796 likes - 123 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 31 | [Your Arms](https://open.spotify.com/track/3s7jzV5Mjfv6wNWOhMehT3) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD), [2Scratch](https://open.spotify.com/artist/02qHcQfJCm2XlAnaJ5a6Rh), [LAARA](https://open.spotify.com/artist/4BJp4ZBfFyBR4mOLHMHxR4) | [Your Arms](https://open.spotify.com/album/7pqHf1cIR5SLXbsxsB1jN7) | 2:44 |
 | 32 | [Krizz](https://open.spotify.com/track/6LPEKtfUS3oaXo3pas8inZ) | [Old G](https://open.spotify.com/artist/5dKK9A0yAqtRpqLoC7AkKm) | [Krizz](https://open.spotify.com/album/2jtyEXoBcKwiw0qEROAGa1) | 2:16 |
 | 33 | [Senden Başka](https://open.spotify.com/track/68pdortOz3Qb6l8HfaCUno) | [Dodo](https://open.spotify.com/artist/5sR1YwTCIXPjYy8WoTv2jo), [Esin Kaya](https://open.spotify.com/artist/1uX30MY8BahKmbqQGI4aLA) | [Senden Başka](https://open.spotify.com/album/2eLopyliQBRZOCeqEa1pN0) | 2:48 |
-| 34 | [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 |
+| 34 | [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [j money](https://open.spotify.com/artist/2UHDz6ljf365oUXK4tW6tK), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 |
 | 35 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 |
 | 36 | [Wake Up \(With You Mine\)](https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [Wake Up \(With You Mine\)](https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf) | 3:20 |
 | 37 | [Ağla Yüreğim Ağla](https://open.spotify.com/track/1SDkjSLKX753PEZ2JXkhPg) | [Selçuk Balcı](https://open.spotify.com/artist/4Xm86XAvDYWh36Z98FvKjc) | [Ağla Yüreğim Ağla](https://open.spotify.com/album/1DF7ONxgPL5JjLUYeFC30J) | 3:25 |

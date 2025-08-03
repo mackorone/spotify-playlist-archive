@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Mago de Tarso e novos talentos do Brasil\. Dê play no futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,725 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,693 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 49 | [Jogo Da Vida](https://open.spotify.com/track/7t50dEgiMo5eLePiLnFjQu) | [A Matilha](https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk), [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [TYAGO 021](https://open.spotify.com/artist/5FhhDu8U5gwHXd2dyjEsrS), [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Raí BG](https://open.spotify.com/artist/0QVqNtYyvl5iZ49kDVdaNk), [Lazza](https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs), [Malvadin](https://open.spotify.com/artist/77LIEcEBmbJ4TJcpOdlWSl), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk), [Prod\. Gui](https://open.spotify.com/artist/5i0x6pmiwHODYyEnKXSbjC) | [Jogo Da Vida](https://open.spotify.com/album/3CPcahlcdLCj4wFqCWjWEI) | 3:53 |
 | 50 | [Feito pra Voar](https://open.spotify.com/track/3QdLjFAZXYLTyZ202ltwdL) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [WR No Beat](https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae) | [Feito pra Voar](https://open.spotify.com/album/1f21dFwHjSBBddRAqoQmRl) | 2:17 |
 
-Snapshot ID: `aExKYwAAAACXE9lMOlaIRTM1KZ+lOJKc`
+Snapshot ID: `AAAAAN5iUl8yyhwS5w6pZvpA0mUyjOef`

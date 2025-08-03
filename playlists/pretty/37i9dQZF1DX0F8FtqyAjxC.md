@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,162 likes - 69 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,175 likes - 69 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 68 | [Say You Wanna](https://open.spotify.com/track/3EAPDEgbg6d0DTttRo8kdI) | [Howard Johnson](https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt) | [Keepin' Love New](https://open.spotify.com/album/3IMEhRbxKkn0sMfCJlyrdN) | 4:36 |
 | 69 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/3DIe90xqHuUDtyuapTwCAR) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [S.O.S.](https://open.spotify.com/album/7DhDuhhalViRMA628XKnQS) | 7:40 |
 
-Snapshot ID: `AAAAAM8UnXXSoHYOmDUIv/Oy99LUSRGK`
+Snapshot ID: `aINe+wAAAACc4y6HcqPhBSfHm09KgyNh`

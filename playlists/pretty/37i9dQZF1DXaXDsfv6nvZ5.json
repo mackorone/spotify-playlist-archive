@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Tone Stith",
-  "num_followers": 783998,
+  "num_followers": 784049,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-06-27 04:00:47",
       "album": {
-        "name": "Catching Feelings",
-        "url": "https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 205028,
-      "name": "Catching Feelings",
-      "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
-    },
-    {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
+    },
+    {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
+        "name": "Catching Feelings",
+        "url": "https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 205028,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
     },
     {
       "added_at": "2025-03-21 16:03:31",
@@ -1177,6 +1177,22 @@
       "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 319454,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
       "added_at": "2025-04-25 07:19:25",
       "album": {
         "name": "Flower Moon",
@@ -1195,22 +1211,6 @@
       "duration_ms": 296080,
       "name": "Flower Moon",
       "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 319454,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2025-03-07 05:51:28",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
-      "added_at": "2025-07-11 06:58:22",
-      "album": {
-        "name": "4ever",
-        "url": "https://open.spotify.com/album/3C1Y3uwhoEzvOp6DcYTfVw"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/0BAy7sih25RWwMCTtBClyV"
-    },
-    {
       "added_at": "2025-02-28 06:27:22",
       "album": {
         "name": "Hands",
@@ -1631,6 +1615,22 @@
       "duration_ms": 172444,
       "name": "Hands",
       "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
+    },
+    {
+      "added_at": "2025-07-11 06:58:22",
+      "album": {
+        "name": "4ever",
+        "url": "https://open.spotify.com/album/3C1Y3uwhoEzvOp6DcYTfVw"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/0BAy7sih25RWwMCTtBClyV"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
       "added_at": "2024-10-25 07:15:59",
       "album": {
         "name": "Mystery",
@@ -1679,6 +1663,22 @@
       "duration_ms": 223522,
       "name": "Sweet Little Rainbows",
       "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2024-11-15 07:05:31",
@@ -1977,22 +1977,6 @@
       "url": "https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME"
     },
     {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/3BSGF6A7wQToltkc5lIzsv"
-      },
-      "artists": [
-        {
-          "name": "J.P.",
-          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
-        }
-      ],
-      "duration_ms": 290224,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "EL-MEAN",
@@ -2007,6 +1991,22 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/3BSGF6A7wQToltkc5lIzsv"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "duration_ms": 290224,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3"
     },
     {
       "added_at": "2025-03-07 05:51:28",
@@ -2213,26 +2213,6 @@
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
-      "added_at": "2025-01-31 08:39:29",
-      "album": {
-        "name": "been a minute",
-        "url": "https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p"
-      },
-      "artists": [
-        {
-          "name": "Lily Agnes",
-          "url": "https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ"
-        },
-        {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "been a minute",
-      "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
-    },
-    {
       "added_at": "2024-05-10 05:54:01",
       "album": {
         "name": "Lotus Glow (Deluxe)",
@@ -2251,6 +2231,26 @@
       "duration_ms": 189813,
       "name": "Le D\u00e9part - Feat. Durand Bernarr",
       "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
+    },
+    {
+      "added_at": "2025-01-31 08:39:29",
+      "album": {
+        "name": "been a minute",
+        "url": "https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p"
+      },
+      "artists": [
+        {
+          "name": "Lily Agnes",
+          "url": "https://open.spotify.com/artist/4IUeaOPbT87IitbB4LIsLJ"
+        },
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "been a minute",
+      "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
     },
     {
       "added_at": "2025-05-16 04:52:04",
@@ -2309,6 +2309,22 @@
       "url": "https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z"
     },
     {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 178891,
+      "name": "If The Love Goes",
+      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
@@ -2331,22 +2347,6 @@
       "duration_ms": 299366,
       "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
-    },
-    {
-      "added_at": "2025-01-17 07:25:43",
-      "album": {
-        "name": "Acts of Faith",
-        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Someone to Love You",
-      "url": "https://open.spotify.com/track/029DgHoyQFzA8gGvNOha3U"
     },
     {
       "added_at": "2024-08-23 06:02:29",
@@ -2381,20 +2381,20 @@
       "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
     },
     {
-      "added_at": "2024-10-18 16:11:48",
+      "added_at": "2025-01-17 07:25:43",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
       },
       "artists": [
         {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 178891,
-      "name": "If The Love Goes",
-      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
+      "duration_ms": 181813,
+      "name": "Someone to Love You",
+      "url": "https://open.spotify.com/track/029DgHoyQFzA8gGvNOha3U"
     },
     {
       "added_at": "2025-07-11 06:58:22",
@@ -2431,6 +2431,22 @@
       "duration_ms": 253714,
       "name": "Heart Is On My Sleeve",
       "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
+    },
+    {
+      "added_at": "2025-05-30 05:12:56",
+      "album": {
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/5kwFkDit4r3He4ucO6Sppg"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/2yGbrqOfY9taaNTOw30G0b"
     },
     {
       "added_at": "2025-07-25 09:47:40",
@@ -2497,22 +2513,6 @@
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     },
     {
-      "added_at": "2025-05-30 05:12:56",
-      "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/5kwFkDit4r3He4ucO6Sppg"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/2yGbrqOfY9taaNTOw30G0b"
-    },
-    {
       "added_at": "2024-10-13 00:13:24",
       "album": {
         "name": "Free Fallin'",
@@ -2565,26 +2565,6 @@
       "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
     },
     {
-      "added_at": "2025-05-30 05:12:56",
-      "album": {
-        "name": "211 / See You Later",
-        "url": "https://open.spotify.com/album/1ysS9dTHq1WTU9ClXUegil"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 195465,
-      "name": "211",
-      "url": "https://open.spotify.com/track/7nWNx0hsYkGP0wBRLHv9Jj"
-    },
-    {
       "added_at": "2025-01-31 09:13:32",
       "album": {
         "name": "NGL",
@@ -2635,6 +2615,26 @@
       "duration_ms": 316339,
       "name": "Girl - Spotify Singles",
       "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
+    },
+    {
+      "added_at": "2025-05-30 05:12:56",
+      "album": {
+        "name": "211 / See You Later",
+        "url": "https://open.spotify.com/album/1ysS9dTHq1WTU9ClXUegil"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 195465,
+      "name": "211",
+      "url": "https://open.spotify.com/track/7nWNx0hsYkGP0wBRLHv9Jj"
     },
     {
       "added_at": "2025-05-23 04:34:50",

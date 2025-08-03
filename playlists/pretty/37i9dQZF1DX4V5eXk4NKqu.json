@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Buscabulla.",
-  "num_followers": 168162,
+  "num_followers": 168167,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
-        "name": "100PRE YORO",
-        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "un d\u00eda",
-      "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
         "name": "Feeling Low",
         "url": "https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 221538,
       "name": "Feeling Low",
       "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "un d\u00eda",
+      "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
     },
     {
       "added_at": "2025-07-16 15:57:28",

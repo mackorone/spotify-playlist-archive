@@ -1,6 +1,6 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 628689,
+  "num_followers": 628761,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,26 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "The Islanauts",
+          "url": "https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx"
+        }
+      ],
+      "duration_ms": 258154,
+      "name": "Caf\u00e9 Con Canela",
+      "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -327,26 +347,6 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
-      },
-      "artists": [
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "The Islanauts",
-          "url": "https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx"
-        }
-      ],
-      "duration_ms": 258154,
-      "name": "Caf\u00e9 Con Canela",
-      "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
         "name": "Luna Completa",
         "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
       },
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Palm Beach",
-      "url": "https://open.spotify.com/track/2ltjgZUx2DgxdYGxuyhNAd"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
         "name": "Tierra Querida",
         "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 168775,
       "name": "Tierra Querida",
       "url": "https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Palm Beach",
+      "url": "https://open.spotify.com/track/2ltjgZUx2DgxdYGxuyhNAd"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "L\u00edmite",
-        "url": "https://open.spotify.com/album/1ckvNAd7THdzMO4Pa09S41"
-      },
-      "artists": [
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 230827,
-      "name": "L\u00edmite",
-      "url": "https://open.spotify.com/track/1Sey4AxNpGoPNnBPszy8TE"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
         "name": "Latin & Love Studies",
         "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 255000,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
+        "name": "L\u00edmite",
+        "url": "https://open.spotify.com/album/1ckvNAd7THdzMO4Pa09S41"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 230827,
+      "name": "L\u00edmite",
+      "url": "https://open.spotify.com/track/1Sey4AxNpGoPNnBPszy8TE"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
         "name": "Qu\u00e9mame",
         "url": "https://open.spotify.com/album/0kAh4D7msjeaAh3wEUnEjL"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
         "name": "Epitafio",
         "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 157120,
       "name": "Epitafio",
       "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
+        "name": "Reflexi\u00f3n del Pasto",
+        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 106921,
+      "name": "Reflexi\u00f3n del Pasto",
+      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -795,22 +811,6 @@
       "duration_ms": 213644,
       "name": "Juan de Dios",
       "url": "https://open.spotify.com/track/4lAtI8c42fN4eICMJRwH6n"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
-        "name": "Reflexi\u00f3n del Pasto",
-        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 106921,
-      "name": "Reflexi\u00f3n del Pasto",
-      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "Calle Cima",
-        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 219477,
-      "name": "Calle Cima",
-      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
         "name": "Vientos De Octubre",
         "url": "https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 202409,
       "name": "Vientos De Octubre",
       "url": "https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
+        "name": "Calle Cima",
+        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 219477,
+      "name": "Calle Cima",
+      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
+        "name": "Dimensi\u00f3n Caribe",
+        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Caf\u00e9 Con Chocolate",
+      "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
         "name": "Ri\u00e9ndose de M\u00ed",
         "url": "https://open.spotify.com/album/5DZuc93pCvPra5ecaYgNKa"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 242733,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
-        "name": "Dimensi\u00f3n Caribe",
-        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Caf\u00e9 Con Chocolate",
-      "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "Dar Vida",
-        "url": "https://open.spotify.com/album/17kVGKI88jjmL2XH4MNjYd"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Barco del Tiempo",
-      "url": "https://open.spotify.com/track/4qApGI6Nt1Mryef3KLJTY0"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
         "name": "No Puedo Extra\u00f1arte",
         "url": "https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
+        "name": "Dar Vida",
+        "url": "https://open.spotify.com/album/17kVGKI88jjmL2XH4MNjYd"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Barco del Tiempo",
+      "url": "https://open.spotify.com/track/4qApGI6Nt1Mryef3KLJTY0"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "La bolsa",
-        "url": "https://open.spotify.com/album/4dcWsQS5lzrfMd1WpTjgI2"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Rios",
-          "url": "https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "La bolsa",
-      "url": "https://open.spotify.com/track/1zhGh7cSVNsCJmajLvSwFy"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
         "name": "Coraz\u00f3n Amargo",
         "url": "https://open.spotify.com/album/5RWkXdB3ezOthhANfmy2xh"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 187013,
       "name": "Coraz\u00f3n Amargo",
       "url": "https://open.spotify.com/track/2JazgzpNBZj0d7bANPnX6W"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
+        "name": "La bolsa",
+        "url": "https://open.spotify.com/album/4dcWsQS5lzrfMd1WpTjgI2"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Rios",
+          "url": "https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "La bolsa",
+      "url": "https://open.spotify.com/track/1zhGh7cSVNsCJmajLvSwFy"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -1899,8 +1899,8 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "Domingo De Extra\u00f1arte",
-        "url": "https://open.spotify.com/album/46BpuNJxjysWWrRvU7tqwg"
+        "name": "Con Tu Nombre",
+        "url": "https://open.spotify.com/album/7FwzaDZxVaRoCvCs09OBQU"
       },
       "artists": [
         {
@@ -1908,9 +1908,9 @@
           "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 153596,
-      "name": "Domingo de extra\u00f1arte",
-      "url": "https://open.spotify.com/track/6RXEseuzwTpzbgubr0V1TP"
+      "duration_ms": 246250,
+      "name": "Con Tu Nombre",
+      "url": "https://open.spotify.com/track/6wOL40wRi9vL9USijYZRPW"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -1983,8 +1983,8 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
-        "name": "Con Tu Nombre",
-        "url": "https://open.spotify.com/album/7FwzaDZxVaRoCvCs09OBQU"
+        "name": "Domingo De Extra\u00f1arte",
+        "url": "https://open.spotify.com/album/46BpuNJxjysWWrRvU7tqwg"
       },
       "artists": [
         {
@@ -1992,9 +1992,9 @@
           "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 246250,
-      "name": "Con Tu Nombre",
-      "url": "https://open.spotify.com/track/6wOL40wRi9vL9USijYZRPW"
+      "duration_ms": 153596,
+      "name": "Domingo de extra\u00f1arte",
+      "url": "https://open.spotify.com/track/6RXEseuzwTpzbgubr0V1TP"
     },
     {
       "added_at": "2025-06-06 04:00:29",
@@ -2327,6 +2327,26 @@
     {
       "added_at": "2025-06-06 04:00:29",
       "album": {
+        "name": "Criollas",
+        "url": "https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0"
+      },
+      "artists": [
+        {
+          "name": "Criollas",
+          "url": "https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV"
+        },
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        }
+      ],
+      "duration_ms": 226237,
+      "name": "La Vaca Mariposa",
+      "url": "https://open.spotify.com/track/0qxGNoCPsxPFudABEtEmwk"
+    },
+    {
+      "added_at": "2025-06-06 04:00:29",
+      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/5BRqHpMjkqHfdlFa2O397S"
       },
@@ -2355,26 +2375,6 @@
       "duration_ms": 163341,
       "name": "c\u00f3mo cu\u00e1ndo y d\u00f3nde",
       "url": "https://open.spotify.com/track/7JHGipL0wFFuyl54Zknic0"
-    },
-    {
-      "added_at": "2025-06-06 04:00:29",
-      "album": {
-        "name": "Criollas",
-        "url": "https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0"
-      },
-      "artists": [
-        {
-          "name": "Criollas",
-          "url": "https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV"
-        },
-        {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
-        }
-      ],
-      "duration_ms": 226237,
-      "name": "La Vaca Mariposa",
-      "url": "https://open.spotify.com/track/0qxGNoCPsxPFudABEtEmwk"
     },
     {
       "added_at": "2025-06-06 04:00:29",

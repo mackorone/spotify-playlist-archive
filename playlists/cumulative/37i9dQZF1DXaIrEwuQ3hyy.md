@@ -4,7 +4,7 @@
 
 > Klingt nach Sonne + Meer, egal wo du bist.
 
-262 songs - 14 hr 46 min
+263 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-26 | 2023-09-16 |
 | [Hallo](https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Hallo](https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u) | 2:00 | 2023-07-26 | 2024-02-10 |
 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 | 2023-07-26 |  |
-| [Heartache in July](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 | 2024-07-26 |  |
+| [Heartache in July](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 | 2024-07-26 | 2025-08-03 |
 | [Her](https://open.spotify.com/track/35GgAB0EsyT9hpk0FnGdhU) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/7gFpWJWAqevc68PkrStDOW) | 3:34 | 2024-10-18 | 2024-11-02 |
 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-26 |  |
 | [Home \(From Barbie The Album\)](https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Home \(From Barbie The Album\)](https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF) | 3:46 | 2023-07-26 | 2023-09-16 |
@@ -117,6 +117,7 @@
 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2023-08-18 | 2024-02-10 |
 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 | 2024-01-19 |  |
 | [L'Été en Hiver](https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0) | [Whisper](https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Été en Hiver](https://open.spotify.com/album/66ik4jYGRv6SAq9Dr259zY) | 2:32 | 2024-11-14 | 2024-12-20 |
+| [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-08-01 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-07-26 |  |
 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 | 2024-02-09 | 2024-10-19 |
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 | 2023-07-26 | 2024-04-19 |

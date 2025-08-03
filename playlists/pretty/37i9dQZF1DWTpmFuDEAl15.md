@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,864 likes - 95 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,899 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 7 | [CUT KNUCKLES](https://open.spotify.com/track/3o53Nz7ReyvVXSfwOStWQB) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [CUT KNUCKLES](https://open.spotify.com/album/1bYbhlDpNCP7lwHDIa8mBv) | 2:15 |
 | 8 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
 | 9 | [Supreme Dee](https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Supreme Dee](https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze) | 2:08 |
-| 10 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 10 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 11 | [FRENCH BOSSA NOVA](https://open.spotify.com/track/38dNnsL9yYygLYiX5ORf6B) | [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm), [gracegrace](https://open.spotify.com/artist/3ORiPD4KjKZ3mOYOVko4Ud), [aupinard](https://open.spotify.com/artist/53EA17A3lcuQ2kJYYYkYTh) | [FRENCH BOSSA NOVA](https://open.spotify.com/album/1U25ArvtrbFkbAgke4NltV) | 3:50 |
 | 12 | [Cant Go Broke \- Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke \(Remix\)](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
 | 13 | [Friendly Fire](https://open.spotify.com/track/1X9kEJ1M3ZxcGdckUbb47w) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Friendly Fire](https://open.spotify.com/album/58mKKCSrebioH3JkRYKfcq) | 2:49 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 94 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 |
 | 95 | [By The Grace Of God](https://open.spotify.com/track/5XhsQnSiO6JPuiG4RPTugh) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 3:06 |
 
-Snapshot ID: `aIzxKQAAAADkstY0PS7TjZTUmBtASDkP`
+Snapshot ID: `AAAAANDd9sC0ZSzLU2xkixFOmFtr2HAq`

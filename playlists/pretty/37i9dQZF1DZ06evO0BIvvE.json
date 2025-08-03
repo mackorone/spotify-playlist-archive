@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 11206,
+  "num_followers": 11210,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAB5FfxP7flMS2dZ3C/YyT/B",
+  "snapshot_id": "aIwDgAAAAAB868ZqqvfqKyHb9lRLeOgS",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Billy's Back Home",
-      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
       },
       "artists": [
         {
@@ -452,9 +436,25 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 219426,
-      "name": "Don't Give Up On Us",
-      "url": "https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE"
+      "duration_ms": 272133,
+      "name": "Billy's Back Home",
+      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 255053,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
+      "duration_ms": 219426,
+      "name": "Don't Give Up On Us",
+      "url": "https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 335693,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -587,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
       "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
         {
           "name": "Billy Paul",
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 293906,
-      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
-      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
+      "duration_ms": 335693,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
     },
     {
       "added_at": null,
@@ -627,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
         {
           "name": "Billy Paul",
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 196493,
-      "name": "One Man's Junk",
-      "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
+      "duration_ms": 293906,
+      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
+      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "One Man's Junk",
+      "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
@@ -671,38 +671,6 @@
       "duration_ms": 378346,
       "name": "I Think I'll Stay Home Today",
       "url": "https://open.spotify.com/track/7acTQ0sGLozR4ss0ipwAsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "What A Way To Love",
-      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "My Head's On Straight",
-      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
     },
     {
       "added_at": null,
@@ -723,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "What A Way To Love",
+      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -739,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
       },
       "artists": [
         {
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+      "duration_ms": 191600,
+      "name": "My Head's On Straight",
+      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 387426,
       "name": "East",
       "url": "https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
     },
     {
       "added_at": null,

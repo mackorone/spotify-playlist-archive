@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,455 likes - 55 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,605 likes - 55 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 54 | [Tars Of India \- Deluxe Edition](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky \(Deluxe Edition\)](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
 | 55 | [Rock & Roll Music to the World \- 2017 Remaster](https://open.spotify.com/track/0DSKoNfZuZjh3pm39RmoJ8) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Rock & Roll Music to the World \(2017 Remaster\)](https://open.spotify.com/album/4kn7TfnykT3mhIE364IoMA) | 3:50 |
 
-Snapshot ID: `ZgHGZQAAAAD5dATxNPaHBcR8yJEUmHrQ`
+Snapshot ID: `AAAAAENpTVL4Zd2FuQQN98tz6PAZk2Wz`

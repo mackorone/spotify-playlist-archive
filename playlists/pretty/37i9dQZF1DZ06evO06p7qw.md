@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,748 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,796 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 9 | [Todo Estaba Bien](https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Tropical Jesus](https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7) | 3:08 |
 | 10 | [Si Pudiera](https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:16 |
 | 11 | [Mariposas En El Pecho](https://open.spotify.com/track/02VWAshhgMhK8gEqwbOWyy) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mariposas En El Pecho](https://open.spotify.com/album/4G7lZH7HqircGRaCDXwV0U) | 3:54 |
-| 12 | [Libérame](https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 3:24 |
-| 13 | [Mi Otra Mitad](https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mi Otra Mitad](https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4) | 3:15 |
-| 14 | [Donde Nadie Pueda Ir](https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 2:49 |
+| 12 | [Mi Otra Mitad](https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mi Otra Mitad](https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4) | 3:15 |
+| 13 | [Libérame](https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 3:24 |
+| 14 | [Afuera Del Planeta](https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:49 |
 | 15 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 |
 | 16 | [Cómo Haces](https://open.spotify.com/track/0nIUbQVpDSv8wQTY2qwW4u) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 3:47 |
 | 17 | [Hay Una Luz Dentro De Ti](https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:05 |
-| 18 | [Afuera Del Planeta](https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:49 |
+| 18 | [Donde Nadie Pueda Ir](https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 2:49 |
 | 19 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
 | 20 | [Buena](https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Buena](https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN) | 3:38 |
 | 21 | [Hace Tiempo](https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:22 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 30 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
 | 31 | [Este Momento](https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Momento](https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N) | 3:26 |
 | 32 | [Mojado](https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:29 |
-| 33 | [SOL](https://open.spotify.com/track/087LHAM3Qh50ClhMjvtF0y) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [2 MANOS 1 MUNDO](https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA) | 3:08 |
-| 34 | [Aun Te Extraño](https://open.spotify.com/track/7EbcbArbBQD2AhmFBm0XCO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 2:38 |
+| 33 | [Aun Te Extraño](https://open.spotify.com/track/7EbcbArbBQD2AhmFBm0XCO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 2:38 |
+| 34 | [SOL](https://open.spotify.com/track/087LHAM3Qh50ClhMjvtF0y) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [2 MANOS 1 MUNDO](https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA) | 3:08 |
 | 35 | [Puro Sentimiento](https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Puro Sentimiento](https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn) | 3:06 |
 | 36 | [Ángel](https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 2:21 |
 | 37 | [Bajo El Agua \- En Vivo Desde El Auditorio Nacional](https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 5:03 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 47 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 |
 | 48 | [Intro + Miel \- En Vivo desde el Auditorio Nacional](https://open.spotify.com/track/4VcnsXca3wmorKKJPgZR0W) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 5:21 |
 
-Snapshot ID: `aIqyAAAAAADdidTKocOLt8wNCteaUY/v`
+Snapshot ID: `aIwDgAAAAACc4ghpjRz2zkVVb/jGE7vB`

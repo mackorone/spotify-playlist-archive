@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,832 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,864 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 32 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 |
 | 33 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Greatest Hits III](https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7) | 5:07 |
 | 34 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
-| 35 | [Let Her Down Easy \- Live](https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:50 |
+| 35 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 |
 | 36 | [This Is Not Real Love \(feat\. Mutya\) \- Remastered 2006](https://open.spotify.com/track/0uLMAdoeOc0Q3bztUU0tD0) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mutya](https://open.spotify.com/artist/1VPdHx80mwDD7koKNVxPH1) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:56 |
 | 37 | [Everything She Wants \- Live](https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:13 |
 | 38 | [Hand to Mouth \- Remastered](https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:36 |
-| 39 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 |
+| 39 | [Let Her Down Easy \- Live](https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:50 |
 | 40 | [Always](https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4) | [Waze & Odyssey](https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Tommy Theo](https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B) | [Always](https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu) | 3:06 |
 | 41 | [Wild Is the Wind](https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:02 |
 | 42 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
 | 50 | [Brother Can You Spare a Dime?](https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:23 |
 
-Snapshot ID: `aIqyAAAAAABlqNqD0hq78CGlB//TZJ0E`
+Snapshot ID: `aIwDgAAAAADSpYnaZ6c+PrcOD+l99J78`

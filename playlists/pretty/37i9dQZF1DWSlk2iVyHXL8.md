@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlk2iVyHXL8.md) - [plain]
 
 > Listen to the soundtracks of I AM A RUNNING MATE\. \(러닝메이트의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 67 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 734 likes - 67 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlk2iVyHXL8.md) - [plain]
 | 66 | [FIGHT ME](https://open.spotify.com/track/4YxgdLbUObKfVBYMByrd1l) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Beautiful Mind](https://open.spotify.com/album/3kj5RMMwVvIvP0D9juqm8j) | 2:53 |
 | 67 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
 
-Snapshot ID: `aFjDSwAAAABwt4EGWd9C/EZkLLEwLX+w`
+Snapshot ID: `AAAAAD6nBW5o96YasO9/QAwNVm9OzH3F`

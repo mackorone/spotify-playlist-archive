@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: ILLENIUM, Norma Jean Martine
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,829 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,871 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 33 | [United](https://open.spotify.com/track/1zgeJSzKLmmqVdl52OHx6M) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq) | [United](https://open.spotify.com/album/4FxW52HljnmHWDzLwTEZ6L) | 2:37 |
 | 34 | [Geronimo](https://open.spotify.com/track/6rb5UYG1gFJSrktHYiePkl) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Aura Dione](https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj) | [Geronimo](https://open.spotify.com/album/72fIZ3XlVZjLRYm0vAHSAs) | 2:15 |
 | 35 | [Feel The Bass](https://open.spotify.com/track/0NtVfFAVWsyIRHTc7PlXbf) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Feel The Bass](https://open.spotify.com/album/0UFfEXUULwApuLxD5an0gl) | 2:38 |
-| 36 | [SOMMERNÄCHTE](https://open.spotify.com/track/1IHZV2I3riACMv2Uz92LJS) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [SOMMERNÄCHTE](https://open.spotify.com/album/6qskdHd6p8TSdBIv0OosZs) | 2:05 |
+| 36 | [SOMMERNÄCHTE](https://open.spotify.com/track/1IHZV2I3riACMv2Uz92LJS) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [SOMMERNÄCHTE](https://open.spotify.com/album/6qskdHd6p8TSdBIv0OosZs) | 2:04 |
 | 37 | [Rewrite the Stars](https://open.spotify.com/track/6BlCxTa2xPphWsKV2YlJvN) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [ROBIN WHITE](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Mary Lena](https://open.spotify.com/artist/4DX3wSZoQvQRUiO9uTkVAf) | [Rewrite the Stars](https://open.spotify.com/album/3ZRRZtmqV6gvUJBoBRrkbe) | 3:11 |
 | 38 | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/track/4jRtoUQ5xVNNAxo71Mxh97) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/album/2qLdWJ29vkYMHtlcgq8f1r) | 2:55 |
 | 39 | [Sun Is Gone](https://open.spotify.com/track/5hUEi4BzzroXKvvkIScbaw) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun Is Gone](https://open.spotify.com/album/0vWqpUqVXx9mSCwbNq2TlB) | 1:36 |

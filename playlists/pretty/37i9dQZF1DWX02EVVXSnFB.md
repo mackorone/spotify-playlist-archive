@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco</a>'s favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,534 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,540 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 49 | [Revolution 909](https://open.spotify.com/track/5pgZpHqfv4TSomtkfGZGrG) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:35 |
 | 50 | [Fucking in Heaven](https://open.spotify.com/track/4I7odkN2AhNId5TuaTXKV1) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN) | 3:54 |
 
-Snapshot ID: `AAAAAAYtlkaNaCLbNYO5/YSMJXHwv3xf`
+Snapshot ID: `Z21TUwAAAACwaqR7x9baqYuYKZn/W8Tf`

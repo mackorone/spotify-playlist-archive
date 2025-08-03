@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,609 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,739 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 52 | [The Only Way Is Up](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:18 |
 | 53 | [Reality](https://open.spotify.com/track/5Xu7nrKiVHslrdlNHRsSsP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Reality](https://open.spotify.com/album/7JhwZ7qr8knsl9iX1lidtx) | 2:39 |
 | 54 | [Shine](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 4:15 |
-| 55 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
-| 56 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
+| 55 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
+| 56 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
 | 57 | [To Ü \(feat\. AlunaGeorge\)](https://open.spotify.com/track/3UgSQu6WwrXfKKDq019IHE) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 3:57 |
 | 58 | [Samsara \(feat\. Emila\)](https://open.spotify.com/track/6oJflQkp7lFXOQce4wPTAW) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Emila](https://open.spotify.com/artist/3AlnY6JafbuFhod8D3Lo8l) | [Samsara \(feat\. Emila\)](https://open.spotify.com/album/4rKrPkq8zi6jKmuLdzpNY2) | 3:31 |
 | 59 | [Closer](https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 4:30 |

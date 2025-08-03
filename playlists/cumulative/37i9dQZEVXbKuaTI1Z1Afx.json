@@ -5744,7 +5744,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -15726,7 +15726,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
@@ -18632,7 +18632,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
@@ -23542,7 +23542,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 576693,
       "name": "Feels So Good",
       "url": "https://open.spotify.com/track/6fK7yKIMmXbymQyyTw9wWA"
@@ -59506,10 +59506,28 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 261293,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ"
+    },
+    {
+      "album": {
+        "name": "The Complete Discography",
+        "url": "https://open.spotify.com/album/0gXdys2Zx6IjoBTbFQge6T"
+      },
+      "artists": [
+        {
+          "name": "Korea Girl",
+          "url": "https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261303,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/3JzEnupgxktBtUU8jtws5b"
     },
     {
       "album": {
@@ -62344,6 +62362,24 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "album": {
+        "name": "MSI B-SIDES vol.1",
+        "url": "https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS"
+      },
+      "artists": [
+        {
+          "name": "Mindless Self Indulgence",
+          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133979,
+      "name": "Seven Minutes in Heaven",
+      "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
     },
     {
       "album": {
@@ -76878,7 +76914,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
@@ -83336,10 +83372,28 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30eb\u30ab\u30ea\u30d9\u30fc\u30b3\u30f3",
+        "url": "https://open.spotify.com/album/6NUpyfYu4iZDHqXjGSNeny"
+      },
+      "artists": [
+        {
+          "name": "HALCALI",
+          "url": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239547,
+      "name": "\u304a\u3064\u304b\u308cSUMMER",
+      "url": "https://open.spotify.com/track/1eHRolfobHFD6oqeKJ8zSF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-239 songs - 13 hr 26 min
+240 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 | 2024-06-07 | 2024-06-15 |
 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 | 2024-02-29 | 2024-05-29 |
 | [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-12 | 2023-11-17 |
+| [Kawaii \(Prod\. Gen Hoshino\)](https://open.spotify.com/track/0M47xHUyYQvhSnso8GFHSA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/0XBFnNqFyAKPJoo3ikzvBe) | 3:20 | 2025-08-01 |  |
 | [kimnosoba](https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r) | [tokyo\-kimigainaimati](https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM) | [23\-Spring](https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl) | 2:50 | 2024-04-01 | 2024-04-19 |
 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-10-07 | 2024-12-15 |
 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-16 |  |
@@ -202,7 +203,7 @@
 | [ウィスパー](https://open.spotify.com/track/3Pn8IhJ6tulPS4cmGEGZBs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ウィスパー](https://open.spotify.com/album/4cdpSmfFF2bkD4BlS8V7k6) | 4:10 | 2024-11-30 | 2025-01-14 |
 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 | 2025-01-13 | 2025-03-22 |
 | [カミサマキドリ feat\. Takuya Yamanaka \- from THE ORAL CIGARETTES](https://open.spotify.com/track/6JjhSZPjSrY1DmpltRHXkb) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Takuya Yamanaka](https://open.spotify.com/artist/3qH6madqYWx3wuUUDv5EMC) | [HERO](https://open.spotify.com/album/0SD61FTKmzJoNMjFGANQaB) | 3:11 | 2024-01-18 | 2024-02-09 |
-| [コロンブス](https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [コロンブス](https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp) | 3:47 | 2024-06-15 |  |
+| [コロンブス](https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [コロンブス](https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp) | 3:47 | 2024-06-15 | 2025-08-03 |
 | [スパンコールの女](https://open.spotify.com/track/1LGqKRFZOEXobQcfk5d2Ue) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:30 | 2024-03-07 | 2024-04-19 |
 | [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ \- Single](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2024-01-10 | 2024-07-05 |
 | [ソウルズ](https://open.spotify.com/track/7yJ2irr6aDyXSD8An8s4tq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [ソウルズ](https://open.spotify.com/album/41ob2WhOjMIZHpq1SoDeHd) | 3:37 | 2024-09-27 | 2024-12-01 |

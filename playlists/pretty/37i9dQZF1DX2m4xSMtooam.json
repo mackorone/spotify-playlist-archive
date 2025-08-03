@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 287449,
+  "num_followers": 287742,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "The Complete RCA Victor Recordings",
-        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
         "name": "Work From Home with Oscar Peterson",
         "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 169066,
       "name": "Quiet Nights Of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
+        "name": "The Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "From Paris To Rio",
-        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 233625,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
+        "name": "From Paris To Rio",
+        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "Green Grapes",
-        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "Woodblock Print",
-      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
         "name": "Vamos l\u00e1",
         "url": "https://open.spotify.com/album/3vHSQw8zTsTt6OTuixhgr1"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 152500,
       "name": "Vamos l\u00e1",
       "url": "https://open.spotify.com/track/1eKV8P2IzVa3ISSvbYHIKX"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
+        "name": "Green Grapes",
+        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "Woodblock Print",
+      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "Bel\u00ea",
-        "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
-      },
-      "artists": [
-        {
-          "name": "Affonsinho",
-          "url": "https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Aquela Bossa Ax\u00e9",
-      "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
         "name": "Time Passing Slowly",
         "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 218000,
       "name": "Time Passing Slowly",
       "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
+        "name": "Bel\u00ea",
+        "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
+      },
+      "artists": [
+        {
+          "name": "Affonsinho",
+          "url": "https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Aquela Bossa Ax\u00e9",
+      "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
+        "name": "I Left My Heart in San Francisco",
+        "url": "https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 223755,
+      "name": "I Left My Heart in San Francisco",
+      "url": "https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "I Left My Heart in San Francisco",
-        "url": "https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
       },
       "artists": [
         {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
         }
       ],
-      "duration_ms": 223755,
-      "name": "I Left My Heart in San Francisco",
-      "url": "https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi"
+      "duration_ms": 160847,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -1427,22 +1443,6 @@
       "duration_ms": 259670,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
-      },
-      "artists": [
-        {
-          "name": "Xavier Mendoza",
-          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
-        }
-      ],
-      "duration_ms": 160847,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "You Fascinate Me So",
-        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
-        }
-      ],
-      "duration_ms": 239636,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
         "name": "Leon Noel & Roy Altice",
         "url": "https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2"
       },
@@ -1823,18 +1807,18 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
       },
       "artists": [
         {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
         }
       ],
-      "duration_ms": 206000,
-      "name": "I Should Have Known Better",
-      "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -1851,6 +1835,22 @@
       "duration_ms": 220000,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "I Should Have Known Better",
+      "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "North Carolina",
-        "url": "https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81"
-      },
-      "artists": [
-        {
-          "name": "Henry Albert Trio",
-          "url": "https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm"
-        }
-      ],
-      "duration_ms": 174439,
-      "name": "North Carolina",
-      "url": "https://open.spotify.com/track/6EmTdoIgJe8PygIqxJ48iu"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 298280,
       "name": "Caminhos Cruzados",
       "url": "https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
+        "name": "North Carolina",
+        "url": "https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81"
+      },
+      "artists": [
+        {
+          "name": "Henry Albert Trio",
+          "url": "https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm"
+        }
+      ],
+      "duration_ms": 174439,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/6EmTdoIgJe8PygIqxJ48iu"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "We Could Be Lovers",
-        "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
+        "name": "Standard Deviations",
+        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
       },
       "artists": [
         {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+          "name": "Andreas Gidlund Five",
+          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
         }
       ],
-      "duration_ms": 208773,
-      "name": "Quoi, Quoi, Quoi",
-      "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
+      "duration_ms": 248000,
+      "name": "Ceora",
+      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -2099,18 +2099,18 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "Standard Deviations",
-        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
+        "name": "We Could Be Lovers",
+        "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
       },
       "artists": [
         {
-          "name": "Andreas Gidlund Five",
-          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Ceora",
-      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
+      "duration_ms": 208773,
+      "name": "Quoi, Quoi, Quoi",
+      "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
+        "name": "So I Guess That I'm In Love",
+        "url": "https://open.spotify.com/album/1uWDSogiN5yHmUMRLR7cne"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "So I Guess That I'm In Love",
+      "url": "https://open.spotify.com/track/3zvD3eQkdJfIbvxOIQXbra"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
         "name": "O Pato",
         "url": "https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 252228,
       "name": "Oliven\u00e7a",
       "url": "https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "So I Guess That I'm In Love",
-        "url": "https://open.spotify.com/album/1uWDSogiN5yHmUMRLR7cne"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "So I Guess That I'm In Love",
-      "url": "https://open.spotify.com/track/3zvD3eQkdJfIbvxOIQXbra"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
+        "name": "Anita's Dream",
+        "url": "https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "duration_ms": 187993,
+      "name": "Anita's Dream",
+      "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
+    },
+    {
+      "added_at": "2025-08-01 04:00:18",
+      "album": {
         "name": "Bossa for Miles",
         "url": "https://open.spotify.com/album/6efthBuFIC8O5uasQQzgwk"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 249729,
       "name": "Bossa For Miles",
       "url": "https://open.spotify.com/track/065vvnxY5JmXGfkMfXc2cD"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Anita's Dream",
-        "url": "https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b"
-      },
-      "artists": [
-        {
-          "name": "Joe Wilson Trio",
-          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
-        }
-      ],
-      "duration_ms": 187993,
-      "name": "Anita's Dream",
-      "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -2511,18 +2511,18 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "The Valentine Sessions",
-        "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
+        "name": "Est\u00e1gio",
+        "url": "https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk"
       },
       "artists": [
         {
-          "name": "Matt Rollings",
-          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
         }
       ],
-      "duration_ms": 199120,
-      "name": "Small Bossa",
-      "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
+      "duration_ms": 259655,
+      "name": "Est\u00e1gio",
+      "url": "https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL"
     },
     {
       "added_at": "2025-08-01 04:00:18",
@@ -2547,18 +2547,18 @@
     {
       "added_at": "2025-08-01 04:00:18",
       "album": {
-        "name": "Est\u00e1gio",
-        "url": "https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk"
+        "name": "The Valentine Sessions",
+        "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
       },
       "artists": [
         {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+          "name": "Matt Rollings",
+          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
         }
       ],
-      "duration_ms": 259655,
-      "name": "Est\u00e1gio",
-      "url": "https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL"
+      "duration_ms": 199120,
+      "name": "Small Bossa",
+      "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
     }
   ],
   "unique_name": "Bossa Chill",

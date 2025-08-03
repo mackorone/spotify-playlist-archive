@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,532 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,578 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 25 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 |
 | 26 | [Marinero de Luces](https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 3:02 |
 | 27 | [Señora](https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [15 Exitos Originales Con Rocio Jurado](https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf) | 3:39 |
-| 28 | [Un año de amor](https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 3:21 |
-| 29 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
+| 28 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
+| 29 | [Un año de amor](https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 3:21 |
 | 30 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
 | 31 | [Hoy Quiero Confesarme](https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 4:49 |
 | 32 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 |

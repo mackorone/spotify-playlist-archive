@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 339715,
+  "num_followers": 339749,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAQXVZ5ScC72dwquC4XLHN8",
+  "snapshot_id": "aIwDgAAAAAAn+LD6qjtkYjadJLqM/YWm",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 165820,
       "name": "\u2060Claro y Recio",
       "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -603,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+        "name": "Corridos Con Olor a Monte (En Vivo)",
+        "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 216770,
-      "name": "Lupe Campos",
-      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
+      "duration_ms": 205543,
+      "name": "Kil\u00f3metro 11-60 - En Vivo",
+      "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
     },
     {
       "added_at": null,
@@ -643,26 +663,6 @@
       "duration_ms": 145101,
       "name": "Presente",
       "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Con Olor a Monte (En Vivo)",
-        "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 205543,
-      "name": "Kil\u00f3metro 11-60 - En Vivo",
-      "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Bendecido",
-        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
+        "name": "No Estar\u00e9 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 158022,
-      "name": "El Bendecido",
-      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
+      "duration_ms": 146233,
+      "name": "No Estar\u00e9 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Estar\u00e9 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
+        "name": "El Bendecido",
+        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 146233,
-      "name": "No Estar\u00e9 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+      "duration_ms": 158022,
+      "name": "El Bendecido",
+      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
     },
     {
       "added_at": null,

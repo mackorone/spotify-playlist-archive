@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Aug 03:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Aug 13:04 UTC.
 
-5,256 songs - 12 day 4 hr 49 min
+5,257 songs - 12 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [ANIMOSITY](https://open.spotify.com/track/5y0plMt3LnuEv00CH2CE7Q) | [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [ANIMOSITY](https://open.spotify.com/album/5qI3TMyE2lEU7lw3aOCBaK) | 3:25 | 2024-10-11 | 2024-10-15 |
 | [Ankaran](https://open.spotify.com/track/6oXl3uSpSodmkClmCP16Nt) | [Hiljson Mandela](https://open.spotify.com/artist/05RXYlsCKzkb418GEvYCip), [Biba](https://open.spotify.com/artist/2AVWBp9fVh1GOCQflKM7wo) | [Ankaran](https://open.spotify.com/album/08n7jrfr0xzBjE7PvpgY1S) | 2:08 | 2024-05-16 | 2024-05-18 |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-01-15 | 2025-01-23 |
-| [Ann Demeulemeester](https://open.spotify.com/track/4TGG2aGxc7wVDdTn8cG4MD) | [Turnabout](https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn) | [Ann Demeulemeester](https://open.spotify.com/album/5wjdd8WsQvtg8MMO21JClI) | 2:26 | 2025-07-28 |  |
+| [Ann Demeulemeester](https://open.spotify.com/track/4TGG2aGxc7wVDdTn8cG4MD) | [Turnabout](https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn) | [Ann Demeulemeester](https://open.spotify.com/album/5wjdd8WsQvtg8MMO21JClI) | 2:26 | 2025-07-28 | 2025-08-03 |
 | [ANOINTING \(FALL ON ME\)](https://open.spotify.com/track/2MYh0CcF8dGciG2JoZtAX7) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Ivory Nwigwe](https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ), [Yael Hilton](https://open.spotify.com/artist/3Gl0EmGURWi1cO7N9GXIwF) | [ANOINTING \(FALL ON ME\)](https://open.spotify.com/album/7jxkQioIJb8LrVQZpe3u4w) | 1:39 | 2024-08-25 | 2024-08-30 |
 | [anointment](https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [anointment](https://open.spotify.com/album/2ErOik3Sm5yDZCFkDWZ3co) | 3:49 | 2025-03-09 | 2025-03-18 |
 | [Another Miracle](https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Another Miracle](https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb) | 3:10 | 2025-05-08 | 2025-05-17 |
@@ -5083,6 +5083,7 @@
 | [Wonderful Nothing \- Edit](https://open.spotify.com/track/1DWabnyWBMz27fEuTSNrlM) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Wonderful Nothing \- Edit](https://open.spotify.com/album/420CxiaofiTjWPLcvH4cBm) | 3:16 | 2024-09-06 | 2024-09-11 |
 | [WONDERWaLL \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-29 | 2025-02-08 |
 | [Won’t Diss You](https://open.spotify.com/track/0QAusxoKjr4SMYRkC3MkcK) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Won't Diss You](https://open.spotify.com/album/0jMsKWAc6w7ooQTgoXLvFJ) | 2:30 | 2025-07-11 | 2025-07-20 |
+| [Woodeneye](https://open.spotify.com/track/2SuFpMjkMYax3nvLVT65Wx) | [Cardiacs](https://open.spotify.com/artist/0lopEzYZq2mwBPDlpP4Bcw) | [Woodeneye](https://open.spotify.com/album/0nObxs3CaXHfGQbXCfbINO) | 3:19 | 2025-08-02 |  |
 | [WOOSAH](https://open.spotify.com/track/4yhecoRfm45Z0ncGGFdDrG) | [Twelve'len](https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO), [OG Vinchenzo](https://open.spotify.com/artist/0dwJj6QH2bhEwRIPIdBMyV) | [WOOSAH](https://open.spotify.com/album/58MPDNjqvUqPM8DnAKZaSO) | 2:37 | 2024-05-18 | 2024-05-22 |
 | [Word](https://open.spotify.com/track/4M6x3QboBSckK3j0rNxYJQ) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Word](https://open.spotify.com/album/5r8G19v5d6ZoLpT7SJlWmx) | 3:26 | 2024-08-13 | 2024-08-15 |
 | [Worda Bro](https://open.spotify.com/track/6SfdiJE1Ls5ItYUCvZ7B2O) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Worda Bro](https://open.spotify.com/album/14tCjme0ay6q7RqlfuqeJF) | 1:59 | 2024-07-19 | 2024-07-21 |

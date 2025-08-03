@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49513,
+  "num_followers": 49511,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-07-28 02:48:33",
       "album": {
-        "name": "A Race (Oh My Ghost Clients Original Soundtrack Part.4)",
-        "url": "https://open.spotify.com/album/3YKkR5JCueFxrF0aFRhQ9K"
-      },
-      "artists": [
-        {
-          "name": "Seorina",
-          "url": "https://open.spotify.com/artist/3f4E62TgaTD5ZYX5MMXxjP"
-        },
-        {
-          "name": "CHA HAKYEON(N)",
-          "url": "https://open.spotify.com/artist/1ApI8Lk8hqmUO6872mH5Fj"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "A Race",
-      "url": "https://open.spotify.com/track/3JT9RScdU7B1xURAOxZFX0"
-    },
-    {
-      "added_at": "2025-07-28 02:48:33",
-      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 209813,
       "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "added_at": "2025-07-28 02:48:33",
+      "album": {
+        "name": "A Race (Oh My Ghost Clients Original Soundtrack Part.4)",
+        "url": "https://open.spotify.com/album/3YKkR5JCueFxrF0aFRhQ9K"
+      },
+      "artists": [
+        {
+          "name": "Seorina",
+          "url": "https://open.spotify.com/artist/3f4E62TgaTD5ZYX5MMXxjP"
+        },
+        {
+          "name": "CHA HAKYEON(N)",
+          "url": "https://open.spotify.com/artist/1ApI8Lk8hqmUO6872mH5Fj"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "A Race",
+      "url": "https://open.spotify.com/track/3JT9RScdU7B1xURAOxZFX0"
     },
     {
       "added_at": "2025-07-28 02:48:33",

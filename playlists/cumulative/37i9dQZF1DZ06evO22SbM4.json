@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "Chevy Silverado",
+        "url": "https://open.spotify.com/album/4XbzaCm1Eg2kKza2rkTKIP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221698,
+      "name": "Chevy Silverado",
+      "url": "https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor"
+    },
+    {
+      "album": {
         "name": "Comin' In Cold",
         "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
       },

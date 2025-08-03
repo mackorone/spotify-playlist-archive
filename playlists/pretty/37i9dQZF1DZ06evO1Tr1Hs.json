@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 41883,
+  "num_followers": 41890,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABBm5N4d2xXC7HI2aax67bp",
+  "snapshot_id": "aIwDgAAAAAAYT+eUcA811+jA+cyHuboE",
   "tracks": [
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
       },
       "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 152368,
-      "name": "Swag Overload",
-      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
+      "duration_ms": 176326,
+      "name": "VETERAN (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO STYLIST",
-        "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
       "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 176326,
-      "name": "VETERAN (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
+      "duration_ms": 152368,
+      "name": "Swag Overload",
+      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
     },
     {
       "added_at": null,

@@ -1,10 +1,10 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106451,
+  "num_followers": 106443,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZIsSrQAAAAA0oqU/13UW8IpV5fU1T5cd",
   "tracks": [
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Punching In A Dream",
-      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Omen (Radio Edit)",
         "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 196817,
       "name": "Omen - Radio Edit",
       "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Punching In A Dream",
+      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Multitude",
-        "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Fils de joie",
-      "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 212893,
       "name": "You've Done Enough",
       "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Multitude",
+        "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Fils de joie",
+      "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -707,22 +707,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
       "artists": [
         {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        },
-        {
-          "name": "Mad Cobra",
-          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
         }
       ],
-      "duration_ms": 179853,
-      "name": "Cobrastyle (feat. Mad Cobra) - As featured in Superman",
-      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -743,18 +739,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
       },
       "artists": [
         {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
         }
       ],
-      "duration_ms": 219920,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+      "duration_ms": 179853,
+      "name": "Cobrastyle (feat. Mad Cobra) - As featured in Superman",
+      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -859,38 +859,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Purple Yellow Red and Blue",
-      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Turn The Radio Off",
-        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Sell Out",
-      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -911,6 +879,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Turn The Radio Off",
+        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "MOTOR FUNCTION",
-        "url": "https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 160329,
-      "name": "Landline",
-      "url": "https://open.spotify.com/track/5H9wA29ptgnn7mXAHKhUKc"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 270840,
       "name": "Are You What You Want to Be?",
       "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 139293,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
+        "name": "MOTOR FUNCTION",
+        "url": "https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
         }
       ],
-      "duration_ms": 139293,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
+      "duration_ms": 160329,
+      "name": "Landline",
+      "url": "https://open.spotify.com/track/5H9wA29ptgnn7mXAHKhUKc"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 350893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Ticket To Ride",
+        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Ticket To Ride",
+      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "EDNA",
         "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 185080,
       "name": "Princess Cuts (feat. Young T & Bugsey)",
       "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Ticket To Ride",
-        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Ticket To Ride",
-      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "Forbidden Feelingz",
-      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 194453,
       "name": "Let It Roll",
       "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Forbidden Feelingz",
+      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
     },
     {
       "added_at": "2022-11-02 14:00:00",

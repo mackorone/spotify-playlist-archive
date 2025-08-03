@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1214505,
+  "num_followers": 1214566,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAAs8BGjOfw35+ZPppQK7IyS",
+  "snapshot_id": "aIwDgAAAAACrMqr0bj1m5Iub1EVENyVR",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra And Swingin' Brass",
         "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 153146,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
     },
     {
       "added_at": null,
@@ -847,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing Easy!",
-        "url": "https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7"
+        "name": "Highlights From Duets",
+        "url": "https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
         }
       ],
-      "duration_ms": 126533,
-      "name": "All Of Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml"
+      "duration_ms": 211746,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx"
     }
   ],
   "unique_name": "This Is Frank Sinatra",

@@ -1,13 +1,682 @@
 {
   "description": "Official Roadrunner Records Playlist - This week's DEADNOISE.FM curator is Furnace Fest!",
-  "num_followers": 4850,
+  "num_followers": 4848,
   "original_name": "DEADNOISE.FM",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Roadrunner Records",
+    "url": "https://open.spotify.com/user/roadrunnerrecords"
   },
   "snapshot_id": "AAANT4uHqmi/P98d0aqddzML8/tex9O6",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/0Co02kAkZC42kvdhl75zvy"
+      },
+      "artists": [
+        {
+          "name": "No Pressure",
+          "url": "https://open.spotify.com/artist/1jzmHk0SLhAJjEw6NqvaLs"
+        }
+      ],
+      "duration_ms": 119960,
+      "name": "Doin\u2019 fine",
+      "url": "https://open.spotify.com/track/6I8Bw99A0rwVdf2I0f3rHV"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "New Lords",
+        "url": "https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz"
+      },
+      "artists": [
+        {
+          "name": "Mindforce",
+          "url": "https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei"
+        }
+      ],
+      "duration_ms": 76172,
+      "name": "New Lords",
+      "url": "https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Heavy Steps",
+        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Heavy Steps",
+      "url": "https://open.spotify.com/track/26yO9ZbYFjAhqP6GxkJNVx"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Promotional Copy",
+        "url": "https://open.spotify.com/album/5IuiyEEN5JRqY07m5J9Ufu"
+      },
+      "artists": [
+        {
+          "name": "Reggie And The Full Effect",
+          "url": "https://open.spotify.com/artist/5XURjhDMRoF4vrSAJj8vIN"
+        }
+      ],
+      "duration_ms": 85546,
+      "name": "From Me 2 U",
+      "url": "https://open.spotify.com/track/6HKUFioMXj6FBFq0SwdGB9"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Understand This Is A Dream",
+        "url": "https://open.spotify.com/album/25mc6fHnaUeaYnttMaMSAB"
+      },
+      "artists": [
+        {
+          "name": "The Juliana Theory",
+          "url": "https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "This Is Not A Love Song",
+      "url": "https://open.spotify.com/track/61Y0Y1aO31M4tt7LR0NXYo"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Thousand Mile Stare",
+        "url": "https://open.spotify.com/album/1IbORElaERNlT5OVoPOldQ"
+      },
+      "artists": [
+        {
+          "name": "Incendiary",
+          "url": "https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC"
+        }
+      ],
+      "duration_ms": 162908,
+      "name": "The Product Is You",
+      "url": "https://open.spotify.com/track/6AEq3hjBWRvJ12BMX0jqld"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "To Whatever Fateful End",
+        "url": "https://open.spotify.com/album/1wWEjDKN3nHaJVCqT4NRRA"
+      },
+      "artists": [
+        {
+          "name": "Magnitude",
+          "url": "https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ"
+        }
+      ],
+      "duration_ms": 185330,
+      "name": "Opposition",
+      "url": "https://open.spotify.com/track/6WEgeFqzQDoJhGOiqZSoRS"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Body War",
+        "url": "https://open.spotify.com/album/44byRkiG5AmHjfrBuodMzp"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Metallic Taste",
+      "url": "https://open.spotify.com/track/0H4fQFdmbkARxfqEUVAXPY"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Looking Through The Shades",
+        "url": "https://open.spotify.com/album/3sKBPdPT9GZhC3cHmaWEJC"
+      },
+      "artists": [
+        {
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+        }
+      ],
+      "duration_ms": 63613,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/2mxo15wuxNjvLSBwLokQS1"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "It All Comes Down to This",
+        "url": "https://open.spotify.com/album/7hHIeZpEJ3wyOZAeMHj1Jy"
+      },
+      "artists": [
+        {
+          "name": "Bane",
+          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Can We Start Again",
+      "url": "https://open.spotify.com/track/36eklRgfCgcYEJISG1S23M"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "A Tap I Can't Turn Off",
+        "url": "https://open.spotify.com/album/65H5SbyfBJwUVnIhNNXVpp"
+      },
+      "artists": [
+        {
+          "name": "Be Well",
+          "url": "https://open.spotify.com/artist/3kxM2aJZV05zhPIrQS5qyz"
+        }
+      ],
+      "duration_ms": 183382,
+      "name": "A Tap I Can't Turn Off",
+      "url": "https://open.spotify.com/track/0UHsQVHcWnploBnpgw69uH"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "5 Yr. Plan",
+      "url": "https://open.spotify.com/track/0E4DsiyYhHHGe75sEu6aGz"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "About A Burning Fire",
+        "url": "https://open.spotify.com/album/0Za7snQXHbJTf5FrF5uQIC"
+      },
+      "artists": [
+        {
+          "name": "Blindside",
+          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "About a Burning Fire",
+      "url": "https://open.spotify.com/track/5rfPiL4gJtSPgn82eGDkBh"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/1re7Yd2jHjbczR7RdDbCkC"
+      },
+      "artists": [
+        {
+          "name": "COMMODITY",
+          "url": "https://open.spotify.com/artist/0MeOSDGaObmMHrqNZnUwIy"
+        }
+      ],
+      "duration_ms": 181081,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/7msHv4fENQxuibfW68ekl4"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Magic City Promo",
+        "url": "https://open.spotify.com/album/4yBt0wWCPRtHOZ4DnnjOPQ"
+      },
+      "artists": [
+        {
+          "name": "All In",
+          "url": "https://open.spotify.com/artist/23A193fnz21k17T6Enn0O3"
+        }
+      ],
+      "duration_ms": 157549,
+      "name": "History of Malice",
+      "url": "https://open.spotify.com/track/6MtfJ7ir02RY9DsRNmBlJc"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Vicious Cycle",
+        "url": "https://open.spotify.com/album/2y6UVoYJy8iveD4XIFn8gM"
+      },
+      "artists": [
+        {
+          "name": "Cold Hard Steel",
+          "url": "https://open.spotify.com/artist/4LmIYfgE4eVPkzDPblzvc7"
+        },
+        {
+          "name": "Pastor Troy",
+          "url": "https://open.spotify.com/artist/3D04N2X2w6vUGeyG94FBaY"
+        },
+        {
+          "name": "Naysayer",
+          "url": "https://open.spotify.com/artist/2kA9H9zwzk0yRLZN6E20N6"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "To The Dome",
+      "url": "https://open.spotify.com/track/564L87kNcamHQhxldmjqwc"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Test Your Luck",
+        "url": "https://open.spotify.com/album/1IMoZkW5fZXtQ3RDGWJ7Jp"
+      },
+      "artists": [
+        {
+          "name": "Twisted Luck",
+          "url": "https://open.spotify.com/artist/10ZHTdmNVgXN0bBOBANN1x"
+        }
+      ],
+      "duration_ms": 67133,
+      "name": "Test Your Luck",
+      "url": "https://open.spotify.com/track/5uDFDfyeguru0M08CtXLBL"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/7gf13qHY1GcNb6WOnI8Wuz"
+      },
+      "artists": [
+        {
+          "name": "Delta Hate",
+          "url": "https://open.spotify.com/artist/50EMIrbGi5dnrFjrw2ID55"
+        }
+      ],
+      "duration_ms": 168787,
+      "name": "Purged of Purity",
+      "url": "https://open.spotify.com/track/1pZ7ubrWF6TeIDbaUq3182"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/3pZjODbZRkpj67cW3QkUfG"
+      },
+      "artists": [
+        {
+          "name": "Penny Circus",
+          "url": "https://open.spotify.com/artist/3ZigBBYXbB6VaKcQjIZcKb"
+        }
+      ],
+      "duration_ms": 247692,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/7iAHCQ8mop8pA6IO4wemYp"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "The Long Arm of Light",
+        "url": "https://open.spotify.com/album/5NuQaewwaGflcaYRtAPNjC"
+      },
+      "artists": [
+        {
+          "name": "Valley of Doves",
+          "url": "https://open.spotify.com/artist/5A53x47x5RkdR8o0NE9hnv"
+        }
+      ],
+      "duration_ms": 200285,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2zZOOtrLYuu5mtskzaWqe4"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "The Revealing",
+        "url": "https://open.spotify.com/album/3XVzjW1dtzsNXZO3L89uJ3"
+      },
+      "artists": [
+        {
+          "name": "Stretch Arm Strong",
+          "url": "https://open.spotify.com/artist/4gUFNJiPHa3kbkoT7N0Nu8"
+        },
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 69958,
+      "name": "Take A Stand",
+      "url": "https://open.spotify.com/track/0P7zD4ICrweuVsNKw18Rkd"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "No Pressure (LP)",
+        "url": "https://open.spotify.com/album/4IFXisyTbSmbEwzlGX3XzR"
+      },
+      "artists": [
+        {
+          "name": "No Pressure",
+          "url": "https://open.spotify.com/artist/1jzmHk0SLhAJjEw6NqvaLs"
+        }
+      ],
+      "duration_ms": 126213,
+      "name": "Lock it Up",
+      "url": "https://open.spotify.com/track/5jXkIfEuXtDo70a3KbmVUB"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Rotation & Frequency",
+        "url": "https://open.spotify.com/album/4O0cWy8oKhg4s9hW1dxqTw"
+      },
+      "artists": [
+        {
+          "name": "Slick Shoes",
+          "url": "https://open.spotify.com/artist/1sxRcl7G7tpQvuQkMyAWau"
+        }
+      ],
+      "duration_ms": 152258,
+      "name": "The Worlds Were Mine",
+      "url": "https://open.spotify.com/track/5nbDHzWUbFvAkujTKPvgEN"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Make Yourself Sick",
+        "url": "https://open.spotify.com/album/5byPgfyrZ6hsuh26z8gREe"
+      },
+      "artists": [
+        {
+          "name": "Boys Night Out",
+          "url": "https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "I Got Punched in the Nose for Sticking My Face in Other People's Business",
+      "url": "https://open.spotify.com/track/3EpOGc38s8uciklDzg86V4"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Come Close",
+      "url": "https://open.spotify.com/track/1GRIIcHnJVRNEi2K5evTUi"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Alexander Nevermind",
+        "url": "https://open.spotify.com/album/6wouONKXEuD3rz7jmMTlYg"
+      },
+      "artists": [
+        {
+          "name": "Nygma",
+          "url": "https://open.spotify.com/artist/2GD462UGdNKQV5BV6nxLcj"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "The Fat Nasty",
+      "url": "https://open.spotify.com/track/0c24XB8S2p0hU0rYi6UNyF"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 211117,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "I Am Hollywood",
+        "url": "https://open.spotify.com/album/6tooAA6e8rMEkgbMrsdo3r"
+      },
+      "artists": [
+        {
+          "name": "He Is Legend",
+          "url": "https://open.spotify.com/artist/53cAPynhUIC5WFgPPfbp2r"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "The Creature Walks",
+      "url": "https://open.spotify.com/track/0JlhANvzgzbyStkVWn7PJs"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "0:12 Revolution In Just Listening",
+        "url": "https://open.spotify.com/album/6G90PRxOtnWllw66tJViPM"
+      },
+      "artists": [
+        {
+          "name": "Coalesce",
+          "url": "https://open.spotify.com/artist/2T8rmKa2k1uot2okGULagY"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "What Happens on the Road Always Comes Home",
+      "url": "https://open.spotify.com/track/0jCdEBviZSTk3yMg02hpCx"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Slide 2 Me",
+        "url": "https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Myopic",
+      "url": "https://open.spotify.com/track/2zkRIVxuYs7Z5ltNNTPjQU"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "That Within Blood Ill-Tempered",
+        "url": "https://open.spotify.com/album/1mzgacrCehC2gNl8mEtg42"
+      },
+      "artists": [
+        {
+          "name": "Shai Hulud",
+          "url": "https://open.spotify.com/artist/4AlPDOBuB1s7NuIPo4veZu"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Given Flight by Demon's Wings",
+      "url": "https://open.spotify.com/track/1mu9pnj17CQA17zBkyZsZd"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Understand This Is A Dream",
+        "url": "https://open.spotify.com/album/25mc6fHnaUeaYnttMaMSAB"
+      },
+      "artists": [
+        {
+          "name": "The Juliana Theory",
+          "url": "https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m"
+        }
+      ],
+      "duration_ms": 394466,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/15v7enNSCwYiIZOeldAnsj"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "The Weak's End",
+        "url": "https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a"
+      },
+      "artists": [
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Fractions",
+      "url": "https://open.spotify.com/track/3dysNqzNtD4bhiI8tMJ4Vm"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Children Of Fire",
+        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
+      },
+      "artists": [
+        {
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Endseekers",
+      "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Those Days Are Gone",
+        "url": "https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 135625,
+      "name": "Two Beers In",
+      "url": "https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Deathrattle Sing for Me",
+        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 302258,
+      "name": "Spearmint Revolt",
+      "url": "https://open.spotify.com/track/2Ju8sXlzM5Idsj34swUOdS"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "You're Not Broken. I Am",
+        "url": "https://open.spotify.com/album/5MndrsmUO0oDWILtI4cYm2"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Mistake",
+          "url": "https://open.spotify.com/artist/5gEKGtEg2amYue0osljRCj"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Memento Mori",
+      "url": "https://open.spotify.com/track/1s5QmUaNAvdpMLSlZKfRVb"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Building A Better Me",
+        "url": "https://open.spotify.com/album/4DSY3DcUKKJgkAtO6PMCBM"
+      },
+      "artists": [
+        {
+          "name": "Dogwood",
+          "url": "https://open.spotify.com/artist/3lqHnJKd9fNQEV7Ewcd0Ge"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Building A Better Me",
+      "url": "https://open.spotify.com/track/3vdD17Bz3Vori7rZuZIMNb"
+    },
+    {
+      "added_at": "2024-10-03 17:53:40",
+      "album": {
+        "name": "Rotation & Frequency",
+        "url": "https://open.spotify.com/album/4O0cWy8oKhg4s9hW1dxqTw"
+      },
+      "artists": [
+        {
+          "name": "Slick Shoes",
+          "url": "https://open.spotify.com/artist/1sxRcl7G7tpQvuQkMyAWau"
+        }
+      ],
+      "duration_ms": 190020,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/0ECWbGyjOn45TcmL8ZpCoz"
+    }
+  ],
   "unique_name": "DEADNOISE.FM",
   "url": "https://open.spotify.com/playlist/79vrB5Ei5Gk7BctdZesJJA"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,167 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,178 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 5 | [Squad Goals](https://open.spotify.com/track/5KnRZlqdf0xcUkZ2g2kKl6) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:20 |
 | 6 | [Bar Breaker](https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:44 |
 | 7 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 |
-| 8 | [Destiny \(with Sauce Walka\)](https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Destiny \(with Sauce Walka\)](https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD) | 3:15 |
-| 9 | [OH SHIT!!!](https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [OH SHIT!!!](https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G) | 3:05 |
+| 8 | [OH SHIT!!!](https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [OH SHIT!!!](https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G) | 3:05 |
+| 9 | [Destiny \(with Sauce Walka\)](https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Destiny \(with Sauce Walka\)](https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD) | 3:15 |
 | 10 | [Cutthroat](https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Cutthroat](https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS) | 3:07 |
 | 11 | [Devils Gate \(with Kevin Gates\)](https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:35 |
 | 12 | [Light Work](https://open.spotify.com/track/2LRLHZKFo7N7diPirNcVjh) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:30 |
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 29 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 |
 | 30 | [Time Bomb](https://open.spotify.com/track/2ynJ4wHuFcfTXk1bkv8JgL) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 31 | [Treat You Right](https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq) | [Treat You Right](https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue) | 3:24 |
-| 32 | [Windows](https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J), [Slug](https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Windows](https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK) | 3:33 |
-| 33 | [Animal Patrol](https://open.spotify.com/track/2vkjVKVzmpC14wEc3sb8vY) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:00 |
+| 32 | [Animal Patrol](https://open.spotify.com/track/2vkjVKVzmpC14wEc3sb8vY) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:00 |
+| 33 | [Windows](https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J), [Slug](https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Windows](https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK) | 3:33 |
 | 34 | [No \(feat\. Cashinova\)](https://open.spotify.com/track/3GmUchj44KpmQIpYH95xDn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cashinova](https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:07 |
 | 35 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 |
 | 36 | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra) | 2:28 |
 | 37 | [Standout](https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 3:44 |
-| 38 | [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 |
-| 39 | [Bawse \(feat\. Prof\)](https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Survivor's Guilt](https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6) | 3:07 |
+| 38 | [Bawse \(feat\. Prof\)](https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Survivor's Guilt](https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6) | 3:07 |
+| 39 | [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 |
 | 40 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 41 | [Motel](https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 3:28 |
 | 42 | [Chitty Bang](https://open.spotify.com/track/14EUifm44d6gODebTIEDSn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Chitty Bang](https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA) | 3:28 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 48 | [On My Way](https://open.spotify.com/track/3In2mNIEIptPqnooOBxYcR) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 4:03 |
 | 49 | [Farout](https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:56 |
 
-Snapshot ID: `aIqyAAAAAAD7/cEuqFey8I2gapTc8GkQ`
+Snapshot ID: `aIwDgAAAAAC3MEH7245VLNV2rZmABAMN`

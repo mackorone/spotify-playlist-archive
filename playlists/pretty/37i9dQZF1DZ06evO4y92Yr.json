@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADqtDgTRESPx690aZFCOGNi",
+  "snapshot_id": "aIwDgAAAAABu6Wwn8tdwLJ0OxBNjXvY9",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
       },
@@ -75,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "School Nights",
-        "url": "https://open.spotify.com/album/7JjJefGCwqGcyiQG99codT"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 249236,
-      "name": "School Nights",
-      "url": "https://open.spotify.com/track/1EQ3XbVzPZfKxMjvx9UjBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -103,6 +103,22 @@
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "School Nights",
+        "url": "https://open.spotify.com/album/7JjJefGCwqGcyiQG99codT"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 249236,
+      "name": "School Nights",
+      "url": "https://open.spotify.com/track/1EQ3XbVzPZfKxMjvx9UjBH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm?si=TmK6q7kcR\_GB05pJSQLVtQ">Modest Chabari</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,091 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,095 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 69 | [Flowers](https://open.spotify.com/track/3ilP9ixF3L5wM9dJWTaSid) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Flowers](https://open.spotify.com/album/2wHdzPoNzGCKToVOwfpVIM) | 2:18 |
 | 70 | [PTSD](https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [PTSD](https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC) | 2:50 |
 
-Snapshot ID: `aIlSkwAAAABwKGer3HVTJomiOsaT1e52`
+Snapshot ID: `AAAAAOUpFFfY0mYPIjFrQc8L/N3EWGON`

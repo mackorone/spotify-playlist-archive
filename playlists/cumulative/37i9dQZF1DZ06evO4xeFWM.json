@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Bathsheba & Him",
+        "url": "https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213580,
+      "name": "Bathsheba & Him",
+      "url": "https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD"
+    },
+    {
+      "album": {
         "name": "VS. (Other People\u2019s Heartache, Pt. III)",
         "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
       },
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 229627,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky"

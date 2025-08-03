@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,122 likes - 128 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,130 likes - 128 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 127 | [Sea Turtle Song](https://open.spotify.com/track/02dBgXCHr1NwjE5kUpeKnd) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:44 |
 | 128 | [I Want to Live](https://open.spotify.com/track/2yNwpZpPiWzVygOEZISXDa) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 5:09 |
 
-Snapshot ID: `Z/MjmAAAAABNVecCtX0/KojNeeu9K5Tp`
+Snapshot ID: `AAAAAJByHbcCdoM7Dd3U3tqE+HD2HNe+`

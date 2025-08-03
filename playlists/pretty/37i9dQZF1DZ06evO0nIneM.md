@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,144 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,204 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 12 | [Mannenharten](https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:32 |
 | 13 | [Hier](https://open.spotify.com/track/4H4StIAv5eeuZFLt4alrYB) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Watermakers](https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW) | 4:08 |
 | 14 | [Laat Me Los](https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:58 |
-| 15 | [Dichterbij Dan Ooit](https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:21 |
-| 16 | [Zaterdag](https://open.spotify.com/track/141mW0BgAlJLZugUvKQuyM) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:44 |
+| 15 | [Zaterdag](https://open.spotify.com/track/141mW0BgAlJLZugUvKQuyM) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:44 |
+| 16 | [Dichterbij Dan Ooit](https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:21 |
 | 17 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
 | 18 | [Zoutelande](https://open.spotify.com/track/6aAJY5FYW0TMLsUe2T7x4p) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:39 |
 | 19 | [Hou Vol Hou Vast](https://open.spotify.com/track/4oUOerXJ5liI48Swoegk0d) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 49 | [Een Manier Om Thuis Te Komen](https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 5:11 |
 | 50 | [Zachtjes Zingen](https://open.spotify.com/track/1NXfPvlNg4kuJCgGWYH0Ct) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:23 |
 
-Snapshot ID: `aIqyAAAAAABo46B6y2EdDXbcnHIu82Im`
+Snapshot ID: `aIwDgAAAAACoo0BCbjaA2+rzBTGUOoii`

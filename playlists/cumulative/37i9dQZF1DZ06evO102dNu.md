@@ -4,12 +4,12 @@
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 59 min
+60 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 2:57 | 2024-11-30 |  |
-| [All Of Me \- Remastered 1998](https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Easy!](https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7) | 2:06 | 2024-11-30 |  |
+| [All Of Me \- Remastered 1998](https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Easy!](https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7) | 2:06 | 2024-11-30 | 2025-08-03 |
 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 | 2024-11-30 |  |
 | [Autumn Leaves \- Remastered 1999](https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 2:52 | 2024-11-30 |  |
 | [Blue Moon \- 1999 Remastered](https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered / Expanded Edition\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:51 | 2024-11-30 |  |
@@ -40,6 +40,7 @@
 | [My Funny Valentine](https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Young Lovers](https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur) | 2:30 | 2024-11-30 |  |
 | [My Kind Of Town](https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:08 | 2024-11-30 |  |
 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 | 2024-11-30 |  |
+| [My Way](https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Highlights From Duets](https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9) | 3:31 | 2025-08-03 |  |
 | [My Way](https://open.spotify.com/track/3N3xHMAngaQq1htw6oSmnt) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [My Way \(50th Anniversary Edition\)](https://open.spotify.com/album/4PLymUW820F199PZEY72Np) | 3:32 | 2024-11-30 | 2025-06-06 |
 | [My Way Of Life](https://open.spotify.com/track/0Sc8AsDTBeZFWg8K9tMARE) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Cycles](https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO) | 3:07 | 2024-11-30 |  |
 | [Nice 'n' Easy \- Remastered 1999](https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:45 | 2024-11-30 |  |

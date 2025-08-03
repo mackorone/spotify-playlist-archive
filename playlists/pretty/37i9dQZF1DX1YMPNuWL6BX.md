@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain]
 
 > Ring in 2025 with your favorite party tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,088 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,059 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

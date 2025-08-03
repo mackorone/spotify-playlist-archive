@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Arbor Way",
+        "url": "https://open.spotify.com/album/5kgehWQxGx18XktyTfHyQt"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318435,
+      "name": "Arbor Way - Live",
+      "url": "https://open.spotify.com/track/7AbQKNo2zRzIIcfsFBMG2B"
+    },
+    {
+      "album": {
         "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
         "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
       },

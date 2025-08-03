@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 
 > This is Bankzitters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,822 likes - 22 songs - 52 min 43 sec
+[Spotify](https://open.spotify.com/user/spotify) - 19,854 likes - 22 songs - 52 min 43 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 |
-| 2 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 |
-| 3 | [Boevenpad](https://open.spotify.com/track/7M8oLiR9q2He0mnJVLYYYj) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 1:57 |
+| 2 | [Boevenpad](https://open.spotify.com/track/7M8oLiR9q2He0mnJVLYYYj) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 1:57 |
+| 3 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 |
 | 4 | [Huisfeestje](https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Huisfeestje](https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF) | 2:29 |
 | 5 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 |
 | 6 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 21 | [Systeem](https://open.spotify.com/track/3PPEVFabRGkoH271LNFpJm) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:38 |
 | 22 | [Eenzaam](https://open.spotify.com/track/2VXZ2Wp7wVQR70OHdK9SZy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Eenzaam](https://open.spotify.com/album/42AYxRimS50BQVmFluoN0r) | 2:39 |
 
-Snapshot ID: `aIqyAAAAAADVs1PZYpsMd3F/O0Zn6OjX`
+Snapshot ID: `aIwDgAAAAABJL6z+C8PtME/DTYydPw/q`

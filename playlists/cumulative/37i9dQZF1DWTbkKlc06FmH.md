@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,069 songs - 2 day 15 hr 7 min
+1,070 songs - 2 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 | 2023-03-16 | 2023-06-23 |
 | [cOoL WATeR foR thE nIGHT](https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:54 | 2024-02-20 | 2024-03-20 |
 | [Crash \(feat\. Raphael Saadiq and Kelly Rowland\)](https://open.spotify.com/track/4BWd7seTOURluar6C8RqYG) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 3:28 | 2025-03-18 | 2025-04-30 |
+| [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 | 2025-07-30 |  |
 | [Crush You](https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Crush You](https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3) | 4:16 | 2023-06-01 | 2023-06-07 |
 | [Cubism](https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Cubism](https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx) | 3:13 | 2024-04-02 | 2024-06-05 |
 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 | 2023-02-23 | 2023-06-02 |
@@ -282,7 +283,7 @@
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-10-20 | 2022-12-16 |
 | [Found A Light \(Beale Street\)](https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Found A Light \(Beale Street\)](https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN) | 7:16 | 2025-04-30 | 2025-05-31 |
 | [Fragility \(feat\. Sala ＆ ZIN\)](https://open.spotify.com/track/1ENeYswoLMQGO4lJf5nTxr) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Fragility \(feat\. Sala ＆ ZIN\)](https://open.spotify.com/album/6FCnhVvjYx52OEMuHr8MmB) | 3:43 | 2025-06-11 | 2025-06-18 |
-| [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-04-02 |  |
+| [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-04-02 | 2025-08-03 |
 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 | 2023-09-26 | 2023-12-06 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-19 |  |
 | [Friday's High \(Shingo Suzuki Remix\)](https://open.spotify.com/track/12hRpor7DzLdtMcu8zgbBs) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L), [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Friday's High \(Shingo Suzuki Remix\)](https://open.spotify.com/album/0x6AHmXjcepSwWWfWPWhmp) | 3:16 | 2024-03-12 | 2024-04-19 |

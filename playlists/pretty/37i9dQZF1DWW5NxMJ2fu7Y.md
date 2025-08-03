@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,423 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,458 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 59 | [Versus](https://open.spotify.com/track/3nn8JqoGuZhk7pqDV1NjWQ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Versus](https://open.spotify.com/album/7Enc3p8PWn4TgvG0lJmLZn) | 4:01 |
 | 60 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
 
-Snapshot ID: `aEfSQQAAAAASSrmjDM4IAQGL/qtkLdEn`
+Snapshot ID: `AAAAAHCHr7/q/yFSQ7S6qjQKyhicx6jD`

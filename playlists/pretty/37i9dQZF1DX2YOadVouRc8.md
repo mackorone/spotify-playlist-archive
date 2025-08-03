@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,212 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,245 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,18 +56,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 46 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
 | 47 | [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 |
 | 48 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 |
-| 49 | [Diamonds \(feat\. Fireboy DML\)](https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Still The Mayor](https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR) | 2:20 |
-| 50 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 |
+| 49 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 |
+| 50 | [Diamonds \(feat\. Fireboy DML\)](https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Still The Mayor](https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR) | 2:20 |
 | 51 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
 | 52 | [Why You Lying](https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Why You Lying](https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID) | 2:43 |
 | 53 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
 | 54 | [Milli \(feat\. Victony\)](https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Tayo](https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85) | 2:42 |
-| 55 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 |
-| 56 | [FINAL](https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [FINAL](https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR) | 3:35 |
+| 55 | [FINAL](https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [FINAL](https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR) | 3:35 |
+| 56 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 |
 | 57 | [Oroma](https://open.spotify.com/track/3o24yEM5aaiJIkJvdVmOH8) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Oroma](https://open.spotify.com/album/4gGIM7deWJhmmVli9JGskW) | 2:16 |
 | 58 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
-| 59 | [TA NA](https://open.spotify.com/track/1AVlcHWrzy9efKVfyyuFAj) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [TA NA](https://open.spotify.com/album/5A2zjOMDnL63dcJIKRLZrx) | 3:22 |
-| 60 | [No Yawa](https://open.spotify.com/track/4UeTcl6NfFc85bZyuaB6BX) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Soundtrack to Great Sex](https://open.spotify.com/album/7GHxdwWkHmX8whDmKFpski) | 2:24 |
+| 59 | [No Yawa](https://open.spotify.com/track/4UeTcl6NfFc85bZyuaB6BX) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Soundtrack to Great Sex](https://open.spotify.com/album/7GHxdwWkHmX8whDmKFpski) | 2:24 |
+| 60 | [TA NA](https://open.spotify.com/track/1AVlcHWrzy9efKVfyyuFAj) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [TA NA](https://open.spotify.com/album/5A2zjOMDnL63dcJIKRLZrx) | 3:22 |
 | 61 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 |
 | 62 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |
 | 63 | [ecstasy](https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 76 | [Feeling Alright](https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:39 |
 | 77 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 |
 | 78 | [Bodycon](https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Bodycon](https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY) | 2:39 |
-| 79 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
-| 80 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
+| 79 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
+| 80 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
 
 Snapshot ID: `aIwD4gAAAABemFOJBd2JltVFaYuUxEA/`

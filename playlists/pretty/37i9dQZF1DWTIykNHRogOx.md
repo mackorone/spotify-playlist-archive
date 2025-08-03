@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française\. Photo: Tessa B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,570 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,573 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 |
 | 50 | [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 |
 
-Snapshot ID: `aIvnfgAAAACXGlbyKFKBO4j/GrnrIpra`
+Snapshot ID: `AAAAAK9xBkrnteZbNOhvKOL/0qBP8mT8`

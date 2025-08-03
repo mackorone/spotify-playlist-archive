@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,369 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,425 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 20 | [Rather Be Alone](https://open.spotify.com/track/5zAjGORs9r1VGXv9rrgCPw) | [The Rhythm Shakers](https://open.spotify.com/artist/6mlUdYWiqDyrAVDHwddCkQ) | [Voodoo](https://open.spotify.com/album/15AyjB0TYLriPym8G87vLI) | 2:24 |
 | 21 | [Baby Did A Bad Bad Thing \- Remastered](https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 2:56 |
 | 22 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 |
-| 23 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 23 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
 | 24 | [Best Friend's Girlfriend](https://open.spotify.com/track/47xbYXGlRgknlC4wPPOaoW) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Best Friend's Girlfriend](https://open.spotify.com/album/7IMnrpb9gjWG5dRIh0c05C) | 3:09 |
 | 25 | [Depression](https://open.spotify.com/track/28vMuX0gRJMeIhGaW0cQPn) | [The Hillbilly Moon Explosion](https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR) | [With Monsters and Gods](https://open.spotify.com/album/5ejGluFtTbkWyVTRY7LU5z) | 2:08 |
-| 26 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
+| 26 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
 | 27 | [Welcome to My Hell](https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 3:08 |
 | 28 | [Woo Hoo](https://open.spotify.com/track/6S9lcjREUTU4Yv5y7oMcv2) | [The 5.6.7.8's](https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 1:59 |
 | 29 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 35 | [Teased UP!](https://open.spotify.com/track/70b1gvXV3nWne0s9tyWoSP) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [Teased UP!](https://open.spotify.com/album/2n5vYkijDHBRHnxgygqp7a) | 2:05 |
 | 36 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 37 | [Go Go Go](https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [Ooby Dooby / Go Go Go](https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY) | 2:06 |
-| 38 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
-| 39 | [Hip Shakin' Baby](https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Rock & Roll Is Everywhere](https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU) | 2:09 |
+| 38 | [Hip Shakin' Baby](https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Rock & Roll Is Everywhere](https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU) | 2:09 |
+| 39 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
 | 40 | [Keep On Loving Me Baby \- The original live recordings](https://open.spotify.com/track/6sQjLATFOYyHE61ZW0xBkE) | [Bluebirds](https://open.spotify.com/artist/2tSCSRIiOya3O652PDmu3S) | [You Take My Blues Away \(The original live recordings\)](https://open.spotify.com/album/5OEyHOsTdKftIsSbzKl8Ci) | 3:38 |
 | 41 | [Let's Have A Party](https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:07 |
 | 42 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 55 | [Forever](https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:41 |
 | 56 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
 | 57 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
-| 58 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
-| 59 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
+| 58 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
+| 59 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
 | 60 | [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 |
 
 Snapshot ID: `aF0dRgAAAADgAseeUJQL2+/JeQHVYzhZ`

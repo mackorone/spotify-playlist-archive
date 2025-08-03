@@ -7235,6 +7235,24 @@
     },
     {
       "album": {
+        "name": "iwannaliveinadream",
+        "url": "https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165506,
+      "name": "iwannaliveinadream",
+      "url": "https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2"
+    },
+    {
+      "album": {
         "name": "I\u2018ll show you",
         "url": "https://open.spotify.com/album/00Vu9HdeCsVz8EFgEG54Ob"
       },
@@ -9420,7 +9438,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 152651,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"

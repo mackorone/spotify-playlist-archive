@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 28 min
+60 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aragon \- From The "Coffy" Soundtrack](https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:55 | 2025-03-11 |  |
 | [Bands Jukes](https://open.spotify.com/track/1VoHbA54cMaIBxCqNoO2HT) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Good Vibes / Bad Vibes](https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby) | 1:45 | 2025-03-11 | 2025-04-28 |
 | [Bounce Keepers](https://open.spotify.com/track/3NXniwMLRqDltNT065vM3W) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Good Vibes / Bad Vibes](https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby) | 1:34 | 2025-03-11 | 2025-03-13 |
+| [Brand New Feeling \- Yoruba Soul Mix Part 2 Edit](https://open.spotify.com/track/7hEOBK13E4307YEaQFyWRQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \(Yoruba Soul Mix Part 2 Edit\)](https://open.spotify.com/album/3Avh7w1evREcin2NEj75JG) | 6:29 | 2025-08-03 |  |
 | [Brawling Broads \- From The "Coffy" Soundtrack](https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:46 | 2025-03-11 |  |
 | [Can't You See Me](https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 6:58 | 2025-03-11 |  |
 | [Cleva](https://open.spotify.com/track/1GoTvQP3JEeA8oh5I9b2xc) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:45 | 2025-03-11 |  |
@@ -44,7 +45,7 @@
 | [Mystic Voyage](https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Brighter Day](https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh) | 4:13 | 2025-03-11 |  |
 | [Mystic Voyage](https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 3:42 | 2025-03-11 |  |
 | [Papa Was A Rolling Stone](https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:33 | 2025-03-11 |  |
-| [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 | 2025-03-11 |  |
+| [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 | 2025-03-11 | 2025-08-03 |
 | [Proceed II](https://open.spotify.com/track/4h8tPJddGifuAKtgCnqRDj) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Do You Want More?!!!??! \(Deluxe Version\)](https://open.spotify.com/album/4CUBkEbEXZnhuOjFfaWcg9) | 5:47 | 2025-07-15 | 2025-07-16 |
 | [Red, Black & Green](https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 4:40 | 2025-03-11 |  |
 | [Rise](https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF) | [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In Time](https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E) | 6:16 | 2025-03-11 |  |

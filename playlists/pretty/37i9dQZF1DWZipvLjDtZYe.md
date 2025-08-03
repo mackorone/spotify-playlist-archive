@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,911 likes - 73 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,904 likes - 73 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 72 | [never ender](https://open.spotify.com/track/17yQnJRqu446o8iGJcVpGT) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hatsune Miku 10th Anniversary Songs \-ミラクルミライ\-](https://open.spotify.com/album/3OxdPFUtuzEvhqqaWSr6vD) | 4:30 |
 | 73 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
 
-Snapshot ID: `aC19FQAAAABG/BhOkM78UcSTsEcmpp0e`
+Snapshot ID: `AAAAAAqrxEV3zqnm6yPpIfyljFeyTopJ`

@@ -270,7 +270,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -1794,6 +1794,28 @@
       "duration_ms": 177882,
       "name": "AMISTA",
       "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
+    },
+    {
+      "album": {
+        "name": "TRINIDAD BENDITA",
+        "url": "https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "AMISTA",
+      "url": "https://open.spotify.com/track/1kJyDcBrZ7rSKnFtKc82vm"
     },
     {
       "album": {
@@ -11208,7 +11230,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 213333,
       "name": "Hiekka",
       "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
@@ -11718,10 +11740,32 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
+    },
+    {
+      "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d"
     },
     {
       "album": {
@@ -12646,7 +12690,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -12750,7 +12794,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -16628,7 +16672,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 235026,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
@@ -20821,6 +20865,28 @@
     },
     {
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130968,
+      "name": "Priti",
+      "url": "https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1"
+    },
+    {
+      "album": {
         "name": "Priti",
         "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
       },
@@ -20836,7 +20902,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 130968,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
@@ -24654,7 +24720,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/0JY2QXSvlpA8DZwgaAYWlY"
@@ -28262,7 +28328,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,083 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,118 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 19 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
 | 20 | [Gente Boa se Atrai](https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Peu Meurray](https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 3:25 |
 | 21 | [Mais de Nós](https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Mais de Nós](https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC) | 2:54 |
-| 22 | [Garota do Fantástico](https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Garota do Fantástico](https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI) | 2:52 |
-| 23 | [Coisas do Amor \(Me Chama\)](https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [SAGRADO, Vol 2](https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S) | 3:42 |
+| 22 | [Coisas do Amor \(Me Chama\)](https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [SAGRADO, Vol 2](https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S) | 3:42 |
+| 23 | [Garota do Fantástico](https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Garota do Fantástico](https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI) | 2:52 |
 | 24 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
 | 25 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 |
 | 26 | [Qual É A Sua?](https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:10 |
 | 27 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 28 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 |
 | 29 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
-| 30 | [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 |
-| 31 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 |
+| 30 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 |
+| 31 | [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 |
 | 32 | [Pra Vida](https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:32 |
 | 33 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
 | 34 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |

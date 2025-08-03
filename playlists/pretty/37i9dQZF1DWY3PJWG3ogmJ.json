@@ -1,10 +1,10 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 697977,
+  "num_followers": 698086,
   "original_name": "Extreme Metal Workout",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZppzBQAAAAABBHNJZt2NwNe7LTug88gR",
   "tracks": [
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Level Above Human",
-        "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 258245,
-      "name": "Invidious",
-      "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "In Darkness",
         "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 157653,
       "name": "In Darkness",
       "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Level Above Human",
+        "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 258245,
+      "name": "Invidious",
+      "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Sentenced to Life",
-        "url": "https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb"
-      },
-      "artists": [
-        {
-          "name": "Black Breath",
-          "url": "https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Feast of the Damned",
-      "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Tethra",
         "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 289236,
       "name": "Masochistic Healing",
       "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Sentenced to Life",
+        "url": "https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb"
+      },
+      "artists": [
+        {
+          "name": "Black Breath",
+          "url": "https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Feast of the Damned",
+      "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "No Brother, No Friend",
-        "url": "https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI"
-      },
-      "artists": [
-        {
-          "name": "Justice For The Damned",
-          "url": "https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8"
-        }
-      ],
-      "duration_ms": 211807,
-      "name": "No Brother, No Friend",
-      "url": "https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "One Day Closer to the End of the World",
         "url": "https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 227398,
       "name": "One Day Closer to the End of the World",
       "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "No Brother, No Friend",
+        "url": "https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI"
+      },
+      "artists": [
+        {
+          "name": "Justice For The Damned",
+          "url": "https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8"
+        }
+      ],
+      "duration_ms": 211807,
+      "name": "No Brother, No Friend",
+      "url": "https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Gaining Purpose Through Passionate Hatred",
-        "url": "https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO"
-      },
-      "artists": [
-        {
-          "name": "Twitching Tongues",
-          "url": "https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "Gaining Purpose",
-      "url": "https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "I Am Your God",
         "url": "https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 175412,
       "name": "So Much for Love",
       "url": "https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Gaining Purpose Through Passionate Hatred",
+        "url": "https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO"
+      },
+      "artists": [
+        {
+          "name": "Twitching Tongues",
+          "url": "https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "Gaining Purpose",
+      "url": "https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Army of Cops",
-        "url": "https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR"
-      },
-      "artists": [
-        {
-          "name": "Pig Destroyer",
-          "url": "https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Army of Cops",
-      "url": "https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Writhe",
         "url": "https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 202764,
       "name": "Writhe",
       "url": "https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Army of Cops",
+        "url": "https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR"
+      },
+      "artists": [
+        {
+          "name": "Pig Destroyer",
+          "url": "https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Army of Cops",
+      "url": "https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB"
     },
     {
       "added_at": "2023-01-18 15:54:17",

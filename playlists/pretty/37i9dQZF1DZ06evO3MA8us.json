@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 34999,
+  "num_followers": 35005,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAB+E/lFJlz0MPqRix4qKSI/",
+  "snapshot_id": "aIwDgAAAAAD30oRg1BC+HdyPC3t8EuQc",
   "tracks": [
     {
       "added_at": null,
@@ -451,86 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "There\u2019s Nothing That Our God Can\u2019t Do (Live)",
-        "url": "https://open.spotify.com/album/1jvZlWc0ey7irzdsJkZlEg"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live",
-      "url": "https://open.spotify.com/track/7jQpjGSWuxXT84p00VF9EH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Even So Come (Live)",
-        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Shout Hosanna - Live",
-      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Passion (So Far) [Live]",
-        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
-      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv"
       },
@@ -555,6 +475,86 @@
       "duration_ms": 217651,
       "name": "What He's Done",
       "url": "https://open.spotify.com/track/2pxyd0ly9E5TEObwOvkedv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Even So Come (Live)",
+        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Shout Hosanna - Live",
+      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There\u2019s Nothing That Our God Can\u2019t Do (Live)",
+        "url": "https://open.spotify.com/album/1jvZlWc0ey7irzdsJkZlEg"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live",
+      "url": "https://open.spotify.com/track/7jQpjGSWuxXT84p00VF9EH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Passion (So Far) [Live]",
+        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
+      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
     },
     {
       "added_at": null,

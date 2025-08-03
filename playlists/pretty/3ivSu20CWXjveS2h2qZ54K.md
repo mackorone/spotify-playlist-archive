@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,862 likes - 62 songs - 3 hr 25 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,863 likes - 62 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 54 | [Flores](https://open.spotify.com/track/3G5QIGMaNyOR07cD0O5Htk) | [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Arón Piper](https://open.spotify.com/album/4arvfKg3L3IP6hAeGX4XoM) | 3:20 |
 | 55 | [Gafas de Sol](https://open.spotify.com/track/0Jb95iL8Fjxtv4dh5qcLt9) | [Fresquito](https://open.spotify.com/artist/1fURW117sgaPpgIoz8YLXW), [Mango](https://open.spotify.com/artist/1hus2QLWtdEpTUSgopRRZq) | [Gafas de Sol](https://open.spotify.com/album/7LcVcUXdpWh4z4rYArUGrP) | 2:02 |
 | 56 | [Heavens Sirens](https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Heavens Sirens](https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn) | 2:56 |
-| 57 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 57 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 58 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
 | 59 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 |
 | 60 | [running](https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 3:50 |

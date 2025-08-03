@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -4222,7 +4222,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 147726,
       "name": "Coti x Coti",
       "url": "https://open.spotify.com/track/73ZTxlG3t79x4EY9EVGgPk"
@@ -5024,7 +5024,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "DETR\u00c1S DE TU ALMA",
       "url": "https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC"
@@ -9668,7 +9668,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 159310,
       "name": "JA DORMIR\u00c9",
       "url": "https://open.spotify.com/track/1TewcrGBlkDAMhehfn0eHh"
@@ -12236,7 +12236,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
@@ -12364,7 +12364,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -14950,7 +14950,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 167720,
       "name": "Paranoid - 2009 Remaster",
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
@@ -14968,7 +14968,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -16731,6 +16731,24 @@
     },
     {
       "album": {
+        "name": "Postals",
+        "url": "https://open.spotify.com/album/4WgRBLOUenWuVaWX1smv8i"
+      },
+      "artists": [
+        {
+          "name": "Els Catarres",
+          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/0UcGhPiA8E5nmOl3f6pXVc"
+    },
+    {
+      "album": {
         "name": "DON KBRN",
         "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
@@ -17726,7 +17744,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -18322,7 +18340,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
@@ -18814,7 +18832,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 313626,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S"
@@ -18832,7 +18850,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 313684,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO"
@@ -18904,7 +18922,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -22672,7 +22690,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"

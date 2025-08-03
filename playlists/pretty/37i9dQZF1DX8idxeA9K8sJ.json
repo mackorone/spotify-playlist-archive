@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana. Flans en portada.",
-  "num_followers": 1014372,
+  "num_followers": 1014668,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Recuerdos II",
+        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 210440,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Recuerdos II",
-        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Sin Tu Amor",
-        "url": "https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Jose Jose (1)",
         "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 253000,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Sin Tu Amor",
+        "url": "https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
       },
       "artists": [
         {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
         }
       ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -827,18 +827,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
       },
       "artists": [
         {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
         }
       ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -955,18 +955,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
+        "name": "Las baladas (Los singles vol II)",
+        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 316840,
-      "name": "Due\u00f1o de Nada",
-      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
+      "duration_ms": 286080,
+      "name": "Si no te tengo a ti",
+      "url": "https://open.spotify.com/track/6IeJcGYibtUKl9QnAupnYi"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -987,18 +987,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Las baladas (Los singles vol II)",
-        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
         }
       ],
-      "duration_ms": 286080,
-      "name": "Si no te tengo a ti",
-      "url": "https://open.spotify.com/track/6IeJcGYibtUKl9QnAupnYi"
+      "duration_ms": 316840,
+      "name": "Due\u00f1o de Nada",
+      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Amor Y Rock 'N' Roll",
         "url": "https://open.spotify.com/album/7fgyyg4HgaOsvd0j1adJbt"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 263320,
       "name": "D\u00e9jame Volver Contigo",
       "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Luna m\u00e1gica",
-      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Uno Entre Mil",
-        "url": "https://open.spotify.com/album/4eXjBKDecDYrCmjar3Ucwf"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Uno Entre Mil",
-      "url": "https://open.spotify.com/track/3kxlhUdlPfokHfECHjaskF"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 199280,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Uno Entre Mil",
+        "url": "https://open.spotify.com/album/4eXjBKDecDYrCmjar3Ucwf"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Uno Entre Mil",
+      "url": "https://open.spotify.com/track/3kxlhUdlPfokHfECHjaskF"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1231,34 +1231,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "30 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
       },
       "artists": [
         {
-          "name": "Los Toreros Muertos",
-          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
         }
       ],
-      "duration_ms": 339933,
-      "name": "Mi Ag\u00fcita Amarilla",
-      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Celebridades- Daniela Romo",
-        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "Yo No Te Pido La Luna",
-      "url": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
+      "duration_ms": 238826,
+      "name": "Este hombre no se toca",
+      "url": "https://open.spotify.com/track/047T2fSx1eNiRbCNztIAhL"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1275,6 +1259,22 @@
       "duration_ms": 257466,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/2Bbvlv1uslztpJbGgEsckH"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "30 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+      },
+      "artists": [
+        {
+          "name": "Los Toreros Muertos",
+          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+        }
+      ],
+      "duration_ms": 339933,
+      "name": "Mi Ag\u00fcita Amarilla",
+      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
     },
     {
       "added_at": "2023-01-04 00:37:45",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+        "name": "Celebridades- Daniela Romo",
+        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
       "artists": [
         {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
         }
       ],
-      "duration_ms": 238826,
-      "name": "Este hombre no se toca",
-      "url": "https://open.spotify.com/track/047T2fSx1eNiRbCNztIAhL"
+      "duration_ms": 231440,
+      "name": "Yo No Te Pido La Luna",
+      "url": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Salamandra",
-        "url": "https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF"
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
         }
       ],
-      "duration_ms": 256200,
-      "name": "Aire soy",
-      "url": "https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP"
+      "duration_ms": 190413,
+      "name": "Orgullosa Nena",
+      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
     }
   ],
   "unique_name": "Los 80 M\u00e9xico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,704 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,712 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 21 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 |
 | 22 | [Tattoo \- Topic Remix](https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Tattoo \(Topic Remix\)](https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9) | 3:31 |
 | 23 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
-| 24 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 |
-| 25 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
-| 26 | [It's My Life \- Techno Remix](https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq) | [Nic Johnston](https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat), [Jawny Sparklez](https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi) | [It's My Life \(Techno Remix\)](https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2) | 2:54 |
-| 27 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 |
+| 24 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
+| 25 | [It's My Life \- Techno Remix](https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq) | [Nic Johnston](https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat), [Jawny Sparklez](https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi) | [It's My Life \(Techno Remix\)](https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2) | 2:54 |
+| 26 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 |
+| 27 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 |
 | 28 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
 | 29 | [The Power Of Love](https://open.spotify.com/track/6XW6hJhSEqp9Jev6UbcLTk) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [The Power Of Love](https://open.spotify.com/album/6ubj7wuCUQ2GQ7qLN4vMtZ) | 2:19 |
 | 30 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |

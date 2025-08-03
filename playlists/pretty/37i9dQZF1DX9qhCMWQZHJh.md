@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,832 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,839 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 48 | [Valley of the Dolls](https://open.spotify.com/track/7bkSI07biaySDgzQtVnp5Z) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4cml5zEheYJwbRmFlieis9) | 4:16 |
 | 49 | [Rose Quartz](https://open.spotify.com/track/0u1yF7JbPlDjqWUKZk4FaR) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX) | 4:13 |
 
-Snapshot ID: `AAAAAHDBF47iNgS4rSGcY/jKLvF22GeQ`
+Snapshot ID: `Z4cV2wAAAAA6uyCJ/4pulhn4O3jL4qsy`

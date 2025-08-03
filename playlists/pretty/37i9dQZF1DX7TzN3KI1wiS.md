@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,312 likes - 141 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,367 likes - 141 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 140 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 |
 | 141 | [Daze](https://open.spotify.com/track/5D83D5FCc9HxtXDFbDsRGa) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Daze](https://open.spotify.com/album/6JRG4pQQa7gmRMEsJSaPs1) | 3:20 |
 
-Snapshot ID: `Z240fwAAAAAtbC54Qng7Rw6FX5G9nF1v`
+Snapshot ID: `AAAAAK2eUyoOMS0/jIsaqXzs/XE/C4O1`

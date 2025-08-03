@@ -4,7 +4,7 @@
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-112 songs - 6 hr 28 min
+113 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 | 2022-10-26 |  |
 | [Bad Decisions](https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:09 | 2022-10-26 |  |
 | [Basket Case \- From ‘The Tick’ TV Series](https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Basket Case \(From ‘The Tick’ TV Series\)](https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw) | 2:33 | 2022-10-26 | 2025-04-25 |
+| [Bathsheba & Him](https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bathsheba & Him](https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT) | 3:33 | 2025-08-03 |  |
 | [Bite Down \(Bastille Vs\. HAIM\)](https://open.spotify.com/track/5FE8wW6YIKHFtSlbGLhYKB) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [VS\. \(Other People’s Heartache, Pt\. III\)](https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL) | 2:59 | 2024-05-10 | 2024-07-24 |
 | [Blame](https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 2:55 | 2022-10-26 |  |
 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-09-15 | 2024-11-27 |
@@ -112,7 +113,7 @@
 | [Things We Lost In The Fire](https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 4:00 | 2022-10-26 |  |
 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 | 2022-10-26 |  |
 | [Torn Apart, Pt II \(Bastille Vs\. GRADES Vs\. Lizzo\)](https://open.spotify.com/track/6Gy30w4ebJg02BjLdULdNm) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [VS\. \(Other People’s Heartache, Pt\. III\)](https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL) | 1:01 | 2022-10-26 | 2023-11-11 |
-| [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 | 2024-05-17 |  |
+| [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 | 2024-05-17 | 2025-08-03 |
 | [Warmth \- Outro](https://open.spotify.com/track/41LPNdZSw4hyZm1ZUVZfTu) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 1:06 | 2023-02-03 | 2024-07-17 |
 | [What Would You Do](https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:03 | 2024-06-15 | 2024-06-16 |
 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2022-10-26 |  |

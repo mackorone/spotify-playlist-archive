@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Omar Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,257 likes - 90 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,322 likes - 90 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 89 | [El Gozo de Dios \- Live At The Belonging Co, Nashville, TN / 2024](https://open.spotify.com/track/51x4s8bI0X4JTa6Ti2pylu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [El Gozo de Dios \(Live\)](https://open.spotify.com/album/48ZyIvLbT85ZZ3M8f6WdmA) | 5:29 |
 | 90 | [Mi Confianza](https://open.spotify.com/track/2TYVuxijnXO0WsAgFBn4zH) | [Toni Romero](https://open.spotify.com/artist/69BWizWNZTCdBWLb1zllgw), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Confianza](https://open.spotify.com/album/0clBHCKiqXSQtLq8g87xju) | 4:34 |
 
-Snapshot ID: `AAAAAM+D90BrSmaoIgtWEILBukuMqqpe`
+Snapshot ID: `aIy11gAAAADLIz8+4DrbjIsZqCQAb+pH`

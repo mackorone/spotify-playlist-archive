@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 
 > The official Ozark playlist with all the music from Season 4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,366 likes - 34 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,384 likes - 34 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 | 33 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
 | 34 | [I Feel Sanctified](https://open.spotify.com/track/2WXv5t8wG3V3zCxGrYJtuL) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 3:44 |
 
-Snapshot ID: `ZIsSTQAAAACatb6stfrvvYfrz4QRZF25`
+Snapshot ID: `AAAAAAX5XaRD1hRAHB2FWP/hy2Ha0p8z`

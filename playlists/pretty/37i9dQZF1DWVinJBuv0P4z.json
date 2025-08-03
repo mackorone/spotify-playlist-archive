@@ -1,6 +1,6 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 501935,
+  "num_followers": 502265,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Hooked On A Feeling",
         "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 172866,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Frankie Valli...Is The Word",
-        "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Grease - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Frankie Valli...Is The Word",
+        "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Grease - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Top Of The World",
-      "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 174866,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Tom Jones Sings She's A Lady",
         "url": "https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 174146,
       "name": "She's A Lady",
       "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Definitive Pop: Bobby Darin",
-        "url": "https://open.spotify.com/album/23LtBxKUYBWCNQxcM2Iefo"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "Dream Lover - 2006 Remaster",
-      "url": "https://open.spotify.com/track/4GqMYg91LJXiLjvQBFc3s0"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+        "name": "Definitive Pop: Bobby Darin",
+        "url": "https://open.spotify.com/album/23LtBxKUYBWCNQxcM2Iefo"
       },
       "artists": [
         {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 158253,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
+      "duration_ms": 151253,
+      "name": "Dream Lover - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4GqMYg91LJXiLjvQBFc3s0"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1531,6 +1515,22 @@
       "duration_ms": 185106,
       "name": "That's the Way (I Like It) - 2004 Remaster",
       "url": "https://open.spotify.com/track/3PR79C1jVvLLLmgdyHkXl3"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Ring My Bell",
-        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
-      },
-      "artists": [
-        {
-          "name": "Anita Ward",
-          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
-        }
-      ],
-      "duration_ms": 491933,
-      "name": "Ring My Bell",
-      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Ring My Bell",
+        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
+      },
+      "artists": [
+        {
+          "name": "Anita Ward",
+          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
+        }
+      ],
+      "duration_ms": 491933,
+      "name": "Ring My Bell",
+      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Perfect Angel",
-        "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 223143,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 163000,
       "name": "No Particular Place To Go",
       "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Perfect Angel",
+        "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 223143,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Shambala - Single Version",
-      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Greatest Hits / Tequila",
         "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 135240,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Shambala - Single Version",
+      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Best Of Dion",
-        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "The Wanderer",
-      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "KC & the Sunshine Band",
         "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 317160,
       "name": "Get Down Tonight - 2004 Remaster",
       "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "The Best Of The Crew Cuts",
+        "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 168893,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Best Of The Crew Cuts",
-        "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 168893,
-      "name": "Sh-Boom",
-      "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2024-07-12 21:11:00",

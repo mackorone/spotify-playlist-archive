@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 6951,
+  "num_followers": 6952,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABzh+9Lb6ZXsgvEIDQB0RVb",
+  "snapshot_id": "aIwDgAAAAACEhNdDSnqtGpj6Z8NoJs0O",
   "tracks": [
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
         {
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 156506,
-      "name": "The Toddle",
-      "url": "https://open.spotify.com/track/7gB25CGr3vbvDUThLfdwm8"
+      "duration_ms": 143840,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/3tQULiAweMvxtwadRonAER"
     },
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
+      "duration_ms": 174506,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 143840,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/3tQULiAweMvxtwadRonAER"
+      "duration_ms": 156506,
+      "name": "The Toddle",
+      "url": "https://open.spotify.com/track/7gB25CGr3vbvDUThLfdwm8"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology: His Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "That's All Right - Remastered",
-      "url": "https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 209826,
       "name": "You Can't Judge A Book By Its Cover",
       "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology: His Early Years (Remastered)",
+        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "That's All Right - Remastered",
+      "url": "https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 368706,
       "name": "I Just Want To Make Love To You",
       "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Crazy For My Baby",
+      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Crazy For My Baby",
-      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 254506,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
     },
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology: His Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 148853,
-      "name": "You're the One - Remastered",
-      "url": "https://open.spotify.com/track/6Q3U1AMs32pVUD4FcbuShH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 250800,
       "name": "You Don't Love Me",
       "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology: His Early Years (Remastered)",
+        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "You're the One - Remastered",
+      "url": "https://open.spotify.com/track/6Q3U1AMs32pVUD4FcbuShH"
     },
     {
       "added_at": null,

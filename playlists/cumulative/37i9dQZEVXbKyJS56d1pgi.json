@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 211714,
       "name": "Al\u00f4",
       "url": "https://open.spotify.com/track/6vBuEFImAx36hDYiYqBtkZ"
@@ -9818,7 +9818,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 131822,
       "name": "Encosta na Parede",
       "url": "https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC"
@@ -10558,6 +10558,36 @@
       "duration_ms": 144000,
       "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
       "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
+    },
+    {
+      "album": {
+        "name": "RomantiDog",
+        "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179039,
+      "name": "Eu Vou na Sua Casa",
+      "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
     },
     {
       "album": {
@@ -16028,7 +16058,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -16122,7 +16152,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -18800,7 +18830,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -31392,7 +31422,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
@@ -31584,6 +31614,24 @@
       "duration_ms": 245541,
       "name": "The Smallest Man Who Ever Lived",
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
+    },
+    {
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "album": {

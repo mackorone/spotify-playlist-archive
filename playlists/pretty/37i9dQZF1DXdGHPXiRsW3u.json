@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 979922,
+  "num_followers": 980673,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 216480,
-      "name": "Empire State of Mind (Part II) Broken Down",
-      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Empire State of Mind (Part II) Broken Down",
+      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "The Hits--Chapter One",
         "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 267226,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/0AiTIiCQ15NW8QHQwSxKuR"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Gotta Get Thru This",
-        "url": "https://open.spotify.com/album/6d5bzbzrZzXrB6BP6MMSeL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bedingfield",
-          "url": "https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "If You're Not The One",
-      "url": "https://open.spotify.com/track/7HhKuJbtiNbZsEDLNQvOnH"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Rated R",
         "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
+        "name": "Gotta Get Thru This",
+        "url": "https://open.spotify.com/album/6d5bzbzrZzXrB6BP6MMSeL"
       },
       "artists": [
         {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+          "name": "Daniel Bedingfield",
+          "url": "https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX"
         }
       ],
-      "duration_ms": 242466,
-      "name": "Officially Missing You",
-      "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
+      "duration_ms": 257306,
+      "name": "If You're Not The One",
+      "url": "https://open.spotify.com/track/7HhKuJbtiNbZsEDLNQvOnH"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1439,6 +1423,22 @@
       "duration_ms": 308933,
       "name": "Thank You For Loving Me",
       "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "Officially Missing You",
+      "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "Warwick Avenue",
-      "url": "https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 237000,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "Warwick Avenue",
+      "url": "https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "\"7\"",
+        "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
+      },
+      "artists": [
+        {
+          "name": "S Club",
+          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
+        }
+      ],
+      "duration_ms": 240492,
+      "name": "Never Had A Dream Come True",
+      "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/4ZY9wbPTIFpX5IdFemqIyZ"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 226826,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/5fztgDIt1Nq32VHJrAHq0Y"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "\"7\"",
-        "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
-      },
-      "artists": [
-        {
-          "name": "S Club",
-          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
-        }
-      ],
-      "duration_ms": 240492,
-      "name": "Never Had A Dream Come True",
-      "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "All Rise",
-        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
-      },
-      "artists": [
-        {
-          "name": "Blue",
-          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Best In Me",
-      "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 243373,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "All Rise",
+        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Best In Me",
+      "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Ocean Eyes (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Vanilla Twilight",
-      "url": "https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Suit",
         "url": "https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 253933,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/2b8QQqf8Vwb7bfz22ja8Fk"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Ocean Eyes (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Vanilla Twilight",
+      "url": "https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Take It All Away (U.S. Version)",
-        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Cabrera",
-          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "True",
-      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Intensive Care",
         "url": "https://open.spotify.com/album/14cUCy4aMykhZbIFTw7dtW"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 277505,
       "name": "Advertising Space",
       "url": "https://open.spotify.com/track/3EY1sjf2Xq86pQN0L4hEnU"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Take It All Away (U.S. Version)",
+        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Cabrera",
+          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "True",
+      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Room Service (Extended Version)",
-        "url": "https://open.spotify.com/album/3xcq8XRHl2VacEqcYZNJ2H"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 244697,
-      "name": "Milk and Toast and Honey",
-      "url": "https://open.spotify.com/track/26WofNkvCADcYTfqA0yLnN"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Room Service (Extended Version)",
+        "url": "https://open.spotify.com/album/3xcq8XRHl2VacEqcYZNJ2H"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 244697,
+      "name": "Milk and Toast and Honey",
+      "url": "https://open.spotify.com/track/26WofNkvCADcYTfqA0yLnN"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
         }
       ],
-      "duration_ms": 304013,
-      "name": "The Voice Within",
-      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
+      "duration_ms": 209453,
+      "name": "Stepping Stone",
+      "url": "https://open.spotify.com/track/3g9nxeJPQM4CxhHt1iNlB4"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
       "artists": [
         {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Stepping Stone",
-      "url": "https://open.spotify.com/track/3g9nxeJPQM4CxhHt1iNlB4"
+      "duration_ms": 304013,
+      "name": "The Voice Within",
+      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2419,22 +2419,6 @@
       "duration_ms": 200426,
       "name": "Against All Odds (Take A Look at Me Now) (feat. Westlife)",
       "url": "https://open.spotify.com/track/0Ac0Ge47UpkVceZyPin7IP"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/05kBBWSmmq1YCkr6jvrCOS"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2467,6 +2451,22 @@
       "duration_ms": 245306,
       "name": "You'll Never Find Another Love like Mine",
       "url": "https://open.spotify.com/track/0xPR2JJnSsHc3Ju7amTjOK"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/05kBBWSmmq1YCkr6jvrCOS"
     }
   ],
   "unique_name": "Soft 00s",

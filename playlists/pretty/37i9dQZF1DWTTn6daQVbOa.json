@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 933637,
+  "num_followers": 934304,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Spirits Having Flown",
         "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 155773,
       "name": "If",
       "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Life Beyond L.A.",
         "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Michael Johnson Album",
-        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
-      },
-      "artists": [
-        {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Bluer Than Blue",
-      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Nilsson Schmilsson",
         "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 201000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Michael Johnson Album",
+        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bluer Than Blue",
+      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Trafalgar",
-        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "How Can You Mend A Broken Heart",
-      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Trafalgar",
+        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "How Can You Mend A Broken Heart",
+      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Dionne (Expanded Edition)",
-        "url": "https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "I'll Never Love This Way Again",
-      "url": "https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Dionne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "I'll Never Love This Way Again",
+      "url": "https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "It's Impossible",
-        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Kick Inside",
         "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 158693,
       "name": "The Man with the Child in His Eyes",
       "url": "https://open.spotify.com/track/4xjVfArXNQRxAvsUpjmfMt"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "It's Impossible",
+        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2217,22 +2217,6 @@
       "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
     },
     {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Snowqueen Of Texas",
-      "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
-    },
-    {
       "added_at": "2024-12-27 17:35:00",
       "album": {
         "name": "I Am Woman",
@@ -2247,6 +2231,22 @@
       "duration_ms": 205880,
       "name": "I Am Woman",
       "url": "https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Snowqueen Of Texas",
+      "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0lbELQG6SSHy7LvBttGF2d"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Times Of Your Life",
-      "url": "https://open.spotify.com/track/3AdX0KdVoMBqe82b19rWAU"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "American Pie (Expanded Edition)",
         "url": "https://open.spotify.com/album/3cKcMgO1UmhVk3ZfPIJhi0"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 239866,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/3VAIny0fsmbiZCwt3817Ay"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0lbELQG6SSHy7LvBttGF2d"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Times Of Your Life",
+      "url": "https://open.spotify.com/track/3AdX0KdVoMBqe82b19rWAU"
     },
     {
       "added_at": "2022-09-23 05:26:33",

@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with David Kushner
 
-934 songs - 2 day 3 hr 24 min
+936 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 | 2023-06-16 | 2024-04-19 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2025-05-19 |
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-13 | 2025-03-26 |
+| [First Love](https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [First Love](https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l) | 3:41 | 2025-08-01 |  |
 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 | 2021-12-17 | 2022-12-17 |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2023-11-21 |  |
 | [Fled Into The Night](https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Fled Into The Night](https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM) | 4:07 | 2025-03-28 | 2025-07-19 |
@@ -335,7 +336,7 @@
 | [Her](https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [Sad Bird](https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT) | 3:00 | 2022-05-13 | 2022-07-18 |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2024-09-13 | 2025-03-26 |
 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 | 2024-04-21 | 2024-09-14 |
-| [Here's Your Perfect](https://open.spotify.com/track/7ranmtPVs7Ckg2WLHO2L0m) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:38 | 2021-12-17 |  |
+| [Here's Your Perfect](https://open.spotify.com/track/7ranmtPVs7Ckg2WLHO2L0m) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:38 | 2021-12-17 | 2025-08-03 |
 | [Hey Ari](https://open.spotify.com/track/3XA0msNCCQysLnspbnbgw3) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:48 | 2022-08-05 | 2022-09-03 |
 | [Hey Little Sister](https://open.spotify.com/track/3zApR5gaDL8oQQnlqk6iWC) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Hey Little Sister](https://open.spotify.com/album/2NCZtGbwJKSabydw1D4UWN) | 2:25 | 2022-10-14 | 2022-10-29 |
 | [Hiatus](https://open.spotify.com/track/1R6mLWnOoogDULWkJy7SgJ) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:37 | 2022-09-23 | 2022-09-29 |
@@ -790,7 +791,7 @@
 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 | 2025-07-11 |  |
 | [The Man That Came Back](https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 4:01 | 2025-07-30 |  |
 | [The Neighborhood](https://open.spotify.com/track/6Rk2l7DEUgUXqcCRvvsuz0) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [When It Was Over](https://open.spotify.com/album/0BVWJAk1zI0YF7JVByC0r1) | 3:13 | 2023-06-26 | 2023-07-15 |
-| [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-07-29 |  |
+| [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-07-29 | 2025-08-03 |
 | [The Night You Left](https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [The Night You Left](https://open.spotify.com/album/4R9WkXMPVd9GvS9T8WiKFj) | 2:39 | 2021-12-17 | 2022-05-20 |
 | [The Older You Get](https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [The Older You Get](https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ) | 3:36 | 2024-08-09 | 2024-09-14 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-12-24 | 2024-04-27 |
@@ -798,6 +799,7 @@
 | [The Player](https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [The Player](https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg) | 2:48 | 2024-09-13 | 2024-10-05 |
 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 | 2025-06-24 |  |
 | [the reason i hate home](https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [the reason i hate home](https://open.spotify.com/album/60w9GszHHtExusXvbenVKz) | 2:43 | 2022-05-13 | 2022-07-28 |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |
 | [The Trauma and The Pleasure](https://open.spotify.com/track/4UOTmg9TBVTUibdKnPYzKt) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [If We Were a Film, We'd Be a Sad One](https://open.spotify.com/album/4b3xIi8eyBNWbrIAkX7GoA) | 3:13 | 2021-12-17 | 2022-03-26 |
 | [The Way You Felt](https://open.spotify.com/track/6XdHZr9iXdqc4Q76wtgbqr) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Way You Felt](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2) | 3:02 | 2021-12-17 | 2022-05-20 |
 | [The White Light of the Morning](https://open.spotify.com/track/3Nwy93NLDeqRc0Fr1qLnJR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The White Light of the Morning](https://open.spotify.com/album/4R7dKi1kNH9IZUMs2WXpvT) | 2:58 | 2025-03-21 |  |

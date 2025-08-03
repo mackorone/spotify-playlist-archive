@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,350 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,333 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 30 | [TRELLAS](https://open.spotify.com/track/09WAnxdBuebQopKhJT3oZS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:37 |
 | 31 | [Sonreír \- Versión Acústica](https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:29 |
 | 32 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 |
-| 33 | [Por Ti Me Quedo en San Luis](https://open.spotify.com/track/6kA8g4I3KAqcyIfCFBPNtr) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Por Ti Me Quedo en San Luis](https://open.spotify.com/album/0x5bCPWH8u9eQTLByY7LNq) | 2:37 |
-| 34 | [Vino Tinto](https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:51 |
+| 33 | [Vino Tinto](https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:51 |
+| 34 | [Por Ti Me Quedo en San Luis](https://open.spotify.com/track/6kA8g4I3KAqcyIfCFBPNtr) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Por Ti Me Quedo en San Luis](https://open.spotify.com/album/0x5bCPWH8u9eQTLByY7LNq) | 2:37 |
 | 35 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 36 | [Tercera Noche](https://open.spotify.com/track/0DPpsXoijB0H7OVsxx9Vqt) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tercera Noche](https://open.spotify.com/album/4KPbW9CjDYzEYJCTJ3oCAB) | 2:55 |
 | 37 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
-| 38 | [Niña Bonita](https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Niña Bonita](https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA) | 4:23 |
-| 39 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
+| 38 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
+| 39 | [Niña Bonita](https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Niña Bonita](https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA) | 4:23 |
 | 40 | [Lo Que Construimos](https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lo Que Construimos](https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M) | 3:28 |
 | 41 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
 | 42 | [Es Verdad](https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Es Verdad](https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,426 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,506 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 43 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
 | 44 | [O Teatro dos Vampiros](https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Moska Apresenta Zoombido: Dado Villa\-Lobos](https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp) | 3:47 |
 | 45 | [With Or Without You \- Songs Of Surrender](https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [With Or Without You \(Songs Of Surrender\)](https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0) | 3:14 |
-| 46 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
-| 47 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
+| 46 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
+| 47 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
 | 48 | [What's My Age Again? \- Acoustic](https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [What's My Age Again? \(Acoustic\)](https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr) | 2:26 |
 | 49 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Pra Dizer Adeus \(Ao Vivo\)](https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx) | 4:13 |
 | 50 | [Imprevisível \(Acústico\)](https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Imprevisível \(Acústico\)](https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf) | 3:08 |

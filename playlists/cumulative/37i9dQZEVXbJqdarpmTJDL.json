@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 217110,
       "name": "Alitiki Agapi",
       "url": "https://open.spotify.com/track/4cevw8iIIMDXzI0XIEnCpv"
@@ -4793,6 +4793,32 @@
     },
     {
       "album": {
+        "name": "O Xoros Tou Fy",
+        "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169308,
+      "name": "Babygirl",
+      "url": "https://open.spotify.com/track/4fX473rG1JeefLE94o0xR0"
+    },
+    {
+      "album": {
         "name": "DELUXE",
         "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
       },
@@ -6743,6 +6769,32 @@
     },
     {
       "album": {
+        "name": "BMR",
+        "url": "https://open.spotify.com/album/6aqUwNGtWSDfJviXILNU1t"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Baby Grim",
+          "url": "https://open.spotify.com/artist/69nPV8F506jroOnHRHxG2g"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "BMR",
+      "url": "https://open.spotify.com/track/30fQrNdyIuSROmBmi3r5X0"
+    },
+    {
+      "album": {
         "name": "BMW",
         "url": "https://open.spotify.com/album/0zJYHOlumvu4VrSmXN6bl3"
       },
@@ -7348,6 +7400,28 @@
       "duration_ms": 197556,
       "name": "Breakdance",
       "url": "https://open.spotify.com/track/2jC0wVAmGQ7zRfP78eR7dn"
+    },
+    {
+      "album": {
+        "name": "BRIZA",
+        "url": "https://open.spotify.com/album/1T2xvMA0UsqcuyYz2fkuI4"
+      },
+      "artists": [
+        {
+          "name": "Loco Franco",
+          "url": "https://open.spotify.com/artist/0bZmwQpF7Rnenp3McVjVeP"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146522,
+      "name": "BRIZA",
+      "url": "https://open.spotify.com/track/5yxfR0tSXmg5LIQ7d0TX1W"
     },
     {
       "album": {
@@ -11452,7 +11526,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 156069,
       "name": "DOLCE GABBANA",
       "url": "https://open.spotify.com/track/7r0sYhhoM4hjeuCDlbCobZ"
@@ -12062,7 +12136,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 120004,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/0XJWpeTU1aE0QErb4o2jyj"
@@ -14209,6 +14283,32 @@
     },
     {
       "album": {
+        "name": "BMR",
+        "url": "https://open.spotify.com/album/6aqUwNGtWSDfJviXILNU1t"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "Baby Grim",
+          "url": "https://open.spotify.com/artist/69nPV8F506jroOnHRHxG2g"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "EUROPA LEAGUE",
+      "url": "https://open.spotify.com/track/6ddwbBcVB2eWo9tEY41osF"
+    },
+    {
+      "album": {
         "name": "Europa League",
         "url": "https://open.spotify.com/album/14xlw6EHljVqF1oCmbfmVb"
       },
@@ -14724,7 +14824,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 189333,
       "name": "Fanaria",
       "url": "https://open.spotify.com/track/6lM8wgaCtzod83yWP1BmnK"
@@ -15006,7 +15106,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 137821,
       "name": "Feggari",
       "url": "https://open.spotify.com/track/3FP3DPRN3lw2APlsamN6yk"
@@ -18378,7 +18478,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 130485,
       "name": "GRISELDA",
       "url": "https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N"
@@ -20076,7 +20176,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 168888,
       "name": "ILEGAL",
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
@@ -21551,6 +21651,32 @@
     },
     {
       "album": {
+        "name": "O Xoros Tou Fy",
+        "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195758,
+      "name": "Kalo Koritsi",
+      "url": "https://open.spotify.com/track/07AO5p4nddtCbxzvpBj3uv"
+    },
+    {
+      "album": {
         "name": "KALOKAIRI",
         "url": "https://open.spotify.com/album/2487Rk9dc5Zg0f7ohXrXMV"
       },
@@ -22192,7 +22318,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 189374,
       "name": "Kathreftis",
       "url": "https://open.spotify.com/track/5QC9BGJEiSzpGXF3Zo23Z2"
@@ -22228,7 +22354,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 164181,
       "name": "Kati Xereis",
       "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
@@ -23994,6 +24120,32 @@
       "duration_ms": 141108,
       "name": "Lamborghini Weiss",
       "url": "https://open.spotify.com/track/60zQyrq9mbhlE4YxTkudjO"
+    },
+    {
+      "album": {
+        "name": "BMR",
+        "url": "https://open.spotify.com/album/6aqUwNGtWSDfJviXILNU1t"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Baby Grim",
+          "url": "https://open.spotify.com/artist/69nPV8F506jroOnHRHxG2g"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "LAMINE YAMAL",
+      "url": "https://open.spotify.com/track/3gggLlmDcgndh3CL33TTnU"
     },
     {
       "album": {
@@ -25932,7 +26084,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 172500,
       "name": "MA BELLA",
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
@@ -26519,6 +26671,32 @@
     },
     {
       "album": {
+        "name": "O Xoros Tou Fy",
+        "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171705,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/0sh8BOMXIJxPZW1pasio6P"
+    },
+    {
+      "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
       },
@@ -26844,6 +27022,32 @@
       "duration_ms": 218270,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
+        "name": "BMR",
+        "url": "https://open.spotify.com/album/6aqUwNGtWSDfJviXILNU1t"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "Baby Grim",
+          "url": "https://open.spotify.com/artist/69nPV8F506jroOnHRHxG2g"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "MARTINEZ",
+      "url": "https://open.spotify.com/track/6fXwyGSpKTbh7ZURCqU0RP"
     },
     {
       "album": {
@@ -29932,7 +30136,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 132413,
       "name": "MPOUZOU",
       "url": "https://open.spotify.com/track/4AhFsR9WyiZK0W3eT5veP2"
@@ -33440,7 +33644,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
@@ -33678,6 +33882,32 @@
       "duration_ms": 130367,
       "name": "Para Polla",
       "url": "https://open.spotify.com/track/4vNAGErj3JZs6I56JWQQUE"
+    },
+    {
+      "album": {
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "PARADISO",
+      "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
     },
     {
       "album": {
@@ -36228,7 +36458,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 157500,
       "name": "PROVLIMA SOU",
       "url": "https://open.spotify.com/track/0Q8lbGDWM09nGS80wMjW4P"
@@ -40931,6 +41161,24 @@
     },
     {
       "album": {
+        "name": "Stoxos",
+        "url": "https://open.spotify.com/album/26Bx6GHXSUdUtYXUrUIJqX"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Stoxos",
+      "url": "https://open.spotify.com/track/5NexhGBdV6SagfdOGPFRik"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
@@ -42861,6 +43109,32 @@
     },
     {
       "album": {
+        "name": "O Xoros Tou Fy",
+        "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157009,
+      "name": "Thelw Na Se Dw",
+      "url": "https://open.spotify.com/track/4BMFeYgVz5K4LqOTzfGP0h"
+    },
+    {
+      "album": {
         "name": "Thelw Na Se Dw",
         "url": "https://open.spotify.com/album/6vTLwPmhUJKlUtNeUedsQw"
       },
@@ -42880,7 +43154,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 157009,
       "name": "Thelw Na Se Dw",
       "url": "https://open.spotify.com/track/6vSy6np4X6taAUmk8R1DTp"
@@ -43204,6 +43478,32 @@
       "duration_ms": 215797,
       "name": "Tik Tak - Mad VMA Version",
       "url": "https://open.spotify.com/track/3kT7DwQt6A9xr6jXpHL4O8"
+    },
+    {
+      "album": {
+        "name": "BMR",
+        "url": "https://open.spotify.com/album/6aqUwNGtWSDfJviXILNU1t"
+      },
+      "artists": [
+        {
+          "name": "Baby Grim",
+          "url": "https://open.spotify.com/artist/69nPV8F506jroOnHRHxG2g"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "TIKI TAKA",
+      "url": "https://open.spotify.com/track/32Wvh1qZaiZs43blFiCaDF"
     },
     {
       "album": {
@@ -46029,6 +46329,24 @@
     },
     {
       "album": {
+        "name": "VILLA",
+        "url": "https://open.spotify.com/album/23baFzwKiREF162Q0qObue"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "VILLA",
+      "url": "https://open.spotify.com/track/5b5LRNnYD5RdspYyNjI5On"
+    },
+    {
+      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/07r0WakxR92LhYYIR7Kbnb"
       },
@@ -47112,7 +47430,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 162461,
       "name": "XANA",
       "url": "https://open.spotify.com/track/0OrGmYDi04CEeIgPk6NwsV"
@@ -47426,7 +47744,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 157578,
       "name": "Xiliometra",
       "url": "https://open.spotify.com/track/2zR6FzBG3hAfZoWz7MsqT1"
@@ -47558,7 +47876,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

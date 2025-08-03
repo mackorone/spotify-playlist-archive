@@ -2031,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Pasta",
+        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194858,
+      "name": "Pasta",
+      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
+    },
+    {
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },

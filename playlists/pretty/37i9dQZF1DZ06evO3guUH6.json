@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1043158,
+  "num_followers": 1043396,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACb0AqBoYUjxmEboMSmrDZF",
+  "snapshot_id": "aIwDgAAAAADjvNpW7e99HkuNwdE4ug7a",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Que Sepas",
+      "url": "https://open.spotify.com/track/0lPSo6OtN3vPrpBaZ9YHOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 144640,
       "name": "Me Toc\u00f3 Morir",
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Que Sepas",
-      "url": "https://open.spotify.com/track/0lPSo6OtN3vPrpBaZ9YHOm"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Patroncito",
+        "url": "https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "Autor\u00edzame",
+      "url": "https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Siga La Fiesta",
         "url": "https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 235253,
       "name": "Los Lujos Del R.",
       "url": "https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Patroncito",
-        "url": "https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "Autor\u00edzame",
-      "url": "https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI"
     },
     {
       "added_at": null,

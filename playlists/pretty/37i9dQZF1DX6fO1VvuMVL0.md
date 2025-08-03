@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,049 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,122 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 32 | [Tangerine](https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR) | [Stan Kenton](https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb) | [Stan Kenton](https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8) | 9:13 |
 | 33 | [Topsy](https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:24 |
 | 34 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 |
-| 35 | [Willow Weep for Me](https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Fontessa](https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc) | 4:48 |
+| 35 | [That's the Way It Is](https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 3:51 |
 | 36 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
-| 37 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
-| 38 | [Custard Puff](https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8) | [The Poll Winners Ride Again!](https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6) | 4:24 |
-| 39 | [That's the Way It Is](https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 3:51 |
+| 37 | [Willow Weep for Me](https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Fontessa](https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc) | 4:48 |
+| 38 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
+| 39 | [Custard Puff](https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8) | [The Poll Winners Ride Again!](https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6) | 4:24 |
 | 40 | [Walkin' Out Blues](https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:56 |
 | 41 | [Kathy's Waltz](https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u) | 4:47 |
 | 42 | [Thanks For The Memory](https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Jazz Guitar](https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM) | 5:19 |

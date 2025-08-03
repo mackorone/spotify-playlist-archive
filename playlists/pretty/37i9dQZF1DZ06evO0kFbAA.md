@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,408 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,416 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 49 | [Autumn Leaves \- Instrumental Version](https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 3:01 |
 | 50 | [Menina Flor](https://open.spotify.com/track/5cD4lbcDJ5jEkar2sW2roc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 4:08 |
 
-Snapshot ID: `aIqyAAAAAAAuAzB5fbCwsdU+JNZHzVsl`
+Snapshot ID: `aIwDgAAAAABqunV4XgJHC4LFJi9waxOV`

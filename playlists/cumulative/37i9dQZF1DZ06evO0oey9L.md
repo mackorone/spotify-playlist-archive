@@ -4,7 +4,7 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-113 songs - 5 hr 38 min
+114 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Al Niño Le Gusta Lo Bueno](https://open.spotify.com/track/0osBwuy7W8a7H0HkPPTDgn) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:54 | 2022-07-23 | 2022-08-11 |
 | [Al Niño Le Gusta Lo Bueno](https://open.spotify.com/track/1c6ilYnCPdP1BiFN6qi0Dy) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:54 | 2022-08-10 | 2023-10-11 |
 | [Alex Valencia](https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:18 | 2023-10-04 |  |
+| [ALFA Y OMEGA](https://open.spotify.com/track/314qc7qcc4idg1dvP6estp) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [ALFA Y OMEGA](https://open.spotify.com/album/3wo8txPsFDPdlIIPd3ZghE) | 3:10 | 2025-08-03 |  |
 | [Arriba De Una Moto](https://open.spotify.com/track/4nkR3bV6HENhWYJ88HDhrX) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:47 | 2022-08-02 | 2022-08-05 |
 | [Arriba De Una Moto](https://open.spotify.com/track/4pNhqgKHVZ7DFRkgirEykX) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:47 | 2022-08-18 | 2022-10-08 |
 | [Barrio Xolo](https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:06 | 2024-06-30 |  |
@@ -73,7 +74,7 @@
 | [Lo Que Me Distingue](https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:16 | 2022-06-01 |  |
 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 | 2022-06-01 |  |
 | [Los de La Casa](https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2](https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg) | 4:01 | 2024-08-24 |  |
-| [Me Destapo Un Bote](https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Destapo Un Bote](https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF) | 3:00 | 2025-04-28 |  |
+| [Me Destapo Un Bote](https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Destapo Un Bote](https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF) | 3:00 | 2025-04-28 | 2025-08-03 |
 | [Me Dicen Rana y Brinco](https://open.spotify.com/track/3VJHjovNyzkOw4CUdXOp6Y) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Job Gallegos](https://open.spotify.com/artist/76lYBIbMnUBukvLlYZFGrH), [Cuadra Distante](https://open.spotify.com/artist/18YbbzNXbzfAYvguEzcQ5D) | [Me Dicen Rana y Brinco](https://open.spotify.com/album/3ecvio5Id4s2NCOHMWKFbf) | 3:08 | 2024-03-21 | 2024-09-17 |
 | [Me Prendo Un Gallito](https://open.spotify.com/track/5VE64Tvg3eS8eBhL1kKMqH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:08 | 2023-10-01 | 2024-06-01 |
 | [Me Pueden Juzgar](https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Pueden Juzgar](https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI) | 3:37 | 2022-06-01 | 2025-02-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Drake, Offset, Tyler, The Creator and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,245 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,283 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 59 | [Hold Ground](https://open.spotify.com/track/3nR5U4aZlni32tdZwWV7KB) | [Yugen Blakrok](https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x) | [The Illusion of Being \(Full Version\)](https://open.spotify.com/album/6LuzqNu5Q50oncqMuBXSK1) | 3:53 |
 | 60 | [So Sexyy \(with Sexyy Redd & YTB Fatt\)](https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Let Me Fly](https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED) | 3:22 |
 
-Snapshot ID: `aIwD3gAAAAA/6MiE7K7P2IDYcpGBwNss`
+Snapshot ID: `AAAAAPrqyCdUbo7AL+4JjK5gKna86516`

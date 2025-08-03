@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Alex Warren !
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,315 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,403 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Believe](https://open.spotify.com/track/6GM7rDq7TgtS6MEYVoyieD) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Astrid James](https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ) | [Believe](https://open.spotify.com/album/1Y6a0UOSfREIxGoCbzWl5m) | 2:41 |
 | 50 | [Les étoiles](https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Les étoiles](https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8) | 2:43 |
 
-Snapshot ID: `aIvniAAAAAA0q0GroFzzqWg+E0wVR+QL`
+Snapshot ID: `AAAAACBCV4ibAGlZp+vzLdg/lYI6CT9t`

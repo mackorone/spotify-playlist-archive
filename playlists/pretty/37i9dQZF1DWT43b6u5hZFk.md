@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT43b6u5hZFk.md) - [plain]
 
 > Listen to JENNIE's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,255 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,443 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT43b6u5hZFk.md) - [plain]
 | 29 | [One Of The Girls \- A Cappella](https://open.spotify.com/track/4oN4odRiXgTMnaAjz7kinV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:09 |
 | 30 | [One Of The Girls \- Instrumental](https://open.spotify.com/track/7zNS5065xzKyhOBMOj7pCr) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:04 |
 
-Snapshot ID: `AAAAAPnFRAxCZI9xV6UNwk/iUsjXyolz`
+Snapshot ID: `aCNCfQAAAACOxGMBbYSyxfkJB1lE3Oqt`

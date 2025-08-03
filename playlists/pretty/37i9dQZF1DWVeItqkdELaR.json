@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2025! \ud83c\udf1e",
-  "num_followers": 124218,
+  "num_followers": 124395,
   "original_name": "Ver\u00e3o 2025 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-07-25 09:40:07",
       "album": {
-        "name": "Blue Strips",
-        "url": "https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 147209,
-      "name": "Blue Strips",
-      "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
-    },
-    {
-      "added_at": "2025-07-25 09:40:07",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2025-07-25 09:40:07",
+      "album": {
+        "name": "Blue Strips",
+        "url": "https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 147209,
+      "name": "Blue Strips",
+      "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
     },
     {
       "added_at": "2025-07-25 09:40:07",

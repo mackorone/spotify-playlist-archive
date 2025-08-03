@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1077998,
+  "num_followers": 1078170,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
+        "name": "Hu Man",
+        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Hu Man",
+      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+    },
+    {
+      "added_at": "2025-08-01 15:16:49",
+      "album": {
         "name": "Ozean",
         "url": "https://open.spotify.com/album/4AFH1ZeMsq5MSwgOqYfZVv"
       },
@@ -559,18 +575,22 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
-        "name": "Hu Man",
-        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
+        "name": "L.O.V.E.U (feat. hannah bahng)",
+        "url": "https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "hannah bahng",
+          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Hu Man",
-      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+      "duration_ms": 199923,
+      "name": "L.O.V.E.U (feat. hannah bahng)",
+      "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
     },
     {
       "added_at": "2025-08-01 15:16:49",
@@ -851,6 +871,26 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7"
+      },
+      "artists": [
+        {
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
+        },
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 238250,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt"
+    },
+    {
+      "added_at": "2025-08-01 15:16:49",
+      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
@@ -903,22 +943,6 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
-        "name": "Morning Birds",
-        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Morning Birds",
-      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
-    },
-    {
-      "added_at": "2025-08-01 15:16:49",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -931,6 +955,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2025-08-01 15:16:49",
+      "album": {
+        "name": "Morning Birds",
+        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Morning Birds",
+      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
     },
     {
       "added_at": "2025-08-01 15:16:49",
@@ -951,22 +991,6 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
-        "name": "tonight",
-        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
-      },
-      "artists": [
-        {
-          "name": "BEACHPEOPLE",
-          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
-        }
-      ],
-      "duration_ms": 164477,
-      "name": "tonight",
-      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
-    },
-    {
-      "added_at": "2025-08-01 15:16:49",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
       },
@@ -983,6 +1007,22 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
+    },
+    {
+      "added_at": "2025-08-01 15:16:49",
+      "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
+      },
+      "artists": [
+        {
+          "name": "BEACHPEOPLE",
+          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
+        }
+      ],
+      "duration_ms": 164477,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
     },
     {
       "added_at": "2025-08-01 15:16:49",
@@ -1247,26 +1287,6 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
-        "name": "Personally",
-        "url": "https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7"
-      },
-      "artists": [
-        {
-          "name": "Kamran Khan",
-          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
-        },
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 238250,
-      "name": "Personally",
-      "url": "https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt"
-    },
-    {
-      "added_at": "2025-08-01 15:16:49",
-      "album": {
         "name": "Same Vibes",
         "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
       },
@@ -1347,22 +1367,6 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
-        "name": "Swedish Girl",
-        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 153937,
-      "name": "Swedish Girl",
-      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
-    },
-    {
-      "added_at": "2025-08-01 15:16:49",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -1375,6 +1379,22 @@
       "duration_ms": 154106,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2025-08-01 15:16:49",
+      "album": {
+        "name": "Swedish Girl",
+        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 153937,
+      "name": "Swedish Girl",
+      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
     },
     {
       "added_at": "2025-08-01 15:16:49",
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
-        "name": "Airplanes",
-        "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ferdinand",
-          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
-        }
-      ],
-      "duration_ms": 157232,
-      "name": "Airplanes",
-      "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
-    },
-    {
-      "added_at": "2025-08-01 15:16:49",
-      "album": {
         "name": "eat some pasta",
         "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
       },
@@ -1459,6 +1463,22 @@
       "duration_ms": 141762,
       "name": "eat some pasta",
       "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
+    },
+    {
+      "added_at": "2025-08-01 15:16:49",
+      "album": {
+        "name": "Airplanes",
+        "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ferdinand",
+          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+        }
+      ],
+      "duration_ms": 157232,
+      "name": "Airplanes",
+      "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
     },
     {
       "added_at": "2025-08-01 15:16:49",
@@ -1607,22 +1627,6 @@
     {
       "added_at": "2025-08-01 15:16:49",
       "album": {
-        "name": "cupped and open",
-        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "cupped and open",
-      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
-    },
-    {
-      "added_at": "2025-08-01 15:16:49",
-      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd"
       },
@@ -1639,6 +1643,22 @@
       "duration_ms": 192989,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
+    },
+    {
+      "added_at": "2025-08-01 15:16:49",
+      "album": {
+        "name": "cupped and open",
+        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "cupped and open",
+      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
     },
     {
       "added_at": "2025-08-01 15:16:49",
@@ -1687,22 +1707,6 @@
       "duration_ms": 187795,
       "name": "maybe",
       "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
-    },
-    {
-      "added_at": "2025-08-01 15:16:49",
-      "album": {
-        "name": "born in the teens",
-        "url": "https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 193017,
-      "name": "Heartache in July",
-      "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
     },
     {
       "added_at": "2025-08-01 15:16:49",

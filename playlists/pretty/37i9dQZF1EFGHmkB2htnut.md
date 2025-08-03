@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 196 likes - 107 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 15 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 |
 | 16 | [Violets](https://open.spotify.com/track/1H3uwddeEsvOC3liO3fkr6) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/0Mhp4SyUouTZNPDG1fphwd) | 1:55 |
 | 17 | [Forget I Exist](https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Forget I Exist](https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN) | 2:52 |
-| 18 | [Catch My Breath](https://open.spotify.com/track/4aha3sFO6kTx0Jq4Fp5b3y) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:12 |
-| 19 | [Heaven Without You](https://open.spotify.com/track/4CeXqDnd36kBb2j88h67it) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:22 |
+| 18 | [Heaven Without You](https://open.spotify.com/track/4CeXqDnd36kBb2j88h67it) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:22 |
+| 19 | [Catch My Breath](https://open.spotify.com/track/4aha3sFO6kTx0Jq4Fp5b3y) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:12 |
 | 20 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
 | 21 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 |
 | 22 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 62 | [Crystal Ball](https://open.spotify.com/track/0cSR99V12UxUaaMPXXHlOJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Promised Land](https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi) | 2:53 |
 | 63 | [Heartbreak Hangover](https://open.spotify.com/track/4nEmjzru7UcuqtXQuCVgBb) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [Heartbreak Hangover](https://open.spotify.com/album/7t7gZelBweppkMgJ1ZabEN) | 2:34 |
 | 64 | [She's In My Head](https://open.spotify.com/track/0swlg3v0DppHwg2AbvylDy) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 2:59 |
-| 65 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 |
-| 66 | [Dream About Me](https://open.spotify.com/track/00BZXsteCnYMruwTd6SA7k) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Helium](https://open.spotify.com/album/6cxtD6ptyhmRvy2ILNeSdz) | 2:32 |
+| 65 | [Dream About Me](https://open.spotify.com/track/00BZXsteCnYMruwTd6SA7k) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Helium](https://open.spotify.com/album/6cxtD6ptyhmRvy2ILNeSdz) | 2:32 |
+| 66 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 |
 | 67 | [Fear & Intuition](https://open.spotify.com/track/6JBe0jbElDuI62Cbb0JOJm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 2:54 |
 | 68 | [Somebody Cooked Here](https://open.spotify.com/track/6AygFa26d4G7tQVvrsAXIE) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Somebody Cooked Here](https://open.spotify.com/album/4gUqrMCs7AZOzDVS2jENpk) | 2:59 |
 | 69 | [Lost On Me \- Reimagined](https://open.spotify.com/track/783P4OcjGqWZ19UzbwM9pc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again \(Reimagined\)](https://open.spotify.com/album/1mxmhMl4c0XkNuLABh3KPR) | 3:28 |
@@ -108,5 +108,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 98 | [Paradise \(with will hyde\)](https://open.spotify.com/track/02GWxnELAR1fX56wUhDXgY) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl), [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Paradise \(with will hyde\)](https://open.spotify.com/album/70vurhysvs82MKdtczzUBX) | 3:08 |
 | 99 | [Swim](https://open.spotify.com/track/4eSGI45RAwuRGtKxg0IYSz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:22 |
 | 100 | [Spirits](https://open.spotify.com/track/7IG441XUq2Ci8e25ldND7y) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Spirits / Don’t Come to LA](https://open.spotify.com/album/2UU7XKlKhu0xvyj3Hvxzkt) | 2:47 |
+| 101 | [Quiet Games](https://open.spotify.com/track/0ZdMzT9HCbCyaNc20glcWY) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Quiet Games](https://open.spotify.com/album/5OfVx1fLaU0MpxnKic9HOf) | 3:08 |
+| 102 | [Hollywood Blvd](https://open.spotify.com/track/7uPT70qnevznWJPDyagERP) | [Celine del Carmen](https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3) | [Hollywood Blvd](https://open.spotify.com/album/6UY6KsTCaBaqZctMgSDggD) | 2:40 |
+| 103 | [Rollercoaster](https://open.spotify.com/track/0zfSnoHAtnVw4k8OfL0h8P) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Rollercoaster](https://open.spotify.com/album/5xlEdoNb8infZZohPde7IB) | 3:12 |
+| 104 | [Body](https://open.spotify.com/track/6TxdL7j5jWhXYCDlutG8gm) | [Paige Howell](https://open.spotify.com/artist/07mNuM3dompkJvQog0f8n1) | [Body](https://open.spotify.com/album/3OAXcAosWkfGQSlZpNuy3z) | 3:06 |
+| 105 | [Hey Seventeen](https://open.spotify.com/track/2kgyTEylub11rjvxOUjdhX) | [Henry Patterson](https://open.spotify.com/artist/7ag9fFv8ZHKcjh4w5J4p6P) | [The Heavy Kinda Feeling EP](https://open.spotify.com/album/09aNITIqqQVM6WDtLq1UPA) | 2:56 |
+| 106 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
+| 107 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `Ab4XagAAAADPQpa0Xl2tp6rYCBl3Q5Sp`
+Snapshot ID: `Ab4dRgAAAACkG/DFnwqRQj2he5hTUjvf`

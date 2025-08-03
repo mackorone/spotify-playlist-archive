@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/2t75yVW2goLISHzJ5hJlZU"
+      },
+      "artists": [
+        {
+          "name": "Endspiel",
+          "url": "https://open.spotify.com/artist/35m8HjyHmGQxAKfIBVHZpF"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163960,
+      "name": "10",
+      "url": "https://open.spotify.com/track/799bsi80kqvmPbyffNo0t5"
+    },
+    {
+      "album": {
         "name": "10:13",
         "url": "https://open.spotify.com/album/03imWZkKnDD7RwAq1pwoUh"
       },
@@ -4514,7 +4532,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 116052,
       "name": "No Gletcher Gang 2",
       "url": "https://open.spotify.com/track/0nXNsOS6gKYKS6pdoTBeHR"
@@ -5146,7 +5164,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -6751,6 +6769,24 @@
     },
     {
       "album": {
+        "name": "welcome to forever",
+        "url": "https://open.spotify.com/album/77gELhxARvEp3QeI9CHTPw"
+      },
+      "artists": [
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "welcome to forever",
+      "url": "https://open.spotify.com/track/1aUdxA82tU5bBEnG2H0Jn7"
+    },
+    {
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -7144,7 +7180,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 178296,
       "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
@@ -7784,7 +7820,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 186923,
       "name": "\u0412\u0418\u041f",
       "url": "https://open.spotify.com/track/3Wj0KTXBcXoaWrpLcb4qum"
@@ -7832,7 +7868,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 61426,
       "name": "\u0432\u0438\u0441\u043a\u0438 \u0441 \u043c\u043e\u043b\u043e\u043a\u043e\u043c",
       "url": "https://open.spotify.com/track/1JYcDkXdWTPKdVU1S82UHO"
@@ -8150,7 +8186,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 104026,
       "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
       "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
@@ -9138,7 +9174,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 77037,
       "name": "\u041a\u0430\u0442\u044e\u0445\u0430",
       "url": "https://open.spotify.com/track/3Fdo0fNzj2QnPU1SgsNHcV"
@@ -9200,7 +9236,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 185164,
       "name": "\u041a\u043b\u0435\u043e\u043f\u0430\u0442\u0440\u0438",
       "url": "https://open.spotify.com/track/5TEYAw98yTZlpsvIJc7wq8"
@@ -9774,7 +9810,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 120397,
       "name": "\u043c\u0438\u043b\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0448\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/0BryMsuHUY9EK5wC45PggL"
@@ -9886,6 +9922,24 @@
       "duration_ms": 217607,
       "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b\u0438\u044f",
       "url": "https://open.spotify.com/track/2A2ltYcfg98g2oUkW1Xl86"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u0440\u0435",
+        "url": "https://open.spotify.com/album/2yVftizvvFoj0mnzNnzvei"
+      },
+      "artists": [
+        {
+          "name": "Egor Kreed",
+          "url": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146052,
+      "name": "\u041c\u043e\u0440\u0435",
+      "url": "https://open.spotify.com/track/0yxdxf29fhkW9L0FIjJF6r"
     },
     {
       "album": {
@@ -11256,7 +11310,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 173958,
       "name": "\u041f\u0440\u043e\u043d\u0438\u043a\u043b\u0430\u0441\u044c \u043c\u043d\u043e\u0439",
       "url": "https://open.spotify.com/track/5qC3bVpPy0yTIh3R7xhzEI"
@@ -13260,7 +13314,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 98029,
       "name": "\u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv"

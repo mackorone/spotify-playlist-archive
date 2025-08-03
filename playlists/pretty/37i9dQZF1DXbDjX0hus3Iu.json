@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 526893,
+  "num_followers": 526951,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Georgia Satellites",
+        "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Satellites",
+          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Battleship Chains",
+      "url": "https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Ain't Life Grand",
         "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 376666,
       "name": "Gator Country",
       "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Georgia Satellites",
-        "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
-      },
-      "artists": [
-        {
-          "name": "The Georgia Satellites",
-          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "Battleship Chains",
-      "url": "https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A"
+        "name": "Alligator Stew",
+        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
       },
       "artists": [
         {
-          "name": "Jimmie Van Zant Band",
-          "url": "https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C"
+          "name": "Alligator Stew",
+          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
         }
       ],
-      "duration_ms": 323268,
-      "name": "Southern Comfort",
-      "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
+      "duration_ms": 240066,
+      "name": "Two Wheels",
+      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Alligator Stew",
-        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A"
       },
       "artists": [
         {
-          "name": "Alligator Stew",
-          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
+          "name": "Jimmie Van Zant Band",
+          "url": "https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Two Wheels",
-      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
+      "duration_ms": 323268,
+      "name": "Southern Comfort",
+      "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Marshall Tucker Band",
-        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "You Are Here",
         "url": "https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 252447,
       "name": "RISE OF THE REBEL",
       "url": "https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Searchin' for a Rainbow",
-        "url": "https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Fire on the Mountain",
-      "url": "https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Dark Side of the Mule (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Searchin' for a Rainbow",
+        "url": "https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Fire on the Mountain",
+      "url": "https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Marshall Tucker Band",
-        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 375600,
-      "name": "Take the Highway",
-      "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Shake Hands With Shorty",
         "url": "https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 248960,
       "name": "Shake 'Em On Down",
       "url": "https://open.spotify.com/track/0c89AX1OJlQM22def9hr0n"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 375600,
+      "name": "Take the Highway",
+      "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Where a Country Boy Belongs",
-        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "The Deep End Vol. 1",
         "url": "https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 467800,
       "name": "Soulshine",
       "url": "https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Where a Country Boy Belongs",
+        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Heard It in a Love Song",
+      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
     },
     {
       "added_at": "2025-06-20 04:06:02",

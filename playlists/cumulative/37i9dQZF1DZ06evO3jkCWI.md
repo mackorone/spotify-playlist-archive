@@ -4,7 +4,7 @@
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 42 min
+96 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aguanta Corazón](https://open.spotify.com/track/6E5gZOwEMVED0hNBeaTu9k) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:16 | 2022-06-01 |  |
 | [Alfredo Galeana](https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:17 | 2022-06-25 |  |
 | [Amor A La Ligera](https://open.spotify.com/track/33AAdwr1js1SESHflZAlTD) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 2:23 | 2022-06-09 | 2023-04-25 |
-| [Amor A La Ligera](https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:24 | 2023-04-26 |  |
+| [Amor A La Ligera](https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:24 | 2023-04-26 | 2025-08-03 |
 | [Animas Que No Amanezca](https://open.spotify.com/track/3jtQaK6DFeiRhNbdwp86U0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Bajo Mil Llaves](https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq) | 3:00 | 2022-08-22 | 2022-08-24 |
 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 | 2022-06-01 |  |
 | [Bajo Mil Llaves](https://open.spotify.com/track/0yBSM7wXqyFHiJbNVI9jHR) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 2:29 | 2022-06-01 | 2023-03-20 |
@@ -70,6 +70,7 @@
 | [Nada Contigo](https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:46 | 2022-06-01 | 2023-06-24 |
 | [Ni Amores Ni Deudas](https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [10+10](https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY) | 2:26 | 2022-12-24 | 2023-12-14 |
 | [Ni Dada La Quiero](https://open.spotify.com/track/4AplGNlqrFDyxkCM27gSCl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:05 | 2022-06-01 |  |
+| [Ni Que Tuvieras Tanta Suerte](https://open.spotify.com/track/72jGlGdhSiCHhwAdRbDPXA) | [Explosion Nortena](https://open.spotify.com/artist/3iAoPIsx4h1blFVmNMSJG9), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Que Tuvieras Tanta Suerte](https://open.spotify.com/album/513ie7iLGv8o3ZS7T9BEMz) | 3:02 | 2025-08-03 |  |
 | [Ni Que Tuvieras Tanta Suerte](https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Señal De Alerta](https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq) | 2:45 | 2022-06-01 |  |
 | [No Lloraré](https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 2:54 | 2022-06-08 |  |
 | [No Sé Qué Pasa](https://open.spotify.com/track/5YmbEstKMg7zofgLXvbSAN) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [No Sé Qué Pasa](https://open.spotify.com/album/1HCrI1y6xGB7HPrfB4Tt6f) | 3:02 | 2023-09-25 | 2023-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > Iconic indie tunes from your favourite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,031 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,043 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 20 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
 | 21 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
 | 22 | [A Real Hero](https://open.spotify.com/track/6ei4QrpcciclGH593uHKo8) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b), [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6) | [Innerworld \(Deluxe Edition\)](https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK) | 4:27 |
-| 23 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
-| 24 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
+| 23 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
+| 24 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
 | 25 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 26 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
 | 27 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 46 | [The Yeah Yeah Yeah Song](https://open.spotify.com/track/2mlIzqDE7RaMaMx1UPdsXL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War With the Mystics](https://open.spotify.com/album/4HAqJpa6YWefRXdLVpk5S6) | 3:52 |
 | 47 | [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/7kWZqFgngoi8c3Bbjh3Csr) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/5CDQad1DaBcIZWTb99FXrb) | 3:57 |
 | 48 | [Lean \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/2wdRWIsv9QnDFO9trsniXw) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 4:31 |
-| 49 | [Lights \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/0hqh8M4ttzlNsQYHlIeEhr) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:45 |
-| 50 | [Sugar Mouse](https://open.spotify.com/track/2IDBZcXE4et3InW8KdQDeU) | [Oh, Atoms](https://open.spotify.com/artist/22IO5CtzZfPBbstfLyg74h) | [You Can't See The Stars From Here](https://open.spotify.com/album/0hULqk8gjSuTXlNJuAPkco) | 4:13 |
+| 49 | [Sugar Mouse](https://open.spotify.com/track/2IDBZcXE4et3InW8KdQDeU) | [Oh, Atoms](https://open.spotify.com/artist/22IO5CtzZfPBbstfLyg74h) | [You Can't See The Stars From Here](https://open.spotify.com/album/0hULqk8gjSuTXlNJuAPkco) | 4:13 |
+| 50 | [Lights \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/0hqh8M4ttzlNsQYHlIeEhr) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:45 |
 
 Snapshot ID: `Zo3ETAAAAACyJqCkTizL++U1b/0NkWz2`

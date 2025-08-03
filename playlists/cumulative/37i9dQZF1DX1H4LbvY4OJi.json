@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "A Song To Sing",
+        "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179928,
+      "name": "A Song To Sing",
+      "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
+    },
+    {
+      "album": {
         "name": "A-O-K",
         "url": "https://open.spotify.com/album/6MGSAlP80JS800sXlYroNG"
       },
@@ -17534,7 +17556,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 153664,
       "name": "TOO BAD",
       "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"

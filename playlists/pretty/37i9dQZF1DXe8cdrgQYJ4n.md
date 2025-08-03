@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,163 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,165 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 9 | [Boys Like You](https://open.spotify.com/track/3VZYMT2OSYxCKPjXCRNgUb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/4iL0sqHuipLrqy4y8HRYsZ) | 3:43 |
 | 10 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 |
 | 11 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 |
-| 12 | [IDOL](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:42 |
+| 12 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
 | 13 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 |
-| 14 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
+| 14 | [IDOL](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:42 |
 | 15 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
 | 16 | [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 |
 | 17 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 |
-| 18 | [Burning Up \(Fire\)](https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:23 |
-| 19 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 |
+| 18 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 |
+| 19 | [Burning Up \(Fire\)](https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:23 |
 | 20 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
 | 21 | [Pierrot](https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:50 |
 | 22 | [My World](https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 1:47 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 33 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
 | 34 | [Thank U](https://open.spotify.com/track/5byscDL6SmZhKr8MbcoJcb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:11 |
 | 35 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 |
-| 36 | [Don't Recall](https://open.spotify.com/track/4b1sQpvL7QVgamRZ74F1oA) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [K.A.R.D Project Vol.2 "Don't Recall"](https://open.spotify.com/album/4wTkdR3v9qFdRuCf2hpBZn) | 3:28 |
-| 37 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 |
+| 36 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 |
+| 37 | [Don't Recall](https://open.spotify.com/track/4b1sQpvL7QVgamRZ74F1oA) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [K.A.R.D Project Vol.2 "Don't Recall"](https://open.spotify.com/album/4wTkdR3v9qFdRuCf2hpBZn) | 3:28 |
 | 38 | [Just Another Girl](https://open.spotify.com/track/3Oi1pDSYLVkz3i8jOXaQdt) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:04 |
 | 39 | [Pose](https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:20 |
 | 40 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 45 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 |
 | 46 | [End Better \(Feat\. Skinny Brown\)](https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [TOAST](https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ) | 3:43 |
 | 47 | [S.A.D](https://open.spotify.com/track/4m5fpN1QBvFPepYfmnXoa0) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/4AvTCepiyBgj75o8ldFp6M) | 3:36 |
-| 48 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 |
-| 49 | [Honestly](https://open.spotify.com/track/2EfxJsXgoiilZGIXCGjKHI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/1eeN3nhiJ2qg8sRSrAc43n) | 3:14 |
+| 48 | [Honestly](https://open.spotify.com/track/2EfxJsXgoiilZGIXCGjKHI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/1eeN3nhiJ2qg8sRSrAc43n) | 3:14 |
+| 49 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 |
 | 50 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 |
 | 51 | [Goddess Level](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:11 |
 | 52 | [Let It](https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:04 |

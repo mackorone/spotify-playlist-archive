@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,248 likes - 174 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,307 likes - 174 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 4 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 |
 | 5 | [Cheap Thrills](https://open.spotify.com/track/5sVPpYTMUQuKL0jC4lQWWO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:28 |
 | 6 | [Good Luck, Babe!](https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2024](https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk) | 3:36 |
-| 7 | [Ordinary](https://open.spotify.com/track/1ee3ZlT2VQEUuNdsd4jiI9) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Ordinary](https://open.spotify.com/album/7JbHdiHzFR2tdz7s7DiZhr) | 3:23 |
+| 7 | [Ordinary \- Solo Piano Version](https://open.spotify.com/track/1ee3ZlT2VQEUuNdsd4jiI9) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Ordinary](https://open.spotify.com/album/7JbHdiHzFR2tdz7s7DiZhr) | 3:23 |
 | 8 | [All I Ask](https://open.spotify.com/track/5lORjRKywwKPX1kwgVHKYq) | [Adele Adkins](https://open.spotify.com/artist/6HZ5IH5ksF7cs4mg0HQlSN), [Brody Brown](https://open.spotify.com/artist/0aXiHgA8ucn4HJsLiCYvdW), [Peter Gene Hernandez](https://open.spotify.com/artist/3CUvr9w49GAFsfIMb9V7ei), [Philip Lawrence](https://open.spotify.com/artist/45wuKcOpGlFuFWdWuBFfkO), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [All I Ask](https://open.spotify.com/album/0KfDMGahV1xG8oCTJnIo9b) | 4:39 |
 | 9 | [Thinkin Bout You](https://open.spotify.com/track/3wMVL7iZdvszycJRjf3B5u) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Frank Ocean](https://open.spotify.com/album/5avXjcLakcGZFsVSDfE4m3) | 3:09 |
 | 10 | [Heart of Gold \(Arr\. Piano\)](https://open.spotify.com/track/4iUb4kUyV4VucgELIMKmNw) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Glastonbury Vol\. 2](https://open.spotify.com/album/0FtyxCPmEyhrOoy8X5tPtC) | 3:09 |

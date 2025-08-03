@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[](https://open.spotify.com/user/null) - 362 likes - 167 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 167 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 79 | [Awesome](https://open.spotify.com/track/0L53Abm07SniogTRH1CoqC) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [Semicolon & Parentheses \(Deluxe\)](https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS) | 2:56 |
 | 80 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 |
 | 81 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 |
-| 82 | [All Because of You](https://open.spotify.com/track/12vl4hGCWCw2JR36kj7rrk) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:33 |
-| 83 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
+| 82 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
+| 83 | [All Because of You](https://open.spotify.com/track/12vl4hGCWCw2JR36kj7rrk) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:33 |
 | 84 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 |
 | 85 | [Sober Up](https://open.spotify.com/track/2toGngwDUb3uo2reQ9dOGS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 2:49 |
 | 86 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 133 | [Ghost Of Us](https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:15 |
 | 134 | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH) | 3:17 |
 | 135 | [indigo](https://open.spotify.com/track/6Uj38GEXvpKQFjkU0bv1Im) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:42 |
-| 136 | [Patience](https://open.spotify.com/track/0fiYCjGZnZJeTJhuSbvgfC) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Fall 2019](https://open.spotify.com/album/16G3DKTEfM3xPcA09B0Igk) | 2:42 |
-| 137 | [Choose Me](https://open.spotify.com/track/3qDAy2y8zRVRNat05q8oDN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:21 |
+| 136 | [Choose Me](https://open.spotify.com/track/3qDAy2y8zRVRNat05q8oDN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:21 |
+| 137 | [Patience](https://open.spotify.com/track/0fiYCjGZnZJeTJhuSbvgfC) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Fall 2019](https://open.spotify.com/album/16G3DKTEfM3xPcA09B0Igk) | 2:42 |
 | 138 | [closer to thirty](https://open.spotify.com/track/5XL8G3q7SK2HLagmg9d2Y2) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [could the grass be greener](https://open.spotify.com/album/6OIa4oByf8NH0vfKTfM9bX) | 2:24 |
 | 139 | [All My Ex's](https://open.spotify.com/track/1D9HySmrMmDpnO09YULRKn) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [All My Ex's](https://open.spotify.com/album/2pldgbDknZppba2I0qhQyS) | 2:24 |
 | 140 | [Die For Me](https://open.spotify.com/track/1Ccf57DxueCpaJ85Rx7LDV) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:57 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 166 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 | 167 | [indica](https://open.spotify.com/track/3fvn8a0X0yOdXSi25fYPME) | [jesse](https://open.spotify.com/artist/6BtIpll353jdO2Zv8YPVsT) | [kat](https://open.spotify.com/album/3SR1oVf3c8rqN74VyzI400) | 1:49 |
 
-Snapshot ID: `Ab4XagAAAABCnqWRZhqXKCkAel8IQn9c`
+Snapshot ID: `Ab4dRgAAAAC04/86pAei1zwU/lpLbXW2`

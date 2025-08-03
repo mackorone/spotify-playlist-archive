@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! babas tutsipop en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,952 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,954 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,18 +61,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 51 | [Prayer in C](https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Prayer in C](https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3) | 2:42 |
 | 52 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 53 | [Secuaz \- Noches de Salón](https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Secuaz \(Noches de Salón\)](https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD) | 3:57 |
-| 54 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuando Te Dejan De Querer](https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0) | 2:35 |
-| 55 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
-| 56 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
+| 54 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
+| 55 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuando Te Dejan De Querer](https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0) | 2:35 |
+| 56 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 57 | [Que nadie me llore](https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Que nadie me llore](https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ) | 3:30 |
 | 58 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 |
-| 59 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
-| 60 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
+| 59 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
+| 60 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
 | 61 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
 | 62 | [Por no bailar contigo](https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Por no bailar contigo](https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U) | 3:08 |
 | 63 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
-| 64 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
-| 65 | [AL100](https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [AL100](https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS) | 3:09 |
+| 64 | [AL100](https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [AL100](https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS) | 3:09 |
+| 65 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
 | 66 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 |
 | 67 | [Ahí Estás](https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Ahí Estás](https://open.spotify.com/album/5F8l7jRSbB4C0AASTG4A9h) | 3:16 |
 | 68 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 |

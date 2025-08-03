@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mac DeMarco
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 8,533 likes - 82 songs - 5 hr 4 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 8,532 likes - 82 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

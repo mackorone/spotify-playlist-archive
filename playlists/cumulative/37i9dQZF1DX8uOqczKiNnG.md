@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Alguien Más en Quien Confiar \- '74 Single Version](https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 4:02 | 2024-06-12 |  |
+| [Alguien Más en Quien Confiar \- '74 Single Version](https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 4:02 | 2024-06-12 | 2025-08-03 |
 | [Amigo](https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Inolvidables](https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl) | 3:28 | 2020-03-13 |  |
 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 | 2024-03-25 |  |
 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 | 2024-06-12 | 2025-03-03 |
@@ -26,7 +26,7 @@
 | [El Anillo del Capitán Beto](https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY) | [Invisible](https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1) | [El Jardin de los Presentes](https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ) | 5:06 | 2020-03-13 |  |
 | [El Extraño del Pelo Largo](https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt) | [La Joven Guardia](https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy) | [La Joven Guardia Cronología \- El Extraño del Pelo Largo \(1969\)](https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD) | 2:46 | 2024-03-25 |  |
 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 | 2024-03-25 |  |
-| [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 | 2024-03-25 | 2025-05-10 |
+| [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 | 2024-03-25 |  |
 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 | 2024-03-25 |  |
 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 | 2020-03-13 | 2024-04-19 |
 | [En El Hospicio](https://open.spotify.com/track/21ywJkUEm6UqevAYE8gTXB) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [El Album](https://open.spotify.com/album/5kt3IW5sMQZSqknVBh1UOC) | 3:40 | 2024-03-25 |  |

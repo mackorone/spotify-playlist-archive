@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: RIO, 52Hz
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,627 likes - 52 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,661 likes - 52 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 51 | [Em Không Trách Anh Đâu](https://open.spotify.com/track/1J93Qw4I6chdCb4yY6dlzG) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx), [DANMY](https://open.spotify.com/artist/5PmlctqlVDrRrF8WNLSgva) | [Em Không Trách Anh Đâu](https://open.spotify.com/album/3TA8H7aZObqgwvl1JkS7Iu) | 4:41 |
 | 52 | [1000 Ánh Mắt](https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Lặng](https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN) | 2:32 |
 
-Snapshot ID: `AAAAAF+3BxwiFE/DbvWZlp36898ocz8E`
+Snapshot ID: `aIcMmwAAAADm6RHBDXfkn6sgDvI9JHnd`

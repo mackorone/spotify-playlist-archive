@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > All the essentials of Pop\-Punk
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 10,128 likes - 100 songs - 5 hr 25 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 10,127 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,30 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 98 | [Jaded \(These Years\) \(feat\. Benji Madden\)](https://open.spotify.com/track/4Q5vRBNZY9dcBrUhJGOpVQ) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Benji Madden](https://open.spotify.com/artist/6l5sHFQQoaknd4dEepYQgJ) | [Mest \(U.S\. PA Version\)](https://open.spotify.com/album/2rw15Pz0kvQIkwtHADkRpw) | 3:10 |
 | 99 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
 | 100 | [Say Anything \(Else\)](https://open.spotify.com/track/6HV8ufhj3yJZjM29wxBxrB) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Chroma](https://open.spotify.com/album/7AZkUgupOwkMUjOtMMZ6OZ) | 3:49 |
+| 101 | [My Eyes Burn](https://open.spotify.com/track/1R9eK0NXBXFHDeBYIAWPIM) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Stories And Alibis](https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL) | 4:19 |
+| 102 | [STAY GOLD](https://open.spotify.com/track/7ywdx2JXEXLcgcikp8JdLu) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/0rYPzkmlT8dCv1gJMmmG86) | 2:00 |
+| 103 | [Congratulations Smack + Katy](https://open.spotify.com/track/3FanhbTW474nNzcW1BZ6MJ) | [Reggie And The Full Effect](https://open.spotify.com/artist/5XURjhDMRoF4vrSAJj8vIN) | [Under the Tray](https://open.spotify.com/album/3K0IIcciL2se8baUFsXJz1) | 2:28 |
+| 104 | [Action & Action](https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:05 |
+| 105 | [Where Have You Been?](https://open.spotify.com/track/2gU62OjtnFS3M2XVNEYC2Y) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Cheer Up!](https://open.spotify.com/album/4NnZ9iFQA6jQFMySPjQCJQ) | 4:00 |
+| 106 | [Swing, Swing](https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 3:53 |
+| 107 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
+| 108 | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:10 |
+| 109 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
+| 110 | [Be My Escape](https://open.spotify.com/track/3Vi93V7o1tT28Cut4gSWi3) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/3cJE7FR4nYlCE00wqqRcQi) | 4:00 |
+| 111 | [Carousel \- Live/1999](https://open.spotify.com/track/744DXUQorqDw1S5cywaXvm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [The Mark, Tom And Travis Show \(The Enema Strikes Back!\) \[Live\]](https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz) | 3:38 |
+| 112 | [The Bitch Song](https://open.spotify.com/track/3E9byN5yXXYcUKfhr3p2tN) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Let's Do It For Johnny](https://open.spotify.com/album/48TBMDUhS21mC56lyLHs46) | 3:23 |
+| 113 | [Falling Apart](https://open.spotify.com/track/5bsJbow5ouEx8bHJRr54Ky) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 3:09 |
+| 114 | [Somewhere On Fullerton](https://open.spotify.com/track/4HAWq1kBDMLSNq5UHWD7rH) | [Allister](https://open.spotify.com/artist/6Bygk8YvDJTfJSuY5ccUJH) | [Last Stop Suburbia](https://open.spotify.com/album/1t2IVj20Ulx0WqRHA9sXec) | 2:39 |
+| 115 | [So Bright \(Stand Up\) \- Last One Picked Album Version](https://open.spotify.com/track/648i9FC3sv5rsrBfueesH0) | [Superchick](https://open.spotify.com/artist/0TeuSnc3TJ2P2Vn8UOgovp) | [Last One Picked](https://open.spotify.com/album/35EOpJEovrMzyQxdtyLp29) | 4:05 |
+| 116 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
+| 117 | [True Believers](https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 2:30 |
+| 118 | [Every Man has a Molly](https://open.spotify.com/track/0ejUFFiCGm9saVFAirRSuw) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Is a Real Boy](https://open.spotify.com/album/6V00weqCQp55eUDYewW1cG) | 3:05 |
+| 119 | [If You C Jordan](https://open.spotify.com/track/7f7KK4ErZ2IpXgzYbZD7IR) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 4:15 |
+| 120 | [Punk Rock Girls](https://open.spotify.com/track/4ZwtXJ1zcIrEmBLUqeZuiu) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Don't Back Down](https://open.spotify.com/album/52A7Ok6GsQPApg88V4UiHq) | 2:42 |
+| 121 | [Pathetic](https://open.spotify.com/track/3DuH3vgKy6oqhgesvbH1ZC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:28 |
+| 122 | [Nice Guys Finish Last](https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:48 |
+| 123 | [Holly Hox, Forget Me Nots](https://open.spotify.com/track/7MmwOzmdhoHMbq86azsbB4) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Through Being Cool](https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo) | 2:37 |
+| 124 | [Tomorrow](https://open.spotify.com/track/6qBrsNl546hRQXPDNq9qZ1) | [Home Grown](https://open.spotify.com/artist/4EasYyQ8WcUJYIxqe0dRqY) | [Kings Of Pop](https://open.spotify.com/album/5CCklbd2sBVAw1TP6zOYIJ) | 3:24 |
+| 125 | [Face Or Kneecaps](https://open.spotify.com/track/11AHrbKNZa3AFRJ5uFCUXr) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [Forty Hour Train Back To Penn](https://open.spotify.com/album/5icS1bVHFO9rlBcxVOzljy) | 3:10 |
 
 Snapshot ID: `AAAOYBhE0lnU7Y7B3nkcNEzO18ls2Z4E`

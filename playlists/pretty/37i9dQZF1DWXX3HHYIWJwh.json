@@ -1,6 +1,6 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 104742,
+  "num_followers": 104760,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,18 @@
     {
       "added_at": "2025-07-24 15:00:14",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "The Star Chapter: TOGETHER",
+        "url": "https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+      "duration_ms": 138108,
+      "name": "Beautiful Strangers",
+      "url": "https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw"
     },
     {
       "added_at": "2025-07-24 15:00:14",
@@ -223,18 +223,18 @@
     {
       "added_at": "2025-07-24 15:00:14",
       "album": {
-        "name": "The Star Chapter: TOGETHER",
-        "url": "https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 138108,
-      "name": "Beautiful Strangers",
-      "url": "https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw"
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "added_at": "2025-07-24 15:00:14",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-07-24 15:00:14",
       "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
-    },
-    {
-      "added_at": "2025-07-24 15:00:14",
-      "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 211786,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
+    },
+    {
+      "added_at": "2025-07-24 15:00:14",
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
     },
     {
       "added_at": "2025-07-24 15:00:14",

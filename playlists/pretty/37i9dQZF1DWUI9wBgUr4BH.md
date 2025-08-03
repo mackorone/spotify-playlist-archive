@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,959 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,990 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Hot summer night \- Oh La La La](https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN) | [Smil](https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI), [Just Ben](https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL) | [Hot summer night \(Oh La La La\)](https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG) | 3:05 |
 | 40 | [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 |
 
-Snapshot ID: `aIvnewAAAABhfNuopD0uptfk+pPxv7kv`
+Snapshot ID: `AAAAAHrGZMHGIuHnXtjGxBl4FtkgVGTm`

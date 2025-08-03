@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,715 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,186 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 36 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
 | 37 | [Can't Blame a Girl for Trying](https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 2:49 |
 | 38 | [Nonsense \- Sped Up Version](https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Nonsense \(Sped Up Version\)](https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k) | 2:17 |
-| 39 | [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 |
-| 40 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 |
+| 39 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 |
+| 40 | [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 |
 | 41 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 |
 | 42 | [Honeymoon Fades](https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Honeymoon Fades](https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf) | 3:15 |
 | 43 | [In My Bed](https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 48 | [prfct](https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:46 |
 | 49 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 |
 
-Snapshot ID: `aIqyAAAAAABzrujpXa0oQmF7J9YNktMM`
+Snapshot ID: `aIwDgAAAAAD00Qf3Rp7QAlmlIT4EJ5bU`

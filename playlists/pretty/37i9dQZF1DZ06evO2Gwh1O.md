@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,773 likes - 43 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,773 likes - 44 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 8 | [Rookie](https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Split](https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf) | 4:15 |
 | 9 | [History](https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:09 |
 | 10 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
-| 11 | [On a Wire](https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:56 |
+| 11 | [The Great Wide Open](https://open.spotify.com/track/4Kw0rzSRMusVoIoyMuCeuM) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:32 |
 | 12 | [Kicking and Screaming](https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 3:22 |
 | 13 | [All the Rage](https://open.spotify.com/track/0Al5GzxSOC4RoU3QhrSEFL) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK) | 3:37 |
 | 14 | [Red Is the New Black](https://open.spotify.com/track/00xrSZwKt8BZWF5Lv5gVuB) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:13 |
-| 15 | [The Great Wide Open](https://open.spotify.com/track/4Kw0rzSRMusVoIoyMuCeuM) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:32 |
+| 15 | [On a Wire](https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:56 |
 | 16 | [Built to Last](https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 4:20 |
 | 17 | [Recovery](https://open.spotify.com/track/5Xf3jkF3S5IB2u29aSLKjf) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK) | 3:30 |
 | 18 | [She Drove Me to Daytime Television](https://open.spotify.com/track/6v1iCqLDznDBwjDkP2tCt8) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0) | 3:35 |
@@ -39,17 +39,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 29 | [The Distance](https://open.spotify.com/track/0VhnzOzkZk4QOsdQjV9DLL) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:26 |
 | 30 | [Front Row Seats to the End of the World](https://open.spotify.com/track/5ROKGTh0NHbnisRp4eLfVg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 3:30 |
 | 31 | [Beneath the Burning Tree](https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:34 |
-| 32 | [Captains of Industry](https://open.spotify.com/track/6CbF8PKM6y7duGG4haW1lA) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 3:43 |
+| 32 | [10.45 Amsterdam Conversations](https://open.spotify.com/track/47VKk5QlhRMXdNzn5K4SBz) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 3:42 |
 | 33 | [Best Friends and Hospital Beds](https://open.spotify.com/track/0S5SfIu6UOfEdZqPqWNtWf) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:45 |
 | 34 | [Sixteen](https://open.spotify.com/track/3VKTPd7PLTsRSqrwIjcF5c) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 2:50 |
 | 35 | [Waterfront Dance Club](https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 4:24 |
 | 36 | [Serpents in Solitude](https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:25 |
-| 37 | [Art Of American Football](https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Seven Ways To Scream Your Name](https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS) | 2:33 |
-| 38 | [Conduit](https://open.spotify.com/track/1QnrECRRvGWw6bs5Z2761W) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:17 |
+| 37 | [1% \- Live](https://open.spotify.com/track/5SSUh05MjQ3Us7I2pbleJF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours \(Live at Islington Academy, London, 2014\)](https://open.spotify.com/album/7jJa4Nv3fCxNb9vUv3cbnV) | 3:57 |
+| 38 | [Art Of American Football](https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Seven Ways To Scream Your Name](https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS) | 2:33 |
 | 39 | [To Die Like Mouchette](https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:22 |
-| 40 | [1% \- Live](https://open.spotify.com/track/5SSUh05MjQ3Us7I2pbleJF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours \(Live at Islington Academy, London, 2014\)](https://open.spotify.com/album/7jJa4Nv3fCxNb9vUv3cbnV) | 3:57 |
+| 40 | [Conduit](https://open.spotify.com/track/1QnrECRRvGWw6bs5Z2761W) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:17 |
 | 41 | [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:29 |
-| 42 | [Maybe I Am?](https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:38 |
-| 43 | [Ghosts](https://open.spotify.com/track/1dHfj324QVrk4Y47Hyn3UH) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:02 |
+| 42 | [Old Hymns](https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 2:32 |
+| 43 | [Maybe I Am?](https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:38 |
+| 44 | [Constant Illuminations](https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:58 |
 
-Snapshot ID: `aIqyAAAAAAD9E2qJ9yMJDVWeAN4mhPjw`
+Snapshot ID: `aIwDgAAAAADoCwkfqpovtTEmLmRrg3w0`

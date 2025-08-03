@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,890 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,895 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 19 | [BLANCO Y NEGRO](https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:50 |
 | 20 | [Lejos \- REMIX](https://open.spotify.com/track/2bIbFssR2q89LZUshe5vTb) | [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Lejos \(REMIX\)](https://open.spotify.com/album/0BveghjcZHf8rgjpG2Gf3I) | 3:10 |
 | 21 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
-| 22 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 |
-| 23 | [Te Quiero X Eso](https://open.spotify.com/track/6NoQKWwnt1abnNqEnFtHmi) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 3:30 |
+| 22 | [Te Quiero X Eso](https://open.spotify.com/track/6NoQKWwnt1abnNqEnFtHmi) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 3:30 |
+| 23 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 |
 | 24 | [4 Meses](https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:17 |
 | 25 | [SI PUDIERA](https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:51 |
 | 26 | [MYA LIVE P1: Chanel de Coco](https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [MYA LIVE P1: Chanel de Coco](https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 49 | [Insta \- Remix](https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Insta \(Remix\)](https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp) | 3:26 |
 | 50 | [TAZA TAZA](https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [TAZA TAZA](https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS) | 2:38 |
 
-Snapshot ID: `aIqyAAAAAACdVPyC0AwFSeuteMQT80AS`
+Snapshot ID: `aIwDgAAAAABrR3F+xHZPKUbxiS7CnCII`

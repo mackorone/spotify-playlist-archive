@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,736 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,746 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 49 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
 | 50 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 51 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
-| 52 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
-| 53 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
+| 52 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
+| 53 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 54 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 55 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
 | 56 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 64 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
 | 65 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
 | 66 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 |
-| 67 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
-| 68 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\) \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 3:00 |
+| 67 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\) \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 3:00 |
+| 68 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
 | 69 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 |
 | 70 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 |
 | 71 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |

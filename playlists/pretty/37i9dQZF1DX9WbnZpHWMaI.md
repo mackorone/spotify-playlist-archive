@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring J\. Worra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,638 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,649 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 88 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/0Bz6Ih38mhIR3ZnzB1TYDV) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky \(feat\. underscores\)](https://open.spotify.com/album/6PIdDhgeQGjq2B01RP0m23) | 3:53 |
 | 89 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 |
 | 90 | [FUN!](https://open.spotify.com/track/4KERVWEQpKPZu4HRGwc7pu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [FUN!](https://open.spotify.com/album/0AjkJWk9zCZW6RnPvBzXUM) | 3:25 |
-| 91 | [girls just wanna have fun](https://open.spotify.com/track/56xhTPqdsyUNbUKk6KXMlc) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 2:31 |
+| 91 | [girls just wanna have fun](https://open.spotify.com/track/56xhTPqdsyUNbUKk6KXMlc) | [Niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 2:31 |
 | 92 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 |
 | 93 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 |
 | 94 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazón Club vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |

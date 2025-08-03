@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 27518,
+  "num_followers": 27524,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAADe/sZpfFt3ugDv9UX0Vrza",
+  "snapshot_id": "aIwDgAAAAADhlnDHEef2OXiZwYdF4Pji",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "U Kno What To Do (UKWTD)",
-        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 158018,
-      "name": "U Kno What To Do (UKWTD)",
-      "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 157523,
       "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
       "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "U Kno What To Do (UKWTD)",
+        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158018,
+      "name": "U Kno What To Do (UKWTD)",
+      "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr Beat The Road",
+        "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 194875,
+      "name": "Come Here (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3djPfGkkCxWMP68yy2GulG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 174967,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr Beat The Road",
-        "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 194875,
-      "name": "Come Here (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3djPfGkkCxWMP68yy2GulG"
     },
     {
       "added_at": null,

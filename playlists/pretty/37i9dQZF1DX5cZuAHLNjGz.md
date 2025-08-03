@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376,605 likes - 101 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376,988 likes - 101 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Killa](https://open.spotify.com/track/0sVG8wDYt7IYy2M1KJu07y) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Killa](https://open.spotify.com/album/59YGPxS2fsNUGxB0SA4bSy) | 2:26 |
 | 101 | [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 |
 
-Snapshot ID: `aIzcIgAAAABnEwvM8nwN4FjhQt/AA3z5`
+Snapshot ID: `AAAAAORQwDIjoOebakZp/3RRr7dXlwFh`

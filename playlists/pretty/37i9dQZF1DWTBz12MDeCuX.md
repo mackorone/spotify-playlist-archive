@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: ZAH1DE
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,108 likes - 99 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,165 likes - 99 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 49 | [Kein Plan](https://open.spotify.com/track/0E2JCwHuPDzrcbC9aCvSKV) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Kein Plan](https://open.spotify.com/album/0QTQM3vj9Peot2YefIGOe1) | 2:14 |
 | 50 | [Wimpernschlag](https://open.spotify.com/track/6NV3MZkkuGuTxQXUfnS8Gq) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Wimpernschlag](https://open.spotify.com/album/4LRswr7vDwZjcbyQ5eZXyV) | 1:52 |
 | 51 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
-| 52 | [Achterbahn fahren](https://open.spotify.com/track/4g0EDV5qO2p3uuSCi6AiIN) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [Achterbahn fahren](https://open.spotify.com/album/5zR7IorZF87Fi9qpzhUA1m) | 2:06 |
+| 52 | [Achterbahn fahren](https://open.spotify.com/track/4g0EDV5qO2p3uuSCi6AiIN) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x), [TUN](https://open.spotify.com/artist/6FjgaqFC2jqck5hiP5zdC0) | [Achterbahn fahren](https://open.spotify.com/album/5zR7IorZF87Fi9qpzhUA1m) | 2:06 |
 | 53 | [Camilla](https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [Camilla](https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS) | 3:12 |
 | 54 | [red mustang](https://open.spotify.com/track/7GCIBsR9AaK0zMvzhhGcvV) | [ALCATRAZ](https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR) | [red mustang](https://open.spotify.com/album/5zBq50aMfduBmJFZ5QqCLV) | 2:20 |
 | 55 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 57 | [Geiles Leben 2025](https://open.spotify.com/track/30pVli2Nlz2R5uzQ8ebGhb) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [Fa](https://open.spotify.com/artist/7jZFw7mW2jpRqqcCydUixy) | [Geiles Leben 2025](https://open.spotify.com/album/3RtBGzPxDv9aXCouxYQ6Ff) | 2:13 |
 | 58 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 |
 | 59 | [Alcatraz](https://open.spotify.com/track/03vdc9meXbtC4B4gxYoeBP) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Alcatraz](https://open.spotify.com/album/7pM9Oi99jdWQVisKylTfmK) | 2:07 |
-| 60 | [SOMMERNÄCHTE](https://open.spotify.com/track/1IHZV2I3riACMv2Uz92LJS) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [SOMMERNÄCHTE](https://open.spotify.com/album/6qskdHd6p8TSdBIv0OosZs) | 2:05 |
+| 60 | [SOMMERNÄCHTE](https://open.spotify.com/track/1IHZV2I3riACMv2Uz92LJS) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [SOMMERNÄCHTE](https://open.spotify.com/album/6qskdHd6p8TSdBIv0OosZs) | 2:04 |
 | 61 | [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 |
 | 62 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 |
 | 63 | [lieb dich eigentlich :\(](https://open.spotify.com/track/715EJu6WsuLbDjRYSrXrmS) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/6TsjtXGkd8JKtB400it3nF) | 2:44 |

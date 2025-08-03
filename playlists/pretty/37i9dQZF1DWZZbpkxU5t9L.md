@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,023 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,040 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 60 | [Cosmic Commotion](https://open.spotify.com/track/2IT4ByX4xO9m7TlSuyNKNv) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [Cosmic Commotion](https://open.spotify.com/album/5oPugwpTeCyqMpaBFtXUG5) | 3:37 |
 
-Snapshot ID: `AAAAAOFaoGjyC9YG9jNqOHXDTuOSw0C8`
+Snapshot ID: `aIzWcQAAAAC3jcQWHUqBG0N1bP24a4Ur`

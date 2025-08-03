@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de julio 2025\. Cover: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,539,178 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,539,151 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [All that Glitters is not Gold](https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [All that Glitters is not Gold](https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn) | 2:51 |
 | 50 | [Me Quieren Matar](https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Me Quieren Matar](https://open.spotify.com/album/1P4QJa2eFwuQSZkxj7kiS0) | 3:56 |
 
-Snapshot ID: `AAAAAJzjWCLhnDoe49GdZic6Y671kmh1`
+Snapshot ID: `aIEZmAAAAABC2nyWeSa0gw65FFd1H7H/`

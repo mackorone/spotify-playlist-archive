@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,623 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,624 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 29 | [Chocolate Drive](https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:10 |
 | 30 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
 | 31 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
-| 32 | [flutter](https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [flutter](https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV) | 3:16 |
-| 33 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 32 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 33 | [flutter](https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [flutter](https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV) | 3:16 |
 | 34 | [Freesia](https://open.spotify.com/track/0KX2V65DSgo9ii3A0rJAPw) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:06 |
 | 35 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
 | 36 | [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 |
-| 37 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
-| 38 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 |
+| 37 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 |
+| 38 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
 | 39 | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba) | 3:30 |
 | 40 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 |
 | 41 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 62 | [Whenever](https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Whenever](https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V) | 3:20 |
 | 63 | [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 |
 | 64 | [Is this love? \(with YOUN TOVEN\)](https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [YOUN TOVEN](https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr) | [Is this love?](https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K) | 3:03 |
-| 65 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 |
-| 66 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
+| 65 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
+| 66 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 |
 | 67 | [Love is You](https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Love is You](https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E) | 2:41 |
 | 68 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 |
 | 69 | [Spring illusion](https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Spring illusion](https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68) | 3:03 |
 | 70 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 |
 | 71 | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb) | [BOOKKU DDOONG](https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw), [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/album/31T5angQfNXokneuSdQq56) | 2:47 |
 | 72 | [Coffee](https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 3:42 |
-| 73 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 |
-| 74 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
+| 73 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
+| 74 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 |
 | 75 | [Night train](https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Spring](https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s) | 3:40 |
 
 Snapshot ID: `aCLTUwAAAADn4wYr1HIGriMH/b/jSa+q`

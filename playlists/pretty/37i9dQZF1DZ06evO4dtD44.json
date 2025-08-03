@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 61339,
+  "num_followers": 61350,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABDJJ8xXdnwkxuRZ47WzTQ3",
+  "snapshot_id": "aIwDgAAAAAAIoBGEFLsqVWfliwDeLRbI",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Gilberto: A Summer Night",
-        "url": "https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Meditation",
-      "url": "https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amoroso",
         "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 259200,
       "name": "Triste",
       "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jo\u00e3o Gilberto: A Summer Night",
+        "url": "https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 526200,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto #2",
         "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
@@ -695,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
       },
       "artists": [
         {
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 526200,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
+      "duration_ms": 135018,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 137186,
       "name": "H\u00f3-B\u00e1-L\u00e1-L\u00e1",
       "url": "https://open.spotify.com/track/5tz84YvDa00QbsNb1COTuk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coisa Mais Linda",
-        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 135018,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 145180,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/1jHKEk6kxgS9KB78dE669J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -811,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coisa Mais Linda",
-        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
       "artists": [
         {
@@ -820,9 +836,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 145180,
-      "name": "Insensatez",
-      "url": "https://open.spotify.com/track/1jHKEk6kxgS9KB78dE669J"
+      "duration_ms": 176173,
+      "name": "Nao Vou Pra Casa",
+      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
     },
     {
       "added_at": null,
@@ -843,38 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Nao Vou Pra Casa",
-      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 397453,
-      "name": "Undi\u00fa",
-      "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coisa Mais Linda",
         "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
       },
@@ -891,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
+        "name": "Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
       },
       "artists": [
         {
@@ -900,9 +884,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 107560,
-      "name": "Saudade F\u00eaz Um Samba",
-      "url": "https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne"
+      "duration_ms": 397453,
+      "name": "Undi\u00fa",
+      "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
     },
     {
       "added_at": null,
@@ -927,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
+        "name": "Chega de Saudade (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
       },
       "artists": [
         {
@@ -936,9 +920,25 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 323657,
-      "name": "\u00c1guas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/7Jj66NaXj1Nn6xrkB7vlSf"
+      "duration_ms": 107560,
+      "name": "Saudade F\u00eaz Um Samba",
+      "url": "https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 112083,
+      "name": "A Primeira Vez",
+      "url": "https://open.spotify.com/track/0td3SDQhtP0RXXKPzlFpYQ"
     }
   ],
   "unique_name": "This Is Jo\u00e3o Gilberto",

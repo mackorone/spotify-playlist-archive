@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,457 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,465 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Warm\-Up](https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live in San Francisco 1977, Vol\. 1 \(HQ Remastered\)](https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F) | 0:39 |
 | 50 | [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 |
 
-Snapshot ID: `aIqyAAAAAAArhgb4BrzQdIplCQHxlAxP`
+Snapshot ID: `aIwDgAAAAAB8rTOB0ZEcyhawjNDgito4`

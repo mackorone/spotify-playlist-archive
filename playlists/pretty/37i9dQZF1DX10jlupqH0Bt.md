@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,300 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,431 likes - 68 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 67 | [852 Hz Spiritual Order](https://open.spotify.com/track/5WVra5Ra0EBm5cbEfDT7Cr) | [Particle Guidance](https://open.spotify.com/artist/2Ol6nr2IZ1Jqs1scycbjLZ) | [Harmonic Intonation](https://open.spotify.com/album/4L17rtwyeMNeQJDnoxwgET) | 3:42 |
 | 68 | [Whispers of the Wind 852 Hz](https://open.spotify.com/track/6ua9BX1jbXz2IYUQTSLNYN) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Before Dawn](https://open.spotify.com/album/324mbypxKLdPIEKaNVW7Ht) | 3:45 |
 
-Snapshot ID: `aG5uBAAAAADex5IoOEfKmMPqwE/ps8ps`
+Snapshot ID: `AAAAAA6GMG/XiWE6wYH9sdxuNrhslNqo`

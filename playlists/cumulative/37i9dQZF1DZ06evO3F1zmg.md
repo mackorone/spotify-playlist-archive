@@ -4,7 +4,7 @@
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-107 songs - 4 hr 57 min
+108 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Feels](https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Feels](https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8) | 3:28 | 2023-12-13 | 2025-01-07 |
 | [Get It Girl](https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Get It Girl](https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS) | 2:45 | 2022-10-30 | 2023-08-20 |
 | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res) | 2:45 | 2022-10-28 |  |
-| [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 | 2022-10-28 |  |
+| [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 | 2022-10-28 | 2025-08-03 |
 | [Good Good](https://open.spotify.com/track/3KmUrUs6pqJaPqpswIKN6C) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 3:21 | 2022-10-30 | 2024-07-13 |
 | [GPP](https://open.spotify.com/track/4C0sI2YP5uj2UW0Ex676X4) | [Liana Banks](https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [GPP](https://open.spotify.com/album/57ClUwZ0tRUkC7QUMMFFk5) | 3:06 | 2024-06-19 | 2024-08-03 |
 | [GPP](https://open.spotify.com/track/4fKi2oPnO0FUO6417J81HK) | [Liana Banks](https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [GPP](https://open.spotify.com/album/2lCTw141AYVJeSGEhVwUVd) | 3:06 | 2024-06-17 | 2024-06-19 |
@@ -102,6 +102,7 @@
 | [SHE PRETTY \- WITH SAWEETIE](https://open.spotify.com/track/2F6VX9GusVq0sAI03qq29S) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:36 | 2024-08-18 | 2025-02-16 |
 | [SHOT O' CLOCK](https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SHOT O' CLOCK](https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ) | 2:30 | 2023-07-30 |  |
 | [Slow Clap \(with Saweetie\)](https://open.spotify.com/track/0xLf1SbCnuFfBRbDNauT5b) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Slow Clap \(with Saweetie\)](https://open.spotify.com/album/32I12RuItIkrLV7a3qGIPh) | 3:11 | 2022-10-28 | 2024-07-24 |
+| [superstars](https://open.spotify.com/track/3dPpIxqhJptLDNUKdg8u15) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [HELLA PRESSURE](https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d) | 2:24 | 2025-08-03 |  |
 | [Swan Song](https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:47 | 2022-10-28 |  |
 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 | 2022-10-28 |  |
 | [Sweat Check](https://open.spotify.com/track/3bJukUfMgeKQIKXL2ZySYX) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:02 | 2024-05-25 | 2024-06-28 |

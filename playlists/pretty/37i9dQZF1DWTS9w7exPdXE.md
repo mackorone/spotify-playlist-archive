@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,618 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,748 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 33 | [Uit M'n Bol](https://open.spotify.com/track/0uCGho2Tyzcq3vTKerkWiQ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 3:29 |
 | 34 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 |
 | 35 | [Geef Mij Je Angst](https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Live In Het Philips Stadion](https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt) | 3:44 |
-| 36 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 |
-| 37 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 |
+| 36 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 |
+| 37 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 |
 | 38 | [Jij Liet Me Vallen](https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jij Liet Me Vallen](https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd) | 3:38 |
 | 39 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 |
 | 40 | [Als Jij Kon Voelen](https://open.spotify.com/track/71g4uPZDs3z3XJwHyhMlVS) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Als Jij Kon Voelen](https://open.spotify.com/album/3LHhCRB5WunMqbvQXemVlw) | 2:23 |
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 44 | [De Laatste](https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [De Laatste](https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao) | 2:51 |
 | 45 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 |
 | 46 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
-| 47 | [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 |
-| 48 | [Drink Rode Wijn](https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn](https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R) | 3:30 |
+| 47 | [Drink Rode Wijn](https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn](https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R) | 3:30 |
+| 48 | [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 |
 | 49 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
 | 50 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0) | 3:43 |
 | 51 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
 | 52 | [Turk Uit De Kroeg](https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9) | 3:12 |
 | 53 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 |
-| 54 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
-| 55 | [Rosanne](https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa) | 2:39 |
+| 54 | [Rosanne](https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa) | 2:39 |
+| 55 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
 | 56 | [Zijn Het Je Ogen](https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6) | [Koos Alberts](https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29) | [Het Leven Gaat Door](https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW) | 3:20 |
 | 57 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
 | 58 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 |

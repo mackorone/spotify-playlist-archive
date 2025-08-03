@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,912 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,891 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 31 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |
 | 32 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 33 | [No Te Hagas](https://open.spotify.com/track/4f1PmMKVxCr8vIXikhXwEn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [No Te Hagas](https://open.spotify.com/album/0INLo9d20pUVNHOX1x2X4Q) | 2:08 |
-| 34 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
-| 35 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 |
+| 34 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 |
+| 35 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
 | 36 | [Mi Reina](https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [La Makina..\. A Mil](https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn) | 4:10 |
 | 37 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 |
 | 38 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |

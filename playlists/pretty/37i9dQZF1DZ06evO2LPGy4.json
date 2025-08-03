@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 464347,
+  "num_followers": 464397,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAABVQrPgdASk3bWlxTRtbWNE",
+  "snapshot_id": "aIwDgAAAAAD/QfOyX8G8ZKS+qBcwEawr",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comer\u00e9 Callado, Vol. 2",
         "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Morir y Existir En Vivo",
         "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
@@ -723,6 +723,26 @@
       "duration_ms": 169373,
       "name": "El Muletas (En Vivo)",
       "url": "https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Supremac\u00eda",
+        "url": "https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento Feat. Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "El Cartel de la Rana",
+      "url": "https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
       "duration_ms": 248453,
       "name": "Angeles O Demonios",
       "url": "https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Supremac\u00eda",
-        "url": "https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW"
-      },
-      "artists": [
-        {
-          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento Feat. Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "El Cartel de la Rana",
-      "url": "https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto"
     },
     {
       "added_at": null,

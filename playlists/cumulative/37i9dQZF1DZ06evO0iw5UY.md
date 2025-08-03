@@ -4,11 +4,12 @@
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 18 min
+73 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't That Why \- Skytech Remix](https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Ain't That Why \(Skytech Remix\)](https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi) | 2:42 | 2023-05-02 |  |
+| [Ain't That Why \- Skytech Remix](https://open.spotify.com/track/2Zf4tyy5xNiHQkVl9NrBX5) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Ain't That Why \(Skytech Remix\)](https://open.spotify.com/album/4CXlzM5U8VUpkQUk6JazmV) | 2:42 | 2025-08-03 |  |
+| [Ain't That Why \- Skytech Remix](https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Ain't That Why \(Skytech Remix\)](https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi) | 2:42 | 2023-05-02 | 2025-08-03 |
 | [Alarm](https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Alarm](https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5) | 3:45 | 2025-03-26 |  |
 | [Alarm \- WE ARE FURY Remix](https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x) | [Lucid \(The Remixes\)](https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ) | 3:07 | 2023-05-02 | 2025-03-26 |
 | [Alibi \(Far Out Remix\)](https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Alibi & Runaway \(Remixes\)](https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o) | 3:39 | 2023-05-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,886 likes - 72 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,915 likes - 72 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 71 | [Black White \- Original Mix](https://open.spotify.com/track/0LAXSNjh2UVHxDfJEvnUtS) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Mr Jones](https://open.spotify.com/album/641XUE2DRiJnLSwdmNX9JZ) | 9:17 |
 | 72 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 
-Snapshot ID: `AAAAAMmU8Rt40CxSNBp3+pDHwgLSdryO`
+Snapshot ID: `aHqYoQAAAAC8Dgh60sr3DhtgujOBker9`

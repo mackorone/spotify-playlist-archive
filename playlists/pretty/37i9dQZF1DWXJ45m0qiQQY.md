@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 
 > chilling beats for haunted vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,844 likes - 78 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,859 likes - 78 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 | 77 | [Terrified](https://open.spotify.com/track/5NeYxzjtFh5KsdRczBDYW7) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Spire](https://open.spotify.com/album/5L9NVdahYDFcUeVRrepVAI) | 2:39 |
 | 78 | [Poltergeist](https://open.spotify.com/track/0T5rk7dwzNx7hGLYyau2LS) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Saito](https://open.spotify.com/artist/0bdr6z9DImvrsrs2WoZ8pV) | [Beentrill](https://open.spotify.com/album/3oUkpjPJsN7ixJ1siKUSWr) | 1:37 |
 
-Snapshot ID: `AAAAAF3M/swlUR82S4n9t7Hxirg8q3lR`
+Snapshot ID: `Z1bgGQAAAACC6kif6IagqtuzF2oV2iVm`

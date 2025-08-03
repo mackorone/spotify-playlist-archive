@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,557 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,588 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 27 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
 | 28 | [In Limbo](https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [In Limbo](https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv) | 4:36 |
 | 29 | [Learn To Forget](https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Learn To Forget](https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5) | 3:01 |
-| 30 | [DOWN \(Feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 |
-| 31 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 |
+| 30 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 |
+| 31 | [DOWN \(Feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 |
 | 32 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
 | 33 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
 | 34 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 56 | [Hide in Shade](https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Hide in Shade](https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY) | 3:38 |
 | 57 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 |
 | 58 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
-| 59 | [FUCK WITH A WITCH 2](https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FUCK WITH A WITCH 2](https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e) | 1:30 |
+| 59 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
 | 60 | [Make It Out Alive](https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw) | [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3), [Sentinel Complex](https://open.spotify.com/artist/31K3DcAhtW5bcuFOcNumWK), [Man Ov God](https://open.spotify.com/artist/5IoAhDxIVxXuhZWd1GchB9) | [Make It Out Alive](https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K) | 3:22 |
 | 61 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 |
 | 62 | [Kings Today](https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Kings Today](https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI) | 3:55 |
-| 63 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
+| 63 | [FUCK WITH A WITCH 2](https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FUCK WITH A WITCH 2](https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e) | 1:30 |
 | 64 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
-| 65 | [Fuck What You Heard](https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Fuck What You Heard](https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI) | 3:17 |
-| 66 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
+| 65 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
+| 66 | [Fuck What You Heard](https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Fuck What You Heard](https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI) | 3:17 |
 | 67 | [saw BONES](https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [saw BONES](https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC) | 2:27 |
 | 68 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
 | 69 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 94 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
 | 95 | [Power](https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Power](https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq) | 4:29 |
 | 96 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 |
-| 97 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
-| 98 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
+| 97 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
+| 98 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
 | 99 | [Lifers](https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG) | [Culted](https://open.spotify.com/artist/3YT1buuj4AVB8KiSSZdJ8F) | [Lifers](https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB) | 4:58 |
 | 100 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 |
 

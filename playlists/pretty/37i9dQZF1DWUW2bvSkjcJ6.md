@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Chappell Roan, Amo, Lune, Felix Jaehn und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,091 likes - 74 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,062 likes - 74 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 32 | [What About Love](https://open.spotify.com/track/4X363jPq3db7ODossYt3l7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:37 |
 | 33 | [Bathsheba & Him](https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bathsheba & Him](https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT) | 3:33 |
 | 34 | [wie es war](https://open.spotify.com/track/6GItLfbLMM8Weu099G46qx) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [wie es war](https://open.spotify.com/album/5HCuzJgVYadq0XyR3bdRTq) | 2:48 |
-| 35 | [Achterbahn fahren](https://open.spotify.com/track/4g0EDV5qO2p3uuSCi6AiIN) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [Achterbahn fahren](https://open.spotify.com/album/5zR7IorZF87Fi9qpzhUA1m) | 2:06 |
+| 35 | [Achterbahn fahren](https://open.spotify.com/track/4g0EDV5qO2p3uuSCi6AiIN) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x), [TUN](https://open.spotify.com/artist/6FjgaqFC2jqck5hiP5zdC0) | [Achterbahn fahren](https://open.spotify.com/album/5zR7IorZF87Fi9qpzhUA1m) | 2:06 |
 | 36 | [Apple Cider](https://open.spotify.com/track/3tC1yR3AZxpgac6ajPHHfL) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Apple Cider](https://open.spotify.com/album/23vD66LgullE2QYuqVmuX9) | 2:35 |
 | 37 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 |
 | 38 | [Zucker](https://open.spotify.com/track/0HvpJwN4OaztkY5BJPg04N) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Zucker](https://open.spotify.com/album/5ulXOHFVmyihtb9nPTqHaw) | 2:34 |

@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 梅井美咲
 
-433 songs - 1 day 11 hr 10 min
+434 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [path](https://open.spotify.com/track/0Ssnsve8Zj16FrN7ImqZhI) | [窪田ひかり](https://open.spotify.com/artist/3VY5fhcEPI6M1JrH1yFvMO) | [path](https://open.spotify.com/album/5FCmV7iPZfSYuOV5UN7SW3) | 4:19 | 2024-12-24 | 2025-02-19 |
 | [Pathos](https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI) | [川嶋哲郎](https://open.spotify.com/artist/7HYO9BWP2sgKxAF1VbCwCM), [CHAKA STRING QUARTET](https://open.spotify.com/artist/6bZSpfaWtn36aiqdRyakh2) | [A Walk in Life](https://open.spotify.com/album/66a5UKnW2qZdFmItUgReg3) | 8:05 | 2024-03-12 | 2024-07-24 |
 | [PATIO](https://open.spotify.com/track/4MMniEzwkS2fg0JcaTVsfJ) | [Satoru Shionoya](https://open.spotify.com/artist/2EgHsuNzwgFaVrPgjzHNpe) | [ARROW OF TIME](https://open.spotify.com/album/773UYnDHqToyTj9ML5lgrH) | 5:03 | 2024-02-20 | 2024-04-19 |
-| [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 | 2024-11-12 |  |
+| [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 | 2024-11-12 | 2025-08-03 |
 | [Peaceful Honk](https://open.spotify.com/track/1gHnfWCyM8v7A03Qst7dJ0) | [西口明宏](https://open.spotify.com/artist/7cfJQuXW7ehOs7SixLZJhC) | [Peaceful Honk](https://open.spotify.com/album/4Z9uEm5Vfak2MKEkAHA87j) | 3:04 | 2024-07-02 | 2024-09-18 |
 | [Pendulum \[Feat\. Sonicwonder & Michelle Willis\]](https://open.spotify.com/track/0JwQJRLM0Kwvs1CFWhufhj) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w), [Michelle Willis](https://open.spotify.com/artist/2CgQstPV8fb7a4zCFWgPw0) | [Pendulum \[Feat\. Sonicwonder & Michelle Willis\]](https://open.spotify.com/album/4xm9hq7Z4NORk6mJZA0grx) | 5:57 | 2025-03-04 | 2025-05-29 |
 | [Pentatonic 物語](https://open.spotify.com/track/7f1ZL67EshqrNwoqBvFlWl) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF) | [Songbook6](https://open.spotify.com/album/3asyCHxLTPhQu11NlRCqWh) | 3:04 | 2023-03-07 | 2023-05-17 |
@@ -379,6 +379,7 @@
 | [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 | 2025-02-11 |  |
 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-10 |  |
 | [xii\. Pig](https://open.spotify.com/track/6iLZBega4IaCrxa6qMRxrm) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [84 BPM ZODIAC](https://open.spotify.com/album/1clsgSKtxE8dTLvSYhiRbr) | 1:00 | 2023-10-17 | 2023-11-01 |
+| [YAMASTE](https://open.spotify.com/track/4lVjEChJOqqCVombMMAGX1) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [YAMASTE](https://open.spotify.com/album/06qraiNnSSgsInRH7HBlcl) | 4:46 | 2025-07-29 |  |
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-15 |  |
 | [Zero](https://open.spotify.com/track/1T0uAWnsevRr7Nk8E7TI4w) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Zero](https://open.spotify.com/album/54KW9F6MVh6tOL74EC8evT) | 3:41 | 2025-01-28 | 2025-04-23 |
 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 | 2024-12-17 |  |

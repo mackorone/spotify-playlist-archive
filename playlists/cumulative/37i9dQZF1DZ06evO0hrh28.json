@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218120,
+      "name": "perfectas",
+      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
+    },
+    {
+      "album": {
         "name": "Perreito Salvaje",
         "url": "https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK"
       },

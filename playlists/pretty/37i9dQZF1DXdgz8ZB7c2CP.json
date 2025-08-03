@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Frost Children",
-  "num_followers": 844858,
+  "num_followers": 844892,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-08-01 04:00:31",
       "album": {
+        "name": "all my exes live in brooklyn",
+        "url": "https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"
+    },
+    {
+      "added_at": "2025-08-01 04:00:31",
+      "album": {
         "name": "flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti",
         "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 246909,
       "name": "flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti",
       "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
-    },
-    {
-      "added_at": "2025-08-01 04:00:31",
-      "album": {
-        "name": "all my exes live in brooklyn",
-        "url": "https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"
     },
     {
       "added_at": "2025-08-01 04:00:31",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-08-01 04:00:31",
       "album": {
+        "name": "Fade Together",
+        "url": "https://open.spotify.com/album/1VIo7xdJoEqT7YFRooZlLC"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 300524,
+      "name": "Fade Together",
+      "url": "https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp"
+    },
+    {
+      "added_at": "2025-08-01 04:00:31",
+      "album": {
         "name": "Lippy",
         "url": "https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 175990,
       "name": "Lippy",
       "url": "https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b"
-    },
-    {
-      "added_at": "2025-08-01 04:00:31",
-      "album": {
-        "name": "Fade Together",
-        "url": "https://open.spotify.com/album/1VIo7xdJoEqT7YFRooZlLC"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        }
-      ],
-      "duration_ms": 300524,
-      "name": "Fade Together",
-      "url": "https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp"
     },
     {
       "added_at": "2025-08-01 04:00:31",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-08-01 04:00:31",
       "album": {
-        "name": "Dance Without You",
-        "url": "https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        },
-        {
-          "name": "Eros for you",
-          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Dance Without You",
-      "url": "https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr"
-    },
-    {
-      "added_at": "2025-08-01 04:00:31",
-      "album": {
         "name": "Open Season",
         "url": "https://open.spotify.com/album/6FmD0ohMKxaDUsnnQYnZKe"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 171034,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/0ftvcxmgmafkBWUxvPpRDb"
+    },
+    {
+      "added_at": "2025-08-01 04:00:31",
+      "album": {
+        "name": "Dance Without You",
+        "url": "https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        },
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dance Without You",
+      "url": "https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr"
     },
     {
       "added_at": "2025-08-01 04:00:31",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-08-01 04:00:31",
       "album": {
+        "name": "iwannaliveinadream",
+        "url": "https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "iwannaliveinadream",
+      "url": "https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2"
+    },
+    {
+      "added_at": "2025-08-01 04:00:31",
+      "album": {
         "name": "PUT IT DOWN (Killen. Remix)",
         "url": "https://open.spotify.com/album/55kZU8pNkW7GEjUi7sse7C"
       },
@@ -1771,26 +1787,6 @@
     {
       "added_at": "2025-08-01 04:00:31",
       "album": {
-        "name": "Chi-Town",
-        "url": "https://open.spotify.com/album/4lue9TjdizlbNWHM3lXqTA"
-      },
-      "artists": [
-        {
-          "name": "Koastle",
-          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Chi-Town",
-      "url": "https://open.spotify.com/track/1730qesuRhIb92FrXEm04h"
-    },
-    {
-      "added_at": "2025-08-01 04:00:31",
-      "album": {
         "name": "Entangled",
         "url": "https://open.spotify.com/album/1QEb39IfozGparLKKYjPel"
       },
@@ -1811,6 +1807,26 @@
       "duration_ms": 160941,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/7IKTp0RWkrNgrdyIZ5Egk4"
+    },
+    {
+      "added_at": "2025-08-01 04:00:31",
+      "album": {
+        "name": "Chi-Town",
+        "url": "https://open.spotify.com/album/4lue9TjdizlbNWHM3lXqTA"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Chi-Town",
+      "url": "https://open.spotify.com/track/1730qesuRhIb92FrXEm04h"
     },
     {
       "added_at": "2025-08-01 04:00:31",
@@ -1851,22 +1867,6 @@
       "duration_ms": 179399,
       "name": "On & On - nimino Remix",
       "url": "https://open.spotify.com/track/1tx4NjqrgzaEKmaPECXMgZ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:31",
-      "album": {
-        "name": "Tumbleweeds",
-        "url": "https://open.spotify.com/album/5OVG7AQkRix1NZ8AuBQv1u"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 306268,
-      "name": "Tumbleweeds",
-      "url": "https://open.spotify.com/track/3ffmHRLqmoZkwikJqC0DVD"
     },
     {
       "added_at": "2025-08-01 04:00:31",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2025-08-01 04:00:31",
       "album": {
+        "name": "Tumbleweeds",
+        "url": "https://open.spotify.com/album/5OVG7AQkRix1NZ8AuBQv1u"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 306268,
+      "name": "Tumbleweeds",
+      "url": "https://open.spotify.com/track/3ffmHRLqmoZkwikJqC0DVD"
+    },
+    {
+      "added_at": "2025-08-01 04:00:31",
+      "album": {
         "name": "Sweet",
         "url": "https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 193333,
       "name": "Realise",
       "url": "https://open.spotify.com/track/6gJfyZxbUH5xBYBgPRpbCi"
-    },
-    {
-      "added_at": "2025-08-01 04:00:31",
-      "album": {
-        "name": "FALLING",
-        "url": "https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 162210,
-      "name": "FALLING",
-      "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
     }
   ],
   "unique_name": "creamy",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Bay Swag
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,853 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,826 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Stoned](https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:03 |
 | 100 | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB) | 4:16 |
 
-Snapshot ID: `AAAAAC4l5X7eTSkZBcsQw/0kKpcjU28e`
+Snapshot ID: `aIw74wAAAAB7JFH7Cy2mIU7ci9nxcJin`

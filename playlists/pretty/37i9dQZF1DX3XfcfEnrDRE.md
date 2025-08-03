@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Citizens
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,567 likes - 74 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,592 likes - 74 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 73 | [eternity](https://open.spotify.com/track/5bDyEhIt1gPXuaAxUvNUJr) | [aftrthght](https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY) | [conflictions of affliction: tears of the kingdom](https://open.spotify.com/album/0lw08BZOZTMwS4GhwX12eh) | 2:28 |
 | 74 | [Out Of The Cave](https://open.spotify.com/track/7b1wXW0faKHMQ8gy6Jcrws) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Out Of The Cave](https://open.spotify.com/album/59YNuBvpwj1UIzIxaImeI3) | 3:27 |
 
-Snapshot ID: `AAAAAMM/pdt5j2ITEKMaSxHJ7njHPJVQ`
+Snapshot ID: `aHoe8AAAAAAQVu6brJOMcGCvWkVhISyw`

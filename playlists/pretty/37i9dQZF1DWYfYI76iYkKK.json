@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 129931,
+  "num_followers": 129940,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-07-31 16:00:20",
       "album": {
-        "name": "Hai Cheng",
-        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
-      },
-      "artists": [
-        {
-          "name": "THE 8",
-          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Hai Cheng",
-      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
-    },
-    {
-      "added_at": "2025-07-31 16:00:20",
-      "album": {
         "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
         "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 253728,
       "name": "\u5e7e\u4e4e\u662f\u611b\u60c5",
       "url": "https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs"
+    },
+    {
+      "added_at": "2025-07-31 16:00:20",
+      "album": {
+        "name": "Hai Cheng",
+        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
+      },
+      "artists": [
+        {
+          "name": "THE 8",
+          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Hai Cheng",
+      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
     },
     {
       "added_at": "2025-07-31 16:00:20",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-07-31 16:00:20",
       "album": {
-        "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
-        "url": "https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j"
-      },
-      "artists": [
-        {
-          "name": "\u4efb\u7d20\u6c50",
-          "url": "https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8"
-        }
-      ],
-      "duration_ms": 235750,
-      "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
-      "url": "https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5"
-    },
-    {
-      "added_at": "2025-07-31 16:00:20",
-      "album": {
         "name": "\u611b\u7684\u5c0d\u767d",
         "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 185077,
       "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
+    },
+    {
+      "added_at": "2025-07-31 16:00:20",
+      "album": {
+        "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
+        "url": "https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j"
+      },
+      "artists": [
+        {
+          "name": "\u4efb\u7d20\u6c50",
+          "url": "https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8"
+        }
+      ],
+      "duration_ms": 235750,
+      "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
+      "url": "https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5"
     },
     {
       "added_at": "2025-07-31 16:00:20",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-07-31 16:00:20",
       "album": {
-        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/15NHua85t5PCRuJj98Fy9A"
       },
       "artists": [
         {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+          "name": "\u9ad8\u771f TRU",
+          "url": "https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3"
         }
       ],
-      "duration_ms": 288200,
-      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
+      "duration_ms": 295601,
+      "name": "\u95dc\u65bc\u611b\u60c5",
+      "url": "https://open.spotify.com/track/39TtAOjGM22FiDN0CKQ5En"
     },
     {
       "added_at": "2025-07-31 16:00:20",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-07-31 16:00:20",
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/15NHua85t5PCRuJj98Fy9A"
+        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
       },
       "artists": [
         {
-          "name": "\u9ad8\u771f TRU",
-          "url": "https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3"
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
         }
       ],
-      "duration_ms": 295601,
-      "name": "\u95dc\u65bc\u611b\u60c5",
-      "url": "https://open.spotify.com/track/39TtAOjGM22FiDN0CKQ5En"
+      "duration_ms": 288200,
+      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
     },
     {
       "added_at": "2025-07-31 16:00:20",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-07-31 16:00:20",
       "album": {
-        "name": "\u91cd\u62fe_\u5feb\u6a02",
-        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
+        "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
+        "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
       },
       "artists": [
         {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+          "name": "Isaac Yong",
+          "url": "https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk"
         }
       ],
-      "duration_ms": 249417,
-      "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
-      "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
+      "duration_ms": 270227,
+      "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
+      "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

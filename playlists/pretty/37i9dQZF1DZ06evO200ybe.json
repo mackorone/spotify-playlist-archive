@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 120219,
+  "num_followers": 120248,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAAC36sCCJtHUCka/2NPyzRR6",
+  "snapshot_id": "aIwDgAAAAABgGf59I+CzQreilfi6rcew",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 220407,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/5TEbPy96mbPIH31c3XMWBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arbor Way",
+        "url": "https://open.spotify.com/album/5kgehWQxGx18XktyTfHyQt"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 318435,
+      "name": "Arbor Way - Live",
+      "url": "https://open.spotify.com/track/7AbQKNo2zRzIIcfsFBMG2B"
     },
     {
       "added_at": null,
@@ -216,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 321243,
-      "name": "'Tis Autumn - Mono",
-      "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
+      "duration_ms": 319092,
+      "name": "If You Could See Me Now - Mono",
+      "url": "https://open.spotify.com/track/2d1rjlkbvXPET5Rf4Ovl1r"
     },
     {
       "added_at": null,
@@ -280,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 319092,
-      "name": "If You Could See Me Now - Mono",
-      "url": "https://open.spotify.com/track/2d1rjlkbvXPET5Rf4Ovl1r"
+      "duration_ms": 321243,
+      "name": "'Tis Autumn - Mono",
+      "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
     },
     {
       "added_at": null,
@@ -515,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 276827,
+      "name": "You'd Be So Nice To Come Home To - Mono",
+      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quintet Sessions 1979",
         "url": "https://open.spotify.com/album/2589rTLkK1dIoC72z5cS1t"
       },
@@ -543,22 +575,6 @@
       "duration_ms": 255466,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/2WRLJSbs3O6VuU4yTHMapa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 276827,
-      "name": "You'd Be So Nice To Come Home To - Mono",
-      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
     },
     {
       "added_at": null,
@@ -619,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ballads For Two",
         "url": "https://open.spotify.com/album/1wXiZcjOj0oUX4rJqUiOQl"
       },
@@ -635,22 +667,6 @@
       "duration_ms": 230053,
       "name": "Waltz For Susan",
       "url": "https://open.spotify.com/track/6JgXwEGxn21fhmMLrOXCLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": null,
@@ -691,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Essential Standards",
+        "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 172426,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ballads For Two",
         "url": "https://open.spotify.com/album/1wXiZcjOj0oUX4rJqUiOQl"
       },
@@ -711,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Standards",
-        "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
       },
       "artists": [
         {
@@ -720,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 172426,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
+      "duration_ms": 274794,
+      "name": "Time On My Hands - Mono",
+      "url": "https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj"
     },
     {
       "added_at": null,
@@ -743,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
       },
       "artists": [
         {
@@ -752,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 274794,
-      "name": "Time On My Hands - Mono",
-      "url": "https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj"
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": null,
@@ -775,22 +807,6 @@
       "duration_ms": 232293,
       "name": "Welcome Back",
       "url": "https://open.spotify.com/track/3Qs8OE0dIjAq4TQRnUWuEI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": null,

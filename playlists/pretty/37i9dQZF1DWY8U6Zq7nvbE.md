@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,427,420 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,427,448 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 35 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
 | 36 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
 | 37 | [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 |
-| 38 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 |
-| 39 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
+| 38 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
+| 39 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 |
 | 40 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 41 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 | 42 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
 | 43 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 |
-| 44 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
-| 45 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
+| 44 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
+| 45 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 46 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |
 | 47 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 |
 | 48 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 59 | [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 |
 | 60 | [Dance Monkey](https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Dance Monkey](https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT) | 3:17 |
 | 61 | [Behind Blue Eyes](https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Behind Blue Eyes](https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm) | 2:44 |
-| 62 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 |
-| 63 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 62 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 63 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 |
 | 64 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 |
 | 65 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
 | 66 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 92 | [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 |
 | 93 | [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 |
 | 94 | [Sure Thing](https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL) | [since always](https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Sure Thing](https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c) | 3:59 |
-| 95 | [Pink Pony Club](https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Pink Pony Club](https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw) | 3:16 |
-| 96 | [APT.](https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs) | [SƎLFISH](https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP) | [APT.](https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7) | 2:12 |
+| 95 | [APT.](https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs) | [SƎLFISH](https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP) | [APT.](https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7) | 2:12 |
+| 96 | [Pink Pony Club](https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Pink Pony Club](https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw) | 3:16 |
 | 97 | [Don't Start Now](https://open.spotify.com/track/2dIL35obnWkkaMcTqTZUIe) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Don't Start Now](https://open.spotify.com/album/4R3pHbMmVbzremPQBw5FQ9) | 2:52 |
 | 98 | [ordinary](https://open.spotify.com/track/2ledumGXyZb4RRangI0wQ0) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [ordinary](https://open.spotify.com/album/48moNiJIib1hKuK7YQ6o1m) | 3:30 |
 | 99 | [Die with A Smile](https://open.spotify.com/track/0WsTGH8uDMHneoTbnluW87) | [little fictions](https://open.spotify.com/artist/6KYtoDiXQBtuF3cO2sj0EO) | [Die with A Smile](https://open.spotify.com/album/3U2ym9CkgHLImVUUkAXZ7d) | 3:49 |

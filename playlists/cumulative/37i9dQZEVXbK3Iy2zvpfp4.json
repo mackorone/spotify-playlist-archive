@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -11866,7 +11866,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -12808,7 +12808,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -12848,7 +12848,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 133220,
       "name": "Dame Un Grrr",
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
@@ -30344,7 +30344,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 170498,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw"
@@ -43063,6 +43063,28 @@
     },
     {
       "album": {
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254734,
+      "name": "Now and at the Hour of Our Death (feat. BONES)",
+      "url": "https://open.spotify.com/track/2KrpmVncX2Ht0Lw8zqpVaT"
+    },
+    {
+      "album": {
         "name": "Now and at the Hour of Our Death (feat. BONES)",
         "url": "https://open.spotify.com/album/6pqnNGhTMgWt2nvMIn7QlD"
       },
@@ -46528,7 +46550,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 81948,
       "name": "Piano Tiles",
       "url": "https://open.spotify.com/track/0fk09gyOmgKeA5AB9sX9Uj"
@@ -53474,7 +53496,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 193183,
       "name": "SHYNE",
       "url": "https://open.spotify.com/track/6YmZrYfrOd1ACzgsPmlliq"
@@ -68063,6 +68085,24 @@
     },
     {
       "album": {
+        "name": "YUP AND I DO",
+        "url": "https://open.spotify.com/album/7CgGavuS1DSvYXIbeqrq71"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126799,
+      "name": "YUP AND I DO",
+      "url": "https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB"
+    },
+    {
+      "album": {
         "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
         "url": "https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz"
       },
@@ -70124,7 +70164,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"

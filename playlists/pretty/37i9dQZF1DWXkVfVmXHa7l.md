@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 
 > Music from Attack on Titan!  ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,767 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,867 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 | 37 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 |
 | 38 | [暁の鎮魂歌](https://open.spotify.com/track/6CcVsaoKsG4WvkZWZBvyTn) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [楽園への進撃](https://open.spotify.com/album/1qVDe3gATmfpP94qykf09F) | 4:00 |
 | 39 | [ətˈæk 0N tάɪtn](https://open.spotify.com/track/6xRyarDnqu0VIpfFeyRy3x) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:16 |
-| 40 | [The Reluctant Heroes](https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [MPI](https://open.spotify.com/artist/39SnON5tzXGfF0wkKJEMK3) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:27 |
+| 40 | [The Reluctant Heroes](https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/1tpOWWj05FyhBx69jj5lM5) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:27 |
 | 41 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Aimee Blackschleger](https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 |
 | 42 | [E・M・A](https://open.spotify.com/track/524mcPQCmbstTMxtErRH7I) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 5:42 |
-| 43 | [Call your name](https://open.spotify.com/track/2CR7uFXc6cmk11oc0arZMM) | [CASG \(Caramel Apple Sound Gadget\)](https://open.spotify.com/artist/3zrqQQY3hSf5B7HIjDeQEQ), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [MPI](https://open.spotify.com/artist/39SnON5tzXGfF0wkKJEMK3) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:28 |
+| 43 | [Call your name](https://open.spotify.com/track/2CR7uFXc6cmk11oc0arZMM) | [CASG \(Caramel Apple Sound Gadget\)](https://open.spotify.com/artist/3zrqQQY3hSf5B7HIjDeQEQ), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/1tpOWWj05FyhBx69jj5lM5) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 4:28 |
 | 44 | [美しき残酷な世界](https://open.spotify.com/track/1LmIptfyl5QZANQYxuwvhK) | [Yoko Hikasa](https://open.spotify.com/artist/432YeAgYRrioSdsY06F2CT) | [美しき残酷な世界【通常盤】\- EP](https://open.spotify.com/album/6dbozp9RiCuCGQGDDiGzU8) | 4:56 |
 | 45 | [立body機motion](https://open.spotify.com/track/6HG7w2A4u577FmztV7oIw5) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 5:42 |
 | 46 | [自由の翼](https://open.spotify.com/track/0l6uRRIDPNw3OsmqCYkmvi) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [自由への進撃](https://open.spotify.com/album/31L6jyQkVDu1xdfXizvAc2) | 5:28 |

@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-145 songs - 7 hr 34 min
+146 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Ni Con Patrulla](https://open.spotify.com/track/5KsUOwCSFIKKBsBxyCfgnS) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:40 | 2025-06-08 |  |
 | [No Quiero Vover A Verte](https://open.spotify.com/track/5bWXLr45F24kTmztUfO9bH) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 2:44 | 2022-06-01 | 2022-10-13 |
 | [PASAPORTES](https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:41 | 2025-02-23 |  |
+| [Pasta](https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Pasta](https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P) | 3:14 | 2025-08-03 |  |
 | [Pinki Chilón](https://open.spotify.com/track/0Zgh7MzHM5UCKzvlAJRC2x) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:56 | 2025-05-11 | 2025-07-04 |
 | [Plata](https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:54 | 2025-05-11 | 2025-06-08 |
 | [Poco A Poco](https://open.spotify.com/track/1NtF4j3oiNostz6IgmBwRI) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [NEXT](https://open.spotify.com/album/1bWcE0tKOJgn4kgpNKSHU0) | 2:36 | 2024-11-29 |  |

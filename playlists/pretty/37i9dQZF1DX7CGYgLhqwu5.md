@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,238 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,256 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,18 +53,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 43 | [Detroit City](https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:49 |
 | 44 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 |
 | 45 | [Me And Bobby McGee](https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Super Hits](https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C) | 3:16 |
-| 46 | [Sea of Heartbreak](https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:31 |
-| 47 | [Stupid Cupid](https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Right Or Wrong](https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX) | 2:16 |
+| 46 | [Stupid Cupid](https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Right Or Wrong](https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX) | 2:16 |
+| 47 | [Sea of Heartbreak](https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:31 |
 | 48 | [500 Miles Away from Home](https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:42 |
 | 49 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
 | 50 | [The Carroll County Accident](https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S) | 2:49 |
 | 51 | [I Can't Stop \(My Lovin' You\)](https://open.spotify.com/track/1SBllLTtOG1MYBarv3F3Dw) | [Dick Curless](https://open.spotify.com/artist/0L977x5wFRhedcXSan71ma), [Kay Adams](https://open.spotify.com/artist/07AQaAGXoOsQCGIfMR5KFR) | [A Devil Like Me Needs An Angel Like You](https://open.spotify.com/album/53pohP78R0AeEiMEQuuIPb) | 2:16 |
-| 52 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
-| 53 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
+| 52 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
+| 53 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
 | 54 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
 | 55 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
-| 56 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
-| 57 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
+| 56 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
+| 57 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
 | 58 | [Last Date \- Instrumental](https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr) | [Floyd Cramer](https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK) | [Super Hits](https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G) | 2:26 |
 | 59 | [Pop a Top](https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW) | [Jim Ed Brown](https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM) | [The Essential Jim Ed Brown And The Browns \(feat\. Jim Ed Brown\)](https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh) | 2:20 |
 | 60 | [You Belong To Me](https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:03 |

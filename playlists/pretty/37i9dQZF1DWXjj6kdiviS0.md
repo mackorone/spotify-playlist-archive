@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 
 > Classics from the Baroque era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,225 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,252 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 | 69 | [Cello Suite No\. 2 in D Minor, BWV 1008: III\. Courante](https://open.spotify.com/track/0QFWuS6woPDDdXayRmfpnU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN) | [J.S\. Bach: Cello Suite No\. 2 in D Minor, BWV 1008: III\. Courante](https://open.spotify.com/album/6BodS37ZZiicXIbokoMsDw) | 2:13 |
 | 70 | [Canarios](https://open.spotify.com/track/4wVfNcuFvJzBE5FQ5J479c) | [Gaspar Sanz](https://open.spotify.com/artist/1OdITJSYADZMOPRSyXlb3c), [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Thibault Cauvin](https://open.spotify.com/album/3xh9nAAn1jntzf6phXqYcG) | 2:27 |
 
-Snapshot ID: `AAAAAO/26v4HioT+j1c0sczCYqOnOiNu`
+Snapshot ID: `aGftmwAAAABKhPTU7ZvXrP58rtC8jiPL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,627 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,654 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 24 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/5zvQpeFatZ1BaDHG6o2GT2) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:26 |
 | 25 | [Qué Casualidad](https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Qué Casualidad](https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w) | 3:03 |
 | 26 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 2:47 |
-| 27 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
-| 28 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 |
+| 27 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 |
+| 28 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
 | 29 | [Chaparra De Mi Amor](https://open.spotify.com/track/6O520IZgFxvuPnBms0But5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 3:09 |
 | 30 | [Quisiera Tener Alas](https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:31 |
 | 31 | [Y Lloro Por Ella Mi Gorrión](https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Pero Yo No La Conozco](https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP) | 2:53 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 37 | [La Rama Del Mezquite](https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 3:43 |
 | 38 | [Recuerdos Tristes](https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:05 |
 | 39 | [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 |
-| 40 | [El Disgusto](https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lo Mejor De Los Relámpagos Con](https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1) | 2:26 |
-| 41 | [Baraja De Oro](https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:18 |
+| 40 | [Baraja De Oro](https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:18 |
+| 41 | [El Disgusto](https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lo Mejor De Los Relámpagos Con](https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1) | 2:26 |
 | 42 | [Corrido de Macario Leyva](https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Y Tragedias De La Frontera](https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM) | 3:41 |
 | 43 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 2:57 |
 | 44 | [Vino Maldito](https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [La Latosa](https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 2:36 |
 | 50 | [Ésos Dos Amigos Brindaron Por Ella](https://open.spotify.com/track/3XalTDHy6XRXM1DjFIESot) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9), [Jody Farias](https://open.spotify.com/artist/0AvLxgq8bvY2bXqzeQSgIA) | [Esos Dos Amigos \(Remasterizado\)](https://open.spotify.com/album/3Yg0OfHOXsczieJwV5gq76) | 3:36 |
 
-Snapshot ID: `aIqyAAAAAAAfYohoXBNvy+AAB1GUziux`
+Snapshot ID: `aIwDgAAAAAAejqYmarR+a6iPhBZ/9HQ6`

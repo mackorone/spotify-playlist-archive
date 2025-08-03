@@ -1,6 +1,6 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! ",
-  "num_followers": 214679,
+  "num_followers": 214963,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "FutureSex/LoveSounds Deluxe Edition",
         "url": "https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 276160,
       "name": "My Love (feat. T.I.)",
       "url": "https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
-      "added_at": "2024-12-27 16:37:04",
-      "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
-    },
-    {
       "added_at": "2024-07-12 20:54:16",
       "album": {
         "name": "Justified",
@@ -1179,6 +1163,22 @@
       "duration_ms": 288333,
       "name": "Cry Me a River",
       "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
+    },
+    {
+      "added_at": "2024-12-27 16:37:04",
+      "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 223066,
       "name": "I'm with You",
       "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 262466,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "Not 4 Sale",
         "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 246053,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 240440,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1891,6 +1891,38 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "So Blu",
+        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
+      },
+      "artists": [
+        {
+          "name": "Blu Cantrell",
+          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
@@ -1911,22 +1943,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "So Blu",
-        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
-      },
-      "artists": [
-        {
-          "name": "Blu Cantrell",
-          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "A New Day Has Come",
         "url": "https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 210226,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Beautiful Soul",
         "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Memoirs of an imperfect Angel",
         "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
       },
@@ -2127,18 +2111,18 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Jason Derulo",
-        "url": "https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7"
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 221253,
-      "name": "Whatcha Say",
-      "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2155,6 +2139,22 @@
       "duration_ms": 190453,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/3AjyOYxBv8bByfBtG5o9dP"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Jason Derulo",
+        "url": "https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Whatcha Say",
+      "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Single Ladies (Put a Ring on It)",
-      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 294866,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2443,6 +2443,26 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
+      },
+      "artists": [
+        {
+          "name": "Cobra Starship",
+          "url": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
+        },
+        {
+          "name": "Leighton Meester",
+          "url": "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "Good Girls Go Bad (feat. Leighton Meester)",
+      "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "Hood Hop",
         "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
       },
@@ -2455,22 +2475,6 @@
       "duration_ms": 243226,
       "name": "Tipsy - Club Mix",
       "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2491,22 +2495,18 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
       },
       "artists": [
         {
-          "name": "Cobra Starship",
-          "url": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
-        },
-        {
-          "name": "Leighton Meester",
-          "url": "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 196413,
-      "name": "Good Girls Go Bad (feat. Leighton Meester)",
-      "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2547,18 +2547,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
       },
       "artists": [
         {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+      "duration_ms": 289746,
+      "name": "Blame It",
+      "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
     }
   ],
   "unique_name": "2000s Pop",

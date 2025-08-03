@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,846 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,854 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 25 | [羊皮先生](https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [浮世擊](https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J) | 3:32 |
 | 26 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |
 | 27 | [Party Forever](https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Party Forever](https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h) | 3:22 |
-| 28 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
-| 29 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
+| 28 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
+| 29 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
 | 30 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
 | 31 | [Flower Cafe \(feat.Sam Ock, I.M\)](https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Flower Cafe](https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd) | 3:07 |
 | 32 | [Revenge Season \(Feat\. Chillin Homie\)](https://open.spotify.com/track/0zViWFqw7P41WTPwj4Nvse) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [＋](https://open.spotify.com/album/6yd7PgSlEG6FC0D9XL3x8c) | 3:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 45 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 | 46 | [Sideways](https://open.spotify.com/track/3C1RXABEwAoH9Dnnx21UYt) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Unmasked \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7jZ8IeruG5vaEFfkJnx1gR) | 2:45 |
 | 47 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 |
-| 48 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 |
-| 49 | [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 |
+| 48 | [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 |
+| 49 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 |
 | 50 | [Ladidadi!](https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Ladidadi](https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM) | 2:03 |
 
 Snapshot ID: `aEt0xQAAAADzy6gMbUjDC6foG3m47wLZ`

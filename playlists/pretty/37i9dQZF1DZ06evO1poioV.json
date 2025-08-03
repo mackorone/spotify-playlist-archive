@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 117287,
+  "num_followers": 117293,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACaLPiE/PYZ6zQxk6CPdCX4",
+  "snapshot_id": "aIwDgAAAAACONijwy1EmRUp7C4JrzYqT",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
         "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 202391,
       "name": "Run To Me (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Late Morning Lullaby",
-      "url": "https://open.spotify.com/track/3vhaMxyoEBA0WhBXWIP3b6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Firewatcher's Daughter",
         "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Late Morning Lullaby",
+      "url": "https://open.spotify.com/track/3vhaMxyoEBA0WhBXWIP3b6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -815,26 +815,6 @@
       "duration_ms": 220720,
       "name": "Letter To The Past",
       "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're Not Alone [Feat. Brandi Carlile]",
-        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 309746,
-      "name": "You're Not Alone [Feat. Brandi Carlile]",
-      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You're Not Alone [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "You're Not Alone [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -871,26 +871,6 @@
       "duration_ms": 247133,
       "name": "Whatever You Do",
       "url": "https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Tomorrow (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/2s1IJaDlUlxmMaEtk4PtnT"
-      },
-      "artists": [
-        {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 274598,
-      "name": "Come Tomorrow (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/4zzQfaoSLAQbfXm2wCsaT8"
     },
     {
       "added_at": null,
@@ -923,6 +903,26 @@
       "duration_ms": 209051,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Tomorrow (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/2s1IJaDlUlxmMaEtk4PtnT"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 274598,
+      "name": "Come Tomorrow (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/4zzQfaoSLAQbfXm2wCsaT8"
     },
     {
       "added_at": null,

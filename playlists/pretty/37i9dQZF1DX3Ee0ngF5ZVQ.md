@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randall King
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,053 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,033 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 66 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
 | 67 | [The Little Things](https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [The Little Things](https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO) | 3:38 |
 | 68 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
-| 69 | [Getter Back Song](https://open.spotify.com/track/6jMpqkLNcXlmECPqbKh6g6) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Getter Back Song](https://open.spotify.com/album/0wuyy8Le3WZagNuf0tSEaL) | 3:07 |
-| 70 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 |
+| 69 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 |
+| 70 | [Getter Back Song](https://open.spotify.com/track/6jMpqkLNcXlmECPqbKh6g6) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Getter Back Song](https://open.spotify.com/album/0wuyy8Le3WZagNuf0tSEaL) | 3:07 |
 | 71 | [Hearts Don't](https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Hearts Don't](https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz) | 3:38 |
 | 72 | [Wild Is Her Favorite Color](https://open.spotify.com/track/7JATKNLC6c83UohqPyunhp) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Wild Is Her Favorite Color](https://open.spotify.com/album/4IHQZBoW3LnJ62LsGvx4FT) | 4:06 |
 | 73 | [Three Drinks Behind](https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Three Drinks Behind](https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W) | 3:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 96 | [Hit The Hay Runnin'](https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Hit The Hay Runnin'](https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN) | 3:04 |
 | 97 | [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 |
 | 98 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 |
-| 99 | [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 |
-| 100 | [Denver to Dallas](https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Denver to Dallas](https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV) | 3:28 |
+| 99 | [Denver to Dallas](https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Denver to Dallas](https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV) | 3:28 |
+| 100 | [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 |
 
 Snapshot ID: `aIxB1QAAAADKRKoONvFd+gkzNcc/uJPy`

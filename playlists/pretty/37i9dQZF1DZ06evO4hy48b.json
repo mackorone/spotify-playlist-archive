@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 760,
+  "num_followers": 768,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACU5z+5CieR2GhoqJLRhGja",
+  "snapshot_id": "aIwDgAAAAABfhPmJ/16M8XHFT54tFYJo",
   "tracks": [
     {
       "added_at": null,
@@ -446,11 +446,15 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 158826,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
     },
     {
       "added_at": null,
@@ -518,15 +522,11 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 159360,
-      "name": "miamor",
-      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
+      "duration_ms": 158826,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 144950,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -643,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "2 Extra\u00f1os",
+      "url": "https://open.spotify.com/track/1zIVr01FW9T3aWKmoBcmFd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Likes y Cicatrices",
         "url": "https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO"
       },
@@ -659,22 +695,6 @@
       "duration_ms": 235160,
       "name": "La Electricidad",
       "url": "https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "2 Extra\u00f1os",
-      "url": "https://open.spotify.com/track/1zIVr01FW9T3aWKmoBcmFd"
     },
     {
       "added_at": null,
@@ -731,42 +751,6 @@
       "duration_ms": 168933,
       "name": "La Canci\u00f3n Que No Quiero Cantarte",
       "url": "https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Berl\u00edn",
-        "url": "https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Hermosa Casualidad",
-      "url": "https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5"
     }
   ],
   "unique_name": "This Is Aitana",

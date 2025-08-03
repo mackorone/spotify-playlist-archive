@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,398 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,528 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 | 99 | [Why Are Sundays So Depressing](https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:35 |
 | 100 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 
-Snapshot ID: `aF1tNQAAAACFUnIsK1+oEvsV3oOBb4/E`
+Snapshot ID: `aF1tNQAAAAAx6jO+A/bvpjoqlTmwUqFQ`

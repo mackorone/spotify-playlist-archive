@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Out Of Control Army en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,815 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,861 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 64 | [Sentimental](https://open.spotify.com/track/6UGW4PkoGy1nW4rzrzlwbp) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Los Madafakers](https://open.spotify.com/artist/1SAld8ktXze42eYj6oN4xt) | [Sentimental](https://open.spotify.com/album/4o6q7jqE6r4r6AQOsXcFov) | 2:38 |
 | 65 | [La Ultima Carta \- The Romaphonic Session](https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [Justo Cuando Creías Que No \- The Romaphonic Sessions](https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR) | 3:34 |
 | 66 | [América](https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [ADN \(Capítulo N\)](https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX) | 3:02 |
-| 67 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
-| 68 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
+| 67 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
+| 68 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
 | 69 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
 | 70 | [Mi Sol De Verano](https://open.spotify.com/track/6ynyDwUQpqYNRKeeSPGBVI) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Mi Sol De Verano](https://open.spotify.com/album/73Wy3Jg5g1hDmLDei7nomt) | 3:20 |
 | 71 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 88 | [Un Amor Violento](https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Alvaro Henriquez](https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP) | [Un Amor Violento](https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1) | 4:49 |
 | 89 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 90 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
-| 91 | [Ni Un Segundo Más](https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W) | [Camiseta 22](https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf), [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Ni Un Segundo Más](https://open.spotify.com/album/6bN09QGl9EMUQZjZJhH787) | 3:04 |
-| 92 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
+| 91 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
+| 92 | [Ni Un Segundo Más](https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W) | [Camiseta 22](https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf), [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Ni Un Segundo Más](https://open.spotify.com/album/6bN09QGl9EMUQZjZJhH787) | 3:04 |
 | 93 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
 | 94 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
 | 95 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |

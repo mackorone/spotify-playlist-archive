@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92014,
+  "num_followers": 92023,
   "original_name": "This Is NOFX",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACajg6DhutleWVIsqtiIjap",
+  "snapshot_id": "aIwDgAAAAACp+KEjC29cMdpmDlnHUtQ9",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest EP",
-        "url": "https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 30880,
-      "name": "I Wanna Be an Alcoholic",
-      "url": "https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 140333,
       "name": "Bottles To The Ground",
       "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Longest EP",
+        "url": "https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 30880,
+      "name": "I Wanna Be an Alcoholic",
+      "url": "https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "Drugs Are Good",
-      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ribbed",
         "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 146933,
       "name": "The Moron Brothers",
       "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Drugs Are Good",
+      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest Line",
-        "url": "https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 124026,
-      "name": "The Longest Line",
-      "url": "https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ribbed",
         "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 104466,
       "name": "Green Corn",
       "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Longest Line",
+        "url": "https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 124026,
+      "name": "The Longest Line",
+      "url": "https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "We Threw Gasoline.......",
-      "url": "https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 58000,
       "name": "And Now For Something Completely Similar",
       "url": "https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline.......",
+      "url": "https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 94760,
-      "name": "I Believe in Goddess",
-      "url": "https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 99333,
       "name": "Thank God It's Monday",
       "url": "https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 48933,
+      "name": "Hobophobic (Scared of Bums)",
+      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 48933,
-      "name": "Hobophobic (Scared of Bums)",
-      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
+      "duration_ms": 94760,
+      "name": "I Believe in Goddess",
+      "url": "https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP"
     },
     {
       "added_at": null,

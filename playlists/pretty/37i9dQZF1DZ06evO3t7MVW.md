@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,554 likes - 45 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,619 likes - 45 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 9 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
 | 10 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
 | 11 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:13 |
-| 12 | [Breathe](https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:52 |
-| 13 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 |
+| 12 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 |
+| 13 | [Breathe](https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:52 |
 | 14 | [Easy Runaway](https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:45 |
 | 15 | [Home \(with Stick Figure\)](https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Home \(with Stick Figure\)](https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG) | 3:30 |
 | 16 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 44 | [Livin' It](https://open.spotify.com/track/7Jc9CbbxW8c1VVUIRdrpyL) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50) | 5:59 |
 | 45 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
 
-Snapshot ID: `aIqyAAAAAABAnfhQUOSl37X3R0Sfw1Pp`
+Snapshot ID: `aIwDgAAAAABa7c6MRbrv182WYkdt/Agk`

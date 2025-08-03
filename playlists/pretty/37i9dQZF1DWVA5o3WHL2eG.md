@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,538 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,537 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Pole Dance](https://open.spotify.com/track/67gESpBbdx0duQfJrR2S5D) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Pole Dance](https://open.spotify.com/album/0yRJlNI1sT5b58S1ItIGv8) | 2:15 |
 | 10 | [seele berührst](https://open.spotify.com/track/5AIDqFb0rSQ57uEjvLXoYM) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [seele berührst](https://open.spotify.com/album/36WF7ZWbfoYQFMuJp4IVQ5) | 2:31 |
 | 11 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 |
-| 12 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
-| 13 | [Mittelfinger an die Welt](https://open.spotify.com/track/45tBd0y6RzCjxsvvhXtu36) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Mittelfinger an die Welt](https://open.spotify.com/album/3byCUpqK0ejOy6F31HUG5P) | 3:05 |
+| 12 | [Mittelfinger an die Welt](https://open.spotify.com/track/45tBd0y6RzCjxsvvhXtu36) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Mittelfinger an die Welt](https://open.spotify.com/album/3byCUpqK0ejOy6F31HUG5P) | 3:05 |
+| 13 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
 | 14 | [Du bist high](https://open.spotify.com/track/233eDMI71mHNwJAs4ybgiM) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Du bist high](https://open.spotify.com/album/7yYWzxqLM1W6sKHPJMMwxf) | 2:21 |
 | 15 | [Warmes Bier](https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Warmes Bier](https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS) | 3:30 |
-| 16 | [Slutalarm](https://open.spotify.com/track/2ehLRnItNnf7ZpsVwBpqyL) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Slutalarm](https://open.spotify.com/album/6yaF2YkJKkxpIGmgEpOE7X) | 2:06 |
-| 17 | [Kompliziert](https://open.spotify.com/track/1VDDgtiLnisslIs7eW05kC) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Kompliziert](https://open.spotify.com/album/7aT3DsuT9rOxUsJ27RIjO2) | 2:16 |
+| 16 | [Kompliziert](https://open.spotify.com/track/1VDDgtiLnisslIs7eW05kC) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Kompliziert](https://open.spotify.com/album/7aT3DsuT9rOxUsJ27RIjO2) | 2:16 |
+| 17 | [Slutalarm](https://open.spotify.com/track/2ehLRnItNnf7ZpsVwBpqyL) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Slutalarm](https://open.spotify.com/album/6yaF2YkJKkxpIGmgEpOE7X) | 2:06 |
 | 18 | [Ghost](https://open.spotify.com/track/15CXWtEaOlVG2Yj5L77zc8) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Ghost](https://open.spotify.com/album/6J5ilFhuhNabaHEOgc20IP) | 3:56 |
 | 19 | [Monster](https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Monster](https://open.spotify.com/album/5yWCQzEieyTdAkNZjEhF0q) | 3:21 |
 | 20 | [Juni](https://open.spotify.com/track/2CN0oT18drL0GQE37L3L3L) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Juni](https://open.spotify.com/album/6kl1JA5GLEHeQI23ZBPPBP) | 2:45 |
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Beef mit Cheese](https://open.spotify.com/track/7kGXwP9T9GIyh9OtE35Exa) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Beef mit Cheese](https://open.spotify.com/album/6JRLgnsKoChIn221XEC6Tm) | 2:30 |
 | 24 | [KEEP IT COOL](https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [KEEP IT COOL](https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz) | 2:53 |
 | 25 | [Heartbeat](https://open.spotify.com/track/1XgvBVu8e8UKBPpMr5Tt3h) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Heartbeat](https://open.spotify.com/album/0hUZZpVl5ldz7taDEa9msj) | 4:27 |
-| 26 | [GESTERN/HEUTE?](https://open.spotify.com/track/1WdHJRjPR83aQDZdsYysEG) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [GESTERN/HEUTE?](https://open.spotify.com/album/22XZso4bfbyELatOzOrIk8) | 3:30 |
-| 27 | [Wachstumsschmerzen](https://open.spotify.com/track/0TqphWNI5JXSZOGhLB50a8) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Wachstumsschmerzen](https://open.spotify.com/album/0E13QRKmzco6XVMNh72LSL) | 3:14 |
-| 28 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 |
-| 29 | [Ego](https://open.spotify.com/track/7eDmnuJY1U8HqvZuA5PRlf) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Geb dir alles, stimmt so](https://open.spotify.com/album/50CL8CSrwQQghQSrkNRU1S) | 2:28 |
-| 30 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
+| 26 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 |
+| 27 | [GESTERN/HEUTE?](https://open.spotify.com/track/1WdHJRjPR83aQDZdsYysEG) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [GESTERN/HEUTE?](https://open.spotify.com/album/22XZso4bfbyELatOzOrIk8) | 3:30 |
+| 28 | [Wachstumsschmerzen](https://open.spotify.com/track/0TqphWNI5JXSZOGhLB50a8) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Wachstumsschmerzen](https://open.spotify.com/album/0E13QRKmzco6XVMNh72LSL) | 3:14 |
+| 29 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
+| 30 | [Ego](https://open.spotify.com/track/7eDmnuJY1U8HqvZuA5PRlf) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Geb dir alles, stimmt so](https://open.spotify.com/album/50CL8CSrwQQghQSrkNRU1S) | 2:28 |
 | 31 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
 | 32 | [Ich schieb dich weg von mir](https://open.spotify.com/track/0sZf4kmVCFQOkyiZKV6gQz) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Ich schieb dich weg von mir](https://open.spotify.com/album/0CKVsNssG0HOfYzKZRG8yD) | 2:29 |
 | 33 | [KC](https://open.spotify.com/track/3HDle0GoI8VcCXGvcT0J7f) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [KC](https://open.spotify.com/album/6peo23Qvr0Hd2ytbuVOx1D) | 2:05 |

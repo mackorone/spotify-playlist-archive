@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACldRxTvcp1rIfWG2a6k5sY",
+  "snapshot_id": "aIwDgAAAAAD/im8QvwHCBQ1FavdmeuDC",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gado",
+        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 238080,
       "name": "Deixa Ela",
       "url": "https://open.spotify.com/track/6Ko0LtUSamxOleNdwcM5DL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gado",
-        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
     },
     {
       "added_at": null,
@@ -883,30 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Outra Dimens\u00e3o",
-      "url": "https://open.spotify.com/track/3M7c2mwQOZZS5KnXtJqXX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas no Topo 4",
         "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 414703,
       "name": "Poetisas no Topo 4",
       "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Outra Dimens\u00e3o",
+      "url": "https://open.spotify.com/track/3M7c2mwQOZZS5KnXtJqXX4"
     },
     {
       "added_at": null,
@@ -1055,6 +1055,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ainda \u00c9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        }
+      ],
+      "duration_ms": 157006,
+      "name": "Por Aqui",
+      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
       },
@@ -1079,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ainda \u00c9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        }
-      ],
-      "duration_ms": 157006,
-      "name": "Por Aqui",
-      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Culpa \u00c9 das Igrejas / Sinais",
         "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
@@ -1119,6 +1119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239166,
+      "name": "Efeito Violeta",
+      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 208695,
       "name": "No Cais",
       "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239166,
-      "name": "Efeito Violeta",
-      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
     },
     {
       "added_at": null,
@@ -1195,6 +1195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Vai Partir",
+      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 185454,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Vai Partir",
-      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
     },
     {
       "added_at": null,

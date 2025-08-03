@@ -1,6 +1,6 @@
 {
   "description": "The 100 greatest EA SPORTS FC tracks of all time",
-  "num_followers": 312217,
+  "num_followers": 312232,
   "original_name": "EA SPORTS FC Ultimate Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2022-11-07 18:00:00",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 179853,
       "name": "Cobrastyle (feat. Mad Cobra) - As featured in Superman",
       "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
-    },
-    {
-      "added_at": "2022-11-07 18:00:00",
-      "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
     },
     {
       "added_at": "2022-11-07 18:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Levanta e Anda",
-      "url": "https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh"
-    },
-    {
-      "added_at": "2022-11-07 18:00:00",
-      "album": {
         "name": "Partie Traumatic",
         "url": "https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 217706,
       "name": "I'm Not Gonna Teach Your Boyfriend How to Dance with You",
       "url": "https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j"
+    },
+    {
+      "added_at": "2022-11-07 18:00:00",
+      "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Levanta e Anda",
+      "url": "https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh"
     },
     {
       "added_at": "2022-11-07 18:00:00",

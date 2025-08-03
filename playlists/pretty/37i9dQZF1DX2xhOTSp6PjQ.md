@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC?si=\_LoElR0\-Q3C6RrYnQvpzCg">Navigator Gcwensa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,309 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,428 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

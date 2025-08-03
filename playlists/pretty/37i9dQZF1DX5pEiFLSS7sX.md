@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,939 likes - 75 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,004 likes - 75 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 72 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
 | 73 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
 | 74 | [Take Courage \(Radio Version\)](https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:01 |
-| 75 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
+| 75 | [Wonder \(Spontaneous\) \- Live](https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ) | [Bethel Music\|Amanda Lindsey Cook](https://open.spotify.com/artist/5ZXoFwpHZ0y0Try39IKAZ2) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:31 |
 
 Snapshot ID: `Zq3mVAAAAADbi/ciHjsYLnYyJV2CbK/t`

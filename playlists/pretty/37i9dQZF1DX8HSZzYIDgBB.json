@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Buscabulla en portada.",
-  "num_followers": 39498,
+  "num_followers": 39499,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -927,30 +927,6 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "No Parar\u00e1",
-        "url": "https://open.spotify.com/album/0IoVpR3PF5uOUfbGJ5KAOe"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Timpana",
-          "url": "https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0"
-        },
-        {
-          "name": "Biomigrant",
-          "url": "https://open.spotify.com/artist/5H59BW8KCUmuwDMGVvuatk"
-        }
-      ],
-      "duration_ms": 203582,
-      "name": "No Parar\u00e1",
-      "url": "https://open.spotify.com/track/5gnsv6OSaOHo0Si19gU5PR"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
         "name": "Negro Santo",
         "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
       },
@@ -971,6 +947,30 @@
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "No Parar\u00e1",
+        "url": "https://open.spotify.com/album/0IoVpR3PF5uOUfbGJ5KAOe"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Timpana",
+          "url": "https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0"
+        },
+        {
+          "name": "Biomigrant",
+          "url": "https://open.spotify.com/artist/5H59BW8KCUmuwDMGVvuatk"
+        }
+      ],
+      "duration_ms": 203582,
+      "name": "No Parar\u00e1",
+      "url": "https://open.spotify.com/track/5gnsv6OSaOHo0Si19gU5PR"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Mi vida en llamas (feat. Buscabulla)",
-        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Mi vida en llamas (feat. Buscabulla)",
-      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
         "name": "Levante la Mano (Remixes)",
         "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "Mi vida en llamas (feat. Buscabulla)",
+        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Mi vida en llamas (feat. Buscabulla)",
+      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
     },
     {
       "added_at": "2025-07-25 06:00:35",

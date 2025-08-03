@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Sintoniza los éxitos románticos del siglo pasado 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,433 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,546 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 38 | [Acepta Mi Error](https://open.spotify.com/track/3cw7R2QQKqkQfMTUSRJebL) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [15 Super Exitos Vol\. 2](https://open.spotify.com/album/7jSBOT8Dv2Knavq4HxOErj) | 3:24 |
 | 39 | [A Tu Recuerdo](https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [A Tu Recuerdo](https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY) | 3:26 |
 | 40 | [Un Dolor](https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Los Yonic's](https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt) | 3:12 |
-| 41 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
+| 41 | [Mi amor es para ti](https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:53 |
 | 42 | [Luto En Mi Alma](https://open.spotify.com/track/75losSBec1tZJmJb4pzURW) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Los Exitos de Los Terricolas](https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG) | 4:05 |
-| 43 | [Mi amor es para ti](https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:53 |
+| 43 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
 | 44 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 |
 | 45 | [Ángel de la Mañana](https://open.spotify.com/track/7rcVxm6J2GC1Wg3ucPpFyH) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [15 Exitos, Vol\. I](https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr) | 2:45 |
 | 46 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 73 | [Anoche Me Enamore](https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc) | [Polo Y Los Apson](https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV) | [15 Exitos Del Recuerdo](https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2) | 2:21 |
 | 74 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
 | 75 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
-| 76 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
-| 77 | [Porque Nos Dijimos Adios](https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:07 |
+| 76 | [Porque Nos Dijimos Adios](https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:07 |
+| 77 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
 | 78 | [Al ritmo de la lluvia \- Rhythm of the Rain](https://open.spotify.com/track/52C4jG5kIhSZbAGErim8nr) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:20 |
 | 79 | [Tú Eres](https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx) | [Generacion 2000](https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:20 |
 | 80 | [Corazón De Roca](https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru) | [Los Fresno](https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU) | [Emonciones Sin Limite \(Volumen 5\)](https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42) | 3:15 |

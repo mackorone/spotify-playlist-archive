@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,732 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,837 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 49 | [O Amigo De Nova York](https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Mais Que Um Momento](https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq) | 4:12 |
 | 50 | [Pernalonga](https://open.spotify.com/track/2ZHVIsWO8NG86yh5uiEA0t) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:43 |
 
-Snapshot ID: `AAAAAG57zRT6lqi47w3hwo7xb+SgxJMb`
+Snapshot ID: `aHF9AAAAAABKC96r6JM+1IpESb8DE6Mq`

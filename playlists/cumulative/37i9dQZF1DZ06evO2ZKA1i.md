@@ -4,7 +4,7 @@
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-111 songs - 9 hr 0 min
+113 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Bloodsucker \- 1995 Remaster](https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 4:13 | 2022-09-17 |  |
 | [Burn \- Remastered 2004](https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 6:04 | 2022-09-17 |  |
 | [Child in Time](https://open.spotify.com/track/21cp8L9Pei4AgysZVihjSv) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple: The Very Best of Deep Purple](https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8) | 10:19 | 2022-12-09 | 2023-03-04 |
-| [Child in Time \- 1995 Remaster](https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 10:13 | 2022-09-17 |  |
+| [Child in Time \- 1995 Remaster](https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 10:13 | 2022-09-17 | 2025-08-03 |
+| [Child In Time \- Superhuman Stranger Things Version](https://open.spotify.com/track/0H4GqAsdLZWRR4uytEBrNl) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Child In Time \(Superhuman Stranger Things Version\)](https://open.spotify.com/album/6ZwsgTLmCaxB7DwfgVAlEB) | 3:27 | 2025-08-03 |  |
 | [Clearly Quite Absurd \- 20th Anniversary Remix](https://open.spotify.com/track/3xfE6JRSXXb0MGcvEVVznx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Clearly Quite Absurd \(20th Anniversary Remix\)](https://open.spotify.com/album/2QpCKAXux70Uw5nOcvlb34) | 5:24 | 2025-07-02 | 2025-07-29 |
 | [Clearly Quite Absurd \- 20th Anniversary Remix](https://open.spotify.com/track/6FSwV4KcUqDbI4ezdtJi7i) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Clearly Quite Absurd \(20th Anniversary Remix\)](https://open.spotify.com/album/2HRy0wUf6WzybWC8rPIBuZ) | 5:24 | 2025-07-29 |  |
 | [Dead Or Alive](https://open.spotify.com/track/4pv6tqh22aGX4G7sSusUkY) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:42 | 2022-09-17 | 2022-10-07 |
@@ -106,6 +107,7 @@
 | [Strange Kind Of Woman](https://open.spotify.com/track/6DF6Rc1lxiC2b4tcZdbiWc) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Very Best Of Made In Japan](https://open.spotify.com/album/0JGrL3JQONQhELODh9Y5YH) | 3:53 | 2025-05-07 |  |
 | [The Battle Rages On \- Live in 95](https://open.spotify.com/track/5NysoJPYsqu2CSNQZMQ1rn) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Bombay Calling \(Live in 95\)](https://open.spotify.com/album/1jtvoaDptF8n966xLCqmvV) | 6:36 | 2022-09-17 | 2022-11-04 |
 | [The Gypsy \- 2009 Digital Remaster](https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:05 | 2023-03-22 | 2025-06-20 |
+| [Things I Never Said \- 20th Anniversary Remix](https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Things I Never Said](https://open.spotify.com/album/2NQGMl5fRl0EBcRBOK10XI) | 4:47 | 2025-08-03 |  |
 | [Throw My Bones](https://open.spotify.com/track/4W1SllpK1wf1I2YeW3tG0D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Throw My Bones](https://open.spotify.com/album/2AcI2wEIIt2J8f8m0gEV2b) | 3:38 | 2022-09-17 |  |
 | [Uncommon Man \- Instrumental Version](https://open.spotify.com/track/2qMrO5n4RgUpHA17HlUPt9) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 6:58 | 2022-09-25 | 2022-09-29 |
 | [Uncommon Man \- Live in Milan 2022](https://open.spotify.com/track/3ftndNxqfHApb1Ui29pZJc) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Pictures of You](https://open.spotify.com/album/5EC1eyGZyHGTTMQzO4YqSl) | 6:46 | 2024-06-28 | 2024-07-05 |
@@ -116,7 +118,7 @@
 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 | 2022-09-17 | 2025-07-28 |
 | [White Room](https://open.spotify.com/track/2RMp39cxDzwxu9ITM8HVB7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/0PSAOfLIqsdfWbwWkF1Hu2) | 4:53 | 2022-09-17 | 2024-05-26 |
 | [Woman From Tokyo \- Remastered 2000](https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:51 | 2022-09-17 |  |
-| [You Can't Do It Right \- 2009 Digital Remaster](https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:25 | 2023-10-10 |  |
+| [You Can't Do It Right \- 2009 Digital Remaster](https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:25 | 2023-10-10 | 2025-08-03 |
 | [You Fool No One \- Remastered 2004](https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:47 | 2023-01-09 |  |
 | [You Keep On Moving \- 2010 Digital Remaster](https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 5:24 | 2022-10-12 |  |
 

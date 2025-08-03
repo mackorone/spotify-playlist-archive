@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fcukers",
-  "num_followers": 37218,
+  "num_followers": 37246,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2025-08-01 11:02:07",
       "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
+    },
+    {
+      "added_at": "2025-08-01 11:02:07",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
-    },
-    {
-      "added_at": "2025-08-01 11:02:07",
-      "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     },
     {
       "added_at": "2025-08-01 11:02:07",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-08-01 11:02:07",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+    },
+    {
+      "added_at": "2025-08-01 11:02:07",
+      "album": {
         "name": "Show the Way",
         "url": "https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J"
       },
@@ -727,26 +743,6 @@
       "duration_ms": 261120,
       "name": "Show the Way",
       "url": "https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy"
-    },
-    {
-      "added_at": "2025-08-01 11:02:07",
-      "album": {
-        "name": "Hallucinating Love",
-        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        }
-      ],
-      "duration_ms": 210994,
-      "name": "Peace Talk",
-      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
       "added_at": "2025-08-01 11:02:07",
@@ -767,18 +763,22 @@
     {
       "added_at": "2025-08-01 11:02:07",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
         }
       ],
-      "duration_ms": 279346,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+      "duration_ms": 210994,
+      "name": "Peace Talk",
+      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
       "added_at": "2025-08-01 11:02:07",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-01 11:02:07",
       "album": {
-        "name": "Hey Hi Hello",
-        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Hey Hi Hello",
-      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
-    },
-    {
-      "added_at": "2025-08-01 11:02:07",
-      "album": {
         "name": "Mutt",
         "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 200625,
       "name": "Mutt",
       "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
+    },
+    {
+      "added_at": "2025-08-01 11:02:07",
+      "album": {
+        "name": "Hey Hi Hello",
+        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Hey Hi Hello",
+      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
     },
     {
       "added_at": "2025-08-01 11:02:07",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-08-01 11:02:07",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Seint Monet",
-          "url": "https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh"
-        }
-      ],
-      "duration_ms": 222814,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G"
-    },
-    {
-      "added_at": "2025-08-01 11:02:07",
-      "album": {
         "name": "Lobster Telephone (Edit)",
         "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
       },
@@ -959,26 +939,6 @@
       "duration_ms": 214315,
       "name": "Lobster Telephone - Edit",
       "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
-    },
-    {
-      "added_at": "2025-08-01 11:02:07",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 227934,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
     },
     {
       "added_at": "2025-08-01 11:02:07",
@@ -1007,26 +967,42 @@
     {
       "added_at": "2025-08-01 11:02:07",
       "album": {
-        "name": "How You Feel (Ft. Leven Kali)",
-        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         },
         {
-          "name": "Erik Bandt",
-          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Seint Monet",
+          "url": "https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh"
         }
       ],
-      "duration_ms": 196853,
-      "name": "How You Feel (Ft. Leven Kali)",
-      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+      "duration_ms": 222814,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G"
+    },
+    {
+      "added_at": "2025-08-01 11:02:07",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 227934,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
     },
     {
       "added_at": "2025-08-01 11:02:07",
@@ -1063,6 +1039,30 @@
       "duration_ms": 203869,
       "name": "Seasoning (feat. 2b.Frank)",
       "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
+    },
+    {
+      "added_at": "2025-08-01 11:02:07",
+      "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
     },
     {
       "added_at": "2025-08-01 11:02:07",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2025-08-01 11:02:07",
       "album": {
+        "name": "Playa Paradiso",
+        "url": "https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP"
+      },
+      "artists": [
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 185353,
+      "name": "Playa Paradiso",
+      "url": "https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU"
+    },
+    {
+      "added_at": "2025-08-01 11:02:07",
+      "album": {
         "name": "From The Stars EP",
         "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 366149,
       "name": "I Have a Love (Overmono Remix)",
       "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
-    },
-    {
-      "added_at": "2025-08-01 11:02:07",
-      "album": {
-        "name": "Playa Paradiso",
-        "url": "https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP"
-      },
-      "artists": [
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 185353,
-      "name": "Playa Paradiso",
-      "url": "https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU"
     },
     {
       "added_at": "2025-08-01 11:02:07",

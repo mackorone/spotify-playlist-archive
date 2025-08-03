@@ -4,7 +4,7 @@
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-177 songs - 9 hr 22 min
+178 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Indispensable](https://open.spotify.com/track/6nyVsttURcc9uT3JcHLNO7) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:33 | 2023-06-02 | 2024-05-01 |
 | [Indispensable](https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:33 | 2024-05-01 |  |
 | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 | 2024-03-30 | 2024-08-12 |
-| [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 | 2023-08-25 |  |
+| [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 | 2023-08-25 | 2025-08-03 |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-06-01 | 2023-08-26 |
 | [La Chancleta](https://open.spotify.com/track/5XZvJ6snWZ66bKyoPZm7wz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [La Chancleta](https://open.spotify.com/album/4F17JOxOh0m4lMrwgJS6iy) | 3:01 | 2024-08-25 | 2024-12-16 |
 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 | 2022-10-11 | 2025-03-16 |
@@ -183,6 +183,7 @@
 | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4) | 3:49 | 2022-10-20 | 2023-03-04 |
 | [Vivir Sin Aire](https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Noches De Cantina](https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g) | 3:53 | 2025-06-08 |  |
 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 | 2022-12-13 | 2023-12-14 |
+| [Y SI TE VAS](https://open.spotify.com/track/20L8fUsTo0eK1cdzTyH7v9) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Y SI TE VAS](https://open.spotify.com/album/5TgDIHQBUUuFbsdCMEOyrL) | 2:57 | 2025-08-03 |  |
 | [⁠1](https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:39 | 2024-06-10 |  |
 | [⁠Aviso importante](https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Bolela](https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:11 | 2024-06-09 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 45954,
+  "num_followers": 45962,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACvk3G9JJO6OW6dQPyTF03u",
+  "snapshot_id": "aIwDgAAAAADWAvbMLUxh+1JXU8MT+T5X",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ritan Bells",
-        "url": "https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 222354,
-      "name": "The Ritan Bells 1",
-      "url": "https://open.spotify.com/track/0sdDAvQcCpJkuIGIjFj1qW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 99872,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ritan Bells",
+        "url": "https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 222354,
+      "name": "The Ritan Bells 1",
+      "url": "https://open.spotify.com/track/0sdDAvQcCpJkuIGIjFj1qW"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 304111,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
+      "duration_ms": 143133,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
     },
     {
       "added_at": null,
@@ -431,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrong Way Up [Expanded Edition]",
-        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 327120,
-      "name": "Spinning Away",
-      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
+      "duration_ms": 304111,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Wrong Way Up [Expanded Edition]",
+        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 143133,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
+      "duration_ms": 327120,
+      "name": "Spinning Away",
+      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 244676,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+      "duration_ms": 244676,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
     },
     {
       "added_at": null,

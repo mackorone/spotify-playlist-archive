@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,234 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,265 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 12 | [Do Not Disturb](https://open.spotify.com/track/6oIjJi274wP86uqFxQRlKV) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:23 |
 | 13 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 |
 | 14 | [Back From The Dead](https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:30 |
-| 15 | [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 |
+| 15 | [Freak Like Me](https://open.spotify.com/track/3Akw1yw6W6bQ7GXB0FCoe5) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:38 |
 | 16 | [It's Not You](https://open.spotify.com/track/1piXfcb5rq0vuilQ6kC2Jx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 2:54 |
 | 17 | [I Like It Heavy](https://open.spotify.com/track/6cIZP8nszUUtkwbxEW6wBN) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 4:54 |
 | 18 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
-| 19 | [Freak Like Me](https://open.spotify.com/track/3Akw1yw6W6bQ7GXB0FCoe5) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:38 |
+| 19 | [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 |
 | 20 | [Raise Your Horns](https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:18 |
 | 21 | [Amen](https://open.spotify.com/track/6WXN5Pvim9BKB6Wb765II5) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 2:58 |
 | 22 | [Song of Women \(feat\. Lzzy Hale of Halestorm\)](https://open.spotify.com/track/1OZ2eE4InmLDhl5KVG002w) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Gereg \(Deluxe Edition\)](https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys) | 5:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 48 | [Straight Through the Heart](https://open.spotify.com/track/13sFHP8az3xl5fIchnLr03) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Ronnie James Dio \- This Is Your Life](https://open.spotify.com/album/76DxuvfdC3lmCDLFf6rSWw) | 3:58 |
 | 49 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 |
 
-Snapshot ID: `aIqyAAAAAAA8unC5sZfodq4lGO0S8lYC`
+Snapshot ID: `aIwDgAAAAABtAwrJMq5mss9HygS0BoPA`

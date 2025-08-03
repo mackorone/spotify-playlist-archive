@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,653 songs - 4 day 3 hr 53 min
+1,654 songs - 4 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2024-04-12 | 2024-04-19 |
 | [OTSUKARE](https://open.spotify.com/track/5D7cpfBzFfsipwXmpThyle) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [OTSUKARE](https://open.spotify.com/album/6exMtoSnYWu0YGuHYqDJF1) | 3:15 | 2023-03-28 | 2023-04-05 |
 | [Ougenkyou](https://open.spotify.com/track/3gNHmX2z5oIgkRPfSlWWqX) | [HUGEN](https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw) | [MATSURI](https://open.spotify.com/album/3HzanWStqKM9wKOYBIHVMx) | 4:43 | 2025-05-08 | 2025-05-28 |
+| [OUR HEAVEN \- feat\. Daichi Yamamoto](https://open.spotify.com/track/5PrhjJFjOBkT0ZmzuH1Zu5) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [OUR HEAVEN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/album/4SRNt4p7OQGGE2x6bNsZgu) | 4:00 | 2025-07-30 |  |
 | [Our Moon \- feat\. London Lawhon](https://open.spotify.com/track/415TXcyD71rjZrOgrfa5o3) | [ArrowArrow](https://open.spotify.com/artist/6f6aiorf7uXCX4qDTDRTIv) | [Our Moon \(feat\. London Lawhon\)](https://open.spotify.com/album/5tRYMPoFkm3thb7JemPGOf) | 2:54 | 2022-05-26 | 2022-06-24 |
 | [Our Place](https://open.spotify.com/track/5NP138SXXvwjJUN9yhS1V1) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Our Place](https://open.spotify.com/album/0LIiMRs1m29orPVNQf8jFD) | 4:22 | 2024-01-09 | 2024-01-17 |
 | [Out of Time](https://open.spotify.com/track/6qumar2t7Xc9nIFImLPhrI) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr), [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT), [中野陽介 \(Emerald\)](https://open.spotify.com/artist/0739BfOyf0T8AiIKiS6ZcX) | [Out of Time](https://open.spotify.com/album/4Ylz6nmANgm0MKdmKsRGhB) | 3:31 | 2023-11-21 | 2023-11-29 |
@@ -1163,7 +1164,7 @@
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2024-02-07 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |
 | [Trash into the Sea \- re\-arranged by JunIzawa](https://open.spotify.com/track/6hou4tFkkHdzWqVpYyKL1z) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX), [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [Trash into The Sea \(re\-arranged by JunIzawa\)](https://open.spotify.com/album/0jYL5BHGkwG5nss3ajyTO9) | 4:20 | 2022-05-31 | 2022-07-06 |
-| [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-04-12 |  |
+| [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-04-12 | 2025-08-03 |
 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 | 2022-10-25 | 2023-02-03 |
 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 | 2022-10-04 | 2024-04-19 |
 | [Trip](https://open.spotify.com/track/3z3FInUn8TSfGKjPxOZ0VY) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Trip](https://open.spotify.com/album/5AAb2Ggk8How7c0Ye83dGp) | 4:35 | 2022-06-07 | 2022-07-20 |

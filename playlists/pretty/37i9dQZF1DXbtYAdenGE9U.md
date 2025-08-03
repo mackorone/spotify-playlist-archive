@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,510 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,857 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 22 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 23 | [Gouryella](https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Gouryella](https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL) | 3:37 |
 | 24 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
-| 25 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 3:31 |
-| 26 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
-| 27 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
-| 28 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 |
-| 29 | [Mystery Land](https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt) | [Y\-Traxx](https://open.spotify.com/artist/5s2mMsZZjqenfPaKVW4bpT) | [Clubbin'spirit 2](https://open.spotify.com/album/1YJ8Bo9MWNOHh1BImavPht) | 4:01 |
+| 25 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
+| 26 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
+| 27 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 3:31 |
+| 28 | [Mystery Land](https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt) | [Y\-Traxx](https://open.spotify.com/artist/5s2mMsZZjqenfPaKVW4bpT) | [Clubbin'spirit 2](https://open.spotify.com/album/1YJ8Bo9MWNOHh1BImavPht) | 4:01 |
+| 29 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 |
 | 30 | [Greece 2000 \- Edit](https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Greece 2000](https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n) | 3:39 |
 | 31 | [Time to Burn \- Radio Edit](https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC) | [Storm](https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0) | [Time To Burn 2010](https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku) | 2:55 |
 | 32 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 |

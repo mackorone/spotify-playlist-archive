@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: RØZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,915 likes - 103 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,425 likes - 103 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 102 | [Pega](https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Pega](https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM) | 2:47 |
 | 103 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 |
 
-Snapshot ID: `AAAAANgkeLj2hZJTNHpsVUosPB144lcq`
+Snapshot ID: `aIxJwQAAAABiyqAYpRBHYDt+o3VjUkb9`

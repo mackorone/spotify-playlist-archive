@@ -4,12 +4,13 @@
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 34 min
+51 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Tis Autumn \- Mono](https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 5:21 | 2025-07-20 |  |
 | [Alone Together \- Mono](https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 6:52 | 2025-07-20 |  |
+| [Arbor Way \- Live](https://open.spotify.com/track/7AbQKNo2zRzIIcfsFBMG2B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Arbor Way](https://open.spotify.com/album/5kgehWQxGx18XktyTfHyQt) | 5:18 | 2025-08-03 |  |
 | [Autumn In New York](https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 7:04 | 2025-07-20 |  |
 | [Autumn Leaves](https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 7:03 | 2025-07-20 |  |
 | [Blue Bossa](https://open.spotify.com/track/2xIJC8c665FT6FWmmFETQm) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Ballads For Two](https://open.spotify.com/album/1wXiZcjOj0oUX4rJqUiOQl) | 3:47 | 2025-07-20 |  |

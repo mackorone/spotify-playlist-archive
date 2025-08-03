@@ -4,7 +4,7 @@
 
 > Songs that are queer\. TO ME.
 
-32 songs - 1 hr 47 min
+33 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 | 2024-05-28 |  |
 | [Blood Moon Love](https://open.spotify.com/track/4J28eKrMo7vD217UlbcZat) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Blood Moon Love](https://open.spotify.com/album/19Tzd7YSXaZBlmekmwcCE8) | 2:43 | 2025-07-08 |  |
 | [Bulletproof Heart](https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:56 | 2024-01-02 |  |
+| [Butcheress](https://open.spotify.com/track/6NOM8JwiXQc0RuXCMOWuH5) | [Rabbitology](https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO) | [Butcheress](https://open.spotify.com/album/5Ab3UY74alxyACczdMB5pc) | 4:10 | 2025-08-02 |  |
 | [Cancer](https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:22 | 2024-11-09 |  |
 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2024-10-09 |  |
 | [Doing Alright with the Boys](https://open.spotify.com/track/3bEbNVEnYpcg6Lp2X3WCah) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:38 | 2024-10-12 |  |

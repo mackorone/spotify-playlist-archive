@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: Paloma Morphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,464 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,501 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 30 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 |
 | 31 | [A Veces A Besos](https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [A Veces A Besos](https://open.spotify.com/album/63JayllHAHJ5N3auAorY2w) | 3:38 |
 | 32 | [No Me Acuerdo](https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:37 |
-| 33 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 |
-| 34 | [García](https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [GARCÍA](https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo) | 2:42 |
+| 33 | [García](https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [GARCÍA](https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo) | 2:42 |
+| 34 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 |
 | 35 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
-| 36 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
-| 37 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 |
-| 38 | [Palgo](https://open.spotify.com/track/0Uoeajf2thrY0exQCvcoSX) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Palgo](https://open.spotify.com/album/0pTa6tBimaUvVSdUDAQNDk) | 2:38 |
+| 36 | [Palgo](https://open.spotify.com/track/0Uoeajf2thrY0exQCvcoSX) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Palgo](https://open.spotify.com/album/0pTa6tBimaUvVSdUDAQNDk) | 2:38 |
+| 37 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
+| 38 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 |
 | 39 | [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 |
 | 40 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
 | 41 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 93 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 |
 | 94 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 |
 | 95 | [Baila Conmigo](https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Baila Conmigo](https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6) | 2:43 |
-| 96 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
-| 97 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
+| 96 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
+| 97 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
 | 98 | [POR EL CONTRARIO \(DEMO\)](https://open.spotify.com/track/2GIebvHnyaKLLHgQ58f98j) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [POR EL CONTRARIO](https://open.spotify.com/album/2cnThiqtDHLhqWA37xkDFh) | 3:17 |
 | 99 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
 | 100 | [Los Besos Que Te Di](https://open.spotify.com/track/0tJ0ZGuHUKJIseLFlPlkXC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:29 |

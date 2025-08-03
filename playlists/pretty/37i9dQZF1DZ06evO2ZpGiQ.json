@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 464952,
+  "num_followers": 465022,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIqyAAAAAACdOZ02wFuuFhcP7Gwuj2P8",
+  "snapshot_id": "aIwDgAAAAABy/NSm0aseAG5rjO/MQMaI",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 155292,
-      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me U & Hennessy (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 224971,
       "name": "Me U & Hennessy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 155292,
+      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
     },
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
+      },
+      "artists": [
+        {
+          "name": "Kevin Rudolf",
+          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Let It Rock",
+      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hall Of Fame (Deluxe)",
         "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
-      },
-      "artists": [
-        {
-          "name": "Kevin Rudolf",
-          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Let It Rock",
-      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 215425,
-      "name": "Welcome to Tha Carter",
-      "url": "https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 215425,
+      "name": "Welcome to Tha Carter",
+      "url": "https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
         "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
       },
@@ -1007,6 +1007,26 @@
       "duration_ms": 218746,
       "name": "High School",
       "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Mad At Me (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Baby Mad At Me (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
     },
     {
       "added_at": null,
@@ -1043,26 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Mad At Me (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Baby Mad At Me (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -1091,26 +1091,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH"
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 267692,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz"
+      "duration_ms": 60000,
+      "name": "Droppin' Seeds (feat. Lil' Wayne)",
+      "url": "https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV"
     }
   ],
   "unique_name": "This Is Lil Wayne",

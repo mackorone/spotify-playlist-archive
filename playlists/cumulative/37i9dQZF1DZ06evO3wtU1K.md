@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-113 songs - 10 hr 36 min
+114 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 | 2025-05-18 |  |
 | [Awake My Soul](https://open.spotify.com/track/1HkXH8anJdvM3zjouj4E9k) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/19yNOXDt9RzLmAU2j9YnML) | 3:45 | 2022-09-14 | 2025-07-12 |
 | [Awake My Soul](https://open.spotify.com/track/1OfkAN8mUaNCR2aXGpfrbg) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/0vtGFiSSmdHEnAb2faXyzC) | 3:45 | 2025-04-01 |  |
-| [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 | 2023-12-13 |  |
+| [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 | 2023-12-13 | 2025-08-03 |
 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 | 2022-09-14 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/7AR9lcmp2YH1eYhpSHB2Pz) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Bridge Over Troubled Water](https://open.spotify.com/album/0nvkheyJnQtb60m9bFjgkQ) | 5:48 | 2023-11-10 | 2023-12-14 |
 | [Burdens Down \- Live](https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 4:22 | 2022-10-10 |  |
@@ -52,6 +52,7 @@
 | [I Have Found \(feat\. Tasha Cobbs\)](https://open.spotify.com/track/0GJSzQn3vOXWYbhGPvfMDX) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:33 | 2024-06-04 | 2024-07-12 |
 | [I Love This Place \- Live](https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 3:03 | 2024-01-03 |  |
 | [I Needed God](https://open.spotify.com/track/4bSBB0OyRIUqz6LcT8162M) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 3:16 | 2025-07-31 |  |
+| [I Want More](https://open.spotify.com/track/36fuvtDlb4y3qGjI0UOQLN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:16 | 2025-08-03 |  |
 | [I Will Follow](https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 5:33 | 2022-09-14 |  |
 | [I'm Free \- Live](https://open.spotify.com/track/5GYogyslF0t1JkhCDv0UE0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 0:54 | 2024-01-25 | 2024-07-29 |
 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 | 2022-09-14 |  |

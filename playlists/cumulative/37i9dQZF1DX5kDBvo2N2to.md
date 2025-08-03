@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-367 songs - 19 hr 47 min
+368 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-05-16 |
 | [GEN Z](https://open.spotify.com/track/1jcyd0Qq7rJroTz6ImNnIS) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [GEN Z](https://open.spotify.com/album/2CboZV6emhWjGOKJK5kFg0) | 2:50 | 2025-03-07 | 2025-03-14 |
 | [Genom Eld & Vatten](https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Genom Eld & Vatten](https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5) | 3:06 | 2025-04-02 |  |
-| [GET RICH OR DIE TRYING](https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [GET RICH OR DIE TRYING](https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD) | 2:44 | 2025-05-29 |  |
+| [GET RICH OR DIE TRYING](https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [GET RICH OR DIE TRYING](https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD) | 2:44 | 2025-05-29 | 2025-08-03 |
 | [Gimme](https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Gimme](https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae) | 3:04 | 2024-10-24 | 2025-01-19 |
 | [Glas](https://open.spotify.com/track/13IqDjxqFl763yUcTg2ycX) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Glas](https://open.spotify.com/album/2SgPhxnfejHUbW9FjBrb7U) | 2:52 | 2025-04-24 |  |
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-07 |  |
@@ -328,6 +328,7 @@
 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-19 | 2025-04-25 |
 | [Säkra kort](https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Säkra kort](https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL) | 3:23 | 2024-09-19 | 2025-05-09 |
 | [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 | 2025-06-19 |  |
+| [Ta honom](https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Ta honom](https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4) | 2:08 | 2025-07-31 |  |
 | [Talk](https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Talk / Bye Bye](https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N) | 2:31 | 2024-06-28 | 2025-04-18 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-13 | 2025-04-25 |
 | [Tappar det](https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Tappar det](https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C) | 2:35 | 2025-07-03 |  |

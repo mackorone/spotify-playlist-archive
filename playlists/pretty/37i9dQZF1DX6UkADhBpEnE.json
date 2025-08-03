@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 150104,
+  "num_followers": 150150,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 189557,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
         "name": "Vodka Cranberry",
         "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
       },
@@ -899,38 +915,6 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "Virgin",
-        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 257065,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 257065,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
         "name": "AMORTAGE",
         "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 217631,
+      "name": "Miami (feat. Lil Wayne & Rick Ross)",
+      "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
         "name": "butterflies (feat. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM)",
         "url": "https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7"
       },
@@ -1171,22 +1195,6 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -1207,26 +1215,46 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 217631,
-      "name": "Miami (feat. Lil Wayne & Rick Ross)",
-      "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
+        "name": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        },
+        {
+          "name": "Malachi Barton",
+          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dream Come True",
+      "url": "https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -1259,34 +1287,6 @@
       "duration_ms": 288200,
       "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
       "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
-        "name": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        },
-        {
-          "name": "Malachi Barton",
-          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
-        },
-        {
-          "name": "ZOMBIES \u2013 Cast",
-          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dream Come True",
-      "url": "https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -1523,66 +1523,18 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "Love Me To Heaven",
-        "url": "https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9"
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 206561,
-      "name": "Love Me To Heaven",
-      "url": "https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
+      "duration_ms": 160666,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -1603,18 +1555,66 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "d\u00a3aler",
-        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
+        "name": "Love Me To Heaven",
+        "url": "https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 160666,
-      "name": "d\u00a3aler",
-      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+      "duration_ms": 206561,
+      "name": "Love Me To Heaven",
+      "url": "https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "\u767e\u82b1\u7e5a\u4e71",
-        "url": "https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb"
+        "name": "miss sunshine",
+        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
       },
       "artists": [
         {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 179238,
-      "name": "\u767e\u82b1\u7e5a\u4e71",
-      "url": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
+      "duration_ms": 203187,
+      "name": "miss sunshine",
+      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
     }
   ],
   "unique_name": "\u5143\u6c17Booster",

@@ -4,7 +4,7 @@
 
 > The best of electronic trap 🏆 with Alison Wonderland
 
-754 songs - 1 day 15 hr 49 min
+755 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Invasion](https://open.spotify.com/track/5i7bwIFZhhj90GjgJJnNvj) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Transformation](https://open.spotify.com/album/59MTZU0PKW3Cjen6rdbpVg) | 3:44 | 2021-11-19 | 2022-02-02 |
 | [Issa Bounce](https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu) | [Issa Bounce](https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi) | 1:57 | 2021-11-19 | 2024-08-10 |
 | [It's Our Destiny](https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [It's Our Destiny](https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF) | 2:33 | 2022-03-18 | 2023-01-03 |
+| [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-08-01 |  |
 | [I‘ll show you](https://open.spotify.com/track/3O3EIVJiqzyiyHFDnHMIym) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ), [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [I‘ll show you](https://open.spotify.com/album/00Vu9HdeCsVz8EFgEG54Ob) | 2:55 | 2024-02-02 | 2024-03-16 |
 | [JACKIE KENNEDY](https://open.spotify.com/track/75zkQ3SVqVvkm3jqVfypoj) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [JACKIE KENNEDY](https://open.spotify.com/album/7fRoY9o4sldKMbx4z3sG8t) | 2:37 | 2025-05-02 | 2025-06-21 |
 | [Jaded](https://open.spotify.com/track/3w0Or7H4a8jz0NEHJRTotj) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [7KY](https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj) | [Jaded](https://open.spotify.com/album/4Ul1F6G9olr9Rnf19m1B4e) | 2:52 | 2025-04-11 | 2025-08-02 |
@@ -458,7 +459,7 @@
 | [MUCHO CA$H](https://open.spotify.com/track/1rIV5uMuZHc2PZhN59o5KL) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [ARTIX!](https://open.spotify.com/artist/2d7Oro82tVznMBYXDoGiHy) | [MUCHO CA$H](https://open.spotify.com/album/3x1tILuV6U0qGu9W2OMQfU) | 2:31 | 2024-03-01 | 2024-03-16 |
 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-11-19 | 2023-10-28 |
 | [My Demons](https://open.spotify.com/track/31Mn08SEsadcIXVqWPGsqO) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn) | [My Demons](https://open.spotify.com/album/6LtMVGgLL9hb3c7wlftFJQ) | 4:30 | 2024-09-06 | 2025-02-09 |
-| [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 | 2024-01-19 |  |
+| [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 | 2024-01-19 | 2025-08-03 |
 | [Máquina](https://open.spotify.com/track/0dolBdu2pV52zcx7tH0Goy) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Máquina](https://open.spotify.com/album/0ncUAncYZNDg0678jPIMWM) | 3:23 | 2021-11-19 | 2022-01-21 |
 | [Máquina](https://open.spotify.com/track/40xO4XDK7AjFtVkg5mDzaY) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 3:23 | 2021-11-26 | 2022-02-02 |
 | [Naked \(Alison Wonderland X Slumberjack\)](https://open.spotify.com/track/3TxZp44el2BT1LdgrRMTDs) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:17 | 2025-07-04 | 2025-07-12 |

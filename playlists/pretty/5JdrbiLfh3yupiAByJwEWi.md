@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JdrbiLfh3yupiAByJwEWi.md) - [plain]
 
 > The best party hits from the decade that gave you Katy Perry, Rihanna, Lady Gaga and more! Cover: Nelly Furtado
 
-[](https://open.spotify.com/user/null) - 15,357 likes - 100 songs - 6 hr 38 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 15,356 likes - 102 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,7 @@ pretty - [cumulative](/playlists/cumulative/5JdrbiLfh3yupiAByJwEWi.md) - [plain]
 | 98 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 99 | [Fire Burning](https://open.spotify.com/track/2oENJa1T33GJ0w8dC167G4) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:59 |
 | 100 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
+| 101 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
+| 102 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 
 Snapshot ID: `AAAB0UK4ykaaH+dCNgk3FT9dUxmDxjQz`

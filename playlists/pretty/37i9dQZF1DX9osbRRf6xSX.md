@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 
 > Dos de los más grandes, frente a frente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,006 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,080 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 99 | [Al margen de la vida](https://open.spotify.com/track/4X1y1Y9cHApj639P5VlaOc) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 2:52 |
 | 100 | [Fragile](https://open.spotify.com/track/62WN08m5pycMB66qnmnQ2S) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Crazy](https://open.spotify.com/album/5QSer2rfhnPzkzPxamHk0u) | 4:23 |
 
-Snapshot ID: `AAAAAKPFY5sJifFENGrJpokrwvToaG++`
+Snapshot ID: `aGTdoQAAAABBZuJcb46dQpZ2G3mR3fC8`

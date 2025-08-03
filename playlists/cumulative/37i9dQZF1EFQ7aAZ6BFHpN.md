@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-231 songs - 17 hr 53 min
+232 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Sutton Place](https://open.spotify.com/track/5dZzGFR6iAepOQhaEImAVe) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Gershwin Rhapsody](https://open.spotify.com/album/4H3sICPKEhVcepYaIdb4LD) | 1:25 | 2024-07-24 |  |
 | [Sweet Packard](https://open.spotify.com/track/54d4YjLnFgAwQRWC7S8aFA) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin on Screen III: "Strike Up The Band", "Broadway Rhythm", "Ziegfeld Follies" and "The Shocking Miss Pilgrim"](https://open.spotify.com/album/0rM6Pjficon2DjTIqrajTx) | 2:48 | 2024-07-24 |  |
 | [Swiss](https://open.spotify.com/track/6LNylt9EzE30piPuCoadmc) | [DJ Fuck](https://open.spotify.com/artist/371mselXgmLAOXZVbcXA06), [MC Totally Rad](https://open.spotify.com/artist/3WCPU7MU4SdAqu7YI8SnFA) | [MC Totally Rad & DJ Fuck Are Fuck'N'Rad](https://open.spotify.com/album/2DdFagXSxZ78DoyIM2BJu6) | 3:48 | 2025-01-09 | 2025-04-12 |
-| [Swiss Miss](https://open.spotify.com/track/6qeTkxWiaqZO8XDA2SgQNr) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Maurizio Zaccaria](https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ) | [Gershwin: Complete Piano Works](https://open.spotify.com/album/3LY0vX4TBU0spPk0r0LXDZ) | 2:46 | 2024-07-24 |  |
+| [Swiss Miss](https://open.spotify.com/track/4V1vagqTpBkTfNqoYwWLOX) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Maurizio Zaccaria](https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ) | [Gershwin: Complete Piano Works](https://open.spotify.com/album/3MVZO9aE7crs8CzjydpD4h) | 2:46 | 2025-08-02 |  |
+| [Swiss Miss](https://open.spotify.com/track/6qeTkxWiaqZO8XDA2SgQNr) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Maurizio Zaccaria](https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ) | [Gershwin: Complete Piano Works](https://open.spotify.com/album/3LY0vX4TBU0spPk0r0LXDZ) | 2:46 | 2024-07-24 | 2025-08-03 |
 | [Tempo Di Blues](https://open.spotify.com/track/3S6hxatWPPKkOpR0vFHlww) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Bryan Hieronymus](https://open.spotify.com/artist/3SZ5Ax4ZCsAGIFacxsZU0T) | [American Pieces](https://open.spotify.com/album/7FPIvlCwpBvej3vU9pXa27) | 2:52 | 2024-07-24 |  |
 | [That Certain Feeling](https://open.spotify.com/track/0LErVxjTqak8uoHS33WPZQ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin Plays Gershwin: The Piano Rolls](https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0) | 2:47 | 2024-07-24 |  |
 | [The Bones of You](https://open.spotify.com/track/6jbFN4H7mW6FK5kghNoWBQ) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 4:49 | 2024-07-24 |  |

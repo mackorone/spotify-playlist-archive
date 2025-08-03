@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,850 songs - 4 day 5 hr 12 min
+1,851 songs - 4 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-06-02 | 2021-06-09 |
 | [Jealousyvalhalla](https://open.spotify.com/track/53pgU100GX5E2EDp50eIvZ) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Jealousyvalhalla](https://open.spotify.com/album/3ueZQ3a7zXCt4neaJnZX0w) | 2:28 | 2024-05-18 | 2024-05-27 |
 | [JEALOUSYVALHALLA](https://open.spotify.com/track/7JxPQzxhJSsBBNu1D76ig2) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [SLOWMO](https://open.spotify.com/album/7hFjISvuzhZauC3EK66GuG) | 2:28 | 2024-05-26 | 2024-06-02 |
+| [jellyous \(Feat\. Sophie Powers\)](https://open.spotify.com/track/1hAAuDuBSaoIkgSb7Lyakt) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [jellyous \(Feat\. Sophie Powers\)](https://open.spotify.com/album/0XKtGPLlJMTOP4DmhRpOwg) | 2:43 | 2025-08-02 |  |
 | [Jeogeumtong](https://open.spotify.com/track/4GvyA3KLY4S83khi5kLsiP) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Jeogeumtong](https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I) | 2:18 | 2023-07-14 | 2023-07-17 |
 | [Jesus Lord](https://open.spotify.com/track/56JwgcQcxo08w7YXrBzrA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 8:58 | 2021-09-01 | 2021-09-02 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-08-07 |
@@ -1017,7 +1018,7 @@
 | [Magic](https://open.spotify.com/track/2jqwPBpJYLtn2ozWN5zgd7) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/6g3BW90upn0rxRuFcm0zpm) | 2:39 | 2021-06-03 | 2021-06-04 |
 | [Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 2:39 | 2021-06-02 | 2021-06-03 |
 | [Magic Carpet Ride](https://open.spotify.com/track/6F2wRUS8oe71Hs9O58dMKb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:38 | 2021-09-19 | 2021-09-20 |
-| [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-26 |  |
+| [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-26 | 2025-08-03 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-12 |
 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 | 2021-12-25 | 2022-12-28 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-14 | 2025-06-16 |

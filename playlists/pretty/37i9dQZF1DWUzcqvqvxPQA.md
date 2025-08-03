@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,860 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,873 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 20 | [Highs Get Low](https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Highs Get Low](https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f) | 2:54 |
 | 21 | [STRENGTH AND SONG](https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [STRENGTH AND SONG](https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw) | 3:33 |
 | 22 | [Meant For Good](https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [HELP!](https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6) | 3:34 |
-| 23 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 |
-| 24 | [Feeling Good](https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Good Life](https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng) | 3:06 |
+| 23 | [Feeling Good](https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Good Life](https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng) | 3:06 |
+| 24 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 |
 | 25 | [SAY SO](https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SAY SO](https://open.spotify.com/album/3fA62shc2rOStugUYC47HG) | 2:15 |
 | 26 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 |
 | 27 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
 | 28 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
-| 29 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
-| 30 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
+| 29 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
+| 30 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
 | 31 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
 | 32 | [Koolaid](https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Koolaid](https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr) | 3:00 |
 | 33 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 55 | [Hold On Me](https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Hold On Me](https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6) | 2:52 |
 | 56 | [closer](https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [awakening](https://open.spotify.com/album/3AjLPYEKAkjxUZPKEKiXlv) | 2:07 |
 | 57 | [Joyful Melody](https://open.spotify.com/track/69yAwdmV8VngYAYXNgbWrZ) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Drew Ava](https://open.spotify.com/artist/1kuocA53e2MltklnSFSiGR) | [Joyful Melody](https://open.spotify.com/album/5VtWw50s1DqtIMzBR9kMeH) | 2:50 |
-| 58 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
-| 59 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |
+| 58 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |
+| 59 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
 | 60 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
 | 61 | [SUNSHINE](https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4) | [Jacob Stanifer](https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl) | [SUNSHINE](https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR) | 3:07 |
 | 62 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |

@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "a mo\u017ce?",
       "url": "https://open.spotify.com/track/0lC5fionUUvt77bZlD87Hx"
@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 290109,
       "name": "Go\u0142\u0119bie",
       "url": "https://open.spotify.com/track/5HSDp4WE5al3NP8tKcZyJD"
@@ -7618,7 +7618,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-03",
       "duration_ms": 141686,
       "name": "r\u00f3\u017cowa kurtka",
       "url": "https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd"
@@ -8316,6 +8316,24 @@
       "duration_ms": 153402,
       "name": "Szcz\u0119\u015bliwa Wina",
       "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"
+    },
+    {
+      "album": {
+        "name": "szklane s\u0142owa",
+        "url": "https://open.spotify.com/album/4jtsC63Y9ExVEszBljphUD"
+      },
+      "artists": [
+        {
+          "name": "nezz",
+          "url": "https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "szklane s\u0142owa",
+      "url": "https://open.spotify.com/track/5iSxwQxs4cQ6XOUhCUrhRk"
     },
     {
       "album": {

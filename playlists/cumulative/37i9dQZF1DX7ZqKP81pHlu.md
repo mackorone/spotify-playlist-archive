@@ -4,7 +4,7 @@
 
 > The hottest 50 tracks in Algeria\. Cover: Numidia Lezoul
 
-262 songs - 15 hr 45 min
+263 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-04 | 2025-05-23 |
 | [Euro Dollar](https://open.spotify.com/track/4r65eqldcucQIhBMEa9tWr) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Euro Dollar](https://open.spotify.com/album/3CIdgA4Zs9gGeUTPdSe7CY) | 3:50 | 2023-07-05 | 2024-07-19 |
 | [Faillite](https://open.spotify.com/track/19uf48N6aaHgupOuQgJEhT) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Faillite](https://open.spotify.com/album/7cEuBiqJ9MUWNg5FUGWqpv) | 3:22 | 2021-12-09 | 2022-07-28 |
-| [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 | 2024-02-19 |  |
+| [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 | 2024-02-19 | 2025-08-03 |
 | [Fi Hwak](https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Fi Hwak](https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa) | 3:35 | 2021-12-09 | 2022-06-24 |
 | [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 | 2023-02-07 | 2024-05-15 |
 | [Fi Lamane](https://open.spotify.com/track/3VWh76TR16ddPnNbBZdhxZ) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MQV1zsMd4ulsMPTA6iiOY) | 3:00 | 2024-02-12 | 2024-04-19 |
@@ -133,6 +133,7 @@
 | [Juliana](https://open.spotify.com/track/1nnTJkIOWw6GAdsQapQgsD) | [Fyanso](https://open.spotify.com/artist/28I9J1TfdmN27XgRPhnmQe) | [Juliana](https://open.spotify.com/album/12cEHJk2Xga5QRVh7M8l1G) | 3:14 | 2022-08-22 | 2022-09-20 |
 | [Jwabi](https://open.spotify.com/track/0HWqu8kIr5iitYHd62RkJH) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 4:22 | 2021-12-09 | 2022-12-31 |
 | [Jwabi](https://open.spotify.com/track/5g1Szjr5nWLKCm6P4Avyht) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/2rPedzPOYgNlH7jjwF6bSL) | 4:22 | 2022-12-27 | 2023-02-07 |
+| [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 | 2025-08-02 |  |
 | [Kelthoum](https://open.spotify.com/track/7L5ZaHH54rkruo8N08vEf4) | [Nacim El Bey](https://open.spotify.com/artist/7DfSR1McqGpS5b7o1NSl5u) | [Kelthoum](https://open.spotify.com/album/0RyIS8LW7g75acJI2z0Ege) | 3:45 | 2021-12-09 | 2022-06-03 |
 | [KHABTA](https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5daw2vuOQGUWyHYoUvKPEm) | 4:24 | 2023-02-06 | 2023-05-13 |
 | [KHABTA](https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU) | 4:24 | 2023-05-10 | 2024-02-29 |
