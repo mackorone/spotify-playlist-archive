@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 | 99 | [Girls Like That \(Don't Go for Guys Like Us\)](https://open.spotify.com/track/6jrQpctf9Fg3btO1I7qX7X) | [Custard](https://open.spotify.com/artist/09NEIWHdaWneBWsjYdDnwz) | [Loverama](https://open.spotify.com/album/6d56WimrCEkbHu2x0WM196) | 3:10 |
 | 100 | [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 |
 
-Snapshot ID: `AAAAAFbf8Vht7qbN7pXWTN/Jxahs1Kv9`
+Snapshot ID: `ZIxVygAAAABj2UxTGYUJjJEPZSSsE5rO`

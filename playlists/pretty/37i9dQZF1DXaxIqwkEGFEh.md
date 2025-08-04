@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,074 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,135 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 15 | [Trap Ain't Dead](https://open.spotify.com/track/4oFOJQH3vnNqWreVYQPs8b) | [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw) | [The Greatest of All Traps](https://open.spotify.com/album/0QJHVqtMMfL5Szbe6kS5uz) | 1:43 |
 | 16 | [4 A NECKLACE](https://open.spotify.com/track/2tDZ7yyQalD8f3a3C0ly9r) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [4 A NECKLACE](https://open.spotify.com/album/5EdwOt2TzQZoQRrp00xtUx) | 2:18 |
 | 17 | [Life Of A Hot Nigga](https://open.spotify.com/track/3sj9ebwU57QjJpvpu0DGiK) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Can't Stop Won't Stop 2](https://open.spotify.com/album/3CIhzIIWwWPPHpxSy9sQjl) | 2:23 |
-| 18 | [Don't Go](https://open.spotify.com/track/4WGWbNSoSS354wmXYT0DI5) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Don't Go](https://open.spotify.com/album/0MFGqMvKnZqZcUzcc8Pzrf) | 3:14 |
+| 18 | [Don't Go](https://open.spotify.com/track/4WGWbNSoSS354wmXYT0DI5) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Don't Go](https://open.spotify.com/album/0MFGqMvKnZqZcUzcc8Pzrf) | 3:17 |
 | 19 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 |
 | 20 | [Pop Shii](https://open.spotify.com/track/4CMukSEsqFRKXuXXPWMxMY) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Pop Shii](https://open.spotify.com/album/0yZVETaEQhgGxNT3h45gJF) | 2:16 |
 | 21 | [Bout My Respect](https://open.spotify.com/track/7zAWeu35BP92dvN1u2hptM) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Almost Normal Again](https://open.spotify.com/album/0fisinfJxPnje3hk7H7gGn) | 2:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Chicken](https://open.spotify.com/track/6fqzZqYPeKPtzrl6Fp1WT4) | [El Snappo](https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS) | [Chicken](https://open.spotify.com/album/09sFKMpWQlPhOH4AGDXQlX) | 2:05 |
 | 100 | [FOOT SOLDIERS](https://open.spotify.com/track/2MjMV7Z1X9lvZ00SUbH6dr) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:25 |
 
-Snapshot ID: `aIw77AAAAABnx2gfA/xevvUSjHklucJ/`
+Snapshot ID: `AAAAAGkG4OPyoZXcgvwTPqKdxJyMAMP/`

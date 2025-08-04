@@ -1,6 +1,6 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 131554,
+  "num_followers": 131575,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Draai Je Om",
         "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 194984,
       "name": "Draai Je Om - Instrumental",
       "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
     },
     {
       "added_at": "2022-03-22 11:23:16",

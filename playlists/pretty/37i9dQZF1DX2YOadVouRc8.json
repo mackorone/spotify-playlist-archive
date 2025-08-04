@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 38245,
+  "num_followers": 38278,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 168072,
       "name": "So Much Sense",
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "Before We Became Strangers",
-        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Maj\u1eb9kaj\u00e1",
-      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
         "name": "Oroma",
         "url": "https://open.spotify.com/album/4gGIM7deWJhmmVli9JGskW"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 136800,
       "name": "Oroma",
       "url": "https://open.spotify.com/track/3o24yEM5aaiJIkJvdVmOH8"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "Before We Became Strangers",
+        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Maj\u1eb9kaj\u00e1",
+      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
         "name": "Ouu wee (brown)",
         "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 212107,
       "name": "ecstasy",
       "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
         "name": "Your Mind (feat. Dxtiny)",
         "url": "https://open.spotify.com/album/1mnQuHYBzW9G9pKyevuFun"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 156428,
       "name": "Your Mind (feat. Dxtiny)",
       "url": "https://open.spotify.com/track/6i4cjmyedezc4kgoaC3Y3S"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
-        "name": "Belly",
-        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -1339,6 +1339,30 @@
       "duration_ms": 165431,
       "name": "Reflection Station",
       "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5Vkrn9wvQoHTXVg4MI3DiI"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Spratt",
+          "url": "https://open.spotify.com/artist/1dn9CnVS5B1JTPFOzjhXq6"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/4BYukA1XrZsr7O07yqghgM"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -1387,30 +1411,6 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5Vkrn9wvQoHTXVg4MI3DiI"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Spratt",
-          "url": "https://open.spotify.com/artist/1dn9CnVS5B1JTPFOzjhXq6"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/4BYukA1XrZsr7O07yqghgM"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
         "name": "I am the Blueprint",
         "url": "https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "Bodycon",
-        "url": "https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "Bodycon",
-      "url": "https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
         "name": "Painless Melody",
         "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "Bodycon",
+        "url": "https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "Bodycon",
+      "url": "https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx"
     },
     {
       "added_at": "2025-08-01 00:01:38",

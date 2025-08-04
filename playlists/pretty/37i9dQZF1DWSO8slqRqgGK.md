@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSO8slqRqgGK.md) - [plain]
 
 > by Addison Rae\. The title says it all\. Just dance\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,112 likes - 27 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,109 likes - 27 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSO8slqRqgGK.md) - [plain]
 | 26 | [Speed Demon \- 2012 Remaster](https://open.spotify.com/track/5SpHSOne318K5q7EBYndT6) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 4:02 |
 | 27 | [Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 3:19 |
 
-Snapshot ID: `AAAAADeeyMQ8rOYzpXDqK9dG/Zp0ihqi`
+Snapshot ID: `Z6ZAWwAAAAC/SoHTAg52eSF7JQNTln1d`

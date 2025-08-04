@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Bizay, Guilherme & Benuto
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,236 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,257 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 32 | [Pra Quê?](https://open.spotify.com/track/72LPt2vbT19P7GXXfzr2gS) | [Gabriel Fava](https://open.spotify.com/artist/2rsn8MkxTWrYUgLYmhIh4w) | [Pra Quê?](https://open.spotify.com/album/5Alq7ae59MD1VcVadX79ud) | 2:46 |
 | 33 | [Leite Ninho](https://open.spotify.com/track/7DM1HZSqBsBX1knto80d7B) | [Miguel & Daniel](https://open.spotify.com/artist/5it1L2qpn43Hdyb3N0EBiD), [Juliana Marques](https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp) | [Leite Ninho](https://open.spotify.com/album/1KAGM3sfR5kafBmo54aLD0) | 2:43 |
 | 34 | [te esquecendo \(lembrei de você\)](https://open.spotify.com/track/4aaMkoUy0Oht3LIdo63EJf) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [te esquecendo \(lembrei de você\)](https://open.spotify.com/album/0vgbZVASnI7QO16oDWiXZX) | 3:05 |
-| 35 | [Para de Me Dar Moral](https://open.spotify.com/track/6bwKcaE8izNmLRaOIhrQvX) | [Open Mé](https://open.spotify.com/artist/4d8mFLou6DNSYDyXlO5NVo), [Dan Cândido e Matheus](https://open.spotify.com/artist/0Cyukljm6QFnyqXQpcmh58), [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Para de Me Dar Moral](https://open.spotify.com/album/3O5EB2NJVFH88GWTCJnw29) | 2:45 |
+| 35 | [Para de Me Dar Moral \- Ao Vivo](https://open.spotify.com/track/6bwKcaE8izNmLRaOIhrQvX) | [Open Mé](https://open.spotify.com/artist/4d8mFLou6DNSYDyXlO5NVo), [Dan Cândido e Matheus](https://open.spotify.com/artist/0Cyukljm6QFnyqXQpcmh58), [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Para de Me Dar Moral \(Ao Vivo\)](https://open.spotify.com/album/3O5EB2NJVFH88GWTCJnw29) | 2:45 |
 | 36 | [Sentimento Inédito](https://open.spotify.com/track/40d7jfb6zHKq74dG2KRYrR) | [Thayná Bitencourt](https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9) | [Sentimento Inédito](https://open.spotify.com/album/4sog9K5dhU0E7ZmrOIcxok) | 2:31 |
 | 37 | [Coração Manhoso \- Live](https://open.spotify.com/track/6JC8Y5cdr2zOk22wYTayh6) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Coração Manhoso \(Live\)](https://open.spotify.com/album/6oTNEn62WSjl2bRjff24P3) | 2:26 |
 | 38 | [Quarto Escuro \- Ao Vivo](https://open.spotify.com/track/0qdJvgmh0HOmJ6c8Fwp2cr) | [Thayná Vasconcelos](https://open.spotify.com/artist/7GgeeUpJBE0HsHbpkHTq2l) | [Quarto Escuro \(Ao Vivo\)](https://open.spotify.com/album/4cYmEhZZlG2QjGsuIGovhq) | 3:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 69 | [Bate\-Volta](https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF) | [Matheus Marcolino](https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Bate\-Volta](https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot) | 2:38 |
 | 70 | [Dois Pé no Peito \- Ao Vivo](https://open.spotify.com/track/46vgRBlaFOiyfCyYk2xBDr) | [Abel e Benício](https://open.spotify.com/artist/53ealWeLbd46JtRUBRBJlE), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Dois Pé no Peito \(Ao Vivo\)](https://open.spotify.com/album/5JBlm5DyZxfFlvmTadfVsS) | 2:57 |
 
-Snapshot ID: `AAAAAGwFl3THnzDVapljkHYoDOURsFeq`
+Snapshot ID: `aI0JcwAAAADkJ44TeKpMGpgcuaJrwI6z`

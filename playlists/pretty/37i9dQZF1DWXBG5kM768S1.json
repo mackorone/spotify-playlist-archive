@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79560,
+  "num_followers": 79568,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -675,38 +675,6 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
-        "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
-      },
-      "artists": [
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Til alle tider",
-      "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
-        "name": "Nordlandslefse",
-        "url": "https://open.spotify.com/album/0k1WDGvdIJmkh2DJdygRdB"
-      },
-      "artists": [
-        {
-          "name": "T\u00f8nes",
-          "url": "https://open.spotify.com/artist/5A4ovj9I91UgF79mLirtz6"
-        }
-      ],
-      "duration_ms": 285720,
-      "name": "Nordlandslefse",
-      "url": "https://open.spotify.com/track/1vqgABBkvcpEg4v0ol8fn1"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
         "name": "Hildringstimer - 14 velvalgte viser",
         "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
       },
@@ -723,6 +691,22 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
+        "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
+        "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 213386,
+      "name": "Til alle tider",
+      "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
+        "name": "Nordlandslefse",
+        "url": "https://open.spotify.com/album/0k1WDGvdIJmkh2DJdygRdB"
+      },
+      "artists": [
+        {
+          "name": "T\u00f8nes",
+          "url": "https://open.spotify.com/artist/5A4ovj9I91UgF79mLirtz6"
+        }
+      ],
+      "duration_ms": 285720,
+      "name": "Nordlandslefse",
+      "url": "https://open.spotify.com/track/1vqgABBkvcpEg4v0ol8fn1"
     },
     {
       "added_at": "2025-07-24 22:00:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-07-24 22:00:32",
       "album": {
-        "name": "Aldri i livet",
-        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 188796,
-      "name": "Aldri i livet",
-      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
-    },
-    {
-      "added_at": "2025-07-24 22:00:32",
-      "album": {
         "name": "De aller beste fra Tre sm\u00e5 kinesere",
         "url": "https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 171066,
       "name": "D\u00f8rstokkmila",
       "url": "https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s"
+    },
+    {
+      "added_at": "2025-07-24 22:00:32",
+      "album": {
+        "name": "Aldri i livet",
+        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 188796,
+      "name": "Aldri i livet",
+      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
     },
     {
       "added_at": "2025-07-24 22:00:32",

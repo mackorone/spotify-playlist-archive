@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain]
 
 > Listen to all of the music from the new Netflix series, Princess Power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,983 likes - 20 songs - 40 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,985 likes - 20 songs - 40 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain]
 | 19 | [You're A Star](https://open.spotify.com/track/0uVlPXd7hF21o4Q1W66kGt) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:46 |
 | 20 | [Hey Boy](https://open.spotify.com/track/4xTGusVtTVFmKLRaUNRD7w) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Robert G\. Chiu](https://open.spotify.com/artist/7w1guDBNeJPNishwQ8qJAv) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:47 |
 
-Snapshot ID: `ZNu/dgAAAACEIMHAJgeLX/yfE3k89vqW`
+Snapshot ID: `AAAAAOtpFOJPHwLIIGfW+Xkp3nLr29xx`

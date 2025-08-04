@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Amna Riaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,972 likes - 96 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,983 likes - 96 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 95 | [Mujh Se Duur](https://open.spotify.com/track/0wCtnWUf3RrjUWSWM4FhP8) | [Eid Milan](https://open.spotify.com/artist/7BKTvq04dovtVmBCJN2jQj) | [LOLLYWOOD TAPES](https://open.spotify.com/album/57mBQ0Rbj7gyllup5448wy) | 1:13 |
 | 96 | [Dilwale](https://open.spotify.com/track/4I1I7Puy4TccYiYsbCrHYy) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Dilwale](https://open.spotify.com/album/24oFlrBYEx5AuFZ5LyyB6R) | 4:02 |
 
-Snapshot ID: `aIyRNgAAAAAVlpazmVX5fcwFvWFCnJ+J`
+Snapshot ID: `AAAAANI/ItBtz2KQ6wzF/YvCpvG9gXDU`

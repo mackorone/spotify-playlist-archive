@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,288 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,299 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 73 | [Surf](https://open.spotify.com/track/1bKAAk7flDIrFcCZyhw8qO) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [Valey](https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9) | [Surf](https://open.spotify.com/album/1pH6OY9IYNusyWnrVFer7z) | 2:49 |
 | 74 | [BACKSTAGE](https://open.spotify.com/track/1AmlPcx7qZSxXBhpIf2ppm) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [BACKSTAGE](https://open.spotify.com/album/1xnH2MyPBNWTHtOt9a10Sk) | 1:47 |
 
-Snapshot ID: `aIzjrAAAAAAOBP0mxxM6QJp1KyLakr6u`
+Snapshot ID: `AAAAADRYE9QlJhIbdBYjPY9NLE/7Y1Jk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Aspa
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,388 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,389 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Kapou Kapou](https://open.spotify.com/track/7trPl1kIywvCq1o78uIE6O) | [Billie Isak](https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6) | [Kapou Kapou](https://open.spotify.com/album/63EE2UxrSGQ4oHDuwKBeyR) | 3:09 |
 | 50 | [Fovame \- Spotify Singles](https://open.spotify.com/track/3zlmmuG8dsrtZoIvQoXCPX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Fovame \- Spotify Singles](https://open.spotify.com/album/32GZtAOfYXZvu2NWRAt0Sf) | 2:48 |
 
-Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`
+Snapshot ID: `aGRMaQAAAAB+xc7UydL8aU+fiC/+LwB8`

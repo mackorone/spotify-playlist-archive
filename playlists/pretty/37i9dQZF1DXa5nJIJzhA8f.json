@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.\n",
-  "num_followers": 27838,
+  "num_followers": 27994,
   "original_name": "Editors' Picks: Best Songs of the Year So Far",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
         "name": "Ace Trumpets",
         "url": "https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 154066,
       "name": "Ace Trumpets",
       "url": "https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
       "added_at": "2025-06-30 01:25:23",

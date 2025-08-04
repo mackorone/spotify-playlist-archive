@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Glitter",
+        "url": "https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234698,
+      "name": "Goodbye Glitter",
+      "url": "https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK"
+    },
+    {
+      "album": {
         "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI"
       },

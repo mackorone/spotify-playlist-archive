@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4663,
+  "num_followers": 4667,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAABrzyQxs9am4pe4kYz3LRL7",
+  "snapshot_id": "aI1VAAAAAAAllq3LTGqJ8IRrIEx42jx/",
   "tracks": [
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Yours (Remix)",
         "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 130295,
       "name": "Not Yours (Remix)",
       "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
     },
     {
       "added_at": null,
@@ -939,38 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nisam ni Trapnuo",
-        "url": "https://open.spotify.com/album/4YcqzZl5pZQYDKKlbID3pe"
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
       },
       "artists": [
         {
-          "name": "Vargek Beatanga",
-          "url": "https://open.spotify.com/artist/0GLrxz8RXFPh1yppKUuDi8"
-        },
-        {
-          "name": "Tibor",
-          "url": "https://open.spotify.com/artist/4a0IBiTrgmIVogXUrpFcbN"
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
         },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Chelavy",
-          "url": "https://open.spotify.com/artist/2JF1k1TAUkaRuLZ6AqTkJE"
-        },
-        {
-          "name": "Scriptor",
-          "url": "https://open.spotify.com/artist/2qvacrMqliC2lSPz07mPUM"
-        },
-        {
-          "name": "Eli D\u017eejn",
-          "url": "https://open.spotify.com/artist/6gL656v4SG6eTTS38LYTzv"
         }
       ],
-      "duration_ms": 360052,
-      "name": "Gotham",
-      "url": "https://open.spotify.com/track/0pVry6RxHkNmJqznmzuf6T"
+      "duration_ms": 135080,
+      "name": "SIZZLE (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6jd95tB1LclPetfFMNe3as"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Nezsa
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,747 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,757 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 69 | [Beauty and The Beat](https://open.spotify.com/track/5P8O20D9LJmzhlJmZhag1u) | [Efue](https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x) | [Beauty and The Beat](https://open.spotify.com/album/7bvldKXjskqN8sR8PASUNe) | 2:42 |
 | 70 | [Be Sure](https://open.spotify.com/track/27SwKuVzaBD78qUyzMivwq) | [Ama Gaisie](https://open.spotify.com/artist/1q2iVU75fVEuNqXZqhPa7k) | [Be Sure](https://open.spotify.com/album/0LSBY6qEJOOdmUwOTrNimQ) | 3:03 |
 
-Snapshot ID: `AAAAALPaChZ/RH3vaIx7E/LoLy+VfL0l`
+Snapshot ID: `aIwD4QAAAACkEB/x5r5d0YRiGRigytZt`

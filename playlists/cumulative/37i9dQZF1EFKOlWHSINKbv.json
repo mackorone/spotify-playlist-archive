@@ -672,6 +672,28 @@
     {
       "album": {
         "name": "Trigga (Deluxe)",
+        "url": "https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Mila J",
+          "url": "https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236733,
+      "name": "Disrespectful (feat. Mila J)",
+      "url": "https://open.spotify.com/track/4SN4KimZQOTrxEh12Hftu5"
+    },
+    {
+      "album": {
+        "name": "Trigga (Deluxe)",
         "url": "https://open.spotify.com/album/0kEgU7XiRXcJ7TptKepwxC"
       },
       "artists": [
@@ -686,7 +708,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 236733,
       "name": "Disrespectful (feat. Mila J)",
       "url": "https://open.spotify.com/track/4eQec76xYzMWafPfJEDELl"

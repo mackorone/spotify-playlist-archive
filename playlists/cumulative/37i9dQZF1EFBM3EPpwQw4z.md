@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-140 songs - 8 hr 12 min
+141 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Roll With It](https://open.spotify.com/track/08BK7wNuAYHsyX1niooAF8) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Revolution](https://open.spotify.com/album/1YMdBR2ZOZKHOkp1CoivzD) | 3:01 | 2023-12-30 | 2025-07-24 |
 | [Run To The Rhythm](https://open.spotify.com/track/7L7lq0sjeVcyg5Phg4CkCv) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Run To The Rhythm](https://open.spotify.com/album/6l10qp0sJOYUgnwOuhufD5) | 3:50 | 2023-12-30 |  |
 | [Run to You](https://open.spotify.com/track/5qUZiY7z3EnlTPgCSA9vSg) | [Péter Kaszás](https://open.spotify.com/artist/5uyTfKohKSBb0Vtw77HqMk) | [Infinity Project](https://open.spotify.com/album/3G7N5piZu6ohFjrN1sjqb6) | 4:12 | 2023-12-30 | 2025-07-24 |
+| [Running](https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Running](https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM) | 3:09 | 2025-08-03 |  |
 | [Running](https://open.spotify.com/track/5W8zzLXLVSbrJg6ObEH4HR) | [Peter Kruse](https://open.spotify.com/artist/3kkXdSHuDsHQKNI92rWuyI) | [A Time and a Place](https://open.spotify.com/album/4XppKdlT2xun9R4mVsOAwE) | 2:36 | 2023-12-30 | 2025-07-24 |
 | [Sad Spaghetti](https://open.spotify.com/track/7tnUjTzsMaKqGWJM5G9xt9) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:35 | 2023-12-30 |  |
 | [Safe And Sound](https://open.spotify.com/track/6UHGXZ9uMBMCdUrbZuj591) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 5:00 | 2023-12-30 |  |

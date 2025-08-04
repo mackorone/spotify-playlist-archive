@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-621 songs - 1 day 13 hr 15 min
+622 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [All That Matters \(The Beautiful Life\)](https://open.spotify.com/track/7949ooAKks9n3EB5CesM4B) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:37 | 2024-01-29 |  |
 | [All You Had To Do Was Stay](https://open.spotify.com/track/4NNolUeL5m2ju7kf8pdg6H) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl) | 3:13 | 2024-01-29 |  |
 | [Alone](https://open.spotify.com/track/7CUPfpfuPwjicclWi4qKH4) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:13 | 2024-01-29 |  |
-| [American Bitch](https://open.spotify.com/track/56GiEKXFVUjgkMdAe1cvGc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [American Bitch](https://open.spotify.com/album/7e9EkDjzlaYiUYQ4lUfFBk) | 2:44 | 2025-05-11 |  |
+| [American Bitch](https://open.spotify.com/track/56GiEKXFVUjgkMdAe1cvGc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [American Bitch](https://open.spotify.com/album/7e9EkDjzlaYiUYQ4lUfFBk) | 2:44 | 2025-05-11 | 2025-08-04 |
+| [American Bitch](https://open.spotify.com/track/6xMXx6ExYTeTz4wRdDlcvp) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [WOW!](https://open.spotify.com/album/6jG86C6kFmXlWJcTlHtHYR) | 2:44 | 2025-08-03 |  |
 | [Analogue \(All I Want\) \- MTV Unplugged](https://open.spotify.com/track/0Qd9Uf3LUsbUObtLK8NSdI) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [MTV Unplugged \- Summer Solstice](https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY) | 4:43 | 2024-01-29 |  |
 | [Another Lonely Night](https://open.spotify.com/track/4Jy13zZticAaP3XldzKby1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Another Lonely Night](https://open.spotify.com/album/1PsupjEL5Z5wd4pZMQiTUJ) | 3:44 | 2024-01-30 | 2024-02-02 |
 | [Another Lonely Night](https://open.spotify.com/track/5HBlVvqWjmGTrFDAO0JVdY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High](https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ) | 3:45 | 2024-06-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Superman
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,657 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,662 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 49 | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923) | 2:53 |
 | 50 | [Pure Love](https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Queer \(Original Score\)](https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9) | 4:34 |
 
-Snapshot ID: `AAAAAOygJlnhO50gGQUxJJCvpK9CWzDi`
+Snapshot ID: `aHgaVAAAAADlJEmZN5Q2P9k+EVjNbycB`

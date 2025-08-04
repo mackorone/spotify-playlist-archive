@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 44394,
+  "num_followers": 44399,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAAD4JXxyBIovNXRJZ7K3OSTZ",
+  "snapshot_id": "aI1VAAAAAAD1mBZ415qrQU98rurVfaRr",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Piel",
-        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Por Tu Piel",
-      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 207000,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Piel",
+        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Por Tu Piel",
+      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chip S (Metal Version)",
+        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Chip S (Metal Version)",
+      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1"
       },
@@ -915,22 +935,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chip S (Metal Version)",
-        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
+        "name": "Le Ruego a Dios",
+        "url": "https://open.spotify.com/album/2iDUeErcSvIoFKtjVGej9n"
       },
       "artists": [
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
         }
       ],
-      "duration_ms": 193846,
-      "name": "Chip S (Metal Version)",
-      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
+      "duration_ms": 183428,
+      "name": "Le Ruego a Dios",
+      "url": "https://open.spotify.com/track/1g7kOe2a27074bzgZiXast"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O"
     },
     {
       "added_at": null,
@@ -951,22 +983,6 @@
       "duration_ms": 192840,
       "name": "Andamos Al Cien",
       "url": "https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O"
     },
     {
       "added_at": null,
@@ -1007,22 +1023,6 @@
       "duration_ms": 226666,
       "name": "De Roll",
       "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Ruego a Dios",
-        "url": "https://open.spotify.com/album/2iDUeErcSvIoFKtjVGej9n"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Le Ruego a Dios",
-      "url": "https://open.spotify.com/track/1g7kOe2a27074bzgZiXast"
     },
     {
       "added_at": null,
@@ -1083,6 +1083,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Ti Me Olvid\u00e9",
         "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 231111,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Que Qued\u00f3",
-        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 207464,
-      "name": "Lo Que Qued\u00f3",
-      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
     },
     {
       "added_at": null,

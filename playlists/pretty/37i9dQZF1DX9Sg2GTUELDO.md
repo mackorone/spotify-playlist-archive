@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 李芯駖
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,050 likes - 530 songs - 1 day 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,054 likes - 530 songs - 1 day 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 27 | [小傷疤](https://open.spotify.com/track/0OD7Vr8PYeTfYBHdsIVmuh) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [小傷疤](https://open.spotify.com/album/7tKq50jFMSvK9KP7bLMknJ) | 4:20 |
 | 28 | [求救的勇氣](https://open.spotify.com/track/1Fj6ahpJNC7sJyG8SRxuaf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [求救的勇氣](https://open.spotify.com/album/4IXv3ydm9NmhdSDBPf1XmK) | 4:36 |
 | 29 | [緊張大師](https://open.spotify.com/track/5fjEMYNAp3HR8ODLqsl7TU) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [緊張大師](https://open.spotify.com/album/1Nho2qbRCWEKWdgfsmDm45) | 3:09 |
-| 30 | [SWITCH](https://open.spotify.com/track/2OcVtRLi5BTnkjD2MPKog8) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [SWITCH](https://open.spotify.com/album/6OcCfNZtFBskQByvaGygLu) | 2:49 |
+| 30 | [蛻 SWITCH](https://open.spotify.com/track/2OcVtRLi5BTnkjD2MPKog8) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [蛻 SWITCH](https://open.spotify.com/album/6OcCfNZtFBskQByvaGygLu) | 2:49 |
 | 31 | [似乎又明白了一些事](https://open.spotify.com/track/1J0SrGzCOVvtgPZDIpwISf) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [似乎又明白了一些事](https://open.spotify.com/album/18ujp6HqNic7iOay1gSiMQ) | 4:18 |
 | 32 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 |
 | 33 | [未至於](https://open.spotify.com/track/0nfozCGVuBCDuDFJ0SFu3P) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [未至於](https://open.spotify.com/album/2CepFBFsWgvEVfFSWoE4ZK) | 3:32 |

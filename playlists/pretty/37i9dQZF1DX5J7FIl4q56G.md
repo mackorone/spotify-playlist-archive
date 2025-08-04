@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Orbit Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,147 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,304 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 2 | [where did you go?](https://open.spotify.com/track/5ZOcWbAXApsKHeQH6spuf0) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [where did you go?](https://open.spotify.com/album/3pctHU8ITALcpUmKyZcJfI) | 3:45 |
 | 3 | [If I Disappear](https://open.spotify.com/track/7s73oCecFT371Mbl5xW9tu) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [If I Disappear](https://open.spotify.com/album/16X2QNtGv9wOO5KCm5GmvT) | 3:09 |
 | 4 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
-| 5 | [Sincerity \(You Fooled Me Twice\)](https://open.spotify.com/track/3EOp2lHat1bw3qUsHY4FqM) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj), [Ben Jewell](https://open.spotify.com/artist/1r0i6WbQUvPLdu92BboyiB), [Erikshredz](https://open.spotify.com/artist/53clD8JJly7uUAiPYuGC9O), [Cage Fight](https://open.spotify.com/artist/35GpJabAKuETXnWsWQbTjr), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Sincerity \(You Fooled Me Twice\)](https://open.spotify.com/album/3atsAijiwe1BI5ND91AoSn) | 3:47 |
+| 5 | [Sincerity \(You Fooled Me Twice\)](https://open.spotify.com/track/3EOp2lHat1bw3qUsHY4FqM) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj), [Ben Jewell](https://open.spotify.com/artist/5RA1BUkfcoRFHsvaAAm6HD), [Erikshredz](https://open.spotify.com/artist/53clD8JJly7uUAiPYuGC9O), [Cage Fight](https://open.spotify.com/artist/35GpJabAKuETXnWsWQbTjr), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Sincerity \(You Fooled Me Twice\)](https://open.spotify.com/album/3atsAijiwe1BI5ND91AoSn) | 3:47 |
 | 6 | [Eliminator](https://open.spotify.com/track/7vkSJbtvgOx0uAjjpVKgxc) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Eliminator](https://open.spotify.com/album/6nNRTGtmFnUaTaZBeJzSFM) | 3:29 |
 | 7 | [Heart Full Of Scars](https://open.spotify.com/track/30KPCpwMtEJS1E13H11sUN) | [SKARS](https://open.spotify.com/artist/6tY1LHbUi3PpYgQocAF4tS) | [Heart Full Of Scars](https://open.spotify.com/album/67rm5BJuvOt4nfK3xv2L7J) | 2:41 |
 | 8 | [Digital Hell](https://open.spotify.com/track/4bqhilHNnWjhLX7IJXoXVA) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Digital Hell](https://open.spotify.com/album/64isnUcD3Iw5PXtJMcQ8S3) | 3:57 |

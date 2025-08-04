@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,881 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,891 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [C'est pas sérieux](https://open.spotify.com/track/42qeNYv2wPMRVu3C2OJrHZ) | [Les Chats Sauvages](https://open.spotify.com/artist/60U5Nsvpj5mJics5PcIkmd), [Dick Rivers](https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR) | [Est\-ce que tu le sais ? \(avec Dick Rivers\)](https://open.spotify.com/album/2eusU9U7fLiHhsQwoiFiou) | 2:18 |
 | 50 | [Comment te dire adieu \- Remasterisé en 2016](https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu \(Remasterisé en 2016\)](https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB) | 2:28 |
 
-Snapshot ID: `ZwTbgAAAAACdzwoPwh1fktWJpMxPqfki`
+Snapshot ID: `AAAAAADK8woipZBNRNJOBnIByT2cRHhZ`

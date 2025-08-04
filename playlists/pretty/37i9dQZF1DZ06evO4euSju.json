@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1389,
+  "num_followers": 1390,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAADeVBCoeDjHPnKcceOU2VBG",
+  "snapshot_id": "aI1VAAAAAAD4D7NgfVLu0oBBC4kpr+WK",
   "tracks": [
     {
       "added_at": null,
@@ -266,19 +266,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Fear Before The March Of Flames",
-          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
-        },
-        {
-          "name": "David Marion",
-          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
         }
       ],
-      "duration_ms": 235565,
-      "name": "Cigarette Two Step",
-      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,
@@ -338,11 +330,19 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Fear Before The March Of Flames",
+          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
+        },
+        {
+          "name": "David Marion",
+          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 235565,
+      "name": "Cigarette Two Step",
+      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
     },
     {
       "added_at": null,

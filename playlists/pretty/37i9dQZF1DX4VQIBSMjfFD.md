@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! \(태양의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,022 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,030 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain]
 | 26 | [Final Comment](https://open.spotify.com/track/1zBXqK1jxyHv6nXWzFGFb1) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [TAEYANG TOUR \[THE LIGHT YEAR\] ENCORE](https://open.spotify.com/album/4S2bqmGh7rKMY1ErrWfovw) | 0:42 |
 | 27 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 |
 
-Snapshot ID: `Z620nwAAAAAoVsfg0h/QPEqj2GPlmAeJ`
+Snapshot ID: `AAAAAJbp9Hd3VFvwxIh5zb2kQ3h4dqmt`

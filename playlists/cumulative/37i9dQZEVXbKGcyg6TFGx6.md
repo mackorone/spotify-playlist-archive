@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Luxembourg.
 
-2,887 songs - 6 day 8 hr 44 min
+2,888 songs - 6 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Domination](https://open.spotify.com/track/2oyVjxOzM6E4ZPamZax9Kb) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [Alex Nocera](https://open.spotify.com/artist/4sToaqlFVY3gHD1Yvcx8K6), [Roy Batty](https://open.spotify.com/artist/4MvzedBYPLY7bqNhkBWNWP) | [Domination](https://open.spotify.com/album/7lZl5rLHVJ85GGKX6yTgCq) | 3:20 | 2025-05-18 | 2025-05-20 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-10-23 | 2022-01-08 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-09-19 | 2021-11-21 |
+| [Don't Last](https://open.spotify.com/track/6QBAHOZQaAbRqOepiSeUMa) | [N8URE](https://open.spotify.com/artist/4WHu3tS5CWGKk2LiGyN2Ut) | [Don't Last](https://open.spotify.com/album/4BdUg891b3BpVGYr7P7gTt) | 2:10 | 2025-08-03 |  |
 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/6IF1uUKhv0z3CyrxnYivbB) | [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB), [YKATI](https://open.spotify.com/artist/2FOTwZJ9lsI3mpT68nqc10) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/7DNjcebhrb4qL8lcwfUx3S) | 2:57 | 2024-04-06 | 2024-04-08 |
 | [Don't Look Back in Anger \- Remastered](https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:49 | 2024-08-30 | 2024-09-01 |
 | [Don't Shut Me Down](https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 3:58 | 2021-09-05 | 2021-09-06 |
@@ -2299,7 +2300,7 @@
 | [sola luna](https://open.spotify.com/track/02XwYfZ5tcmW5ZrgE9b8Qg) | [i am samara](https://open.spotify.com/artist/5WQ98WtKu2aXh8rpv5Cr89) | [sola luna](https://open.spotify.com/album/0NSBDkMKjyLI4N2KGzfQHJ) | 1:47 | 2024-12-24 | 2024-12-26 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-14 |
 | [Soleil](https://open.spotify.com/track/7mqMOKEaXtKNWEbullLJIS) | [Red\-One](https://open.spotify.com/artist/0se1T8xEciJgyT1OFkWhI2) | [Mundo](https://open.spotify.com/album/4nNvlIVg2uNIXtl1WJzlH5) | 3:04 | 2023-06-08 | 2023-06-10 |
-| [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-07-29 |  |
+| [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-07-29 | 2025-08-04 |
 | [SOLL KOMMEN WER WILL](https://open.spotify.com/track/6hDXNYlSbJb5kpB3lfHxb0) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 3:20 | 2021-07-04 | 2021-07-11 |
 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 | 2023-02-22 | 2023-02-28 |
 | [Sombritude](https://open.spotify.com/track/083YRryV94SEGihxdU9qO9) | [Brvbus](https://open.spotify.com/artist/0tRCsJGmx8qDyhNczGCsE9), [Def Prod](https://open.spotify.com/artist/2FJVZCC5iWc2VkCewYilOI) | [Sombritude](https://open.spotify.com/album/2kwCL2EpL0ycNf2lHzPEy1) | 2:30 | 2023-06-10 | 2023-06-12 |

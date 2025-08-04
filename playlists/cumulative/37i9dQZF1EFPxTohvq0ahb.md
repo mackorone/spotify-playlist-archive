@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-179 songs - 10 hr 27 min
+180 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Right To Fall](https://open.spotify.com/track/2WnPynFxjMoEZ75KROnwFx) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/3DdyiWsJLZHdg37VNAjOCf) | 3:13 | 2023-12-30 | 2024-01-04 |
 | [Roc Me Out](https://open.spotify.com/track/2V4mS5qU1zIrlL9IdpTeJA) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 3:29 | 2023-12-30 |  |
 | [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 | 2025-01-09 | 2025-04-12 |
+| [Same Blood](https://open.spotify.com/track/6no2TiaMDBkI5Mo6yssV4X) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Same Blood](https://open.spotify.com/album/6hkAYWquyUAcEI0TuzOKtq) | 3:03 | 2025-08-03 |  |
 | [Second Guessing \- From Songland](https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:07 | 2023-12-30 |  |
 | [Sex Therapy](https://open.spotify.com/track/6MmxDAqXSxFS9dLQs1l7DT) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Sex Therapy: The Session](https://open.spotify.com/album/4Gm2OtBvivEPpoDIZSvA8o) | 4:35 | 2025-01-09 | 2025-04-12 |
 | [Shadow \(feat\. IRO\) \- From Songland](https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Shadow \(feat\. IRO\) \[From Songland\]](https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3) | 2:57 | 2023-12-30 |  |

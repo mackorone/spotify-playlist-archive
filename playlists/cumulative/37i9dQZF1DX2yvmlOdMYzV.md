@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,017 songs - 2 day 7 hr 35 min
+1,018 songs - 2 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Chasing](https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Chasing](https://open.spotify.com/album/0Sne6wKPU3s6feDEkCqKff) | 3:01 | 2024-04-05 |  |
 | [CHASING FANTASIES](https://open.spotify.com/track/3zMfCySyYt5H0vB4p8dd4n) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 4:15 | 2024-07-19 | 2025-05-17 |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-02 | 2024-10-19 |
+| [Cheirinho \- Feat\. YOÙN](https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Cheirinho \(Feat\. YOÙN\)](https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw) | 2:53 | 2025-08-01 |  |
 | [CHERIMOYA](https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CHERIMOYA](https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5) | 2:09 | 2023-02-10 | 2023-10-07 |
 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2023-09-08 | 2025-05-17 |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2021-12-15 | 2022-07-29 |
@@ -535,7 +536,7 @@
 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 | 2021-12-15 | 2023-03-25 |
 | [Love Deep](https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Love Deep](https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF) | 3:40 | 2025-03-21 |  |
 | [Love Frequency \- Stripped](https://open.spotify.com/track/0M1SoHpp1zyZdnVjUEjw3V) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Love Frequency \(Stripped\)](https://open.spotify.com/album/77rhrA74OSgHndy27dGO50) | 3:12 | 2023-06-02 | 2023-06-10 |
-| [Love is Gold](https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Love is Gold](https://open.spotify.com/album/23FtRtJtNUL9EVSiIyPGIr) | 4:10 | 2025-02-14 |  |
+| [Love is Gold](https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Love is Gold](https://open.spotify.com/album/23FtRtJtNUL9EVSiIyPGIr) | 4:10 | 2025-02-14 | 2025-08-04 |
 | [Love Like This](https://open.spotify.com/track/17dfAG2gJ7uUInYV2scPqx) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Love Like This](https://open.spotify.com/album/30CXSVzwIiMDBdVNewXMWo) | 3:22 | 2025-03-14 | 2025-03-30 |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-03-03 | 2023-12-08 |
 | [love me right](https://open.spotify.com/track/6lkmMyXRTDJv7Gbn0LNGUJ) | [RISSA](https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ) | [love me right](https://open.spotify.com/album/0wt3flcNvffezUNipKm0Z6) | 2:37 | 2024-10-26 | 2025-07-26 |

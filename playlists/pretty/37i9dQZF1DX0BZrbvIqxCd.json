@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544690,
+  "num_followers": 544703,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "I'm Shipping Up To Boston",
-      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "SIGNED and SEALED in BLOOD",
         "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "If You Say So",
-        "url": "https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego"
-      },
-      "artists": [
-        {
-          "name": "The Dead Love",
-          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
-        }
-      ],
-      "duration_ms": 151521,
-      "name": "If You Say So",
-      "url": "https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "TURNSTILE LOVE CONNECTION",
         "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "If You Say So",
+        "url": "https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego"
+      },
+      "artists": [
+        {
+          "name": "The Dead Love",
+          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
+        }
+      ],
+      "duration_ms": 151521,
+      "name": "If You Say So",
+      "url": "https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ"
     },
     {
       "added_at": "2024-07-19 11:53:42",

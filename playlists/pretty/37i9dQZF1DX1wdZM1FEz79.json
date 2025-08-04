@@ -1,6 +1,6 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \uc7a5\ubc94\uc900) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 297344,
+  "num_followers": 297354,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2025-07-23 09:37:00",
       "album": {
+        "name": "it's you",
+        "url": "https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5"
+      },
+      "artists": [
+        {
+          "name": "Lemon City",
+          "url": "https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z"
+        },
+        {
+          "name": "colin",
+          "url": "https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "it's you",
+      "url": "https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz"
+    },
+    {
+      "added_at": "2025-07-23 09:37:00",
+      "album": {
         "name": "When The Wind Blows - SM STATION",
         "url": "https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 213211,
       "name": "What I want to say",
       "url": "https://open.spotify.com/track/4door6xOPf2auseb5Foc9f"
-    },
-    {
-      "added_at": "2025-07-23 09:37:00",
-      "album": {
-        "name": "it's you",
-        "url": "https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5"
-      },
-      "artists": [
-        {
-          "name": "Lemon City",
-          "url": "https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z"
-        },
-        {
-          "name": "colin",
-          "url": "https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "it's you",
-      "url": "https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz"
     },
     {
       "added_at": "2025-07-23 09:37:00",
@@ -859,22 +859,18 @@
     {
       "added_at": "2025-07-23 09:37:00",
       "album": {
-        "name": "It just happened",
-        "url": "https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh"
+        "name": "vacation",
+        "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        },
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
         }
       ],
-      "duration_ms": 156306,
-      "name": "\uadf8\ub807\uac8c \ub410\uc5b4 It just happened",
-      "url": "https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm"
+      "duration_ms": 215353,
+      "name": "vacation",
+      "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

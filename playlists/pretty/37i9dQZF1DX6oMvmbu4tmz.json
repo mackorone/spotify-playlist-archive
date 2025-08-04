@@ -1,6 +1,6 @@
 {
   "description": "De allerbeste songs van de 10's! Cover: Martin Garrix",
-  "num_followers": 53904,
+  "num_followers": 53905,
   "original_name": "10's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "aB0rPgAAAABqNpPyIV4oD2ZEdQ98vSZH",
   "tracks": [
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
-    },
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 204346,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -383,26 +383,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 248413,
-      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -423,18 +415,26 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 248413,
+      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
         "name": "New Eyes",
         "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "The Common Linnets",
-        "url": "https://open.spotify.com/album/5Vw9o8lKtDODFDX9abMaSw"
-      },
-      "artists": [
-        {
-          "name": "The Common Linnets",
-          "url": "https://open.spotify.com/artist/18h3nc5ixeV80KKGWDAaMG"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Calm After The Storm",
-      "url": "https://open.spotify.com/track/6C2GZHFFO8uXuMYCHiW5Y4"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Rivals",
         "url": "https://open.spotify.com/album/6udOhfnZ9TyExOZ4Js2QL2"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 176652,
       "name": "War",
       "url": "https://open.spotify.com/track/6mEl7vK6usgdsNm4QFHeEd"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "The Common Linnets",
+        "url": "https://open.spotify.com/album/5Vw9o8lKtDODFDX9abMaSw"
+      },
+      "artists": [
+        {
+          "name": "The Common Linnets",
+          "url": "https://open.spotify.com/artist/18h3nc5ixeV80KKGWDAaMG"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Calm After The Storm",
+      "url": "https://open.spotify.com/track/6C2GZHFFO8uXuMYCHiW5Y4"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF"
+        "name": "Solo Dance",
+        "url": "https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t"
+      "duration_ms": 174933,
+      "name": "Solo Dance",
+      "url": "https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Solo Dance",
-        "url": "https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq"
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF"
       },
       "artists": [
         {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 174933,
-      "name": "Solo Dance",
-      "url": "https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN"
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "First Impressions",
         "url": "https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT"
       },
@@ -1739,22 +1723,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK"
       },
       "artists": [
         {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
         }
       ],
-      "duration_ms": 245755,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM"
+      "duration_ms": 174266,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1771,6 +1751,26 @@
       "duration_ms": 268466,
       "name": "Home",
       "url": "https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM"
     }
   ],
   "unique_name": "10's Allerbeste",

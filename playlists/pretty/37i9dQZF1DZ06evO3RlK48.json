@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 16424,
+  "num_followers": 16429,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAAC1qH5x889BHfCu18LELy+x",
+  "snapshot_id": "aI1VAAAAAADUXcoAkAA3j+VAAJfqVGH1",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 255506,
-      "name": "Crying On The Bathroom Floor",
-      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
+      "duration_ms": 210053,
+      "name": "Loudspeaker",
+      "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 210053,
-      "name": "Loudspeaker",
-      "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
+      "duration_ms": 255506,
+      "name": "Crying On The Bathroom Floor",
+      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
     },
     {
       "added_at": null,
@@ -435,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftertaste (MUNA Remix)",
-        "url": "https://open.spotify.com/album/6rk50SCI6pzLMkwQ1CSjXI"
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
       "artists": [
-        {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Aftertaste - MUNA Remix",
-      "url": "https://open.spotify.com/track/2MkrZcor4Y8Ux8V3qRp5VO"
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
       "added_at": null,
@@ -487,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+        "name": "Aftertaste (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6rk50SCI6pzLMkwQ1CSjXI"
       },
       "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+      "duration_ms": 232360,
+      "name": "Aftertaste - MUNA Remix",
+      "url": "https://open.spotify.com/track/2MkrZcor4Y8Ux8V3qRp5VO"
     },
     {
       "added_at": null,

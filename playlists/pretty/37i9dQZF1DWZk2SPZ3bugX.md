@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,087 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,139 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [Easy To Love](https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Into The Blue](https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz) | 3:50 |
 | 60 | [Time In The Sun](https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Time In The Sun](https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ) | 2:48 |
 
-Snapshot ID: `AAAAALsFFh4IJ3dGKYO/QVJrp66enRCM`
+Snapshot ID: `aIzs5QAAAACRoI7IAP1EtY7xQ8Ni+nrN`

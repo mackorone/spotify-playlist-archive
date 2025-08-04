@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118472,
+  "num_followers": 118470,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAADpeqriu1v+v2LsXZyaIffM",
+  "snapshot_id": "aI1VAAAAAACnUQWo7bCL239J8ywKrQnP",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liberdade (Deluxe)",
+        "url": "https://open.spotify.com/album/72UAM9YXaUyl4iT8crtq2p"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Maurin",
+          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "Diretamente do RJ",
+      "url": "https://open.spotify.com/track/2wElVsZNrywo37wbmHzCj7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mixtape Chir\u00f3",
         "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
       },
@@ -743,34 +771,6 @@
       "duration_ms": 308243,
       "name": "A Cara do Crime 4 (Acendo a Flor)",
       "url": "https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liberdade (Deluxe)",
-        "url": "https://open.spotify.com/album/72UAM9YXaUyl4iT8crtq2p"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Maurin",
-          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "Diretamente do RJ",
-      "url": "https://open.spotify.com/track/2wElVsZNrywo37wbmHzCj7"
     },
     {
       "added_at": null,
@@ -1463,26 +1463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
-        "url": "https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr"
-      },
-      "artists": [
-        {
-          "name": "DJ Henrique da VK",
-          "url": "https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
-      "url": "https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigo na F\u00e9 do Pai",
         "url": "https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 264827,
       "name": "Sigo na F\u00e9 do Pai",
       "url": "https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
+        "url": "https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr"
+      },
+      "artists": [
+        {
+          "name": "DJ Henrique da VK",
+          "url": "https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
+      "url": "https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ"
     },
     {
       "added_at": null,

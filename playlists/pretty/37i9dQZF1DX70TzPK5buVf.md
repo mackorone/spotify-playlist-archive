@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 
 > Funk to these good ol' funky soul classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,126 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,133 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 74 | [Funky Drummer \- Pt\. 1 & 2](https://open.spotify.com/track/3iAufGxOfonBxbW2tsD64i) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 9:13 |
 | 75 | [Soul Finger](https://open.spotify.com/track/085diW9d1iWe9qeNQiDYOw) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Soul Finger](https://open.spotify.com/album/55E0BKK84Zv6x5y7j8BGTk) | 2:22 |
 
-Snapshot ID: `aEdgJQAAAACgOX1HtQU2yqZ1ZIQUUxGj`
+Snapshot ID: `AAAAAFGbgIvc/3sEY1cL73KFOrFju2yB`

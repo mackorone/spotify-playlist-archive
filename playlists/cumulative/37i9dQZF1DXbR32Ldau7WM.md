@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: AKASAKI
 
-1,334 songs - 3 day 15 hr 41 min
+1,335 songs - 3 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/track/6u5POngpCtZfnIyLU2izjg) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/album/5FE6XRVjwqvXE4tQqiW5gx) | 2:37 | 2024-01-18 | 2024-01-20 |
 | [Entertain](https://open.spotify.com/track/6jxS9Z1610FPfKcT339Kfb) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Entertain](https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX) | 3:36 | 2022-09-08 | 2022-09-15 |
 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 | 2023-07-25 | 2023-08-02 |
-| [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 | 2025-07-01 |  |
+| [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 | 2025-07-01 | 2025-08-04 |
 | [EPISODE 7](https://open.spotify.com/track/0UkJuv4tuSYAq07KW2XUUL) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [THE NEW ALBUM](https://open.spotify.com/album/1oUP4voVB2HB89sPPsXCzO) | 4:59 | 2022-05-17 | 2022-06-15 |
 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 | 2024-12-03 | 2025-01-08 |
 | [ETA](https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 4:47 | 2022-05-31 | 2022-06-23 |
@@ -272,6 +272,7 @@
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-09 | 2024-01-17 |
 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 | 2022-05-17 | 2022-06-15 |
 | [Horizon](https://open.spotify.com/track/2UeeixjhUudFsmKTU1jEXl) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Horizon](https://open.spotify.com/album/6R0xlPxbRThYm3Xc3teGNF) | 4:01 | 2023-08-29 | 2023-09-06 |
+| [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 | 2025-08-01 |  |
 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 | 2025-07-29 |  |
 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2022-05-10 | 2023-05-10 |
 | [Hyakka Ranman](https://open.spotify.com/track/5EqIj8sY7MmlUyfLi0363q) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [SCARECROWS](https://open.spotify.com/album/5XexNvd10X2sV8fDr2EOw2) | 4:17 | 2023-09-26 | 2023-10-04 |

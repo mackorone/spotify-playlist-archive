@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by ROBI, Ruaw Alejandro, Chino Pacas, Emilia and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,043 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,089 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Por Ti Ya No Creo En Los Hombres](https://open.spotify.com/track/3xo0LrhsESiMMBXP06HkQ3) | [La Pardo](https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU) | [CABRONA](https://open.spotify.com/album/2MlliCtFBI9qPYFXCjzb1N) | 3:00 |
 | 50 | [Soy Un Perro](https://open.spotify.com/track/3VIXysznU0p8RlDvCyMC6n) | [Chune](https://open.spotify.com/artist/0M8yh4QnShC2YBY1TGznCm), [PAARIS](https://open.spotify.com/artist/5vxE66d4SfVuLo625uoecB) | [Soy Un Perro](https://open.spotify.com/album/1r4kwAkjhlv1usRoh2JrBe) | 3:23 |
 
-Snapshot ID: `AAAAAEJe9s6++QHHi+Eg/AmFKWmJXs2V`
+Snapshot ID: `aIw76wAAAABkdcECkq9yVLdEXwfBtNsv`

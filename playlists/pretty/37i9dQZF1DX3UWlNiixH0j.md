@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: サニーデイ・サービス Sunny Day Service
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,133 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,137 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 39 | [Q](https://open.spotify.com/track/773w1nEqVUs888p9pmwcJT) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Q](https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie) | 3:17 |
 | 40 | [マイル feat.Gotch](https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [マイル feat.Gotch](https://open.spotify.com/album/5utHzbAEzHxGa2RMWoAPpu) | 3:15 |
 | 41 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
-| 42 | [Glow Within](https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [Glow Within](https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9) | 4:58 |
-| 43 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
+| 42 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
+| 43 | [Glow Within](https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [Glow Within](https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9) | 4:58 |
 | 44 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 |
 | 45 | [新しいsummer](https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [LUMINOUS](https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe) | 3:09 |
 | 46 | [Who's In My House?](https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in My House?](https://open.spotify.com/album/3Ak37Feu5PK03x4hjujdnf) | 6:41 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 65 | [芒果](https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [芒果](https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY) | 2:53 |
 | 66 | [This Minute](https://open.spotify.com/track/5G0vkq5xLCjRVwi3h3ub6e) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [This Minute](https://open.spotify.com/album/3gKS2F4VmAftWojU4A8nZO) | 5:53 |
 | 67 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 |
-| 68 | [Johnny＆Ayako](https://open.spotify.com/track/3noH09WtyT45nrha4YoaAs) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Johnny＆Ayako](https://open.spotify.com/album/6gdxQrEByPbQWC4RePGqWJ) | 2:27 |
-| 69 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
+| 68 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
+| 69 | [Johnny＆Ayako](https://open.spotify.com/track/3noH09WtyT45nrha4YoaAs) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Johnny＆Ayako](https://open.spotify.com/album/6gdxQrEByPbQWC4RePGqWJ) | 2:27 |
 | 70 | [Hatch Meets June](https://open.spotify.com/track/7uVh5GUs9ZCbvHTZWz0RhQ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [Hatch Meets June](https://open.spotify.com/album/7fznNbl57jbwUdSIyXpejd) | 4:56 |
 | 71 | [Car](https://open.spotify.com/track/39GIag3orHUfKAEIcFxcvB) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Car](https://open.spotify.com/album/3xyXLClEJrzpQhLnitBVnb) | 5:21 |
-| 72 | [ブルーと踊って](https://open.spotify.com/track/4SzKPPrrFSebHA5RmbVN7d) | [UWANOSORA](https://open.spotify.com/artist/5cyWYZjbXR0b9yY7HztDFI) | [ブルーと踊って](https://open.spotify.com/album/2OR5lg8Fxhs6EZRpkHL5Dp) | 4:00 |
-| 73 | [幸福の培養](https://open.spotify.com/track/4MgFKwyW9pzNIZBzv6woPP) | [kinoue64](https://open.spotify.com/artist/1m3xhZ4CN3hm4F3lK8Rw5C) | [幸福の培養](https://open.spotify.com/album/5gtgznEYDKC80pT91UQN0I) | 2:55 |
+| 72 | [幸福の培養](https://open.spotify.com/track/4MgFKwyW9pzNIZBzv6woPP) | [kinoue64](https://open.spotify.com/artist/1m3xhZ4CN3hm4F3lK8Rw5C) | [幸福の培養](https://open.spotify.com/album/5gtgznEYDKC80pT91UQN0I) | 2:55 |
+| 73 | [ブルーと踊って](https://open.spotify.com/track/4SzKPPrrFSebHA5RmbVN7d) | [UWANOSORA](https://open.spotify.com/artist/5cyWYZjbXR0b9yY7HztDFI) | [ブルーと踊って](https://open.spotify.com/album/2OR5lg8Fxhs6EZRpkHL5Dp) | 4:00 |
 | 74 | [1985](https://open.spotify.com/track/0enOrXRrfvuOZPWtCTjRHW) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [1985](https://open.spotify.com/album/4FkVzYd8PVAGo5ylgoWSTM) | 3:20 |
-| 75 | [I.K.T.W](https://open.spotify.com/track/2QmWMM0XYxHfIkOvlj4LH7) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [I.K.T.W](https://open.spotify.com/album/127ujdqH3qg0Gg6016dtPa) | 3:21 |
+| 75 | [Big Dream](https://open.spotify.com/track/1g29K9UhQ3xsD0L0Uqs0Vg) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Big Dream](https://open.spotify.com/album/4ePrPnI99poUnIWyTeJMBL) | 5:26 |
 
 Snapshot ID: `aIjiCwAAAAADKLt1Pv6a+ZiXeBRSXRdL`

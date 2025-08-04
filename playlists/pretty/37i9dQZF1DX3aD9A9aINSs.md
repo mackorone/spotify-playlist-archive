@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sezen Aksu
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,124 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,117 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 63 | [Hayat İşte](https://open.spotify.com/track/1WVFmXVjaE4IDOk3vX6ahC) | [Tuana Tetik](https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR) | [Anlat](https://open.spotify.com/album/5Iks37xSTVQH09rG6ty50H) | 2:40 |
 | 64 | [Geceler İnsafsız](https://open.spotify.com/track/3Cv1yQpdnglFaIbCxLQpes) | [Dilde](https://open.spotify.com/artist/0GDoXnSw4iGdysDQWCiuP3) | [Geceler İnsafsız](https://open.spotify.com/album/15AaCkEwWtJPemLqgJMlBs) | 2:27 |
 
-Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`
+Snapshot ID: `aGTsGgAAAABCkZEV5JPGg84PoGbBwf0D`

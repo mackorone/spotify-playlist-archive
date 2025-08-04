@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11398,
+  "num_followers": 11402,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-07-29 07:15:11",
       "album": {
-        "name": "I Am Yours",
-        "url": "https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 211640,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H"
-    },
-    {
-      "added_at": "2025-07-29 07:15:11",
-      "album": {
         "name": "Love(Prod.Rocoberry)",
         "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
       },
@@ -819,18 +803,38 @@
     {
       "added_at": "2025-07-29 07:15:11",
       "album": {
-        "name": "Where's my hero?, Pt.2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3RkBA6UFaxr2vySipK9AA4"
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054"
       },
       "artists": [
         {
-          "name": "LEE CHAE YEON",
-          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
         }
       ],
-      "duration_ms": 169120,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/11b0NPAg6jc7vgrbIEOM44"
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H"
+    },
+    {
+      "added_at": "2025-07-29 07:15:11",
+      "album": {
+        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Naeun",
+          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
     },
     {
       "added_at": "2025-07-29 07:15:11",

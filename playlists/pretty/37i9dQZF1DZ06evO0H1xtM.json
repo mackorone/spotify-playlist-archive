@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 349949,
+  "num_followers": 350038,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAADCiZkQCHLXSaYg5+hYOdKx",
+  "snapshot_id": "aI1VAAAAAABmucAVkN/OpOZZaEzkujQF",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Guerita",
-        "url": "https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 184165,
-      "name": "La Guerita",
-      "url": "https://open.spotify.com/track/3ScaLvfm2RJvLaXETbIYut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 154688,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Guerita",
+        "url": "https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 184165,
+      "name": "La Guerita",
+      "url": "https://open.spotify.com/track/3ScaLvfm2RJvLaXETbIYut"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigue La Magia Dando",
+        "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 245478,
+      "name": "El Comerciante",
+      "url": "https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Destino Nos Separa",
         "url": "https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 135317,
       "name": "El Destino Nos Separa",
       "url": "https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigue La Magia Dando",
-        "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 245478,
-      "name": "El Comerciante",
-      "url": "https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On fire",
-        "url": "https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "A ti",
-      "url": "https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mafiosa",
         "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
@@ -479,22 +463,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Ruina (Version Deluxe)",
-        "url": "https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb"
+        "name": "On fire",
+        "url": "https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8"
       },
       "artists": [
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Ariel Camacho",
-          "url": "https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH"
         }
       ],
-      "duration_ms": 213440,
-      "name": "La Vida Ruina (feat. Ariel Camacho)",
-      "url": "https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d"
+      "duration_ms": 167692,
+      "name": "A ti",
+      "url": "https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eres Mi Crush",
+        "url": "https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 160234,
+      "name": "Eres Mi Crush",
+      "url": "https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eres Mi Crush",
-        "url": "https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ"
+        "name": "La Vida Ruina (Version Deluxe)",
+        "url": "https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb"
       },
       "artists": [
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Ariel Camacho",
+          "url": "https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH"
         }
       ],
-      "duration_ms": 160234,
-      "name": "Eres Mi Crush",
-      "url": "https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R"
+      "duration_ms": 213440,
+      "name": "La Vida Ruina (feat. Ariel Camacho)",
+      "url": "https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
       "duration_ms": 163057,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esos Ojitos",
+        "url": "https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170938,
+      "name": "Esos Ojitos",
+      "url": "https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV"
     },
     {
       "added_at": null,
@@ -931,22 +947,6 @@
       "duration_ms": 213613,
       "name": "Si Supieran",
       "url": "https://open.spotify.com/track/61cPaeNerTafqZLYMEfTQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esos Ojitos",
-        "url": "https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170938,
-      "name": "Esos Ojitos",
-      "url": "https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

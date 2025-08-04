@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293,149 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,293,076 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 |
 | 50 | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/track/5ZwXgb8dQuK1GC15s7tG5L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [EWC](https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K) | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/album/6YsKzkuaCcKLEPGN69hnU1) | 3:02 |
 
-Snapshot ID: `aIbfdgAAAACXWeXMVLhoy3D3xExB1i77`
+Snapshot ID: `AAAAAFogEwgq4FIOGQbTLaRSHjusHvUD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Chappell Roan, Hooja, Peg Parnevik och Demi Lovato med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,968 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,969 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 100 | [Freedom](https://open.spotify.com/track/4iASwEBoRvT7vF0v58n8Qj) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Freedom](https://open.spotify.com/album/75bZcmEoh0IMVP2E63TQQs) | 2:32 |
 | 101 | [Don't Look Down](https://open.spotify.com/track/060VALM3GBwYuLva2Kg4r9) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Don't Look Down](https://open.spotify.com/album/09vETzLYeQ2RxuOOWYpkeY) | 3:25 |
 
-Snapshot ID: `aIyO9AAAAAAr5rqOAlNpVbm3Nf2aEi99`
+Snapshot ID: `AAAAAOmOqVBpxfLHXh/PzoTzmJ0vChkr`

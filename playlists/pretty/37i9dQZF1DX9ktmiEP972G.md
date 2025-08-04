@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ktmiEP972G.md) - [plain]
 
 > This championship summer, football icons across Europe have teamed up to curate a playlist to bring people together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,531 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,558 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ktmiEP972G.md) - [plain]
 | 39 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
 | 40 | [Contigo](https://open.spotify.com/track/5Txf0ApheFvyRr1s4DxMb5) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Contigo](https://open.spotify.com/album/3f9adgFbEoT4p73iJTP41t) | 2:39 |
 
-Snapshot ID: `aEvrOwAAAABwvBnKrk9CXuMmqItt1Vg3`
+Snapshot ID: `AAAAAAD3ONK9pWbMzSU7dnYL8MsaiXn0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : TheFrenchKris
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,032 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,014 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Tu me mens](https://open.spotify.com/track/689RdTmyMdVYIU1F0CiWWU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Tu me mens](https://open.spotify.com/album/0uBal0SWpWaif5znxGec3P) | 2:11 |
 | 50 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
 
-Snapshot ID: `aIvnfwAAAABn0Ej/htNfw8e5w+LJhPVU`
+Snapshot ID: `AAAAAKIp4cvYu3CMb2Gp+fd7OqglXPEq`

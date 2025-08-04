@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 6025,
+  "num_followers": 6031,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,42 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Kwelanga",
+        "url": "https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK"
+      },
+      "artists": [
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "M-Touch",
+          "url": "https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6"
+        },
+        {
+          "name": "Ranger",
+          "url": "https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk"
+        },
+        {
+          "name": "Amaza",
+          "url": "https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "duration_ms": 441894,
+      "name": "Kwelanga 2.0 (feat. Tman Xpress & LeeMcKrazy)",
+      "url": "https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Puff & Pass (Remix)",
         "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
       },
@@ -459,42 +495,6 @@
       "duration_ms": 424800,
       "name": "Yebo Lapho (Gogo) (feat. DJ Maphorisa & Djy Biza)",
       "url": "https://open.spotify.com/track/0NLRYW9HyqHcbyzfAwskKN"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Kwelanga",
-        "url": "https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK"
-      },
-      "artists": [
-        {
-          "name": "Bassie",
-          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
-        },
-        {
-          "name": "M-Touch",
-          "url": "https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6"
-        },
-        {
-          "name": "Ranger",
-          "url": "https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk"
-        },
-        {
-          "name": "Amaza",
-          "url": "https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        }
-      ],
-      "duration_ms": 441894,
-      "name": "Kwelanga 2.0 (feat. Tman Xpress & LeeMcKrazy)",
-      "url": "https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Bundle By Bundle",
-        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bundle By Bundle",
-      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Chokeslem",
         "url": "https://open.spotify.com/album/2vpwmi9Ch0ImPCOVgr09zV"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "The Godson",
-        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
       },
       "artists": [
         {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 203870,
-      "name": "Nairobi",
-      "url": "https://open.spotify.com/track/5XSuj4xrbakbDeSQom3oAr"
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -651,6 +631,26 @@
       "duration_ms": 402890,
       "name": "Diqabang",
       "url": "https://open.spotify.com/track/4zZxynw8cwhCRlDl9pay2f"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "The Godson",
+        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 203870,
+      "name": "Nairobi",
+      "url": "https://open.spotify.com/track/5XSuj4xrbakbDeSQom3oAr"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Olodumare",
-        "url": "https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Olodumare",
-      "url": "https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Iza Mawala (feat. Dladla Mshunqisi & Goldmax)",
         "url": "https://open.spotify.com/album/5EBJ5rZbVPpvhooXsDXP2g"
       },
@@ -859,38 +843,6 @@
       "duration_ms": 395044,
       "name": "Iza Mawala (feat. Dladla Mshunqisi & Goldmax)",
       "url": "https://open.spotify.com/track/0Xc5lXQ1Q1NxGyL7SSXnF9"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Show You Off",
-        "url": "https://open.spotify.com/album/3zWCZabaPKAJ3Ku4lRqPzK"
-      },
-      "artists": [
-        {
-          "name": "Savara",
-          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Show You Off",
-      "url": "https://open.spotify.com/track/0hVoZp56yvFRmDYq7B7wsI"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 189177,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -931,6 +883,54 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Olodumare",
+        "url": "https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Olodumare",
+      "url": "https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/3zWCZabaPKAJ3Ku4lRqPzK"
+      },
+      "artists": [
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/0hVoZp56yvFRmDYq7B7wsI"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 189177,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
     },
     {
       "added_at": "2024-12-19 13:12:01",

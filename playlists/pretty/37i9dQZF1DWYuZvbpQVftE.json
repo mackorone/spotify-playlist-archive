@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 39444,
+  "num_followers": 39465,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Take Me Along",
-        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
-      },
-      "artists": [
-        {
-          "name": "Marty Paich",
-          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
-        }
-      ],
-      "duration_ms": 304093,
-      "name": "Sid, Ol' Kid",
-      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Coop! The Music Of Bob Cooper",
         "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 261066,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Take Me Along",
+        "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
+      },
+      "artists": [
+        {
+          "name": "Marty Paich",
+          "url": "https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Sid, Ol' Kid",
+      "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
     },
     {
       "added_at": "2024-09-03 09:42:20",

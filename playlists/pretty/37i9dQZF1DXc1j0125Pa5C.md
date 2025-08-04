@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Clareou, Milthinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,087 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,317 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Reinventar / Pra Ver o Sol Brilhar \- Ao Vivo](https://open.spotify.com/track/67hKgDUbY3ktUK241L94d7) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Belo \- 10 Anos de Sucesso \(Deluxe\)](https://open.spotify.com/album/2s5GAaP1y8Jw4QXvqc7r6a) | 5:59 |
 | 75 | [Encontro / Eu Te Amo \- Ao Vivo](https://open.spotify.com/track/3QlaEMBgXJcq7lqjjRMmcm) | [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Encontro / Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/67XOPkmRWRLit6AnqHTSoC) | 3:26 |
 
-Snapshot ID: `aIpZhQAAAABhzea9zff5QVIvWvoWF5il`
+Snapshot ID: `AAAAAGlUrP4bHqXKcREHQlroPJONwbP9`

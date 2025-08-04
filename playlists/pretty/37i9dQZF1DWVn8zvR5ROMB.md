@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Bailey Zimmerman, Zach Top, Gabby Barrett and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,424 likes - 67 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,543 likes - 67 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 66 | [I Said, She Said](https://open.spotify.com/track/5UU6aJ0wW4Beo6Hmnbydnz) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [I Said, She Said](https://open.spotify.com/album/7jPFg4OQJwiFA3rn6huk0R) | 2:56 |
 | 67 | [Hands of a Woman](https://open.spotify.com/track/3ebU7IzqHX1txFFGk3IPsm) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Hands of a Woman](https://open.spotify.com/album/6ly0V7vBK9RXSbOO7JPbUc) | 2:59 |
 
-Snapshot ID: `aIw8GwAAAAAowY7ludW27i1S42mit8eo`
+Snapshot ID: `aIw8GwAAAABj/aCeCar6iFgWFLWfqtAV`

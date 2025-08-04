@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Solace Out The Door
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,750 likes - 117 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,798 likes - 117 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Umaaligid](https://open.spotify.com/track/5XYYmsZJG5qIBAniny4bHe) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Umaaligid](https://open.spotify.com/album/40dRtBQzDiou9BAZMOqFGd) | 3:40 |
-| 2 | [Naguguluhan](https://open.spotify.com/track/31FVAqbnQyl75EXunOj9P2) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Naguguluhan](https://open.spotify.com/album/1lDPsstoNpXWJB2iylCTIk) | 3:51 |
-| 3 | [Ayaw Baya](https://open.spotify.com/track/42Xk3IBopZoqG5R9YSctGS) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Ayaw Baya](https://open.spotify.com/album/0zLGNLnfdMdb0dpsfEQGmy) | 4:10 |
+| 1 | [Naguguluhan](https://open.spotify.com/track/31FVAqbnQyl75EXunOj9P2) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Naguguluhan](https://open.spotify.com/album/1lDPsstoNpXWJB2iylCTIk) | 3:51 |
+| 2 | [Ayaw Baya](https://open.spotify.com/track/42Xk3IBopZoqG5R9YSctGS) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Ayaw Baya](https://open.spotify.com/album/0zLGNLnfdMdb0dpsfEQGmy) | 4:10 |
+| 3 | [Umaaligid](https://open.spotify.com/track/5XYYmsZJG5qIBAniny4bHe) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Umaaligid](https://open.spotify.com/album/40dRtBQzDiou9BAZMOqFGd) | 3:40 |
 | 4 | [Paalam](https://open.spotify.com/track/1L65j5OIL9A43znUyUjc5F) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Paalam](https://open.spotify.com/album/7CvsophvuVbMMJFypr0Jvh) | 3:03 |
 | 5 | [Oras Makina](https://open.spotify.com/track/6xlECypWfYEQ1iRf9EctIN) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Oras Makina](https://open.spotify.com/album/3KtZ4DY9M97qZhZLbIbgO0) | 3:27 |
 | 6 | [Tinapay](https://open.spotify.com/track/6O9zj5PNsW8btYoXL6qRRL) | [Kahel](https://open.spotify.com/artist/2en1UzOP6taB2wxIFQzULa) | [Tinapay](https://open.spotify.com/album/39AwVHceFp7EEqAYJUbXT8) | 5:27 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 116 | [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 |
 | 117 | [Hingalo](https://open.spotify.com/track/1Bu4SSuA5gne7t5q8MW8Ka) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge), [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [Hingalo](https://open.spotify.com/album/2VSGdqPuSWfPIjJS5BvJYk) | 3:39 |
 
-Snapshot ID: `AAAAALAD3/W3EJzww3N0qcg0E3gynz/c`
+Snapshot ID: `aJAP/gAAAABgQd6G7qEpiT2WzK0y7CDY`

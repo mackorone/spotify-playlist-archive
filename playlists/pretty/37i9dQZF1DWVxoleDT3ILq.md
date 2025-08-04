@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Ciudad Nómade
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,546 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,525 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Me Derretí](https://open.spotify.com/track/0eGzggbKVakRzwysJ9jSzT) | [Amanitas](https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR) | [Me Derretí](https://open.spotify.com/album/7kGWmW0hpfvVMEmAgzgX5H) | 3:41 |
 | 100 | [Spam](https://open.spotify.com/track/0wLjZKh48ap0wdCmWnv19P) | [El Mala Hierba](https://open.spotify.com/artist/49MaIXLae4M7AJiWKYoxVT) | [Spam](https://open.spotify.com/album/1ThZdEMIHd5oR98h7Pb9dO) | 3:25 |
 
-Snapshot ID: `aIwtuQAAAABTEnATVN738V81a0pwW85w`
+Snapshot ID: `AAAAAGEnollU+Kk4I551I5n+OMQHUFKq`

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Aug 13:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 03 Aug 13:04 UTC.
 
-5,257 songs - 12 day 4 hr 53 min
+5,258 songs - 12 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,7 +722,7 @@
 | [Burgerpommes 2](https://open.spotify.com/track/3SGNRhjDFRsjYqswl3Zptq) | [LukasBS](https://open.spotify.com/artist/6UXLYfkcd2st5enW3bxvlQ), [Marvin Vlogt](https://open.spotify.com/artist/0lJCrlh8MQ4qGpLV0NMvAo), [Canselguel](https://open.spotify.com/artist/7xsSqPJSdYSj17KJKGGYTR) | [Burgerpommes 2](https://open.spotify.com/album/3lv5pXqA46mgcbRhZG5S2W) | 3:01 | 2024-12-02 | 2024-12-06 |
 | [Burj Khalifa](https://open.spotify.com/track/49Ycoi7GZLEciqnmhtge14) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Burj Khalifa](https://open.spotify.com/album/26heFnuWNaGoVT1pZ3Tw9v) | 3:05 | 2024-04-26 | 2024-04-28 |
 | [Burn](https://open.spotify.com/track/2AhIsvwpkE3CI2cNefp7au) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [Burn](https://open.spotify.com/album/3jIXM6JwItR5LJ37kIfmUl) | 3:03 | 2024-10-30 | 2024-11-02 |
-| [Burn A Miracle](https://open.spotify.com/track/2SRywDIltijlQzr7PZOTbj) | [Greyhaven](https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL) | [Burn A Miracle](https://open.spotify.com/album/68ByfVFthij4nra8xLkKm3) | 4:02 | 2025-07-26 |  |
+| [Burn A Miracle](https://open.spotify.com/track/2SRywDIltijlQzr7PZOTbj) | [Greyhaven](https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL) | [Burn A Miracle](https://open.spotify.com/album/68ByfVFthij4nra8xLkKm3) | 4:02 | 2025-07-26 | 2025-08-04 |
 | [Burn Me With A Bible](https://open.spotify.com/track/14axJIbe94zBTuMQAmS873) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Burn Me With A Bible](https://open.spotify.com/album/0x4sJF4h5ESw23g1eIsnfi) | 4:05 | 2025-07-13 | 2025-07-19 |
 | [Burn My Mirror](https://open.spotify.com/track/6E11HSUXTXAPyihBt3i0Ut) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Burn My Mirror](https://open.spotify.com/album/7C66ymcWAcMaQejryjyaz6) | 3:13 | 2024-09-06 | 2024-09-10 |
 | [Burn Your Local Butcher](https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Burn Your Local Butcher](https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m) | 3:04 | 2024-07-30 | 2024-08-02 |
@@ -4157,6 +4157,7 @@
 | [SPLIT](https://open.spotify.com/track/1WaEu09IVauc5PZapTI98d) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [SPLIT](https://open.spotify.com/album/6rvqtUzEek4ONsvle8zmaJ) | 3:41 | 2024-08-01 | 2024-08-03 |
 | [Split \(with Jenn Carter, TaTa, Kyle Richh, Skilla Baby\)](https://open.spotify.com/track/6vSRsgHw1DjE0FkWO11ozP) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Split](https://open.spotify.com/album/7khQMyOpmuyfbp6LEkDV3d) | 2:42 | 2024-12-13 | 2024-12-19 |
 | [Sploinky Dub](https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Grech](https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd) | [Sploinky Dub](https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP) | 2:51 | 2024-06-13 | 2024-06-15 |
+| [Spoken For](https://open.spotify.com/track/0EgXLNJJ53VKxJdJkqXIfe) | [FLAVOR FOLEY](https://open.spotify.com/artist/2f5AcZbndYPEd7W5EfsZjY) | [Spoken For](https://open.spotify.com/album/3tT1rlOVeauYI2srRmN63f) | 4:04 | 2025-08-03 |  |
 | [Spooky](https://open.spotify.com/track/3d17ie2rDjWitDmXdEEEtO) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Spooky](https://open.spotify.com/album/6835RvpbtbWZB2H5wjlt4K) | 2:18 | 2024-10-30 | 2024-11-02 |
 | [SPORT](https://open.spotify.com/track/6l1oh687j95K125Nd1bECL) | [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B) | [SPORT](https://open.spotify.com/album/2RlkPxjmsSt7LzgFz287bm) | 2:32 | 2024-08-30 | 2024-09-05 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 | 2025-02-04 |

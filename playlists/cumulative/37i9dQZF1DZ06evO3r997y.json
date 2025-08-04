@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/0ioBabHPdHp6De9Q9PcpuS"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/4G84Ptp6jEuPEOo5hMzzpd"
+    },
+    {
+      "album": {
         "name": "Monster - from CrosSing",
         "url": "https://open.spotify.com/album/0m8OQ9Xl9id1RJ4uoZf9uQ"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 222973,
       "name": "mo\u221eent",
       "url": "https://open.spotify.com/track/5rlKnPUg9Fm9AjkoJYKpV2"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 204986,
       "name": "Oxidation",
       "url": "https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 295320,
       "name": "Tiny Light Live at Nagoyashikokaido 2020/10/3",
       "url": "https://open.spotify.com/track/5zpU1HBbzRG6SEEcDV110T"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 295320,
       "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 257799,
       "name": "Toumei na Yume",
       "url": "https://open.spotify.com/track/5WcxG1YKXPtJ2ia24rnqTI"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 257799,
       "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
       "url": "https://open.spotify.com/track/5oZ8xQwKZYIpowQvbpspj2"
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 277733,
       "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
       "url": "https://open.spotify.com/track/1AkAkMxWLWDtqKiVklXeMk"

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=\_Bm2yIUuTyuvKe816A31UQ>Onos</a>
 
-536 songs - 1 day 19 hr 10 min
+537 songs - 1 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Alikho Lelifana Nalo \(Live at Durban Icc\)](https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(Live at Durban Icc\)](https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU) | 11:49 | 2024-05-31 | 2024-07-12 |
 | [All Glory Must Be to the Lord](https://open.spotify.com/track/1wyMgop3N0ULYPfUBHCHXn) | [Ogoh Precious](https://open.spotify.com/artist/1ozEQMzWQuJLNAAXRVpz83), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [All Glory Must Be to the Lord](https://open.spotify.com/album/5jfIojBBvR0v5ol5ax9ioT) | 2:09 | 2025-05-30 | 2025-07-16 |
 | [All I Have](https://open.spotify.com/track/6sTaaBeDm3lc2yhxOQy81C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All I Have](https://open.spotify.com/album/642utidvaV4fu1rlI1FdPP) | 5:50 | 2024-10-11 | 2025-06-20 |
-| [ALL I WANT](https://open.spotify.com/track/5H4XvFQKWdHGtUNBf282kz) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [ALL I WANT](https://open.spotify.com/album/1ZdTVup0DzP4t5rrPmzERY) | 3:06 | 2025-06-27 |  |
+| [ALL I WANT](https://open.spotify.com/track/5H4XvFQKWdHGtUNBf282kz) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [ALL I WANT](https://open.spotify.com/album/1ZdTVup0DzP4t5rrPmzERY) | 3:06 | 2025-06-27 | 2025-08-04 |
 | [All Over The World](https://open.spotify.com/track/0QQXbuDmrGBcxVSNjCbAjs) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [All Over The World](https://open.spotify.com/album/2WW74ORHcfnmasd6ROZOlK) | 3:06 | 2024-07-19 | 2024-09-27 |
 | [All The Way](https://open.spotify.com/track/5xoTK2L3G7eLbUdHo4TnpU) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8), [Tite Tunez](https://open.spotify.com/artist/4kkaELRqmzjvexnCIKPyBT) | [All The Way](https://open.spotify.com/album/6UkFSOzDVAsJkXjmOG3iwB) | 3:07 | 2025-06-06 | 2025-06-27 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-09-15 | 2024-03-12 |
@@ -383,6 +383,7 @@
 | [Peace of Mind](https://open.spotify.com/track/14rTJai9DTIgVBm716yimG) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Aeno](https://open.spotify.com/artist/4uUqQm31KnYXSZ1bjNmMlh) | [Peace of Mind](https://open.spotify.com/album/1LoDCE8grlVw2RQbhakX9g) | 2:07 | 2025-06-13 | 2025-06-20 |
 | [Pentecost](https://open.spotify.com/track/43OP3itAcQyyBOQO7TtROL) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Pentecost](https://open.spotify.com/album/5S4SZSu82ZBbdb4eyfOSAx) | 11:23 | 2025-04-25 |  |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-09-15 | 2024-03-16 |
+| [PRAISE \(RENDITION\)](https://open.spotify.com/track/5dvsH15ks1ngWGKV1Uv2sB) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [PRAISE \(RENDITION\)](https://open.spotify.com/album/1h5eWQ63x30HlC6XCY2DuF) | 4:18 | 2025-08-01 |  |
 | [Praise Jesus](https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Praise Jesus](https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37) | 3:11 | 2025-07-04 |  |
 | [Praise The Lord](https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN) | [Praise The Lord](https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt) | 2:56 | 2024-11-22 | 2025-06-20 |
 | [PRAISE YOU ANYWHERE](https://open.spotify.com/track/6PR1HxI09SL1O2itnjBW12) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [PRAISE YOU ANYWHERE](https://open.spotify.com/album/5rDIQLqVrdykpRWD2PwKME) | 3:35 | 2023-09-15 | 2024-03-16 |

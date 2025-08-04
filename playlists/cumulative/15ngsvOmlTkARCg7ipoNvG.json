@@ -17707,6 +17707,24 @@
     },
     {
       "album": {
+        "name": "Lillies",
+        "url": "https://open.spotify.com/album/212SGbcq9wMecb93w4M1dN"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Lillies - Cello Version",
+      "url": "https://open.spotify.com/track/0gYt2nFKvMs56osdr289Zg"
+    },
+    {
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/6IfJcGOBSBqCYISe3uSGeC"
       },

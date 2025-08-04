@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Hennessy in Tennessee",
+        "url": "https://open.spotify.com/album/4flI18cs8lCMDl9utQZdV2"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165335,
+      "name": "Hennessy in Tennessee",
+      "url": "https://open.spotify.com/track/48gdO56xOzbd1ROAgbptvR"
+    },
+    {
+      "album": {
         "name": "Holiday Wishing",
         "url": "https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok"
       },

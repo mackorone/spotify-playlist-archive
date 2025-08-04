@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Buscabulla en portada.
 
-379 songs - 22 hr 41 min
+380 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Futurista](https://open.spotify.com/track/4r3Y9SJaBaf4DQesuSciA7) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Futurista](https://open.spotify.com/album/1ekLropWQK6Blb5eMdfka2) | 2:59 | 2022-02-15 | 2022-11-13 |
 | [Futurista](https://open.spotify.com/track/5LTW5ofKF8dds0J4zMw6ZW) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2BOs7EIE8UdyDdv1MFPvmv) | 2:59 | 2022-02-15 | 2023-04-30 |
 | [Futuro Incierto](https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Futuro Incierto](https://open.spotify.com/album/4pFmMfwJjvoU8QKEJl7cRq) | 4:48 | 2023-03-22 | 2023-10-09 |
-| [Fátima](https://open.spotify.com/track/4Q3K5GVBUPJNBJDznA5ewT) | [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk) | [Machete](https://open.spotify.com/album/2elafEvK3yD3nWm29E5oVK) | 3:39 | 2025-06-13 |  |
+| [Fátima](https://open.spotify.com/track/4Q3K5GVBUPJNBJDznA5ewT) | [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk) | [Machete](https://open.spotify.com/album/2elafEvK3yD3nWm29E5oVK) | 3:39 | 2025-06-13 | 2025-08-04 |
 | [Ganas De Bailar](https://open.spotify.com/track/6ftKhKb9peSlUh3EwJ3QOb) | [Chiquita Magic](https://open.spotify.com/artist/567ViviKGU4aOVHghv8W8J) | [Mexico Sexi Time](https://open.spotify.com/album/0XvRUNb2gTTVDYlwzxYQXK) | 2:12 | 2022-03-03 | 2022-08-02 |
 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 | 2021-10-05 |  |
 | [Glorieta](https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/3W9U1PYHL85h599ZUMBBQR) | 2:28 | 2022-01-11 | 2023-04-30 |
@@ -302,6 +302,7 @@
 | [Rama](https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [RAMA](https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5) | 5:07 | 2023-06-01 | 2025-07-26 |
 | [Real Luv](https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:25 | 2023-12-07 | 2024-09-29 |
 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-10-05 | 2025-02-16 |
+| [Rompo y Tumbo](https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Rompo y Tumbo](https://open.spotify.com/album/17DDV6cMYnnz26zyF2szBE) | 3:17 | 2025-07-25 |  |
 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 | 2022-01-17 |  |
 | [Sabata](https://open.spotify.com/track/4XhU47wfklTbNr5o7xzw2e) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Sabata](https://open.spotify.com/album/1bExPBNKnxGVnH6sZX0lkL) | 2:33 | 2023-12-12 | 2024-01-05 |
 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 | 2021-12-17 |  |

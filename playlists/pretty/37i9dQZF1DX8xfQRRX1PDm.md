@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,760 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,622 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [The Wakhra Song \- From "Judgementall Hai Kya"](https://open.spotify.com/track/0lEn5SCNvhfThoXFBksz9r) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [The Wakhra Song \(From "Judgementall Hai Kya"\)](https://open.spotify.com/album/4v483dY2a1RHR66QPJlGUA) | 3:16 |
 | 75 | [Sher Khul Gaye](https://open.spotify.com/track/5EqAFRGd2E93JZfzOspD6m) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Fighter](https://open.spotify.com/album/5p1147cCqxrWBDZAtaDR54) | 3:00 |
 
-Snapshot ID: `aInWwgAAAADx/Ghb5qWuo3z1gEgDMLBd`
+Snapshot ID: `AAAAAIJY17z9n16xzP2a5yZeiW4m6dyX`

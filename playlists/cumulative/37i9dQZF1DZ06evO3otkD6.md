@@ -4,7 +4,7 @@
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 6 min
+95 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 | 2023-11-10 | 2025-06-18 |
 | [Meu Menino \(Minha Menina\) \- Ao Vivo](https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Ao Vivo No Rio](https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6) | 4:10 | 2023-11-10 | 2025-06-08 |
 | [Muriendo Lento \(feat\. Belinda\)](https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Detector De Metal](https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N) | 4:10 | 2023-11-10 |  |
+| [Mírame Feliz](https://open.spotify.com/track/0Yw0ldA2xaqI5lNjP9TnK2) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:11 | 2025-08-04 |  |
 | [Mírame Feliz](https://open.spotify.com/track/55gq5GBRE7Mlz3BCKZ8taw) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mírame Feliz](https://open.spotify.com/album/4Esaa3tjzYiVQk3ENa49yg) | 3:11 | 2025-05-11 | 2025-07-10 |
 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 | 2023-11-10 | 2025-06-08 |
 | [Never Not Love You](https://open.spotify.com/track/713xAF1q5XjxPi012W7JHL) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:15 | 2025-06-08 | 2025-07-01 |
@@ -97,7 +98,7 @@
 | [Translation](https://open.spotify.com/track/0KmTe6ZCDyYi9rxUy3NWfg) | [Vein](https://open.spotify.com/artist/3BnF35ARlp8mMeyXTjUZsr), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Translation](https://open.spotify.com/album/1BRPWm8MXzNphCMt6K4OMB) | 3:39 | 2024-09-20 | 2025-02-16 |
 | [Un Traguito](https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Un Traguito](https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H) | 3:04 | 2023-11-10 | 2025-06-18 |
 | [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 | 2023-11-10 | 2024-09-13 |
-| [Van Gogh](https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:05 | 2025-06-08 |  |
+| [Van Gogh](https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:05 | 2025-06-08 | 2025-08-04 |
 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 | 2023-11-10 |  |
 | [Wet Dreams](https://open.spotify.com/track/6BLSy4M5tStNYz6DMcLCKa) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 2:44 | 2025-06-08 | 2025-06-10 |
 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 | 2023-11-10 | 2025-04-11 |

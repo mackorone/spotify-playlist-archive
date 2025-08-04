@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,772 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,853 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Georgia](https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Georgia](https://open.spotify.com/album/1zoFGgKPdJ171wRnukDPBb) | 3:21 |
 | 100 | [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 |
 
-Snapshot ID: `AAAAAGlP8Ja9W5jViIzn95KMht42DKeq`
+Snapshot ID: `aGdR0gAAAAAERsjCWmW5ruvy4+WN2VEw`

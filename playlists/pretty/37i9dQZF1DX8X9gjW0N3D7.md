@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Les Trois Accords
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,014 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,027 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Shalala](https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [Shalala](https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt) | 2:42 |
 | 75 | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK) | 2:20 |
 
-Snapshot ID: `aI0BmgAAAABdJAKYdqeyc4Ydc5TmXPIF`
+Snapshot ID: `AAAAAIsbQWFJnUpBgRIFjZTUjk+BZmS0`

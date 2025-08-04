@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,557 songs - 8 day 1 hr 19 min
+3,559 songs - 8 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Chasing Highs](https://open.spotify.com/track/5xJniPQ6CQdoEJSIWOKiQg) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tranquility Base Vol\. 2](https://open.spotify.com/album/6CSEVz2o9KIoScB5zzVlWf) | 3:36 | 2024-12-05 | 2024-12-14 |
 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-23 | 2025-02-01 |
 | [Chasing the Sun](https://open.spotify.com/track/6v12sa2QqP0XMsL8Whvd3K) | [Mark Norman](https://open.spotify.com/artist/3pPyG4NWGaEm3YJ9NShOET) | [Chasing the Sun](https://open.spotify.com/album/0NXPXP94WGoZUar9P46gkk) | 3:40 | 2025-06-27 | 2025-07-05 |
+| [Chasing Your High](https://open.spotify.com/track/1Vg9Ajy6ADxXxMhZbQ0qB9) | [ALPHI](https://open.spotify.com/artist/6TUS92w9xO24LS2EzuRR2M) | [Chasing Your High](https://open.spotify.com/album/2qrg1sYe93zpA7NRsWGKbn) | 2:18 | 2025-08-03 |  |
 | [Cheap Champagne](https://open.spotify.com/track/0UXtalPbkPOmnesPZIfkBw) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Cheap Champagne](https://open.spotify.com/album/0FOEtpmNxhSVGNRALH5KOi) | 2:38 | 2025-07-20 | 2025-07-26 |
 | [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 | 2025-02-13 | 2025-02-22 |
 | [Check Me Out](https://open.spotify.com/track/0wAulJgkBDQkRhpKLktPP1) | [Donny Graves](https://open.spotify.com/artist/2x4lA1DQPovXyfLXzCAbLZ) | [Check Me Out](https://open.spotify.com/album/1aHNuiJrfg4iR2glAYCIH7) | 2:01 | 2025-07-25 |  |
@@ -2977,6 +2978,7 @@
 | [Surrender \- John Alto Remix](https://open.spotify.com/track/3uGl0FDIb3EfqKENgLvZxj) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Surrender \(Remixes\)](https://open.spotify.com/album/35f3mnl0evF9sAFBqjuWdi) | 3:07 | 2025-05-16 | 2025-05-23 |
 | [Surrender The Night](https://open.spotify.com/track/4emNFEWcRtaIC9IClE1HmW) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/136Qgr1Nu4k854R4gY4bgK) | 2:59 | 2024-08-16 | 2024-08-24 |
 | [Surrender Your Love](https://open.spotify.com/track/3lsaizjKzS1fxdo7eIum40) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Surrender Your Love](https://open.spotify.com/album/1R4yShXuxu2vVoM01StCG6) | 3:24 | 2024-09-12 | 2024-09-21 |
+| [Survive](https://open.spotify.com/track/0Ofx6a4B2A1F6ua5LX1k6b) | [Mala'kai](https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5) | [Energy](https://open.spotify.com/album/50lZwbAbwH04tQ9Dc8M5gR) | 4:16 | 2025-08-03 |  |
 | [Survive It](https://open.spotify.com/track/5iq8BZoCP05ihLpMVUB6VA) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Survive It](https://open.spotify.com/album/2zN2U5xYnIrWYx4vl4wW6Y) | 2:53 | 2024-08-08 | 2024-08-16 |
 | [Sway \- Original Mix](https://open.spotify.com/track/5dm4qE53K4b0QJ9VvQBw8v) | [Vinyl Disciples](https://open.spotify.com/artist/3AxC1Mqmt4hnHKqYOkaPjE) | [Sway \(Original Mix\)](https://open.spotify.com/album/5ZQSbYTdjZg4skFCxHiWoh) | 3:28 | 2025-07-28 | 2025-08-02 |
 | [SWEAT!](https://open.spotify.com/track/6HS7p2KZcrJ7IGREGdIgwN) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [SWEAT!](https://open.spotify.com/album/6Sm8HsljHyRuPhpTJCELns) | 2:39 | 2024-11-24 | 2024-11-30 |

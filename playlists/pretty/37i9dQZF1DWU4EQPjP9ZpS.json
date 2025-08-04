@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 331126,
+  "num_followers": 331152,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Network Entities",
         "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 141666,
       "name": "\u8a69 Desktop",
       "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Dark Bandwidth",
+        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
+      },
+      "artists": [
+        {
+          "name": "Diskette Park",
+          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
+        }
+      ],
+      "duration_ms": 217698,
+      "name": "Eye",
+      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Videopolis",
         "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 214401,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Dark Bandwidth",
-        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
-      },
-      "artists": [
-        {
-          "name": "Diskette Park",
-          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
-        }
-      ],
-      "duration_ms": 217698,
-      "name": "Eye",
-      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Swing Tournament",
-        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
-      },
-      "artists": [
-        {
-          "name": "US Golf 95",
-          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 103214,
       "name": "143",
       "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Swing Tournament",
+        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
+      },
+      "artists": [
+        {
+          "name": "US Golf 95",
+          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Exit simulation",
+        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 104337,
+      "name": "Procedurally Generated Corridor",
+      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "On the Promenade (George Clanton Remix)",
         "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 196956,
       "name": "On the Promenade (George Clanton Remix)",
       "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Exit simulation",
-        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 104337,
-      "name": "Procedurally Generated Corridor",
-      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "made in taiwan",
+        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
+      },
+      "artists": [
+        {
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+        }
+      ],
+      "duration_ms": 182190,
+      "name": "made in taiwan",
+      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 231745,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "made in taiwan",
-        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
-      },
-      "artists": [
-        {
-          "name": "Lupus Nocte",
-          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
-        }
-      ],
-      "duration_ms": 182190,
-      "name": "made in taiwan",
-      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "You Got The Groove",
-        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
+        "name": "\u9752\u6625\u306e\u4f11\u6687",
+        "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
       },
       "artists": [
         {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
         }
       ],
-      "duration_ms": 237333,
-      "name": "You Got The Groove - slow + reverbed",
-      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
+      "duration_ms": 263592,
+      "name": "\u9752\u6625\u306e\u4f11\u6687",
+      "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u9752\u6625\u306e\u4f11\u6687",
-        "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
+        "name": "You Got The Groove",
+        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
       },
       "artists": [
         {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
         }
       ],
-      "duration_ms": 263592,
-      "name": "\u9752\u6625\u306e\u4f11\u6687",
-      "url": "https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC"
+      "duration_ms": 237333,
+      "name": "You Got The Groove - slow + reverbed",
+      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Tropics 1",
+        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
+      },
+      "artists": [
+        {
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "Spring Water",
+      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Polygon Paradise",
         "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
@@ -1531,38 +1547,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Tropics 1",
-        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "Spring Water",
-      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Information Superhighway",
-        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
-      },
-      "artists": [
-        {
-          "name": "</body>",
-          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
-        }
-      ],
-      "duration_ms": 107604,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 208000,
       "name": "Presentere Fine Design - Slowed + Reverb",
       "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Information Superhighway",
+        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
+      },
+      "artists": [
+        {
+          "name": "</body>",
+          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
+        }
+      ],
+      "duration_ms": 107604,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
     },
     {
       "added_at": "2023-07-18 02:19:19",

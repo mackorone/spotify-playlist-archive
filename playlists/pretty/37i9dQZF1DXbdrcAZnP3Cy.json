@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 195811,
+  "num_followers": 195933,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -1495,6 +1495,30 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Int\u00e9ntalo",
+        "url": "https://open.spotify.com/album/2QGWI5XAUxXEXBfc2QHxbl"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Int\u00e9ntalo",
+      "url": "https://open.spotify.com/track/2HFWe77s9n7MExMTFY035N"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
@@ -1527,26 +1551,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Int\u00e9ntalo",
-        "url": "https://open.spotify.com/album/2QGWI5XAUxXEXBfc2QHxbl"
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq"
       },
       "artists": [
         {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
         }
       ],
-      "duration_ms": 193453,
-      "name": "Int\u00e9ntalo",
-      "url": "https://open.spotify.com/track/2HFWe77s9n7MExMTFY035N"
+      "duration_ms": 134050,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1627,22 +1643,6 @@
       "duration_ms": 145826,
       "name": "En Vida",
       "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134050,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn"
     },
     {
       "added_at": "2024-08-30 08:25:49",

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 41081,
+  "num_followers": 41090,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "(Who?) Keeps Changing Your Mind",
+        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
+      },
+      "artists": [
+        {
+          "name": "South Street Player",
+          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
+        }
+      ],
+      "duration_ms": 460939,
+      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
+      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 489320,
       "name": "The Warning - Inner Mix",
       "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "(Who?) Keeps Changing Your Mind",
-        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
-      },
-      "artists": [
-        {
-          "name": "South Street Player",
-          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
-        }
-      ],
-      "duration_ms": 460939,
-      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
-      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Blues for You (Remixes)",
-        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Blues For You - Hard Dub",
-      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Asuca (Remixes)",
         "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 356676,
       "name": "Asuca - Tribal Mix",
       "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Blues for You (Remixes)",
+        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Blues For You - Hard Dub",
+      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
     },
     {
       "added_at": "2022-03-03 13:59:16",

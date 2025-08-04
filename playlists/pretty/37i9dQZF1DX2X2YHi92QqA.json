@@ -1,6 +1,6 @@
 {
   "description": "Don't push the horses \ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udfd5\ufe0f\ud83c\udf3b",
-  "num_followers": 36873,
+  "num_followers": 36891,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "special",
-        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
       "artists": [
         {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Las Palabras",
+          "url": "https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls"
         }
       ],
-      "duration_ms": 138861,
-      "name": "special",
-      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+      "duration_ms": 226887,
+      "name": "Baby Brazil feat. Las Palabras",
+      "url": "https://open.spotify.com/track/3NYwBfpXtucYLmt0UehvAg"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -227,22 +231,18 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+        "name": "special",
+        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
       },
       "artists": [
         {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Las Palabras",
-          "url": "https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls"
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
         }
       ],
-      "duration_ms": 226887,
-      "name": "Baby Brazil feat. Las Palabras",
-      "url": "https://open.spotify.com/track/3NYwBfpXtucYLmt0UehvAg"
+      "duration_ms": 138861,
+      "name": "special",
+      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "LIE DOWN..",
-        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 309381,
-      "name": "LIE DOWN..",
-      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u041a\u041b\u0418\u0427\u0423",
         "url": "https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 190615,
       "name": "\u041a\u041b\u0418\u0427\u0423",
       "url": "https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
       "added_at": "2025-06-03 09:56:43",

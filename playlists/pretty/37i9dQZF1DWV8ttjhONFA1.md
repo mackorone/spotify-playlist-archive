@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > Sonido independiente y nacional\. Foto: El Club Audiovisual
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,662 likes - 104 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,657 likes - 104 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 103 | [RUIDO](https://open.spotify.com/track/0yBIvc7pbviXNostqsChoA) | [BICHA](https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl) | [RUIDO](https://open.spotify.com/album/0AVXLQ4mFafekhP6TwlEKl) | 3:29 |
 | 104 | [Ya no hay vuelta atrás](https://open.spotify.com/track/7tBb8BmoY8eEXL5qqUks5d) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ya no hay vuelta atrás](https://open.spotify.com/album/7nyCuS7qmyufmpF6XVqwjy) | 3:07 |
 
-Snapshot ID: `AAAAAHOCq5kWCAr9qikB8koLBlbXwIpv`
+Snapshot ID: `aIwtuQAAAABRFaFt2OP4p11qT4GMXES3`

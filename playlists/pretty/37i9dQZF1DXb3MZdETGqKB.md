@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,871 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,897 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Two Plus Two Is Five](https://open.spotify.com/track/5IUlrVdOqBxaNbMgFFTgMC) | [Jon Kenzie](https://open.spotify.com/artist/31eXvMCHf7z4m5IzsZmVKA) | [Two Plus Two Is Five](https://open.spotify.com/album/43SQsyna8h0sWhlwQWIRNy) | 2:58 |
 | 100 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 |
 
-Snapshot ID: `aEuieQAAAABNiMCO+4dI40iBrzGaz/XX`
+Snapshot ID: `AAAAALfp83R5m+AtWIFCrE8fua7o0kfI`

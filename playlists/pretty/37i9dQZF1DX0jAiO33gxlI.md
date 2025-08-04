@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Kmilla Cdd
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,795 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,796 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [2 Pesos, Várias Medidas Remix](https://open.spotify.com/track/5aKzfoUoWfp5WAMioQCXm1) | [Peter Só](https://open.spotify.com/artist/7BttiTS2aShzhi36rmJ8yE), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8), [Dabliueme](https://open.spotify.com/artist/7AZBJxuwZH8vqFa7y4MOcX) | [2 Pesos, Várias Medidas Remix](https://open.spotify.com/album/7EziNjt5vZwb5WRBfTe3Vx) | 2:55 |
 | 75 | [Perfil \#111 \- Death Note](https://open.spotify.com/track/6WIAfu2S3eMwveTm5A0ruC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px) | [Perfil \#111 \- Death Note](https://open.spotify.com/album/6mD06ZVgoct7pEB7gCIxsK) | 2:08 |
 
-Snapshot ID: `AAAAAPTDt2ewpvubf2viQA1aRvyo22cY`
+Snapshot ID: `aI0T/AAAAAA+QzH6uyIvhLg7dg8wU+pd`

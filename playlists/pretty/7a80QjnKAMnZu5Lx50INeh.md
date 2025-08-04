@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7a80QjnKAMnZu5Lx50INeh.md) - [plain]
 
 > Enjoy the company of friends alongside some folksy acoustics perfect for an autumn dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,623 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,622 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

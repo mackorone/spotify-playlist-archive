@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: HEYOON\(혜윤\)\)
 
-1,375 songs - 3 day 2 hr 13 min
+1,377 songs - 3 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 | 2024-08-06 | 2024-11-15 |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/2k0e6dy1tx7fE6m126Ydfw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/7nZPZCnwS90jrRjGNjzv4D) | 2:55 | 2020-10-13\* | 2021-01-18 |
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-05-25 | 2024-07-06 |
+| [ICONIC](https://open.spotify.com/track/4BSx3P80BGTTh0hRmvSvxL) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ICONIC](https://open.spotify.com/album/5Boa7YknUbdFy87sIxQ2vG) | 3:26 | 2025-08-03 |  |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-06 | 2021-11-19 |
 | [ICY BBY](https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [ICY BBY](https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV) | 3:02 | 2025-06-17 | 2025-07-17 |
 | [IDEA \(理想\)](https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:13 | 2020-11-09 | 2021-04-22 |
@@ -613,6 +614,7 @@
 | [Igloo](https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:11 | 2024-10-24 | 2025-04-12 |
 | [IKUK](https://open.spotify.com/track/7dL1D78LXTixcXWEdNo63x) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Dear.M](https://open.spotify.com/album/48AedwRUndu10YZyR1C5Qy) | 2:48 | 2025-01-15 | 2025-03-19 |
 | [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2021-06-03 | 2021-08-11 |
+| [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 | 2025-08-03 |  |
 | [ImPerfect](https://open.spotify.com/track/3V8YCV8jWBI0hlK22fXGKj) | [NewKids](https://open.spotify.com/artist/10tgzET5oeAD12UZCcrTUP) | [NewKids on the STARSHIP](https://open.spotify.com/album/0J87hq7qBn4QFRL2AxjWkN) | 3:46 | 2025-03-18 | 2025-05-20 |
 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-05-04 | 2024-05-08 |
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-10 | 2023-09-22 |
@@ -816,7 +818,7 @@
 | [NAKKA \(with IU\)](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:32 | 2021-07-28 | 2021-09-18 |
 | [NALLINA](https://open.spotify.com/track/5WdsDQttADJ05fHt2vlt8O) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [NALLINA](https://open.spotify.com/album/05c8EK434eE6IMbBhKPDzn) | 2:42 | 2024-11-25 | 2025-03-13 |
 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 | 2025-07-14 | 2025-07-25 |
-| [Narak](https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb) | [MOLLAK](https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX) | 2:06 | 2025-07-01 |  |
+| [Narak](https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb) | [MOLLAK](https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX) | 2:06 | 2025-07-01 | 2025-08-04 |
 | [Natural \- Korean Version](https://open.spotify.com/track/1mwq0SGUEV4owQf1vVP18V) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2021-12-07 | 2021-12-14 |
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2020-10-13\* | 2020-10-22 |
 | [Nectar \(Feat\. Jay Park\)](https://open.spotify.com/track/0Tq39nkuBrIdhGhUSRFISJ) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [BM 1st EP 'Element'](https://open.spotify.com/album/6q2zOdLESHZyOpfSwA8Reb) | 2:57 | 2024-05-07 | 2024-06-24 |
@@ -1266,7 +1268,7 @@
 | [Voiceless](https://open.spotify.com/track/4LK6Kbz62qTjzhA9MbXuRB) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Pilmography](https://open.spotify.com/album/6ycojlJlzjC6T9IlWYI0PK) | 3:47 | 2022-02-07 | 2022-03-25 |
 | [VOoDOo BOogie](https://open.spotify.com/track/1jQr59cbLRE73yZOjPnG8e) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:47 | 2024-02-26 | 2024-04-02 |
 | [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 | 2022-03-21 | 2022-05-19 |
-| [Vroom Vroom](https://open.spotify.com/track/5NT6wEbl7puhXSlMT5B4Av) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [VROOM VROOM](https://open.spotify.com/album/2woafc0uAz2Yc0xDpfKh53) | 3:10 | 2025-07-09 |  |
+| [Vroom Vroom](https://open.spotify.com/track/5NT6wEbl7puhXSlMT5B4Av) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [VROOM VROOM](https://open.spotify.com/album/2woafc0uAz2Yc0xDpfKh53) | 3:10 | 2025-07-09 | 2025-08-04 |
 | [VROOM VROOM](https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 3:16 | 2023-11-03 | 2023-11-28 |
 | [Vuja De](https://open.spotify.com/track/42UNd3AFYei50ztCyAKhWl) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Reality Show \- The 3rd Mini Album](https://open.spotify.com/album/1sNNtYLrWGMmPIGElMW42b) | 3:06 | 2023-08-07 | 2023-09-02 |
 | [W](https://open.spotify.com/track/5b7uyBXn294DZjvnJqsKfA) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 1:55 | 2024-11-07 | 2025-01-07 |

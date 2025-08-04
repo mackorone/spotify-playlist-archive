@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Can I Be Me?",
+        "url": "https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Can I Be Me?",
+      "url": "https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy"
+    },
+    {
+      "album": {
         "name": "Can I sleep next to you",
         "url": "https://open.spotify.com/album/6qqBiGMNrSEj18NbDvhk2Z"
       },
@@ -3866,6 +3884,24 @@
       "duration_ms": 205240,
       "name": "goodbye",
       "url": "https://open.spotify.com/track/4Y6JIaZmRUYJ1SziKAmt5Z"
+    },
+    {
+      "album": {
+        "name": "JAMONG SALGU CLUB",
+        "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Goodbye, My Summer",
+      "url": "https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls"
     },
     {
       "album": {
@@ -10182,7 +10218,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 167000,
       "name": "The Compass",
       "url": "https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC"
@@ -10280,7 +10316,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 252000,
       "name": "The last stop of our pain",
       "url": "https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no"

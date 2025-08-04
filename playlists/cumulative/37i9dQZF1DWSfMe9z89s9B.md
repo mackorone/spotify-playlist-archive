@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Khamari
 
-1,456 songs - 3 day 4 hr 45 min
+1,457 songs - 3 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Artery](https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Artery](https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX) | 3:42 | 2022-04-01 | 2022-04-13 |
 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-14 | 2024-06-29 |
 | [ascendent \(mother fxcker\)](https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:38 | 2023-03-24 | 2023-06-02 |
-| [ASK](https://open.spotify.com/track/3JPfO8cXqKX3Y1wfDv8LhE) | [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs) | [RAMBO](https://open.spotify.com/album/7KDppNmYC0lkU4GIiZbrqT) | 3:57 | 2025-07-25 |  |
+| [ASK](https://open.spotify.com/track/3JPfO8cXqKX3Y1wfDv8LhE) | [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs) | [RAMBO](https://open.spotify.com/album/7KDppNmYC0lkU4GIiZbrqT) | 3:57 | 2025-07-25 | 2025-08-04 |
 | [ASTRAL PLANES](https://open.spotify.com/track/4HOIaVXmOJ26SNvVcFkqwq) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 2](https://open.spotify.com/album/7dH7JDyXluq0ISTgku8XBy) | 2:41 | 2023-05-26 | 2023-07-29 |
 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 | 2021-07-23 | 2022-07-23 |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-04-30 | 2023-04-01 |
@@ -298,6 +298,7 @@
 | [cOoL WATeR foR thE nIGHT](https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:54 | 2024-02-09 | 2024-05-18 |
 | [Coolest Girl In California](https://open.spotify.com/track/12j3vi8b1f3mdR5phhSv0d) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [sPaCe \(528hz\) / Coolest Girl In California](https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR) | 2:18 | 2023-10-06 | 2023-10-21 |
 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 | 2024-10-26 | 2025-03-16 |
+| [Cowboy](https://open.spotify.com/track/3GOoYD8oEfJSkwgGvmZ9jR) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [The Last Dance](https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ) | 2:33 | 2025-07-25 |  |
 | [Cranes in the Sky](https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Cranes in the Sky](https://open.spotify.com/album/260Kae28MIGcLpp248A869) | 4:28 | 2024-08-02 |  |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2022-09-21 |
 | [Crazy](https://open.spotify.com/track/3hb7X2wYx06jhuPnDP4bV7) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Crazy](https://open.spotify.com/album/6KxVsMuUQ4OO83QfkGZsI5) | 4:35 | 2025-03-07 | 2025-03-26 |

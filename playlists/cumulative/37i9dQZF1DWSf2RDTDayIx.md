@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-484 songs - 1 day 1 hr 40 min
+485 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-03 | 2023-08-05 |
 | [Cherry Lips](https://open.spotify.com/track/2vfcLK0mU3JhMC6vscawrM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Cherry Lips](https://open.spotify.com/album/4MjHMcTvVgqGFuXVejbpXc) | 2:51 | 2024-02-16 | 2024-08-17 |
 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-07-26 |  |
-| [CHOOSE LOVE](https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [CHOOSE LOVE](https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT) | 2:46 | 2025-05-09 |  |
+| [CHOOSE LOVE](https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [CHOOSE LOVE](https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT) | 2:46 | 2025-05-09 | 2025-08-04 |
 | [Chucks](https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Chucks](https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW) | 2:49 | 2021-12-03 | 2022-07-29 |
 | [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:37 | 2025-07-18 |  |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2022-05-27 |  |
@@ -447,6 +447,7 @@
 | [Up To You](https://open.spotify.com/track/458L8eSLbts1r7JnHlA4b9) | [Disco Killerz](https://open.spotify.com/artist/0WfWABuarRrUticTLylKQl), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Up To You](https://open.spotify.com/album/38RqrJiEvnRMY36oklUCXr) | 3:00 | 2021-12-03 | 2022-01-08 |
 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2024-12-20 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-14 | 2022-12-10 |
+| [Waiting](https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Waiting](https://open.spotify.com/album/6jXFSUgmXl8qAZEIPChYcE) | 2:47 | 2025-08-01 |  |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/4LrghOSegI6sFcPgaYwDrH) | 3:52 | 2022-06-03 | 2022-07-29 |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 | 2022-07-22 | 2024-04-19 |
 | [Want You](https://open.spotify.com/track/1GzheMTLU2wPjMvs24o4WZ) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Want You](https://open.spotify.com/album/4ppDXeh7tV0E2In87iiR6o) | 2:43 | 2025-02-14 |  |

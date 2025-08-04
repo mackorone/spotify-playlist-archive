@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Swank Mami
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,331 likes - 250 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,345 likes - 250 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 249 | [Guitar](https://open.spotify.com/track/4nJkFvJmrEllCKHlrDJcN7) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/424oXLBNK9mm5ApYGPGiDD) | 2:37 |
 | 250 | [My Girls \(feat\. Sierra Sellers\)](https://open.spotify.com/track/2mdwJ2wy0OchwJSt09p2Cy) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Sierra Sellers](https://open.spotify.com/artist/3CX8IWsvFSnxgb5x82sETO) | [My Girls \(feat\. Sierra Sellers\)](https://open.spotify.com/album/7c08Y9F0zNR3PrdiP13TCj) | 3:37 |
 
-Snapshot ID: `aIpIEAAAAAC9yvpT9jXIXCT5JOWjpcNj`
+Snapshot ID: `AAAAAB/Fdn/2FYZXMPhd0NWq0yGKPkdI`

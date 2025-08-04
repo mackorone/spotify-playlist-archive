@@ -4,7 +4,7 @@
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Pepita, Diego Martins
 
-212 songs - 10 hr 59 min
+214 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,8 @@
 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 | 2024-06-26 |  |
 | [Cavalona](https://open.spotify.com/track/6rgyzu6AxYyx7Fa9qAxN8W) | [Blogueirinha](https://open.spotify.com/artist/7C9PDbLk94PbL45y8qeavR) | [Quem Me Conhece Sabe](https://open.spotify.com/album/4zu11ms7NSVOfTqmMGWz26) | 1:41 | 2022-04-29 | 2022-07-23 |
 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 | 2024-06-26 |  |
+| [Chitãozinho e Xororó](https://open.spotify.com/track/2uU1zHbv6zDoMUfWJTKmkw) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Chitãozinho e Xororó](https://open.spotify.com/album/1TDbFtdiwxayPh9gFctxTO) | 2:52 | 2025-08-03 |  |
+| [coisas triviais](https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [coisas triviais](https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9) | 3:10 | 2025-08-03 |  |
 | [Colo da Tropa](https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe), [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV) | [Colo da Tropa](https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE) | 2:41 | 2024-06-26 |  |
 | [Contra Corrente](https://open.spotify.com/track/34Jekz6lvkUk3us5dAQeqx) | [Leandro Buenno](https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B) | [Contra Corrente](https://open.spotify.com/album/0RK21g7bYrnXDjDcTQ64GD) | 3:29 | 2022-12-02 | 2023-02-11 |
 | [CUBA Remix](https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [CUBA Remix](https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY) | 2:42 | 2024-06-26 | 2024-07-11 |
@@ -135,8 +137,8 @@
 | [Numanice Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano \- Ao vivo](https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Numanice Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano \(Ao vivo\)](https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu) | 8:49 | 2024-06-26 |  |
 | [Não Me Atende](https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Não Me Atende](https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9) | 2:31 | 2024-06-26 |  |
 | [Não Tenta](https://open.spotify.com/track/5Jc73Nw398c5Jbs1sTTP65) | [OXA](https://open.spotify.com/artist/4QF8nYOlEY7ZwReHyx8KVT) | [Não Tenta](https://open.spotify.com/album/59S5U5mIZyBSuIdGQkCBLd) | 2:30 | 2022-04-29 | 2022-05-28 |
-| [O KIKIKI da Jaloo e da Boombeat](https://open.spotify.com/episode/0gjga2PfWTFV60ihqyK0eQ) | [KIKIKI](https://open.spotify.com/show/2VXdtQLsLZN6p2xPOnhQne) | [KIKIKI](https://open.spotify.com/album/2VXdtQLsLZN6p2xPOnhQne) | 36:24 | 2024-07-12 |  |
-| [O KIKIKI do Winnit e do Rico Dalasam](https://open.spotify.com/episode/2VTgQH2IvGxgnmYOc2NMex) | [KIKIKI](https://open.spotify.com/show/2VXdtQLsLZN6p2xPOnhQne) | [KIKIKI](https://open.spotify.com/album/2VXdtQLsLZN6p2xPOnhQne) | 38:00 | 2024-07-12 |  |
+| [O KIKIKI da Jaloo e da Boombeat](https://open.spotify.com/episode/0gjga2PfWTFV60ihqyK0eQ) | [KIKIKI](https://open.spotify.com/show/2VXdtQLsLZN6p2xPOnhQne) | [KIKIKI](https://open.spotify.com/album/2VXdtQLsLZN6p2xPOnhQne) | 36:24 | 2024-07-12 | 2025-08-04 |
+| [O KIKIKI do Winnit e do Rico Dalasam](https://open.spotify.com/episode/2VTgQH2IvGxgnmYOc2NMex) | [KIKIKI](https://open.spotify.com/show/2VXdtQLsLZN6p2xPOnhQne) | [KIKIKI](https://open.spotify.com/album/2VXdtQLsLZN6p2xPOnhQne) | 38:00 | 2024-07-12 | 2025-08-04 |
 | [O Menino que Mexe Comigo](https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Jaqueira](https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M) | 1:37 | 2024-07-10 |  |
 | [O Que Eu Ganho](https://open.spotify.com/track/1CNGqfIa5JyUj1cWfvGqAi) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [O Que Eu Ganho](https://open.spotify.com/album/2DVMqhsqQQ4832MzpOdElN) | 3:29 | 2024-01-15 | 2024-06-27 |
 | [O Tempo Não Pára](https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [O Tempo Não Pára](https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR) | 2:54 | 2023-09-02 | 2024-01-16 |

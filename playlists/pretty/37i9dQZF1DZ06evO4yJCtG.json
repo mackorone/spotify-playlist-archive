@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 152075,
+  "num_followers": 152089,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAABa92K65V/qC5y6z248HUxP",
+  "snapshot_id": "aI1VAAAAAAB6DY18hYzZJRLEgQc37Vnx",
   "tracks": [
     {
       "added_at": null,
@@ -823,46 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7220 (Deluxe)",
-        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 183019,
-      "name": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
-      "url": "https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creed II: The Album",
-        "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 210563,
-      "name": "Love Me Like That (Champion Love)",
-      "url": "https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -883,6 +843,46 @@
       "duration_ms": 194195,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creed II: The Album",
+        "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 210563,
+      "name": "Love Me Like That (Champion Love)",
+      "url": "https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7220 (Deluxe)",
+        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 183019,
+      "name": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR"
     },
     {
       "added_at": null,

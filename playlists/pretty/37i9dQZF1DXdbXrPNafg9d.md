@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Del Water Gap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,310,444 likes - 200 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,278 likes - 200 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 |
 | 200 | [Wipe your tears](https://open.spotify.com/track/3K5bLOU8pMGrDsPCfdL25g) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [The woods, vol\. 1](https://open.spotify.com/album/28LD28enRzXd3e0V5zDypI) | 2:36 |
 
-Snapshot ID: `aIw77AAAAAAEpi7RywzQZbPxOpVJxuLL`
+Snapshot ID: `AAAAACISoqWKctFfH8QZVxu3mFgQPUqV`

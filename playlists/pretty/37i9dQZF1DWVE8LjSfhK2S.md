@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE8LjSfhK2S.md) - [plain]
 
 > He's back by popular demand...Listen to the music from Beverly Hills Cop: Axel F, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,159 likes - 29 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,171 likes - 29 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE8LjSfhK2S.md) - [plain]
 | 28 | [I Can't Stand It](https://open.spotify.com/track/3OCLWJ68wgUqfFhE0zjmYx) | [SueAnn](https://open.spotify.com/artist/6KJPdS5mWUiZLZ2uH09rE6) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 4:03 |
 | 29 | [All Revved Up](https://open.spotify.com/track/2uQzGBJ43o0zh1B6khh0Rg) | [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Beverly Hills Cop II](https://open.spotify.com/album/74BnQfE4kxFWcZLu8FIDbL) | 4:01 |
 
-Snapshot ID: `AAAAAKDio4ndbl16LbmAdAXdb3qaSW6K`
+Snapshot ID: `ZuCZHgAAAACB4zv0TzWppmpgTpUF2h5f`

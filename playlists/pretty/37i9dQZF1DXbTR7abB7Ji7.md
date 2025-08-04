@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTR7abB7Ji7.md) - [plain]
 
 > The perfect instrumental accompaniment to your wedding day or engagement party; elegant background music for seating guests, walking down the aisle or cocktail hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,433 likes - 48 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,486 likes - 48 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTR7abB7Ji7.md) - [plain]
 | 47 | [Andante spianato](https://open.spotify.com/track/0UCnqGnJpwvgEwzUMoVcaQ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Eldar Nebolsin](https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX), [Warsaw Philharmonic Orchestra](https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED), [Antoni Wit](https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh) | [Chopin: Piano Concerto No\. 2 \- Variations on La ci darem \- Andante spianato and Grande polonaise brillante](https://open.spotify.com/album/4wJI6GbiR951BmUdbrVkFE) | 4:46 |
 | 48 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
 
-Snapshot ID: `Z3a2rgAAAACn/v3jXcOj9Jdv4ImpQyvw`
+Snapshot ID: `AAAAAK+1lAOGxPYqgB6BIcTjhdgDxOU1`

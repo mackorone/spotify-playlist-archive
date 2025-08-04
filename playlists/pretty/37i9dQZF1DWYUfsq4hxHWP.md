@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Max Alan, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,513 likes - 200 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,556 likes - 200 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 199 | [American Dreamin'](https://open.spotify.com/track/38L8yV52NoXhn5T63E624K) | [Lakelin Lemmings](https://open.spotify.com/artist/6rD2PsyfQ3F86DbVnjVSn2) | [American Dreamin'](https://open.spotify.com/album/4nR05dcFN2vMw5emHWAA4b) | 2:49 |
 | 200 | [White Boots](https://open.spotify.com/track/0XW9yvD8wP90zAorU7yvwF) | [Emily Roth](https://open.spotify.com/artist/63DcWh43Brnv7VeqJxkVUu) | [White Boots](https://open.spotify.com/album/4WFVipTZMff40aq152rnAA) | 2:50 |
 
-Snapshot ID: `AAAAAGXZ5g2hCFFBUinN4zHuBB0BGO5I`
+Snapshot ID: `aImY2wAAAADXFirZ7vTMskPydryYw44k`

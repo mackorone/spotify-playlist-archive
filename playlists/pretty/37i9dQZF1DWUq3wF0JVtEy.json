@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 933165,
+  "num_followers": 933072,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 155147,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "Party All The Time (D.O.D Remix)",
         "url": "https://open.spotify.com/album/0ko9z0wMuLm1sDVhKYS4lg"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 134624,
       "name": "Party All The Time - D.O.D Remix",
       "url": "https://open.spotify.com/track/5JBtawmFkJ1Qs9Fzrdgkxt"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 155147,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 192382,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 192382,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "Smash The Disco",
         "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 181875,
       "name": "Smash The Disco",
       "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
-      },
-      "artists": [
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "Charged Up",
         "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
       },
@@ -1395,22 +1379,18 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Feel The Beat",
-        "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
       },
       "artists": [
         {
-          "name": "Drop The Cheese",
-          "url": "https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ"
-        },
-        {
-          "name": "Amero",
-          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Feel The Beat",
-      "url": "https://open.spotify.com/track/5LKDemoQgpHqJ199IZnfoa"
+      "duration_ms": 169090,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1447,6 +1427,26 @@
       "duration_ms": 180480,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Feel The Beat",
+        "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
+      },
+      "artists": [
+        {
+          "name": "Drop The Cheese",
+          "url": "https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Feel The Beat",
+      "url": "https://open.spotify.com/track/5LKDemoQgpHqJ199IZnfoa"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/5HE9gH7CjPGyIT7MNKJhKW"
+        "name": "You Ate That",
+        "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
       },
       "artists": [
         {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
         },
         {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
         }
       ],
-      "duration_ms": 146769,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/2pLjWO7lYfFOJYXZOWJUS1"
+      "duration_ms": 196875,
+      "name": "You Ate That",
+      "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1547,46 +1547,22 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/5HE9gH7CjPGyIT7MNKJhKW"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
         },
         {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Rory Hope",
-          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 159090,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
-        "name": "You Ate That",
-        "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
-      },
-      "artists": [
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        },
-        {
-          "name": "The Melody Men",
-          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "You Ate That",
-      "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
+      "duration_ms": 146769,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/2pLjWO7lYfFOJYXZOWJUS1"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1623,18 +1599,22 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "No Ecstasy Love",
-        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
       "artists": [
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
         }
       ],
-      "duration_ms": 205846,
-      "name": "No Ecstasy Love",
-      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1659,22 +1639,18 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1723,18 +1699,26 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/587wpTy72AnjZU8aWFEbWo"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
       },
       "artists": [
         {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/1Geetz5pLP3lLd7QdeZ00b"
+      "duration_ms": 159090,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1755,6 +1739,22 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/587wpTy72AnjZU8aWFEbWo"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/1Geetz5pLP3lLd7QdeZ00b"
     },
     {
       "added_at": "2025-07-25 04:00:54",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 7 hr 29 min
+145 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Anyway](https://open.spotify.com/track/5WnjGzl2HgFUMim7YTept5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Anyway](https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F) | 2:43 | 2024-01-29 |  |
 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 | 2024-01-29 |  |
 | [Bad Town](https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Bad Town](https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U) | 2:35 | 2024-03-15 |  |
-| [Bilder im Kopf](https://open.spotify.com/track/0jnWKcMaaYsfOFsoIbRejw) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/1RlQoggEumFTF6bXkEzNwb) | 3:10 | 2024-01-29 |  |
+| [Bilder im Kopf](https://open.spotify.com/track/0jnWKcMaaYsfOFsoIbRejw) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/1RlQoggEumFTF6bXkEzNwb) | 3:10 | 2024-01-29 | 2025-08-04 |
+| [Bilder im Kopf](https://open.spotify.com/track/2R1zXcvgZz74fjZM3VUQlT) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/224TphESj01IM70mwROTgj) | 3:10 | 2025-08-03 |  |
 | [Bouncer](https://open.spotify.com/track/4jz0SpzwGvN6a8tS6uoIBp) | [GWYLO](https://open.spotify.com/artist/0hu2omZelWmBofGVWt7cAH), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Bouncer](https://open.spotify.com/album/6yh2bWHfWr6s0wRdXBZA75) | 2:29 | 2024-01-29 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/5nr7kfZHw46KWMzXvssCd5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Boys Don't Cry](https://open.spotify.com/album/2xR0FU8UXeYqa90X5XoByV) | 2:53 | 2024-01-29 |  |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2024-01-29 |  |

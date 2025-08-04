@@ -1,6 +1,6 @@
 {
   "description": "ok vcs ja sabem o que fazer / foto: BLACKPINK",
-  "num_followers": 601601,
+  "num_followers": 601522,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-07-11 21:25:03",
       "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "added_at": "2025-07-11 21:25:03",
+      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 133533,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11"
-    },
-    {
-      "added_at": "2025-07-11 21:25:03",
-      "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": "2025-07-11 21:25:03",

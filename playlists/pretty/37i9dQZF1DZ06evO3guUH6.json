@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1043396,
+  "num_followers": 1043630,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAADjvNpW7e99HkuNwdE4ug7a",
+  "snapshot_id": "aI1VAAAAAACIuBKkv8mOXEp5SMvC73NO",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 3)",
-        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
+        "name": "El Patroncito",
+        "url": "https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h"
       },
       "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 201409,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
+      "duration_ms": 184560,
+      "name": "Autor\u00edzame",
+      "url": "https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Patroncito",
-        "url": "https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h"
+        "name": "Mis 30 Aniversario (Vol. 3)",
+        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
       },
       "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 184560,
-      "name": "Autor\u00edzame",
-      "url": "https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI"
+      "duration_ms": 201409,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
     },
     {
       "added_at": null,
@@ -839,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr"
       },
       "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 221146,
-      "name": "As\u00ed Es Esto",
-      "url": "https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q"
+      "duration_ms": 195300,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu"
     }
   ],
   "unique_name": "This Is Alfredo Olivas",

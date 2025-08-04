@@ -1,12 +1,12 @@
 {
   "description": "This is AC/DC. The essential tracks, all in one playlist.",
-  "num_followers": 2204472,
+  "num_followers": 2204579,
   "original_name": "This Is AC/DC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAADWub5jY+/cYV7h4SvJfg93",
+  "snapshot_id": "aI1VAAAAAADe0WE0TWIgjUIs4NjFL0i5",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 317426,
-      "name": "Shoot to Thrill",
-      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 312293,
-      "name": "Hells Bells",
-      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+      "duration_ms": 317426,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "'74 Jailbreak",
-        "url": "https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y"
+        "name": "Powerage",
+        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 280960,
-      "name": "Jailbreak",
-      "url": "https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt"
+      "duration_ms": 285040,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powerage",
-        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
+        "name": "'74 Jailbreak",
+        "url": "https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 285040,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq"
+      "duration_ms": 280960,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt"
     },
     {
       "added_at": null,

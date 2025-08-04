@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,908 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,095 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 99 | [Forever](https://open.spotify.com/track/0KRAQpoakCf6ngwMTZIwfJ) | [Trit95](https://open.spotify.com/artist/03Iz2T21dJ2qZqYFLmJGt1) | [Forever](https://open.spotify.com/album/3uk6ar08tBClrLIgNAFZRf) | 2:12 |
 | 100 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 |
 
-Snapshot ID: `AAAAAHpnhuv6k7GmkyvN1NvyaME2CLkw`
+Snapshot ID: `aIMdhAAAAABu9oWWBTy9SXHkQYgtB/+m`

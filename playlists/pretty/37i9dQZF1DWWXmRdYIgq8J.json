@@ -1,6 +1,6 @@
 {
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
-  "num_followers": 24366,
+  "num_followers": 24381,
   "original_name": "Pass The Chutney",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
-        "name": "TOO MUCH PAIN",
-        "url": "https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Salick",
-          "url": "https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r"
-        }
-      ],
-      "duration_ms": 307330,
-      "name": "TOO MUCH PAIN",
-      "url": "https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035"
-    },
-    {
-      "added_at": "2025-07-17 09:06:39",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0v4CzWYukhcYMp4GRCt5AZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 210432,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4VyDFKj5icaZCzXncBgDIE"
+    },
+    {
+      "added_at": "2025-07-17 09:06:39",
+      "album": {
+        "name": "TOO MUCH PAIN",
+        "url": "https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Salick",
+          "url": "https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r"
+        }
+      ],
+      "duration_ms": 307330,
+      "name": "TOO MUCH PAIN",
+      "url": "https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035"
     },
     {
       "added_at": "2025-07-17 09:06:39",

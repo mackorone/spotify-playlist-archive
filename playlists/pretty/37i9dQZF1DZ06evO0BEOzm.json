@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAAAM8TqsOYqytKM0ZP6dRBE4",
+  "snapshot_id": "aI1VAAAAAADOuE5J8Jyq2aHGSV+IKOtQ",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butter (Megan Thee Stallion Remix)",
-        "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 164457,
-      "name": "Butter (Megan Thee Stallion Remix)",
-      "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 192539,
       "name": "Cash Shit (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butter (Megan Thee Stallion Remix)",
+        "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Butter (Megan Thee Stallion Remix)",
+      "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > “My Mr\. Darcy\. My Rochester\. My … Felix.” ❤️ Cover: Jess and Felix in Too Much
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,631 likes - 57 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,683 likes - 57 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2751,24 +2751,6 @@
     },
     {
       "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/6OcCfNZtFBskQByvaGygLu"
-      },
-      "artists": [
-        {
-          "name": "JACE",
-          "url": "https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa"
-        }
-      ],
-      "date_added": "2025-06-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169237,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/2OcVtRLi5BTnkjD2MPKog8"
-    },
-    {
-      "album": {
         "name": "Teaser",
         "url": "https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA"
       },
@@ -8804,6 +8786,24 @@
       "duration_ms": 224696,
       "name": "\u842c\u7269\u6709\u6642",
       "url": "https://open.spotify.com/track/5gE4HG83INsGkkJPkwQVjk"
+    },
+    {
+      "album": {
+        "name": "\u86fb SWITCH",
+        "url": "https://open.spotify.com/album/6OcCfNZtFBskQByvaGygLu"
+      },
+      "artists": [
+        {
+          "name": "JACE",
+          "url": "https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169237,
+      "name": "\u86fb SWITCH",
+      "url": "https://open.spotify.com/track/2OcVtRLi5BTnkjD2MPKog8"
     },
     {
       "album": {

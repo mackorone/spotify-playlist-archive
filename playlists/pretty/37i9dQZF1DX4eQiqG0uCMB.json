@@ -1,6 +1,6 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 41358,
+  "num_followers": 41373,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-06-13 03:12:49",
       "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2025-06-13 03:12:49",
+      "album": {
         "name": "Afro G Western",
         "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 223000,
       "name": "Afro G Western",
       "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
-    },
-    {
-      "added_at": "2025-06-13 03:12:49",
-      "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2025-06-13 03:12:49",

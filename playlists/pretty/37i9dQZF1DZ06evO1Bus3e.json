@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12401,
+  "num_followers": 12402,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAAAeOCpZtADTfFzCJwB/DmkM",
+  "snapshot_id": "aI1VAAAAAACHTi+hhbNwKcGSDKrCOhQ0",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacando El Polvo",
-        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
+        "name": "ALGO LEVE EN VIVO",
+        "url": "https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh"
       },
       "artists": [
         {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
           "name": "Omar Ruiz",
           "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 241727,
-      "name": "Sacando El Polvo",
-      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
+      "duration_ms": 197929,
+      "name": "Vida Peligrosa (En Vivo)",
+      "url": "https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT"
     },
     {
       "added_at": null,
@@ -251,22 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALGO LEVE EN VIVO",
-        "url": "https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh"
+        "name": "Sacando El Polvo",
+        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
       },
       "artists": [
         {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        },
-        {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 197929,
-      "name": "Vida Peligrosa (En Vivo)",
-      "url": "https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT"
+      "duration_ms": 241727,
+      "name": "Sacando El Polvo",
+      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
     },
     {
       "added_at": null,

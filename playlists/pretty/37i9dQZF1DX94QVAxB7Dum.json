@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 794369,
+  "num_followers": 794522,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "I Can't Get Next To You",
+      "url": "https://open.spotify.com/track/64KwITu35JsahaKZbNpfMu"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Marvin Gaye '50' (International Version)",
         "url": "https://open.spotify.com/album/6dP88Q6t9UMPowre0Gaywa"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 324398,
       "name": "Freddie's Dead",
       "url": "https://open.spotify.com/track/7jmqTPoxOQsC2w9Cb6z78q"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Motown: The Complete No. 1's",
-        "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "I Can't Get Next To You",
-      "url": "https://open.spotify.com/track/64KwITu35JsahaKZbNpfMu"
     },
     {
       "added_at": "2024-07-02 22:47:47",

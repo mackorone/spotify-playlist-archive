@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,276 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,648 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 47 | [Megalomania \(2009 Remaster\)](https://open.spotify.com/track/6MfJ7C4274ZPvUYBx8BcRD) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 9:41 |
 | 48 | [Headless Cross \- 2024 Remaster](https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Headless Cross \(2024 Remaster\)](https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a) | 6:29 |
 | 49 | [No Stranger to Love \(2009 Remaster\)](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 |
-| 50 | [Born to Lose \- 2025 Remaster](https://open.spotify.com/track/6Xf42BRgGkIVA8Sdw6nZ1v) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 3:43 |
+| 50 | [Hard Life to Love \- 2025 Remaster](https://open.spotify.com/track/6npld2yaKGAYR460ElOg1B) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 4:58 |
 
-Snapshot ID: `aIwDgAAAAAAJNPZbvw0oFLlxE+TSwncu`
+Snapshot ID: `aI1VAAAAAADWJ/onQtoxwU6FTXID/W+0`

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 428826,
+  "num_followers": 428824,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
         "name": "Alas Canciones",
         "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 302280,
       "name": "Sigo Caminando",
       "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -703,42 +703,6 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "b\u00fascame otra vez",
-        "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "b\u00fascame otra vez",
-      "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
-        "name": "Mar de Coral",
-        "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 235044,
-      "name": "Mar de Coral",
-      "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
       },
@@ -759,6 +723,22 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
+        "name": "b\u00fascame otra vez",
+        "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "b\u00fascame otra vez",
+      "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 194026,
       "name": "Amanece en la Ruta",
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
+        "name": "Mar de Coral",
+        "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 235044,
+      "name": "Mar de Coral",
+      "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
+        "name": "Oye Mi Amor",
+        "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
+      },
+      "artists": [
+        {
+          "name": "Anabel",
+          "url": "https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
         "name": "Es Broma, En Serio",
         "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 292000,
       "name": "Es Broma, En Serio",
       "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
-        "name": "Oye Mi Amor",
-        "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
-      },
-      "artists": [
-        {
-          "name": "Anabel",
-          "url": "https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Berrinche",
-        "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Suerte y Hasta Pronto",
-      "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/5GYUFA7GNOu4JfVbXUBO01"
+        "name": "Berrinche",
+        "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        },
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 194906,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/7ontkt96zdqa5SOxdA8xFu"
+      "duration_ms": 211000,
+      "name": "Suerte y Hasta Pronto",
+      "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1471,18 +1467,22 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/5GYUFA7GNOu4JfVbXUBO01"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+      "duration_ms": 194906,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/7ontkt96zdqa5SOxdA8xFu"
     },
     {
       "added_at": "2025-08-01 15:27:21",

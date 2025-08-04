@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,951 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,914 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 74 | [Plastic Hamburgers](https://open.spotify.com/track/2bmBc4ovS9p18e1IUYHSE9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Plastic Hamburgers](https://open.spotify.com/album/5oYfjMuqOR07P45xNSjlab) | 3:37 |
 | 75 | [In Time](https://open.spotify.com/track/6F6L0sir3tzLDiO2vXopoG) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/6aVAwiFG24G3VJNedr5ues) | 7:02 |
 
-Snapshot ID: `AAAAALDHnc1nv7gxgBlIAJqdAhmM8XYF`
+Snapshot ID: `aAsI6QAAAAADYuKedhZ7zhX670p5xtQV`

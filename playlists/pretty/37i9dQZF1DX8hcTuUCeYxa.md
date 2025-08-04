@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: SPARKLING
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,920 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,919 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [what's another year?](https://open.spotify.com/track/6EJVvvsmDZTS4LmfsYeZFa) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [what's another year?](https://open.spotify.com/album/4ifV4R7XpRGyHoMmeseJZd) | 3:43 |
 | 90 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
 
-Snapshot ID: `aIvngAAAAAB7Wjf/1pogqDkLs5fa+ple`
+Snapshot ID: `AAAAAIR0Fdv9bSYmHwdfiJ7b0KsMJvID`

@@ -13012,7 +13012,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 247013,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3inSAmtjMjAePyBUqh5Z3r"
@@ -14248,7 +14248,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 283133,
       "name": "Close My Eyes Forever",
       "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
@@ -18676,7 +18676,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
@@ -36347,6 +36347,28 @@
     },
     {
       "album": {
+        "name": "The Lost Files",
+        "url": "https://open.spotify.com/album/428N9zTdjW9YzRVxBWZN7C"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84114,
+      "name": "IWATCHEDHIMDROWN",
+      "url": "https://open.spotify.com/track/4jv3TFJWkmCswY7DxwMeQI"
+    },
+    {
+      "album": {
         "name": "I\u2019d Rather Overdose",
         "url": "https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH"
       },
@@ -44334,7 +44356,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -52308,7 +52330,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 177777,
       "name": "One Last Breath - Remix",
       "url": "https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l"
@@ -57284,7 +57306,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
@@ -57306,7 +57328,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20347,
+  "num_followers": 20348,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAACDJe65aIeVUtFzaYKPibKx",
+  "snapshot_id": "aI1VAAAAAACgHpZDUnFWmJMptc6IgZEm",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life After Fame",
-        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
-      },
-      "artists": [
-        {
-          "name": "Quando Rondo",
-          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 164622,
-      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish Me Well",
         "url": "https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 196343,
       "name": "Exactly How It Was",
       "url": "https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life After Fame",
+        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 164622,
+      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
     },
     {
       "added_at": null,

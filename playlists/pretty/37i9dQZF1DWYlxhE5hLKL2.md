@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 
 > Digging old Japanese records and flipping them into something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,108 likes - 67 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,125 likes - 67 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 | 66 | [銀蝶渡り鳥\(東映映画「銀蝶渡り鳥」より\)](https://open.spotify.com/track/79VVL4UANTilvIdAvSIZFb) | [Meiko Kaji](https://open.spotify.com/artist/6kZSbbtADxJ8FaAcggEhnf) | [銀蝶渡り鳥](https://open.spotify.com/album/6o2hMEwInDyi6to7VCFTYB) | 3:10 |
 | 67 | [Dark Fantasy](https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:40 |
 
-Snapshot ID: `AAAAABBAkWRKZl1EEfgl2fZXh1pefodY`
+Snapshot ID: `Zwfr8AAAAAA4Q4eIhs5t3+oJtf/rSHzE`

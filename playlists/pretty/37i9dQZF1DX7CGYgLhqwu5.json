@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 383256,
+  "num_followers": 383257,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
+        "name": "The Seely Style",
+        "url": "https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Seely",
+          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Don't Touch Me",
+      "url": "https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
         "name": "Columbia Country Classics Volume 3: Americana",
         "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 177573,
       "name": "Wolverton Mountain",
       "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
-        "name": "The Essential Porter Wagoner",
-        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "The Carroll County Accident",
-      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Seely Style",
-        "url": "https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw"
+        "name": "The Essential Porter Wagoner",
+        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
       },
       "artists": [
         {
-          "name": "Jeannie Seely",
-          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Don't Touch Me",
-      "url": "https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb"
+      "duration_ms": 169200,
+      "name": "The Carroll County Accident",
+      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "The Image of Me",
-      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "The Very Best of\u2026",
         "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 123360,
       "name": "Chug-A-Lug",
       "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "The Image of Me",
+      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Other Woman",
-        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Don't You Ever Get Tired of Hurting Me",
-      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Hello Walls",
         "url": "https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 144120,
       "name": "Wine Me Up",
       "url": "https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "The Other Woman",
+        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Don't You Ever Get Tired of Hurting Me",
+      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Country Style",
-        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "(Margie's At) The Lincoln Park Inn",
         "url": "https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
+        "name": "Country Style",
+        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1s6BocSrXp9Gu4hv8fHgEk"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 160440,
       "name": "Talk Back Trembling Lips",
       "url": "https://open.spotify.com/track/2kc2v1biRvuHJaBozQzfqs"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6mB60S645utmjUe0RIeHkb"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Seely",
+          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
+        }
+      ],
+      "duration_ms": 146010,
+      "name": "Mr. Record Man",
+      "url": "https://open.spotify.com/track/66vVLhaUGw1xaABx0jLMo9"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/2PEQef4Kfc2af6MqXRckrl"
-      },
-      "artists": [
-        {
-          "name": "Bill Anderson",
-          "url": "https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Still - Single Version",
-      "url": "https://open.spotify.com/track/0Q7eey8NSPQEQ3ol75UAAx"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6mB60S645utmjUe0RIeHkb"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/2PEQef4Kfc2af6MqXRckrl"
       },
       "artists": [
         {
-          "name": "Jeannie Seely",
-          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
+          "name": "Bill Anderson",
+          "url": "https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh"
         }
       ],
-      "duration_ms": 146010,
-      "name": "Mr. Record Man",
-      "url": "https://open.spotify.com/track/66vVLhaUGw1xaABx0jLMo9"
+      "duration_ms": 166973,
+      "name": "Still - Single Version",
+      "url": "https://open.spotify.com/track/0Q7eey8NSPQEQ3ol75UAAx"
     },
     {
       "added_at": "2024-07-05 21:22:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,048 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,058 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 49 | [Shikiria \- Zakem, Yescene Remix](https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K), [Yescene](https://open.spotify.com/artist/2K81NzC5UFgLf1mgmHtbSt) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 7:32 |
 | 50 | [Another Brick In The Wall](https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Another Brick In The Wall](https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y) | 4:01 |
 
-Snapshot ID: `AAAAAKG8vcfxqyf59bhi6GxIj+2YmnQc`
+Snapshot ID: `Z5ds3gAAAAA1NUKUYLv3gbeoNKKhebeG`

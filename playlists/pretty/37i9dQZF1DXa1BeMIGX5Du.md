@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,546 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,605 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 |
-| 2 | [Take Off](https://open.spotify.com/track/5j6LhSiMbjnjPx40bOKyhP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Take Off](https://open.spotify.com/album/2K8pzXgfSA1euc7xiBqnom) | 3:22 |
-| 3 | [Sabino](https://open.spotify.com/track/7tAwTZKnOEihan9q6rhuzR) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sabino](https://open.spotify.com/album/6GIofJVOnkodSIjAofbYbe) | 3:33 |
-| 4 | [Home To Me](https://open.spotify.com/track/2CQeLwGc9a6ns2QZO3l5Pw) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Home To Me](https://open.spotify.com/album/7HD0Q0832lldGZStiz2emp) | 3:06 |
-| 5 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
+| 1 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
+| 2 | [Sabino](https://open.spotify.com/track/7tAwTZKnOEihan9q6rhuzR) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sabino](https://open.spotify.com/album/6GIofJVOnkodSIjAofbYbe) | 3:33 |
+| 3 | [Take Off](https://open.spotify.com/track/5j6LhSiMbjnjPx40bOKyhP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Take Off](https://open.spotify.com/album/2K8pzXgfSA1euc7xiBqnom) | 3:22 |
+| 4 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 |
+| 5 | [Home To Me](https://open.spotify.com/track/2CQeLwGc9a6ns2QZO3l5Pw) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Home To Me](https://open.spotify.com/album/7HD0Q0832lldGZStiz2emp) | 3:06 |
 | 6 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 |
 | 7 | [Flicker](https://open.spotify.com/track/6IKIBXhk00Fjw3FnThgcLB) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Flicker](https://open.spotify.com/album/2b1jvG1C9t49L6toD1k9RX) | 3:14 |
 | 8 | [Little Less Lonely](https://open.spotify.com/track/7pR2S2bVN8RP7B5mfevdKa) | [Jenny Mitchell](https://open.spotify.com/artist/4nuqPXV9cR0OGDbYw0Zwj9) | [Forest House](https://open.spotify.com/album/4fKXOHw9FPeyEPfv3Pi3gx) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [Stay Awake](https://open.spotify.com/track/3Fcdwu4gMqd0eAlC9thpKo) | [Patrick James](https://open.spotify.com/artist/02rbtsxmzmlWKtEZ4DLZr8) | [Stay Awake](https://open.spotify.com/album/6Z8AubnDokmqjdzELuqg3t) | 1:59 |
 | 100 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 |
 
-Snapshot ID: `aHUNZQAAAADOJ5cgC00sPfbYrZT9Pmy4`
+Snapshot ID: `aI/0igAAAADJk5qzf/4cafoE8xmg5igu`

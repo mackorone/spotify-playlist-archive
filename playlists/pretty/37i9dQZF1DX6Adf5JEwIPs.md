@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Marca MP, Edgardo Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,778 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,884 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Cupido](https://open.spotify.com/track/5IhzZQTLLQWEBoB11nhQvY) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Cupido](https://open.spotify.com/album/6lgRyz9LJRQBmtwJk4CAdB) | 2:33 |
 | 50 | [Cielito Lindo](https://open.spotify.com/track/7h4DqhoaJ2twPKindqYLY3) | [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL), [Alana Flores](https://open.spotify.com/artist/2r9XkNDzjrwjenvMAqH3XW) | [Cielito Lindo](https://open.spotify.com/album/76OiCw7gf0N20LZeEcndOt) | 2:07 |
 
-Snapshot ID: `AAAAAFLEU9s2gaMDd5LwsHbbqi3QPvD5`
+Snapshot ID: `aIw76wAAAADoF5rFzpgL/ArUjG9KTxTZ`

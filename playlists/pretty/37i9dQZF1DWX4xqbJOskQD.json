@@ -59,6 +59,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Bing-His Legendary Years 1931-1957",
         "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 162506,
       "name": "Ac-Cent-Tchu-Ate The Positive - Single Version",
       "url": "https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -163,22 +163,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Voices In Modern",
-        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
-      },
-      "artists": [
-        {
-          "name": "The Four Freshmen",
-          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "It's A Blue World",
-      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 178066,
       "name": "May You Always",
       "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Voices In Modern",
+        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
+      },
+      "artists": [
+        {
+          "name": "The Four Freshmen",
+          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "It's A Blue World",
+      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE"
     },
     {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+    },
+    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The War Years (1941-1947)",
@@ -259,22 +275,6 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Hi-Lo's \"Summertime\"",
-        "url": "https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G"
-      },
-      "artists": [
-        {
-          "name": "The Hi-Lo's",
-          "url": "https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k"
-        }
-      ],
-      "duration_ms": 174384,
-      "name": "Shadow Waltz",
-      "url": "https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 160173,
       "name": "Fun And Fancy Free",
       "url": "https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Hi-Lo's \"Summertime\"",
+        "url": "https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G"
+      },
+      "artists": [
+        {
+          "name": "The Hi-Lo's",
+          "url": "https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k"
+        }
+      ],
+      "duration_ms": 174384,
+      "name": "Shadow Waltz",
+      "url": "https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B"
     },
     {
       "added_at": "2020-08-17 22:49:59",

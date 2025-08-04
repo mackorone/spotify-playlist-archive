@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-1,025 songs - 2 day 5 hr 52 min
+1,026 songs - 2 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [Outta Body \- Radio Edit](https://open.spotify.com/track/5gbGJf0onTq0EINUKGn8e0) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Outta Body](https://open.spotify.com/album/5trKdS4KAJW6xUkIYR5UHv) | 2:21 | 2022-05-20 | 2022-05-28 |
 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 | 2023-12-08 | 2024-01-26 |
 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 | 2022-02-10 | 2022-05-20 |
+| [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 | 2025-08-03 |  |
 | [Paradise](https://open.spotify.com/track/60STJ5y9RdFsbFBVwsLpEP) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Paradise](https://open.spotify.com/album/6R6Q9qbwHVHTtS7J3jQSa6) | 3:04 | 2021-09-24 | 2021-11-25 |
 | [Paris](https://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Paris](https://open.spotify.com/album/64vx3cUb97lQGlgt8zozWL) | 3:41 | 2021-11-25 | 2021-12-10 |
 | [Party Girl \- VIZE Remix](https://open.spotify.com/track/64vgWvPf41BreVeNomZ3nv) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Party Girl \(VIZE Remix\)](https://open.spotify.com/album/7fqLVmRJezUeXbYhcoCE7V) | 2:34 | 2020-11-03\* | 2021-02-25 |

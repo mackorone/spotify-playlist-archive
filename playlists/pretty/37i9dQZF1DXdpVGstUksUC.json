@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 545816,
+  "num_followers": 545814,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Them Crooked Vultures",
-        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
-      },
-      "artists": [
-        {
-          "name": "Them Crooked Vultures",
-          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
-        }
-      ],
-      "duration_ms": 310376,
-      "name": "No One Loves Me and Neither Do I",
-      "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "From Beale Street to Oblivion",
         "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 314746,
       "name": "Electric Worry",
       "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Them Crooked Vultures",
+        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
+      },
+      "artists": [
+        {
+          "name": "Them Crooked Vultures",
+          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
+        }
+      ],
+      "duration_ms": 310376,
+      "name": "No One Loves Me and Neither Do I",
+      "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "The Witching Hour",
+        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
+      },
+      "artists": [
+        {
+          "name": "Doctor Smoke",
+          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 408373,
       "name": "Black Lilly",
       "url": "https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "The Witching Hour",
-        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
-      },
-      "artists": [
-        {
-          "name": "Doctor Smoke",
-          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Desert Cold",
-        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
-      },
-      "artists": [
-        {
-          "name": "Snowy Dunes",
-          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Desert Cold",
-      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Fear Choices and Astronauts",
         "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 651110,
       "name": "Bright Dawn of the Soul",
       "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Desert Cold",
+        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
+      },
+      "artists": [
+        {
+          "name": "Snowy Dunes",
+          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
+        }
+      ],
+      "duration_ms": 373133,
+      "name": "Desert Cold",
+      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Blast Tyrant (Deluxe Version)",
         "url": "https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 325026,
       "name": "The Regulator",
       "url": "https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/4tIt1aEVqxQ71AuOpoEsHs"
+      },
+      "artists": [
+        {
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+        }
+      ],
+      "duration_ms": 317600,
+      "name": "An Alternative to Freedom",
+      "url": "https://open.spotify.com/track/2C8w2lnmujqqKRrwtUQPqj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Kreuzung",
         "url": "https://open.spotify.com/album/65dd1YOyeVadRyeoCa6bpi"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 235441,
       "name": "Kreuzung",
       "url": "https://open.spotify.com/track/3sDkGMlGw0irwbpsVI4WlX"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Saved by Magic",
-        "url": "https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD"
-      },
-      "artists": [
-        {
-          "name": "Brant Bjork",
-          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
-        }
-      ],
-      "duration_ms": 334720,
-      "name": "Kiss Away",
-      "url": "https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ"
     }
   ],
   "unique_name": "Stoner Rock",

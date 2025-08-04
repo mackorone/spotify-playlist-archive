@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,456 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,446 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 38 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
 | 39 | [Vampire Wedding](https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 3](https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV) | 1:21 |
 | 40 | [Skeleton Inside!](https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Kooky Spooky..\. In Stereo!](https://open.spotify.com/album/1V2nJyNQSsEDRhP8xOOSDv) | 4:23 |
-| 41 | [Skeletone](https://open.spotify.com/track/3oag5OqiSruFgmz5mft1B0) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [I FOUND YOU!](https://open.spotify.com/album/5cgca90mQ014PmAoEOkxbF) | 2:35 |
-| 42 | [Monsters Everywhere](https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:06 |
+| 41 | [Monsters Everywhere](https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:06 |
+| 42 | [Skeletone](https://open.spotify.com/track/3oag5OqiSruFgmz5mft1B0) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [I FOUND YOU!](https://open.spotify.com/album/5cgca90mQ014PmAoEOkxbF) | 2:35 |
 | 43 | [Goosebumps](https://open.spotify.com/track/5XZz9OwrEQJVpgkntifwzk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:21 |
 | 44 | [We Haunt These Halls](https://open.spotify.com/track/1ZNUHl1HRIIIczZuko0qaj) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [We Haunt These Halls](https://open.spotify.com/album/41ktHCJaSL8UXGFIt3CI47) | 2:01 |
-| 45 | [Count JJ All Day!](https://open.spotify.com/track/26V8pwWlIZ7gqUDqIKoQVX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Songs](https://open.spotify.com/album/6W2tIdBTW9jKKlbSra9g0F) | 2:39 |
-| 46 | [Peek\-A\-Boo Ghost](https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [A Laurie Berkner Halloween](https://open.spotify.com/album/0oadKOgulzZqBgcmQgYJMu) | 1:17 |
+| 45 | [Peek\-A\-Boo Ghost](https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [A Laurie Berkner Halloween](https://open.spotify.com/album/0oadKOgulzZqBgcmQgYJMu) | 1:17 |
+| 46 | [Count JJ All Day!](https://open.spotify.com/track/26V8pwWlIZ7gqUDqIKoQVX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Songs](https://open.spotify.com/album/6W2tIdBTW9jKKlbSra9g0F) | 2:39 |
 | 47 | [Spooky Wooky](https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Spooky Wooky](https://open.spotify.com/album/4uMNaufB5pd3R0VZkgDJQr) | 2:19 |
-| 48 | [5 Little Monsters](https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn to Count with LitttleBabyBum! Counting & Number Songs for Children, Vol\. 1](https://open.spotify.com/album/2RzdkdQwLO5gHsNLrtN2Au) | 1:37 |
-| 49 | [Boo Ya!](https://open.spotify.com/track/1x1yovHjSWgXkzZrCFjEY1) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Boo Ya!](https://open.spotify.com/album/4yhVNql0ImtQJlGLSdsfXu) | 2:36 |
+| 48 | [Boo Ya!](https://open.spotify.com/track/1x1yovHjSWgXkzZrCFjEY1) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Boo Ya!](https://open.spotify.com/album/4yhVNql0ImtQJlGLSdsfXu) | 2:36 |
+| 49 | [5 Little Monsters](https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn to Count with LitttleBabyBum! Counting & Number Songs for Children, Vol\. 1](https://open.spotify.com/album/2RzdkdQwLO5gHsNLrtN2Au) | 1:37 |
 | 50 | [Monster Mash](https://open.spotify.com/track/4Engqtxwykpej8XLAgq7qA) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:47 |
 | 51 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 |
 | 52 | [I Wanna Scare Myself](https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn) | [Tigger](https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 1:12 |

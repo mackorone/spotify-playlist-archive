@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,213 likes - 96 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,209 likes - 96 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 95 | [Cathode Ray](https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Cathode Ray](https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX) | 4:09 |
 | 96 | [Letters](https://open.spotify.com/track/0H9jmaPlpgPLP3PLBe69Ep) | [Ashley Morgan](https://open.spotify.com/artist/3SvaZoKvmYQVIkvnVIRgHz) | [TwanklePack](https://open.spotify.com/album/4z6FukydJ3O48q1t2aOb1x) | 2:19 |
 
-Snapshot ID: `aHlyjQAAAAAGBvt25ek8A0AxvtnLzCsW`
+Snapshot ID: `AAAAAMx7z3KOx5vyVsM8BclPwrYpFvI4`

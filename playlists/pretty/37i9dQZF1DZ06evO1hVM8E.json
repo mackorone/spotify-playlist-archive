@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 44518,
+  "num_followers": 44530,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAACUtHjEZ7b7vCBcFMl986O/",
+  "snapshot_id": "aI1VAAAAAABXguPPim1pCi6E8sJgHSWL",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
+        "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Fruta Madura",
+      "url": "https://open.spotify.com/track/0INnxXLdKizPJY5DeDNRgH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 229066,
       "name": "P\u00eddeme la Luna (En Vivo) (feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga)",
       "url": "https://open.spotify.com/track/4zDzGZIdKG1PdvguOGET8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
-        "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Fruta Madura",
-      "url": "https://open.spotify.com/track/0INnxXLdKizPJY5DeDNRgH"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 A\u00f1os, Pese A Quien Pese",
-        "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Abeja Reina",
-      "url": "https://open.spotify.com/track/521dnbUMvNsL38KZq4NN22"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
         "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 182986,
       "name": "Al Menos",
       "url": "https://open.spotify.com/track/5UnH0S2TSLUy8WyqgJXOQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 A\u00f1os, Pese A Quien Pese",
+        "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Abeja Reina",
+      "url": "https://open.spotify.com/track/521dnbUMvNsL38KZq4NN22"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense",
-        "url": "https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "La Original",
-      "url": "https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Corridos Explosivos",
         "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 187386,
       "name": "La Ca\u00edda de un Monarca",
       "url": "https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense",
+        "url": "https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "La Original",
+      "url": "https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 145167,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/0pCch1eHrjCXON48LoZDCY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Lo Contaron Ayer",
-        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 154426,
-      "name": "Me Lo Contaron Ayer",
-      "url": "https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 154426,
+      "name": "Me Lo Contaron Ayer",
+      "url": "https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
         "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
       },
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Lo Contaron Ayer",
-        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+        "name": "Me Esta Doliendo el Alma",
+        "url": "https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Entre Perico y Perico",
-      "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
+      "duration_ms": 199950,
+      "name": "Me Esta Doliendo el Alma",
+      "url": "https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW"
     }
   ],
   "unique_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",

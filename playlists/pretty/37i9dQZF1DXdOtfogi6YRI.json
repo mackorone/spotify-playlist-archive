@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Tw\u00f3j, Dawid",
-  "num_followers": 19280,
+  "num_followers": 19286,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "Niuski",
-        "url": "https://open.spotify.com/album/3zRqJHARxXqLkWv9mMFl3D"
-      },
-      "artists": [
-        {
-          "name": "Ziomcy",
-          "url": "https://open.spotify.com/artist/5JOpa3JPt7eVvPRFJmamex"
-        }
-      ],
-      "duration_ms": 155508,
-      "name": "Niuski",
-      "url": "https://open.spotify.com/track/352htNjWc8RNiVlHaRLrEj"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
         "name": "FALA MIXTAPE vol. 3",
         "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 170602,
       "name": "Sto lat",
       "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "Niuski",
+        "url": "https://open.spotify.com/album/3zRqJHARxXqLkWv9mMFl3D"
+      },
+      "artists": [
+        {
+          "name": "Ziomcy",
+          "url": "https://open.spotify.com/artist/5JOpa3JPt7eVvPRFJmamex"
+        }
+      ],
+      "duration_ms": 155508,
+      "name": "Niuski",
+      "url": "https://open.spotify.com/track/352htNjWc8RNiVlHaRLrEj"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "Skarb Pa\u0144stwa",
-        "url": "https://open.spotify.com/album/2GUSSm24Z0VjpH5tshTPFX"
-      },
-      "artists": [
-        {
-          "name": "Ziomcy",
-          "url": "https://open.spotify.com/artist/5JOpa3JPt7eVvPRFJmamex"
-        }
-      ],
-      "duration_ms": 161065,
-      "name": "Nasell",
-      "url": "https://open.spotify.com/track/45krBV0Z6VOGDsTTR8kev0"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
         "name": "MOJA WINA",
         "url": "https://open.spotify.com/album/7IjX82nnhLPWUPh1il8B9x"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 174676,
       "name": "MOJA WINA",
       "url": "https://open.spotify.com/track/5aFau6dtoRGG6M1QGSlA2Q"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "Skarb Pa\u0144stwa",
+        "url": "https://open.spotify.com/album/2GUSSm24Z0VjpH5tshTPFX"
+      },
+      "artists": [
+        {
+          "name": "Ziomcy",
+          "url": "https://open.spotify.com/artist/5JOpa3JPt7eVvPRFJmamex"
+        }
+      ],
+      "duration_ms": 161065,
+      "name": "Nasell",
+      "url": "https://open.spotify.com/track/45krBV0Z6VOGDsTTR8kev0"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "ASTHMA",
-        "url": "https://open.spotify.com/album/1qaVuXnfrIC4OwatduQyGq"
-      },
-      "artists": [
-        {
-          "name": "asthma",
-          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        }
-      ],
-      "duration_ms": 138795,
-      "name": "ZR\u00d3B MI PRZEJ\u015aCIE",
-      "url": "https://open.spotify.com/track/7fr2xIaiYjJkLtFr1BlJ1h"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
         "name": "PU\u0141AP",
         "url": "https://open.spotify.com/album/5dNwOn0L4ucFcomLVeI9rC"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 226303,
       "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
       "url": "https://open.spotify.com/track/2TrCHAIp8m2JrQMKd4P3GU"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "ASTHMA",
+        "url": "https://open.spotify.com/album/1qaVuXnfrIC4OwatduQyGq"
+      },
+      "artists": [
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "duration_ms": 138795,
+      "name": "ZR\u00d3B MI PRZEJ\u015aCIE",
+      "url": "https://open.spotify.com/track/7fr2xIaiYjJkLtFr1BlJ1h"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
+        "name": "kiss & ride",
+        "url": "https://open.spotify.com/album/1tuHFC6P0oQWKmxfeHwkEJ"
+      },
+      "artists": [
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "duration_ms": 203006,
+      "name": "myl\u0105 mi si\u0119 miasta",
+      "url": "https://open.spotify.com/track/5rVks0f0ytXsQpYBsMIMeO"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
         "name": "PEACE OF MIND",
         "url": "https://open.spotify.com/album/7o1R8J7UBb9nYewDbZp7wz"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "kiss & ride",
-        "url": "https://open.spotify.com/album/1tuHFC6P0oQWKmxfeHwkEJ"
-      },
-      "artists": [
-        {
-          "name": "asl33p",
-          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
-        }
-      ],
-      "duration_ms": 203006,
-      "name": "myl\u0105 mi si\u0119 miasta",
-      "url": "https://open.spotify.com/track/5rVks0f0ytXsQpYBsMIMeO"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
         "name": "To boli!",
         "url": "https://open.spotify.com/album/4AUSZOAtsRlNjjCImFQwvV"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 109863,
       "name": "To boli!",
       "url": "https://open.spotify.com/track/2BySeX3sOMo3UohdXkJBnp"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "PERSPEKTYWY",
+        "url": "https://open.spotify.com/album/65unSo2DJtcMUpfezO3YSi"
+      },
+      "artists": [
+        {
+          "name": "Leo Ros",
+          "url": "https://open.spotify.com/artist/1qXCTpQh1JNGdTnHRnUjtf"
+        },
+        {
+          "name": "F.U.$",
+          "url": "https://open.spotify.com/artist/7EVFc8KexA2b4tr9UzZOh6"
+        }
+      ],
+      "duration_ms": 186631,
+      "name": "PERSPEKTYWY",
+      "url": "https://open.spotify.com/track/6rQUbKwsQ08aloKo5hEQZf"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1579,26 +1599,6 @@
       "duration_ms": 248000,
       "name": "Hi8",
       "url": "https://open.spotify.com/track/3Tm5gpmJpKg3LUVbNKhzQk"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
-        "name": "PERSPEKTYWY",
-        "url": "https://open.spotify.com/album/65unSo2DJtcMUpfezO3YSi"
-      },
-      "artists": [
-        {
-          "name": "Leo Ros",
-          "url": "https://open.spotify.com/artist/1qXCTpQh1JNGdTnHRnUjtf"
-        },
-        {
-          "name": "F.U.$",
-          "url": "https://open.spotify.com/artist/7EVFc8KexA2b4tr9UzZOh6"
-        }
-      ],
-      "duration_ms": 186631,
-      "name": "PERSPEKTYWY",
-      "url": "https://open.spotify.com/track/6rQUbKwsQ08aloKo5hEQZf"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "Z\u0142ote \u0142ezki",
-        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
-      },
-      "artists": [
-        {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Z\u0142ote \u0142ezki",
-      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
         "name": "Nowe Legendy",
         "url": "https://open.spotify.com/album/5IW12kFhuCrJKOYNeIJEcn"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 178746,
       "name": "Nowe Legendy",
       "url": "https://open.spotify.com/track/140k0TgBJp73p1EIii5M2Z"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "Z\u0142ote \u0142ezki",
+        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Z\u0142ote \u0142ezki",
+      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
+        "name": "PIEK\u0141O DLA DJ\u00d3W",
+        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 129520,
+      "name": "PIEK\u0141O DLA DJ\u00d3W",
+      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
         "name": "farbe",
         "url": "https://open.spotify.com/album/6E1lYUOv506wvK4xBfyxzu"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 177972,
       "name": "farbe",
       "url": "https://open.spotify.com/track/4XFxnmKrwah8QEIMFxkb6H"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
-        "name": "PIEK\u0141O DLA DJ\u00d3W",
-        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 129520,
-      "name": "PIEK\u0141O DLA DJ\u00d3W",
-      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
     },
     {
       "added_at": "2025-07-18 09:42:51",

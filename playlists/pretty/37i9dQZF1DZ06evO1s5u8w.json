@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 196708,
+  "num_followers": 196738,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAAAXPGbon4FeAg3no331wRSS",
+  "snapshot_id": "aI1VAAAAAADI8x+5g/lRZlYHpwet38YX",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Name of This Band Is Talking Heads (Expanded 2004 Remaster)",
-        "url": "https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "A Clean Break (Let's Work) - Live at WCOZ, Massachusetts; 2004 Remaster",
-      "url": "https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Talking Heads",
         "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+        "name": "The Name of This Band Is Talking Heads (Expanded 2004 Remaster)",
+        "url": "https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 159426,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
+      "duration_ms": 305000,
+      "name": "A Clean Break (Let's Work) - Live at WCOZ, Massachusetts; 2004 Remaster",
+      "url": "https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 159426,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -727,6 +727,26 @@
       "duration_ms": 255800,
       "name": "Creatures of Love - 2005 Remaster",
       "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        },
+        {
+          "name": "Jerry Harrison",
+          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Love for Sale - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
     },
     {
       "added_at": null,
@@ -759,26 +779,6 @@
       "duration_ms": 214120,
       "name": "Air",
       "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Jerry Harrison",
-          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "Love for Sale - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
     },
     {
       "added_at": null,

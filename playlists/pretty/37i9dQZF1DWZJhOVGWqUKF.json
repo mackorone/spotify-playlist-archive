@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Biffy Clyro",
-  "num_followers": 345645,
+  "num_followers": 345632,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "Young & Dumb (feat. Simple Plan)",
-        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 166776,
-      "name": "Young & Dumb (feat. Simple Plan)",
-      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "The Great Unknown",
         "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 181806,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "Young & Dumb (feat. Simple Plan)",
+        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 166776,
+      "name": "Young & Dumb (feat. Simple Plan)",
+      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
         "name": "CONCRETE JUNGLE [THE OST]",
         "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 235092,
       "name": "ANYTHING > HUMAN",
       "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 200010,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "Rejects",
-        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 174634,
-      "name": "Rejects",
-      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "bad luck",
         "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 245767,
       "name": "bad luck",
       "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "Rejects",
+        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 174634,
+      "name": "Rejects",
+      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "Stepper",
-        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 196748,
-      "name": "Stepper",
-      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "The Surface (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 203294,
       "name": "ATTN.",
       "url": "https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "Keep Me Fed",
-        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 179717,
-      "name": "Six Feet Deep",
-      "url": "https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/05RKwbKlZsCQFapjGm3mWa"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 212750,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/0mNM0k99pox3oMwZQrRYld"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 179717,
+      "name": "Six Feet Deep",
+      "url": "https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "Take What You Want",
-        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 146703,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "SELF IMMOLATION",
         "url": "https://open.spotify.com/album/1qw8qRxpoEr7zNvzBzXB7X"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 138666,
       "name": "SELF IMMOLATION",
       "url": "https://open.spotify.com/track/0YGX5dJImOOEy8zXYLMMIE"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "Take What You Want",
+        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 146703,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "Light Can Only Shine In The Darkness",
         "url": "https://open.spotify.com/album/6chFakF4QAf8X0BvU1Hf52"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 216653,
       "name": "Light Can Only Shine In The Darkness",
       "url": "https://open.spotify.com/track/2Qmf8FFj2zKicY86pitOI3"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
-        "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
-      },
-      "artists": [
-        {
-          "name": "The Funeral Portrait",
-          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
-        },
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
-      "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "Heroes Are Calling",
         "url": "https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 235000,
       "name": "Make Me A Martyr",
       "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+        "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+      "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j"
-      },
-      "artists": [
-        {
-          "name": "Royal Republic",
-          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 191746,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j"
+      },
+      "artists": [
+        {
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb"
     },
     {
       "added_at": "2025-07-31 22:00:32",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-07-31 22:00:32",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 225871,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
-    },
-    {
-      "added_at": "2025-07-31 22:00:32",
-      "album": {
         "name": "Nod",
         "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "added_at": "2025-07-31 22:00:32",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 225871,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
     }
   ],
   "unique_name": "Rock Rotation",

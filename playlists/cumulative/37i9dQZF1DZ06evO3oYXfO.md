@@ -4,7 +4,7 @@
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-55 songs - 4 hr 57 min
+56 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A National Acrobat \(2009 Remaster\)](https://open.spotify.com/track/6iJuDBangLQkI7cc9MdjPw) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 6:15 | 2025-07-23 |  |
 | [Behind the Wall of Sleep \- 2009 Remaster](https://open.spotify.com/track/5JYanX4zPe3uX3nShgE0qR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:37 | 2025-07-23 |  |
 | [Black Sabbath \- 2009 Remaster](https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 6:20 | 2025-07-23 |  |
-| [Born to Lose \- 2025 Remaster](https://open.spotify.com/track/6Xf42BRgGkIVA8Sdw6nZ1v) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 3:43 | 2025-08-03 |  |
+| [Born to Lose \- 2025 Remaster](https://open.spotify.com/track/6Xf42BRgGkIVA8Sdw6nZ1v) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 3:43 | 2025-08-03 | 2025-08-04 |
 | [Children of the Grave \(2009 Remaster\)](https://open.spotify.com/track/0ElAcOj8tudMA6X6KZ7SMO) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:15 | 2025-07-23 |  |
 | [Children of the Sea](https://open.spotify.com/track/7MDBR4dEvtOGNyOBKNmP8n) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 5:35 | 2025-07-23 |  |
 | [Cornucopia \- 2009 Remaster](https://open.spotify.com/track/327Ec0FooWSZMtVd7zPng2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:51 | 2025-07-23 |  |
@@ -24,6 +24,7 @@
 | [Fluff \(2009 Remaster\)](https://open.spotify.com/track/4gUNTtPmsTzpTdJY3aZbLw) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 4:08 | 2025-07-23 |  |
 | [Glory Ride \- 2025 Remaster](https://open.spotify.com/track/4d6E5GE14344OM0sPqGteS) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 4:48 | 2025-08-03 |  |
 | [God Is Dead?](https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:52 | 2025-07-23 |  |
+| [Hard Life to Love \- 2025 Remaster](https://open.spotify.com/track/6npld2yaKGAYR460ElOg1B) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 4:58 | 2025-08-04 |  |
 | [Headless Cross \- 2024 Remaster](https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Headless Cross \(2024 Remaster\)](https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a) | 6:29 | 2025-07-23 |  |
 | [Heaven and Hell](https://open.spotify.com/track/5qxN63QA4Hk1zgdLCsZFE2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 6:57 | 2025-07-23 |  |
 | [Hole in the Sky \(2009 Remaster\)](https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 3:59 | 2025-07-23 |  |

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Clayton & Romário
 
-326 songs - 15 hr 17 min
+327 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Camisola e Fio \- Ao Vivo](https://open.spotify.com/track/3wBaigHNAAsg2MnXIfNRSu) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Camisola e Fio \(Ao Vivo\)](https://open.spotify.com/album/03j75YwOH5gakK4JE1Aeh1) | 3:00 | 2025-06-27 |  |
 | [Cantada Boba \- Ao Vivo](https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 3:03 | 2024-11-12 |  |
 | [Canudinho \- Ao Vivo](https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Canudinho \(Ao Vivo\)](https://open.spotify.com/album/1w5McUqm1LoGFBynpndS6x) | 2:04 | 2023-09-15 | 2024-05-25 |
+| [Caos De Alguém \- Ao Vivo](https://open.spotify.com/track/2zxgWjSwtiMOz5xx3m2rr4) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Caos De Alguém \(Ao Vivo\)](https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf) | 2:34 | 2025-08-03 |  |
 | [Cara da Derrota \- Ao Vivo](https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:41 | 2022-12-16 | 2023-03-25 |
 | [Cara da Serenata \- Live](https://open.spotify.com/track/3vpmGewnBcIfbm252E3Xx8) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac) | [Cara da Serenata \(Live\)](https://open.spotify.com/album/1YqY9DLfFigKwnM8UCEoL9) | 2:14 | 2025-05-17 |  |
 | [Carona \- Ao Vivo](https://open.spotify.com/track/61IoU1fMZBkTpilKp2zUbF) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Envolvente \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1OkdRmcGgEGkotlkG1E9q2) | 2:51 | 2025-05-17 |  |
@@ -264,7 +265,7 @@
 | [Rancorosa \- Ao Vivo Em Brasília](https://open.spotify.com/track/7CUQQLRMIeSfa4m2uQcRHp) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Rancorosa \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/1A07EzPDoFwgJvDgIVPcpI) | 3:01 | 2023-03-31 | 2023-07-01 |
 | [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 | 2021-12-31 | 2022-12-10 |
 | [Resumindo \- Ao Vivo](https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:25 | 2025-06-06 |  |
-| [Rodeio no Texas 🐂](https://open.spotify.com/track/5ZgXkKLoO5WIiyzaGsrQQ2) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 2:31 | 2025-06-20 |  |
+| [Rodeio no Texas 🐂](https://open.spotify.com/track/5ZgXkKLoO5WIiyzaGsrQQ2) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 2:31 | 2025-06-20 | 2025-08-04 |
 | [Romântico \- Ao Vivo](https://open.spotify.com/track/7FdGeazienHpcYz9KYAuWW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP2\)](https://open.spotify.com/album/4ZJMaV7KtU2I5hvZhdaMGg) | 3:03 | 2024-11-29 |  |
 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/4xyIg09M1MhiohypbUdeYt) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Burra \(Ao Vivo\)](https://open.spotify.com/album/2d4qNcAXn99Jhnup9I7vLM) | 2:37 | 2025-01-17 |  |
 | [Saudade Butequeira \- Ao Vivo](https://open.spotify.com/track/1VbunACv3Z4cGfBenC7oTx) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:29 | 2024-05-17 | 2025-01-18 |

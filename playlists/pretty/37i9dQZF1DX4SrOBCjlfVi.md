@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Yeat, Metro Boomin, $uicideboy$ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,105 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,360 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 31 | [coriolis](https://open.spotify.com/track/5f4LiI2bImg5kkTG40zuuO) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [NDK](https://open.spotify.com/artist/299MEdwEUcnYq4qthyp9t0) | [coriolis](https://open.spotify.com/album/6khIVPsbHDNvrv6bR63QHH) | 2:34 |
 | 32 | [Bad to the Bone](https://open.spotify.com/track/5T2WoHOmDB0BFGE6M54Gzm) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Bad to the Bone](https://open.spotify.com/album/7yURmP2oXIZIi1OK2X3s5L) | 2:17 |
 | 33 | [Marta](https://open.spotify.com/track/1MQ0UpW7K0n04Waxoxoo2m) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [Marta](https://open.spotify.com/album/4wSG4GaHaqbTmDcIxXj6ex) | 2:25 |
-| 34 | [Don't Go](https://open.spotify.com/track/4WGWbNSoSS354wmXYT0DI5) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Don't Go](https://open.spotify.com/album/0MFGqMvKnZqZcUzcc8Pzrf) | 3:14 |
+| 34 | [Don't Go](https://open.spotify.com/track/4WGWbNSoSS354wmXYT0DI5) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Don't Go](https://open.spotify.com/album/0MFGqMvKnZqZcUzcc8Pzrf) | 3:17 |
 | 35 | [In My Dip](https://open.spotify.com/track/4qBW2UbG8g36UvgHqzbzjT) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ) | [In My Dip](https://open.spotify.com/album/2tyKgVkb8XpXic7aQVsFDW) | 3:20 |
 | 36 | [Strictly By Faith](https://open.spotify.com/track/3uuhrycIzxHkZC5Mx4pQ5p) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [red dot.](https://open.spotify.com/album/1eNYQBpUkQWAkJIBbVDe2U) | 2:05 |
 | 37 | ['08 Grand Marquis](https://open.spotify.com/track/2Whsl95IalZSzK6f4XiZxb) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [Untreated Trauma](https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Weight On Me](https://open.spotify.com/track/7eueMnnCN0P85k2XB2kT9f) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [Swaggyono](https://open.spotify.com/artist/2eth98H0ggjeX0fPe1Aqvn) | [Weight On Me](https://open.spotify.com/album/2r6LY2IFVptHJZ5Pfknqkq) | 2:26 |
 | 50 | [40 Doors](https://open.spotify.com/track/03CBYseqfLSqzUXhRuJZqR) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [40 Doors](https://open.spotify.com/album/50mql4nHa72ylubgL32the) | 3:02 |
 
-Snapshot ID: `AAAAAHFzTtJmmaKYa/OIt08nYxplFlOK`
+Snapshot ID: `aIw76gAAAABWsKTKolNj1PiVYXLGonIn`

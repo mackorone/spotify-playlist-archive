@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u6885\u4e95\u7f8e\u54b2",
-  "num_followers": 45726,
+  "num_followers": 45739,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/6sdeBlNidcSdtZbp7sLEpn"
+      },
+      "artists": [
+        {
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+        }
+      ],
+      "duration_ms": 187993,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/4cFvCgEDtwk19uovENRpsG"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
         "name": "AUTHENTIC",
         "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 191747,
       "name": "World's Famous",
       "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/6sdeBlNidcSdtZbp7sLEpn"
-      },
-      "artists": [
-        {
-          "name": "Blu-Swing",
-          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
-        }
-      ],
-      "duration_ms": 187993,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/4cFvCgEDtwk19uovENRpsG"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "Trionfi",
-        "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
-      },
-      "artists": [
-        {
-          "name": "\u8349\u7530\u4e00\u99ff",
-          "url": "https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh"
-        }
-      ],
-      "duration_ms": 446882,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "CROSSING",
         "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 270806,
       "name": "Crossing",
       "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "Trionfi",
+        "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
+      },
+      "artists": [
+        {
+          "name": "\u8349\u7530\u4e00\u99ff",
+          "url": "https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh"
+        }
+      ],
+      "duration_ms": 446882,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -447,6 +447,26 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
+        "name": "Asleep Above Creatures",
+        "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
+      },
+      "artists": [
+        {
+          "name": "Misaki Umei",
+          "url": "https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO"
+        },
+        {
+          "name": "Antonio Loureiro",
+          "url": "https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD"
+        }
+      ],
+      "duration_ms": 291040,
+      "name": "Go around in circles",
+      "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
         "name": "OTODOKENIAGARIMASHITA",
         "url": "https://open.spotify.com/album/4EvClGWhfcynBZk3Rq9nDr"
       },
@@ -491,18 +511,22 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+        "name": "The Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1k06f2ViOox957pPj2va5h"
       },
       "artists": [
         {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+          "name": "Jun Miyakawa",
+          "url": "https://open.spotify.com/artist/5KdoAx6uSh0kTvYYxVnPfj"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
         }
       ],
-      "duration_ms": 187000,
-      "name": "15 Eunomia",
-      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
+      "duration_ms": 372957,
+      "name": "No Title",
+      "url": "https://open.spotify.com/track/6ZbR1rdeVaqpc8dZexbmSg"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -523,6 +547,22 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "15 Eunomia",
+      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
         "name": "EVERYDAY",
         "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
       },
@@ -539,26 +579,6 @@
       "duration_ms": 223820,
       "name": "Must Have Known",
       "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
-        "name": "The Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1k06f2ViOox957pPj2va5h"
-      },
-      "artists": [
-        {
-          "name": "Jun Miyakawa",
-          "url": "https://open.spotify.com/artist/5KdoAx6uSh0kTvYYxVnPfj"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        }
-      ],
-      "duration_ms": 372957,
-      "name": "No Title",
-      "url": "https://open.spotify.com/track/6ZbR1rdeVaqpc8dZexbmSg"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -595,26 +615,6 @@
       "duration_ms": 384743,
       "name": "Off-the-cuff",
       "url": "https://open.spotify.com/track/5X6T29oDYziZKe59d62wRy"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
-        "name": "Asleep Above Creatures",
-        "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
-      },
-      "artists": [
-        {
-          "name": "Misaki Umei",
-          "url": "https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO"
-        },
-        {
-          "name": "Antonio Loureiro",
-          "url": "https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD"
-        }
-      ],
-      "duration_ms": 291040,
-      "name": "Go around in circles",
-      "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 355973,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/01CC55S8CrtTxLFradaMM5"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
+        "name": "YAMASTE",
+        "url": "https://open.spotify.com/album/06qraiNnSSgsInRH7HBlcl"
       },
       "artists": [
         {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
         }
       ],
-      "duration_ms": 355973,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
+      "duration_ms": 286415,
+      "name": "YAMASTE",
+      "url": "https://open.spotify.com/track/4lVjEChJOqqCVombMMAGX1"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -811,22 +827,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "Night Flight",
-        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
-      },
-      "artists": [
-        {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        }
-      ],
-      "duration_ms": 230057,
-      "name": "Night flight",
-      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "STEPS OF THE BLUE",
         "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "YAMASTE",
-        "url": "https://open.spotify.com/album/06qraiNnSSgsInRH7HBlcl"
+        "name": "Night Flight",
+        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
       },
       "artists": [
         {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
         }
       ],
-      "duration_ms": 286415,
-      "name": "YAMASTE",
-      "url": "https://open.spotify.com/track/4lVjEChJOqqCVombMMAGX1"
+      "duration_ms": 230057,
+      "name": "Night flight",
+      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
     },
     {
       "added_at": "2025-07-29 15:00:27",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-07-29 15:00:27",
       "album": {
-        "name": "Dig Deep (feat. Jairo)",
-        "url": "https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85"
-      },
-      "artists": [
-        {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        },
-        {
-          "name": "Jairo",
-          "url": "https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM"
-        }
-      ],
-      "duration_ms": 270326,
-      "name": "Dig Deep (feat.Jairo\uff09",
-      "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
-    },
-    {
-      "added_at": "2025-07-29 15:00:27",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 218673,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o"
+    },
+    {
+      "added_at": "2025-07-29 15:00:27",
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "mimiko",
+          "url": "https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I"
+        }
+      ],
+      "duration_ms": 280626,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx"
     }
   ],
   "unique_name": "Modern Jazz Japan",

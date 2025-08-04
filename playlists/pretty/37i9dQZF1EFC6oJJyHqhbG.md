@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,672 likes - 142 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,671 likes - 142 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 22 | [Ghost](https://open.spotify.com/track/2Vl6VlxpDQk99QU7TfQGjO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:23 |
 | 23 | [Wish U Were Here \- Acoustic](https://open.spotify.com/track/4812NLW48dCoABairmUF0p) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Paradise \(Expanded\)](https://open.spotify.com/album/66SngXhMQwIwDa6MDOjNzQ) | 3:36 |
 | 24 | [Heart Wants What It Wants](https://open.spotify.com/track/5iaa3eXgzedzQckwFNtIrl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:02 |
-| 25 | [I Don't Care](https://open.spotify.com/track/1YPJ4wKWLIsAZ6kjkat1zu) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human](https://open.spotify.com/album/56iR72s0hZmMwKNC884wAy) | 4:00 |
-| 26 | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 |
+| 25 | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 |
+| 26 | [I Don't Care](https://open.spotify.com/track/1YPJ4wKWLIsAZ6kjkat1zu) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human](https://open.spotify.com/album/56iR72s0hZmMwKNC884wAy) | 4:00 |
 | 27 | [American Girl](https://open.spotify.com/track/4ktEalgq8mxTvvWcgZdG58) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 |
 | 28 | [Naked](https://open.spotify.com/track/4gPUnZW8IT1mmF9aj9NLF7) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:42 |
 | 29 | [In My Foreign \(feat\. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana\)](https://open.spotify.com/track/1ZX8uNsvwzdDoszb0UCBnM) | [The Americanos](https://open.spotify.com/artist/4XxgN35ZzxIrzUH9Fz8e1y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [In My Foreign \(feat\. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana\)](https://open.spotify.com/album/4DZb3yX9PFxtIzgWgfhTck) | 3:37 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 141 | [Sex Shop](https://open.spotify.com/track/1QHUUwVYDFicuaRDEiM6KR) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 1:58 |
 | 142 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 
-Snapshot ID: `Ab4dUAAAAADGgPD3R5qNYgmmuT8zn3oI`
+Snapshot ID: `Ab4i0gAAAABQFRzmM15Z6S4zkHxPW0jZ`

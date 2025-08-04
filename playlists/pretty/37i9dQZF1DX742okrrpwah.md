@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Chappell Roan, GIMS x La Mano 1.9 et Jul au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,170 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,164 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Marko Glass\n",
-  "num_followers": 21640,
+  "num_followers": 21643,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-07-31 21:00:22",
       "album": {
+        "name": "Ochii",
+        "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ochii",
+      "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
+    },
+    {
+      "added_at": "2025-07-31 21:00:22",
+      "album": {
         "name": "Erupt",
         "url": "https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 216383,
       "name": "Trebuie s\u0103 vorbim",
       "url": "https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf"
-    },
-    {
-      "added_at": "2025-07-31 21:00:22",
-      "album": {
-        "name": "Ochii",
-        "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ochii",
-      "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
     }
   ],
   "unique_name": "Suflet + Sunet",

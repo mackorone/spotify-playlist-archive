@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 129557,
+  "num_followers": 129550,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Pretty Girls Make Graves - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 277466,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Pretty Girls Make Graves - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Evil Urges",
+        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Highly Suspicious",
+      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 213333,
       "name": "Halloween Parade",
       "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Evil Urges",
-        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Highly Suspicious",
-      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
     },
     {
       "added_at": "2024-11-14 23:00:00",

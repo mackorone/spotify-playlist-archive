@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Hamilton & Farruko
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,042 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,064 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 99 | [SIN TI](https://open.spotify.com/track/6f8hCFpVZOzAgCI5rRUacC) | [Sange](https://open.spotify.com/artist/1AUlEt0tp4Tiu9jcVraQwk) | [SIN TI](https://open.spotify.com/album/2la229nkPSvknVcHShkNqN) | 2:53 |
 | 100 | [Ojalá \(Mi Hoodie\)](https://open.spotify.com/track/6YXygjn1doxfPoBHNfOKua) | [Ryan Roy](https://open.spotify.com/artist/1AOGBBCrfDl7hJ9HUVKXwq) | [Ojalá \(Mi Hoodie\)](https://open.spotify.com/album/79uitrq8da7VQy6DRXnxO7) | 2:30 |
 
-Snapshot ID: `AAAAAD/2UHPTmcIjBom82T9d2l5NMt3p`
+Snapshot ID: `aIwpPwAAAACKyZ4uuSk5mtv3hggM4eJh`

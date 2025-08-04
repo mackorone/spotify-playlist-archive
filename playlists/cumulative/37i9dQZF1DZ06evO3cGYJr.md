@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 56 min
+118 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alright](https://open.spotify.com/track/093kQYdOiuVxAeFzyrtXf6) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:06 | 2025-06-10 |  |
 | [Alright](https://open.spotify.com/track/5YIVy6HdCamdQkzTPhRrQj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:06 | 2024-12-14 | 2025-06-10 |
 | [An Introduction](https://open.spotify.com/track/3NXSkfqQ6ASC588TuWkqTe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:54 | 2024-12-14 | 2025-08-01 |
-| [better than i was](https://open.spotify.com/track/07sn5SwgSMxhj2PJxK5i6s) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:24 | 2025-08-03 |  |
+| [better than i was](https://open.spotify.com/track/07sn5SwgSMxhj2PJxK5i6s) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:24 | 2025-08-03 | 2025-08-04 |
 | [better than i was](https://open.spotify.com/track/0HLs9ktjeINGigUq6i1hAP) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [better than i was](https://open.spotify.com/album/2JpRnpearfI5QTXvhHCrsX) | 3:24 | 2025-07-10 | 2025-08-03 |
 | [better than i was](https://open.spotify.com/track/0JQkCncxcmSROtUx48oEPb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [better than i was](https://open.spotify.com/album/35FKhwMBDOty1ocIqwfU1y) | 3:24 | 2024-12-25 | 2025-07-10 |
 | [better than i was](https://open.spotify.com/track/4A29Y0CK8aaFRKrVXRqVxg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:24 | 2025-01-19 | 2025-06-25 |
@@ -34,6 +34,7 @@
 | [City Lines \- 2021 Version](https://open.spotify.com/track/3p4vObjU7Er7Hh27vPGMgN) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:41 | 2025-02-03 | 2025-08-02 |
 | [Cleaved](https://open.spotify.com/track/1MbCCV9wmYRxeNCUnGTHnX) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:14 | 2025-02-11 | 2025-07-03 |
 | [Cleaved](https://open.spotify.com/track/7rE3RYWNKCOpqMJrQGcTBC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [ALTERED FUTURE: HALCYON PT.I](https://open.spotify.com/album/5LQdUz31WT8U1BfajznbHg) | 3:14 | 2024-12-14 | 2025-06-16 |
+| [CONFUS1NG](https://open.spotify.com/track/1G07gbwkIQXRYXBQC6cnmG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 2:04 | 2025-08-04 |  |
 | [CONFUS1NG](https://open.spotify.com/track/4xZdfb97GXnH8ZlWNYNkcq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 2:04 | 2024-12-14 | 2025-07-25 |
 | [D1FFERENT](https://open.spotify.com/track/3smXPUJkQdHnodtGjGA5DC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:46 | 2025-01-19 | 2025-03-28 |
 | [D1FFERENT \(INTRO\)](https://open.spotify.com/track/43pus1gZHRnJ73PvkX2orL) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 2:46 | 2024-12-14 | 2025-08-03 |
@@ -41,6 +42,7 @@
 | [Daggers](https://open.spotify.com/track/2eqtvTWMQ6W091bV7wGa3I) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:30 | 2025-06-13 | 2025-07-01 |
 | [Darkness \(Xaiyne's Interlude\) \- 2021 Version](https://open.spotify.com/track/6cLOt6zFnx40frQxekiDE8) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 1:17 | 2024-12-14 |  |
 | [Display](https://open.spotify.com/track/11AI9ADONUaBJRxDA9ZSfG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:54 | 2024-12-14 | 2025-07-26 |
+| [Display](https://open.spotify.com/track/1NAWJSbwUJ8jWGRN5djmbf) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 2:54 | 2025-08-04 |  |
 | [Display](https://open.spotify.com/track/3228LLy15Bq366gN7a47hx) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [POP!: HALCYON PT\. III](https://open.spotify.com/album/4tSUFyOFdccu73OdTCu9Q8) | 2:54 | 2025-01-23 | 2025-03-31 |
 | [DON'TTALKTOME](https://open.spotify.com/track/1YT0JOxLvBmlwoem61kQoO) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 2:39 | 2025-06-22 |  |
 | [DON'TTALKTOME](https://open.spotify.com/track/5qUA3CrkLtlYqrHuhutanQ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 2:39 | 2024-12-14 | 2025-06-22 |
@@ -81,7 +83,7 @@
 | [little constellation!](https://open.spotify.com/track/3EC29mW4jbBd5NJfHafrDO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 3:37 | 2025-07-11 |  |
 | [Memory of a Different World \- 2021 Version](https://open.spotify.com/track/6YRMabYzzHeU3OBPjLbjrD) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:10 | 2024-12-14 | 2025-06-17 |
 | [Miscommunication](https://open.spotify.com/track/5O1QstjYywxQAA23hbkQ6p) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [GARAGE MEMORY: HALCYON PT\. II](https://open.spotify.com/album/7GuKGRqJFUiLCKREzcq9av) | 3:03 | 2024-12-14 | 2025-06-14 |
-| [Miscommunication](https://open.spotify.com/track/6mTBmNwwvxDcimL8cplj6N) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:03 | 2025-06-25 |  |
+| [Miscommunication](https://open.spotify.com/track/6mTBmNwwvxDcimL8cplj6N) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:03 | 2025-06-25 | 2025-08-04 |
 | [Need to know \(interlude\)](https://open.spotify.com/track/4pQghLNZWaZGGRYjd9z0Fq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Tell me!! with Need to know \(interlude\)](https://open.spotify.com/album/6sNO1w7Zpng9whJLeSiHQs) | 2:17 | 2024-12-14 | 2025-07-05 |
 | [nine forty\-five](https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:00 | 2025-06-13 |  |
 | [nine forty\-five](https://open.spotify.com/track/2QgWTuCGjygT6O6EpTBqqu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:00 | 2024-12-14 | 2025-06-13 |

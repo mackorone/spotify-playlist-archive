@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-294 songs - 15 hr 13 min
+295 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Eventide](https://open.spotify.com/track/7v2yfaJ1RcMIW6zI2bjJW3) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/0bXWZEmeWEIVGQZ420Jn8R) | 4:31 | 2021-12-09 | 2022-07-29 |
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2021-12-09 | 2023-10-06 |
 | [Faded Years](https://open.spotify.com/track/6gZexfxBmAqMiQ4KJOxHvD) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Faded Years](https://open.spotify.com/album/1mpt0f45e3ln9qazTfubfz) | 2:50 | 2025-03-05 |  |
-| [Fading Flower](https://open.spotify.com/track/6Le5BN8jcZCjbgWnJ8eieA) | [Peaceful Island](https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh) | [Fading Flower](https://open.spotify.com/album/2ujwedv4Md5KK7jsADjRnq) | 2:22 | 2025-01-28 |  |
+| [Fading Flower](https://open.spotify.com/track/6Le5BN8jcZCjbgWnJ8eieA) | [Peaceful Island](https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh) | [Fading Flower](https://open.spotify.com/album/2ujwedv4Md5KK7jsADjRnq) | 2:22 | 2025-01-28 | 2025-08-04 |
 | [Falling Blue Stars](https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Falling Blue Stars](https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js) | 2:48 | 2024-02-22 | 2025-01-29 |
 | [Find Yourself](https://open.spotify.com/track/3fgK7TjDhlM6OAFuW42qcc) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Find Yourself](https://open.spotify.com/album/1uVLrM0oI8LND76sd9OuKC) | 2:28 | 2021-12-09 | 2024-05-09 |
 | [First Day](https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt) | [Ljomo](https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt) | [Beautiful Morning](https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0) | 4:12 | 2021-12-09 | 2025-03-06 |
@@ -234,6 +234,7 @@
 | [Sighflow](https://open.spotify.com/track/4SMiHZ1GLqQn20ANwYDbZm) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Sighflow](https://open.spotify.com/album/1avfK96H7mThKNJaFTfD9L) | 3:50 | 2025-04-01 |  |
 | [Sketches](https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Sketches](https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN) | 2:52 | 2024-09-19 | 2025-04-19 |
 | [Sleeping Journey](https://open.spotify.com/track/4DpAoSHyiWV5m3cUKTcvjN) | [Wherewithal](https://open.spotify.com/artist/4nPbqrPiwJp1Zlrfvw2XIM) | [Sleeping Journey](https://open.spotify.com/album/3bWi4zMrLtceOUcubv6p01) | 2:29 | 2025-06-03 |  |
+| [Sleepy](https://open.spotify.com/track/149Xy5MvcQDcjojG58dks2) | [Monte Noni](https://open.spotify.com/artist/2oW39zDNFaP2hovSH575f1) | [Sleepy](https://open.spotify.com/album/4wj0Nn9K2EsQaqkDvk5054) | 2:58 | 2025-07-09 |  |
 | [Soft Red Bunk](https://open.spotify.com/track/2MAS4wdXkuqRmIkMmzZaQB) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Soft Red Bunk](https://open.spotify.com/album/2sNghMXOciUYE1gvsOaIli) | 3:06 | 2025-01-14 | 2025-01-29 |
 | [Softly](https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Softly](https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin) | 2:25 | 2021-12-09 | 2025-01-29 |
 | [Solaris](https://open.spotify.com/track/6RiFmLjeXzsi3ivJmwalQk) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Solaris](https://open.spotify.com/album/12dUsxCb14lYdk35EH9lZY) | 2:48 | 2025-03-05 |  |

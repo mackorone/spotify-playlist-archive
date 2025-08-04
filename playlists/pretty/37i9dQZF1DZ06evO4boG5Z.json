@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 29328,
+  "num_followers": 29331,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAAAHwSy+KH2z1y4v4asSbKO6",
+  "snapshot_id": "aI1VAAAAAADXIoTVvIl9jfz6BAd58Oht",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 181113,
-      "name": "Reach You",
-      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 220973,
       "name": "Diznee Time",
       "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 219504,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 219504,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 166093,
-      "name": "For Yesterday",
-      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
+      "duration_ms": 181113,
+      "name": "Reach You",
+      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
     },
     {
       "added_at": null,
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 187276,
-      "name": "Sour Days",
-      "url": "https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0"
+      "duration_ms": 166093,
+      "name": "For Yesterday",
+      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
     },
     {
       "added_at": null,
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 168808,
-      "name": "Yanny & Laurel",
-      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+      "duration_ms": 187276,
+      "name": "Sour Days",
+      "url": "https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 112733,
       "name": "Fazil's Friend",
       "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 168808,
+      "name": "Yanny & Laurel",
+      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
     }
   ],
   "unique_name": "This Is Millencolin",

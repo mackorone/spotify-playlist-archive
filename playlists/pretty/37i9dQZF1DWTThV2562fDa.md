@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 
 > There's no stopping the game\. Listen to the music from Squid Game, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,645 likes - 78 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,924 likes - 78 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 | 77 | [Uh…](https://open.spotify.com/track/5PxNCkwhzYFN3Cwh4eBfS5) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:38 |
 | 78 | [Owe](https://open.spotify.com/track/2K8hDDpjySDFb9yA8tuNce) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:26 |
 
-Snapshot ID: `aF5dnAAAAADpb8wGU8jmRBZz7WRLLUcW`
+Snapshot ID: `AAAAAPV8Pbgj1T5Vgrb/AtnAoQNK4GQE`

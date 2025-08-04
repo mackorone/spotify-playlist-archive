@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,089 likes - 85 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,141 likes - 85 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 29 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
 | 30 | [World Best](https://open.spotify.com/track/3r1xguZdjdgl8W0LO4ZtBF) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [World Best](https://open.spotify.com/album/2frIDgjKHf4bkkPo19wQ6Y) | 2:17 |
 | 31 | [Born Winner](https://open.spotify.com/track/5AlqRvqPdsn3KYnDwcgZMI) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:49 |
-| 32 | [Winner](https://open.spotify.com/track/547GwDxeORsW7GVuZEvEHo) | [Dannyboi HNR](https://open.spotify.com/artist/2hPw3tGniuMH8KWAnbETYg), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Winner](https://open.spotify.com/album/2cOin1UcbqiNtTePFciIUH) | 2:36 |
+| 32 | [WINNER](https://open.spotify.com/track/547GwDxeORsW7GVuZEvEHo) | [Dannyboi HNR](https://open.spotify.com/artist/2hPw3tGniuMH8KWAnbETYg), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [WINNER](https://open.spotify.com/album/2cOin1UcbqiNtTePFciIUH) | 2:36 |
 | 33 | [Glory II \(with Fridayy\)](https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Glory II \(with Fridayy\)](https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f) | 2:55 |
 | 34 | [Champagne Boi](https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Menace to Society](https://open.spotify.com/album/4vsKGGUiavlDYGsJzggawj) | 2:49 |
 | 35 | [LEGOLAS](https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 84 | [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 |
 | 85 | [Pressure, Pt.2](https://open.spotify.com/track/57i2zCUPJCGaLwH2cPsimu) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Reehaa](https://open.spotify.com/artist/3uEftX1neotPP4BkfvFJHC) | [Pressure, Pt.2](https://open.spotify.com/album/7JGxxRfF3lQVfP8nrpkUUC) | 2:44 |
 
-Snapshot ID: `AAAAAOOBjRXrN8CwFIlb+wELXOEskB0Z`
+Snapshot ID: `aIwD5AAAAADlS6S0iIkRLRPCL/7npNrX`

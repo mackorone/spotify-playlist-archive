@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 333050,
+  "num_followers": 333141,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAADhGxUpR6zRsyoEHdZ8H2P/",
+  "snapshot_id": "aI1VAAAAAABezWo+kG3+HE0D52fQvj1O",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 \u00c9xitos Con El Inolvidable",
-        "url": "https://open.spotify.com/album/6AJUpJae80XvlVI2Mrrlsb"
+        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
+        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
       },
       "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        },
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 213507,
-      "name": "Nieves De Enero (A Dueto Con Chalino S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5"
+      "duration_ms": 161373,
+      "name": "El Branco Fajiado",
+      "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
     },
     {
       "added_at": null,
@@ -815,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
-        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+        "name": "30 \u00c9xitos Con El Inolvidable",
+        "url": "https://open.spotify.com/album/6AJUpJae80XvlVI2Mrrlsb"
       },
       "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        },
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 161373,
-      "name": "El Branco Fajiado",
-      "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
+      "duration_ms": 213507,
+      "name": "Nieves De Enero (A Dueto Con Chalino S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5"
     },
     {
       "added_at": null,

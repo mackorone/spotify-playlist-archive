@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39615,
+  "num_followers": 39622,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAACND6oMF2VgFcgvPyHhOzjt",
+  "snapshot_id": "aI1VAAAAAADwPDI8eTT/S6yQj7Dw3OuK",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 107353,
+      "name": "Move Like Me",
+      "url": "https://open.spotify.com/track/6dCdOzsea9tGh7a14jl3wL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lundi M\u00e9chant",
         "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 231213,
       "name": "Only Way Is Up",
       "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 169166,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
     },
     {
       "added_at": null,
@@ -599,6 +599,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 169166,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 181122,
+      "name": "Lover (\u014dlow\u00f3 \u014dr\u00ed mi)",
+      "url": "https://open.spotify.com/track/3LjnZRA4lyQ9JtTbkWT3dX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yonder: Book II",
         "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
       },
@@ -611,22 +643,6 @@
       "duration_ms": 130658,
       "name": "All Aboard",
       "url": "https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -651,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 199442,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/7DPtl7u2BjY3osM13SBkJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monster 2.0",
         "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
       },
@@ -667,22 +715,6 @@
       "duration_ms": 217440,
       "name": "Monster 2.0",
       "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder",
-        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 181122,
-      "name": "Lover (\u014dlow\u00f3 \u014dr\u00ed mi)",
-      "url": "https://open.spotify.com/track/3LjnZRA4lyQ9JtTbkWT3dX"
     },
     {
       "added_at": null,
@@ -723,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0T2Echuro2d0KUJdbkRNFa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -735,22 +783,6 @@
       "duration_ms": 276605,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder",
-        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 199442,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/7DPtl7u2BjY3osM13SBkJQ"
     },
     {
       "added_at": null,
@@ -787,22 +819,6 @@
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder: Book II",
-        "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 107353,
-      "name": "Move Like Me",
-      "url": "https://open.spotify.com/track/3Mm5uaqwKgZmevUVEBiytY"
     },
     {
       "added_at": null,
@@ -855,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder: Book II",
-        "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
+        "name": "Yonder: Book III",
+        "url": "https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa"
       },
       "artists": [
         {
@@ -864,9 +880,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 204778,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6Yk2g7SHvLwpPHhLtqEveo"
+      "duration_ms": 220730,
+      "name": "Gone Are The Days",
+      "url": "https://open.spotify.com/track/4k9JBFcMjr9utazVPxSySi"
     },
     {
       "added_at": null,
@@ -883,22 +899,6 @@
       "duration_ms": 177400,
       "name": "You Like It I Love It",
       "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder: Book III",
-        "url": "https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 220730,
-      "name": "Gone Are The Days",
-      "url": "https://open.spotify.com/track/4k9JBFcMjr9utazVPxSySi"
     }
   ],
   "unique_name": "This Is Jacob Banks",

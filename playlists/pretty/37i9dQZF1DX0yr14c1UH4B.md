@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > Songwriters and storytellers 📚 Cover: Pedro Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,110 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,123 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 |
 | 100 | [Losing My Mind](https://open.spotify.com/track/5YxMvYBYtj9QFzuV994qF2) | [Joe Devlin](https://open.spotify.com/artist/6zvaBH9XesIrlYqkC4w6ze) | [Losing My Mind](https://open.spotify.com/album/2sZ7yK4FT8OWCucOhTT3X1) | 3:20 |
 
-Snapshot ID: `AAAAAHn3c3jnMb1puh5JBcbflj3d0rIx`
+Snapshot ID: `aIv1fgAAAAACeGJOV1eGfoHatiloVVBE`

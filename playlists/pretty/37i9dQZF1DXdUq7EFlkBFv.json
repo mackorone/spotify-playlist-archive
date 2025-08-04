@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 23800,
+  "num_followers": 23803,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "Love All (with JAY-Z)",
-      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 228461,
+      "name": "Love All (with JAY-Z)",
+      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -219,26 +219,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 166911,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -283,6 +263,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "No Friends In The Industry",
+      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "King Of Killbranch",
         "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
       },
@@ -303,18 +299,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 204346,
-      "name": "No Friends In The Industry",
-      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+      "duration_ms": 166911,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169401,
+      "name": "Dirty K",
+      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Steppers",
         "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 206720,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169401,
-      "name": "Dirty K",
-      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "My Shit",
-        "url": "https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2"
-      },
-      "artists": [
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 120189,
-      "name": "My Shit",
-      "url": "https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Senseless",
         "url": "https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 143857,
       "name": "Senseless",
       "url": "https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "My Shit",
+        "url": "https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 120189,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Harley Quinn",
+        "url": "https://open.spotify.com/album/6uW5KPszYl0JVmM0XXlWe4"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Harley Quinn",
+      "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Faith (Deluxe)",
         "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 228251,
       "name": "30 (feat. Bizzy Banks)",
       "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Harley Quinn",
-        "url": "https://open.spotify.com/album/6uW5KPszYl0JVmM0XXlWe4"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Harley Quinn",
-      "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
     },
     {
       "added_at": "2022-10-01 16:17:17",

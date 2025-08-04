@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is the range of R&B in Canada\. Elevate your aura with Daniel Caesar from Scarborough, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,017 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,071 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 74 | [Bleeding Me Dry](https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry](https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi) | 3:27 |
 | 75 | [TiMiD](https://open.spotify.com/track/7nEvsMCIbHQELsoGyCK4DJ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 3:07 |
 
-Snapshot ID: `AAAAAMTl1r3voXOqE6DAOK0Yihca+afD`
+Snapshot ID: `aIw72QAAAAD9tQ1LCympGiIzRmftKQHP`

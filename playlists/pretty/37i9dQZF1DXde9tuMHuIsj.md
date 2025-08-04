@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Natanael Cano & Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,075 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,068 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 |
 | 100 | [GAZZ PRBO \(Remix\)](https://open.spotify.com/track/73MyN4YVh4D0OHtn6u1pAz) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Sjoy on the beat](https://open.spotify.com/artist/2JpD7COyH3RDoFJ1vneHOw) | [GAZZ PRBO \(Remix\)](https://open.spotify.com/album/0PBoTx4R8SwNedp9p1lTlA) | 3:50 |
 
-Snapshot ID: `AAAAAIAyxzT0Hyul0mXOwZsdi740bEm7`
+Snapshot ID: `aIw77AAAAAAwGhxGrFEznkvKU1pjDbgr`

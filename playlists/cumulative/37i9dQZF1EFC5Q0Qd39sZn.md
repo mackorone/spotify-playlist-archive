@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-654 songs - 1 day 21 hr 15 min
+655 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,8 +241,9 @@
 | [I Turn to You](https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 4:33 | 2023-12-30 |  |
 | [I Wanna Be The Rain](https://open.spotify.com/track/7wJ7sAORSN759zEj9WFRZf) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebels](https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA) | 4:09 | 2023-12-30 |  |
 | [I Wanna Get Back With You](https://open.spotify.com/track/1nvVkERyrtBdV8mDj1bcdU) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [The Lead And How To Swing It](https://open.spotify.com/album/45QU97Z1TooErTjggqMadG) | 5:00 | 2023-12-30 |  |
+| [I Wanna Move to the Beat of Your Heart](https://open.spotify.com/track/06r5dGhWz6OLnN6RK8yCqN) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Crazy For You](https://open.spotify.com/album/7Li13BFe1tmMKJYgh295cq) | 4:26 | 2025-08-03 |  |
 | [I Wanna Move to the Beat of Your Heart](https://open.spotify.com/track/2dAYPYGmXpSPlIdI36Dwxl) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Crazy For You](https://open.spotify.com/album/6HLfDFMz75zAb9C1NPEV2R) | 4:26 | 2024-07-10 | 2025-07-31 |
-| [I Wanna Move to the Beat of Your Heart](https://open.spotify.com/track/6JWHZCGgPM5MvHGsnNZ8kF) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [30](https://open.spotify.com/album/7EdDnwrErn9Lpb3CdN7WUR) | 4:26 | 2025-07-30 |  |
+| [I Wanna Move to the Beat of Your Heart](https://open.spotify.com/track/6JWHZCGgPM5MvHGsnNZ8kF) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [30](https://open.spotify.com/album/7EdDnwrErn9Lpb3CdN7WUR) | 4:26 | 2025-07-30 | 2025-08-04 |
 | [I Wanna Touch U There](https://open.spotify.com/track/5pV8d2QFgPdXRCB6RZ3DuD) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Unbelievable](https://open.spotify.com/album/7uFLItUNd2vwdHonz7PdPg) | 3:24 | 2024-07-10 |  |
 | [I want it to be me](https://open.spotify.com/track/02AL6ZhgaPtegJ1ZsGUB1O) | [Kyle Grant](https://open.spotify.com/artist/0AQwmvhVn1UuoGOG5DOynX) | [When Dreams Go Out To Play](https://open.spotify.com/album/7fohMuB9oEyVTzjenU9xvY) | 3:53 | 2023-12-30 | 2024-07-11 |
 | [I Want Some Of That](https://open.spotify.com/track/66gBh757nMrkE6olNFRNR7) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Key To My Soul](https://open.spotify.com/album/375Syme7dvdaRZsqauSEbd) | 3:50 | 2023-12-30 |  |

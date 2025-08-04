@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 > BBQ \- Summer Barbeque grilling essentials for your backyard party\. Backyard BBQ, Cookout, Block Party, Summer BBQ, Barbeque Mix, BBQ Chill\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 118,541 likes - 214 songs - 14 hr 19 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 118,594 likes - 214 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

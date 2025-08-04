@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: HANRORO\)
 
-631 songs - 1 day 9 hr 27 min
+633 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Bye Flu](https://open.spotify.com/track/3uC2MJmj2dgZfVDOCpUU4y) | [KINIE.K](https://open.spotify.com/artist/1zeg1qsG6bzkQMucU0eayP) | [Bye Flu](https://open.spotify.com/album/1epfxooiLP9lVzFMaQotOe) | 4:05 | 2021-12-30 | 2022-02-18 |
 | [C.A.Y.A! \(Prod & Feat\. SAAY\)](https://open.spotify.com/track/4vytdsmz9onRzW6vkkk7zG) | [Hayoung](https://open.spotify.com/artist/2ny3vi2UsKF10iKDTscdSV), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [C.A.Y.A! \(Prod & Feat\. SAAY\)](https://open.spotify.com/album/6mqjKk4nTyLyoaN7AGWfU5) | 3:04 | 2021-12-30 | 2022-01-07 |
 | [Call me](https://open.spotify.com/track/5vWxHje3VHomfrnuHnw424) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Call me](https://open.spotify.com/album/5mHmn4iGuzbi81R6SLqftE) | 3:55 | 2021-12-30 | 2023-01-12 |
+| [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-08-04 |  |
 | [Can I sleep next to you](https://open.spotify.com/track/36V5tCKEHlJHOATtUal5Xa) | [Faver](https://open.spotify.com/artist/4dKhpre3rrqk52jpFngYag) | [Can I sleep next to you](https://open.spotify.com/album/6qqBiGMNrSEj18NbDvhk2Z) | 3:36 | 2022-03-18 | 2022-05-27 |
 | [Can’t Be Happy](https://open.spotify.com/track/2XmehABLWyeBGu5Q9Nt5vN) | [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [Reality Check](https://open.spotify.com/album/1aWLDWVEHr87l5QuK1JUCA) | 2:46 | 2022-04-20 | 2022-07-05 |
 | [care4u](https://open.spotify.com/track/5FSTzoypjKQHjwBc21tNii) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [ITULT](https://open.spotify.com/album/6JnnOgTI2O8X2UOMI83TLK) | 2:31 | 2023-08-23 | 2023-10-30 |
@@ -214,6 +215,7 @@
 | [Good Girl](https://open.spotify.com/track/60g4aWGlvFq9riY0jrTdtZ) | [Candy Shop](https://open.spotify.com/artist/47bUCJh3LXBeQtrTnWEwXn) | [Hashtag\#](https://open.spotify.com/album/6QQIkAdIkRtvu8G2kzcyaB) | 2:38 | 2024-03-28 | 2024-06-05 |
 | [GOOD SO BAD](https://open.spotify.com/track/28HVi8XtrlKauIVUxSlc6q) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF) | 2:57 | 2024-09-11 | 2024-10-24 |
 | [goodbye](https://open.spotify.com/track/4Y6JIaZmRUYJ1SziKAmt5Z) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Brut](https://open.spotify.com/album/2JiPV8SXl4Rcvh4qOAacwy) | 3:25 | 2025-05-20 |  |
+| [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 | 2025-08-04 |  |
 | [GooGoo GaGa](https://open.spotify.com/track/2qZju0KIGsybfWzvHwhRXc) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm) | [Stunnin' 4 You](https://open.spotify.com/album/2tbeLYLLL1NUao38z46uZV) | 2:48 | 2025-03-27 | 2025-06-27 |
 | [GOT'YA](https://open.spotify.com/track/4aLsggi5JL0YD8AmaSENHU) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [GOT'YA](https://open.spotify.com/album/4phVHu6OqTgmLD9C14NAU3) | 3:18 | 2021-12-30 | 2022-01-07 |
 | [GRAVITY](https://open.spotify.com/track/1idY5rVWAM5JTTOfNP7Ipm) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [GRAVITY](https://open.spotify.com/album/1Rqrzkqe56mPHfdEbF3rXt) | 3:42 | 2023-01-31 | 2024-01-03 |
@@ -539,12 +541,12 @@
 | [TASTE \(feat\. Tabber\)](https://open.spotify.com/track/1RfpiN8GKqEES1EhbJpv3u) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [KCTAPE, Vol\. 2](https://open.spotify.com/album/2hFmjRT4DsRquVvV1oQZJ2) | 2:43 | 2024-08-02 | 2024-09-12 |
 | [TAXI](https://open.spotify.com/track/0LMqywHzZAAwSPWCfyfz9t) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [LOVE ALL](https://open.spotify.com/album/48XkMlSp71d4SzQsxiaij2) | 2:48 | 2023-08-23 | 2023-10-30 |
 | [text me](https://open.spotify.com/track/7Cu3roszCR6enOjFpN9f2U) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [text me](https://open.spotify.com/album/2o3ha2VKOY0gbP9IThu2TY) | 2:35 | 2024-03-21 | 2024-06-01 |
-| [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 | 2024-11-03 |  |
+| [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 | 2024-11-03 | 2025-08-04 |
 | [The Cult](https://open.spotify.com/track/4LBJJusvruhLfNgiQxSQBR) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [UNEDUCATED WORLD 2](https://open.spotify.com/album/4JSWvPh200me9rfjLdiyhZ) | 2:11 | 2024-05-30 | 2024-08-02 |
 | [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 | 2023-08-23 | 2023-10-30 |
 | [The flowers swayed](https://open.spotify.com/track/6DXI6JoLYLoN1aA4HRrRHv) | [MIMIIROSE](https://open.spotify.com/artist/3699Hh55qWXd0kWWMWRR2o) | [REEBON](https://open.spotify.com/album/5TYHjz6BY0ZVW8PODCdrhn) | 3:05 | 2024-09-11 | 2024-10-24 |
 | [The Good Days Boys](https://open.spotify.com/track/4pF4jl2H1m5UVlKT8rE7vE) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Playlist 1](https://open.spotify.com/album/5qQ6xIXc6aVePk5GcAV92Z) | 2:42 | 2021-12-30 | 2022-02-11 |
-| [The last stop of our pain](https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED) | 4:12 | 2025-06-10 |  |
+| [The last stop of our pain](https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED) | 4:12 | 2025-06-10 | 2025-08-04 |
 | [The last stop of our pain](https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC) | 4:12 | 2023-01-31 | 2023-05-02 |
 | [The Little Name](https://open.spotify.com/track/5tdzH8IkV62pyL1BHXrfmv) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [The Little Name](https://open.spotify.com/album/3k9ZdguidOV2AHDiFenjyI) | 3:09 | 2022-03-10 | 2023-01-12 |
 | [The Most](https://open.spotify.com/track/2zKE0UQw17joNPV8Miji2o) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [The Most](https://open.spotify.com/album/0MPZZIVL9G3pbDe0UBVOjI) | 3:14 | 2024-03-21 | 2024-06-01 |

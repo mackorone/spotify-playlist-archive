@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 
 > Relaxing choral and instrumental classical music from the Renaissance era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,493 likes - 77 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,548 likes - 77 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 | 76 | [Requiem: Kyrie](https://open.spotify.com/track/0ccnwSwBtYMgiszKl9GaIT) | [Johannes Ockeghem](https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO), [Musica Ficta](https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau), [Bo Holten](https://open.spotify.com/artist/4f32MH6GiPxxIsYeDl16kL) | [Ockeghem: Requiem / Missa Prolationum](https://open.spotify.com/album/5NWHSSarpJNIQResWG7FMn) | 4:33 |
 | 77 | [The King of Denmarks Delight](https://open.spotify.com/track/2PosJTq6obVASb20uOSmgC) | [Tobias Hume](https://open.spotify.com/artist/1z5IeyRbd7iLgu1fpxFRLe), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Hume: Poeticall Musicke](https://open.spotify.com/album/1X1HfR9db93Nr2gOBAX2Hn) | 2:31 |
 
-Snapshot ID: `AAAAABeDCuhiv8Ck+l61FvCNHKmLVz1k`
+Snapshot ID: `Z+bOhAAAAACoFR6hGchB9zG80nPgLOQZ`

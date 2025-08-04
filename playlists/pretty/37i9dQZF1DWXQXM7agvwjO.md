@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: IV Of Spades  \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,783 likes - 108 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,796 likes - 108 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

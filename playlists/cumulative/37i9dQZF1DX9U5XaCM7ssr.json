@@ -588,7 +588,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 211483,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 261648,
       "name": "Cinta Takkan Usai",
       "url": "https://open.spotify.com/track/2znqSI4yjhozKqBuAPdKmx"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 203000,
       "name": "Dendam Malam Kelam",
       "url": "https://open.spotify.com/track/1QuZ7sthv9U9365BcKUMLE"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 278219,
       "name": "Jiwa Yang Bersedih",
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 233265,
       "name": "Kisah Penuh Kecewa",
       "url": "https://open.spotify.com/track/0GiI82kfAuTows8dlKdABu"
@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Malam Rawan",
+        "url": "https://open.spotify.com/album/6K3f48VhTPIz9wFO1iQFOH"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Malam Rawan",
+      "url": "https://open.spotify.com/track/6JBojdxAPtcPNfhFqmZEBt"
+    },
+    {
+      "album": {
         "name": "Nalar",
         "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
       },
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 294000,
       "name": "Mencintaimu - (From: 2nd Miracle in Cell No.7)",
       "url": "https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 209776,
       "name": "Menunggu Cinta",
       "url": "https://open.spotify.com/track/0ZSt7rN9ILFOL23axrgfAJ"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-28",
+      "date_removed": null,
       "duration_ms": 290751,
       "name": "Saat Kau Telah Mengerti",
       "url": "https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY"
@@ -3056,10 +3074,28 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 294031,
       "name": "Sesal",
       "url": "https://open.spotify.com/track/6i3uftr9aQf4u2R8szaD9y"
+    },
+    {
+      "album": {
+        "name": "Setangkai Bunga",
+        "url": "https://open.spotify.com/album/4ZVZ0mOtFY44cgPX6Baxtp"
+      },
+      "artists": [
+        {
+          "name": "Caffeine",
+          "url": "https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Setangkai Bunga",
+      "url": "https://open.spotify.com/track/3BuxK6MbHLEJ8YybhvJYrv"
     },
     {
       "album": {
@@ -4018,7 +4054,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 215591,
       "name": "Tutur Batin",
       "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"

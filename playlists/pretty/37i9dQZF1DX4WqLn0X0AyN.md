@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WqLn0X0AyN.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL?si=SyuRhRzGRsisgugnfbIUdQ">Dope Caesar</a>'s favorite tracks\. Updated regularly\. Curated by Dope Caesar\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,871 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,945 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WqLn0X0AyN.md) - [plain]
 | 69 | [Isaka \(6am\)](https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\)](https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY) | 5:49 |
 | 70 | [Commas](https://open.spotify.com/track/50ldJkl6cSXHaraPxQ9y18) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/4OFpcL7vnT8K9P7jfFLDG9) | 2:37 |
 
-Snapshot ID: `aFSWgwAAAADTys+fgrvgdE632vcDtJ+y`
+Snapshot ID: `aFSWgwAAAACGDWv90dcBllWQR+ExnxOW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,426 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,353 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 |
 | 75 | [Holding on to Us](https://open.spotify.com/track/7pgjXQqGqzUi0Wp3ySvhTc) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Holding on to Us](https://open.spotify.com/album/5SwqkXIOm7AbNgMxnB1FSh) | 3:24 |
 
-Snapshot ID: `aIw74wAAAAC9HnO+spAv+mRUSY1/8kN6`
+Snapshot ID: `aIw74wAAAABDATSZLIqdNfqxszi47WEJ`

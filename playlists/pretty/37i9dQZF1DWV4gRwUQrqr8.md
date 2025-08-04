@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4gRwUQrqr8.md) - [plain]
 
 > Enjoy the SEVENTEEN fan meeting LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 팬미팅 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,834 likes - 21 songs - 48 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 36,855 likes - 21 songs - 48 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4gRwUQrqr8.md) - [plain]
 | 20 | [Encore Ment \(Closing\)](https://open.spotify.com/track/1cS5b5ju4oLuEG1tYzg1dn) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8TH FANMEETING \[SEVENTEEN in CARAT LAND\] audio liners](https://open.spotify.com/album/6nTumTmTy58sux3gxsUeOA) | 0:53 |
 | 21 | [CALL CALL CALL!](https://open.spotify.com/track/6TWCOczft8rK1LiHfVPuRN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [WE MAKE YOU](https://open.spotify.com/album/21mnRCzvXqfiY0uRePOEav) | 3:19 |
 
-Snapshot ID: `ZrCUkAAAAADlHco4Pt0Wm5J028rCs30v`
+Snapshot ID: `AAAAAK/1I+ZzBRgteP8YmEgZQPC1ZWZ3`

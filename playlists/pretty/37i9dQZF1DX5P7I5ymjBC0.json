@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Kaushiki Chakraborty",
-  "num_followers": 80058,
+  "num_followers": 80074,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,26 @@
     {
       "added_at": "2025-07-25 06:24:01",
       "album": {
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
+      },
+      "artists": [
+        {
+          "name": "Humera Channa",
+          "url": "https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL"
+        },
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 352048,
+      "name": "Mujh Se Pehli Si Muhabbat",
+      "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
+    },
+    {
+      "added_at": "2025-07-25 06:24:01",
+      "album": {
         "name": "Bandish Bandits (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 158476,
       "name": "Garaj Garaj",
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
-    },
-    {
-      "added_at": "2025-07-25 06:24:01",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 3",
-        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
-      },
-      "artists": [
-        {
-          "name": "Humera Channa",
-          "url": "https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL"
-        },
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 352048,
-      "name": "Mujh Se Pehli Si Muhabbat",
-      "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
     },
     {
       "added_at": "2025-07-25 06:24:01",
@@ -603,30 +603,6 @@
     {
       "added_at": "2025-07-25 06:24:01",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Farid Hasan",
-          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
-        },
-        {
-          "name": "Mohammed Aman",
-          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
-        }
-      ],
-      "duration_ms": 330921,
-      "name": "Garaj Garaj Jugalbandi",
-      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
-    },
-    {
-      "added_at": "2025-07-25 06:24:01",
-      "album": {
         "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 175075,
       "name": "Ghar Aa Maahi",
       "url": "https://open.spotify.com/track/7b0n7IkWqpECubGjiPODqW"
+    },
+    {
+      "added_at": "2025-07-25 06:24:01",
+      "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Farid Hasan",
+          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
+        },
+        {
+          "name": "Mohammed Aman",
+          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
+        }
+      ],
+      "duration_ms": 330921,
+      "name": "Garaj Garaj Jugalbandi",
+      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
     },
     {
       "added_at": "2025-07-25 06:24:01",
@@ -1007,26 +1007,18 @@
     {
       "added_at": "2025-07-25 06:24:01",
       "album": {
-        "name": "Labon Se Baat - The Ghazal",
-        "url": "https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms"
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
       },
       "artists": [
         {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
         }
       ],
-      "duration_ms": 311371,
-      "name": "Labon Se Baat - The Ghazal",
-      "url": "https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M"
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
     }
   ],
   "unique_name": "Fusion Finds",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,168 likes - 102 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,459 likes - 102 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 101 | [Quiet Arrival \(Alpha Binaural 116 Hz \- 124 Hz\)](https://open.spotify.com/track/4ZnNZmV9HbPMYdRaDVxvnE) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Arrival \(Alpha Binaural 116 Hz \- 124 Hz\)](https://open.spotify.com/album/6IPwSmMVscFzZibe8FsjdS) | 3:50 |
 | 102 | [Binaural Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/7aYJz2VkCYykD2VnRM83A9) | [Light Vibrations](https://open.spotify.com/artist/7HGnugtCkahzbqB9tTOUZP) | [Focused Mind](https://open.spotify.com/album/3f1LpLV6ybqLYGNvwwEowt) | 3:43 |
 
-Snapshot ID: `AAAAAO7JllMzo/IghkI6mBXCY/esx4R9`
+Snapshot ID: `aIIaFQAAAABSMd4/GtYYKzM/JD6FeUPb`

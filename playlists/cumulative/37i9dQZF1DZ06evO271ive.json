@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "All She Do Is Shake",
+        "url": "https://open.spotify.com/album/2kFbyhA5QPeK5qGlWADpk9"
+      },
+      "artists": [
+        {
+          "name": "J Traxx",
+          "url": "https://open.spotify.com/artist/3U2KtlMuUKLd0RTIXU3051"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118549,
+      "name": "All She Do Is Shake",
+      "url": "https://open.spotify.com/track/0iFEoMhWXzSHV28372OosY"
+    },
+    {
+      "album": {
         "name": "All White Air Forces",
         "url": "https://open.spotify.com/album/3YRpkdq38v1Dm8wSg0t0jx"
       },
@@ -1714,7 +1736,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 164002,
       "name": "Sexyy Love Money (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"

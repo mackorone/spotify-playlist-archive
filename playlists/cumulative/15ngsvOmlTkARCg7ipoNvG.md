@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,995 songs - 1 day 16 hr 22 min
+1,996 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -989,6 +989,7 @@
 | [Lightly Ringing](https://open.spotify.com/track/4AlyP6alVNMgb5T8JUnPYr) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:02 | 2022-03-18 |  |
 | [Lightness](https://open.spotify.com/track/7GfOZxJAxQyQkBzLnrTCk1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Lightness](https://open.spotify.com/album/3Sp4cmR9KA2hu8RVWwXIlk) | 1:00 | 2024-02-12 |  |
 | [Lightness Appears](https://open.spotify.com/track/5NloHLffvoZluBiGgy6xiq) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:02 | 2022-05-15 | 2025-03-03 |
+| [Lillies \- Cello Version](https://open.spotify.com/track/0gYt2nFKvMs56osdr289Zg) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Lillies](https://open.spotify.com/album/212SGbcq9wMecb93w4M1dN) | 1:00 | 2025-08-03 |  |
 | [Linger](https://open.spotify.com/track/3RRftMRYVExyFko5930wQ9) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Linger](https://open.spotify.com/album/6IfJcGOBSBqCYISe3uSGeC) | 1:00 | 2024-02-18 |  |
 | [Little Adventures Arr\. For Cello And Piano](https://open.spotify.com/track/6F3MRLVJ0XNSPIIVshThOd) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Little Adventures Arr\. For Cello And Piano](https://open.spotify.com/album/7CpmYNfe9eEmOf7m18a9ft) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Little Adventures Arr\. For Felt Piano](https://open.spotify.com/track/0SZPRSfniO3M9jWiS2q0kQ) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Felt Piano Lullabies](https://open.spotify.com/album/32PpJ7q4DdWKYEiy0EtRLw) | 1:00 | 2023-07-06 | 2024-01-30 |

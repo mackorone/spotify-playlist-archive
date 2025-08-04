@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,211 songs - 12 day 3 hr 32 min
+5,213 songs - 12 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,6 +1001,7 @@
 | [Crazy For You](https://open.spotify.com/track/3lKhpAaPMZr2y2xdIikNkY) | [Rhys Crowther](https://open.spotify.com/artist/6EYAzP6JkvptxvZK27rXaX), [George Daniell](https://open.spotify.com/artist/0jfcE60MKLLYiabOqDwYYe) | [Crazy For You](https://open.spotify.com/album/0TZH9myroMNAdfAtqhhoWV) | 3:55 | 2025-02-14 | 2025-03-02 |
 | [Crazy Love](https://open.spotify.com/track/2CbjkBhFxJtrgEwuvxAn0K) | [Olivia Rox](https://open.spotify.com/artist/5CFBvt5T4o48iAy8mstupj) | [Poprox](https://open.spotify.com/album/2FrDY10uqXiKeXoXs1WMLZ) | 3:06 | 2021-07-04 | 2021-07-18 |
 | [Crazy Love](https://open.spotify.com/track/7s0J3t5tGWNyymVE0VdKBa) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Rita Wilson Now & Forever: Duets](https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0) | 2:58 | 2023-12-29 | 2024-03-08 |
+| [Creature](https://open.spotify.com/track/5WBmqnu38FEBNOJFfjEY59) | [Lynndigo](https://open.spotify.com/artist/1AFlJFCgGkFiqjZBtRuZvY) | [Creature](https://open.spotify.com/album/1MNIx1u2iw1RP1cgTi04cn) | 3:28 | 2025-08-03 |  |
 | [Creepin](https://open.spotify.com/track/22OW3x0sdFyrKCU6Jfepmi) | [Lorenzo Jesse](https://open.spotify.com/artist/3YqvdftoxX7PXMc16wxviW) | [Creepin](https://open.spotify.com/album/4MaToaCjfSUo1RJD1oHoFb) | 4:00 | 2023-01-13 | 2023-03-08 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-12-01 | 2023-12-30 |
 | [Crimson Heartbreak](https://open.spotify.com/track/4FF7hewXwMhNcnBBPaUuye) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Crimson Heartbreak](https://open.spotify.com/album/13EEwFR8zNxVhM0CtLw1Lc) | 3:32 | 2023-06-03 | 2023-06-23 |
@@ -4651,6 +4652,7 @@
 | [Tornadoes](https://open.spotify.com/track/420Sz4QC6l1OMBKmGkC2T0) | [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4), [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS) | [Tornadoes](https://open.spotify.com/album/7EUwerl3CzsBDJH4QDJkTv) | 2:44 | 2024-08-31 | 2024-09-12 |
 | [Touch](https://open.spotify.com/track/1KRrPwF725EsTOnz942sSy) | [Hunter Callahan](https://open.spotify.com/artist/27dv19EXicRtTPYK3m2yJ1) | [Touch](https://open.spotify.com/album/4mZb8W1Pq6pBNvj9J17Qd6) | 4:19 | 2025-01-10 | 2025-01-29 |
 | [Touch](https://open.spotify.com/track/144jp69RS0ruKdGsgXt72m) | [Mackenzie Testa](https://open.spotify.com/artist/7bOopsDTi1ZiMKWvDvoR0S) | [Touch](https://open.spotify.com/album/30qHkbTjyVZMbdTfIoOkWc) | 2:22 | 2024-07-29 | 2024-08-09 |
+| [touch grass](https://open.spotify.com/track/4cJXxjOBOD77WggaFdjdll) | [SIAS](https://open.spotify.com/artist/6krsiTtc4T9aJEkwT3lyP5) | [touch grass](https://open.spotify.com/album/2kkC1J52EQkyQdYNStddBk) | 2:36 | 2025-08-03 |  |
 | [Touch My Light](https://open.spotify.com/track/0iUdZc9LHtkIwLjStiG6Le) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH), [Rasun](https://open.spotify.com/artist/6TixlZqHODGFxVoQUb5ywl), [Quino](https://open.spotify.com/artist/1ICz54Sf17zOD8Lp9iYaZS) | [Touch My Light](https://open.spotify.com/album/4M4R7fngEDtcfV3F2y8OlB) | 4:16 | 2021-03-16 | 2021-03-29 |
 | [Towa](https://open.spotify.com/track/5c7Zx5YZKOSKtnb9ZIS2Ki) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Towa](https://open.spotify.com/album/1vIMJdQKb9z3ISdzYN9A8d) | 2:41 | 2025-05-30 | 2025-06-14 |
 | [Towards The Sun](https://open.spotify.com/track/0EYLmjuvCUburrwbmvsPiv) | [Mörk](https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs), [Dom Beats](https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet) | [Towards The Sun](https://open.spotify.com/album/2AW11RN2db3eNmK6tIGSVv) | 4:20 | 2024-02-23 | 2024-03-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Latrelle, 22simba, Sad e KIID, Abby 6ix e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,065 likes - 121 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,072 likes - 121 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

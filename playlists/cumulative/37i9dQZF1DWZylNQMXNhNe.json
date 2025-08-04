@@ -1099,6 +1099,42 @@
     },
     {
       "album": {
+        "name": "Chit\u00e3ozinho e Xoror\u00f3",
+        "url": "https://open.spotify.com/album/1TDbFtdiwxayPh9gFctxTO"
+      },
+      "artists": [
+        {
+          "name": "Gabeu",
+          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172013,
+      "name": "Chit\u00e3ozinho e Xoror\u00f3",
+      "url": "https://open.spotify.com/track/2uU1zHbv6zDoMUfWJTKmkw"
+    },
+    {
+      "album": {
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+    },
+    {
+      "album": {
         "name": "Colo da Tropa",
         "url": "https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE"
       },
@@ -2630,7 +2666,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 2184503,
       "name": "O KIKIKI da Jaloo e da Boombeat",
       "url": "https://open.spotify.com/episode/0gjga2PfWTFV60ihqyK0eQ"
@@ -2648,7 +2684,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 2280104,
       "name": "O KIKIKI do Winnit e do Rico Dalasam",
       "url": "https://open.spotify.com/episode/2VTgQH2IvGxgnmYOc2NMex"

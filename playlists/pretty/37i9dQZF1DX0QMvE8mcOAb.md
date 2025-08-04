@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QMvE8mcOAb.md) - [plain]
 
 > lo\-fi bedroom jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,879 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,877 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QMvE8mcOAb.md) - [plain]
 | 69 | [Take Me Down](https://open.spotify.com/track/0bMYQjhqOV3CoqE7OcRIBv) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [A Little Disaster](https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5) | 4:03 |
 | 70 | [Calzone](https://open.spotify.com/track/0DUA7raHclGvKdohiEZQVV) | [Aaron Joseph Russo](https://open.spotify.com/artist/5TYkSC09ELxgz8OEgLRzOU) | [Calzone](https://open.spotify.com/album/0KBu1ISnQH9GHP5U6EyZBe) | 3:46 |
 
-Snapshot ID: `AAAAAIuNgnR2mkQRCJViwMh857fgQn+H`
+Snapshot ID: `ZV79ZwAAAACGjOd3cXgPrgde1v7L47iU`

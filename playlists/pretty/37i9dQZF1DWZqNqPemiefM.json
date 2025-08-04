@@ -1,6 +1,6 @@
 {
   "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 77833,
+  "num_followers": 77830,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,22 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "RITUAL (nothing is lost)",
-        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
+        "name": "Bewitched (Rework)",
+        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 195044,
-      "name": "RITUAL (nothing is lost)",
-      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
+      "duration_ms": 262876,
+      "name": "Bewitched - Rework",
+      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -227,22 +231,18 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "Bewitched (Rework)",
-        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
+        "name": "RITUAL (nothing is lost)",
+        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 262876,
-      "name": "Bewitched - Rework",
-      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
+      "duration_ms": 195044,
+      "name": "RITUAL (nothing is lost)",
+      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
+        "name": "Garden Studies",
+        "url": "https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId"
+      },
+      "artists": [
+        {
+          "name": "Ami Kusakari",
+          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Under the soil",
+      "url": "https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
         "name": "Pareidolia",
         "url": "https://open.spotify.com/album/1u48edhS0RZ8wiJElNY1hv"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 195654,
       "name": "Pareidolia - Single Edit",
       "url": "https://open.spotify.com/track/21GUB2nIKPpJgzJr4Sitgu"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
-        "name": "Garden Studies",
-        "url": "https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId"
-      },
-      "artists": [
-        {
-          "name": "Ami Kusakari",
-          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Under the soil",
-      "url": "https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "shade",
-        "url": "https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc"
-      },
-      "artists": [
-        {
-          "name": "Masafumi Teruyama",
-          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
-        }
-      ],
-      "duration_ms": 113213,
-      "name": "shade",
-      "url": "https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
         "name": "Once Was Ours Forever",
         "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 282000,
       "name": "Bright Belief",
       "url": "https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
+        "name": "shade",
+        "url": "https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Teruyama",
+          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+        }
+      ],
+      "duration_ms": 113213,
+      "name": "shade",
+      "url": "https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
+        "name": "Introspection (Edit)",
+        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 155411,
+      "name": "Introspection - Edit",
+      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
         "name": "Virga (feat. Darlingside)",
         "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 382867,
       "name": "Virga (feat. Darlingside)",
       "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
-        "name": "Introspection (Edit)",
-        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
-      },
-      "artists": [
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        }
-      ],
-      "duration_ms": 155411,
-      "name": "Introspection - Edit",
-      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "The Luckiest Man in America OST",
-        "url": "https://open.spotify.com/album/7eYBaTNMubQ8TWG0P2ZRm6"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Sewing a Button",
-      "url": "https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 325185,
       "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
+        "name": "The Luckiest Man in America OST",
+        "url": "https://open.spotify.com/album/7eYBaTNMubQ8TWG0P2ZRm6"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Sewing a Button",
+      "url": "https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 197923,
       "name": "\u79e9\u7236",
       "url": "https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "Recommence (I/VII)",
-        "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
-      },
-      "artists": [
-        {
-          "name": "Hayes Bradley",
-          "url": "https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak"
-        }
-      ],
-      "duration_ms": 142535,
-      "name": "What A Life (I)",
-      "url": "https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
         "name": "stem/curve",
         "url": "https://open.spotify.com/album/0LA0xleiV1U14SQRNgIV8l"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
+        "name": "Recommence (I/VII)",
+        "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
+      },
+      "artists": [
+        {
+          "name": "Hayes Bradley",
+          "url": "https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak"
+        }
+      ],
+      "duration_ms": 142535,
+      "name": "What A Life (I)",
+      "url": "https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
         "name": "spiral energy",
         "url": "https://open.spotify.com/album/727np887ncP1RuxuHNtLK8"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 177600,
       "name": "spiral energy",
       "url": "https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 362320,
-      "name": "Flora",
-      "url": "https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -1375,38 +1359,18 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "Pathos",
-        "url": "https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC"
       },
       "artists": [
         {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
-        },
-        {
-          "name": "RAN PARK",
-          "url": "https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 305872,
-      "name": "Pathos",
-      "url": "https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
-        "name": "Grey Interiors",
-        "url": "https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 1241448,
-      "name": "Grey Interiors",
-      "url": "https://open.spotify.com/track/2ofqsikXLUtWhsO9OsjSyr"
+      "duration_ms": 362320,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -1435,18 +1399,38 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "Miracle Music",
-        "url": "https://open.spotify.com/album/524yGbfZ02HPPVIqZInXxO"
+        "name": "The Totemist",
+        "url": "https://open.spotify.com/album/1WnP9EHin0bCWBFwQbJVbZ"
       },
       "artists": [
         {
-          "name": "Grails",
-          "url": "https://open.spotify.com/artist/3VdjlG06JkVAnZ19TR7ZHZ"
+          "name": "The Giver Of Illness",
+          "url": "https://open.spotify.com/artist/37YmX9qvLVI6m4zpgvtmch"
+        },
+        {
+          "name": "Ak'chamel",
+          "url": "https://open.spotify.com/artist/1Z5IieYbGZIqcn875Xy626"
         }
       ],
-      "duration_ms": 236786,
-      "name": "Harmonious Living",
-      "url": "https://open.spotify.com/track/4sUXw3kDhEPtIZt8zTGuDA"
+      "duration_ms": 461364,
+      "name": "The Funeral Of A Woman Whose Soul Is Trapped In The Sun",
+      "url": "https://open.spotify.com/track/1aQ6vO6CMwt2nlCSXONTxN"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
+        "name": "Grey Interiors",
+        "url": "https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 1241448,
+      "name": "Grey Interiors",
+      "url": "https://open.spotify.com/track/2ofqsikXLUtWhsO9OsjSyr"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -1467,22 +1451,38 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "The Totemist",
-        "url": "https://open.spotify.com/album/1WnP9EHin0bCWBFwQbJVbZ"
+        "name": "Pathos",
+        "url": "https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8"
       },
       "artists": [
         {
-          "name": "The Giver Of Illness",
-          "url": "https://open.spotify.com/artist/37YmX9qvLVI6m4zpgvtmch"
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
         },
         {
-          "name": "Ak'chamel",
-          "url": "https://open.spotify.com/artist/1Z5IieYbGZIqcn875Xy626"
+          "name": "RAN PARK",
+          "url": "https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK"
         }
       ],
-      "duration_ms": 461364,
-      "name": "The Funeral Of A Woman Whose Soul Is Trapped In The Sun",
-      "url": "https://open.spotify.com/track/1aQ6vO6CMwt2nlCSXONTxN"
+      "duration_ms": 305872,
+      "name": "Pathos",
+      "url": "https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
+        "name": "Miracle Music",
+        "url": "https://open.spotify.com/album/524yGbfZ02HPPVIqZInXxO"
+      },
+      "artists": [
+        {
+          "name": "Grails",
+          "url": "https://open.spotify.com/artist/3VdjlG06JkVAnZ19TR7ZHZ"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Harmonious Living",
+      "url": "https://open.spotify.com/track/4sUXw3kDhEPtIZt8zTGuDA"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "Neu Om",
-        "url": "https://open.spotify.com/album/1ZEnvSQvz6yEdrtMiKqYvO"
-      },
-      "artists": [
-        {
-          "name": "Amanda Mur",
-          "url": "https://open.spotify.com/artist/4EHUvmDJ3eLI7PhYyTe66f"
-        }
-      ],
-      "duration_ms": 273257,
-      "name": "Maithuna",
-      "url": "https://open.spotify.com/track/1B8nx9V9al92x816HiMTFC"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
         "name": "Drive My Car Original Soundtrack",
         "url": "https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 175625,
       "name": "Drive My Car (Cassette)",
       "url": "https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
+        "name": "Neu Om",
+        "url": "https://open.spotify.com/album/1ZEnvSQvz6yEdrtMiKqYvO"
+      },
+      "artists": [
+        {
+          "name": "Amanda Mur",
+          "url": "https://open.spotify.com/artist/4EHUvmDJ3eLI7PhYyTe66f"
+        }
+      ],
+      "duration_ms": 273257,
+      "name": "Maithuna",
+      "url": "https://open.spotify.com/track/1B8nx9V9al92x816HiMTFC"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "Esperance",
-        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Esperance",
-      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
         "name": "Que llueva ```",
         "url": "https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 268327,
       "name": "Que llueva ```",
       "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
+        "name": "Esperance",
+        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Esperance",
+      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
     },
     {
       "added_at": "2025-08-01 06:59:11",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-08-01 06:59:11",
       "album": {
-        "name": "Conceive the Sea",
-        "url": "https://open.spotify.com/album/01gkrRbIagn2PbpTRe5hD1"
-      },
-      "artists": [
-        {
-          "name": "marucoporoporo",
-          "url": "https://open.spotify.com/artist/0XkAhjSQrr02YRiKbKKIMk"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "From a Distance",
-      "url": "https://open.spotify.com/track/7g8a6a2UGRgsW2b083IKr4"
-    },
-    {
-      "added_at": "2025-08-01 06:59:11",
-      "album": {
         "name": "Music for Peace and Harmony",
         "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 275194,
       "name": "Billowing",
       "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
+    },
+    {
+      "added_at": "2025-08-01 06:59:11",
+      "album": {
+        "name": "Conceive the Sea",
+        "url": "https://open.spotify.com/album/01gkrRbIagn2PbpTRe5hD1"
+      },
+      "artists": [
+        {
+          "name": "marucoporoporo",
+          "url": "https://open.spotify.com/artist/0XkAhjSQrr02YRiKbKKIMk"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "From a Distance",
+      "url": "https://open.spotify.com/track/7g8a6a2UGRgsW2b083IKr4"
     }
   ],
   "unique_name": "Sora",

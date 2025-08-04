@@ -1,12 +1,12 @@
 {
   "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
-  "num_followers": 21556,
+  "num_followers": 21555,
   "original_name": "This Is Eir Aoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAABkMRwKdJP6ogM4ac7S6j8/",
+  "snapshot_id": "aI1VAAAAAABR3gRr2k+nVOH2nk9UTYAB",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 289346,
+      "name": "\u30a2\u30f4\u30a1\u30ed\u30f3\u30fb\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
         "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 236066,
       "name": "HaNaZaKaRi",
       "url": "https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLAU",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 289346,
-      "name": "\u30a2\u30f4\u30a1\u30ed\u30f3\u30fb\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
     },
     {
       "added_at": null,

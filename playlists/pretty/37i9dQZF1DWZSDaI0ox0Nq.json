@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 21058,
+  "num_followers": 21060,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
-      },
-      "artists": [
-        {
-          "name": "Carolina Winograd",
-          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Temas Pendientes",
-        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
       },
       "artists": [
         {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+          "name": "Carolina Winograd",
+          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
         }
       ],
-      "duration_ms": 165546,
-      "name": "Mu\u00f1eca Brava",
-      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
+      "duration_ms": 231373,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -739,6 +723,22 @@
       "duration_ms": 232930,
       "name": "Milonga del Desocupado",
       "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Temas Pendientes",
+        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Mu\u00f1eca Brava",
+      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
     },
     {
       "added_at": "2024-08-02 17:18:29",

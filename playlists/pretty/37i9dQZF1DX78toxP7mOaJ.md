@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: TTSSFU
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,097 likes - 120 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,129 likes - 120 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 119 | [Time](https://open.spotify.com/track/5V4qVStqE0NMxuQJPuqI60) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [Time](https://open.spotify.com/album/7FBf6jRk4YidWpfabv9bsz) | 2:38 |
 | 120 | [The Death Of Edwina Morrow](https://open.spotify.com/track/2SyzF0o3PPJ7ArEdrJDFyn) | [Max Madly](https://open.spotify.com/artist/6feiG5vBlLmBTU0cfJ16zv) | [The Death Of Edwina Morrow](https://open.spotify.com/album/4u9g3d6tioYC83A4jcUL1f) | 4:54 |
 
-Snapshot ID: `AAAAALdOkkTtvBqCymThY7P/HHS6IXRC`
+Snapshot ID: `aIEHEAAAAADqaRmQWFNqw0yZjUpb0kw9`

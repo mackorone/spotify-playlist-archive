@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,046 likes - 108 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,102 likes - 108 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 107 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 |
 | 108 | [Pyjamas feat\. Remi Wolf \(Chamos Remix\)](https://open.spotify.com/track/2pKYIlPZXCbhvxL4uUDIUb) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas feat\. Remi Wolf \(CHAMOS Remix\)](https://open.spotify.com/album/4JdXtGRZYOPNVUowcYnZDw) | 3:43 |
 
-Snapshot ID: `aHlyeQAAAACp+Xd6hkiRce5IhQeeNPw5`
+Snapshot ID: `AAAAALvEyFHBn1d5FvASxnnERUHAP9MW`

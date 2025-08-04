@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Buscabulla en portada.",
-  "num_followers": 39499,
+  "num_followers": 39506,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 214970,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Machete",
-        "url": "https://open.spotify.com/album/2elafEvK3yD3nWm29E5oVK"
+        "name": "Rompo y Tumbo",
+        "url": "https://open.spotify.com/album/17DDV6cMYnnz26zyF2szBE"
       },
       "artists": [
         {
-          "name": "Bejuco",
-          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "K.maleon",
+          "url": "https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3"
         }
       ],
-      "duration_ms": 219086,
-      "name": "F\u00e1tima",
-      "url": "https://open.spotify.com/track/4Q3K5GVBUPJNBJDznA5ewT"
+      "duration_ms": 197321,
+      "name": "Rompo y Tumbo",
+      "url": "https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ"
     }
   ],
   "unique_name": "tropic.alt",

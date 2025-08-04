@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,647 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,741 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Mayana](https://open.spotify.com/track/46fdi4VtT9vhfNsw7NGBNX) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Mayana](https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy) | 3:32 |
 | 60 | [Evening In Summer](https://open.spotify.com/track/0OifrLBpOntNsIMPcBbD52) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU) | [Evening In Summer](https://open.spotify.com/album/7EwyJEilRC30qr9pYGZOZl) | 2:23 |
 
-Snapshot ID: `aIzk7QAAAAAK/PwNCxSQZqD1pw1ebd82`
+Snapshot ID: `AAAAAOKmjhrfiCan2l6nxzbhxbgmr6x2`

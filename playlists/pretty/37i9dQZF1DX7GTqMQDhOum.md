@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,559 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174,886 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 69 | [Ponyo on the Cliff by the Sea \- from 'Ponyo on the Cliff by the Sea'](https://open.spotify.com/track/1ZH2eyqwewJj7wAAyzjeky) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:16 |
 | 70 | [いつでも誰かが](https://open.spotify.com/track/3naMRyLXw84R6USrfjgc7E) | [Shang Shang Typhoon](https://open.spotify.com/artist/2jpbrxvQN2UIqmZEb5pOhF) | [GREATEST HiTS 上々颱風](https://open.spotify.com/album/29WA2huritEuEDi03P3klA) | 5:06 |
 
-Snapshot ID: `ZcCVVwAAAACzWJh1oI8n2ybyINGRl6ck`
+Snapshot ID: `ZcCVVwAAAAAlfJnKHfm+u8KWHv0RY/aC`

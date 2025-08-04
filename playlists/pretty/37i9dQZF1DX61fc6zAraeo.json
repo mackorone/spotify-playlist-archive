@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 104481,
+  "num_followers": 104486,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
+        "name": "Tantalizing",
+        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Tantalizing",
+      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
         "name": "Seek Love (On The Beach) (feat. Amanda Wilson & York)",
         "url": "https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 150869,
       "name": "Seek Love (On The Beach)",
       "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
-        "name": "Tantalizing",
-        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Soaky Siren",
-          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Tantalizing",
-      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -519,22 +519,18 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Another Touch",
-        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 170875,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn"
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -563,18 +559,22 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+        "name": "Another Touch",
+        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+      "duration_ms": 170875,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -699,30 +699,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Never Letting Go (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 122839,
-      "name": "Never Letting Go",
-      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 185196,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "Never Letting Go (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 122839,
+      "name": "Never Letting Go",
+      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Desire to Stay",
-        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Desire to Stay",
-      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "Lonely Days",
         "url": "https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 153683,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "Desire to Stay",
+        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Desire to Stay",
+      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Rapture (with Robert Falcon)",
-        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "4 o'Clock (In The Morning)",
         "url": "https://open.spotify.com/album/333tnNxldO2bpInhctnz5W"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 124995,
       "name": "4 o'Clock (In The Morning)",
       "url": "https://open.spotify.com/track/3DKkPeLeZlJlvcq1R5Ot4A"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "Rapture (with Robert Falcon)",
+        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 165845,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "California (feat. CLOVES)",
         "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 165845,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
         "name": "Waste Your Love",
         "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 180462,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -1503,22 +1519,6 @@
       "duration_ms": 174375,
       "name": "Beat Of The Drum",
       "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
     },
     {
       "added_at": "2025-07-17 13:18:49",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-07-17 13:18:49",
       "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
-    },
-    {
-      "added_at": "2025-07-17 13:18:49",
-      "album": {
         "name": "24k Heart Of Gold",
         "url": "https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 136642,
       "name": "24k Heart Of Gold",
       "url": "https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH"
+    },
+    {
+      "added_at": "2025-07-17 13:18:49",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2025-07-17 13:18:49",

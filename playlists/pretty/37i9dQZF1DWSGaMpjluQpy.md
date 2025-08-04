@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,253 likes - 132 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,409 likes - 132 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 | 131 | [Another Day](https://open.spotify.com/track/2xmzcOWOdw7KlGDskvEsM5) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Another Day](https://open.spotify.com/album/1uLCEyYLskgtJNf0M4O82z) | 3:46 |
 | 132 | [Merry Monday \- With Rain](https://open.spotify.com/track/59dNEyVBv0ZoAe7zyvRl3L) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday \- With Rain](https://open.spotify.com/album/5f9MNfZHMS1tvWq55LdJU1) | 3:06 |
 
-Snapshot ID: `AAAAAPL0jC8++AI3/rTgsI4ylxfHLR2X`
+Snapshot ID: `Z6HRPwAAAACJ3FfS0nOdbR7jX1Wn2swd`

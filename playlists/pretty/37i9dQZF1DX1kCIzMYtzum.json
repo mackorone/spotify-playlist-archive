@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 398909,
+  "num_followers": 399413,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-08-01 04:00:38",
       "album": {
-        "name": "Angels For Each Other",
-        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "Angels For Each Other",
-      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
-    },
-    {
-      "added_at": "2025-08-01 04:00:38",
-      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -1239,42 +1219,22 @@
     {
       "added_at": "2025-08-01 04:00:38",
       "album": {
-        "name": "Prismatic: Pack One",
-        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+        "name": "Angels For Each Other",
+        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         }
       ],
-      "duration_ms": 198750,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
-    },
-    {
-      "added_at": "2025-08-01 04:00:38",
-      "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 165276,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
+      "duration_ms": 215076,
+      "name": "Angels For Each Other",
+      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
     },
     {
       "added_at": "2025-08-01 04:00:38",
@@ -1323,6 +1283,46 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2025-08-01 04:00:38",
+      "album": {
+        "name": "Prismatic: Pack One",
+        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:38",
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 165276,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
     },
     {
       "added_at": "2025-08-01 04:00:38",
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2025-08-01 04:00:38",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/22V3MT04FxMnr8RxzhbIve"
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
       },
       "artists": [
         {
@@ -1416,13 +1416,21 @@
           "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Citadelle",
-          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
         }
       ],
-      "duration_ms": 148214,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX"
+      "duration_ms": 215905,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
     },
     {
       "added_at": "2025-08-01 04:00:38",
@@ -1663,6 +1671,34 @@
     {
       "added_at": "2025-08-01 04:00:38",
       "album": {
+        "name": "Bus Stop Please (David Guetta & Morten Future Rave Remix)",
+        "url": "https://open.spotify.com/album/4ZTjlo4DdfAH98ffFyT51r"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "duration_ms": 192157,
+      "name": "Bus Stop Please - David Guetta & Morten Future Rave Remix",
+      "url": "https://open.spotify.com/track/75rc1El3Y6X4uhJD3UK0xn"
+    },
+    {
+      "added_at": "2025-08-01 04:00:38",
+      "album": {
         "name": "Million Good Reasons",
         "url": "https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT"
       },
@@ -1843,34 +1879,6 @@
     {
       "added_at": "2025-08-01 04:00:38",
       "album": {
-        "name": "Bus Stop Please (David Guetta & Morten Future Rave Remix)",
-        "url": "https://open.spotify.com/album/4ZTjlo4DdfAH98ffFyT51r"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
-        }
-      ],
-      "duration_ms": 192157,
-      "name": "Bus Stop Please - David Guetta & Morten Future Rave Remix",
-      "url": "https://open.spotify.com/track/75rc1El3Y6X4uhJD3UK0xn"
-    },
-    {
-      "added_at": "2025-08-01 04:00:38",
-      "album": {
         "name": "Edge Of The World (feat. Nu-La)",
         "url": "https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5"
       },
@@ -1943,6 +1951,26 @@
     {
       "added_at": "2025-08-01 04:00:38",
       "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2025-08-01 04:00:38",
+      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4"
       },
@@ -1963,22 +1991,26 @@
     {
       "added_at": "2025-08-01 04:00:38",
       "album": {
-        "name": "All For Love",
-        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+        "name": "Bloodtype",
+        "url": "https://open.spotify.com/album/4oN6f5DEfF17PwR4ahs30V"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
         }
       ],
-      "duration_ms": 166666,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+      "duration_ms": 144044,
+      "name": "Bloodtype",
+      "url": "https://open.spotify.com/track/1M5lIbc4qRKWAuHnVBquJI"
     },
     {
       "added_at": "2025-08-01 04:00:38",
@@ -2067,22 +2099,6 @@
     {
       "added_at": "2025-08-01 04:00:38",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r"
-    },
-    {
-      "added_at": "2025-08-01 04:00:38",
-      "album": {
         "name": "Air (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
       },
@@ -2103,6 +2119,22 @@
       "duration_ms": 160021,
       "name": "Air (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
+    },
+    {
+      "added_at": "2025-08-01 04:00:38",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r"
     },
     {
       "added_at": "2025-08-01 04:00:38",
@@ -2167,30 +2199,6 @@
       "duration_ms": 196190,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"
-    },
-    {
-      "added_at": "2025-08-01 04:00:38",
-      "album": {
-        "name": "house in the streetlight",
-        "url": "https://open.spotify.com/album/0zaBQVn70gLIwHrKto8ViF"
-      },
-      "artists": [
-        {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
-        },
-        {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
-        },
-        {
-          "name": "Annabel",
-          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "house in the streetlight",
-      "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"
     }
   ],
   "unique_name": "EDM 2025",

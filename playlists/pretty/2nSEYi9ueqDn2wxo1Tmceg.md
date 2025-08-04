@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Hot Chip</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 63,860 likes - 50 songs - 3 hr 7 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 63,830 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 
 > Sit back and relax by listening to guitar renditions of your favorite Disney songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,513 likes - 124 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,520 likes - 124 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 | 123 | [The Bare Necessities](https://open.spotify.com/track/2ulz4xEg5NHqetiKvfsdZa) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Calm](https://open.spotify.com/album/156mQC6K3aOBBoPRJnURCX) | 3:03 |
 | 124 | [Alice in Wonderland](https://open.spotify.com/track/5evAAnTbHb8aLiEnusTfS3) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Calm](https://open.spotify.com/album/156mQC6K3aOBBoPRJnURCX) | 2:54 |
 
-Snapshot ID: `AAAAAGR9KgTzOSQ5vkZ5DJOq5sWlJLo/`
+Snapshot ID: `aF6V2QAAAAAD02DDcyW4sNarSjoiGOy4`

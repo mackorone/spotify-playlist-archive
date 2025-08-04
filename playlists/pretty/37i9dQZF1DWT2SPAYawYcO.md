@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Hilltop Hoods, Chappell Roan, Emma Louise, Flume, NO CIGAR, Alison Wonderland + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,247 likes - 91 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,238 likes - 91 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

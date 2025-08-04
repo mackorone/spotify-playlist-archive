@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 101753,
+  "num_followers": 101877,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Funds (feat. ODUMODUBLVCK & Chike)",
         "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -275,38 +275,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Emakhaya",
-        "url": "https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU"
-      },
-      "artists": [
-        {
-          "name": "Mlindo The Vocalist",
-          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Emakhaya",
-      "url": "https://open.spotify.com/track/4eLFAxZWiV4Mfp8mpzdrdT"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 247333,
       "name": "True Love (feat. Tay Iwar & Projexx)",
       "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Emakhaya",
+        "url": "https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU"
+      },
+      "artists": [
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Emakhaya",
+      "url": "https://open.spotify.com/track/4eLFAxZWiV4Mfp8mpzdrdT"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Kwela",
         "url": "https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 242613,
       "name": "Emlanjeni",
       "url": "https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Seed - EP",
+        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 227460,
-      "name": "Let Me Love You Now",
-      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Imizwa",
         "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 260488,
       "name": "Eyami",
       "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 227460,
+      "name": "Let Me Love You Now",
+      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Hawataweza",
-        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
-      },
-      "artists": [
-        {
-          "name": "Wanavokali",
-          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Hawataweza",
-      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Ntumba",
         "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 356706,
       "name": "Kum Nakum",
       "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Hawataweza",
+        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Hawataweza",
+      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Densu",
+        "url": "https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c"
+      },
+      "artists": [
+        {
+          "name": "Kojo Antwi",
+          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
+        }
+      ],
+      "duration_ms": 367186,
+      "name": "Ammrika",
+      "url": "https://open.spotify.com/track/6b97eun6nbpKF6YGo3CxbT"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Asante",
         "url": "https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 261250,
       "name": "Unajua (feat. Wendy Kimani)",
       "url": "https://open.spotify.com/track/243H8e9aTy851fjYiXc4k4"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Densu",
-        "url": "https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c"
-      },
-      "artists": [
-        {
-          "name": "Kojo Antwi",
-          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
-        }
-      ],
-      "duration_ms": 367186,
-      "name": "Ammrika",
-      "url": "https://open.spotify.com/track/6b97eun6nbpKF6YGo3CxbT"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Somandla",
-        "url": "https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE"
-      },
-      "artists": [
-        {
-          "name": "Mandisi Dyantyis",
-          "url": "https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0"
-        }
-      ],
-      "duration_ms": 406189,
-      "name": "Ndimthanda",
-      "url": "https://open.spotify.com/track/2sf6KNaKxhj8oCESEspmg4"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 293711,
       "name": "Thojana Ya Thesele",
       "url": "https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Somandla",
+        "url": "https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE"
+      },
+      "artists": [
+        {
+          "name": "Mandisi Dyantyis",
+          "url": "https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0"
+        }
+      ],
+      "duration_ms": 406189,
+      "name": "Ndimthanda",
+      "url": "https://open.spotify.com/track/2sf6KNaKxhj8oCESEspmg4"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Radio & Weasel",
-        "url": "https://open.spotify.com/album/2oiaqdD3XKbjEHHiE6pYtC"
-      },
-      "artists": [
-        {
-          "name": "Radio And Weasel",
-          "url": "https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP"
-        }
-      ],
-      "duration_ms": 244453,
-      "name": "Breath Away",
-      "url": "https://open.spotify.com/track/4rfxJw6Ujuqo7swQfjlppQ"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Sawa Sawa",
         "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 215400,
       "name": "Ritwa Riaku",
       "url": "https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Radio & Weasel",
+        "url": "https://open.spotify.com/album/2oiaqdD3XKbjEHHiE6pYtC"
+      },
+      "artists": [
+        {
+          "name": "Radio And Weasel",
+          "url": "https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP"
+        }
+      ],
+      "duration_ms": 244453,
+      "name": "Breath Away",
+      "url": "https://open.spotify.com/track/4rfxJw6Ujuqo7swQfjlppQ"
     },
     {
       "added_at": "2025-07-11 08:09:25",

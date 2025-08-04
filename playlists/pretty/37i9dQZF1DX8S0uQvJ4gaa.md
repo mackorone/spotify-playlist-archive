@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Gabby Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,301,054 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,301,081 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Scornful Woman](https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Scornful Woman](https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq) | 2:55 |
 | 100 | [Spin the Block](https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Spin the Block](https://open.spotify.com/album/0LsePMxxlwcaDQgNc0m6N6) | 2:46 |
 
-Snapshot ID: `aIw75QAAAACphY6WoO7vbET+TUl8rlt6`
+Snapshot ID: `AAAAAOVgWmuMCwMzKreNB+/u964lmYy9`

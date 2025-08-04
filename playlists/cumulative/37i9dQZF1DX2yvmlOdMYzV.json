@@ -2805,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "Cheirinho (Feat. YO\u00d9N)",
+        "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173994,
+      "name": "Cheirinho - Feat. YO\u00d9N",
+      "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
+    },
+    {
+      "album": {
         "name": "CHERIMOYA",
         "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
       },
@@ -10314,7 +10336,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 250700,
       "name": "Love is Gold",
       "url": "https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo"

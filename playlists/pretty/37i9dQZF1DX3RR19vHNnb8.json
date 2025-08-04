@@ -1,6 +1,6 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 30083,
+  "num_followers": 30099,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-07-11 00:01:29",
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "duration_ms": 144168,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
+    },
+    {
+      "added_at": "2025-07-11 00:01:29",
+      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
-    },
-    {
-      "added_at": "2025-07-11 00:01:29",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        }
-      ],
-      "duration_ms": 144168,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
     },
     {
       "added_at": "2025-07-11 00:01:29",

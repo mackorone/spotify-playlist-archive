@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-222 songs - 9 hr 39 min
+223 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2023-01-12 | 2024-06-08 |
 | [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 | 2023-01-12 | 2024-06-30 |
 | [Gemstone](https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gemstone](https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ) | 3:07 | 2023-01-12 | 2024-09-10 |
+| [Get Home](https://open.spotify.com/track/1KcoB31KRMA6kq5wgxP5ws) | [Monkay](https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Reveries](https://open.spotify.com/album/2BtiUcWF9zmRoqgPAIJ2QA) | 2:02 | 2025-02-21 |  |
 | [Get Together](https://open.spotify.com/track/7nNck2PhET9OK7epBKwhHz) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Get Together](https://open.spotify.com/album/44mGR3wPKIy2plTBcE475J) | 2:21 | 2025-01-10 |  |
 | [get up and go](https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [get up and go](https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM) | 2:27 | 2023-01-12 |  |
-| [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |
+| [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 | 2025-08-04 |
 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 | 2024-10-25 |
 | [Golden Hour](https://open.spotify.com/track/2NpovkabnwBkEDtxCEqtqB) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Golden Hour](https://open.spotify.com/album/3GcGWY5hQALNHm9qKNzsb9) | 2:16 | 2024-02-21 |  |
 | [Gomorra](https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC) | [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [Gomorra](https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT) | 2:47 | 2023-12-22 |  |

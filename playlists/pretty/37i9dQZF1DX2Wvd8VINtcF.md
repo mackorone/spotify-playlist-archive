@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Swank Mami✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,406 likes - 126 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,420 likes - 126 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 125 | [Hot like you](https://open.spotify.com/track/48FUVeDwsngzzJqJx4MUoo) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Hot like you](https://open.spotify.com/album/4883nS1fkXtvTQPVIivoUF) | 2:14 |
 | 126 | [Lose it all](https://open.spotify.com/track/0FJHyiVooVHCgTajIi37GF) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Lose it all](https://open.spotify.com/album/3GlARIzQyek9qP8vB5Ai4t) | 3:14 |
 
-Snapshot ID: `aIvniAAAAACg7dJQ516HXZf7x5yaZEiH`
+Snapshot ID: `AAAAAMwd2Yar3w5/ZqV9OV4jEB9PQ/w1`

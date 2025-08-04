@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Lupe De Lupe
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,989 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,932 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 3 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
 | 4 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 |
 | 5 | [Senador](https://open.spotify.com/track/6uALZSrh136doyHHljYo4M) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Senador](https://open.spotify.com/album/5LmC8vcX4HMjnbQ5n9tCTD) | 2:43 |
-| 6 | [Tudo Que Não For Na Vida \- Ao vivo no Palco Supernova \- Rock in Rio Brasil 2024](https://open.spotify.com/track/08Y8jPlVHFScYjRvx57Mhd) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Vanguart: Ao Vivo no Palco Supernova \- Rock in Rio 2024](https://open.spotify.com/album/1UjOyu3cBUGTawWEkhxWAZ) | 3:18 |
+| 6 | [Tudo Que Não For Vida \- Ao vivo no Palco Supernova \- Rock in Rio Brasil 2024](https://open.spotify.com/track/08Y8jPlVHFScYjRvx57Mhd) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Vanguart: Ao Vivo no Palco Supernova \- Rock in Rio 2024](https://open.spotify.com/album/1UjOyu3cBUGTawWEkhxWAZ) | 3:18 |
 | 7 | [Controle](https://open.spotify.com/track/6IkBjpjlH97gHYDLBzSnmj) | [Kiko Zambianchi](https://open.spotify.com/artist/3tWVgYrn2htmCQesDIlByw) | [Quadro Vivo](https://open.spotify.com/album/5zFuFWv9k7yVWpAMU3gEcq) | 3:39 |
 | 8 | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F) | 3:27 |
 | 9 | [Oq Sou pra Vc?](https://open.spotify.com/track/1bbIDW4Q09GDQKufvIkHRm) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [Plástico](https://open.spotify.com/album/6yW0G6JODPeXJf7QXiVP2S) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Plano Alto](https://open.spotify.com/track/33KhjAQMAWvmhXIH963YVX) | [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Plano Alto](https://open.spotify.com/album/4OaJDqpqkGRnQ8k1IzqQdv) | 2:50 |
 | 75 | [quero MAIS](https://open.spotify.com/track/6RKOKsO0CjpzzKrIOuRSum) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [quero MAIS](https://open.spotify.com/album/0bYca4gn3JGd723cTqNeQJ) | 2:55 |
 
-Snapshot ID: `aIQFWgAAAAD3VN6LGzcPwQ2o7uvq1DJy`
+Snapshot ID: `aIQFWgAAAACmMS3uKdu1CczPT2jlWMmZ`

@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1043183,
+  "num_followers": 1043147,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 186997,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "No Therapy",
         "url": "https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi"
       },
@@ -1467,22 +1447,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "All This Love (feat. Harl\u0153)",
-        "url": "https://open.spotify.com/album/3mMaKYr6aPtFSHYUr7acxJ"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
         },
         {
-          "name": "HARLOE",
-          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 164797,
-      "name": "All This Love (feat. Harl\u0153)",
-      "url": "https://open.spotify.com/track/0nxYyX5PIHJqF4VSb4CIFV"
+      "duration_ms": 186997,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1503,6 +1483,26 @@
       "duration_ms": 179396,
       "name": "Cry Dancing",
       "url": "https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "All This Love (feat. Harl\u0153)",
+        "url": "https://open.spotify.com/album/3mMaKYr6aPtFSHYUr7acxJ"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "HARLOE",
+          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
+        }
+      ],
+      "duration_ms": 164797,
+      "name": "All This Love (feat. Harl\u0153)",
+      "url": "https://open.spotify.com/track/0nxYyX5PIHJqF4VSb4CIFV"
     }
   ],
   "unique_name": "Projeto Ver\u00e3o",

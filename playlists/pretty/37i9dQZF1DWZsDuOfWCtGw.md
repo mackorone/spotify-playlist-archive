@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 
 > The hottest house tracks we had on repeat in 2024\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,165 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,162 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 | 74 | [Don't Abuse It](https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Don't Abuse It](https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v) | 2:15 |
 | 75 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 |
 
-Snapshot ID: `Z1BHxAAAAABrfoMfOEQu/eKTxru3FBN3`
+Snapshot ID: `AAAAAGMDF8emeVHaNr2nFNFwzvA4qFGe`

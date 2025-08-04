@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 598594,
+  "num_followers": 598667,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-08-01 22:36:18",
       "album": {
-        "name": "Um amor puro",
-        "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Um amor puro",
-      "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
-    },
-    {
-      "added_at": "2025-08-01 22:36:18",
-      "album": {
         "name": "Acr\u00f4nico",
         "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 235610,
       "name": "Nocaute",
       "url": "https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC"
+    },
+    {
+      "added_at": "2025-08-01 22:36:18",
+      "album": {
+        "name": "Um amor puro",
+        "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Um amor puro",
+      "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
     },
     {
       "added_at": "2025-08-01 22:36:18",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-08-01 22:36:18",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2025-08-01 22:36:18",
-      "album": {
         "name": "Mundan\u00e7a",
         "url": "https://open.spotify.com/album/3JWFKWdDalc9xBfekjsk2o"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 183673,
       "name": "Mundan\u00e7a",
       "url": "https://open.spotify.com/track/6pZhsDgyThgdww4vNQpov5"
+    },
+    {
+      "added_at": "2025-08-01 22:36:18",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2025-08-01 22:36:18",

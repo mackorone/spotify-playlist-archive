@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Paula Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,028 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,031 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Madrugada Maldita](https://open.spotify.com/track/7llKQILmoH3Dsch8WFFoci) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pedro Senna](https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Madrugada Maldita](https://open.spotify.com/album/3fJrMuzxrJXTixxHxNupw1) | 3:57 |
 | 75 | [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 |
 
-Snapshot ID: `aBQ1fQAAAAAbESOSKQfhNfMOAVeWZ05k`
+Snapshot ID: `aBQ1fQAAAAB0PbZxR3HJ/OYyi04LeIZ8`

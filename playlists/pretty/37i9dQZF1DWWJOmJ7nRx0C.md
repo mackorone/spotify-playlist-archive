@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,910 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,842 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 20 | [Odd Behavior](https://open.spotify.com/track/4nOEsND95g9qDDxrkiQ7Ok) | [Woe, Is Me](https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Aj Rebollo](https://open.spotify.com/artist/2EARmuixIqIjUHaqHwm0BR) | [Odd Behavior](https://open.spotify.com/album/1s2Rti2kLPm5Tsw7Zy5CKW) | 3:08 |
 | 21 | [Ghosts](https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols](https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE) | 6:26 |
 | 22 | [Into Hell](https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Into Hell](https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS) | 3:12 |
-| 23 | [Sincerity \(You Fooled Me Twice\)](https://open.spotify.com/track/3EOp2lHat1bw3qUsHY4FqM) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj), [Ben Jewell](https://open.spotify.com/artist/1r0i6WbQUvPLdu92BboyiB), [Erikshredz](https://open.spotify.com/artist/53clD8JJly7uUAiPYuGC9O), [Cage Fight](https://open.spotify.com/artist/35GpJabAKuETXnWsWQbTjr), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Sincerity \(You Fooled Me Twice\)](https://open.spotify.com/album/3atsAijiwe1BI5ND91AoSn) | 3:47 |
+| 23 | [Sincerity \(You Fooled Me Twice\)](https://open.spotify.com/track/3EOp2lHat1bw3qUsHY4FqM) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj), [Ben Jewell](https://open.spotify.com/artist/5RA1BUkfcoRFHsvaAAm6HD), [Erikshredz](https://open.spotify.com/artist/53clD8JJly7uUAiPYuGC9O), [Cage Fight](https://open.spotify.com/artist/35GpJabAKuETXnWsWQbTjr), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Sincerity \(You Fooled Me Twice\)](https://open.spotify.com/album/3atsAijiwe1BI5ND91AoSn) | 3:47 |
 | 24 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 |
 | 25 | [Everest](https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ) | 4:47 |
 | 26 | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 |
 | 75 | [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 |
 
-Snapshot ID: `AAAAALbq3r7yhlzshnIbEWQTf8JOKHzw`
+Snapshot ID: `aIw71gAAAADa0G5cobcF5LpOx+kqMIHJ`

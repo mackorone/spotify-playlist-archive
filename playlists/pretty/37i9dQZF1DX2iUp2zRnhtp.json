@@ -1,6 +1,6 @@
 {
   "description": "vi leker ikke hits!",
-  "num_followers": 194727,
+  "num_followers": 194728,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
         "name": "One Thing",
         "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
         "name": "Virgin",
         "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 257065,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -263,38 +279,6 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
-        "name": "The Giver",
-        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "The Giver",
-      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 239720,
       "name": "Garden Of Eden",
       "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "Something Beautiful",
-        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 186639,
-      "name": "Easy Lover",
-      "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 186639,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
+        "name": "Hvert \u00c5r",
+        "url": "https://open.spotify.com/album/6HE9CnakRqPFCb4Ra36eQU"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Hvert \u00c5r",
+      "url": "https://open.spotify.com/track/6lCuJDgduRfAmgrFyStT3g"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
         "name": "Dette er livet (feat. OnklP)",
         "url": "https://open.spotify.com/album/5SrPHNFUtPbv5RgRlRe61v"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 158225,
       "name": "Dette er livet (feat. OnklP)",
       "url": "https://open.spotify.com/track/07i2PdaFfEclgdsnT4WKEk"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
-        "name": "Hvert \u00c5r",
-        "url": "https://open.spotify.com/album/6HE9CnakRqPFCb4Ra36eQU"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Hvert \u00c5r",
-      "url": "https://open.spotify.com/track/6lCuJDgduRfAmgrFyStT3g"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
+        "name": "Sakte Film",
+        "url": "https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 157034,
+      "name": "Sakte Film",
+      "url": "https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
         "name": "Meant2Be",
         "url": "https://open.spotify.com/album/5NWtkEhGJFFOPSn4mi8bS5"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 153300,
       "name": "Whiteboy lifestyle",
       "url": "https://open.spotify.com/track/3Mxm44ZGkcxvzKyR2m99nM"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
-        "name": "Sakte Film",
-        "url": "https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 157034,
-      "name": "Sakte Film",
-      "url": "https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "Telefon",
-        "url": "https://open.spotify.com/album/2F2mAmeqLVci16NxcQhcFm"
-      },
-      "artists": [
-        {
-          "name": "William Gamborg",
-          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
-        }
-      ],
-      "duration_ms": 160239,
-      "name": "Telefon",
-      "url": "https://open.spotify.com/track/2EaIpVMVVBRjis49eEE5RI"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
         "name": "NIGHT ZONE",
         "url": "https://open.spotify.com/album/1FPvsVyGvoAqtYfYzJdJ0g"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 170306,
       "name": "NIGHT ZONE",
       "url": "https://open.spotify.com/track/3T44SrcfxTkUhq3th84LFm"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
+        "name": "Telefon",
+        "url": "https://open.spotify.com/album/2F2mAmeqLVci16NxcQhcFm"
+      },
+      "artists": [
+        {
+          "name": "William Gamborg",
+          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "Telefon",
+      "url": "https://open.spotify.com/track/2EaIpVMVVBRjis49eEE5RI"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "Body On Body",
-        "url": "https://open.spotify.com/album/1KIoMonb747LXCTsqQo0uv"
-      },
-      "artists": [
-        {
-          "name": "SINA",
-          "url": "https://open.spotify.com/artist/2A8Gi3YlSBHUwmEO3oqHLv"
-        }
-      ],
-      "duration_ms": 195697,
-      "name": "Body On Body",
-      "url": "https://open.spotify.com/track/7LtTm0lzLApbRrPGsUqNUg"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/6j0YhUXIe3x3YsgJcn2d7M"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 140000,
       "name": "Slide",
       "url": "https://open.spotify.com/track/7k4q5fRd6AxWpfQlKZz50Z"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
+        "name": "Body On Body",
+        "url": "https://open.spotify.com/album/1KIoMonb747LXCTsqQo0uv"
+      },
+      "artists": [
+        {
+          "name": "SINA",
+          "url": "https://open.spotify.com/artist/2A8Gi3YlSBHUwmEO3oqHLv"
+        }
+      ],
+      "duration_ms": 195697,
+      "name": "Body On Body",
+      "url": "https://open.spotify.com/track/7LtTm0lzLApbRrPGsUqNUg"
     },
     {
       "added_at": "2025-07-31 22:00:35",

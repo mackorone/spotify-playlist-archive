@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37548,
+  "num_followers": 37544,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAACk6WpTe8xkNR50+ahyieWt",
+  "snapshot_id": "aI1VAAAAAAAbUN6HNZIDpkjXuuNWboEO",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 172535,
-      "name": "Actors Have No Shame",
-      "url": "https://open.spotify.com/track/2YbU0FKAic1peco49W2zal"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel Miners & The Lightning Riders",
         "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 233133,
       "name": "California Halo Blue",
       "url": "https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 172535,
+      "name": "Actors Have No Shame",
+      "url": "https://open.spotify.com/track/2YbU0FKAic1peco49W2zal"
     },
     {
       "added_at": null,

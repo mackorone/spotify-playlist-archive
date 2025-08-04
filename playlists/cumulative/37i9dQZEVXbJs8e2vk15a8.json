@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "#BrooklynBloodPop! (Roku Remix)",
+        "url": "https://open.spotify.com/album/1JcSe46T8dhE8cTrtIFhnM"
+      },
+      "artists": [
+        {
+          "name": "SyKo",
+          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82714,
+      "name": "#BrooklynBloodPop! - Roku Remix",
+      "url": "https://open.spotify.com/track/2ROZRya8krTZpqJrimxU8L"
+    },
+    {
+      "album": {
         "name": "PAPOTA",
         "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
       },
@@ -14930,7 +14952,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 157968,
       "name": "DE A POCO",
       "url": "https://open.spotify.com/track/6jRq3RULsAbuVpDGeqhRKS"
@@ -39694,7 +39716,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 302647,
       "name": "Mr. Crowley",
       "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
@@ -43958,7 +43980,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 166956,
       "name": "Otra Nota",
       "url": "https://open.spotify.com/track/5eNnDaOfCivugB1sGkxxer"
@@ -53514,7 +53536,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 256293,
       "name": "Shot in the Dark",
       "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
@@ -58544,7 +58566,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 161167,
       "name": "TENGO GANAS",
       "url": "https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW"
@@ -68458,10 +68480,28 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
+    },
+    {
+      "album": {
+        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+        "url": "https://open.spotify.com/album/1Lynrklw4pfQ9aZ4XWh1Tk"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197668,
+      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "url": "https://open.spotify.com/track/5l1GC6kB10b5myLMLdVqEX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJs8e2vk15a8"

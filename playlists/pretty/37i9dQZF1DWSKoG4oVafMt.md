@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,856 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,959 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Duur Na Karin \(From "Khel Khel Mein"\)](https://open.spotify.com/track/3bCIiDZn3wpwRWYdKvnSdW) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Duur Na Karin \(From "Khel Khel Mein"\)](https://open.spotify.com/album/5fOT2byqgf4rPp1UXOYHym) | 3:35 |
 | 100 | [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 |
 
-Snapshot ID: `aI4qGAAAAACjwax53GMUcvGQbTuaX1z6`
+Snapshot ID: `AAAAAKaAqmZNjuamqIGXWMINN3+5JFhM`

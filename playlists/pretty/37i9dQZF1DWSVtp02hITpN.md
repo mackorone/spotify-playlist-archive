@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > The best pop music right now ft\. PinkPantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,300 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,255 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 79 | [I Won't Miss A Thing](https://open.spotify.com/track/5UgPB3ivHBCkhftx2wGBy2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [I Won't Miss A Thing](https://open.spotify.com/album/6tAI8qCWzBSZYvsxU1qX3w) | 3:54 |
 | 80 | [Big Star](https://open.spotify.com/track/3DNGZZFDLOOvUc6v5aX24g) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Big Star](https://open.spotify.com/album/1Geweu0ryMaaDo1X92n1aR) | 3:34 |
 
-Snapshot ID: `AAAAADCBKE4MPlchtiM5ELYnCwNfM+LD`
+Snapshot ID: `aIwDlQAAAAA9u2GNqUSsdQRuvu1P26AT`

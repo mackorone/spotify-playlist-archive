@@ -4781,36 +4781,6 @@
     },
     {
       "album": {
-        "name": "Symphony No. 1 in C Major, Op. 21/III. Menuetto. Allegro molto e vivace",
-        "url": "https://open.spotify.com/album/3icD05FCQgAnXdIIl5Sw1i"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Leonidas Kavakos",
-          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
-        },
-        {
-          "name": "Emanuel Ax",
-          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
-        }
-      ],
-      "date_added": "2025-07-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220506,
-      "name": "Beethoven: Symphony No. 1 in C Major, Op. 21: III. Menuetto. Allegro molto e vivace",
-      "url": "https://open.spotify.com/track/2EHFAdUylTDSxW15HVxtui"
-    },
-    {
-      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/3kpPInXtsy178RPtVTviuf"
       },
@@ -8680,7 +8650,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 126315,
       "name": "Catch Me Outside 2",
       "url": "https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB"
@@ -34973,6 +34943,24 @@
     },
     {
       "album": {
+        "name": "my mind is a mountain",
+        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
+    },
+    {
+      "album": {
         "name": "My Phone Can Die",
         "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
       },
@@ -40040,7 +40028,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 163119,
       "name": "Pissed Off Patriot",
       "url": "https://open.spotify.com/track/01ivJTyFNR66t2WSnCda9z"
@@ -44947,6 +44935,24 @@
     },
     {
       "album": {
+        "name": "Shiny Things",
+        "url": "https://open.spotify.com/album/7uBrX85Ovwtor3h7DJmhvO"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182137,
+      "name": "Shiny Things",
+      "url": "https://open.spotify.com/track/1C0krz8HosA1CReG6cC1hU"
+    },
+    {
+      "album": {
         "name": "Ship of Fools (Live at University of Nevada, Reno, NV, 5/12/74)",
         "url": "https://open.spotify.com/album/3xpzDCDc3xbxds8j1YaqH7"
       },
@@ -49218,6 +49224,36 @@
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/6xrTHtSg2SDBLilLxhbhof"
+    },
+    {
+      "album": {
+        "name": "Symphony No. 1 in C Major, Op. 21/III. Menuetto. Allegro molto e vivace",
+        "url": "https://open.spotify.com/album/3icD05FCQgAnXdIIl5Sw1i"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        }
+      ],
+      "date_added": "2025-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "Symphony No. 1 in C Major, Op. 21: III. Menuetto. Allegro molto e vivace",
+      "url": "https://open.spotify.com/track/2EHFAdUylTDSxW15HVxtui"
     },
     {
       "album": {

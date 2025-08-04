@@ -14221,6 +14221,28 @@
     },
     {
       "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183528,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6R6Q9qbwHVHTtS7J3jQSa6"
       },

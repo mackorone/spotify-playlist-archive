@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Blippi & Grover
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,146 likes - 137 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,274 likes - 137 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 10 | [Come On and Get Moving](https://open.spotify.com/track/3YnejZH7w6z5MGB3q9Cruv) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Have A Musical Day Vol 2.](https://open.spotify.com/album/2QbP9FI4cPYYTZ6QTEsC29) | 2:19 |
 | 11 | [Trouble \- Skye's Music Party](https://open.spotify.com/track/0k505n3iwGBO1rwn2LyYWk) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Trouble \(Skye's Music Party\)](https://open.spotify.com/album/2FUFtGiSyAC04IZjvZye1U) | 2:00 |
 | 12 | [The Fire Truck Song \- Sesame Street Version](https://open.spotify.com/track/3RI2DOLP1uFEKRJRO9STDM) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Grover](https://open.spotify.com/artist/2kEhzvRzkxM8m8HB3P0bdM), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Blippi And Sesame Street Adventures](https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco) | 2:12 |
-| 13 | [The Muffin Man](https://open.spotify.com/track/15zwD4yHjV8vFQ3FdAvc8m) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Muffin Man](https://open.spotify.com/album/1AYN6M04oYo9pm5v658tIN) | 2:16 |
+| 13 | [The Muffin Man](https://open.spotify.com/track/15zwD4yHjV8vFQ3FdAvc8m) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [The Muffin Man](https://open.spotify.com/album/1AYN6M04oYo9pm5v658tIN) | 2:16 |
 | 14 | [With My Heart](https://open.spotify.com/track/2jZoxgal2OBfLmqYtKwHEE) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [With My Heart](https://open.spotify.com/album/6s7GY74vsi3aBcmZTRO9sF) | 1:52 |
 | 15 | [Abracadabra](https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:28 |
 | 16 | [I Won't Grow Up](https://open.spotify.com/track/1EmQ1XMtFcH1aVzvcXiIOG) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Won't Grow Up](https://open.spotify.com/album/2DexGOTUI8daHMboZEs13a) | 1:53 |

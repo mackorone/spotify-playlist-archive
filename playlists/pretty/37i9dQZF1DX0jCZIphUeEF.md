@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,977 likes - 62 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,982 likes - 62 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 61 | [Dance Of The Desert](https://open.spotify.com/track/3gizZUKArzqyQs5MhghCbW) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Dance Of The Desert](https://open.spotify.com/album/2dI4CM2NWgI2sbe63rndYX) | 4:04 |
 | 62 | [Full Moon In Amazon](https://open.spotify.com/track/7uv3Lyl27dwNmWKsHvbelj) | [Orkun Bozdemir](https://open.spotify.com/artist/4uez5EaJsFAhGEf5dqiuDA), [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj) | [Full Moon In Amazon / Oracle](https://open.spotify.com/album/4oGgZ0V8sR0ZfTAZ77aWc1) | 5:40 |
 
-Snapshot ID: `AAAAAGeJ/dPn9WlkKhe1UT3bQnkQwXcz`
+Snapshot ID: `aHTlfQAAAAA+H25j7cPlEGsuGmOnq8pU`

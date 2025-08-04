@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,981 likes - 190 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,042 likes - 190 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 189 | [skystream](https://open.spotify.com/track/3cpH965slVAktKRqw8yjGI) | [carl cheny](https://open.spotify.com/artist/2KdAwsOoRrvsK5eCKv275Y) | [skystream](https://open.spotify.com/album/1oXZlNt0pfCix13i9LRQDZ) | 2:29 |
 | 190 | [silhouette dreams \- Edit](https://open.spotify.com/track/1L870Rzp5rvyzsC11nAIsj) | [Tamsui](https://open.spotify.com/artist/6SOhLUuAvygpfBHPq1BbbP) | [silhouette dreams \- Edit](https://open.spotify.com/album/1WubJMbvRR5syI1kRTqeNq) | 2:40 |
 
-Snapshot ID: `aIN6WAAAAACLcHcl2BR3wx7aXy8VCgJ/`
+Snapshot ID: `AAAAADRUwGx2lm5pmJ8zjFvcP8aMB768`

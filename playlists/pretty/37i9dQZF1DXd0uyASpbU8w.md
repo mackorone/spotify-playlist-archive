@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Nkosazana Daughter, Will Linley, Rema, Thakzin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,785 likes - 84 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,851 likes - 84 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

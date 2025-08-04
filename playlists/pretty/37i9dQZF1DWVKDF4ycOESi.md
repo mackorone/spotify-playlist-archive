@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Chappell Roan, Rauw Alejandro, Danny Ocean, Saweetie e TWICE, d4vd e hannah bahng e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,113 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,122 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

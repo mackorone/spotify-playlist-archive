@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Slayyyter is having a main pop girl emergency 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,840 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,861 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 104 | [What Now](https://open.spotify.com/track/2HJkS5r8Qzf6kCxVzBgRJ3) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [What Now](https://open.spotify.com/album/115Wn7jhMjCTmkeuDNi9Nt) | 3:21 |
 | 105 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
 
-Snapshot ID: `aIxnlQAAAAD3DXocbw2KwfO4Lg8gAjXO`
+Snapshot ID: `aIxnlQAAAACCbTEs5wW5eGsei/D3BVjr`

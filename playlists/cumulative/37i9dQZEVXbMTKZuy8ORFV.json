@@ -5492,7 +5492,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 284666,
       "name": "Changes - 2009 Remaster",
       "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
@@ -5510,7 +5510,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 81995,
       "name": "CLIMA LINDO - SLOWED",
       "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
@@ -10278,7 +10278,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 198040,
       "name": "Eso, Eso, Eso",
       "url": "https://open.spotify.com/track/2aYEMvLxsPy9oQKnwBopD6"
@@ -10296,7 +10296,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 199453,
       "name": "Eso, Eso, Eso",
       "url": "https://open.spotify.com/track/72CQbbg6cThL4ySSyhBZ1e"
@@ -11403,6 +11403,24 @@
     },
     {
       "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/4FyDWt4qFhDRJ4TdGwSoXy"
+      },
+      "artists": [
+        {
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226375,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/0xvdPvNBT4vgzptgpHudJU"
+    },
+    {
+      "album": {
         "name": "Fly Me",
         "url": "https://open.spotify.com/album/2IVpPaZ5Fg6i0WpFrfNXHG"
       },
@@ -12472,7 +12490,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 193493,
       "name": "Golden / Dorada - Cover en Espa\u00f1ol",
       "url": "https://open.spotify.com/track/6CDcermYklHdgRm5SLR3Jc"
@@ -12970,7 +12988,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 145151,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT"
@@ -15114,7 +15132,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 184050,
       "name": "La Del Proceso",
       "url": "https://open.spotify.com/track/1AH1OsF7LabIl5RjhXR0u2"
@@ -29268,7 +29286,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/19GxfaRs5KdurzPKLVX3Cq"
@@ -29304,7 +29322,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -32482,7 +32500,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 83183,
       "name": "Vem Vem",
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
@@ -35268,10 +35286,28 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
+    },
+    {
+      "album": {
+        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+        "url": "https://open.spotify.com/album/1Lynrklw4pfQ9aZ4XWh1Tk"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197668,
+      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "url": "https://open.spotify.com/track/5l1GC6kB10b5myLMLdVqEX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMTKZuy8ORFV"

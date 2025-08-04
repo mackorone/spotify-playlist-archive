@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: TOMATULUGAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,011 likes - 99 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,046 likes - 99 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Rey](https://open.spotify.com/track/0F0avlMQwKBXvZVc9gAoQx) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Rey](https://open.spotify.com/album/3kaYlsVPR6trh6wl6aERVE) | 6:10 |
 | 99 | [Mañana Me Irá Mejor](https://open.spotify.com/track/7wJPvSDJEp4nf3b6IPGukM) | [Yamilka](https://open.spotify.com/artist/0fpgHrtIeF5g66x4zeI4S0) | [Mañana Me Irá Mejor](https://open.spotify.com/album/6jr5cCq6ds9xVRtfVEo2IE) | 4:27 |
 
-Snapshot ID: `aIyyEAAAAAAcJ6XbpH6FCnR4YJnyl7SS`
+Snapshot ID: `AAAAAKmGkw3ZLUBCnH8xd/PQzbpjJMHz`

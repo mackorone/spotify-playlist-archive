@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=fe7dc91ae92c41b3">Teezo Touchdown's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,418 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,427 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 | 29 | [I Knew I'll Make It](https://open.spotify.com/track/70kGwtQF9g3JI8HcYRAey5) | [Bankroll Fresh](https://open.spotify.com/artist/7FBDXY8U17aasVTH3rgxbS) | [Life of a Hot Boy](https://open.spotify.com/album/4qrG8JSxpDIrJbCYIdaDPm) | 2:15 |
 | 30 | [Jasmine Tea!](https://open.spotify.com/track/2WlOzS0iQ0RndtuXUGJJlY) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [BEAR1BOSS](https://open.spotify.com/album/3mxZb5vAZYgtT82nmVTVDu) | 2:30 |
 
-Snapshot ID: `ZaDHUAAAAAAMAM5rbeZAdlVmxJ+KqyZT`
+Snapshot ID: `AAAAAKjSw8nbuG6sSnIYznsLogMo02D/`

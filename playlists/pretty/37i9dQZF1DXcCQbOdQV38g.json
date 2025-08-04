@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 56721,
+  "num_followers": 56851,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-07-01 06:09:26",
       "album": {
-        "name": "Doe Je Dansie",
-        "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
-      },
-      "artists": [
-        {
-          "name": "Jari Hellegers",
-          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Doe Je Dansie",
-      "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
-    },
-    {
-      "added_at": "2025-07-01 06:09:26",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 163125,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
+    },
+    {
+      "added_at": "2025-07-01 06:09:26",
+      "album": {
+        "name": "Doe Je Dansie",
+        "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
+      },
+      "artists": [
+        {
+          "name": "Jari Hellegers",
+          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Doe Je Dansie",
+      "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
     },
     {
       "added_at": "2025-07-01 06:09:26",
@@ -511,30 +511,6 @@
     {
       "added_at": "2025-07-01 06:09:26",
       "album": {
-        "name": "Tussen Jou en Mij",
-        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
-      },
-      "artists": [
-        {
-          "name": "Willem & Jan",
-          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
-        },
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        },
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 178708,
-      "name": "Tussen Jou en Mij",
-      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
-    },
-    {
-      "added_at": "2025-07-01 06:09:26",
-      "album": {
         "name": "Laat Mij Nu Alleen",
         "url": "https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 135882,
       "name": "Laat Mij Nu Alleen",
       "url": "https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo"
+    },
+    {
+      "added_at": "2025-07-01 06:09:26",
+      "album": {
+        "name": "Tussen Jou en Mij",
+        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
+      },
+      "artists": [
+        {
+          "name": "Willem & Jan",
+          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
+        },
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        },
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 178708,
+      "name": "Tussen Jou en Mij",
+      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
     },
     {
       "added_at": "2025-07-01 06:09:26",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-07-01 06:09:26",
       "album": {
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 141068,
+      "name": "Hotelschool",
+      "url": "https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF"
+    },
+    {
+      "added_at": "2025-07-01 06:09:26",
+      "album": {
         "name": "Missen Zou",
         "url": "https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 167209,
       "name": "Missen Zou",
       "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
-    },
-    {
-      "added_at": "2025-07-01 06:09:26",
-      "album": {
-        "name": "Hallo",
-        "url": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 141068,
-      "name": "Hotelschool",
-      "url": "https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF"
     },
     {
       "added_at": "2025-07-01 06:09:26",

@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 237917,
+  "num_followers": 237943,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Friendship Loyalty Commitment",
-        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
-      },
-      "artists": [
-        {
-          "name": "25 Ta Life",
-          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "Over the Years",
-      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Neutralize the Threat",
         "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
       },
@@ -363,18 +347,34 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+        "name": "Friendship Loyalty Commitment",
+        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
       },
       "artists": [
         {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+          "name": "25 Ta Life",
+          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
+      "duration_ms": 125746,
+      "name": "Over the Years",
+      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
       "artists": [
         {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
         }
       ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "1991-2001 (Forever True)",
-        "url": "https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H"
+        "name": "The Current Will Carry Us",
+        "url": "https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0"
       },
       "artists": [
         {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Firestorm",
-      "url": "https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV"
+      "duration_ms": 236746,
+      "name": "The Disconnect",
+      "url": "https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "1991-2001 (Forever True)",
+        "url": "https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "In This Defiance",
         "url": "https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 147186,
       "name": "Blistered",
       "url": "https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "The Current Will Carry Us",
-        "url": "https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "The Disconnect",
-      "url": "https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Gomorrah's Season Ends",
-        "url": "https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi"
-      },
-      "artists": [
-        {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Gomorrah's Season Ends",
-      "url": "https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Everything You Know",
         "url": "https://open.spotify.com/album/1g3661VmArydCMCXltxVJk"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203440,
       "name": "Chasing the Dragon",
       "url": "https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Gomorrah's Season Ends",
+        "url": "https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Gomorrah's Season Ends",
+      "url": "https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v"
     },
     {
       "added_at": "2024-02-07 16:33:52",

@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Druhh e Drehh",
-  "num_followers": 133243,
+  "num_followers": 133258,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,30 @@
     {
       "added_at": "2025-07-11 21:17:33",
       "album": {
+        "name": "Mentira ou Verdade",
+        "url": "https://open.spotify.com/album/47M2KL0LuxLBWRe2ZzFGnG"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "duration_ms": 135572,
+      "name": "Mentira ou Verdade",
+      "url": "https://open.spotify.com/track/6aSJk5uVR5aqqzzFQMzsmi"
+    },
+    {
+      "added_at": "2025-07-11 21:17:33",
+      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -291,30 +315,6 @@
       "duration_ms": 171285,
       "name": "J\u00f3ias do Bairro",
       "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
-    },
-    {
-      "added_at": "2025-07-11 21:17:33",
-      "album": {
-        "name": "Mentira ou Verdade",
-        "url": "https://open.spotify.com/album/47M2KL0LuxLBWRe2ZzFGnG"
-      },
-      "artists": [
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        }
-      ],
-      "duration_ms": 135572,
-      "name": "Mentira ou Verdade",
-      "url": "https://open.spotify.com/track/6aSJk5uVR5aqqzzFQMzsmi"
     },
     {
       "added_at": "2025-07-11 21:17:33",

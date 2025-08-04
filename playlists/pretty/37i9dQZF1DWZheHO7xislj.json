@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect dinner.",
-  "num_followers": 141039,
+  "num_followers": 141044,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 138533,
       "name": "Ain't Nothing Like The Real Thing",
       "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered 1993",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/6LCUPmtf6kJpk5p2RPPKQm"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 251013,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/59526I0d4raugRW8MHNxXy"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered 1993",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Rejuvenation",
-        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Rejuvenation",
+        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "I'm Back! Family & Friends",
-        "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
-      },
-      "artists": [
-        {
-          "name": "Sly Stone",
-          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 184413,
       "name": "Love That Girl",
       "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "I'm Back! Family & Friends",
+        "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
+      },
+      "artists": [
+        {
+          "name": "Sly Stone",
+          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "Let's Take a Walk",
+      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 455640,
       "name": "Something",
       "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "Let's Take a Walk",
-      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT"
+      },
+      "artists": [
+        {
+          "name": "Bo Saris",
+          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+        }
+      ],
+      "duration_ms": 243426,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/6xd6wN0uNxx1YMOv1BwHNm"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT"
-      },
-      "artists": [
-        {
-          "name": "Bo Saris",
-          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Tender",
-      "url": "https://open.spotify.com/track/6xd6wN0uNxx1YMOv1BwHNm"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Patches",
-        "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
-      },
-      "artists": [
-        {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
-        }
-      ],
-      "duration_ms": 159040,
-      "name": "Your Love Lifted Me",
-      "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Better Be Home Soon",
         "url": "https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ"
       },
@@ -2115,6 +2099,22 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
+        "name": "Patches",
+        "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
+      },
+      "artists": [
+        {
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+        }
+      ],
+      "duration_ms": 159040,
+      "name": "Your Love Lifted Me",
+      "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
         "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
         "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
       },
@@ -2127,6 +2127,22 @@
       "duration_ms": 254040,
       "name": "Kissing My Love",
       "url": "https://open.spotify.com/track/7fljysjck4bLIJrJihDngN"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -2147,22 +2163,6 @@
       "duration_ms": 369226,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/6V0xxNmBP6lurDkTigzMnp"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -2215,18 +2215,18 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "The Bleeding Edge",
-        "url": "https://open.spotify.com/album/27EWlKpIxk0YCcpc3pI6ge"
+        "name": "You're Not Alone b/w I'm Gonna Get Loaded",
+        "url": "https://open.spotify.com/album/7vPaGFQmtxOh75R5waO8Xl"
       },
       "artists": [
         {
-          "name": "The Revelations featuring Tre Williams",
-          "url": "https://open.spotify.com/artist/6jPnbwYs6cq2QyMrDxDJoV"
+          "name": "Marion Black",
+          "url": "https://open.spotify.com/artist/2VF421Sz9nBUdNzwqSTp7z"
         }
       ],
-      "duration_ms": 338080,
-      "name": "Let's Straighten It Out",
-      "url": "https://open.spotify.com/track/31RB0e7i3uPJfY5qz06ZHO"
+      "duration_ms": 277292,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/4BHS7gFJOU0nrt8XPpv7J8"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -2247,18 +2247,18 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "You're Not Alone b/w I'm Gonna Get Loaded",
-        "url": "https://open.spotify.com/album/7vPaGFQmtxOh75R5waO8Xl"
+        "name": "The Bleeding Edge",
+        "url": "https://open.spotify.com/album/27EWlKpIxk0YCcpc3pI6ge"
       },
       "artists": [
         {
-          "name": "Marion Black",
-          "url": "https://open.spotify.com/artist/2VF421Sz9nBUdNzwqSTp7z"
+          "name": "The Revelations featuring Tre Williams",
+          "url": "https://open.spotify.com/artist/6jPnbwYs6cq2QyMrDxDJoV"
         }
       ],
-      "duration_ms": 277292,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/4BHS7gFJOU0nrt8XPpv7J8"
+      "duration_ms": 338080,
+      "name": "Let's Straighten It Out",
+      "url": "https://open.spotify.com/track/31RB0e7i3uPJfY5qz06ZHO"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
+        "name": "Motown 50",
+        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 411360,
+      "name": "Papa Was A Rollin' Stone - Single Version",
+      "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
         "name": "The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now (Featuring Teddy Pendergrass) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 186617,
       "name": "I Want to Make It with You",
       "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
-        "name": "Motown 50",
-        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 411360,
-      "name": "Papa Was A Rollin' Stone - Single Version",
-      "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
     },
     {
       "added_at": "2025-05-19 12:18:40",
@@ -3011,22 +3011,6 @@
     {
       "added_at": "2025-05-19 12:18:40",
       "album": {
-        "name": "Curtis Mayfield & The Impressions - Universal Masters",
-        "url": "https://open.spotify.com/album/6rF6gE3AuOFNH4IYeOW0Sf"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 157480,
-      "name": "People Get Ready - Single Version",
-      "url": "https://open.spotify.com/track/1MlXd4giftxXZgeMItb3PQ"
-    },
-    {
-      "added_at": "2025-05-19 12:18:40",
-      "album": {
         "name": "Explores Your Mind",
         "url": "https://open.spotify.com/album/37ghryiXDoGdHX3eAvhu47"
       },
@@ -3039,6 +3023,22 @@
       "duration_ms": 225373,
       "name": "Take Me To The River",
       "url": "https://open.spotify.com/track/7a7drPRRR0mY7kOJDvDWjq"
+    },
+    {
+      "added_at": "2025-05-19 12:18:40",
+      "album": {
+        "name": "Curtis Mayfield & The Impressions - Universal Masters",
+        "url": "https://open.spotify.com/album/6rF6gE3AuOFNH4IYeOW0Sf"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 157480,
+      "name": "People Get Ready - Single Version",
+      "url": "https://open.spotify.com/track/1MlXd4giftxXZgeMItb3PQ"
     },
     {
       "added_at": "2025-05-19 12:18:40",

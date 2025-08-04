@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,201 likes - 20 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,214 likes - 20 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 19 | [Lento](https://open.spotify.com/track/5RPnzEJGVUIsWoYDMa2F6t) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [LA V.A Vol\. 1](https://open.spotify.com/album/4yXvFpGRIB9XIUQNKQcLF9) | 6:13 |
 | 20 | [LOOP \(LFO VS\. F.U.S.E.\) \(FUSE MIX\)](https://open.spotify.com/track/4UuRMtLFrn5CSMxayUk8R2) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e), [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [LOOP \(LFO VS\. F.U.S.E.\) \(FUSE MIX\)](https://open.spotify.com/album/0QN1c0QO7lYt9yA5lpbH3n) | 8:29 |
 
-Snapshot ID: `Z240egAAAACaLTxtc0wtUFeQy+IhM5zE`
+Snapshot ID: `Z240egAAAAA8hu7Z7/jEKEKSmcpTIhGK`

@@ -180,6 +180,28 @@
     {
       "album": {
         "name": "Lovesome Thing",
+        "url": "https://open.spotify.com/album/1Bi6JhIeusqvHRaHQ8Oq82"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Reno",
+          "url": "https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK"
+        },
+        {
+          "name": "Emmet Cohen",
+          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262776,
+      "name": "All Roads Lead Back to You",
+      "url": "https://open.spotify.com/track/0vdx7Ru1ANgxu8iE4IMFuI"
+    },
+    {
+      "album": {
+        "name": "Lovesome Thing",
         "url": "https://open.spotify.com/album/2LwV0Qj6AlGJkEeCGxTh6K"
       },
       "artists": [
@@ -202,7 +224,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 262776,
       "name": "All Roads Lead Back to You",
       "url": "https://open.spotify.com/track/19GEHeehDAz2SVAa53N40O"
@@ -3080,6 +3102,28 @@
     {
       "album": {
         "name": "Lovesome Thing",
+        "url": "https://open.spotify.com/album/1Bi6JhIeusqvHRaHQ8Oq82"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Reno",
+          "url": "https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK"
+        },
+        {
+          "name": "Emmet Cohen",
+          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161886,
+      "name": "Still in Love",
+      "url": "https://open.spotify.com/track/1vn7xwRCZd9FYFF9PvSIEm"
+    },
+    {
+      "album": {
+        "name": "Lovesome Thing",
         "url": "https://open.spotify.com/album/2LwV0Qj6AlGJkEeCGxTh6K"
       },
       "artists": [
@@ -3102,7 +3146,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 161886,
       "name": "Still in Love",
       "url": "https://open.spotify.com/track/755CRzLpzZjpMDPl5G1iE1"

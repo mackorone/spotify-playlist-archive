@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Paz Carrara",
-  "num_followers": 65893,
+  "num_followers": 65920,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-08-01 03:00:07",
       "album": {
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Obsesionario en La Mayor",
+      "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
+    },
+    {
+      "added_at": "2025-08-01 03:00:07",
+      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 213480,
       "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
-    },
-    {
-      "added_at": "2025-08-01 03:00:07",
-      "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Obsesionario en La Mayor",
-      "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
     },
     {
       "added_at": "2025-08-01 03:00:07",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-08-01 03:00:07",
       "album": {
-        "name": "Mordisco",
-        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "19 (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
-    },
-    {
-      "added_at": "2025-08-01 03:00:07",
-      "album": {
         "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
         "url": "https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 184232,
       "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
       "url": "https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS"
+    },
+    {
+      "added_at": "2025-08-01 03:00:07",
+      "album": {
+        "name": "Mordisco",
+        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "19 (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
     },
     {
       "added_at": "2025-08-01 03:00:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-08-01 03:00:07",
       "album": {
-        "name": "Disco Rayado",
-        "url": "https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 151912,
-      "name": "Disco Rayado",
-      "url": "https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7"
-    },
-    {
-      "added_at": "2025-08-01 03:00:07",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2025-08-01 03:00:07",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+        "name": "Disco Rayado",
+        "url": "https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+      "duration_ms": 151912,
+      "name": "Disco Rayado",
+      "url": "https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7"
     },
     {
       "added_at": "2025-08-01 03:00:07",
@@ -1163,6 +1147,22 @@
       "duration_ms": 192226,
       "name": "Fue Amor",
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2025-08-01 03:00:07",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     },
     {
       "added_at": "2025-08-01 03:00:07",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-08-01 03:00:07",
       "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "La Fuerza del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
-    },
-    {
-      "added_at": "2025-08-01 03:00:07",
-      "album": {
         "name": "La traici\u00f3n",
         "url": "https://open.spotify.com/album/0RL5iVXxnP2IwHggO8BBgC"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 219750,
       "name": "La traici\u00f3n",
       "url": "https://open.spotify.com/track/1iofHMtGYQZY3NMEv641IQ"
+    },
+    {
+      "added_at": "2025-08-01 03:00:07",
+      "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "La Fuerza del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
     },
     {
       "added_at": "2025-08-01 03:00:07",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-08-01 03:00:07",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/5p0YTkU041GFeyGOscsIFg"
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
         }
       ],
-      "duration_ms": 248245,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0rZWg45KfPQn17GvI6ryNF"
+      "duration_ms": 267960,
+      "name": "Coraz\u00f3n Salvaje",
+      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
     }
   ],
   "unique_name": "Esto es Pop",

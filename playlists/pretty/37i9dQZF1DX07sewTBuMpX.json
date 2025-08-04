@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Cristian D",
-  "num_followers": 139940,
+  "num_followers": 139949,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "Voorzichtig",
         "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 143015,
       "name": "Voorzichtig",
       "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
-      },
-      "artists": [
-        {
-          "name": "Yssine",
-          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "Herinnering",
         "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
       },
@@ -1527,22 +1511,18 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
       },
       "artists": [
         {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
         }
       ],
-      "duration_ms": 172271,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1559,6 +1539,26 @@
       "duration_ms": 150840,
       "name": "In De Nacht",
       "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
     },
     {
       "added_at": "2025-07-17 22:00:46",

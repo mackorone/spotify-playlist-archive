@@ -9602,7 +9602,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 270967,
-      "name": "Nobody",
+      "name": "Nobody (Extended Mix)",
       "url": "https://open.spotify.com/track/3osBSgwcOSvcFhUE1SBztt"
     },
     {
@@ -10726,7 +10726,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 200440,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/60P2oWucNoN42kb80XRiaW"
@@ -12484,6 +12484,28 @@
       "duration_ms": 261120,
       "name": "So What",
       "url": "https://open.spotify.com/track/73hU9Ye6vhw2STDJDwkviE"
+    },
+    {
+      "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/3ebQKGw7PZDttiWa9Ssz5i"
+      },
+      "artists": [
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/4jdHLaiKIeK4Mz6WTcGGn9"
     },
     {
       "album": {

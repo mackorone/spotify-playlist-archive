@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Jinu & Rumi 🫶🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,742 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,749 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [LUSTER](https://open.spotify.com/track/65sSwF7kt1atOy0RXfy3Od) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [LUSTER](https://open.spotify.com/album/04ZzefredPlk50sph2nju1) | 2:23 |
 | 100 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 
-Snapshot ID: `aIw74gAAAABF8rLsgR6MxCdxGG95WhiL`
+Snapshot ID: `AAAAAPUz/GVPNURxBwxRDQU/b3PwlDwJ`

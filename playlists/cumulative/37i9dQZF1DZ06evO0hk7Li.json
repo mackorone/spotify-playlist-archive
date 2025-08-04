@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0T2Echuro2d0KUJdbkRNFa"
+    },
+    {
+      "album": {
         "name": "Yonder: Book II",
         "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
       },
@@ -274,7 +292,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 204778,
       "name": "Blind",
       "url": "https://open.spotify.com/track/6Yk2g7SHvLwpPHhLtqEveo"
@@ -1308,10 +1326,28 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 107353,
       "name": "Move Like Me",
       "url": "https://open.spotify.com/track/3Mm5uaqwKgZmevUVEBiytY"
+    },
+    {
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107353,
+      "name": "Move Like Me",
+      "url": "https://open.spotify.com/track/6dCdOzsea9tGh7a14jl3wL"
     },
     {
       "album": {

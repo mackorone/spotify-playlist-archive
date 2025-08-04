@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 132310,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/6pfSkblIvBclJXPvFcwNaf"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 135335,
       "name": "Birds Be Like",
       "url": "https://open.spotify.com/track/4i81dqSMGtv3imzSC5hVLf"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 175609,
       "name": "Digital Hell (KinitoPET Song)",
       "url": "https://open.spotify.com/track/2Ydn79hWyJuzElWRk0sO0Z"
@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Dumbass of the Century",
+        "url": "https://open.spotify.com/album/2utuabIBmucnFPVawLqj67"
+      },
+      "artists": [
+        {
+          "name": "Spott",
+          "url": "https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Dumbass of the Century",
+      "url": "https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI"
+    },
+    {
+      "album": {
         "name": "Pent Up Pup",
         "url": "https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ"
       },
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 278700,
       "name": "i'm down",
       "url": "https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 173947,
       "name": "lemonade",
       "url": "https://open.spotify.com/track/7uWPcxNE6mdtDzKR9hinlN"
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 171687,
       "name": "MY--CURSORIAL-.--INSTINCT",
       "url": "https://open.spotify.com/track/7N40r84FCLtwc0g35MRtOU"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 127246,
       "name": "plug me in",
       "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
@@ -2882,7 +2900,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "re:ARRANGEMENT",
       "url": "https://open.spotify.com/track/13F6tG0As0WV4fSx6WX9NP"
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 131378,
       "name": "superposition",
       "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
@@ -3392,7 +3410,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 135529,
       "name": "The Ultimate Swag",
       "url": "https://open.spotify.com/track/3m5UPxagPp7T6hA7Kh7Iil"
@@ -3464,7 +3482,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 148500,
       "name": "VICTIMiZED",
       "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
@@ -3642,7 +3660,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "Who are you pretending to be?",
       "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-04",
       "duration_ms": 108000,
       "name": "\u4eba\u6c17\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b5\u30fc\u2606",
       "url": "https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk"

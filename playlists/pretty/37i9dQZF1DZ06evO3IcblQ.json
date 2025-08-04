@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 34876,
+  "num_followers": 34881,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAADgyQ92Q7RhteDwIdlKQf/O",
+  "snapshot_id": "aI1VAAAAAAC0Fd8WiTq2fFByElAay0KG",
   "tracks": [
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Stand Strong",
-      "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
+      "duration_ms": 172066,
+      "name": "My Own Way",
+      "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 172066,
-      "name": "My Own Way",
-      "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
+      "duration_ms": 190653,
+      "name": "Stand Strong",
+      "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 97840,
-      "name": "Pennywise - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 195333,
       "name": "Greed",
       "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 97840,
+      "name": "Pennywise - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
     },
     {
       "added_at": null,
@@ -604,25 +604,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 161573,
-      "name": "Something to Change",
-      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "We Have It All",
-      "url": "https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7"
+      "duration_ms": 179626,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 161666,
       "name": "Straight Ahead",
       "url": "https://open.spotify.com/track/2hnXPU065OUTJo3orgiOWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "We Have It All",
+      "url": "https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 179626,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK"
+      "duration_ms": 161573,
+      "name": "Something to Change",
+      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-594 songs - 1 day 8 hr 14 min
+595 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/6oDctYXnBBbnHzqE2O39ee) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [The Motown Story](https://open.spotify.com/album/5onZQsi7rRtvnh00P8cFxe) | 2:21 | 2024-07-24 |  |
 | [Don't Fence Me In](https://open.spotify.com/track/6qg3c1oettgiSNdlU2ghyq) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby Gold: No\. 1 Hits Plus](https://open.spotify.com/album/6bRoG6Q8T63QFmiuJPwnLJ) | 3:06 | 2025-07-26 |  |
 | [Don't Fence Me In](https://open.spotify.com/track/7813tvGDGtLs8uLNVPxNX0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [My Greatest Songs](https://open.spotify.com/album/2CiNrYDItFe7BLO2hlSjp8) | 3:07 | 2025-06-27 | 2025-07-27 |
-| [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 | 2024-07-24 |  |
+| [Don't Fence Me In / Strollin'](https://open.spotify.com/track/2FGos9m311HS6Fxd1F6Kdt) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [Don’t Fence Me In / Strollin’](https://open.spotify.com/album/2CQZOR7ytCpZ02SY3mjXAs) | 3:53 | 2025-08-03 |  |
+| [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 | 2024-07-24 | 2025-08-04 |
 | [Don't Look At Me That Way](https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:59 | 2024-07-24 |  |
 | [Don't Take Everybody To Be Your Friend](https://open.spotify.com/track/7ytWVZ6T7DoLypwFIa3VIh) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Up Above My Head](https://open.spotify.com/album/4I8sQwxcyWI979ZcYGPMf5) | 2:26 | 2025-06-27 |  |
 | [Doop\-Doo\-De\-Doop \(A Doodlin' Song\)](https://open.spotify.com/track/5r9fHK6iHnW37KzHSEFLdw) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:19 | 2024-07-24 |  |

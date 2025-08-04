@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: RinRin
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,222 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,258 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 74 | [Blood War](https://open.spotify.com/track/6uUZvAjOldmrNBOKvlL3L6) | [A Moments Notice](https://open.spotify.com/artist/1sz0RJzPpzXkA0Njm1tPra) | [Blood War](https://open.spotify.com/album/6Zlyyy0PhdcG1f9glVOVXk) | 3:23 |
 | 75 | [DINY](https://open.spotify.com/track/6qSb8xljIGls8DjEZitzCH) | [Pridian](https://open.spotify.com/artist/6j9qQhHkmEilFly1bGSvpN) | [DINY](https://open.spotify.com/album/5Va25nS5MtLDTO0ro1lbY3) | 4:27 |
 
-Snapshot ID: `aImY2gAAAADndRY5YoHMJCYG5kbIIhC+`
+Snapshot ID: `AAAAAMNzOuUyQFkdxdG/ODUMv7GumOJQ`

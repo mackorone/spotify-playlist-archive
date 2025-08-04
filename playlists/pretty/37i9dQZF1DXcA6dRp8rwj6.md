@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: YG, Leon Thomas\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,877 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,929 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [STAMINA](https://open.spotify.com/track/40i7vkc0iEaNXpFwppz8q3) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [STAMINA](https://open.spotify.com/album/0351ZKuJpwc1xnSvSAOWVU) | 2:22 |
 | 100 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 |
 
-Snapshot ID: `AAAAAA0qa2Q1ILVudweWXzWB2UecZxNx`
+Snapshot ID: `aIwm4gAAAACHDTx0WxsKWxqOYoPJ3b16`

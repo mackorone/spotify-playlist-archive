@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243923,
+  "num_followers": 243922,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,30 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "duration_ms": 168398,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Verden",
         "url": "https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2"
       },
@@ -819,30 +843,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Dinia",
-          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
-        }
-      ],
-      "duration_ms": 168398,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
       },
@@ -863,8 +863,8 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "New Fires",
-        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
       },
       "artists": [
         {
@@ -872,13 +872,13 @@
           "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         },
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
         }
       ],
-      "duration_ms": 251591,
-      "name": "New Fires",
-      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
+      "duration_ms": 247730,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/5sDLRWZHNSxWX0KoKdOgNI"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 161829,
       "name": "Let It Bleed",
       "url": "https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -991,22 +991,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
+        "name": "Can't Love Myself (feat. Mishaal & LPW)",
+        "url": "https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        },
+        {
+          "name": "LPW",
+          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
         }
       ],
-      "duration_ms": 247730,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
+      "duration_ms": 156659,
+      "name": "Can't Love Myself (feat. Mishaal & LPW)",
+      "url": "https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx"
     }
   ],
   "unique_name": "melancholia",

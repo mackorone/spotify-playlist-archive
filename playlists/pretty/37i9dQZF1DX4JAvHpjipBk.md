@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Chappell Roan, Metro Boomin, Reneé Rapp, Mariah the Scientist, Hayley Williams, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,422,264 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,421,988 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [All Hearts Beat](https://open.spotify.com/track/0398YEQ9aQ8AlPHkG8PEB1) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [All Hearts Beat](https://open.spotify.com/album/7g7WPnrCEAnpvEVVriZRh5) | 5:41 |
 | 100 | [The Interview](https://open.spotify.com/track/0hNqw95TQX5RoB4j7QIk4L) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [The Interview](https://open.spotify.com/album/3s8KGS52Bk5y7gM8DBfd1o) | 2:04 |
 
-Snapshot ID: `aIz1TgAAAACOPVEJxe1lvJettcjSRHf7`
+Snapshot ID: `AAAAAC7ZKhs2EMGwzqA2n+9oSff8s8+z`

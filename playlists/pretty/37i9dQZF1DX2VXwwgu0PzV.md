@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,294 likes - 139 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,671 likes - 139 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 138 | [Radical](https://open.spotify.com/track/73x1RKOULcFwHI4fXEVJPu) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Radical](https://open.spotify.com/album/1qH7PKSm7heJPJVtl89bIc) | 2:40 |
 | 139 | [Doing Of The Lord](https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Doing Of The Lord](https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD) | 4:19 |
 
-Snapshot ID: `aI4XIwAAAAADEMgOMNYbfGrFapiAd6kk`
+Snapshot ID: `AAAAAAUWtw7ftrtc6L2BdPiIEZMAQ9VA`

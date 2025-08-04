@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 
 > but listened to this instead
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,636 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,699 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 | 49 | [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 |
 | 50 | [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 |
 
-Snapshot ID: `aG5eMgAAAACrjrDhIdE0/PmYfV5Byppu`
+Snapshot ID: `AAAAAI2bSfD5gAUcYeHJNBZ+IHlwxO/l`

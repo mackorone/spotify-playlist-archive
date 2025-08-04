@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kizo, Kaz Bałagane, Young Igi
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,546 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,593 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [TO NIE MA ZNACZENIA](https://open.spotify.com/track/5Z1HsKTp6rmCOYu54nfKji) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [TRAP OR DIE](https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS) | 2:56 |
 | 50 | [Dom Nad Wodą](https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Muzyka Komercyjna \(Deluxe\)](https://open.spotify.com/album/0btfWeG02knwyMwwTjySgo) | 3:15 |
 
-Snapshot ID: `aIvniAAAAAB9TKg7TCBjpTNx1lkqAsJ4`
+Snapshot ID: `aIvniAAAAABV3KELCOznGS/SVzCtdtmx`

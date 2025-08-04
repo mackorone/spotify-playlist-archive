@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 NOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,115 likes - 107 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,120 likes - 107 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 106 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 |
 | 107 | [Boca de Dama](https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Exquisito como el Disgusto](https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP) | 4:23 |
 
-Snapshot ID: `AAAAANnXG7yYeSpL6pLMj+YGv+mTDn7r`
+Snapshot ID: `aILzSwAAAACPoa+aGpcJYldbM8uQ/mU6`

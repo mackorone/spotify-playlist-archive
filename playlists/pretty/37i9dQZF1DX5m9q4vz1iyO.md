@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5m9q4vz1iyO.md) - [plain]
 
 > Boef: "Om een uur met z'n tweeën op een driewieler\. Ik ga niks vieren in die 5\-bak\. Ik moet nog langs 6 clannies bro begrijp dat"
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,099 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,124 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5m9q4vz1iyO.md) - [plain]
 | 79 | [Drop Top](https://open.spotify.com/track/4k12HV48jKYfTnsnD5BVEI) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti) | [Drop Top](https://open.spotify.com/album/5CCfES6dP1rCAAWWaynD2q) | 3:34 |
 | 80 | [Allemaal Voor Niks](https://open.spotify.com/track/7GnodpaLe9JRbhqNnlt2bO) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Vic9](https://open.spotify.com/artist/7FGPqGAnNztJ6mQniyFLt9) | [Allemaal Voor Niks](https://open.spotify.com/album/46w04sv1reHDl8Cb5tp2TQ) | 3:04 |
 
-Snapshot ID: `AAAAADFn3NT1RNDxiKcGiB0DtLRW0KOX`
+Snapshot ID: `ZgGAfgAAAAB+AsNuvebYlFK45T3pr1IQ`

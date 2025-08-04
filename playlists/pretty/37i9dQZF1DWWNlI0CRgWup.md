@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Camille Yembe
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,429 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,427 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 64 | [L’heure bleue](https://open.spotify.com/track/04ic5De5mCJS8iqVlrRrpQ) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Histoire d’un masque](https://open.spotify.com/album/5ejWWUcecAbiW4abPX6DOh) | 2:16 |
 | 65 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `aHZCygAAAAD24sdcPesg43BXd6MfoyFT`
+Snapshot ID: `aHZCygAAAACzfLGk58hpCVBWfnXOSVtj`

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 39 min 49 sec
+[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 40 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
-| 2 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 |
-| 3 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
-| 4 | [Angels](https://open.spotify.com/track/5FE6yuD51s3qtJaIer0uP1) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv) | 3:56 |
-| 5 | [Crybaby](https://open.spotify.com/track/43lQZ4X4XGy8dDgr61zvf9) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 3:56 |
-| 6 | [Are You Serious](https://open.spotify.com/track/2OYmCSVGmN5vXuG5dX5LKY) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Are You Serious](https://open.spotify.com/album/6TqAnRWjGY3ztfajmS0HSG) | 3:38 |
-| 7 | [Leave Me Out Of This](https://open.spotify.com/track/5skzJWVbi9RqijKtOSTTn1) | [Brontez Purnell](https://open.spotify.com/artist/5rTfSsNbSVZhGMw3xoq7Yf) | [White Boy Music](https://open.spotify.com/album/3cm3yILwnVfmQKFcQfuNwa) | 2:12 |
-| 8 | [The Irrationality of Rationality](https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:32 |
-| 9 | [Elements](https://open.spotify.com/track/6z9YatCVvwtXltGLIzpDAS) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [When The Wind Forgets Your Name](https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN) | 5:48 |
-| 10 | [I Will Miss the Jasmine](https://open.spotify.com/track/15PnQyKcrZVbwyr4a7qiNR) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Gone by the Dawn](https://open.spotify.com/album/1yaA6kb5SAcXamZ8pcm4CY) | 2:36 |
-| 11 | [Slow](https://open.spotify.com/track/3DkJe7WzfORrqrwJjLIwAw) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
+| 1 | [TWO DAYS](https://open.spotify.com/track/4ctB5Ns5kSzqp9c4b4XO1R) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 2:14 |
+| 2 | [Release](https://open.spotify.com/track/3xAka0D8585mDoShALnsd7) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 9:06 |
+| 3 | [The Dog/ The Body](https://open.spotify.com/track/3Ff5mXht50EL5LyBm24A5t) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/6ArjrXMlLegKiAPOp34K58) | 4:22 |
+| 4 | [Thank God For The Radio](https://open.spotify.com/track/4HbM2Oau8p4pL9T3B7Wpqk) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 3:19 |
+| 5 | [Trash](https://open.spotify.com/track/4DEYwr2SLpvj6plN2ngIfB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:26 |
+| 6 | [BULLFROG](https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 1:34 |
+| 7 | [Dancer](https://open.spotify.com/track/15uzP4I5pMX4dfQ9Lx72h1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [TANGK](https://open.spotify.com/album/13fXtIpIyvz4D5Ny3TSHym) | 3:09 |
+| 8 | [Arthur's Song](https://open.spotify.com/track/1NYPbfyO0p0Te6jdiynhVS) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J) | [Southsiders \(Deluxe Version\)](https://open.spotify.com/album/6fhSv9pdJKmQerX6b3Y9Wn) | 3:21 |
+| 9 | [Frank Lucas \(feat\. Benny the Butcher\)](https://open.spotify.com/track/2pFC6DEdMhxQWUTptwVyS4) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 4:41 |
+| 10 | [Realer](https://open.spotify.com/track/3qVNNJ7f9RQeNR4iPIeS0c) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:29 |
+| 11 | [Excuse Me Mr.](https://open.spotify.com/track/7E7UH5jsEw1vhiM01EQ5gL) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:05 |
 
-Snapshot ID: `AAAHAbYyc2/RQsesAkRtPeklHy4eVqsC`
+Snapshot ID: `AAAHF+Wj3ONviPxc2UPP0yzArT8q1OCd`

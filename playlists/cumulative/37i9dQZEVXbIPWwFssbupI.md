@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,386 songs - 5 day 5 hr 47 min
+2,387 songs - 5 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-12-14 | 2025-01-26 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-01-12 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-07-01 | 2021-10-31 |
-| [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 | 2025-05-17 | 2025-08-03 |
+| [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 | 2025-05-17 |  |
 | [Badman Trip](https://open.spotify.com/track/72sNoilzbclWcY1eRVAaJr) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:11 | 2021-11-14 | 2021-11-19 |
 | [Bah Ouais](https://open.spotify.com/track/7hPuSCBhCq0NEhZ6PPIS3y) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 3:21 | 2024-09-14 | 2024-09-22 |
 | [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 | 2024-07-23 | 2025-01-12 |
@@ -1393,7 +1393,7 @@
 | [Manifeste](https://open.spotify.com/track/0dhZSfQGvCPaJQKlPtjrt2) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 7:22 | 2021-11-21 | 2021-12-04 |
 | [Mannschaft \(feat\. Freeze Corleone\)](https://open.spotify.com/track/03cOUvF1fyW60AuUfUNiDc) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:47 | 2021-03-27\* | 2021-05-30 |
 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 | 2024-08-31 | 2024-09-22 |
-| [MANON B](https://open.spotify.com/track/6C0SXfD7rR46MpWK5VJSEw) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 2:49 | 2024-09-21 |  |
+| [MANON B](https://open.spotify.com/track/6C0SXfD7rR46MpWK5VJSEw) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 2:49 | 2024-09-21 | 2025-08-04 |
 | [Manque de sommeil](https://open.spotify.com/track/2EQ1rPbLjeAfGIoT1YheVN) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 2:46 | 2022-06-11 | 2022-06-16 |
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2021-07-05 | 2021-09-26 |
 | [Manège](https://open.spotify.com/track/5r6vHUbL1k7wNXm1yGtXaW) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/0miXnV4jvnDLEEb2PCXjWm) | 2:29 | 2021-09-26 | 2021-10-03 |
@@ -1423,6 +1423,7 @@
 | [Mayday](https://open.spotify.com/track/1yFo7Eryhdnz05dHBeQ8z4) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:56 | 2023-03-04 | 2023-03-09 |
 | [Mazé](https://open.spotify.com/track/26MSXbkXixHzbJG1Id9uOQ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:00 | 2023-06-10 | 2023-06-12 |
 | [MBIFE](https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO) | 3:49 | 2025-06-21 | 2025-06-29 |
+| [Me Enamore](https://open.spotify.com/track/1LVcP0l8OSboArtcE2ycol) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:09 | 2025-08-03 |  |
 | [Me prends pas la tête](https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:20 | 2024-06-08 | 2024-06-10 |
 | [MEGAN](https://open.spotify.com/track/7jKTOPxB05mVdQr79VY7x8) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:35 | 2025-06-21 | 2025-06-23 |
 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 | 2025-04-05 |  |
@@ -1793,7 +1794,7 @@
 | [Pélican](https://open.spotify.com/track/4liOLSxxEllQ61qaR4pFJL) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Nés Pour Briller : Book I](https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b) | 2:45 | 2025-02-22 |  |
 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 | 2023-12-16 | 2024-01-21 |
 | [Périph](https://open.spotify.com/track/65w1B0wLPnEICOfSl7C4Op) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:48 | 2024-01-20 | 2024-02-11 |
-| [Pétunias](https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS) | 3:30 | 2024-10-05 |  |
+| [Pétunias](https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS) | 3:30 | 2024-10-05 | 2025-08-04 |
 | [Quand j'y repense](https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:14 | 2022-10-01 | 2022-10-30 |
 | [Quand tout s'enflamme](https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Années Sauvages](https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN) | 2:50 | 2023-02-04 | 2023-02-19 |
 | [Quand T’es Là](https://open.spotify.com/track/5ZDWCmJWZIGeNQfXmXbD9z) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 2:49 | 2023-03-11 | 2023-03-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,707 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,715 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Is There A Way Out?](https://open.spotify.com/track/6rf4bVvre0irREvjoCeWMC) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [\(S\)KiDS](https://open.spotify.com/album/3gRaegdXON3OTLuzDFRmdy) | 2:09 |
 | 100 | [Jennifer's Body](https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Jennifer's Body](https://open.spotify.com/album/1mOHFGk4ujYJT06VRxWfvL) | 2:32 |
 
-Snapshot ID: `aIw73AAAAABOnLyqCZDf8hmNzQ9aWjvn`
+Snapshot ID: `aIw73AAAAABnP81bR3SxVyjh0KpZEyZd`

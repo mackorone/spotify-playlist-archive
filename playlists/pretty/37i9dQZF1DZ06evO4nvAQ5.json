@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15660,
+  "num_followers": 15670,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIwDgAAAAAAzmUPu6PYgXsQ+xfzXy2z1",
+  "snapshot_id": "aI1VAAAAAAA5atO9H3orpfVlMacISXZJ",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uma",
+        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 202650,
+      "name": "Uma",
+      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't No Love Like",
         "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 197848,
       "name": "Replay",
       "url": "https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uma",
-        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202650,
-      "name": "Uma",
-      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Raggamuffin",
-      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
     },
     {
       "added_at": null,
@@ -887,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/4ox48Ht5G3Au7TTs13irYE"
       },
       "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 223393,
-      "name": "Love's Close Around",
-      "url": "https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA"
+      "duration_ms": 205254,
+      "name": "Just You & Me",
+      "url": "https://open.spotify.com/track/4OAleoaaFQcvHKGc3gQkv1"
     },
     {
       "added_at": null,
@@ -919,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/4ox48Ht5G3Au7TTs13irYE"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
       },
       "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 205254,
-      "name": "Just You & Me",
-      "url": "https://open.spotify.com/track/4OAleoaaFQcvHKGc3gQkv1"
+      "duration_ms": 223393,
+      "name": "Love's Close Around",
+      "url": "https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA"
     },
     {
       "added_at": null,
@@ -983,18 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/5lMVd72TszpNSh7tjeeDm0"
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
         }
       ],
-      "duration_ms": 215423,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/2tRhRg1VpTSZnB5AVVPy0i"
+      "duration_ms": 248000,
+      "name": "She Give Me Lovin'",
+      "url": "https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe"
     }
   ],
   "unique_name": "This Is J Boog",

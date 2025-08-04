@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: Rema 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,071 likes - 81 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,109 likes - 81 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 80 | [Obimo](https://open.spotify.com/track/0YfgKt9WlVCXPEx0HGvrds) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Obimo](https://open.spotify.com/album/029jK5j2qqcKKn4vMTm5o9) | 2:35 |
 | 81 | [How Much](https://open.spotify.com/track/2fpzvqdLqHJYBA6iPYICBT) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [ROOKIES don’t sound this good](https://open.spotify.com/album/7INJicBsDhZK1ygNCxsKiW) | 2:19 |
 
-Snapshot ID: `aIw72QAAAABSslqDzRizdgABp0bYPNoO`
+Snapshot ID: `AAAAAJ6ifyrV7viph0kRhpsapuY3DCcp`

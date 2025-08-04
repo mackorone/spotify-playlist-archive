@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 | 99 | [Fineshrine](https://open.spotify.com/track/5KeyVNymqfqac1wLDseK8v) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Shrines](https://open.spotify.com/album/7ppypgQppMf3mkRbZxYIFM) | 3:29 |
 | 100 | [Busy Earnin'](https://open.spotify.com/track/07tOsOR7E9zW89v2FqzsdG) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/7oZG5VZ4SukMmnylJ16O24) | 3:01 |
 
-Snapshot ID: `ZIsSyAAAAAAYWz2Wxn4aIzPsk6k/PGHN`
+Snapshot ID: `AAAAACIyTUobNEqb7SHbp71ymwmj7ArM`

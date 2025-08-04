@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-282 songs - 16 hr 38 min
+283 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Be Careful](https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:30 | 2023-12-13 |  |
 | [Be Careful](https://open.spotify.com/track/3rb2RMzmaK8VtWjhDhOLQb) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Be Careful](https://open.spotify.com/album/4kBYG1YGontZmc4AXeA0bN) | 4:10 | 2023-12-19 | 2024-02-02 |
 | [Beach Boy](https://open.spotify.com/track/1jNyxG5S2P9gztbfAnrq85) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 4:43 | 2023-12-13 |  |
-| [Because Of You](https://open.spotify.com/track/75N0cen8wTAlL5nPFprGoE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Because Of You](https://open.spotify.com/album/35K2EC0ekebCHw5sHn5i1B) | 2:27 | 2023-12-13 |  |
+| [Because Of You](https://open.spotify.com/track/0XZ58tx8JXhlB2lwWgPINg) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heart Break Kodak \(HBK\) \[Expanded Edition\]](https://open.spotify.com/album/6u4sVqykqU3XpMc4is6q9j) | 2:27 | 2025-08-03 |  |
+| [Because Of You](https://open.spotify.com/track/75N0cen8wTAlL5nPFprGoE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Because Of You](https://open.spotify.com/album/35K2EC0ekebCHw5sHn5i1B) | 2:27 | 2023-12-13 | 2025-08-04 |
 | [Bentley Truck](https://open.spotify.com/track/4SbiF0fFPbhG3it1foH7MG) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [COLLEGROVE](https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD) | 4:35 | 2023-12-13 |  |
 | [Better](https://open.spotify.com/track/4W1HsvmcGtusNPyqdVOqaV) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 4:40 | 2023-12-13 |  |
 | [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:51 | 2023-12-15 |  |

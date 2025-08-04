@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem KayBlack, Lauana Prado, Demi Lovato, Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129,208 likes - 91 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,129,113 likes - 91 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 70 | [Country de Fé](https://open.spotify.com/track/35J9Agr1WtHnYGZYluAX7u) | [Gabriel Sales](https://open.spotify.com/artist/6tcNRB3rCmYF41qZo5UXkL) | [Country de Fé](https://open.spotify.com/album/36rAMXwB4wokbvjtJMMEWA) | 2:57 |
 | 71 | [Eu Te Amo](https://open.spotify.com/track/6HbrrBJS5MPlGzfs397WHh) | [Nando Luiz](https://open.spotify.com/artist/61LAptAdm9WDujlhgqDa7F) | [Eu Te Amo](https://open.spotify.com/album/2ZJR2bNNCOjaFpIXbWH1Ve) | 2:53 |
 | 72 | [Momento Só Nós](https://open.spotify.com/track/5IFJg9gf7OFxkQ02GEINGK) | [Ucha](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Momento Só Nós](https://open.spotify.com/album/7J822C9NbX3uXV8VEeJirq) | 2:12 |
-| 73 | [Cara de Sorte](https://open.spotify.com/track/4nI1J4o7F7YrUeSuczFHoG) | [Fernando Salem](https://open.spotify.com/artist/0eyVFqgaOh0DkKyn2zUHn6), [joão sirangelo](https://open.spotify.com/artist/3AMnLlZbCwL157VFUFTEgn) | [Cara de Sorte](https://open.spotify.com/album/3DoCYW4Y50vamhj7LZ0N29) | 4:29 |
+| 73 | [Cara de Sorte](https://open.spotify.com/track/4nI1J4o7F7YrUeSuczFHoG) | [Fernando Salem](https://open.spotify.com/artist/0eyVFqgaOh0DkKyn2zUHn6), [João Sirangelo](https://open.spotify.com/artist/7LNl6j30Uacov4KidL8H2U) | [Cara de Sorte](https://open.spotify.com/album/3DoCYW4Y50vamhj7LZ0N29) | 4:29 |
 | 74 | [SE NÃO FOR VOCÊ](https://open.spotify.com/track/07g6lmHFSud1Suf2BvMdKb) | [Marco Baptista](https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [SE NÃO FOR VOCÊ](https://open.spotify.com/album/1sMHsOF7hLhJpoLbzcLNY0) | 2:57 |
 | 75 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
 | 76 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 90 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 91 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 |
 
-Snapshot ID: `aI0ulgAAAADQFwDhJRQWG9dx5wAiz5UU`
+Snapshot ID: `aI0ulgAAAACBreAJGgGGbfekZsvD/I9k`
