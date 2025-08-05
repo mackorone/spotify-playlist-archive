@@ -1,4 +1,4 @@
-## Playlists \(8715\)
+## Playlists \(8716\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2198,6 +2198,7 @@
 - [Feel Good Jazz](/playlists/pretty/37i9dQZF1DWZCkamcYMQkz.md)
 - [Feel Good Look Good](/playlists/pretty/37i9dQZF1DX18vEkgMAyAR.md)
 - [Feel Good Piano](/playlists/pretty/37i9dQZF1DXcEKFjZJYZcc.md)
+- [Feel Good Rainy Day Mix](/playlists/pretty/37i9dQZF1EIf4EEWCfsCwr.md)
 - [Feel Good Rock](/playlists/pretty/37i9dQZF1DXdowzKiHFkSQ.md)
 - [Feel Good Soundtracks](/playlists/pretty/37i9dQZF1DWXahxq4Q8el6.md)
 - [Feel Good Summer](/playlists/pretty/37i9dQZF1DX9fZ7amiNVu6.md)
