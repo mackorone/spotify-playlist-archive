@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4879,
+  "num_followers": 4881,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAARPp7wSXOu/Eg7g/mRry0R",
+  "snapshot_id": "aI6mgAAAAAD3zA0+IWtFSEEsCQkO44fe",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 198482,
+      "name": "BLACK PEARLS (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KLUBFETISH",
         "url": "https://open.spotify.com/album/0YWta22ockLSMT0EA4I07s"
       },
@@ -595,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
       "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 198482,
-      "name": "BLACK PEARLS (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
+      "duration_ms": 148069,
+      "name": "Rainbow Cadillac",
+      "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 148069,
-      "name": "Rainbow Cadillac",
-      "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "oOo that's my type (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
       },
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tate Tuesday, Vol. 1",
         "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+        "name": "Eenie Meenie",
+        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
+      "duration_ms": 142175,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
     },
     {
       "added_at": null,
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eenie Meenie",
-        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 142175,
-      "name": "Eenie Meenie",
-      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
+      "duration_ms": 166950,
+      "name": "Focused",
+      "url": "https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 157575,
       "name": "Straight",
       "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Focused",
-      "url": "https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE"
     },
     {
       "added_at": null,
@@ -907,6 +907,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 161035,
+      "name": "Me First",
+      "url": "https://open.spotify.com/track/0LhgsQDr1TtG4e21NVn7tS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "5th Chakra",
+      "url": "https://open.spotify.com/track/5mjkdku1YmRIfOxX0S1OID"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -931,38 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "5th Chakra",
-      "url": "https://open.spotify.com/track/5mjkdku1YmRIfOxX0S1OID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Been in My Bag",
-        "url": "https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 134164,
-      "name": "Been in My Bag",
-      "url": "https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -979,34 +979,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty (Remix)",
-        "url": "https://open.spotify.com/album/2MFhY2h3Eb6IvQ6AWmxIKs"
+        "name": "Been in My Bag",
+        "url": "https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO"
       },
       "artists": [
         {
-          "name": "PARTYOF2",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
-        },
-        {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
-        },
-        {
-          "name": "TJOnline",
-          "url": "https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
         }
       ],
-      "duration_ms": 247680,
-      "name": "Nasty - Remix",
-      "url": "https://open.spotify.com/track/2vyg7GnDSTYQQr0KbvLPvI"
+      "duration_ms": 134164,
+      "name": "Been in My Bag",
+      "url": "https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC"
     }
   ],
   "unique_name": "This Is Baby Tate",

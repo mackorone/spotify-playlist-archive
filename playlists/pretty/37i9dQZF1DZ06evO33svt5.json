@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1072900,
+  "num_followers": 1072936,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAACQ4auMSH8H1HzcqOd4Q5jS",
+  "snapshot_id": "aI6mgAAAAABI7N/FsxZ2HOblO4EwZBkg",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Us (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 172877,
-      "name": "Just Us (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": null,
@@ -459,26 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+        "name": "Just Us (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+      "duration_ms": 172877,
+      "name": "Just Us (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
       "added_at": null,

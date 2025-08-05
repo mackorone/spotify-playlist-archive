@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Luccas Carlos, Lukinhas, Alee, Duquesa, Sant, MC Cabelinho, Tz da Coronel, Salve Malak
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,311 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,375 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Eu Vou](https://open.spotify.com/track/2bJ6WddY66cCDsBKVXj85z) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Eu Vou](https://open.spotify.com/album/15IyNVQDUI1ImGYSq8rsTZ) | 3:32 |
 | 75 | [Na Areia](https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 4:49 |
 
-Snapshot ID: `aI0VOgAAAADYnqItz/z2MA9MSdKgzH9Q`
+Snapshot ID: `aI0VOgAAAABM04Tz8DWTcgzt6Gh8Wfja`

@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Swank Mami✨
 
-1,966 songs - 4 day 10 hr 7 min
+1,967 songs - 4 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Cloudy \- Kelbin Remix](https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Cloudy \(Kelbin Remix\)](https://open.spotify.com/album/53JK9SLZCpbiCzNfcEGgHa) | 5:36 | 2023-01-26 | 2023-04-07 |
 | [Club Atlantis](https://open.spotify.com/track/2n3wBcxgSOCpR8vbh0UoSp) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Club Atlantis](https://open.spotify.com/album/3DwqYXWFGrrc2vnCHp3kO7) | 3:38 | 2023-03-23 | 2023-05-12 |
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-12-08 | 2023-01-27 |
-| [Coco's Lovesong \- DJ Carpenter Remix](https://open.spotify.com/track/5qikhvhyQ52shAb1bcwCpl) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Coco's Lovesong \(DJ Carpenter Remix\)](https://open.spotify.com/album/5QVTP7fogkU8OjLG0zSLo6) | 3:15 | 2025-07-31 |  |
+| [Coco's Lovesong \- DJ Carpenter Remix](https://open.spotify.com/track/5qikhvhyQ52shAb1bcwCpl) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Coco's Lovesong \(DJ Carpenter Remix\)](https://open.spotify.com/album/5QVTP7fogkU8OjLG0zSLo6) | 3:15 | 2025-07-31 | 2025-08-05 |
 | [Coffee](https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:25 | 2024-04-11 | 2024-04-19 |
 | [Coffee In The Morning](https://open.spotify.com/track/3d1USIeQb0IGcOc8MatxAp) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Coffee in the Morning](https://open.spotify.com/album/0lO0JNz7Rz94RoSi8pW65l) | 1:23 | 2025-01-23 | 2025-03-07 |
 | [COINS](https://open.spotify.com/track/31hpVui5KjTADblRVdQivQ) | [RAEGAN](https://open.spotify.com/artist/2nB2BHirpyBx2sJc4QKfwz) | [COINS](https://open.spotify.com/album/0A94tzNwJ1Ypgcb20mOkB4) | 3:52 | 2023-12-08 | 2024-01-26 |
@@ -1564,6 +1564,7 @@
 | [Something Like This](https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4) | 3:18 | 2023-05-04 | 2023-07-07 |
 | [Sometimes You Got To](https://open.spotify.com/track/4AgE5N5isjGQtfeeIhC5C7) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Sometimes You Got To](https://open.spotify.com/album/0qEXW6xlwIAUSomdk9rPDU) | 4:00 | 2023-10-19 | 2023-11-07 |
 | [Somewhere](https://open.spotify.com/track/2ECNSB7Fd6cE8LcKiRSO3s) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Expectations EP](https://open.spotify.com/album/64W25Fz86zVz7pGEUHepV7) | 2:44 | 2024-11-28 | 2025-02-21 |
+| [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Somewhere in Between](https://open.spotify.com/album/40qgvmv0umdBKkDBMdhlb2) | 3:23 | 2025-08-04 |  |
 | [Sooky Sooky](https://open.spotify.com/track/5MssDfNjEbILLBt3yWuYD4) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [Griot](https://open.spotify.com/album/6T7W3tgjAnI0it5TcTXeTv) | 3:31 | 2024-03-14 | 2024-07-27 |
 | [SORRY](https://open.spotify.com/track/3c7sLDk9LD9sPdN4sdMpcd) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [BIG GIRL MESS TAPE](https://open.spotify.com/album/6kfr9RZGTmoR0RzRMy29c9) | 2:21 | 2024-05-24 | 2024-06-07 |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-28 | 2022-11-18 |

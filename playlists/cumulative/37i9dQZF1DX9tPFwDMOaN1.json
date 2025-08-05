@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/5eD9aoRipyLTsdam6hbB7k"
+      },
+      "artists": [
+        {
+          "name": "HEYOON",
+          "url": "https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182197,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5KqgIWbRyFzLoj79sl39Ha"
+    },
+    {
+      "album": {
         "name": "Adult Swim",
         "url": "https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 194733,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg"
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 137178,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
@@ -2310,6 +2328,24 @@
       "duration_ms": 151260,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5"
+    },
+    {
+      "album": {
+        "name": "Crazier - The 11th Album",
+        "url": "https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "Crazier",
+      "url": "https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB"
     },
     {
       "album": {

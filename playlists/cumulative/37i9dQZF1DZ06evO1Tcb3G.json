@@ -232,10 +232,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 220866,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221039,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5CN13QjYdc9s4aFg2wxwnE"
     },
     {
       "album": {
@@ -528,10 +546,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 218626,
       "name": "Ditmas",
       "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218627,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/0cIQEeA1OD5XzUjuplVfiT"
     },
     {
       "album": {
@@ -1503,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/3eEzfujAc108cq9L6yCVgT"
+    },
+    {
+      "album": {
         "name": "Rushmere",
         "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
       },
@@ -1532,7 +1586,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"

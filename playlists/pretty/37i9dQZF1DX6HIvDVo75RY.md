@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > Thanks to everyone who came out and enjoyed Spotify House at Ole Red during CMA Fest with us!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,163 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,168 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 99 | [Old Fashioned Feeling](https://open.spotify.com/track/0zEOXwI7DFiWdiUmAfa5Ku) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Barely Blue \(Deluxe\)](https://open.spotify.com/album/0qe866n70wFcy6dlWLzmgI) | 3:22 |
 | 100 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |
 
-Snapshot ID: `aEYvQQAAAADhDfFEcBicvSzmb0E5RnGS`
+Snapshot ID: `AAAAAEsrDjCKVEZXoMxjRd79bomEEOYU`

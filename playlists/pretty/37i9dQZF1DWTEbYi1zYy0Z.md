@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,973 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,006 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Our Night](https://open.spotify.com/track/0MVwhMNLPjnZssyiYPDrg4) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Our Night](https://open.spotify.com/album/11S03JFEOKyrRjabBbhIyt) | 4:04 |
 | 100 | [Undulation](https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Undulation](https://open.spotify.com/album/39FFRTCXimTQgkeQ2pBv6d) | 4:53 |
 
-Snapshot ID: `aIw71QAAAADaerEpNwv9G8aitd6djxDt`
+Snapshot ID: `AAAAACGZQCG4PGkWhwwyN+C2hizZrvYx`

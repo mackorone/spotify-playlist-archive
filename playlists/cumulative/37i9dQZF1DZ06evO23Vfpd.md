@@ -4,7 +4,7 @@
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 26 min
+48 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Finally Over](https://open.spotify.com/track/1Q0STF75iyO3qbMvlZ9RB9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:09 | 2025-05-07 | 2025-06-25 |
 | [Fire And Gasoline](https://open.spotify.com/track/2bSp7973XonvsjQ5X73ESN) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:12 | 2025-04-27 | 2025-05-10 |
 | [Fire and Gasoline \- A COLORS ENCORE](https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Fire and Gasoline \- A COLORS ENCORE](https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v) | 3:11 | 2025-05-10 |  |
-| [GAS!](https://open.spotify.com/track/7FJNM5i0qKjFfCtw18QVAU) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:28 | 2024-12-14 |  |
+| [GAS!](https://open.spotify.com/track/7FJNM5i0qKjFfCtw18QVAU) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:28 | 2024-12-14 | 2025-08-05 |
 | [Golden Child](https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 2:57 | 2024-12-14 |  |
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-12-14 | 2025-07-17 |
 | [Good News](https://open.spotify.com/track/5VHRiH48pBB008CAkrIBwP) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:19 | 2025-07-17 |  |
@@ -54,6 +54,7 @@
 | [Tall Boy](https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:20 | 2024-12-14 |  |
 | [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 | 2024-12-14 |  |
 | [Warped Tour](https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 2:55 | 2024-12-14 |  |
+| [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 | 2025-08-05 |  |
 | [Winning Streak](https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:18 | 2024-12-14 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

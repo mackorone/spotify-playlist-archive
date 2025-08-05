@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTKnyIuNnSj.md) - [plain]
 
 > Listen to the soundtracks of The Nice Guy\. \(착한 사나이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,673 likes - 20 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTKnyIuNnSj.md) - [plain]
 | 19 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 |
 | 20 | [스물다섯, 스물하나](https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS) | 4:44 |
 
-Snapshot ID: `aJAIcAAAAACPBUi3ieieJ76Ky0gL/aJ/`
+Snapshot ID: `AAAAAGnTBMaSaUvKAFchBJVdTqjdX+RY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,351 likes - 77 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,389 likes - 77 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 | 76 | [Celestial](https://open.spotify.com/track/6vw2NGeLeogwHB8um5pI0r) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Celestial](https://open.spotify.com/album/5Yv0KKHG2ORKPbVneO0gzM) | 2:40 |
 | 77 | [Essence of Nature](https://open.spotify.com/track/00DOpzqbE0PBgVnxFIlvVB) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Essence of Nature](https://open.spotify.com/album/5sPBaR7sHLYfp53tlhizVk) | 2:00 |
 
-Snapshot ID: `aHZcUwAAAABOhdEqT8T62/Bj45tlR7Uc`
+Snapshot ID: `AAAAAM7rg/uIJG41hcFFVV+z239fOtsS`

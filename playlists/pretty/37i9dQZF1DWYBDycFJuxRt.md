@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Skaai and KM \*👉 <a href="https://spice.eplus.jp/articles/339703">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,690 likes - 84 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,693 likes - 84 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 83 | [Who I Am](https://open.spotify.com/track/0IX7SuQHKF44yqg0uLkF6D) | [入野自由](https://open.spotify.com/artist/5CPe7cGY1bB20e6Tbv4XVQ) | [Who I Am](https://open.spotify.com/album/0Czeq0HZOu4O6LYGUiIBLT) | 3:09 |
 | 84 | [OSHIBAI](https://open.spotify.com/track/361xt1yKYUWpTn9kHMFvvU) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [OSHIBAI](https://open.spotify.com/album/2xtujq0Nxb4mOX30VVdKX2) | 2:58 |
 
-Snapshot ID: `aIowggAAAAAfRu5QpmbGaow87/sYNPMs`
+Snapshot ID: `AAAAAI/0LNnZdeA0phf9dGnw3EszI6qQ`

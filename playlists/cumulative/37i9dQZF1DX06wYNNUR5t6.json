@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Recent hits from all your favorite Christian Rock artists!  Cover: Peyton Parrish",
+  "description": "Recent hits from all your favorite Christian Rock artists!  Cover: Disciple",
   "name": "Christian Rock Hits",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 204413,
       "name": "Baptist",
       "url": "https://open.spotify.com/track/0DoRLxihQQzXXTOuy9eshr"
+    },
+    {
+      "album": {
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "album": {
@@ -544,7 +562,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 237653,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/550uiBzwI7c0mrtHpZMrY7"
@@ -602,7 +620,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 216291,
       "name": "Give Me a Sign",
       "url": "https://open.spotify.com/track/6o8AG9ldTnpwhsBsZXaXHn"
@@ -887,6 +905,42 @@
     },
     {
       "album": {
+        "name": "Skeleton Psalms (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ZoGRhrtfEksvamNtvB52y"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253666,
+      "name": "Make War",
+      "url": "https://open.spotify.com/track/5WTEEft8Gx5LVqt1O65Nye"
+    },
+    {
+      "album": {
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+      },
+      "artists": [
+        {
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+    },
+    {
+      "album": {
         "name": "Misery Game",
         "url": "https://open.spotify.com/album/4WEWiaNSX8wxfQfL276fHb"
       },
@@ -1060,10 +1114,28 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 216013,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
+    },
+    {
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/3JEASvlJsm2J6vSKrYRxJv"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164753,
+      "name": "On Becoming Willing",
+      "url": "https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u"
     },
     {
       "album": {
@@ -1082,7 +1154,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 269733,
       "name": "Panic Room",
       "url": "https://open.spotify.com/track/2NP0xYz37JZZiBwBFDDhgM"
@@ -1230,7 +1302,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 224388,
       "name": "Radio Gaga",
       "url": "https://open.spotify.com/track/5iU2UE9Z4GXVczPymFbT6A"
@@ -1284,7 +1356,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 183785,
       "name": "Scars",
       "url": "https://open.spotify.com/track/5zKKBcIm0sVDJhWlZhAi3C"
@@ -1364,7 +1436,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 185150,
       "name": "Tension",
       "url": "https://open.spotify.com/track/01l6eMjuUKrOgBW4ygu6Ka"
@@ -1628,6 +1700,24 @@
       "duration_ms": 213554,
       "name": "Watched You Fall",
       "url": "https://open.spotify.com/track/7rKUQ1D1k7T3jVg6rZ8nTn"
+    },
+    {
+      "album": {
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
+      },
+      "artists": [
+        {
+          "name": "Futur",
+          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199252,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
     },
     {
       "album": {

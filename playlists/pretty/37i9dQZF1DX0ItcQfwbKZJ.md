@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,370 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,410 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 48 | [Enwan](https://open.spotify.com/track/616eSjwX3yd5HhtPNCsjCI) | [The Anansa Professionals](https://open.spotify.com/artist/1qvjh1IbEqCRvjkXrd6vgr) | [Enwan](https://open.spotify.com/album/1ZsHa3jQnKwGZOnHHmw70L) | 5:31 |
 | 49 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 |
 
-Snapshot ID: `Z5oZxQAAAABKd/AvBU4iCDVtoSI2j+A7`
+Snapshot ID: `AAAAAPRd1DKhA6D5ImYu2N8APFNiuCJT`

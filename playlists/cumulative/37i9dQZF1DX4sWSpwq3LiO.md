@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,800 songs - 3 day 7 hr 53 min
+1,801 songs - 3 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1395,6 +1395,7 @@
 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-20 | 2024-02-13 |
 | [Solace](https://open.spotify.com/track/0y4oznUeCBGiTZou3hmimL) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Solace](https://open.spotify.com/album/1PKrrLeulHP3htvBJH5WDF) | 2:09 | 2024-04-15 |  |
 | [Solace](https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Solace](https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP) | 2:42 | 2019-05-26\* | 2020-11-17 |
+| [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-04 |  |
 | [Soleil du Soir](https://open.spotify.com/track/3YY1rqHLRgCul3gcBo3NKT) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Chansons en été](https://open.spotify.com/album/4zdIq71lQrBmpEwlC9je7i) | 3:56 | 2019-08-02 | 2019-10-16 |
 | [Solfeggio](https://open.spotify.com/track/0iZ9VfP5adrL4UdIa5D2Cs) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Solfeggio](https://open.spotify.com/album/6potW1KKhU50Il0kKXrdzo) | 2:54 | 2022-02-09 | 2022-07-29 |
 | [Solitaire](https://open.spotify.com/track/7jYOivheBtZYcsnJhQOMXT) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Solitaire](https://open.spotify.com/album/0pJKEJHiWZfkESbo8slz54) | 1:54 | 2019-09-12 | 2020-09-30 |
@@ -1502,7 +1503,7 @@
 | [Súlur](https://open.spotify.com/track/2gJKXckOIpFiDazbesaMh3) | [Petra Birgisdóttir](https://open.spotify.com/artist/3adgqj7rUBUySnFjtS9QCb) | [Súlur](https://open.spotify.com/album/0FLcQySj9E7kTlOMcJ2onG) | 2:16 | 2020-01-08 | 2021-07-01 |
 | [Süda](https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Süda](https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG) | 3:22 | 2020-02-04 | 2021-01-26 |
 | [Tail Lights](https://open.spotify.com/track/38Li7bOUatKi99v9U4FqOo) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Tail Lights](https://open.spotify.com/album/0zFgil19diyLhpZJkfWwm3) | 3:26 | 2019-05-26\* | 2019-08-13 |
-| [Take care](https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Take care](https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1) | 2:08 | 2023-01-27 |  |
+| [Take care](https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Take care](https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1) | 2:08 | 2023-01-27 | 2025-08-05 |
 | [Take Me Somewhere Else](https://open.spotify.com/track/37EJ2kCLr8RoXDxYE5cHrF) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Take Me Somewhere Else](https://open.spotify.com/album/0PRMKJ747Z8clDXDAEVptv) | 3:52 | 2019-09-12 | 2019-12-17 |
 | [Take Me With You](https://open.spotify.com/track/0eYb8nrvYDtDCCcxdpxaEb) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Take Me With You](https://open.spotify.com/album/5nFLTz4TdPd9TdKSEMNhog) | 2:05 | 2022-05-04 | 2023-09-23 |
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2021-03-06 | 2022-08-27 |

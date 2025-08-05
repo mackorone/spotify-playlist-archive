@@ -5203,6 +5203,28 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        },
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241603,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY"
+    },
+    {
+      "album": {
         "name": "Good as Hell (feat. Ariana Grande) [Remix]",
         "url": "https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1"
       },
@@ -7440,6 +7462,24 @@
       "duration_ms": 266560,
       "name": "It's Not You",
       "url": "https://open.spotify.com/track/5jwT6BU2z55yvsWkopWadR"
+    },
+    {
+      "album": {
+        "name": "It's Too Late",
+        "url": "https://open.spotify.com/album/6ww9A5r9G4xFlDZ14nghfG"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/7HcvdzouPGu9QNN18tkdtq"
     },
     {
       "album": {

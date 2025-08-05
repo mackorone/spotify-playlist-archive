@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 
 > Enjoy music from "Panty & Stocking with Garterbelt"! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,914 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,075 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

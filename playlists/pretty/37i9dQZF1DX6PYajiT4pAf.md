@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Emilia, Rauw Alejandro, Danny Ocean, J Abecia, Mushkaa y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,963 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,986 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 19 | [Tuvela](https://open.spotify.com/track/15conDFFE45zIIqh1Aq2gs) | [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ) | [Tuvela](https://open.spotify.com/album/641fKdrAyGzVQD44cyM7Z4) | 2:34 |
 | 20 | [MI CUUULO](https://open.spotify.com/track/60wbdA5j9b5V7YEVMzpf7z) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [MI CUUULO](https://open.spotify.com/album/5TTvKa5J2VNjoyovTYM1Go) | 2:42 |
 | 21 | [TORRE DEL MAR](https://open.spotify.com/track/1gWYAOPOt3Ku9HyhjK6Ak4) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [TORRE DEL MAR](https://open.spotify.com/album/2gO3JEG0SM8tsMae0HVhBu) | 2:12 |
-| 22 | [Me La Voy Llevando](https://open.spotify.com/track/73uzSERkxPK1gMMcW2L0j4) | [Oripandó](https://open.spotify.com/artist/2mCBY9bFecFJMfFw4NTHE0), [Las Chuches](https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR), [Panky](https://open.spotify.com/artist/1fCF7fKedmCp7vQWVVE1B5) | [Me La Voy Llevando](https://open.spotify.com/album/48t0sszETKddQTBqMYHbT0) | 3:00 |
+| 22 | [Me La Voy Llevando](https://open.spotify.com/track/73uzSERkxPK1gMMcW2L0j4) | [Oripandó](https://open.spotify.com/artist/2mCBY9bFecFJMfFw4NTHE0), [Las Chuches](https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR), [Panky](https://open.spotify.com/artist/1fCF7fKedmCp7vQWVVE1B5), [El Bocaillos](https://open.spotify.com/artist/3NvbAvxD5Crk0eq7uIh0vk) | [Me La Voy Llevando](https://open.spotify.com/album/48t0sszETKddQTBqMYHbT0) | 3:00 |
 | 23 | [Será](https://open.spotify.com/track/5Vw13gCbUArIka4covEWPn) | [El Duende Callejero](https://open.spotify.com/artist/0jRYL7EhQ5whZZyrf9XQa9) | [Será](https://open.spotify.com/album/4Cr5ZidLwo7WTRJ0pAAC2p) | 3:09 |
 | 24 | [Tu Nariz Contra La Mía](https://open.spotify.com/track/5UfnbDuwZBfT2iGcsTrrCq) | [Maldita Nerea](https://open.spotify.com/artist/3heR1it0slFXjaa7E62zpw) | [Tu Nariz Contra La Mía](https://open.spotify.com/album/4WatB0yzW7oy0TWmQZm1rc) | 3:08 |
 | 25 | [aunque no estés](https://open.spotify.com/track/4rhQimAhsIg3TH7RIW0dFa) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [aunque no estés](https://open.spotify.com/album/20CJeKt93f8cL6OKCLq7Vu) | 2:44 |

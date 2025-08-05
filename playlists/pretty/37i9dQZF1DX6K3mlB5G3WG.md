@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Rauw Alejandro e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,717 likes - 126 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,712 likes - 126 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 17 | [Kriminal \- Prod\. by Roberto Ferrante](https://open.spotify.com/track/0pxwzHAlnK86CIfDbbJLr4) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Kriminal \(Prod\. by Roberto Ferrante\)](https://open.spotify.com/album/64mzxfRIXYCm6NVj0NTefe) | 3:09 |
 | 18 | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn) | 2:37 |
 | 19 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
-| 20 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 20 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 21 | [Heavens Sirens](https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Heavens Sirens](https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn) | 2:56 |
 | 22 | [Somewhere Only We Go](https://open.spotify.com/track/4EPeUXo9vWGnQHOZRUF2bx) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Somewhere Only We Go](https://open.spotify.com/album/4MQPQX8TWAMu1gjWwNkY7o) | 2:59 |
 | 23 | [OFF](https://open.spotify.com/track/6pN9Nlz1NCDZr2AwTTS2Hl) | [LDO](https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z), [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm) | [OFF](https://open.spotify.com/album/5tsffkxed5MIMw00KnivQK) | 1:58 |

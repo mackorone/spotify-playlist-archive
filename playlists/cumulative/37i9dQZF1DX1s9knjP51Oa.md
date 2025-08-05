@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-862 songs - 1 day 13 hr 1 min
+863 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2022-04-21 | 2024-01-03 |
 | [Fantasifull](https://open.spotify.com/track/7JxnwtrmZVwIt4jEsVlRHT) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Fantasifull](https://open.spotify.com/album/40bwSaWIycZ7vLnn8xtl7u) | 2:35 | 2023-11-13 | 2024-10-08 |
 | [Feathers](https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ) | [Tanisha Hickman](https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus) | [Feathers](https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB) | 2:05 | 2022-04-06 | 2024-04-04 |
+| [Feel For Balance](https://open.spotify.com/track/11RToQo0Dt4xy0z301RV5Q) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Feel For Balance](https://open.spotify.com/album/4nexlHbho207Wndt2F5SI5) | 2:38 | 2025-08-04 |  |
 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 | 2022-07-21 | 2024-01-03 |
 | [Felt Improv No\. 7](https://open.spotify.com/track/0Opima0tmKX1e9RhLMawGW) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 7](https://open.spotify.com/album/54yeHy6gMLbnNej2UcxljW) | 2:26 | 2021-12-13 | 2022-10-05 |
 | [Feuilles Tombantes](https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Feuilles Tombantes](https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J) | 2:07 | 2021-12-13 | 2022-10-05 |

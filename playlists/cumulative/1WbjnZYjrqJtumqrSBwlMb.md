@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,152 songs - 2 day 22 hr 45 min
+1,153 songs - 2 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Being so Normal](https://open.spotify.com/track/65sNrvOp2HLlhGTeLJ0nnk) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:40 | 2025-04-01 |  |
 | [BEING YOURSELF](https://open.spotify.com/track/4oOajqkg42wp1D5liEAWKv) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:05 | 2024-02-16 |  |
 | [being yourself](https://open.spotify.com/track/1ZpvyFhY8Rl3ooTBNtNgcG) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [being yourself](https://open.spotify.com/album/4OjqG0s9AerXNuVa4ZAlMK) | 3:08 | 2023-04-19 | 2025-07-04 |
+| [Believe](https://open.spotify.com/track/3QPn2djEjTo0QFg083VIeV) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn) | 3:39 | 2025-08-04 |  |
 | [Believe What I Say](https://open.spotify.com/track/0JuSGEldfovcc8IS9va1wa) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:02 | 2021-10-01 |  |
 | [Beneath The Lilypad](https://open.spotify.com/track/5a4TVULMHuxkkfSClpRpgk) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 1:20 | 2025-05-16 |  |
 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 | 2023-06-27 |  |

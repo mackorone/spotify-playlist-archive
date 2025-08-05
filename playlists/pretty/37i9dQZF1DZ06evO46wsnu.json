@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 174250,
+  "num_followers": 174257,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAABvNtk2O9Y3PMJ/PLqqLO1H",
+  "snapshot_id": "aI6mgAAAAAC+3l1sylOqHll9y1vn352y",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Blood To Bleed",
-      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ghost Note Symphonies, Vol.1",
         "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 233553,
       "name": "Far From Perfect - Ghost Note Symphonies",
       "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Blood To Bleed",
+      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89eFqyQeAQP.md) - [plain]
 
 > Enjoy the IVE Seoul concert LIVE SET including the voices of them on stage! \(아이브의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,281 likes - 30 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,298 likes - 30 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89eFqyQeAQP.md) - [plain]
 | 29 | [궁금해 \(Next Page\)](https://open.spotify.com/track/5vYsQareJoW2jRJjiTFo6K) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:19 |
 | 30 | [Ending](https://open.spotify.com/track/1efO2YCZnXNxviUE2Fh5HO) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners](https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW) | 0:07 |
 
-Snapshot ID: `AAAAAOkmhVOItwe7gYxlCgN8Cyirx3as`
+Snapshot ID: `ZS+ekAAAAAAH92ENNLUcJY3ViXBmRC0g`

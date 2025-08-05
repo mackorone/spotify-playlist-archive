@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Chappell Roan, Amo, Lune, Felix Jaehn und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,004 likes - 74 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,909 likes - 74 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 53 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 |
 | 54 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 |
 | 55 | [Punk is Dad](https://open.spotify.com/track/5uEsP092XZIx54etLmDx05) | [TAHA](https://open.spotify.com/artist/6VEgyN5EAhLjuuUE4E8vJn), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Punk is Dad](https://open.spotify.com/album/2inBaLaaDjLB5ALlqkBCzD) | 2:31 |
-| 56 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 56 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 57 | [Nobody \(But You\)](https://open.spotify.com/track/25w9stBLxvgccFwKBMxWRl) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [Nobody \(But You\)](https://open.spotify.com/album/72UHZ1l3m9fT2AvfYeftMW) | 2:21 |
 | 58 | [Zeig mir](https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Zeig mir](https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY) | 3:25 |
 | 59 | [BOX ME IN](https://open.spotify.com/track/397Jhh25eVwCDLY56u2tmd) | [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT), [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [BOX ME IN / PCH](https://open.spotify.com/album/0RwZ2uY2hzJvIYcggovtE2) | 2:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Nvc0IRLdtu.md) - [plain]
 
 > Sophisticated palates only\. Curated by: SZA & Keke Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,556 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,597 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Nvc0IRLdtu.md) - [plain]
 | 68 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 69 | [Pretty Privilege](https://open.spotify.com/track/3MiYh5ph5eorkc9gWQL5iw) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Pretty Privilege](https://open.spotify.com/album/2I43mQ693qcFEIxQqK91mg) | 2:14 |
 
-Snapshot ID: `aAkVHwAAAABuk1g2G9EO5rwx3YSYFHL+`
+Snapshot ID: `AAAAAD/09UXd6x9Vmz+RxrEy0/BeX5p8`

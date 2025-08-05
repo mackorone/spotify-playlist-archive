@@ -4,7 +4,7 @@
 
 > Soft chill for the dreamy  ✨
 
-176 songs - 10 hr 43 min
+177 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2023-04-17 |  |
 | [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2023-04-17 | 2023-10-14 |
 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 | 2023-09-12 |  |
-| [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 | 2023-08-17 |  |
+| [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 | 2023-08-17 | 2025-08-05 |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2023-04-17 | 2025-01-30 |
 | [Bas Jhut](https://open.spotify.com/track/3kz4jEzCEVCgUz41wFioxN) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 3:29 | 2025-05-15 | 2025-06-26 |
 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 | 2023-04-17 | 2023-08-18 |
@@ -119,6 +119,7 @@
 | [O'Meri Laila \- Radio Version](https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 3:11 | 2024-08-20 |  |
 | [Parda](https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6) | 3:12 | 2023-04-17 | 2024-02-07 |
 | [Parda](https://open.spotify.com/track/5GfeZNDNUu0nHKEfEI43RH) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/0wncuuFJi641SkSL6A2Iir) | 3:12 | 2024-02-19 | 2024-04-19 |
+| [Pardesiya \- From "Param Sundari"](https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Krishnakali Saha](https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Pardesiya \(From "Param Sundari"\)](https://open.spotify.com/album/4hHAxLq4VGuyb6HsyUIPGd) | 3:51 | 2025-08-04 |  |
 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 | 2025-06-25 |  |
 | [Peace Of Mind](https://open.spotify.com/track/3oMU1p4h2mL2YG6TbRzXOi) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Notes from Therapy](https://open.spotify.com/album/0FMVEUTTvMBM0Hyo8oldqX) | 3:06 | 2023-04-17 | 2023-08-18 |
 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2023-04-17 | 2024-01-02 |

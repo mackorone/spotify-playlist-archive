@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Yzomandias, Ektor, P T K, Robin Zoot, Nik Tendo
+> 50 nejžhavějších hitů v České republice\. Cover: Nik Tendo, Decky
 
-138 songs - 6 hr 47 min
+140 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [AENE](https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [SMART](https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf), [Dame](https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 4:55 | 2025-05-05 |  |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-22 | 2024-12-10 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-10 | 2025-06-10 |
-| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 |  |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-08-05 |
 | [až bude hořet](https://open.spotify.com/track/58fJfG0hk0vdapXWxljz20) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Paranoia](https://open.spotify.com/album/6q3dUM9Wv4fHo7ACGXgSNC) | 2:23 | 2024-07-01 | 2024-11-26 |
 | [Až po uši](https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8) | [Slavíček](https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l) | [HOMEMADE](https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc) | 3:17 | 2025-05-12 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-24 |  |
@@ -25,7 +25,7 @@
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-12 | 2024-10-29 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 | 2025-06-24 |
 | [Body to body](https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:12 | 2025-04-07 |  |
-| [Brick na brick](https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Brick na brick](https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs) | 2:53 | 2024-07-01 |  |
+| [Brick na brick](https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Brick na brick](https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs) | 2:53 | 2024-07-01 | 2025-08-05 |
 | [Cassiopea](https://open.spotify.com/track/1XWaH5Lz5FXgf6JbfclwNB) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [mdmx](https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke), [Pavel Machát](https://open.spotify.com/artist/0eWttDUfPVwCAA8bo83iGI) | [Superfly](https://open.spotify.com/album/71hXzRGKVQeRnv2YKvzbfo) | 2:45 | 2024-07-01 | 2024-09-24 |
 | [CELOU NOC 2](https://open.spotify.com/track/2SdeE22RomGIWq3xZwk7aF) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ), [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [DEBARAS](https://open.spotify.com/album/0Tkld1ukBsVD8IQgtr4hB4) | 2:45 | 2025-02-03 | 2025-03-11 |
 | [Cigarety](https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Matej Turcer](https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 4:41 | 2025-05-01 |  |
@@ -54,6 +54,7 @@
 | [Get Low](https://open.spotify.com/track/7BrC5U8OUWPHKR4QgzzoE6) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [No Sleep Gang / Get Low](https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz) | 3:23 | 2024-07-15 | 2024-11-26 |
 | [GHETTO ROMANTIKA](https://open.spotify.com/track/49ftZlRiBEGzNzKsYFiLd0) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [GHETTO ROMANTIKA](https://open.spotify.com/album/4OisfrfFJtYGkNZGgEGX1m) | 2:33 | 2024-10-14 | 2025-05-20 |
 | [Givenchy](https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Givenchy](https://open.spotify.com/album/7iozutogFmMyQFGzOBEsuE) | 3:01 | 2024-07-01 |  |
+| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-08-04 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-07-01 | 2024-07-16 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-06 | 2024-10-01 |
 | [Habibi](https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Habibi](https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ) | 2:26 | 2024-07-01 |  |
@@ -146,5 +147,6 @@
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-29 | 2024-09-17 |
 | [Window Shopper](https://open.spotify.com/track/2x39J1ztiWV60Q7WeSHIpW) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:00 | 2024-07-01 |  |
 | [Zasloužený](https://open.spotify.com/track/7HdlQ15U3u9fLIzH5st0lq) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [SEPTUM](https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu) | 2:42 | 2025-01-20 | 2025-03-18 |
+| [ŘEKNI MI PRAVDU](https://open.spotify.com/track/6m6T2GEUhecN8weKqdoE8x) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Decky](https://open.spotify.com/artist/7wjbFMCXWpPswS7olSgEjX), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [GoldKiid](https://open.spotify.com/album/75BwUpwFikffhSNtr6Z1hU) | 3:19 | 2025-08-04 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

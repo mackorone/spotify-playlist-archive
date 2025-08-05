@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Trxnz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,836 likes - 94 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,834 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

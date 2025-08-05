@@ -4,11 +4,12 @@
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-70 songs - 3 hr 20 min
+71 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Die Man Is\) Verliefd \- Bonte Carlo \- Holiday Remix](https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Jeffrey Parmentier](https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0), [Bonte Carlo](https://open.spotify.com/artist/3mnbX3HtlkbxMRIhSDLa1M) | [\(Die Man Is\) Verliefd \[Bonte Carlo \- Holiday Remix\]](https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN) | 3:25 | 2025-07-01 |  |
+| [\(Die Man Is\) Verliefd \- Bonte Carlo \- Holiday Remix](https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Jeffrey Parmentier](https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0), [Bonte Carlo](https://open.spotify.com/artist/3mnbX3HtlkbxMRIhSDLa1M) | [\(Die Man Is\) Verliefd \[Bonte Carlo \- Holiday Remix\]](https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN) | 3:25 | 2025-07-01 | 2025-08-05 |
+| [Aan het strand van Porto Rico](https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Aan het strand van Porto Rico](https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr) | 3:15 | 2025-08-04 |  |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-01 |  |
 | [Als Ik Je Weer Zie](https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Als Ik Je Weer Zie](https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI) | 3:27 | 2025-07-01 |  |
 | [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2025-07-01 |  |

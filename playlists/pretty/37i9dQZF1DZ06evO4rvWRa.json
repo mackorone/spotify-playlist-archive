@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1641608,
+  "num_followers": 1641585,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAABbnDcMdlklmZKCDXu31OmX",
+  "snapshot_id": "aI6mgAAAAAAV1AmpIJyyZNfAS5Io5WQ5",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 202719,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legends Never Die (Remix)",
         "url": "https://open.spotify.com/album/2cRJKhNgs1Snq7bV4ELLho"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 167173,
       "name": "Legends Never Die - (Remix)",
       "url": "https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 202719,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "IS\u00c1K",
-          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
-        }
-      ],
-      "duration_ms": 165388,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake A Smile",
         "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+        }
+      ],
+      "duration_ms": 165388,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
     },
     {
       "added_at": null,

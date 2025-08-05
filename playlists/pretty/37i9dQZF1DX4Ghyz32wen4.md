@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Lit Killah y Neutro Shorty en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,026 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,002 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 30 | [No Es Mía](https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O) | 3:08 |
 | 31 | [Better Than Sex](https://open.spotify.com/track/4jdkOxKzo8kD8CgnLXUfaL) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Better Than Sex](https://open.spotify.com/album/6833Z1qOjl0Q3ADeCENCJW) | 2:48 |
 | 32 | [Apaga la Luz](https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Naked Geometry](https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl) | [Apaga la Luz](https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s) | 2:49 |
-| 33 | [Quiereme Despacio](https://open.spotify.com/track/1nSs1KUitz6Hjlks4qtY8N) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Emi Muñiz](https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj) | [Quiereme Despacio](https://open.spotify.com/album/1au2ufugm545yrGyacMr8U) | 4:09 |
+| 33 | [Quiéreme Despacio \(primavera\)](https://open.spotify.com/track/1nSs1KUitz6Hjlks4qtY8N) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Emi Muñiz](https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj) | [Quiéreme Despacio \(primavera\)](https://open.spotify.com/album/1au2ufugm545yrGyacMr8U) | 4:09 |
 | 34 | [tattoo](https://open.spotify.com/track/1nteqo0b0cPmHVqVqaAFVg) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [tattoo](https://open.spotify.com/album/2Hqlxu4XPkR96Mxwb6hpc6) | 3:39 |
 | 35 | [Triste](https://open.spotify.com/track/6BehJEtmzm8k2GDnfsE8Rg) | [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Triste](https://open.spotify.com/album/0QRnA0KmblYCoJOeGoBVrn) | 2:32 |
 | 36 | [Todo va bien](https://open.spotify.com/track/4gVWsZLkYqZxrDumM2Ma3I) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE) | [Todo va bien](https://open.spotify.com/album/4yvvPqWxPpEZiINneVK0cc) | 2:40 |

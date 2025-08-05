@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Chappell Roan, Metro Boomin, Karan Aujla & Ikky, Reneé Rapp, DEBBY FRIDAY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,084 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,090 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 24 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 |
 | 25 | [Parking Lot](https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Parking Lot](https://open.spotify.com/album/6DvcqZjRJ2f462uQAeHHoG) | 3:32 |
 | 26 | [Ve Mundeya](https://open.spotify.com/track/0fy4chw5hmSLs9HifZjGu0) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Ve Mundeya](https://open.spotify.com/album/03op4wrOwbVjgVwgd9CmrU) | 3:15 |
-| 27 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 27 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 28 | [South Of Sanity](https://open.spotify.com/track/0pwAGmv0r5LeEWaIIAK384) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [South Of Sanity](https://open.spotify.com/album/6NVclGrBOx2UG9z8pDIJGd) | 3:40 |
 | 29 | [Toujours les vacances](https://open.spotify.com/track/6LQwA4Y3JoX8ka0khKJ8DM) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Toujours les vacances](https://open.spotify.com/album/6BhQevzQw5GpC7SL8KgwFO) | 3:18 |
 | 30 | [Accessories \(feat\. Peso Peso\)](https://open.spotify.com/track/2rW9H7P0Nsq2K5AtNsNtam) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Accessories \(feat\. Peso Peso\)](https://open.spotify.com/album/3UAz8CcBdTCOilabW1AxNe) | 3:00 |

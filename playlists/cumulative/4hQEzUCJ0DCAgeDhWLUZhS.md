@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-516 songs - 1 day 6 hr 15 min
+517 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Identity](https://open.spotify.com/album/2mSUgkKR7P3t1Ce2OIh7WL) | 3:36 | 2020-10-10\* | 2021-05-13 |
 | [Idiot](https://open.spotify.com/track/51Xr9Jt4ohvCxm5G9BJGfQ) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Idiot](https://open.spotify.com/album/0NmyFWum8tIYpvebBNd2JS) | 2:22 | 2021-08-14 | 2025-05-28 |
 | [If We Get Caught](https://open.spotify.com/track/3Gq6s5E6RKnQ4YVluGKd6u) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [If We Get Caught](https://open.spotify.com/album/1oaHw2W2H645sOxpsTWYuY) | 3:14 | 2022-03-25 | 2025-06-04 |
+| [Illness](https://open.spotify.com/track/05271XZOhIM7S1iQlVbRJ2) | [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt) | [Illness](https://open.spotify.com/album/2XyDL6Ij7UwWj39HIYHAPw) | 3:54 | 2025-08-05 |  |
 | [In Need of Repair](https://open.spotify.com/track/2gvLhQi8nrGFcZB7OuLeZC) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [In Need of Repair](https://open.spotify.com/album/01JnSvaj1iA6nTZsmnwPiG) | 3:56 | 2021-12-02 | 2025-05-28 |
 | [In The Light of Day](https://open.spotify.com/track/66zmIFmy6bfgBwld7FDpPF) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [In The Light of Day](https://open.spotify.com/album/57Zs0drMxzptJc9jEElQ3r) | 2:06 | 2020-10-10\* | 2021-02-25 |
 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-23 |  |

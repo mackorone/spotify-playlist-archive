@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,193 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,195 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 59 | [Rally 'N'](https://open.spotify.com/track/2kPD293eLmYfHgV49u9h2U) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd), [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Rally 'N'](https://open.spotify.com/album/3NefSIbvFdppSNc1PsEi3Z) | 4:40 |
 | 60 | [No Regrets](https://open.spotify.com/track/0y48Vn1QnEnD3evUyFRmCz) | [X\-Quisite](https://open.spotify.com/artist/6AdCSR2BYiv4YyHAr2mijR) | [X\-Quisite](https://open.spotify.com/album/1Nht4EBrdySVyoRI6hYuqf) | 3:25 |
 
-Snapshot ID: `aIqT4QAAAAB4Z4uJ6HvsnxTs20XD0TO5`
+Snapshot ID: `aIqT4QAAAACn4k7+J0fGiQWjDpPQPREI`

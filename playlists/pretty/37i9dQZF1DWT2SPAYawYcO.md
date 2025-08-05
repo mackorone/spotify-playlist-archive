@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Hilltop Hoods, Chappell Roan, Emma Louise, Flume, NO CIGAR, Alison Wonderland + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,238 likes - 91 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,228 likes - 91 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 25 | [Want You](https://open.spotify.com/track/5Zl2RWTjTQlIvDKVVtNoX6) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Want You](https://open.spotify.com/album/4eqTUIwtnwlrCYV4uJf08q) | 1:43 |
 | 26 | [Butterflies \(Right Now\)](https://open.spotify.com/track/4q2QzhkICCUNDMTFevCu38) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:28 |
 | 27 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 |
-| 28 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 28 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 29 | [Whenever You Hold Me](https://open.spotify.com/track/4ZRXcJuqYSKhIDnyPXBNCX) | [Max Allais](https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn) | [Whenever You Hold Me](https://open.spotify.com/album/3w98yKMOTnFKMajurz9oSe) | 2:02 |
 | 30 | [Bottomland](https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Bottomland](https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o) | 3:04 |
 | 31 | [Girlfriend](https://open.spotify.com/track/53lh1N2XntXWKXYCIyTniO) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Girlfriend](https://open.spotify.com/album/3hiqNDirWqhevI3Q9hoq1h) | 3:50 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 90 | [You're So Mine](https://open.spotify.com/track/4bnnXbFWZqfk141IgwdZNm) | [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [You're So Mine](https://open.spotify.com/album/5JHPaj4uXUiTAuxJnCgSdp) | 3:12 |
 | 91 | [On Sight](https://open.spotify.com/track/4c5E62kOUx9UWmbcLRFeAu) | [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2), [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X) | [On Sight](https://open.spotify.com/album/1Qy6lDCDO6HRSDLJdsldvM) | 2:43 |
 
-Snapshot ID: `aIxEDgAAAAC3DlsD1gOOlC9fCato3o2n`
+Snapshot ID: `AAAAAFoiJyy9GJTLnl+lwv8TpWY+AYMM`

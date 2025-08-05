@@ -4715,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "I Caught Myself",
+        "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "I Caught Myself",
+      "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
+    },
+    {
+      "album": {
         "name": "Selfish Machines (Reissue)",
         "url": "https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU"
       },

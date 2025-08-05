@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 133 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 789 likes - 133 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 75 | [I'm Gonna Worship \(feat\. Dante Bowe\)](https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 11:47 |
 | 76 | [We Want More](https://open.spotify.com/track/48aEolFfNEPxXkeWdQVskj) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF), [Psalmist Raine](https://open.spotify.com/artist/3uwJ062m79j5I0qr6U4NWY) | [The Encounter](https://open.spotify.com/album/5QRPjd67zomlWLMcOwz8E6) | 5:52 |
 | 77 | [Love Made Me](https://open.spotify.com/track/1NJkQ6638sTlgS6drDS1YW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:14 |
-| 78 | [Put on Love \(feat\. Nate Moore & Osby Berry\)](https://open.spotify.com/track/0fXc5sbtiPEx8yCKWraxCh) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Nate Moore](https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66) | [Maverick City Music, Vol\. 3: Pt\. 2](https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt) | 10:00 |
-| 79 | [Altar \(feat\. Justus Tams\)](https://open.spotify.com/track/1YBV8n3y13Bg5BoKFe7kw7) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Justus Tams](https://open.spotify.com/artist/2IiwIcF2ugOhgrqg4IH5Vk) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 10:40 |
+| 78 | [Altar \(feat\. Justus Tams\)](https://open.spotify.com/track/1YBV8n3y13Bg5BoKFe7kw7) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Justus Tams](https://open.spotify.com/artist/2IiwIcF2ugOhgrqg4IH5Vk) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 10:40 |
+| 79 | [Put on Love \(feat\. Nate Moore & Osby Berry\)](https://open.spotify.com/track/0fXc5sbtiPEx8yCKWraxCh) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX), [Nate Moore](https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66) | [Maverick City Music, Vol\. 3: Pt\. 2](https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt) | 10:00 |
 | 80 | [Make Yourself At Home \- Live](https://open.spotify.com/track/0SVfUqbRiALorkKC31FjOQ) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Make Yourself At Home \(Live\)](https://open.spotify.com/album/09HD7twYmait1nRQ4QwOBq) | 9:10 |
 | 81 | [Isn't He Beautiful \(feat\. Dante Bowe\)](https://open.spotify.com/track/21xhSlLcH5sV16b6YA2IOU) | [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Never Be Defeated](https://open.spotify.com/album/1WZVo0Y7oIXSlQhI6rXY0A) | 9:24 |
 | 82 | [Journey \(feat\. Mitch Wong\)](https://open.spotify.com/track/2tG2nzOL2dsQaWZ8ic5xsF) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 7:01 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 132 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 133 | [Champion/Gratitude \- Live](https://open.spotify.com/track/7C29F2bxN0l5E6p8XMk32U) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/3ipf9dH4349UTXQQD0yRVH) | 10:46 |
 
-Snapshot ID: `Ab4i0gAAAADMYNhLc+76PMXgWMXjC8ds`
+Snapshot ID: `Ab4ohgAAAACkDI2dHh+yaLXDiqM4NHxS`

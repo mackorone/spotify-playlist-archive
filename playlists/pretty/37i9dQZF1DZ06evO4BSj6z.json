@@ -1,12 +1,12 @@
 {
   "description": "This is Sasha Keable. The essential tracks, all in one playlist.",
-  "num_followers": 2865,
+  "num_followers": 2892,
   "original_name": "This Is Sasha Keable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAABA2TOkg+GPXa3BTzDtq3JO",
+  "snapshot_id": "aI6mgAAAAAAAL9wwfoPHgrti79mZvlR0",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AUCTION",
         "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 203200,
-      "name": "Nice Side",
-      "url": "https://open.spotify.com/track/59isfjFIf1WfzKfy5y5n7S"
+      "duration_ms": 248000,
+      "name": "Asking For More",
+      "url": "https://open.spotify.com/track/1ntJgWD4ep3UsfgzLUTf0U"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Asking For More",
-      "url": "https://open.spotify.com/track/1ntJgWD4ep3UsfgzLUTf0U"
+      "duration_ms": 203200,
+      "name": "Nice Side",
+      "url": "https://open.spotify.com/track/59isfjFIf1WfzKfy5y5n7S"
     },
     {
       "added_at": null,

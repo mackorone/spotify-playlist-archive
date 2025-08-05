@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,060 likes - 97 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,069 likes - 97 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rona Merah Langit](https://open.spotify.com/track/2qLERqFBztNjBKuZNMaqQK) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Pengantar Purifikasi Pikir](https://open.spotify.com/album/3pCz8FhvLwuXLgkJheTKQk) | 5:35 |
 | 2 | [Hingga Ujung Waktu](https://open.spotify.com/track/6vqPXMmtwipyeg4pkdQ2S1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [07 Des](https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI) | 4:26 |
 | 3 | [Tak Ada Yang Sepertimu](https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 3:11 |
-| 4 | [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 |
-| 5 | [Kaulah Kamuku \(feat\. Mikha Angelo\)](https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC), [Mikha Angelo](https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 3:38 |
+| 4 | [Kaulah Kamuku \(feat\. Mikha Angelo\)](https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC), [Mikha Angelo](https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 3:38 |
+| 5 | [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 |
 | 6 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3XHiujhh7sB8tTCwtI6YEI) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/4e35vUR8z4q56iY2xgvbNA) | 3:58 |
 | 7 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
 | 8 | [Bila Kau Tak Disampingku](https://open.spotify.com/track/1ylY6UrF7cmOZ9GDOxrfk8) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:16 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 96 | [Remaja](https://open.spotify.com/track/1SaQZoFXNu7ZAxxKImzFgf) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:38 |
 | 97 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 |
 
-Snapshot ID: `aIbhgwAAAACOP0GjCdhDRxkSKLnd6y0k`
+Snapshot ID: `aJAvOwAAAADf9opB8d3W/EIu+W/uFz7D`

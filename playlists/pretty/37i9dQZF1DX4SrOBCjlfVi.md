@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Yeat, Metro Boomin, $uicideboy$ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,360 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,552 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 26 | [World Gone Mad](https://open.spotify.com/track/1U1CADbCm9OBjikOFHXXqL) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [WORLD GONE MAD](https://open.spotify.com/album/3U5SXb7g5qciMdge81y6yZ) | 2:30 |
 | 27 | [Boogers](https://open.spotify.com/track/01TGQm38hHRbkTizSIaZxb) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Yung Chowder](https://open.spotify.com/artist/3hFHPjnorEtJWR6GSPwqQg) | [Boogers](https://open.spotify.com/album/5Ior3bY4eASDI0EIESY2PZ) | 3:19 |
 | 28 | [Hotboy Summer](https://open.spotify.com/track/1Z6o9do5MSn3iz2ph5H8G9) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Hotboy Summer](https://open.spotify.com/album/4T1XgrGMVtsSEPz5EAGff7) | 2:24 |
-| 29 | [PALETTE](https://open.spotify.com/track/4r8wEqHKGSnfTgHIH5OhAe) | [TO](https://open.spotify.com/artist/3PttRSwXon32UdfFbxJbp9), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me) | [PALETTE](https://open.spotify.com/album/4yHV1aSknTiXSvFWRGOnBf) | 3:34 |
+| 29 | [PALETTE](https://open.spotify.com/track/4r8wEqHKGSnfTgHIH5OhAe) | [TO](https://open.spotify.com/artist/3PttRSwXon32UdfFbxJbp9), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [PALETTE](https://open.spotify.com/album/4yHV1aSknTiXSvFWRGOnBf) | 3:34 |
 | 30 | [That's Not Your Path \(feat\. Babyface Ray & Sango\)](https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [In Rhythm](https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv) | 3:12 |
 | 31 | [coriolis](https://open.spotify.com/track/5f4LiI2bImg5kkTG40zuuO) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [NDK](https://open.spotify.com/artist/299MEdwEUcnYq4qthyp9t0) | [coriolis](https://open.spotify.com/album/6khIVPsbHDNvrv6bR63QHH) | 2:34 |
 | 32 | [Bad to the Bone](https://open.spotify.com/track/5T2WoHOmDB0BFGE6M54Gzm) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Bad to the Bone](https://open.spotify.com/album/7yURmP2oXIZIi1OK2X3s5L) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Weight On Me](https://open.spotify.com/track/7eueMnnCN0P85k2XB2kT9f) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [Swaggyono](https://open.spotify.com/artist/2eth98H0ggjeX0fPe1Aqvn) | [Weight On Me](https://open.spotify.com/album/2r6LY2IFVptHJZ5Pfknqkq) | 2:26 |
 | 50 | [40 Doors](https://open.spotify.com/track/03CBYseqfLSqzUXhRuJZqR) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [40 Doors](https://open.spotify.com/album/50mql4nHa72ylubgL32the) | 3:02 |
 
-Snapshot ID: `aIw76gAAAABWsKTKolNj1PiVYXLGonIn`
+Snapshot ID: `AAAAAHFzTtJmmaKYa/OIt08nYxplFlOK`

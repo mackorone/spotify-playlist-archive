@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,925 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,995 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 70 | [Consonance of Companionship 639 Hz](https://open.spotify.com/track/17MMku2kks0q31q6knf0C0) | [Sleep Tentacles](https://open.spotify.com/artist/5XmgBXKhW63y3BaSISYNOd) | [Consonance of Companionship 639 Hz](https://open.spotify.com/album/6TWMDAFQsRYYtgeFIsYGTA) | 2:43 |
 | 71 | [elevated mood 639 Hz](https://open.spotify.com/track/41DIXfJhTfvguKD0YLbTlP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 2:51 |
 
-Snapshot ID: `AAAAAGg8yEK49D71UHz0sJD+BWn21ZdE`
+Snapshot ID: `aG0I4wAAAABOnl4whu29tMXIahGFmpT7`

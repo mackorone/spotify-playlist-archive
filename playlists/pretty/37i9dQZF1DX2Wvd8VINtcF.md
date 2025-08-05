@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Swank Mami✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,420 likes - 126 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,457 likes - 126 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
-| 2 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
+| 1 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
+| 2 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
 | 3 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 4 | [The Runner](https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [The Runner](https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh) | 3:42 |
 | 5 | [Cannot Get Enough](https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema Sound System](https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv) | 4:24 |
-| 6 | [It Takes a Wack Mind to See Clear](https://open.spotify.com/track/2ERwIjkPrgelS0BDoF9C4a) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [It Takes a Wack Mind to See Clear](https://open.spotify.com/album/6iPqQAglbMUav7V2gnoIOs) | 3:23 |
-| 7 | [Coco's Lovesong \- DJ Carpenter Remix](https://open.spotify.com/track/5qikhvhyQ52shAb1bcwCpl) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Coco's Lovesong \(DJ Carpenter Remix\)](https://open.spotify.com/album/5QVTP7fogkU8OjLG0zSLo6) | 3:15 |
-| 8 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 |
+| 6 | [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Somewhere in Between](https://open.spotify.com/album/40qgvmv0umdBKkDBMdhlb2) | 3:23 |
+| 7 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 |
+| 8 | [It Takes a Wack Mind to See Clear](https://open.spotify.com/track/2ERwIjkPrgelS0BDoF9C4a) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [It Takes a Wack Mind to See Clear](https://open.spotify.com/album/6iPqQAglbMUav7V2gnoIOs) | 3:23 |
 | 9 | [Mr Man](https://open.spotify.com/track/3cvd3AFbO5k5h58DFJjp1N) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Mr Man](https://open.spotify.com/album/2mg8HqzpcrYHC5rdhwoLn6) | 3:26 |
 | 10 | [Shine, Glow, Glisten](https://open.spotify.com/track/5MTaywYh6VyGvSV2urrzoB) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Shine, Glow, Glisten](https://open.spotify.com/album/40QvMD3aV70QyngklC3d5h) | 3:10 |
 | 11 | [Seasalt & Teardrops](https://open.spotify.com/track/0K0rN4ZN1xJpwEK0METl5t) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Seasalt & Teardrops](https://open.spotify.com/album/5H4p5XKauaYQ1I1E79ZLQG) | 2:58 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 125 | [Hot like you](https://open.spotify.com/track/48FUVeDwsngzzJqJx4MUoo) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Hot like you](https://open.spotify.com/album/4883nS1fkXtvTQPVIivoUF) | 2:14 |
 | 126 | [Lose it all](https://open.spotify.com/track/0FJHyiVooVHCgTajIi37GF) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Lose it all](https://open.spotify.com/album/3GlARIzQyek9qP8vB5Ai4t) | 3:14 |
 
-Snapshot ID: `AAAAAMwd2Yar3w5/ZqV9OV4jEB9PQ/w1`
+Snapshot ID: `aJB8fAAAAADKZzuy+lQtcZDSRmuA2CZu`

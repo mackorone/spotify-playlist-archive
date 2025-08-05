@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Simge ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,820 likes - 123 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,822 likes - 123 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 45 | [Kardeş](https://open.spotify.com/track/1unnxQFfZAn5tFTpq46fuX) | [Groz](https://open.spotify.com/artist/2dg2w8X3b1Sjh4MMzXkfXx) | [Kardeş](https://open.spotify.com/album/7yW2aeqX2sLcS5xXiBfeh0) | 2:25 |
 | 46 | [running](https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 3:50 |
 | 47 | [Bi Garip Dünya](https://open.spotify.com/track/4KtZ3xRJcUGgpZF2rxanBH) | [Necati ve Saykolar](https://open.spotify.com/artist/7FcuvAno2oJYKcbRHpSTZu) | [Bi Garip Dünya](https://open.spotify.com/album/7CunDfvnYhWN2UtI3vsfEB) | 3:24 |
-| 48 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 48 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 49 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
 | 50 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 |
 | 51 | [What About Love](https://open.spotify.com/track/4X363jPq3db7ODossYt3l7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:37 |

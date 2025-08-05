@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAIDVTLO4sWLIHVr/qfcg5P4r4SjkKX",
+  "snapshot_id": "AAAIEHlNYadzf4FEVhEBovofq1wStiRG",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -132787,6 +132787,66 @@
       "duration_ms": 245684,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/0TrEqlX6NlAI0ghmvlqRSJ"
+    },
+    {
+      "added_at": "2025-08-04 23:09:33",
+      "album": {
+        "name": "Luv(sic) Hexalogy",
+        "url": "https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        }
+      ],
+      "duration_ms": 273080,
+      "name": "Luv (sic) pt2",
+      "url": "https://open.spotify.com/track/6gSalwEvVQfSFiqgwfyITp"
+    },
+    {
+      "added_at": "2025-08-04 23:12:56",
+      "album": {
+        "name": "Rachmaninov: Piano Concerto No.2",
+        "url": "https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Michael Francis",
+          "url": "https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF"
+        }
+      ],
+      "duration_ms": 644272,
+      "name": "Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/4rrrn8OLrttq7r9RgNXalU"
+    },
+    {
+      "added_at": "2025-08-04 23:15:36",
+      "album": {
+        "name": "All Over The World: The Very Best Of ELO",
+        "url": "https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/4N6HYihypXOVL24bnaR4fp"
     }
   ],
   "unique_name": "Purge",

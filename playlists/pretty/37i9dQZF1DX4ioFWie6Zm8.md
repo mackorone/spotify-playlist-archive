@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,454 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,527 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 30 | [Presenting the King](https://open.spotify.com/track/4625NzdUwBF1lSCnBJkZtr) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:54 |
 | 31 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 |
 | 32 | [Fanta](https://open.spotify.com/track/5PO5AyFVJy4r2rtyGRD5n8) | [Taffetas](https://open.spotify.com/artist/1LUYQvuT5WFvl043rAuy1Z) | [Taffetas](https://open.spotify.com/album/14gr7Jn4cOd1x5jcFvjcIX) | 5:05 |
-| 33 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 |
+| 33 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/3HxvUjDyy77UJ71voY3G6P) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 |
 | 34 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
 | 35 | [Kagala namib](https://open.spotify.com/track/4IXceMAV2wjMe1gD9P8hPt) | [Elemotho](https://open.spotify.com/artist/5cbeD8yRFDT2rkmX2x1diB), [Emmanuel Karumazondo](https://open.spotify.com/artist/0SIZ7bBPfEP1UdRwBEHoui), [Jackson Jr\. Kaujeua](https://open.spotify.com/artist/6zsZzIaWZOXzVae17wc8KY), [Ermelinda Thataone](https://open.spotify.com/artist/4Nw5eQl9eIQ8jDW44e3rj1), [Polina Loubnina](https://open.spotify.com/artist/256czgZzckInCYYbYAZTzl), [Jackson Wahengo](https://open.spotify.com/artist/4cR93Kh0uITQFQ9C36RYSI), [Tulonga Wahengo](https://open.spotify.com/artist/5EOYNuEjtcOm1BDBouX9J1), [Erick Hamuntenya](https://open.spotify.com/artist/5vV6V9FeMwNlKCb9Pm9WHo), [Ralph Geiseb](https://open.spotify.com/artist/1qxxbFOeqNtrCPUbDUOmgw) | [My Africa](https://open.spotify.com/album/0smFP1o6q7725uN5uN7n7S) | 6:42 |
 | 36 | [Inigradan](https://open.spotify.com/track/6mBAzHCBJKSSRdqfHzqLyd) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Les Filles de Illighadad](https://open.spotify.com/album/1GQ2yQmzsG0dl9dDeuQZoH) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Ené yèwèdèdkwat](https://open.spotify.com/track/5wgAKC4awJYizs0IbOsU2o) | [Tamrat Molla](https://open.spotify.com/artist/0HJNHryykMm06vJjHe2FDi), [Venus Band](https://open.spotify.com/artist/5OSfNKHKPD3zCtE1raSdbp) | [Ethiopiques, Vol\. 24: Golden years of Modern Ethiopian Music \(1969\-1975\)](https://open.spotify.com/album/4PIVIEBOwwkT5PNhGkrN3o) | 4:13 |
 | 100 | [Sonkolon](https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:30 |
 
-Snapshot ID: `aB23zQAAAABoeBjU38J8qdxf8j3betbI`
+Snapshot ID: `AAAAAHhPv3N9HCxyrXvDK8pTyy/JyKJp`

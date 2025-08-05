@@ -1,29 +1,13 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 44916,
+  "num_followers": 44919,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAAUicattTZBmJEkWBr8MVYe",
+  "snapshot_id": "aI6mgAAAAABDnbSc/O3CJBv+sjgSfp4h",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Pick Me Up",
-        "url": "https://open.spotify.com/album/0BPSz0jNSRZo7lnLAS90Ix"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 284415,
-      "name": "Come Pick Me Up",
-      "url": "https://open.spotify.com/track/5X1UhM3dxWwLtCRPl2Oczn"
-    },
     {
       "added_at": null,
       "album": {
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 296724,
-      "name": "Oh My Sweet Carolina",
-      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
+      "duration_ms": 318102,
+      "name": "Come Pick Me Up",
+      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
     },
     {
       "added_at": null,
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 192732,
-      "name": "My Winding Wheel",
-      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
+      "duration_ms": 296724,
+      "name": "Oh My Sweet Carolina",
+      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
     },
     {
       "added_at": null,
@@ -264,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 226036,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
+      "duration_ms": 192732,
+      "name": "My Winding Wheel",
+      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
     },
     {
       "added_at": null,
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 189403,
-      "name": "Call Me on Your Way Back Home",
-      "url": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
     },
     {
       "added_at": null,
@@ -367,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -399,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
       "artists": [
         {
@@ -408,9 +376,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 191546,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
+      "duration_ms": 189403,
+      "name": "Call Me on Your Way Back Home",
+      "url": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
       "added_at": null,
@@ -431,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -463,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
       "artists": [
         {
@@ -472,9 +440,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 218363,
-      "name": "Why Do They Leave?",
-      "url": "https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO"
+      "duration_ms": 191546,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,
@@ -623,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 252075,
-      "name": "Burning Photographs",
-      "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
       },
@@ -651,6 +619,22 @@
       "duration_ms": 213946,
       "name": "Fuck The Rain",
       "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 252075,
+      "name": "Burning Photographs",
+      "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 290520,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is a Light That Never Goes Out",
+        "url": "https://open.spotify.com/album/4p7FbdliqsM0ZmbbCaEjeZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 273047,
+      "name": "There Is a Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/5gkW1Q4MDPD7gc7ukuGhbi"
     }
   ],
   "unique_name": "This Is Ryan Adams",

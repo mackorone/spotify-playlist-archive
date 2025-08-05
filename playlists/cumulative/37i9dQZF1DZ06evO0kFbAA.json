@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251137,
+      "name": "Chega De Saudade",
+      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
+    },
+    {
+      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 248560,
       "name": "Menina Flor",
       "url": "https://open.spotify.com/track/5cD4lbcDJ5jEkar2sW2roc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,232 likes - 184 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,445 likes - 184 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 133 | [God Know](https://open.spotify.com/track/2nF8w69WDxaNAGTfRcuqF4) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [God Know](https://open.spotify.com/album/60yBlHMBRynuPq7uoAvkID) | 3:17 |
 | 134 | [GLOOM](https://open.spotify.com/track/6jKDPBLRv0O9tJtJQHQlAN) | [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [GLOOM](https://open.spotify.com/album/6ndj4oycOLQBMjozvlPbpi) | 1:58 |
 | 135 | [2 Major](https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [2 Major](https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn) | 2:18 |
-| 136 | [Believe \- Remix](https://open.spotify.com/track/5TcbpZTIBHZhuPPjjGAcvd) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Believe \(Remix\)](https://open.spotify.com/album/2NF3sfJYTL9hIwuaNStqeZ) | 3:10 |
+| 136 | [Believe \- Remix](https://open.spotify.com/track/5TcbpZTIBHZhuPPjjGAcvd) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Believe \(Remix\)](https://open.spotify.com/album/2NF3sfJYTL9hIwuaNStqeZ) | 3:24 |
 | 137 | [EH YAYA](https://open.spotify.com/track/72SHW6YrZd1azh9IBmRj25) | [JT Suavé](https://open.spotify.com/artist/3jEn80WQwhXdEwzFL4t31u) | [EH YAYA](https://open.spotify.com/album/37o359rl2MsdBMKJIoxn3N) | 3:06 |
 | 138 | [Last Supper](https://open.spotify.com/track/49yVq7ardpNJpBAt3bZPCB) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [K Diamond](https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Last Supper](https://open.spotify.com/album/1e8ApkHVRTUgfIIDBXUZ2o) | 2:44 |
 | 139 | [FOR ALL OF US](https://open.spotify.com/track/4UZ8rMYzx4iTjaWk684Mel) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Christ Jr](https://open.spotify.com/artist/0K6nL5WlOn54yzjNE0Erho) | [FOR ALL OF US](https://open.spotify.com/album/2GdCOxVpTrLHNQdqtHRMfD) | 2:53 |

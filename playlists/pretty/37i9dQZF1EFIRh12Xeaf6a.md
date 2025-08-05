@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,129 likes - 270 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,128 likes - 270 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,8 +225,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 215 | [My Blue Angel](https://open.spotify.com/track/7IaFyzPiM5uFavBxeOSNPo) | [Ray Peterson](https://open.spotify.com/artist/7BDI9Iqt24gl4RGdS6hWs9) | [Corrina, Corrina....It's Ray Peterson!](https://open.spotify.com/album/09KPR0Dh49C0a6MjYJYf8h) | 2:54 |
 | 216 | [Alabaster Lady](https://open.spotify.com/track/4we4nCRG5FpRxntNscoQIs) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 5:38 |
 | 217 | [Why Are You Leaving](https://open.spotify.com/track/4P9rAdHYFnYNbrISPudQx3) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 3:38 |
-| 218 | [You Still Want Her](https://open.spotify.com/track/440S7nWdyhnm8aFq3v7k1t) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:39 |
-| 219 | [Sunbird](https://open.spotify.com/track/45AGoSEHgUrxaAU0RMFVYS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:05 |
+| 218 | [Sunbird](https://open.spotify.com/track/45AGoSEHgUrxaAU0RMFVYS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:05 |
+| 219 | [You Still Want Her](https://open.spotify.com/track/440S7nWdyhnm8aFq3v7k1t) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:39 |
 | 220 | [Walk with Me \(I'll Be Your Companion\)](https://open.spotify.com/track/37yni34Q9P9wBbm1ZctDzM) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:58 |
 | 221 | [I Don't Believe It](https://open.spotify.com/track/4frZ34NLaDBpJe0UQzxNKa) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:43 |
 | 222 | [Easy To Love \(So Hard To Get\)](https://open.spotify.com/track/38Flz4Xg7TKy13KUbzIHR5) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Let Me Get Close To You \(With Bonus Tracks\)](https://open.spotify.com/album/0qiT0Yzyqwe884pSk75BU6) | 2:12 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 269 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 270 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab4i3AAAAADvIdEqjrmLq5v7UX2/9DT7`
+Snapshot ID: `Ab4ofAAAAAD3qINY4zuJzFFLLdg9u6b2`

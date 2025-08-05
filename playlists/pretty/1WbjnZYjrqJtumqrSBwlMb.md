@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,112 songs - 2 day 20 hr 28 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,113 songs - 2 day 20 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1120,5 +1120,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1110 | [FORGONE](https://open.spotify.com/track/50SUl5f6BMCWSV2JX1TAWh) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 7:54 |
 | 1111 | [CASPER \(with Maruja\)](https://open.spotify.com/track/40bqzt6BEkLetWWRWPl8kU) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 7:34 |
 | 1112 | [TOUCH THE SKY](https://open.spotify.com/track/2tJUxg2ZoLqsjaqjXz75qD) | [ihatetyler](https://open.spotify.com/artist/7aTM8FvaprJdB9kd5atcUI) | [VANISHER \(D SIDES\)](https://open.spotify.com/album/4vBU4v2QoZ4IL6QL0bpbva) | 2:31 |
+| 1113 | [Believe](https://open.spotify.com/track/3QPn2djEjTo0QFg083VIeV) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn) | 3:39 |
 
-Snapshot ID: `AAAJPLE9lnzBwlfEzx3cWxgsio0g+/8u`
+Snapshot ID: `AAAJPRSb4IkWFj7MNArCc8T0ZprGkVtT`

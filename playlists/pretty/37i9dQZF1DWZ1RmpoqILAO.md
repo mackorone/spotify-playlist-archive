@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > clocking in for elderberry wine summer 🍇
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,369 likes - 153 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,432 likes - 153 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

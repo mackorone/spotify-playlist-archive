@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > The next pop crop 💐 feat\. fliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,850 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,849 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 22 | [Lights Out](https://open.spotify.com/track/1DPsaQGuSCMJDkN3rrJ6gQ) | [EASTLAND PARK](https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP) | [Lights Out](https://open.spotify.com/album/0MWDFnQj7mLwlAFE1GvEeN) | 2:44 |
 | 23 | [i just want to dance](https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [i just want to dance](https://open.spotify.com/album/6bHBiU7eHs7ceY8lODmQpn) | 2:39 |
 | 24 | [Still On My Mind](https://open.spotify.com/track/2VwRWQicMWUQgcsYMrkkL7) | [Layla Scarlet](https://open.spotify.com/artist/3ct5nvvlBQexQMM9IwBIVe) | [still on my mind](https://open.spotify.com/album/6nOELA4BcwDMPQsfCyhxRt) | 2:37 |
-| 25 | [Piece of Your Love](https://open.spotify.com/track/5cr728na6CTGaWHa1pMXZb) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Piece of Your Love](https://open.spotify.com/album/4Fr7z0HrvDMHoizclTFnzu) | 2:48 |
+| 25 | [Piece of Your Love \(POYL\)](https://open.spotify.com/track/5cr728na6CTGaWHa1pMXZb) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Piece of Your Love \(POYL\)](https://open.spotify.com/album/4Fr7z0HrvDMHoizclTFnzu) | 2:48 |
 | 26 | [Dumb Girl](https://open.spotify.com/track/5ZT6xWFUUXSwKmMC0kBZL9) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Voyeur](https://open.spotify.com/album/5svjBxPc0CFYX8ftpZwVal) | 3:10 |
 | 27 | [lew manifest](https://open.spotify.com/track/0CdirDwBhXNisSHgErKdme) | [clearlew](https://open.spotify.com/artist/1G7GO69qXe0bNbenX5GQjb) | [Aspect Place](https://open.spotify.com/album/3AEvce049jfIQfkafpWZYy) | 3:13 |
 | 28 | [Guess She's Cool](https://open.spotify.com/track/2EHfWbPuShkr77dbidqZ1k) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Guess She’s Cool](https://open.spotify.com/album/3RAyDRKWY6KfrcsKZzpQFC) | 3:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 95740,
+  "num_followers": 95760,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAACNI0O5N1XROFRGFVJJ8RH7",
+  "snapshot_id": "aI6mgAAAAAAQN9XcpUvHxTAnIn05C6pO",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still The Mayor",
         "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 194754,
       "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
       "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
     },
     {
       "added_at": null,

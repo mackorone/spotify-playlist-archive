@@ -3119,6 +3119,28 @@
     },
     {
       "album": {
+        "name": "Something more awesome than a ghost",
+        "url": "https://open.spotify.com/album/49TixC2pbSlrKHpGZBntp1"
+      },
+      "artists": [
+        {
+          "name": "null",
+          "url": "https://open.spotify.com/artist/2uunASYD2lq4NEKTWE0O6V"
+        },
+        {
+          "name": "warabe",
+          "url": "https://open.spotify.com/artist/6o7QGeizvqvNU5Aq2Okw13"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Something more awesome than a ghost",
+      "url": "https://open.spotify.com/track/47f3tIWTiD6wHB2AaCmkkp"
+    },
+    {
+      "album": {
         "name": "SPECIALZ",
         "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
       },

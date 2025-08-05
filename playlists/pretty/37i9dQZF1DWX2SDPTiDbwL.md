@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,819 likes - 71 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,840 likes - 71 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 70 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 |
 | 71 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `AAAAAHeKb98f8iDEg4HCa4Je1tkDV/Kx`
+Snapshot ID: `aH9QsgAAAAB3OcZqP9sVjuI+3fN6LiQU`

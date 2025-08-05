@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,869 likes - 59 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,984 likes - 59 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

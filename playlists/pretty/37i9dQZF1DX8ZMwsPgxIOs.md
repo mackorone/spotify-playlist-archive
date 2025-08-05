@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Nicole Moudaber
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,199 likes - 130 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,223 likes - 130 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 129 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 |
 | 130 | [Amplify Reality](https://open.spotify.com/track/4LXUkaPwrt5oWxODHC5t1v) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Amplify Reality](https://open.spotify.com/album/1JK8Z10Ky5BcbEO5OeuV8M) | 3:07 |
 
-Snapshot ID: `aIK7DgAAAADygjPwPsiaVElPTfOrleZv`
+Snapshot ID: `aIK7DgAAAADwH3/lHGjej/yogjxAFD8Z`

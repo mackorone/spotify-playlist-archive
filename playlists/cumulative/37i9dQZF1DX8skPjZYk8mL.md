@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,164 songs - 1 day 10 hr 54 min
+1,169 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [A Smile For Me](https://open.spotify.com/track/3i16Aq5xnXD5C1ESwQ2jS0) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [A Smile For Me](https://open.spotify.com/album/7m4EMIbsdDnS0FMkgOV20I) | 1:59 | 2021-11-08 | 2024-04-05 |
 | [A Soft Morning](https://open.spotify.com/track/3XWPbydiRn9kl6DMWtw33O) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [A Soft Morning](https://open.spotify.com/album/0z2CvCuHJPqYgmPuw9MUrN) | 1:44 | 2024-10-25 |  |
 | [A Star’s Lullaby](https://open.spotify.com/track/5RcNIuk0SOc4Qxnyg2z7SJ) | [Francis Luna](https://open.spotify.com/artist/3sjCpfI70lOKlEUBv0xrtQ) | [A Star’s Lullaby](https://open.spotify.com/album/4v1KIMCEKmT82wWvTEcIpN) | 1:57 | 2025-07-03 |  |
+| [A Summer With You](https://open.spotify.com/track/1bCRets29xQICmpMFZEDq1) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [A Summer With You](https://open.spotify.com/album/3ysl5RUkHBBtjTTTil4Vxu) | 2:03 | 2025-08-04 |  |
 | [A Sunny Day](https://open.spotify.com/track/36wnjwoxWcB9uVMeTASNcP) | [Hailey Tilford](https://open.spotify.com/artist/4bGfrh4LzyTm13a0FGfgKe) | [A Sunny Day](https://open.spotify.com/album/0hyfKKbEDdSrqY6hTfGoxv) | 1:53 | 2021-11-08 | 2023-02-18 |
 | [A Sunny Trip](https://open.spotify.com/track/4kmAKfwHnKkd3pgiI0jmgs) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [A Sunny Trip](https://open.spotify.com/album/6sCeCiqhg7U8NzAJxc8IDy) | 1:11 | 2024-11-15 | 2025-04-12 |
 | [A Tall Tale](https://open.spotify.com/track/6P14smwG7qUke1fmruPLY2) | [Boyce Darcy](https://open.spotify.com/artist/78r6RLiTXrS0ukYu9pwBur) | [A Tall Tale](https://open.spotify.com/album/3V5he285jyZ7r812xgnqja) | 1:09 | 2021-11-08 | 2024-04-05 |
@@ -403,6 +404,7 @@
 | [Guds kärlek är som stranden](https://open.spotify.com/track/3sczfPrh9pmu3mkLGNSmJ1) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Bred dina vida vingar](https://open.spotify.com/album/4DqBFhs0HYdT4ETvMalw1v) | 1:14 | 2022-12-16 | 2023-06-03 |
 | [Half And Half](https://open.spotify.com/track/2j9pHPSs8CXyHs78jG8HHc) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Half And Half](https://open.spotify.com/album/6T6IyRoGoqEGkQXvHqx0iv) | 2:14 | 2023-12-08 | 2025-06-12 |
 | [Hannah My Nana](https://open.spotify.com/track/1sDjxNFyypPdv3SuHb8tSB) | [Martina Beasley](https://open.spotify.com/artist/6iOLm48O5U4bvtK6igOuqK) | [Hannah My Nana](https://open.spotify.com/album/4mfBTTRG4J79mxLmEnHhc7) | 1:33 | 2021-11-08 | 2022-01-22 |
+| [Hansel and Gretel](https://open.spotify.com/track/5If8Z8jnDPZLglv1QAclnI) | [Roman Nayel](https://open.spotify.com/artist/1yLkT7pquGU8BwHJrpsZji) | [Hansel and Gretel](https://open.spotify.com/album/4FGV4fNAeDVZmsVGTTUAiE) | 1:53 | 2025-08-04 |  |
 | [Happy Little Mouse](https://open.spotify.com/track/3CCuGcNhvZPqcFP92PqMnk) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Happy Little Mouse](https://open.spotify.com/album/2esDO1pfuI7jjbO94jJfgt) | 1:34 | 2024-07-12 | 2025-06-12 |
 | [Happy Thoughts](https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [Happy Thoughts](https://open.spotify.com/album/0tdtCvjgOZ2H894bsA3V3K) | 1:47 | 2024-10-11 |  |
 | [Happy Times](https://open.spotify.com/track/5ktISNmss2NX5pPIZp3tDf) | [Thora Nelson](https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3) | [Happy Times](https://open.spotify.com/album/5rEXMXkgfwi97O2THttUPS) | 1:38 | 2022-02-10 | 2024-07-13 |
@@ -716,6 +718,7 @@
 | [Old Man Noah](https://open.spotify.com/track/79vPABqHj4zEuSrs7xpDty) | [Adeimferry](https://open.spotify.com/artist/4nwwOJA6YtmbEX2KIr121J) | [Old Man Noah](https://open.spotify.com/album/4GNvVOdgQtGJeXwzj9ZIlw) | 1:29 | 2021-11-08 | 2022-07-01 |
 | [On More Sleep](https://open.spotify.com/track/5LPFIx2yusxKYAvioLn4xp) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleepy Eyes](https://open.spotify.com/album/20f2sObexRNK0NtpZ4jx9W) | 2:59 | 2023-04-07 | 2023-08-18 |
 | [On The Field Of Dreams](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Izabella Kirk](https://open.spotify.com/artist/0PrTw0kgFwYZz0lje9LFED) | [On The Field Of Dreams](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 1:11 | 2022-12-16 | 2024-04-05 |
+| [On the Lake](https://open.spotify.com/track/3H9c8Afl4MgOUEe8Lq6tlY) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [On the Lake](https://open.spotify.com/album/2as6KgtsNEcqb91rizjahJ) | 2:10 | 2025-08-04 |  |
 | [Once Upon a December](https://open.spotify.com/track/4Ct2FBRIzgXjrLGlql3JvG) | [Vic Mcmillan](https://open.spotify.com/artist/1aF8NmmySgiOzqLEloByPD) | [Once Upon a December](https://open.spotify.com/album/1E6mJ1A34IXrdR0T4Ko9oL) | 1:37 | 2024-12-06 |  |
 | [Once Upon A Star](https://open.spotify.com/track/5ro4n67wO8Q8aRV3upxnut) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Once Upon A Star](https://open.spotify.com/album/11xfwgFFCr73Y4rkb7Xz8S) | 1:43 | 2023-02-17 | 2025-01-18 |
 | [One And Only](https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [One And Only](https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45) | 1:48 | 2022-09-23 | 2024-04-05 |
@@ -912,7 +915,7 @@
 | [Stars Are Gently Dancing](https://open.spotify.com/track/04p94Dll2qESh2Ye9MZ4QI) | [Milo Grímur](https://open.spotify.com/artist/7Cv54DMDXeAgu5XlhAJ1zE) | [Stars Are Gently Dancing](https://open.spotify.com/album/0mQoK7AKuT6BcxYitbAf4L) | 1:47 | 2025-07-03 |  |
 | [Stars Are Shining](https://open.spotify.com/track/7n5nlxFbwY8bgN7CXIRdD7) | [Percy Erickson](https://open.spotify.com/artist/2CZkyihyuE9dEYbA1DTC45) | [Dark night, Sleep tight](https://open.spotify.com/album/4T481VUerDBhjcx2cKwTCL) | 1:42 | 2021-11-08 | 2022-09-24 |
 | [Stars At Night](https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Stars At Night](https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl) | 1:16 | 2022-06-07 | 2023-08-11 |
-| [Stars From Afar](https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Cozy Evening](https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp) | 2:48 | 2023-08-10 |  |
+| [Stars From Afar](https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Cozy Evening](https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp) | 2:48 | 2023-08-10 | 2025-08-05 |
 | [Stay Awake](https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB) | [Kawaii Box](https://open.spotify.com/artist/6zQ9QH6iOWjY83YkPEzVbX) | [Stay Awake](https://open.spotify.com/album/0776wu8ar1ygalUqsNVbGP) | 1:23 | 2022-09-23 | 2023-05-12 |
 | [Stay Awake](https://open.spotify.com/track/5neb96Off8O3IxZ4GuYHZh) | [Valérian Rose](https://open.spotify.com/artist/6xmpBRXtnKvwXVMGRQT7G7) | [Stay Awake](https://open.spotify.com/album/1zTqsjrkQBIzdKU5KV52hk) | 1:18 | 2024-07-26 |  |
 | [Stjernefall](https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Stjernefall](https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM) | 1:28 | 2022-06-07 | 2023-08-18 |
@@ -974,6 +977,7 @@
 | [The Blue Danube](https://open.spotify.com/track/3DF3X25T2Uf1nKqXIpRS7j) | [Nicola Gisin](https://open.spotify.com/artist/1XsdKXs0gUh582UBPUL88s) | [The Blue Danube](https://open.spotify.com/album/5AZ7KwOPxTo4IERoyjjDB1) | 1:37 | 2024-05-24 | 2025-02-15 |
 | [The Button Song](https://open.spotify.com/track/53asbytXgNUysTYzx36QKL) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [The Button Song](https://open.spotify.com/album/2GczQclNVTVpionfA4751C) | 1:05 | 2021-11-08 | 2022-10-29 |
 | [The Colours](https://open.spotify.com/track/0ccOxQa7k63uCjFieGYbx5) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [The Colours](https://open.spotify.com/album/2hqXj3HUx4XlGQQHHqatvY) | 1:15 | 2023-11-17 | 2025-06-12 |
+| [The Dreaming Tree](https://open.spotify.com/track/3KG89e3uw0VwDrNY92d2lC) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [The Dreaming Tree](https://open.spotify.com/album/5sw2qa0oA5E2w4RlW1Bvw7) | 2:03 | 2025-08-04 |  |
 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 | 2023-12-08 |  |
 | [The Feather Song](https://open.spotify.com/track/72jYBCcJMpYBnmBdGA6ske) | [Suno Weber](https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L) | [The Feather Song](https://open.spotify.com/album/6RvTaodJm1tQL4CHKKHrF8) | 2:55 | 2024-08-30 |  |
 | [The Forest Tale](https://open.spotify.com/track/1SiU6KwGz3pEi1vXSEcXcY) | [Elio Rowan](https://open.spotify.com/artist/3NHYEXDCroGix134Qit5nm) | [The Forest Tale](https://open.spotify.com/album/6Qg4f2IE16IxfnDKbl805N) | 2:10 | 2025-07-03 |  |
@@ -1086,6 +1090,7 @@
 | [Under My Pillow](https://open.spotify.com/track/4w0BCDDV9LynxIYBojpJzC) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Under My Pillow](https://open.spotify.com/album/5BQVcNXIZmI20iYa1pPoKS) | 1:36 | 2025-07-03 |  |
 | [Under The Moonlight](https://open.spotify.com/track/02C0r74IluFkqqu5FTMGmq) | [Green Dino](https://open.spotify.com/artist/7MVCEO6QGAHj3KIIQplBpl) | [Under The Moonlight](https://open.spotify.com/album/6MO1hpFOPCS5hYyC4yFXGC) | 1:45 | 2023-12-08 | 2025-05-24 |
 | [Under the Shining Stars](https://open.spotify.com/track/1tuHBmHspiWtcHisFJQo2Y) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Under the Shining Stars](https://open.spotify.com/album/7afLw1fNKNLJaCvvrVdun0) | 2:15 | 2024-04-19 |  |
+| [Under the Sleepy Sky](https://open.spotify.com/track/2Nr4HhvtVsQrtXPnlwDyZR) | [Snuggle Land](https://open.spotify.com/artist/1RV6PoeDk6d8chB4Nn1xTy) | [Under the Sleepy Sky](https://open.spotify.com/album/33IfSHivG11AXUQ1rw5jAQ) | 1:24 | 2025-08-04 |  |
 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 | 2023-08-10 |  |
 | [Underneath My Bed](https://open.spotify.com/track/6JHCZw34Fv0aRWDz34F0A1) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Underneath My Bed](https://open.spotify.com/album/12lUt0jm0n9MFRAKcgiAhx) | 1:35 | 2022-10-28 | 2024-08-27 |
 | [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2023-06-08 | 2025-04-05 |

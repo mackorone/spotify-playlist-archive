@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : Team Paiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,856 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,909 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [TOUJOURS GNAN \- Remix](https://open.spotify.com/track/0BwKs1SMsguiJiHTGf4fi0) | [Nyerky](https://open.spotify.com/artist/5U4o1zywerDRWMxteldGoC), [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [TOUJOURS GNAN \(Remix\)](https://open.spotify.com/album/7GRtAtq7ou6dhO1cCghrdS) | 2:50 |
 | 40 | [Korotoumou](https://open.spotify.com/track/6P5FxeaDrBJUC0cVFWyjgd) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Korotoumou](https://open.spotify.com/album/0UdRLJ4ow70maxJ1LutisP) | 2:36 |
 
-Snapshot ID: `aHlyfgAAAADZk8776L/1LzXsuLQNzqYH`
+Snapshot ID: `AAAAAEViUx4Ie3VEefsmz4SegQzwBdmx`

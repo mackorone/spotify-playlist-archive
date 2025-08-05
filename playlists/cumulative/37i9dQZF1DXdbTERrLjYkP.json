@@ -3229,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/6ZHZGKPdroxRhT3NoBLu2k"
+      },
+      "artists": [
+        {
+          "name": "Clea",
+          "url": "https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189885,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/2T0ptYfGK0No4SFU7i8unI"
+    },
+    {
+      "album": {
         "name": "crumbs",
         "url": "https://open.spotify.com/album/1nyrrw9Z37Hc1U3eALV51X"
       },
@@ -4598,7 +4616,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 177000,
       "name": "father",
       "url": "https://open.spotify.com/track/0S9u6EZQ1EAHz7IkQbxm9z"

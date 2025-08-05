@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: for King & Country, KB, and Steven Malcolm
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,650 likes - 380 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,661 likes - 380 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 34 | [Hero](https://open.spotify.com/track/104EtqhsU4jTsThoRCqpiw) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Greg James](https://open.spotify.com/artist/35YmHthd8r0eLl3UzJ35xH) | [Hero](https://open.spotify.com/album/3312s64tGhPw1ylcmXzsfJ) | 3:27 |
 | 35 | [GANGSTA](https://open.spotify.com/track/73oA2ytw0HPxJbFhpmgzG7) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox) | [Hipocritical Hop](https://open.spotify.com/album/4oTeoLPR6wj3MIqInp1pZe) | 2:38 |
 | 36 | [LOVE WONT FADE](https://open.spotify.com/track/1HJTUmCxZbn1AvfcdIafzA) | [Josh P](https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ) | [LOVE WONT FADE](https://open.spotify.com/album/3nYFuVyWSDtl4mZ4gcJ92T) | 2:10 |
-| 37 | [Believe \- Remix](https://open.spotify.com/track/5TcbpZTIBHZhuPPjjGAcvd) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Believe \(Remix\)](https://open.spotify.com/album/2NF3sfJYTL9hIwuaNStqeZ) | 3:10 |
+| 37 | [Believe \- Remix](https://open.spotify.com/track/5TcbpZTIBHZhuPPjjGAcvd) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Believe \(Remix\)](https://open.spotify.com/album/2NF3sfJYTL9hIwuaNStqeZ) | 3:24 |
 | 38 | [BURNING MAN](https://open.spotify.com/track/1qhggRC4RPPPrX4kJzIFNi) | [Skema Boy](https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1) | [BURNING MAN](https://open.spotify.com/album/1V8hg3nyVZGmtGaRtR7uj1) | 2:50 |
 | 39 | [Man of Steel](https://open.spotify.com/track/59WBqyqN8NTgRrT3zhSq2T) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [Man of Steel](https://open.spotify.com/album/52h1YneckbvCP45DUSRl03) | 3:12 |
 | 40 | [HOLY \(IS HE\)](https://open.spotify.com/track/6OKxZI1shDDQiCvfWGnRfs) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [HOLY \(IS HE\)](https://open.spotify.com/album/0ciEOUEbmCid0Q2FrPKpCQ) | 2:36 |
@@ -389,4 +389,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 379 | [I'll Be Ok](https://open.spotify.com/track/1lD9t61KMIQXCtg5mfokZO) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [I'll Be Ok](https://open.spotify.com/album/6Rp65x5xdaJXMAlHHf9frx) | 2:25 |
 | 380 | [Amen](https://open.spotify.com/track/0wMYjUmXR2psuSRvPjvMfe) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Amen](https://open.spotify.com/album/2cSLZPsMDTB6fpYTlnS3AY) | 3:08 |
 
-Snapshot ID: `AAAAAAgX3YLIjVQaJhECpn1/S8XmrR4T`
+Snapshot ID: `aIw76QAAAABie2Ctl9EVkYacYv8orf6b`

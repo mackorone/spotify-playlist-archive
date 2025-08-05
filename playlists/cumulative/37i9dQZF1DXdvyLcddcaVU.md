@@ -4,7 +4,7 @@
 
 > \#fyp
 
-835 songs - 1 day 19 hr 41 min
+836 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,7 @@
 | [Petite Bulle](https://open.spotify.com/track/7kqNjuzxoqi4QDLHkBp0mb) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [SPLIT](https://open.spotify.com/album/3aElru1JLDOphuybKIw7OK) | 3:41 | 2023-03-24 | 2023-09-10 |
 | [Photomaton](https://open.spotify.com/track/7FAyIPD8YLpUQc5r0MSv60) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R), [Elodie Wildstars](https://open.spotify.com/artist/6azJLRL2YwHHtmYdSI12lL) | [Pola](https://open.spotify.com/album/57rVwTtLt8rgScIabNzWvt) | 4:40 | 2025-06-20 | 2025-07-19 |
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-02-14 |  |
-| [Pim pom](https://open.spotify.com/track/6OZ0yjdc8QQPxnQ2T6lGlg) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 4:23 | 2025-02-14 |  |
+| [Pim pom](https://open.spotify.com/track/6OZ0yjdc8QQPxnQ2T6lGlg) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 4:23 | 2025-02-14 | 2025-08-05 |
 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 | 2024-07-12 | 2024-09-07 |
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-06-20 | 2023-12-14 |
 | [PLAVON](https://open.spotify.com/track/2VlZsX8huFxgfm3yoMCoRy) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [PLAVON](https://open.spotify.com/album/1jwo9ze4eyI9aGMXnH0rgL) | 2:31 | 2023-07-07 | 2023-09-16 |
@@ -770,6 +770,7 @@
 | [Tipo Nino Vs Kabrinha](https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Tipo Nino Vs Kabrinha](https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH) | 3:21 | 2025-06-20 |  |
 | [Titulaires](https://open.spotify.com/track/1OToHVdN93nhrEJcMEax6C) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [OCHO](https://open.spotify.com/album/5WWp49ZHB34eMwy5n856Jj) | 4:00 | 2023-03-24 | 2023-08-26 |
 | [TNF](https://open.spotify.com/track/0Vfir5TGvFgsctQJY9CnBM) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:17 | 2024-09-06 | 2025-01-18 |
+| [Toi et moi](https://open.spotify.com/track/6D8pnA3WyMrGy8Q2258BC0) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Toi et moi](https://open.spotify.com/album/7prFQUHqq5CDwXE5Org7uy) | 3:21 | 2025-08-04 |  |
 | [Toko dombi](https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Toko dombi](https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i) | 2:40 | 2024-03-22 | 2024-06-22 |
 | [Toto et Ninetta](https://open.spotify.com/track/4DMSNaJcSirQN31BSf2BeZ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:31 | 2025-04-03 | 2025-04-19 |
 | [Totopika](https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Totopika](https://open.spotify.com/album/2RnvdenjPNouk7sUE3aPzg) | 2:19 | 2025-03-21 | 2025-06-28 |

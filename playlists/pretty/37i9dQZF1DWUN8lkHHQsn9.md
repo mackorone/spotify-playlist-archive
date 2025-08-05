@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover:  <a href="spotify:artist:2kMcRNBgbx6szpteePrGew">vgtbl.pl</a>, Franek Warzywa, Młody Budda
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,724 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,712 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

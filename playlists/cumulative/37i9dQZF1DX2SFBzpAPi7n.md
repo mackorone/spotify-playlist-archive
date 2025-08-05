@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dragon Pony\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,005 songs - 2 day 13 hr 20 min
+1,007 songs - 2 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg) | 4:20 | 2025-07-24 |  |
 | [Footsteps](https://open.spotify.com/track/5nqhxQ7tib6VYjiXAw9pyq) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [CLOVER Part 1.5](https://open.spotify.com/album/2EA3CQpxbUQPgnlhuiyrsa) | 2:56 | 2024-11-06 | 2024-12-03 |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2022-04-21 |  |
+| [For myself](https://open.spotify.com/track/4qCZ6II6kGDEqZyCWEgrAP) | [ Seo Youngju](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4Wa3VLLWGqL0WKzgZfhhaA) | 4:01 | 2025-08-04 |  |
 | [For Pure Pleasure Only](https://open.spotify.com/track/7m4RetwzZtQICsuQyDRJE6) | [Captainrock](https://open.spotify.com/artist/4iAzTuQOAgDedLVgZcssvm) | [For Pure Pleasure Only](https://open.spotify.com/album/13swBIvuORDemR4ZpYE7xO) | 2:42 | 2022-05-03 | 2022-05-07 |
 | [FOREST \(Mountain and Elevator\)](https://open.spotify.com/track/1wmaEbWBvNltPwF8dZepw6) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [XYRUP](https://open.spotify.com/album/45oAZWRJJkpHdGK1Ys8dly) | 5:16 | 2024-10-31 | 2025-01-15 |
 | [Forever Dumb \(feat\. SAM KIM\)](https://open.spotify.com/track/6odIARTda4VMoX6j5VZfLc) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [So!YoON!](https://open.spotify.com/album/6YJX2PIub9Ek7LBfpezJG1) | 3:52 | 2022-06-20 | 2022-06-22 |
@@ -318,6 +319,7 @@
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-06-05 | 2024-06-09 |
 | [goodbye](https://open.spotify.com/track/4Y6JIaZmRUYJ1SziKAmt5Z) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Brut](https://open.spotify.com/album/2JiPV8SXl4Rcvh4qOAacwy) | 3:25 | 2025-05-15 | 2025-06-02 |
 | [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 | 2024-06-05 | 2024-10-23 |
+| [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 | 2025-08-04 |  |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 | 2024-11-07 |
 | [Gradually](https://open.spotify.com/track/2wdMvcn0OfxBislSqVFy7b) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [PUZZLE](https://open.spotify.com/album/3IyCy5reObC7anLU5t1KjZ) | 3:07 | 2025-01-02 | 2025-03-07 |
 | [Grandpa of Mountain](https://open.spotify.com/track/35jVxzFNNkWTXiVkYtSe1O) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Grandpa of Mountain 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/5LXQYOOoH847kf5NNzbnnj) | 3:20 | 2024-04-30 | 2024-05-10 |
@@ -604,7 +606,7 @@
 | [ON MY OWN](https://open.spotify.com/track/1mnw7B1EQPalqnY3u4QqUy) | [THE MIDNIGHT ROMANCE](https://open.spotify.com/artist/0oD9KiqTgoOgEYyL5kIC6v) | [ON MY OWN](https://open.spotify.com/album/7Iiyw5TWZCZxfuAWEKyDIr) | 3:56 | 2022-04-12 | 2022-07-29 |
 | [On\-Air](https://open.spotify.com/track/4Z7tPcXoeP0JJ6Qyve84aC) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [On\-Air](https://open.spotify.com/album/5oHhTiPxMWyfp3A21IlgxW) | 3:16 | 2022-05-02 | 2022-07-23 |
 | [ONE \(BJ멸망전 공식 주제가\)](https://open.spotify.com/track/3eZO90Rawae6JZuLGufzJd) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [ONE \(BJ멸망전 공식 주제가\)](https://open.spotify.com/album/7kdODFIZj9q63ixg8PUF2G) | 2:45 | 2022-06-08 | 2022-07-15 |
-| [Only Forward](https://open.spotify.com/track/48U3KFipj0Z1mJ3BCqOQH0) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Tree Ring](https://open.spotify.com/album/1avoknFOZaYIFnQEE6D4X8) | 3:23 | 2025-08-01 |  |
+| [Only Forward](https://open.spotify.com/track/48U3KFipj0Z1mJ3BCqOQH0) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Tree Ring](https://open.spotify.com/album/1avoknFOZaYIFnQEE6D4X8) | 3:23 | 2025-08-01 | 2025-08-05 |
 | [Only Ones Left in this World](https://open.spotify.com/track/0fhHQODEITI549NaUWqJDx) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Only Ones Left in this World](https://open.spotify.com/album/11TsV6N3xprEZVKo4haCMX) | 3:21 | 2022-09-05 | 2022-10-01 |
 | [OOTD](https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VillainS\]](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) | 2:56 | 2023-11-23 | 2024-11-07 |
 | [Option B](https://open.spotify.com/track/6VJQFfnYkXj2WGHVrhZPOl) | [Marcus Way](https://open.spotify.com/artist/2EdMOk5FEJM6VWRRmSELyp) | [B Sides of Almost Everything](https://open.spotify.com/album/17I4xcG0j2xTx0elLOk7RK) | 3:07 | 2022-05-03 | 2022-05-08 |
@@ -719,7 +721,7 @@
 | [Ryudejakeiru](https://open.spotify.com/track/11Ndi6W2TSe8f4jNRb0ZgO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 4:09 | 2024-04-09 | 2024-05-10 |
 | [S G T A P E \- 02](https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [S G T A P E \- 02](https://open.spotify.com/album/4ngTgk3EulbfnBvCKz1C0N) | 18:41 | 2025-01-02 | 2025-03-07 |
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
-| [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 |  |
+| [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 | 2025-08-05 |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-07 | 2024-11-07 |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2024-05-09 | 2024-11-07 |

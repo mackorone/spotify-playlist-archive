@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Timeless heart\-warming classics from 1940\- 1970 for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,405,300 likes - 68 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,405,041 likes - 68 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 67 | [O Holy Night](https://open.spotify.com/track/2aQkTUbJUHk3F6nMipZLbz) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Twelve Songs Of Christmas](https://open.spotify.com/album/6IICcthNyUNV4bdJlm8Idi) | 4:50 |
 | 68 | [The Christmas List](https://open.spotify.com/track/2Vfm43BaQcTY55P6R9WvRe) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas Carousel](https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd) | 2:39 |
 
-Snapshot ID: `Z2gyBQAAAADCw0+SZISfkG2Aa1y55wFT`
+Snapshot ID: `Z2gyBQAAAAD1+Rmu4zH6yk2sAMwXdF4L`

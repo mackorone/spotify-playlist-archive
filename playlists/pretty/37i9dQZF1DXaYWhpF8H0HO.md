@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Skyline
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,945 likes - 112 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,946 likes - 112 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-437 songs - 19 hr 2 min
+440 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-05-20 | 2025-04-17 |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-05-20 | 2025-04-17 |
 | [Arabesca](https://open.spotify.com/track/2fnmga0QCLLsPW8Es5o29r) | [Neal Robinett](https://open.spotify.com/artist/0oHaKHnMtcLtrBkqZhb2sX) | [Arabesca](https://open.spotify.com/album/3PPAPtSQVgEtl06ev5gUea) | 3:14 | 2022-05-20 | 2025-04-17 |
+| [As Silence Falls](https://open.spotify.com/track/016jV0p2FhrHscjW9pq8eN) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [As Silence Falls](https://open.spotify.com/album/13CI80Wu8xoSXlG0a8vdHz) | 2:31 | 2025-08-04 |  |
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2022-05-20 | 2024-03-26 |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2022-05-20 | 2024-04-10 |
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2022-05-20 | 2023-07-05 |
@@ -88,7 +89,7 @@
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-05-20 |  |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2022-05-20 | 2025-04-17 |
 | [Dedication](https://open.spotify.com/track/5UKTmSINIygGZJR4MFx9Mu) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Dedication](https://open.spotify.com/album/0mHFXI7cpZez6t913U6MWB) | 3:07 | 2022-05-20 |  |
-| [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2022-05-20 |  |
+| [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2022-05-20 | 2025-08-05 |
 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 | 2023-06-19 |  |
 | [Dells Pond](https://open.spotify.com/track/5lefNG7G6OMsOTcwPX0Hfe) | [Elizabeth Bouknight](https://open.spotify.com/artist/75cwvPWWYghazFDw1Hvda4) | [Dells Pond](https://open.spotify.com/album/1hp6OfvkiYWV9LaaJbEQLu) | 2:15 | 2022-05-20 | 2024-04-04 |
 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 | 2022-05-20 | 2025-04-17 |
@@ -281,6 +282,7 @@
 | [Potomac](https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq) | [Fiona Astier](https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4) | [Potomac](https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE) | 2:10 | 2022-05-20 | 2024-04-10 |
 | [Pour Vous](https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 2:30 | 2022-07-20 |  |
 | [Prelude In A\-Flat](https://open.spotify.com/track/26ufMVgpojM835miVaoTZG) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Prelude In A\-Flat](https://open.spotify.com/album/1cAx6BheD7zUvHlhr0S4Ph) | 2:40 | 2022-05-20 | 2024-04-10 |
+| [Presence](https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Presence](https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a) | 2:25 | 2025-08-04 |  |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2022-05-20 |  |
 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 | 2022-05-20 | 2025-05-03 |
 | [Pure Joy](https://open.spotify.com/track/3CyDX1BeiOFbTcgnPijESa) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Pure Joy](https://open.spotify.com/album/2PCZzOR3EMGI7m6yXLceZN) | 2:49 | 2022-07-20 |  |
@@ -336,6 +338,7 @@
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-05-20 | 2025-05-03 |
 | [Sogni di Notturno](https://open.spotify.com/track/6FnrJardubPPSYmp8oVxyZ) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Sogni di Notturno](https://open.spotify.com/album/7hSrAcxKNUJd1QGTCper6y) | 2:19 | 2024-09-03 | 2025-06-11 |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2022-05-20 |  |
+| [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-04 |  |
 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 | 2022-05-20 | 2024-04-04 |
 | [Someday](https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Someday](https://open.spotify.com/album/5B6UCEHOHCDK3BIng2X4FY) | 2:20 | 2024-08-16 |  |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |

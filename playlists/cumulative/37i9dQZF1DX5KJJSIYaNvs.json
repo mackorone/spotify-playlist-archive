@@ -1713,6 +1713,36 @@
     },
     {
       "album": {
+        "name": "Boondon Mein Ghar",
+        "url": "https://open.spotify.com/album/2sPoThMSpEfj8LTcduf8hS"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Pritom Gohain",
+          "url": "https://open.spotify.com/artist/0W2ogjcaUYDeER4oiu2emz"
+        },
+        {
+          "name": "Anubhav Gogoi",
+          "url": "https://open.spotify.com/artist/6oqh70qVkQOGNh2MgBeelh"
+        },
+        {
+          "name": "Swaraj Priyo",
+          "url": "https://open.spotify.com/artist/34pfrauuP9OSysDkLgdEwW"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235058,
+      "name": "Boondon Mein Ghar",
+      "url": "https://open.spotify.com/track/0jvLLqtGskP5SmkzG7rZeU"
+    },
+    {
+      "album": {
         "name": "Bulleya O",
         "url": "https://open.spotify.com/album/5OCSQq7aPf6T6sGFe9D2yC"
       },
@@ -2594,7 +2624,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 165818,
       "name": "Dil E Mareez",
       "url": "https://open.spotify.com/track/1qQyNekAfN23RWcTGRVHXB"

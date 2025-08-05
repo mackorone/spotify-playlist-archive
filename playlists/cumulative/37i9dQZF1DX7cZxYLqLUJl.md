@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-163 songs - 7 hr 5 min
+164 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Long Goodbye](https://open.spotify.com/track/4WgPQlt7Pa115gVyoiLTVc) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [My Soul Is a Strange Country \(Solo Piano\)](https://open.spotify.com/album/16DNJgqbmH6wB42u4JKeWS) | 3:00 | 2021-04-21 |  |
 | [A Quiet Morning](https://open.spotify.com/track/4ert3RkJ8MenB9f4AQtFTl) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [A Quiet Morning](https://open.spotify.com/album/0Y0vbSn44cskqZe01iWWfl) | 2:18 | 2024-10-14 |  |
 | [A Room With A View](https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [A Room With A View](https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2) | 2:20 | 2025-01-14 |  |
+| [After Sky](https://open.spotify.com/track/7JWthkhacSL9OxUvQu0lRB) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [After Sky](https://open.spotify.com/album/2HIcAjp3OfgYbUWEjqiHV2) | 2:39 | 2025-08-04 |  |
 | [Aguachile](https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Aguachile](https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ) | 2:06 | 2025-05-28 |  |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2021-04-21 |  |
 | [All My Words](https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL) | [Mark Millson](https://open.spotify.com/artist/3wIkO7KPoP7jhrn7OA4yvG) | [All My Words](https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF) | 2:41 | 2021-04-21 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAADD1w3T85E9N4ZjviZ/MbsB",
+  "snapshot_id": "aI6mgAAAAABVgWqp/PWNopKiVlUgd7m/",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 325773,
       "name": "Safiatou (feat. Santana & Ang\u00e9lique Kidjo)",
       "url": "https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 170785,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Fifa",
+      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -943,42 +959,6 @@
       "duration_ms": 348813,
       "name": "Once in a Lifetime",
       "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Fifa",
-      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Cages",
-        "url": "https://open.spotify.com/album/0nISni6H22mYUDNtmlrH2J"
-      },
-      "artists": [
-        {
-          "name": "Faada Freddy",
-          "url": "https://open.spotify.com/artist/7EBwTCv2UZ1vm4WmfNCiEK"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Africa Nangadef",
-      "url": "https://open.spotify.com/track/1bcdYsNISTkYpnbuAXp9Le"
     },
     {
       "added_at": null,
@@ -1019,22 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quanto Mais Curtido Melhor",
-        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+        "name": "Golden Cages",
+        "url": "https://open.spotify.com/album/0nISni6H22mYUDNtmlrH2J"
       },
       "artists": [
         {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+          "name": "Faada Freddy",
+          "url": "https://open.spotify.com/artist/7EBwTCv2UZ1vm4WmfNCiEK"
         },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
+      "duration_ms": 221573,
+      "name": "Africa Nangadef",
+      "url": "https://open.spotify.com/track/1bcdYsNISTkYpnbuAXp9Le"
     },
     {
       "added_at": null,
@@ -1051,6 +1031,26 @@
       "duration_ms": 179226,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quanto Mais Curtido Melhor",
+        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
     },
     {
       "added_at": null,

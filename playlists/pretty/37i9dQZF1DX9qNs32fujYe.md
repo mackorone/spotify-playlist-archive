@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,358,296 likes - 200 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358,599 likes - 200 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

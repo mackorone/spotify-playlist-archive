@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經不只一年了？高人氣金曲讓你一路聽下去！Cover: 高爾宣 \(OSN\) x 派偉俊 \(Patrick Brasca\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,637 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,664 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [基礎憂鬱](https://open.spotify.com/track/2VLgiM4x8X6B6jeAQMXaU8) | [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x), [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [且且](https://open.spotify.com/album/7yIDNJ97yD3UEZruhXwjqq) | 4:39 |
 | 50 | [慣老闆 \(feat\. 瘦子E.SO\)](https://open.spotify.com/track/18TOtGEE15qjoaYvB7SB6f) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [慣老闆 \(feat\. 瘦子E.SO\)](https://open.spotify.com/album/4605CoBjrc184bE7N3kSFJ) | 4:52 |
 
-Snapshot ID: `aIZNDAAAAABodyYZTbsKyFtAFJ9ynIPU`
+Snapshot ID: `AAAAAOcxzYk82ccdhVUXnstuy6viX0DB`

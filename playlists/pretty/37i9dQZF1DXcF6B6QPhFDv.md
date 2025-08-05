@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Hayley Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,413,904 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,412,551 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 |
 | 75 | [Small World Syndrome](https://open.spotify.com/track/0J8A3Ccs5ghyo8Fa1iKOTv) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Small World Syndrome](https://open.spotify.com/album/5CZ3urtWdgLk6av5TUFwn5) | 2:45 |
 
-Snapshot ID: `AAAAABc3idUWMP2kxRD+UqusdNxzQ26Z`
+Snapshot ID: `aIw72gAAAAD0t2MJ0/G1yWgpg+dBATcV`

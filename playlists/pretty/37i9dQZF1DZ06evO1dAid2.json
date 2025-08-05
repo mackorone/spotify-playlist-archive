@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 132443,
+  "num_followers": 132450,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAB0YDjEpwURdaS6PC4g9oYD",
+  "snapshot_id": "aI6mgAAAAACEmSrws2EZVoQH+nqb32du",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Rock And Roll Music",
-      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Juke Box Hits",
         "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Rock And Roll Music",
+      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "Thirty Days",
-      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 142440,
       "name": "Let's Do Our Thing Together",
       "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "Thirty Days",
+      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "No Money Down",
+      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHUCK BERRY INTEGRAL 1955 - 1962",
         "url": "https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "No Money Down",
-      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry On Stage (Expanded Edition)",
         "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 151706,
       "name": "Go Go Go",
       "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Wee Wee Hours",
+      "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Wee Wee Hours",
-      "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Fillmore Auditorium",
         "url": "https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 161893,
       "name": "Flying Home - Live At Fillmore Auditorium, San Francisco, CA/1967",
       "url": "https://open.spotify.com/track/3eswSYTPy8wMVWcc05cLpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 169173,
+      "name": "Downbound Train",
+      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 169173,
-      "name": "Downbound Train",
-      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry",
-        "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 158560,
-      "name": "Swanee River",
-      "url": "https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Dozen Berry's",
         "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 139520,
       "name": "Guitar Boogie",
       "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 158560,
+      "name": "Swanee River",
+      "url": "https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO"
     },
     {
       "added_at": null,

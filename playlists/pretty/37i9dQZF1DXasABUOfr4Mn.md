@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasABUOfr4Mn.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,905 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,896 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasABUOfr4Mn.md) - [plain]
 | 85 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
 | 86 | [The Straw](https://open.spotify.com/track/5KcudG4nPRccentSCBFZkj) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Made From The Dirt](https://open.spotify.com/album/0ELdmzBhy7nntFgHogbhv9) | 4:04 |
 
-Snapshot ID: `Z1oytQAAAACuwphE+qIBW7bDB28BJEjZ`
+Snapshot ID: `AAAAAPy6ifslU+6KN3UhcOfnzUz2Hl1q`

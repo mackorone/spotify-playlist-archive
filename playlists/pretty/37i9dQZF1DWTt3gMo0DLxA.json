@@ -1,13 +1,41 @@
 {
   "description": "Trending songs from Tollywood! \nCover: HIT 3",
-  "num_followers": 428639,
+  "num_followers": 429041,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIsU3AAAAAC+UPXyHYTMkuAf25wvoYuy",
+  "snapshot_id": "aJBJNgAAAACRJ/A9zz23/HMuRzQ+8V2X",
   "tracks": [
+    {
+      "added_at": "2025-08-04 05:46:30",
+      "album": {
+        "name": "Firestorm (From \"They Call Him OG\")",
+        "url": "https://open.spotify.com/album/0wGtOzvfuupquwH9tfNSif"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        }
+      ],
+      "duration_ms": 240309,
+      "name": "Firestorm (From \"They Call Him OG\")",
+      "url": "https://open.spotify.com/track/3lLX2Vm99sMD5kuZqnr2T0"
+    },
     {
       "added_at": "2025-05-09 09:56:17",
       "album": {
@@ -223,26 +251,6 @@
       "duration_ms": 174088,
       "name": "Ayudha Pooja [TELUGU]",
       "url": "https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni"
-    },
-    {
-      "added_at": "2025-06-18 12:00:29",
-      "album": {
-        "name": "Balu",
-        "url": "https://open.spotify.com/album/4NK8IntrUbxtrNfKkJJEPh"
-      },
-      "artists": [
-        {
-          "name": "Ranjith Govind",
-          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
-        },
-        {
-          "name": "Mahalakshmi Iyer",
-          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
-        }
-      ],
-      "duration_ms": 317063,
-      "name": "Athimettani",
-      "url": "https://open.spotify.com/track/3JQulFhnD222tW1SWtV4fz"
     },
     {
       "added_at": "2023-11-06 11:12:57",

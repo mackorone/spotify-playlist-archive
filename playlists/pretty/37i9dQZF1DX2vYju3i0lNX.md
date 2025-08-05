@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,692 likes - 500 songs - 1 day 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,775 likes - 500 songs - 1 day 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 499 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 |
 | 500 | [You Left With My Heart Still Yours](https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [You Left With My Heart Still Yours](https://open.spotify.com/album/6FQD3HAuYzw4DnuQpChF6j) | 2:24 |
 
-Snapshot ID: `AAAAAIYL6afkgNXi0UIA+qSeUfbIj0vT`
+Snapshot ID: `aIw70gAAAACjkyswGhDFUnajJsrekoEK`

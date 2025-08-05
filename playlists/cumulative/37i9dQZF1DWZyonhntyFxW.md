@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: مروان بابلو
 
-413 songs - 20 hr 11 min
+414 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [7OB KHENA2](https://open.spotify.com/track/15lgnDg0wa4gXWpts60aOF) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:44 | 2023-09-21 | 2024-01-31 |
 | [8/8/G](https://open.spotify.com/track/6TfJ80yPJz0EtiwrLPOlt7) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [8/8/G](https://open.spotify.com/album/7LZjoxWmG9iqEzXUQCkXsG) | 2:56 | 2022-05-10 | 2022-06-29 |
 | [99](https://open.spotify.com/track/6bozqRXCia64pVDU7FfZMM) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:15 | 2024-03-11 | 2025-02-06 |
+| [A3ml Eh](https://open.spotify.com/track/6578KHYBz7cBq8431NIYZA) | [HOBBZ](https://open.spotify.com/artist/2dftizGDakzjRIzbr0TEEF) | [A3ml Eh](https://open.spotify.com/album/0mM0VrDoryiuXs7mvNCfd6) | 2:41 | 2025-08-04 |  |
 | [Abales](https://open.spotify.com/track/6miyWg7etuBnEU4opRcR1d) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Abales](https://open.spotify.com/album/7rqsUMg3760eEoY4yGNFpY) | 3:11 | 2022-09-27 | 2022-10-11 |
 | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/track/0AhFYI98xsHPTqjWXwbrdV) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/album/57IuOz58Aic9351GUeol4V) | 2:47 | 2023-02-10 | 2023-07-18 |
 | [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 | 2023-06-23 | 2024-08-20 |
@@ -363,7 +364,7 @@
 | [YAQOUT](https://open.spotify.com/track/07zl7KBSjr84gwAPsquB9g) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [YAQOUT](https://open.spotify.com/album/3uzJNAGmkzCiF3UOVxSAF8) | 3:20 | 2024-08-12 | 2024-09-05 |
 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-05 | 2023-12-30 |
 | [Yom Gdeed](https://open.spotify.com/track/3datZzuNBdUMzfdNfQPb1E) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:12 | 2023-02-22 | 2023-02-24 |
-| [أبو هشيمة](https://open.spotify.com/track/060s5GPy5RcZfkHgcJvpyf) | [Youssef Rousse \- يوسف روسي](https://open.spotify.com/artist/1uQxcX7hKLKAXFb3R93uFp) | [البوم منوعات](https://open.spotify.com/album/7r23izP4dTdT73v5B6M8sg) | 3:16 | 2025-08-02 |  |
+| [أبو هشيمة](https://open.spotify.com/track/060s5GPy5RcZfkHgcJvpyf) | [Youssef Rousse \- يوسف روسي](https://open.spotify.com/artist/1uQxcX7hKLKAXFb3R93uFp) | [البوم منوعات](https://open.spotify.com/album/7r23izP4dTdT73v5B6M8sg) | 3:16 | 2025-08-02 | 2025-08-05 |
 | [أنا](https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [أنا](https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X) | 1:45 | 2024-12-06 | 2025-08-02 |
 | [احنا كده](https://open.spotify.com/track/3cpL15cLhwR2EPjj3MNCRa) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 3:23 | 2022-10-10 | 2022-11-17 |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-05-10 | 2022-12-27 |

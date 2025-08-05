@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 114876,
+  "num_followers": 114891,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAACMxx5LyOi06DCCYbiAceIm",
+  "snapshot_id": "aI6mgAAAAABUs0d3ll0ZInqdQctsjFhY",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fugitivo (En Vivo)",
-        "url": "https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "El Fugitivo (En Vivo)",
-      "url": "https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novedad",
         "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 209157,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Fugitivo (En Vivo)",
+        "url": "https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "El Fugitivo (En Vivo)",
+      "url": "https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vago Y Loko",
-        "url": "https://open.spotify.com/album/7Fq8GU7jHLGH7bQqzL7Snw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178112,
-      "name": "Vago Y Loko",
-      "url": "https://open.spotify.com/track/00AtEOAXrOWJxu7vjHZeQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Puedo Con Esto",
         "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 149951,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vago Y Loko",
+        "url": "https://open.spotify.com/album/7Fq8GU7jHLGH7bQqzL7Snw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178112,
+      "name": "Vago Y Loko",
+      "url": "https://open.spotify.com/track/00AtEOAXrOWJxu7vjHZeQs"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gustoso Y Contento (En Vivo)",
         "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 153640,
       "name": "Gustoso Y Contento (En Vivo)",
       "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
     },
     {
       "added_at": null,

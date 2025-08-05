@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,449 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,573 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
 | 100 | [Fuiste Mala / Si Una Vez](https://open.spotify.com/track/5hFMovaf58nqk7WkMQ2PSi) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Fuiste Mala / Si Una Vez](https://open.spotify.com/album/75tr89NLHOSlOK05XPSFqH) | 3:26 |
 
-Snapshot ID: `aILzSwAAAAA1YRt66xMjXDBD3209VkDp`
+Snapshot ID: `aJDEOAAAAADnZQL6RcQ+BgxIkKOsXgqj`

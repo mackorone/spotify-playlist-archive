@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,101 likes - 121 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,211 likes - 121 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Die With A Smile](https://open.spotify.com/track/47dH2eXinFda9meFcxxXDh) | [Amber Tide](https://open.spotify.com/artist/0sBTbHqhQHaqKijHKgJUcC) | [Die With A Smile](https://open.spotify.com/album/6LwSr0EJqj8aZOwpad4mtc) | 3:11 |
-| 2 | [Beautiful Things](https://open.spotify.com/track/79BGIOUfSuR6dgzC7aLSjr) | [Allegra Maple](https://open.spotify.com/artist/0MeMU799QAvYXgTWdtGFgw) | [Beautiful Things](https://open.spotify.com/album/3Ah6jcvls9vliWzWgHHXZP) | 2:49 |
+| 1 | [Beautiful Things](https://open.spotify.com/track/79BGIOUfSuR6dgzC7aLSjr) | [Allegra Maple](https://open.spotify.com/artist/0MeMU799QAvYXgTWdtGFgw) | [Beautiful Things](https://open.spotify.com/album/3Ah6jcvls9vliWzWgHHXZP) | 2:49 |
+| 2 | [Die With A Smile](https://open.spotify.com/track/47dH2eXinFda9meFcxxXDh) | [Amber Tide](https://open.spotify.com/artist/0sBTbHqhQHaqKijHKgJUcC) | [Die With A Smile](https://open.spotify.com/album/6LwSr0EJqj8aZOwpad4mtc) | 3:11 |
 | 3 | [Birds of a Feather](https://open.spotify.com/track/0m3AJBXkOPykXBbvczisHm) | [Damien May](https://open.spotify.com/artist/0WTFaMNzMsXGgCGJpYX3Ou) | [Birds of a Feather](https://open.spotify.com/album/6iLAfljIFwZHe5jvMzotg5) | 2:47 |
 | 4 | [Messy](https://open.spotify.com/track/2ANTI6TG8iFWFkL5GuoRVy) | [Emma Lorents](https://open.spotify.com/artist/2Oa3OJROOoFrIZCPV8Tegc) | [Messy](https://open.spotify.com/album/2eI3EnkFvNs950naBZWZFL) | 3:35 |
-| 5 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 |
-| 6 | [I'm Not That Girl \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/5iAwczYczwYLSlj5U6cAkY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [I'm Not That Girl \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/78iuWg2dMz742JICVfV5Fk) | 2:42 |
-| 7 | [Go Your Own Way](https://open.spotify.com/track/4mMLrH3ziuu2yOvjoVDfJm) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Go Your Own Way](https://open.spotify.com/album/2fbX8alZGpHhnsVJ9qAzhx) | 2:06 |
-| 8 | [As It Was](https://open.spotify.com/track/6BtLaWYYnxcObhjdGqpuNi) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [As It Was](https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk) | 3:09 |
-| 9 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 |
-| 10 | [Roar](https://open.spotify.com/track/4bt7e9xRM28F0L7WcMMXtu) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Roar](https://open.spotify.com/album/2UF1M1BPLZhqgPcnki1mLj) | 2:58 |
+| 5 | [I'm Not That Girl \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/5iAwczYczwYLSlj5U6cAkY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [I'm Not That Girl \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/78iuWg2dMz742JICVfV5Fk) | 2:42 |
+| 6 | [As It Was](https://open.spotify.com/track/6BtLaWYYnxcObhjdGqpuNi) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [As It Was](https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk) | 3:09 |
+| 7 | [Roar](https://open.spotify.com/track/4bt7e9xRM28F0L7WcMMXtu) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Roar](https://open.spotify.com/album/2UF1M1BPLZhqgPcnki1mLj) | 2:58 |
+| 8 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 |
+| 9 | [Go Your Own Way](https://open.spotify.com/track/4mMLrH3ziuu2yOvjoVDfJm) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Go Your Own Way](https://open.spotify.com/album/2fbX8alZGpHhnsVJ9qAzhx) | 2:06 |
+| 10 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 |
 | 11 | [Until I Found You](https://open.spotify.com/track/5SAK6BC92F7POlKKO5gDLA) | [Davide Ambrosia](https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl) | [Until I Found You](https://open.spotify.com/album/4eaBzs8PLXM6xde6VnnHwr) | 2:35 |
 | 12 | [Against All Odds](https://open.spotify.com/track/7wegMfWeHsKFhGDdUuzzpu) | [Aiden J](https://open.spotify.com/artist/6PQwz7Xu2jUQuAtKFprPbc) | [Against All Odds](https://open.spotify.com/album/30WcMczbuHZkilPR1q34Db) | 2:26 |
 | 13 | [I love you, I'm sorry](https://open.spotify.com/track/1fI1V8UNvkYRoQjQ5NwwPS) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [I love you, I'm sorry](https://open.spotify.com/album/35aDCfbOCuJU1tDhjv2vwp) | 2:33 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 120 | [Fields Of Gold](https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Fields Of Gold](https://open.spotify.com/album/6v27YNez0QOmgSoK4KblXD) | 2:37 |
 | 121 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 |
 
-Snapshot ID: `aHeJ3AAAAAAOirB1YNv4r6KEwcETeD5k`
+Snapshot ID: `aJDa/AAAAABFu3/gEL10TGY8c7+RrULm`

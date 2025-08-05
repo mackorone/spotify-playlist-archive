@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: chokecherry
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,795 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,782 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [PTRCK](https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [PTRCK](https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev) | 2:32 |
 | 100 | [yeah](https://open.spotify.com/track/24XDc9I9Bx9jkmPuUX5d7w) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX), [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I), [Keith Goodwin](https://open.spotify.com/artist/3Q1T3DDlR4lY9kqIQsDhMn) | [yeah](https://open.spotify.com/album/3JiRpjinI27POTDH5GlsLu) | 3:09 |
 
-Snapshot ID: `aIw77AAAAADdfkTzySY2ZzZWzK1eE+HW`
+Snapshot ID: `AAAAAJ6qzjYKkgVSROzTeIBDSSNNqw0q`

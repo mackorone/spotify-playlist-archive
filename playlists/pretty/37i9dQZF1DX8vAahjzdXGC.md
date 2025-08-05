@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Bernadya, JKT48,  Henry Moodie, yung kai, Chappell Roan dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,732 likes - 95 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,763 likes - 95 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 43 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 |
 | 44 | [Heavens Sirens](https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Heavens Sirens](https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn) | 2:56 |
 | 45 | [Gone](https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Gone](https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9) | 4:01 |
-| 46 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 46 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 47 | [Fighter](https://open.spotify.com/track/0qG2qBOkGXPOplavjmTs9h) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Fighter](https://open.spotify.com/album/2KBqdVBjVrF5iFRznyxRGA) | 3:37 |
 | 48 | [Sama Sama Mau](https://open.spotify.com/track/5t2c4aO2MyTWmX59oVt51t) | [Eros Tjokro](https://open.spotify.com/artist/74pHfOOeja5dJ2BpFhDnG6) | [Sama Sama Mau](https://open.spotify.com/album/31MR9BTYW88Oif4sdV7xWv) | 4:08 |
 | 49 | [Seminggu](https://open.spotify.com/track/38gBuDTY9qzx1w8scZAIz8) | [Matthew Sayersz](https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv), [Marclesia Karim](https://open.spotify.com/artist/5LLrHejvmjrchkrIapivcJ) | [Seminggu](https://open.spotify.com/album/3nBZ0awNAeitN1Ud8vZJZe) | 3:22 |

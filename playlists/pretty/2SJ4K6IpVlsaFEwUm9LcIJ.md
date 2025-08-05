@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,169 likes - 43 songs - 2 hr 54 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,181 likes - 44 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 41 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 |
 | 42 | [Non\-Fiction](https://open.spotify.com/track/7dDauLlNTGu5I1PHBcrhFe) | [Piano Magic](https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt) | [Seasonally Affective, A Piano Magic Retrospective 1996\-2000: Disc 1](https://open.spotify.com/album/5DITMuAXKBK4CdWWMPFQ6L) | 3:47 |
 | 43 | [tailspin](https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs), [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 3:38 |
+| 44 | [Everglade](https://open.spotify.com/track/5ReNkBEft2t7iEzTx2GHBx) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Birds On The Playground](https://open.spotify.com/album/1cz6AMoMZX5QnyoZk0qcCJ) | 4:15 |
 
-Snapshot ID: `AAAM4Q2uP9OCEKwZMudx9uyKDWlk7cdA`
+Snapshot ID: `AAAM4h2XBlzxyUrgzykziv6ztZ75FTO6`

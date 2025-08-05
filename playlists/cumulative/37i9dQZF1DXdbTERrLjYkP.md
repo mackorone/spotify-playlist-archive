@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: fliss
 
-910 songs - 2 day 0 hr 46 min
+911 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 | 2023-12-14 |
 | [Cowboy's Gonna Ride](https://open.spotify.com/track/3x0xmBK4uhdG7M0ZeQZBiL) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Cowboy's Gonna Ride](https://open.spotify.com/album/09YWH4jRJKB8uGqao2tTJM) | 3:28 | 2025-02-17 | 2025-05-19 |
 | [cozy you](https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [cozy you](https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg) | 3:30 | 2025-04-04 | 2025-05-10 |
+| [Cross The Line](https://open.spotify.com/track/2T0ptYfGK0No4SFU7i8unI) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [Cross The Line](https://open.spotify.com/album/6ZHZGKPdroxRhT3NoBLu2k) | 3:09 | 2025-08-04 |  |
 | [crumbs](https://open.spotify.com/track/7wOirCLiVCdWMihUSIgDSZ) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [crumbs](https://open.spotify.com/album/1nyrrw9Z37Hc1U3eALV51X) | 3:05 | 2024-10-25 | 2025-01-18 |
 | [Crying Over You](https://open.spotify.com/track/7oDnvOvNLM7tAHykuOrTse) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Crying Over You](https://open.spotify.com/album/1Iu3Bt2mXV9XOhIAnzJisS) | 2:43 | 2023-06-30 | 2023-11-11 |
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2022-01-14 | 2022-02-26 |
@@ -261,7 +262,7 @@
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 | 2022-10-08 |
 | [Fallin'](https://open.spotify.com/track/0xaeSigcojEopeeoP92OZ2) | [Todd Lewis Kramer](https://open.spotify.com/artist/1gzDIi8maUpe3aJ2XTZFIJ) | [Fallin'](https://open.spotify.com/album/6rVk1sezvdieHChgqTZ8Ix) | 3:20 | 2025-05-09 | 2025-07-26 |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-06-23 |
-| [father](https://open.spotify.com/track/0S9u6EZQ1EAHz7IkQbxm9z) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [neophyte](https://open.spotify.com/album/2QTz9vN3LF7H4PX4XkmVJh) | 2:57 | 2025-03-28 |  |
+| [father](https://open.spotify.com/track/0S9u6EZQ1EAHz7IkQbxm9z) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [neophyte](https://open.spotify.com/album/2QTz9vN3LF7H4PX4XkmVJh) | 2:57 | 2025-03-28 | 2025-08-05 |
 | [Favorite Color](https://open.spotify.com/track/6YiNvXwlNsyCkGv5IDNcon) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite Color](https://open.spotify.com/album/034vrNtnZQYiIvnM9xcJbn) | 3:04 | 2023-11-10 | 2023-12-14 |
 | [favorite crime](https://open.spotify.com/track/61W7tEpxEfmizp6V5ZRN10) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:32 | 2022-01-14 | 2022-04-29 |
 | [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 | 2024-05-31 | 2024-11-09 |

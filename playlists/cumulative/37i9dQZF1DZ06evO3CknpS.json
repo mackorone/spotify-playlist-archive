@@ -188,6 +188,32 @@
     {
       "album": {
         "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/0C4aQs2fyK7on5PO2kDNFd"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "6 Morceaux, Op. 51, No. 6. Valse sentimentale: 6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/01ROl6jzyJoxumZlVvdjfS"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
         "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
       },
       "artists": [
@@ -456,7 +482,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 68560,
       "name": "Commentary 2",
       "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
@@ -500,7 +526,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 54800,
       "name": "Commentary 5",
       "url": "https://open.spotify.com/track/5I7mksA6nrFBnEZde1DxRr"
@@ -770,7 +796,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 204066,
       "name": "Elegy: Do not tempt me needlessly.",
       "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
@@ -1206,7 +1232,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 165733,
       "name": "Pi\u00e8ce en forme de Habanera: Vocalise-etude en forme de habanera (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/67hudEGxaY2bvZWCtVYE9l"
@@ -1540,7 +1566,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 392533,
       "name": "Symphonie Espagnole: Andante",
       "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"

@@ -2,7 +2,7 @@
 
 ### [Літній релакс](https://open.spotify.com/playlist/37i9dQZF1DX2X2YHi92QqA)
 
-> Don't push the horses 🧘🏼‍♀️🏕️🌻
+> 🧘🏼‍♀️🌻🏕️🏞️🏊🏻‍♀️🌅🌷⛰️🚴🏼‍♂️🍺🌳
 
 213 songs - 11 hr 26 min
 
@@ -131,7 +131,7 @@
 | [Крісмас нуар](https://open.spotify.com/track/3EniqNYr3aqIrmQ77fTTiD) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Крісмас нуар](https://open.spotify.com/album/3EWohl8zshAf9vHC1D7pTG) | 3:32 | 2024-12-20 | 2025-01-21 |
 | [Лебідонько](https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Лебідонько](https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN) | 2:16 | 2024-06-14 |  |
 | [Леся](https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Літепло](https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0) | 2:57 | 2024-06-14 | 2024-09-02 |
-| [Лину](https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Музичний щоденник\. Частина №1](https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM) | 1:52 | 2024-06-14 | 2025-05-03 |
+| [Лину](https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Музичний щоденник\. Частина №1](https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM) | 1:52 | 2024-06-14 |  |
 | [ЛИПЕНЬ](https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK) | [ЛИПЕНЬ](https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH) | 3:38 | 2024-07-12 | 2024-10-08 |
 | [Люблю](https://open.spotify.com/track/05L0LJID1XtFqzlHm9S744) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Люблю](https://open.spotify.com/album/38n8fjrs7QHF8Y2aGhwj6K) | 2:48 | 2024-06-14 | 2024-09-02 |
 | [любов сильніша](https://open.spotify.com/track/6Uy69JIwmQY6kjTdL9jRah) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [любов сильніша](https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p) | 2:55 | 2024-09-01 | 2025-06-04 |
@@ -154,7 +154,7 @@
 | [Надія є](https://open.spotify.com/track/3rpw8RiimS9cakLpQIUy5f) | [Mad Heads](https://open.spotify.com/artist/2q3fzwgqdfcrJNIdy7hpXY) | [Надія є](https://open.spotify.com/album/6nM5bSJO1gSx5efyQfBURb) | 4:37 | 2024-06-14 | 2025-03-18 |
 | [Не засну](https://open.spotify.com/track/6ak3VHnrq0angPugVN08ER) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Не засну](https://open.spotify.com/album/6OSWN0osXRuxeOzsrjBmxR) | 2:27 | 2024-09-01 | 2025-02-17 |
 | [Не знаєш](https://open.spotify.com/track/3reJdN9u8tZK59kG8WYwYt) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Не знаєш](https://open.spotify.com/album/6wqVClS3xP3ibboUR1Q9ag) | 2:32 | 2024-09-01 | 2024-10-18 |
-| [не один](https://open.spotify.com/track/3Gy0qB1a8oqOwz6XqoDqyW) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [не один](https://open.spotify.com/album/0k5Arenyl0yRWvBmZMZ4Y9) | 4:00 | 2025-06-03 |  |
+| [не один](https://open.spotify.com/track/3Gy0qB1a8oqOwz6XqoDqyW) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [не один](https://open.spotify.com/album/0k5Arenyl0yRWvBmZMZ4Y9) | 4:00 | 2025-06-03 | 2025-08-05 |
 | [не покину](https://open.spotify.com/track/5RuuZtzRHaqXFgzTTztAvf) | [на глибині](https://open.spotify.com/artist/7reOLIvxCl2xBiWoNOlPTj) | [не покину](https://open.spotify.com/album/66pYHL3wIzQcRr53SDzEri) | 2:46 | 2025-06-03 |  |
 | [Неймовірно тонка](https://open.spotify.com/track/0AA74JKFRsdzHhn3lggX4p) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Неймовірно тонка](https://open.spotify.com/album/6my1K6UekghuCoude69cg7) | 3:09 | 2024-07-12 | 2024-09-20 |
 | [Непомітний](https://open.spotify.com/track/3YfFBDpG4XkkUas9XlD2Ik) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Непомітний](https://open.spotify.com/album/6nnDtmtXqVhjvYr6njnsI9) | 2:33 | 2024-10-18 | 2025-01-22 |

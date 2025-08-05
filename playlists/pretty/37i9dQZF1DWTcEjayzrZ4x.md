@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,807 likes - 490 songs - 1 day 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,812 likes - 490 songs - 1 day 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -499,4 +499,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 489 | [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 |
 | 490 | [Independence Road](https://open.spotify.com/track/5N0y8OEkKUkiC8IhAWsFpm) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:02 |
 
-Snapshot ID: `aGPY5AAAAAAS5IrJ6DG8Dne5xpTTlf9N`
+Snapshot ID: `AAAAAOX0JhuVIEtf12T3zMG4QLgUc8FY`

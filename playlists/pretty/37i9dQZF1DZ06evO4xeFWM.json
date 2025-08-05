@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 218365,
+  "num_followers": 218383,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAACa7FNZXBphNGAzv5xKrauv",
+  "snapshot_id": "aI6mgAAAAABsCffcQ7tsRwCVXFZfreTC",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KAOS (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 209757,
+      "name": "Eurydice - Dan's Demo",
+      "url": "https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -595,26 +611,6 @@
       "duration_ms": 189728,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pompeii (Audien Remix)",
-        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        }
-      ],
-      "duration_ms": 352968,
-      "name": "Pompeii - Audien Remix",
-      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KAOS (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j"
+        "name": "Pompeii (Audien Remix)",
+        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
       },
       "artists": [
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         }
       ],
-      "duration_ms": 209757,
-      "name": "Eurydice - Dan's Demo",
-      "url": "https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg"
+      "duration_ms": 352968,
+      "name": "Pompeii - Audien Remix",
+      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Drawbridge & The Baroness",
-      "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
+      "duration_ms": 221600,
+      "name": "Red Wine & Wilde",
+      "url": "https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6"
     },
     {
       "added_at": null,
@@ -871,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Before The World Ends",
-        "url": "https://open.spotify.com/album/53SZYASReMx3CIFrlGa2wy"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
-        {
-          "name": "Will Varley",
-          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
-        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 199506,
-      "name": "Home Before The World Ends",
-      "url": "https://open.spotify.com/track/33QOISLy6UEQBDBUhH2DPp"
+      "duration_ms": 240660,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G"
     }
   ],
   "unique_name": "This Is Bastille",

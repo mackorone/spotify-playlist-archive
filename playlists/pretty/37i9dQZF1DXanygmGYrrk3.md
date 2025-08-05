@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 
 > ¡Tus canciones favoritas del momento, todas en un solo lugar! Cover: 8Uno, Airam Paez
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,586 likes - 200 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,656 likes - 200 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

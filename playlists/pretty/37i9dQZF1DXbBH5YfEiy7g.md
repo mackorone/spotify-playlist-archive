@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=uGuuK6QzQtSEFeMF2uASxQ">Xolly Mncwango</a> takes over the South African Gospel playlist as she records her next album at the Durban ICC on August 2nd and 3rd 2025\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,451 likes - 43 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,506 likes - 43 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 22 | [Blessed & Highly Favored](https://open.spotify.com/track/75C0UV5hYNVInVjvMO8bVy) | [Proverb](https://open.spotify.com/artist/4IMxU8Ls3ifpIaWIuzedvT), [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [Fouthwrite \(Revised\)](https://open.spotify.com/album/6gN8AZ3APL6JCyyscQCv15) | 4:09 |
 | 23 | [Uyasondla \- Live](https://open.spotify.com/track/1Xo4gYo5bwNSeZXatrJIxD) | [Xolisa Kwinana](https://open.spotify.com/artist/5E8frcTtta11QrEXhzCzGu) | [Uyasondla \(Live\)](https://open.spotify.com/album/44Rsvtg9tpi50cA3nS0Hm3) | 5:31 |
 | 24 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
-| 25 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 |
+| 25 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/3HxvUjDyy77UJ71voY3G6P) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 |
 | 26 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 |
 | 27 | [Wash'Umlilo](https://open.spotify.com/track/1cpEKqRRI4O7U5tQyS1DeC) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 6:15 |
 | 28 | [Vila](https://open.spotify.com/track/0q0CtkZkPZydb71wHzE7VH) | [Ndu Shezi](https://open.spotify.com/artist/0UqEMWISMjKakQr0pvL3WI) | [Isibusiso Sami](https://open.spotify.com/album/0tF19PlyiY1cdNFcsUvllM) | 3:55 |

@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Odyssey",
+        "url": "https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170556,
+      "name": "Beautiful Odyssey",
+      "url": "https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/39TePDQqn0v1F4l6cMpqsB"
       },
@@ -174,7 +196,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 207005,
       "name": "Beside Of Me",
       "url": "https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"
@@ -452,7 +474,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 296597,
       "name": "Diamonds (Further Than I Ever Was)",
       "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
@@ -700,7 +722,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 146805,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4N0ayrEKkwrRMJM4zgM3yi"
@@ -722,7 +744,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 141774,
       "name": "From Disco To Disco",
       "url": "https://open.spotify.com/track/1MzPUIynJATkuvympwipnm"
@@ -895,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249140,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
+    },
+    {
+      "album": {
         "name": "Hotter",
         "url": "https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ"
       },
@@ -1029,6 +1069,32 @@
     },
     {
       "album": {
+        "name": "Inside Our Hearts",
+        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234086,
+      "name": "Inside Our Hearts",
+      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
+    },
+    {
+      "album": {
         "name": "Into My Ocean",
         "url": "https://open.spotify.com/album/5r3qFB9UjQndtSj93Fm82c"
       },
@@ -1129,6 +1195,32 @@
     },
     {
       "album": {
+        "name": "Jovens Dias",
+        "url": "https://open.spotify.com/album/4WatONlKBPEem3P27oICCN"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Jovens Dias",
+      "url": "https://open.spotify.com/track/415R1PHUQ1nwK9PrEN3bi5"
+    },
+    {
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/26FVymIe0sDQUKpKxrKlNI"
       },
@@ -1147,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "LABANTA (DEEP TISSUE Remix)",
+        "url": "https://open.spotify.com/album/2mZkxePYCJvjjpMreO6YTh"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Deep Tissue",
+          "url": "https://open.spotify.com/artist/5vc7GJcrN0LOTqwfe5V13D"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206612,
+      "name": "LABANTA - DEEP TISSUE Remix",
+      "url": "https://open.spotify.com/track/4ZpFGijkb072TzP6Xz7EQp"
+    },
+    {
+      "album": {
         "name": "Late At Night",
         "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
       },
@@ -1162,7 +1276,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 156400,
       "name": "Late At Night",
       "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
@@ -1254,7 +1368,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 221904,
       "name": "Life",
       "url": "https://open.spotify.com/track/1Pf8x4VO66NuliT2EFwhep"
@@ -1415,6 +1529,28 @@
     },
     {
       "album": {
+        "name": "Dreamin' EP",
+        "url": "https://open.spotify.com/album/7GeXTxXuuUBwcK7N4MC3Jp"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        },
+        {
+          "name": "Michael Sebastian",
+          "url": "https://open.spotify.com/artist/10w5M1sAvsWA2BewJX1Blt"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181783,
+      "name": "Move With Me (Open Air Mix)",
+      "url": "https://open.spotify.com/track/4kUKsVYw7qW0MzAW17nydn"
+    },
+    {
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/1m2EoGXSA9QtXdRawROTEZ"
       },
@@ -1456,7 +1592,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 162903,
       "name": "Need U",
       "url": "https://open.spotify.com/track/54sGOCOYEArzaU5k3hrhi0"
@@ -1500,10 +1636,36 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 201511,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/0AEymXR4R7Qi8nzb2L6zCg"
+    },
+    {
+      "album": {
+        "name": "Nesiah",
+        "url": "https://open.spotify.com/album/5N4TpB9gwFcyYumkss3ZP3"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "LevyM",
+          "url": "https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg"
+        },
+        {
+          "name": "Ayah Tlhanyane",
+          "url": "https://open.spotify.com/artist/40TwzjnJ2uDbe2UpyfFHr8"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238048,
+      "name": "Nesiah",
+      "url": "https://open.spotify.com/track/0qW77jtPkphLSY6YoTtyL5"
     },
     {
       "album": {
@@ -1522,7 +1684,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 238048,
       "name": "Never Feel Alone Again",
       "url": "https://open.spotify.com/track/1mlunZbKwoc5jyKUNggO46"
@@ -1710,7 +1872,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 159000,
       "name": "Product Of The Street",
       "url": "https://open.spotify.com/track/34eDA3uyGAo1UQ4vm1hiPi"
@@ -1787,6 +1949,54 @@
     },
     {
       "album": {
+        "name": "Rave Till My Grave",
+        "url": "https://open.spotify.com/album/24pocT8fPZICPOt99SR5rO"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Rave Till My Grave",
+      "url": "https://open.spotify.com/track/7w0OLfAqXs05KpUU34ngWd"
+    },
+    {
+      "album": {
+        "name": "Refuge / Ur Alive",
+        "url": "https://open.spotify.com/album/3Hymehl5lIAtEiLctZu9xJ"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201988,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/1PCkDEDApsRDfUIIp7uEp3"
+    },
+    {
+      "album": {
         "name": "Retro",
         "url": "https://open.spotify.com/album/2YZnL0O55YwdWG9iAYB2C5"
       },
@@ -1842,6 +2052,24 @@
       "duration_ms": 164800,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc"
+    },
+    {
+      "album": {
+        "name": "Running On Empty",
+        "url": "https://open.spotify.com/album/0vihjrg3oA56CBPSeNcbZb"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188466,
+      "name": "Running On Empty",
+      "url": "https://open.spotify.com/track/5I34uzzHCTaSPorVvD2dHJ"
     },
     {
       "album": {
@@ -1908,7 +2136,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 203760,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs"
@@ -2018,7 +2246,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 149999,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/5ZxVHtvlKhU3HCl0jDR8sG"
@@ -2062,7 +2290,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 244057,
       "name": "Take Me Home (feat. Bonn)",
       "url": "https://open.spotify.com/track/6PCu6yYtAkjXimFQ6dHXw7"
@@ -2322,6 +2550,28 @@
       "duration_ms": 153281,
       "name": "V.I.P.",
       "url": "https://open.spotify.com/track/6CMGOiWxIAcVKIoJPsywpD"
+    },
+    {
+      "album": {
+        "name": "Wake Up (With You Mine)",
+        "url": "https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "NASRI",
+          "url": "https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200181,
+      "name": "Wake Up (With You Mine)",
+      "url": "https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4"
     },
     {
       "album": {

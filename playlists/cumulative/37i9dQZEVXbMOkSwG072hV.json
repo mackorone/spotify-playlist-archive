@@ -20684,7 +20684,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 284906,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
@@ -64600,7 +64600,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 329120,
       "name": "Sinais de Fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/5338vnPnf5fzJDyiWulX9Y"
@@ -69399,6 +69399,32 @@
     },
     {
       "album": {
+        "name": "THAIN\u00c1 THAIN\u00c1",
+        "url": "https://open.spotify.com/album/5yue6fyNIP1zuzlF0k9TBU"
+      },
+      "artists": [
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        },
+        {
+          "name": "MT DO PALACIO",
+          "url": "https://open.spotify.com/artist/197KB7Uh46h1OZhx9nERiH"
+        },
+        {
+          "name": "BK2P",
+          "url": "https://open.spotify.com/artist/47gch4yYiV3nWaETQKghkC"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99111,
+      "name": "THAIN\u00c1 THAIN\u00c1",
+      "url": "https://open.spotify.com/track/68Qn3HtP5XnQVAIw1e9rvO"
+    },
+    {
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
       },
@@ -73612,6 +73638,28 @@
       "duration_ms": 213635,
       "name": "Vagabundo Apaixonado",
       "url": "https://open.spotify.com/track/2vqHa8WyNfGgyjgRdTz0sC"
+    },
+    {
+      "album": {
+        "name": "Vai Cair \u00c1gua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Vesvt7F80ZEOkCluw6Op1"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150936,
+      "name": "Vai Cair \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Vsh9frTSsEwqwcbvZpItT"
     },
     {
       "album": {

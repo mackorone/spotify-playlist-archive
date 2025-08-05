@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 483648,
+  "num_followers": 483990,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAADWJ/onQtoxwU6FTXID/W+0",
+  "snapshot_id": "aI6mgAAAAABSVJGpKbViCilil4kir6Sx",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Eternal Idol (2025 Remaster)",
-        "url": "https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "Glory Ride - 2025 Remaster",
-      "url": "https://open.spotify.com/track/4d6E5GE14344OM0sPqGteS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sabotage",
         "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 581320,
       "name": "Megalomania (2009 Remaster)",
       "url": "https://open.spotify.com/track/6MfJ7C4274ZPvUYBx8BcRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Eternal Idol (2025 Remaster)",
+        "url": "https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "Glory Ride - 2025 Remaster",
+      "url": "https://open.spotify.com/track/4d6E5GE14344OM0sPqGteS"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Eternal Idol (2025 Remaster)",
-        "url": "https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd"
+        "name": "Dehumanizer",
+        "url": "https://open.spotify.com/album/3QCq4xwC3SZp38Y2cBsHdI"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 298546,
-      "name": "Hard Life to Love - 2025 Remaster",
-      "url": "https://open.spotify.com/track/6npld2yaKGAYR460ElOg1B"
+      "duration_ms": 310955,
+      "name": "I - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3OuUBpO1YAUmRESoJuq3a6"
     }
   ],
   "unique_name": "This Is Black Sabbath",

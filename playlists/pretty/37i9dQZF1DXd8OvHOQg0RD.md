@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8OvHOQg0RD.md) - [plain]
 
 > temitas descompuestos por Emiro Navarro
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,087 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,233 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8OvHOQg0RD.md) - [plain]
 | 29 | [MENOS EL CORA](https://open.spotify.com/track/4tNvWqucaZTrdp5ZmAsGhv) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [MENOS EL CORA](https://open.spotify.com/album/3ggwOSfz4pqKjwiENI5o0D) | 3:30 |
 | 30 | [Imagínate](https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:50 |
 
-Snapshot ID: `aI0gyQAAAAAm1Tc44L9ZJwta1P0shT7b`
+Snapshot ID: `AAAAAKUzI5JKRajaRT6TTSHoiSuNBFns`

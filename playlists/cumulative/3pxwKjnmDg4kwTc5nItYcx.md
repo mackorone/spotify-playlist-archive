@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-840 songs - 1 day 21 hr 4 min
+842 songs - 1 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Going Off \(feat\. A$AP Twelvyy\)](https://open.spotify.com/track/1Jf9ENlFh3WDUM8Jk30Kfm) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Going Off \(feat\. A$AP Twelvyy\)](https://open.spotify.com/album/7hhHgVOMHluzEexFMTpVbE) | 2:41 | 2019-08-27\* | 2020-02-12 |
 | [Gold](https://open.spotify.com/track/3yK3FMbBKamJeJFOQ6ybjo) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Into Gold](https://open.spotify.com/album/1xcZ5lmwepV6Xj9WpNwt8Z) | 3:40 | 2020-02-21 | 2021-05-12 |
 | [Gold Energy](https://open.spotify.com/track/650AFM5GJoTAAmQCI4Zy8Z) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Gold Energy](https://open.spotify.com/album/2aYdjZxR2nDdaL2HFQKM6V) | 3:25 | 2021-11-20 | 2025-07-17 |
+| [Gone](https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Gone](https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9) | 4:01 | 2025-08-05 |  |
 | [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 | 2019-10-25 | 2020-05-19 |
 | [Good Enough](https://open.spotify.com/track/0cFvdXOqN4drzStfQZyrTP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Good Enough](https://open.spotify.com/album/5EJUe8e86fTXdx98j0UPXE) | 3:36 | 2020-08-21 | 2021-05-12 |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-08-19 |  |
@@ -401,6 +402,7 @@
 | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/track/7bir6lHXKRp0DTPHPwvOgW) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/album/5YMys8LacAHczMN0ORX33K) | 3:41 | 2021-07-02 |  |
 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 | 2024-03-15 |  |
 | [It's Not You](https://open.spotify.com/track/5jwT6BU2z55yvsWkopWadR) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:26 | 2021-07-17 |  |
+| [It's Too Late](https://open.spotify.com/track/7HcvdzouPGu9QNN18tkdtq) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's Too Late](https://open.spotify.com/album/6ww9A5r9G4xFlDZ14nghfG) | 4:12 | 2025-08-05 |  |
 | [It's You](https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [It's You](https://open.spotify.com/album/40vQONzvJb6sKejDN3eWza) | 3:32 | 2019-08-27\* | 2025-07-17 |
 | [Ivory Lullaby](https://open.spotify.com/track/0HDKtJDdgsRLm1UpnyzM1t) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Story's Start or End](https://open.spotify.com/album/7JZNSrBxkP5hxxIYfaixsI) | 4:10 | 2019-08-27\* | 2020-02-12 |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-02-25 |  |

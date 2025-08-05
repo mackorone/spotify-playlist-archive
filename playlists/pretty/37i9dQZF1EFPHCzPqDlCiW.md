@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 149 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 149 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 114 | [Roots](https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Roots](https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV) | 2:52 |
 | 115 | [Lovebug](https://open.spotify.com/track/2pFRr20vrPWveznPTwQADB) | [Zoe Nash](https://open.spotify.com/artist/1yFie7615gesdLbvVVpYU5) | [Lovebug](https://open.spotify.com/album/62PT5tJV8q2LhXZwbMlAk1) | 3:09 |
 | 116 | [Devilish](https://open.spotify.com/track/667e12dKpBCoEHdklKzYIJ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:44 |
-| 117 | [New Skin](https://open.spotify.com/track/6saeoq9cenoOtXKqLcDvG8) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:15 |
-| 118 | [Like I Loved You](https://open.spotify.com/track/26ifimYrFYMka2Z7S8I4GK) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:32 |
+| 117 | [Like I Loved You](https://open.spotify.com/track/26ifimYrFYMka2Z7S8I4GK) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:32 |
+| 118 | [New Skin](https://open.spotify.com/track/6saeoq9cenoOtXKqLcDvG8) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:15 |
 | 119 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
 | 120 | [Get It Done](https://open.spotify.com/track/6qJ8Il5OThFcrOFj32xR32) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Get It Done](https://open.spotify.com/album/1Pn6IYJQWyRRPFEMKTEw5w) | 3:02 |
 | 121 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 148 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 149 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Ab4i5gAAAAACz9RsnThNu6Xq3fiiOdZV`
+Snapshot ID: `Ab4ohgAAAACSthAs/2ecKhtlfNZuT7BR`

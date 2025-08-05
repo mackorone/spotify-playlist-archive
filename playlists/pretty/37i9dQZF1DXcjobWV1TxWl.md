@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjobWV1TxWl.md) - [plain]
 
 > Sophisticated palates only\. Curated by: B.Dot
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,668 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,679 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjobWV1TxWl.md) - [plain]
 | 50 | [Nothing Lasts \(feat\. Fabolous & Marc Scibilia\)](https://open.spotify.com/track/1dq8alUJ7NAKfuQl2I12CD) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [El Capo](https://open.spotify.com/album/0YOL0askXiWYHUJV3YjVtr) | 2:38 |
 | 51 | [act vi: mad man](https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:38 |
 
-Snapshot ID: `AAAAANznE3CmULCavJ0bVnYBYB0yGWcS`
+Snapshot ID: `ZvwSLgAAAAA3NLhgfXnPgMyqw+h6cTLz`

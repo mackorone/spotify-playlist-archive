@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,237 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,260 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 19 | [Hou Vol Hou Vast](https://open.spotify.com/track/4oUOerXJ5liI48Swoegk0d) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 4:54 |
 | 20 | [Alles Is Liefde](https://open.spotify.com/track/3WmZKD5Vv99bdx3dVzX5Xe) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [3Ø \- We Doen Wat We Kunnen](https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp) | 3:32 |
 | 21 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
-| 22 | [Horizon](https://open.spotify.com/track/5R3wMUOI4P8H3s5bOsfTmS) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Horizon](https://open.spotify.com/album/78LoRz6zeaaeKhkbkkMe61) | 3:30 |
-| 23 | [Aanzoek Zonder Ringen](https://open.spotify.com/track/6Cc0qQpIw9Dzm9c9GSFjRt) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [KODO](https://open.spotify.com/artist/6DZlM1W5NTS7TslSnDnKOB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 4:43 |
+| 22 | [Aanzoek Zonder Ringen](https://open.spotify.com/track/6Cc0qQpIw9Dzm9c9GSFjRt) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [KODO](https://open.spotify.com/artist/6DZlM1W5NTS7TslSnDnKOB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 4:43 |
+| 23 | [Horizon](https://open.spotify.com/track/5R3wMUOI4P8H3s5bOsfTmS) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Horizon](https://open.spotify.com/album/78LoRz6zeaaeKhkbkkMe61) | 3:30 |
 | 24 | [Over De Dam](https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:10 |
 | 25 | [Blauwe Ruis](https://open.spotify.com/track/65hR9p90SF1JUv4VCRnatj) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:27 |
 | 26 | [Open Je Ogen](https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [In Het Midden Van Alles](https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 49 | [Een Manier Om Thuis Te Komen](https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 5:11 |
 | 50 | [Zachtjes Zingen](https://open.spotify.com/track/1NXfPvlNg4kuJCgGWYH0Ct) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:23 |
 
-Snapshot ID: `aI1VAAAAAACxMcGmTW0MzIxOMvM1t05g`
+Snapshot ID: `aI6mgAAAAABZffZCeWc8I3pAUcHiJ1SD`

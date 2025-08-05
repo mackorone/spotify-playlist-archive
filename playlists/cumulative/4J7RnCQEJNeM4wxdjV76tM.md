@@ -4,7 +4,7 @@
 
 > ⋆.
 
-635 songs - 1 day 10 hr 43 min
+636 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [hypnotized](https://open.spotify.com/track/08GUWwT14JBrVF9Dvp4AJ6) | [MASY.](https://open.spotify.com/artist/0mB5bRJsOsOb9sHlj264yE) | [red.](https://open.spotify.com/album/6EyjRzvcvh7ubTJ0De8c5r) | 1:40 | 2023-05-22 |  |
 | [I <3 My Choppa](https://open.spotify.com/track/0Dk9lP1YnOqssHH0oCeq9u) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 1:45 | 2023-10-02 |  |
 | [I Cant Believe It but Its True](https://open.spotify.com/track/5tu9LxXujbYPJu7v8TD4R5) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Perfect](https://open.spotify.com/album/4HPAVn3Z1jGwZLRXadqOKO) | 2:33 | 2022-10-06 |  |
+| [I Caught Myself](https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [I Caught Myself](https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k) | 3:55 | 2025-08-04 |  |
 | [I Don't Care If You're Contagious](https://open.spotify.com/track/69okqylQdHUe90a70Q2ued) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 3:25 | 2023-08-19 |  |
 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 | 2022-01-09 |  |
 | [I Got A Thang For You](https://open.spotify.com/track/78VgYEKlKDjz8F2KrylPDA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Still Da Baddest](https://open.spotify.com/album/71FdDVm3WpFgjOZeCZCzTW) | 3:34 | 2024-05-16 |  |

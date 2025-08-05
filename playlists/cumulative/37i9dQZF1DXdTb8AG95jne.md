@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: KARDI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,037 songs - 2 day 14 hr 58 min
+1,040 songs - 2 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,9 +337,10 @@
 | [Good Times](https://open.spotify.com/track/5DXHofLQmL5USn6kjRhtnC) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams](https://open.spotify.com/album/3yEhqq1L8LShxaJgje45rY) | 3:24 | 2025-04-25 | 2025-05-20 |
 | [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 | 2025-04-11 | 2025-07-24 |
 | [Goodbye, fall](https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Goodbye, fall](https://open.spotify.com/album/2E82nqjerYIM9TrlNZeXND) | 3:41 | 2021-12-12 | 2022-07-29 |
+| [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 | 2025-08-04 |  |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 |  |
 | [Grassland](https://open.spotify.com/track/5zypY0T6WMsBHcCVWwuCVi) | [Nuz](https://open.spotify.com/artist/01C8gGSy00yG51FOfWzGpT) | [Grassland](https://open.spotify.com/album/5EvOCewuL8RLnCI1ZCYBwL) | 6:21 | 2022-03-31 | 2022-04-15 |
-| [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 | 2025-07-23 |  |
+| [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 | 2025-07-23 | 2025-08-05 |
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-07-08 | 2022-07-13 |
 | [Green we shared](https://open.spotify.com/track/4Qqd4mzQzVGpvPrzq3Dtn8) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Green we shared](https://open.spotify.com/album/22NNNFWoomy7QanPqnkKwr) | 3:39 | 2025-05-13 | 2025-05-23 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-10 | 2025-07-30 |
@@ -534,7 +535,7 @@
 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-25 | 2023-02-15 |
 | [Lucky \(feat\. Wonstein\)](https://open.spotify.com/track/4SuCrpZUlyOskt1mYpmDyx) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Hip Hop Retreat](https://open.spotify.com/album/7qmHNI4WN9SjpJjJzKpxql) | 6:44 | 2025-03-04 | 2025-04-11 |
 | [Lullaby](https://open.spotify.com/track/0OV5CZKs1CNsavPmV9gZzg) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM), [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b) | [Lullaby](https://open.spotify.com/album/56LUm3jvcWdgNeHKrtEjGl) | 4:03 | 2021-12-21 | 2022-07-29 |
-| [Luna](https://open.spotify.com/track/6sYj7Rr3Flt4ejqTyHs3nV) | [HEO](https://open.spotify.com/artist/6PM8wQDAn64tXjj3Ip2Yun) | [Structure](https://open.spotify.com/album/6ySOkQ1FYhLPGISzXDIiZN) | 5:08 | 2025-07-23 |  |
+| [Luna](https://open.spotify.com/track/6sYj7Rr3Flt4ejqTyHs3nV) | [HEO](https://open.spotify.com/artist/6PM8wQDAn64tXjj3Ip2Yun) | [Structure](https://open.spotify.com/album/6ySOkQ1FYhLPGISzXDIiZN) | 5:08 | 2025-07-23 | 2025-08-05 |
 | [Lunch Time 점심시간](https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Lunch Time 점심시간](https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp) | 4:36 | 2022-03-31 | 2022-04-05 |
 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 | 2022-08-04 | 2024-04-19 |
 | [Lustre](https://open.spotify.com/track/4XnUCJTdssEkFj1NiIQAp7) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/0zsXyoBNYf3hRMaSu5zdEj) | 3:34 | 2022-04-27 | 2022-04-30 |
@@ -627,7 +628,7 @@
 | [October](https://open.spotify.com/track/2sA8WPQSXlYWujfojCgtWV) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [October](https://open.spotify.com/album/6tb3F5jPWvBPjjRMBbdyjW) | 3:54 | 2024-11-06 | 2024-12-20 |
 | [Oh! Summer night, Romantic Melodies](https://open.spotify.com/track/6MikG6rbwaFoUfoLaNo4uE) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Buscar Buscar](https://open.spotify.com/album/6p6LR7wxGB3Nsy2Bd0zAoe) | 2:35 | 2025-07-21 | 2025-07-23 |
 | [Ok to cry 모두 울어도 되는 날](https://open.spotify.com/track/1HtXCINU55a9Hh19jX7QC3) | [Joa Band](https://open.spotify.com/artist/3rCJ0bFbcUt9f9CuWhm6hp) | [Ok to cry 모두 울어도 되는 날](https://open.spotify.com/album/6Y5X82rboaUN4RBvCg8IBz) | 4:04 | 2022-03-31 | 2022-04-04 |
-| [Okinawa](https://open.spotify.com/track/08Fo1zAY2piVFOD2Lv3n3z) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/0vPsSVKMo07UijGL755gqL) | 5:48 | 2025-04-11 |  |
+| [Okinawa](https://open.spotify.com/track/08Fo1zAY2piVFOD2Lv3n3z) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/0vPsSVKMo07UijGL755gqL) | 5:48 | 2025-04-11 | 2025-08-05 |
 | [Okinawa](https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6) | 5:48 | 2022-07-27 | 2024-04-19 |
 | [Okinawa](https://open.spotify.com/track/4IDuBhS4HLQh2vg83pk6Rj) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/2cVPFgXXfRtJlk5bSwpjEj) | 5:48 | 2023-09-01 | 2024-04-04 |
 | [okokok](https://open.spotify.com/track/7kTsmaju0m5kJSoA7z5BKf) | [Witches](https://open.spotify.com/artist/4vTtoGhW5MgqrpfPL0RGxi) | [okokok](https://open.spotify.com/album/4KEhy0zdjzgj4paaFfPmlp) | 2:21 | 2022-06-08 | 2022-06-14 |
@@ -901,6 +902,8 @@
 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 | 2021-12-21 | 2024-06-01 |
 | [Today's Mood](https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20) | 3:45 | 2025-04-11 | 2025-07-29 |
 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2024-04-24 |
+| [Tomato Marinade \(feat\. Yoon Hyeong Jun\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 | 2025-08-04 |  |
+| [Too slow](https://open.spotify.com/track/2ByfcUe3hEZDtPILSJG78x) | [Aiowell](https://open.spotify.com/artist/36I2SDkhk3uQ7JlFV47XGu) | [Too slow](https://open.spotify.com/album/6LHo1IYVIJ45AKP0YKdXgg) | 3:24 | 2025-08-04 |  |
 | [Train](https://open.spotify.com/track/2sC2MG2UB374acOg0Ltidg) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:58 | 2025-01-30 | 2025-04-11 |
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |
 | [Tree \(Feat\. Eily\)](https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/6mkDOz32DQrnbO6uwCLSdD) | [Tree](https://open.spotify.com/album/7K8YzXvTz5vOfLiRmgqH9J) | 3:43 | 2021-12-21 | 2022-07-24 |

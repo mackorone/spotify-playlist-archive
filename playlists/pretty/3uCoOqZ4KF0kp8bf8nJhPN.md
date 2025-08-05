@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 39 | [WATCH OUT](https://open.spotify.com/track/2m0LxplWmMmMkrZiu2Zvdl) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [era](https://open.spotify.com/artist/31Ns4smj7SDd9zdCZ3qtXr) | [WATCH OUT](https://open.spotify.com/album/1MpombUoJM8s3a8cgeTlQv) | 1:09 |
 | 40 | [\#PACK!](https://open.spotify.com/track/33DxFfqzFfmib0TDBJieOk) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [\#PACK!](https://open.spotify.com/album/44FSESFewT2ukQRlD2txjC) | 0:59 |
 | 41 | [GANGY](https://open.spotify.com/track/0j3Xssa57CUUOxYwlxLBHk) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [reaptokyo](https://open.spotify.com/artist/62ghDL8bmpEuoBLrxMKwUH) | [GANGY](https://open.spotify.com/album/0Av2zKZh1Usr1ekhROB5BU) | 1:02 |
-| 42 | [GLOCKIES](https://open.spotify.com/track/0UvyBiIU6E761Ozhpsf7i5) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [GLOCKIES](https://open.spotify.com/album/1KoRjUJ7IPy9irh9voezHb) | 1:07 |
-| 43 | [IHATEBITCHES](https://open.spotify.com/track/5n5QrGdF98Eu0wsQ1Px7Mu) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [IHATEBITCHES](https://open.spotify.com/album/48P5GlBBTUOgfdkSFfwTcV) | 1:50 |
+| 42 | [IHATEBITCHES](https://open.spotify.com/track/5n5QrGdF98Eu0wsQ1Px7Mu) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [IHATEBITCHES](https://open.spotify.com/album/48P5GlBBTUOgfdkSFfwTcV) | 1:50 |
+| 43 | [GLOCKIES](https://open.spotify.com/track/0UvyBiIU6E761Ozhpsf7i5) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [GLOCKIES](https://open.spotify.com/album/1KoRjUJ7IPy9irh9voezHb) | 1:07 |
 | 44 | [TRAP](https://open.spotify.com/track/05qENdYgWWcNHUbWlq0j2l) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [TRAP](https://open.spotify.com/album/0CFlLbNscLiP0Wp92eJJeQ) | 1:21 |
 | 45 | [ENVIOUS](https://open.spotify.com/track/0ozFkd2YKntNYcqufvdNtY) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [ENVIOUS](https://open.spotify.com/album/2RLLSDJtqJckVek9Q5S4aQ) | 1:16 |
 | 46 | [PURGATORY!](https://open.spotify.com/track/0HnXMMxuVBhB8Ydl4fIGHy) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [PURGATORY!](https://open.spotify.com/album/0H9Mr3nLo9fKHGbMpBDDXh) | 1:00 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 198 | [crashed](https://open.spotify.com/track/10yGK9L3lAjcBh4HniEzfq) | [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [crashed](https://open.spotify.com/album/1VRG1LmrW2i6ODuZLcu2cf) | 2:28 |
 | 199 | [Tell Me Everything](https://open.spotify.com/track/4EsOG03rteaFIZBMXalYd1) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Safe And Sound](https://open.spotify.com/album/0QPgqLJiQi4dHrvmS4qYbi) | 3:07 |
 
-Snapshot ID: `AAAFtfaKUbFhyJnKyxAzAGLqKFeyBcHH`
+Snapshot ID: `AAAFtmQr+dBxbFfhhPvzdPCNI6j91eN6`

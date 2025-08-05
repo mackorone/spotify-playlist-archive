@@ -1,15 +1,95 @@
 {
   "description": "New music from Metro Boomin, YoungBoy Never Broke Again and Yeat. ",
-  "num_followers": 15985483,
+  "num_followers": 15983835,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOCo/rkK8dNMuC4JtPIAzgQTWM7",
+  "snapshot_id": "aJD5ewAAAACKxsoxp8shscG50rrOOP1V",
   "tracks": [
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 169134,
+      "name": "Which One (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 272941,
+      "name": "WHERE WAS YOU",
+      "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "Professional",
+        "url": "https://open.spotify.com/album/3szFCrznF383ASda6GRzq2"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Professional",
+      "url": "https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
@@ -37,115 +117,7 @@
       "url": "https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "Which One",
-        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 169134,
-      "name": "Which One (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 272941,
-      "name": "WHERE WAS YOU",
-      "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "FWU",
-        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "FWU",
-      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "Professional",
-        "url": "https://open.spotify.com/album/3szFCrznF383ASda6GRzq2"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Professional",
-      "url": "https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
-        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Breskii",
-          "url": "https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw"
-        },
-        {
-          "name": "YK Niece",
-          "url": "https://open.spotify.com/artist/20LHcYW9rmkpatv2aHzxCE"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Take Me Thru Dere",
-      "url": "https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "What Did I Miss?",
         "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
@@ -161,7 +133,7 @@
       "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
@@ -177,7 +149,7 @@
       "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Won't Stop",
         "url": "https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB"
@@ -193,7 +165,7 @@
       "url": "https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
@@ -209,7 +181,7 @@
       "url": "https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -229,7 +201,7 @@
       "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Bodies (with JID)",
         "url": "https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3"
@@ -249,7 +221,7 @@
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
@@ -265,7 +237,83 @@
       "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "MASA",
+        "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Fire Your Manager (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jay Jones",
+          "url": "https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL"
+        }
+      ],
+      "duration_ms": 241335,
+      "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
+      "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 75386,
+      "name": "Mommanem",
+      "url": "https://open.spotify.com/track/3WgFhZfyk5nb6v7hkwPmD4"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
@@ -293,83 +341,7 @@
       "url": "https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "MASA",
-        "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Fire Your Manager (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jay Jones",
-          "url": "https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL"
-        }
-      ],
-      "duration_ms": 241335,
-      "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
-      "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 238249,
-      "name": "DUMBO",
-      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 75386,
-      "name": "Mommanem",
-      "url": "https://open.spotify.com/track/3WgFhZfyk5nb6v7hkwPmD4"
-    },
-    {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
@@ -401,7 +373,7 @@
       "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Money On Money (feat. Future)",
         "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
@@ -421,7 +393,7 @@
       "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "WENT WEST",
         "url": "https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx"
@@ -437,7 +409,7 @@
       "url": "https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
@@ -457,7 +429,7 @@
       "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Greatest Rapper Alive",
         "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
@@ -473,7 +445,7 @@
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Cant Go Broke (Remix)",
         "url": "https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg"
@@ -489,7 +461,7 @@
       "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "IM YEAT",
         "url": "https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae"
@@ -509,7 +481,7 @@
       "url": "https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Accessories (feat. Peso Peso)",
         "url": "https://open.spotify.com/album/3UAz8CcBdTCOilabW1AxNe"
@@ -529,7 +501,7 @@
       "url": "https://open.spotify.com/track/2rW9H7P0Nsq2K5AtNsNtam"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "ROCKIN",
         "url": "https://open.spotify.com/album/44CG52mqjcKpzJL8L4yXkB"
@@ -553,7 +525,7 @@
       "url": "https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
@@ -577,7 +549,35 @@
       "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
+      "album": {
+        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Breskii",
+          "url": "https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw"
+        },
+        {
+          "name": "YK Niece",
+          "url": "https://open.spotify.com/artist/20LHcYW9rmkpatv2aHzxCE"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Take Me Thru Dere",
+      "url": "https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db"
+    },
+    {
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
         "url": "https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Bunna Summa (Ice Cream Summer Deluxe)",
         "url": "https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/43FkWr8JNh12rKfXNBFR1H"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Legends (with Lil Baby)",
         "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Calm 3",
         "url": "https://open.spotify.com/album/09foLjIsNzSc06T2bIWhEr"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/7KtysXZ01Msd5W0k1BtLQl"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "By Myself (feat. Dj E Money & G6reddot)",
         "url": "https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "ICED TEA (feat. 21 Savage, Project Pat & Coupe)",
         "url": "https://open.spotify.com/album/4CxFVh0Sql5np80VHTKqbl"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/48cyq6H1Ec3C1fGvoJFpSA"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "OWA OWA",
         "url": "https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "GUILT TRIPPIN (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "HOLLYWOOD",
         "url": "https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Outfit (with 21 Savage)",
         "url": "https://open.spotify.com/album/6w8kBHoOsT1tvoNO05BTwj"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/6mxKWahJzbv7SVF8nkZwLT"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "whoa (mind in awe) [Remix]",
         "url": "https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Typa",
         "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Won't Diss You",
         "url": "https://open.spotify.com/album/0jMsKWAc6w7ooQTgoXLvFJ"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/0QAusxoKjr4SMYRkC3MkcK"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb"
     },
     {
-      "added_at": "2025-08-01 18:36:22",
+      "added_at": "2025-08-04 18:18:35",
       "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"

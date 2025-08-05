@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: yung kai
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,680 likes - 106 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,677 likes - 106 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

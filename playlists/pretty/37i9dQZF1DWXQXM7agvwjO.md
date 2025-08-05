@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: IV Of Spades  \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,796 likes - 108 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,799 likes - 108 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 107 | [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5), [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 |
 | 108 | [Better Run](https://open.spotify.com/track/2suxNr50PEr7O44dsTuF5S) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Better Run](https://open.spotify.com/album/2omrnJTVqNLfM8Wy18fbBQ) | 3:42 |
 
-Snapshot ID: `AAAAAAfzebdM9g+D81/YVybM14K+lgXB`
+Snapshot ID: `aIw/3wAAAABxZ45S0VEa8WHxPprGPYZx`

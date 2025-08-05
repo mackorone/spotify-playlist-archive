@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,175 likes - 90 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,184 likes - 90 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 89 | [Sugsankan](https://open.spotify.com/track/6ehGy1X3Z00HjMdMV0gxOZ) | [The Persuader](https://open.spotify.com/artist/1C7LDrsGczGPZ2KbAhanRq) | [Skargard](https://open.spotify.com/album/4UFKRr7IWAmgBbuiUs1rRW) | 5:21 |
 | 90 | [Glamourama](https://open.spotify.com/track/1sG7HS1giw6Wl9TV4M9xDI) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Solaris](https://open.spotify.com/album/3gHlQ2mYGcwVoqnhcVQUCo) | 5:30 |
 
-Snapshot ID: `aImY2wAAAACkpjPwYn1e4/lyTitZw0hl`
+Snapshot ID: `aImY2wAAAACHhwkoOiU4vgDVKqdVIzYq`

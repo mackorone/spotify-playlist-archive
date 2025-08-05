@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:2SNzxY1OsSCHBLVi77mpPQ">Joe Bonamassa</a> is taking over to share his blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,868 likes - 25 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,901 likes - 25 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 24 | [Feel That Sting](https://open.spotify.com/track/4sHytClqeMxD1XI5CWXRqT) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:29 |
 | 25 | [Three Hundred Pounds of Joy](https://open.spotify.com/track/6apS9KyNIEpZTLwwxHkEEk) | [Antone's 50th Allstars](https://open.spotify.com/artist/3Em3zuDg3PfjRqMQAO4GXE), [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Three Hundred Pounds of Joy](https://open.spotify.com/album/4OCgflGCqhPAukaiCH3H3T) | 4:47 |
 
-Snapshot ID: `aHp9rQAAAABHTW/M/9KOb0G2Jbt5gY8g`
+Snapshot ID: `AAAAAMMcXTo4Y4levQA8gyQGon56Gktm`

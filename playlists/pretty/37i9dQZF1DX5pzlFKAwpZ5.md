@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,508 likes - 150 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,557 likes - 150 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

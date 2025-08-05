@@ -4,7 +4,7 @@
 
 > 
 
-2,442 songs - 5 day 7 hr 46 min
+2,443 songs - 5 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Dance](https://open.spotify.com/track/55fdT51ZdxLX0KmkOu5TY8) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The G.A.B.B.E.R\. EP VOL 1.](https://open.spotify.com/album/1W0s9g2HwPUDS3QCIVMtRw) | 3:20 | 2024-12-14 |  |
 | [Dance](https://open.spotify.com/track/1WgfGOgWfTa23GqjuROCU5) | [Magistri](https://open.spotify.com/artist/1jKIo9QTqnLGMuwiZWXBKj) | [Dance](https://open.spotify.com/album/0xjpNFBACUmuZoQDRnxUlj) | 2:25 | 2025-04-26 |  |
 | [DANCE](https://open.spotify.com/track/3Lp5HFhm5uygXeOkNjC60Y) | [Suspect](https://open.spotify.com/artist/1g5TBMBIK1S48I5amyae6u), [Valido](https://open.spotify.com/artist/65kw4SfFANgttyuNSTMUdy), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [DANCE](https://open.spotify.com/album/5lW1S7WK1RTWGbu47I00eY) | 2:51 | 2024-11-16 |  |
+| [DANCE \- S3RL Remix](https://open.spotify.com/track/4Qnj7Aat56mNwjb6MJWeuY) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [DANCE \(S3RL Remix\)](https://open.spotify.com/album/5UQeh6OHQp8Ao5FBjBN2xq) | 3:05 | 2025-08-04 |  |
 | [Dance All Night](https://open.spotify.com/track/2tHQZ72MHQkWMPTLBjHwqO) | [DJ Stompy](https://open.spotify.com/artist/0NPIfGxSQLFbauoBrwtEGl), [Eazyvibe](https://open.spotify.com/artist/0PMy5u8OE0gX0iZtV4CGLP), [Zetamale](https://open.spotify.com/artist/7kDNYbq3Sz7yBk95R5wmR4) | [The Three\-Way EP](https://open.spotify.com/album/0ErHf38uEM09SbspsASgpn) | 3:48 | 2022-04-06 |  |
 | [Dance For Me \(1, 2, 3\) \- Irradiate Remix](https://open.spotify.com/track/2HFnhPLndIuk9NuQS0G7Uu) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[The Remixes\]](https://open.spotify.com/album/4vgDHOmtP3Hrbie8uwmYT1) | 2:03 | 2024-10-08 |  |
 | [Dance In Stereo](https://open.spotify.com/track/0F0J3W5854KioWIa3KKPA6) | [K\-Style](https://open.spotify.com/artist/0O3T7774twOW0Wv1asJvp9) | [Dance In Stereo](https://open.spotify.com/album/5Neb80lH87y4vCpji2fYhf) | 3:18 | 2023-09-09 |  |

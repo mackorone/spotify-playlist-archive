@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: TOMATULUGAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,046 likes - 99 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,066 likes - 99 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anclado en la roca \(YAHWEH\)](https://open.spotify.com/track/0ZmQdvqFNDqi4qBQ2VoLAU) | [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX), [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Anclado en la roca \(YAHWEH\)](https://open.spotify.com/album/5NRActNsWxekguM1Uzqn2A) | 6:31 |
-| 2 | [Todo Va a Estar Bien \- Live In República Dominicana](https://open.spotify.com/track/0uySaNZfyLbtx8TtyGfuiY) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz), [Juan Carlos Rodriguez](https://open.spotify.com/artist/1qOS5nTlVontMVE6tJPWZH) | [Todo Va a Estar Bien \(Live In República Dominicana\)](https://open.spotify.com/album/7l5ZeaIwVuaNZ8yvPMVRRv) | 6:42 |
+| 2 | [Todo Va Estar Bien \- Live In República Dominicana](https://open.spotify.com/track/0uySaNZfyLbtx8TtyGfuiY) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz), [Juan Carlos Rodriguez](https://open.spotify.com/artist/1qOS5nTlVontMVE6tJPWZH) | [Todo Va Estar Bien \(Live In República Dominicana\)](https://open.spotify.com/album/7l5ZeaIwVuaNZ8yvPMVRRv) | 6:42 |
 | 3 | [El Gran Yo Soy](https://open.spotify.com/track/5r23fyK6uFvf60uqoyhwNy) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [El Gran Yo Soy](https://open.spotify.com/album/5Q4Fm3MVlriGcMypEqJPrj) | 5:57 |
 | 4 | [De Cerca](https://open.spotify.com/track/2HDzPGPsB59spIw18t2Pzd) | [La Feria Oficial](https://open.spotify.com/artist/2SJpjUs975HmjZrjVRTSAh), [Ulises Eyherabide](https://open.spotify.com/artist/39dKfPJ1GnRwCBjfaWVtUi) | [De Cerca](https://open.spotify.com/album/1L6dHuPdrNlWXES13VtPNL) | 4:07 |
 | 5 | [No Temeré](https://open.spotify.com/track/4GDqoWIiTe3IYNQsbSa4hZ) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [No Temeré](https://open.spotify.com/album/75GpCJemD5CZKyIauYImEM) | 6:18 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Rey](https://open.spotify.com/track/0F0avlMQwKBXvZVc9gAoQx) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Rey](https://open.spotify.com/album/3kaYlsVPR6trh6wl6aERVE) | 6:10 |
 | 99 | [Mañana Me Irá Mejor](https://open.spotify.com/track/7wJPvSDJEp4nf3b6IPGukM) | [Yamilka](https://open.spotify.com/artist/0fpgHrtIeF5g66x4zeI4S0) | [Mañana Me Irá Mejor](https://open.spotify.com/album/6jr5cCq6ds9xVRtfVEo2IE) | 4:27 |
 
-Snapshot ID: `AAAAAKmGkw3ZLUBCnH8xd/PQzbpjJMHz`
+Snapshot ID: `aIyyEAAAAAAcJ6XbpH6FCnR4YJnyl7SS`

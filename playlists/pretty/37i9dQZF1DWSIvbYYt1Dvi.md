@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > nem todas as AULAS são mó mamão \- pergunta pro dinizz \(ce tá na sua razão né beatriz? dmr então 👍🏽\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,977 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,900 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 6 | [para Kendrick e Kanye](https://open.spotify.com/track/7blhB9LmqGlZxexZzaO8SL) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1) | [CARO Vapor II \- qual a forma de pagamento ?](https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ) | 2:42 |
 | 7 | [Bomboclaat](https://open.spotify.com/track/3bcVfefkVBw5x258aOvaIM) | [OGermano](https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs), [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Caça & Recompensa](https://open.spotify.com/album/5EhpV2HGWUj1QiM1Az3dqA) | 2:52 |
 | 8 | [Se Eu Pudesse](https://open.spotify.com/track/0UnVcQR3YU6DDSZ4RCiimj) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 4:11 |
-| 9 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
+| 9 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
 | 10 | [JOÃO E MARIA](https://open.spotify.com/track/4eDI5VjIPzidWqwLEtjKlB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:50 |
 | 11 | [MAAT](https://open.spotify.com/track/6491xSLJFuKKn4jc1oakvo) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [BUNMI](https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX) | 4:06 |
 | 12 | [Latino Americano](https://open.spotify.com/track/5p02vl3X0p227XS6Lro9sI) | [Drinho Sp](https://open.spotify.com/artist/5WN4qyNrnrDosMqrczBxuo) | [Latino Americano](https://open.spotify.com/album/06bOKhOjYZe7OGjA5XK6tt) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [OUTRA REALIDADE](https://open.spotify.com/track/28DVvFIEB1NAYcxKL65oMl) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy), [DJ Negrito](https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1) | [OUTRA REALIDADE](https://open.spotify.com/album/0HmLrWoCZvc4d2Cz0cB4Jq) | 4:24 |
 | 50 | [Conversas Que Nunca Tivemos](https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Conversas Que Nunca Tivemos](https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90) | 4:43 |
 
-Snapshot ID: `AAAAAPKtzT+QpYVxBwG9V9kc4an+toF/`
+Snapshot ID: `aI0U4AAAAAB+kUuFblaJxMF5Rb0cAxMx`

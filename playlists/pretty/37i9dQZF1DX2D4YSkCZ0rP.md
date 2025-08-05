@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : marguerite
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,890 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,892 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [J'tomberai pas](https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Panorama](https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5) | 3:06 |
 | 40 | [Que tu te mentes](https://open.spotify.com/track/246qLPvm2lY2lRl0QowN5g) | [Louis Albi](https://open.spotify.com/artist/5vtBixycH4NYGd7ZVWseVn) | [Que tu te mentes](https://open.spotify.com/album/0MVCYDiqg8ElZGtHEsQ9ML) | 2:47 |
 
-Snapshot ID: `aF6eBAAAAAChO0r3YD8wbEKVDKLg3Re3`
+Snapshot ID: `aF6eBAAAAAAGtyuhXFmUUjx3/kik5QYQ`

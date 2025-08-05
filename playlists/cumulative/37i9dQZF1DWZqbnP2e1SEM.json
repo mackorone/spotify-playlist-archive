@@ -4769,6 +4769,28 @@
     },
     {
       "album": {
+        "name": "If You Let Me",
+        "url": "https://open.spotify.com/album/2EiPW2PhjYzXtq3EikOg96"
+      },
+      "artists": [
+        {
+          "name": "Albi",
+          "url": "https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157487,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/0RsViKNsOgDim3FeU2smxX"
+    },
+    {
+      "album": {
         "name": "If You Wanna",
         "url": "https://open.spotify.com/album/7yicRngbUo5uEPuCK2WpRy"
       },
@@ -5258,7 +5280,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 198455,
       "name": "LEVELS",
       "url": "https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"

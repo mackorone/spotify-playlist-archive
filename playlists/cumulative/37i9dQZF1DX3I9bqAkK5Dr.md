@@ -2,9 +2,9 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini
+> Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-381 songs - 22 hr 49 min
+383 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Janaki](https://open.spotify.com/track/3ZAQJr4l7GxjTZ1LxR5imO) | [Syel](https://open.spotify.com/artist/35HkhHMeEarempEwDAPQgT), [Maansi Gautam](https://open.spotify.com/artist/7rbzhIalhUWFHq9yLggbFP) | [Janaki](https://open.spotify.com/album/232yFf1RjYugU574aoGdp6) | 4:00 | 2024-09-12 | 2024-12-14 |
 | [Jeena Marna](https://open.spotify.com/track/1XqnI6gFr03nmNatopVCW6) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4) | [Rhythm of Love](https://open.spotify.com/album/5swoNPRR3TAD32WC5STPof) | 4:33 | 2024-12-20 | 2025-04-24 |
 | [Jimpak Chipak](https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF) | [MC Mike](https://open.spotify.com/artist/3fJeUWROZ8RmlLHDWTtqYo), [MC Uneek](https://open.spotify.com/artist/5V59VPRPHoUasr8KOncBne), [Om Sripathi](https://open.spotify.com/artist/6cHpt2n70Z4fNJdkP7r13T) | [Jimpak Chipak](https://open.spotify.com/album/5Bl77fvZRxNfEkudOcjgaT) | 3:07 | 2022-07-18 | 2024-01-20 |
-| [KAALA BASHA](https://open.spotify.com/track/4hMORTbAYAI0khfjB4hieK) | [Dasagriva](https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn) | [KAALA BASHA](https://open.spotify.com/album/0dNnLja79nFUoZS3epocQL) | 2:13 | 2025-05-16 |  |
+| [JORDAAR BONALU](https://open.spotify.com/track/5kgHaFpjmF37K4NK1fQDJU) | [Dasagriva](https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn) | [JORDAAR BONALU](https://open.spotify.com/album/4CCGP86JNpn3EiHLf5nK5H) | 3:26 | 2025-08-04 |  |
+| [KAALA BASHA](https://open.spotify.com/track/4hMORTbAYAI0khfjB4hieK) | [Dasagriva](https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn) | [KAALA BASHA](https://open.spotify.com/album/0dNnLja79nFUoZS3epocQL) | 2:13 | 2025-05-16 | 2025-08-05 |
 | [Kaalaale](https://open.spotify.com/track/51u6ywNUr5EhTpBfllwrSN) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0), [Jyoti Kavi](https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN) | [Kaalaale](https://open.spotify.com/album/7zuoO7Uhrb8ALzLT9bRlp0) | 3:38 | 2024-04-08 | 2024-07-31 |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 | 2023-05-26 | 2024-01-05 |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/4H4xbEw7snbrhkyZx73xPN) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/62nW8JpmhiafjI7PveQ2dp) | 3:05 | 2023-05-26 | 2024-02-22 |
@@ -164,6 +165,7 @@
 | [Madana Mohana](https://open.spotify.com/track/3zgwUXkrvDhdw7Sm5iHTRv) | [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Madana Mohana](https://open.spotify.com/album/4iceg1DMLNXG4vIr8H9Tjq) | 2:56 | 2023-06-22 | 2023-07-11 |
 | [Madhura](https://open.spotify.com/track/5Y6S7V3wyaa8aZtiBpKOUe) | [Vinod Viola](https://open.spotify.com/artist/0ejdZrvlP0GKy8CO5as9WL), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Sai Bhavana Krovvida](https://open.spotify.com/artist/7qWAZBh15FCFhHdijvLkkD) | [Madhura](https://open.spotify.com/album/4ThLPRJ62yZJZM4QndHCGR) | 4:07 | 2023-02-14 | 2023-06-10 |
 | [Malupu](https://open.spotify.com/track/4JfjRekM3nNFpKdAuldWMY) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW) | [Malupu](https://open.spotify.com/album/0BUsiMENGsU9CXXfrSJuAI) | 4:56 | 2022-07-18 | 2023-05-23 |
+| [Manasa](https://open.spotify.com/track/3oxEW6HwUcGJo0prrFC1sz) | [ReddyBhau](https://open.spotify.com/artist/0Vay4tn6aXMqr5Scvpz51g) | [Manasa](https://open.spotify.com/album/6L9qphCHwfyMpeu00DqbPP) | 2:48 | 2025-08-04 |  |
 | [Manasara](https://open.spotify.com/track/2SpDmZ8eBYVgQqS0ZFBz9n) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Manasara](https://open.spotify.com/album/77h3fTEmgoEsLbv7MF1kAI) | 2:46 | 2022-07-18 | 2023-06-20 |
 | [Manase](https://open.spotify.com/track/3uwvZrFaVb96Fd0wjY0S80) | [Pragathi Kanadamane](https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl) | [Manase](https://open.spotify.com/album/06O7XZkts4Ed81WbuH1SYu) | 5:09 | 2024-03-04 | 2024-07-31 |
 | [Manasu](https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA) | [Manasu](https://open.spotify.com/album/7kCsUSSQNGDr0ArNHD8uHy) | 4:22 | 2025-05-09 |  |
@@ -268,7 +270,7 @@
 | [People](https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP) | [TES](https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ), [EDWRLDMUSICK](https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5) | [People](https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW) | 2:25 | 2023-03-31 | 2023-05-23 |
 | [Pilla](https://open.spotify.com/track/1kdDZJYtoHHt4kq3BDo7D1) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb), [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [P Akshaya](https://open.spotify.com/artist/4JBpL56kk5zIodOONetywo), [MC Rahul Raj](https://open.spotify.com/artist/3LbutWO2ZRAHC2W5pQ3piG) | [Pilla](https://open.spotify.com/album/4yzhPDSzzUvrtcex919xy1) | 3:45 | 2024-02-21 | 2024-05-21 |
 | [Pilla](https://open.spotify.com/track/1gNzOEg64KHBMxU0pteGQx) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Pilla](https://open.spotify.com/album/59XeWn5AXlh6BRx6gGKA4q) | 3:43 | 2024-01-19 | 2024-03-06 |
-| [Pilla Nee Ventae](https://open.spotify.com/track/6KBGVi3Kt2wKmNgqHX9cI9) | [Sanjith Raman](https://open.spotify.com/artist/4oaPJiDNexvtQNj8kIXZmP), [Rafiq Ali](https://open.spotify.com/artist/2LpmKpagVqOI6jWcI2foRY) | [Pilla Nee Ventae](https://open.spotify.com/album/6WjLOiB2G5DdzqKNxSPliT) | 4:26 | 2024-02-26 |  |
+| [Pilla Nee Ventae](https://open.spotify.com/track/6KBGVi3Kt2wKmNgqHX9cI9) | [Sanjith Raman](https://open.spotify.com/artist/4oaPJiDNexvtQNj8kIXZmP), [Rafiq Ali](https://open.spotify.com/artist/2LpmKpagVqOI6jWcI2foRY) | [Pilla Nee Ventae](https://open.spotify.com/album/6WjLOiB2G5DdzqKNxSPliT) | 4:26 | 2024-02-26 | 2025-08-05 |
 | [Po Ve Po Ve](https://open.spotify.com/track/2ULcLS1AhtAvTwSPEw2VHu) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Po Ve Po Ve](https://open.spotify.com/album/5Eg6NDwFXJ4NjnnWMjlorN) | 3:18 | 2023-09-20 | 2023-10-18 |
 | [Podhe Vallipothunde](https://open.spotify.com/track/1ARdPomFAk2WwsauwNFw7t) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Podhe Vallipothunde](https://open.spotify.com/album/5IS01NVb2O8VRO1roXOleu) | 3:21 | 2023-07-08 | 2023-08-19 |
 | [Pogachure](https://open.spotify.com/track/0pBh8kUlaRDWFxl8E88ozl) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [Pogachure](https://open.spotify.com/album/1C5OW4HkbAZWLvYhFpctzd) | 4:04 | 2023-08-18 | 2025-01-07 |

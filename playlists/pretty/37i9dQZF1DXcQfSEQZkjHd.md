@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 
 > Flirty tracks Tove Lo loves\. Put this on when you want your intentions to be obvious..\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,273 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,279 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 | 36 | [Like A Woman](https://open.spotify.com/track/5SwFnIyhPXQRnUKHqTvHPw) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:10 |
 | 37 | [I'm Coming](https://open.spotify.com/track/1RD3m51THadpJRCChdIChD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [We Slay](https://open.spotify.com/album/58pB1lsBLD1cqIS705OHYa) | 3:16 |
 
-Snapshot ID: `Ziv5YgAAAAAc1oguXSxulGwY8Wyehaq7`
+Snapshot ID: `AAAAANtrnTs5FxAI9hJ6P1+rwGbTgkBJ`

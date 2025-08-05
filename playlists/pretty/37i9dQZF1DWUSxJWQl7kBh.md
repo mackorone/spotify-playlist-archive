@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > yo no tuve herencias ni carrito regalado ✨🧿 Raúl Beltrán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,770 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,089 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 59 | [Ajustadón](https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ajustadón](https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j) | 2:39 |
 | 60 | [Cada Vez](https://open.spotify.com/track/24GVh6re0QrdWrhiu4XNVk) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Cada Vez](https://open.spotify.com/album/7G7iwKyxTzArIb0xRTCtpx) | 2:15 |
 
-Snapshot ID: `aHCogQAAAACLz8nyei5H2BjHtlH344zk`
+Snapshot ID: `aHCogQAAAAD7ORiqtaBOM4FmCzbCZh7D`

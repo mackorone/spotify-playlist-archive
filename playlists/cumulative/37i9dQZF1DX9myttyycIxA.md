@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Automatic
 
-1,659 songs - 3 day 23 hr 40 min
+1,664 songs - 3 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Burn It Out](https://open.spotify.com/track/05mZml20CLpCAnmv4A8TtY) | [Sean Henry](https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk), [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [Burn It Out](https://open.spotify.com/album/0OSCJqShymwLfVMi5168m8) | 4:04 | 2024-07-19 | 2024-10-05 |
 | [burning love letters](https://open.spotify.com/track/5s3AtbTWwXzd2x5hLnNm6I) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [burning love letters](https://open.spotify.com/album/3JJQviIafzIDT9KKGu2End) | 2:34 | 2023-01-27 | 2023-03-04 |
 | [Burnt](https://open.spotify.com/track/5PY4JyJ5oQIxLx9iqrXXEG) | [Slater](https://open.spotify.com/artist/0axqUvPmS7PqZp0xJTdzdG) | [Burnt](https://open.spotify.com/album/0Q1qEXD9LLptZnO4CBvz0K) | 2:53 | 2022-08-05 | 2022-12-03 |
+| [bus stop](https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [bus stop](https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit) | 3:23 | 2025-08-04 |  |
 | [BUZZKILL](https://open.spotify.com/track/0FMPAxvToIRKA137icsIZi) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [BUZZKILL](https://open.spotify.com/album/7gwxFVygMtairtoEjeqxn6) | 3:43 | 2024-03-29 | 2024-06-01 |
 | [By My Side](https://open.spotify.com/track/5DCSl2flxRehACINNyD9EX) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million and Three Love Songs](https://open.spotify.com/album/4PBBVn6QWMJWsI2M2iAioi) | 2:35 | 2025-04-04 |  |
 | [By Your Side](https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [By Your Side / Destroy You](https://open.spotify.com/album/1eMgkeDfHK9QvIk0NYuKcv) | 3:19 | 2022-03-26 | 2022-06-08 |
@@ -238,6 +239,7 @@
 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 | 2025-07-18 |  |
 | [Can You See Me](https://open.spotify.com/track/5bcuh5urwoAEJ2FfoGextz) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Can You See Me](https://open.spotify.com/album/6xmguBJKNb4Xxn3ODeICu7) | 3:30 | 2022-01-28 | 2022-04-28 |
 | [Can You See Me Tonight?](https://open.spotify.com/track/0zirRjZmsGJZAuSWLAXrUo) | [Good Looks](https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG) | [Can You See Me Tonight?](https://open.spotify.com/album/77cPckM91tiVaVyusQRd2q) | 3:15 | 2024-05-10 | 2024-10-05 |
+| [Can't Thank You Enough](https://open.spotify.com/track/7E48Io3GNay3N7PpFO7cQP) | [Creative Writing](https://open.spotify.com/artist/4Sfo6fx6HtWfbdroFZHiXz) | [Can't Thank You Enough](https://open.spotify.com/album/68H4VJRurcGNKin36Zt4Qg) | 3:02 | 2025-08-04 |  |
 | [Candle](https://open.spotify.com/track/2Elr1Zc3CIhfAdxBA8oD58) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Candle](https://open.spotify.com/album/5Gqr5h8mLjgcs3hUSAY24E) | 3:08 | 2023-08-24 | 2024-02-06 |
 | [Cannibal Capital](https://open.spotify.com/track/2v5v3uK96QddzNNwE8YNMz) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Cannibal Capital](https://open.spotify.com/album/35eBeNmH2x9WK759IVikYJ) | 4:24 | 2022-03-26 | 2022-05-19 |
 | [Capital C](https://open.spotify.com/track/63uu2Px8EBJ3P4wBidbqZy) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Capital C](https://open.spotify.com/album/7jPTQfu31KK6ENmcixwt3c) | 4:19 | 2024-11-22 | 2025-03-22 |
@@ -976,6 +978,7 @@
 | [Milestones](https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Illuminator](https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z) | 4:28 | 2024-08-23 | 2025-02-01 |
 | [Milk thistle](https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [Milk thistle](https://open.spotify.com/album/0729P28WmI1nx1duo1JNX8) | 3:12 | 2024-01-05 | 2024-02-17 |
 | [Milky Way](https://open.spotify.com/track/7nkxrLrU4mTLvfXRdOG01B) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Milky Way](https://open.spotify.com/album/0UmfTw8qxhWKMgqD0ya9pQ) | 2:33 | 2021-09-17 | 2022-04-20 |
+| [Mind](https://open.spotify.com/track/5L32XNJ36FJRg6oQjB8Fwa) | [Golden Apples](https://open.spotify.com/artist/0QrEq2kZoi5VcRaHXSzgsQ) | [Mind](https://open.spotify.com/album/17R2ROQb0acXmLJENXEpF0) | 3:15 | 2025-08-04 |  |
 | [Mind of Its Own](https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Mind of Its Own](https://open.spotify.com/album/0uXrDuj03d9mhUefCxEG3D) | 3:21 | 2022-04-01 | 2022-05-20 |
 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-16 | 2023-03-04 |
 | [Miracles](https://open.spotify.com/track/1aTHfnCCB8RleVKfq5u0bD) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles](https://open.spotify.com/album/3MjUsKkgDivwM51Ew1sAgK) | 3:16 | 2022-09-16 | 2022-11-14 |
@@ -990,6 +993,7 @@
 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-03-08 | 2024-07-19 |
 | [Monday Monday Monday](https://open.spotify.com/track/7481d65jalWyqW7J42Q39k) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Monday Monday Monday](https://open.spotify.com/album/38ZNQkiwxrTaGOhqrUyOxO) | 3:04 | 2024-03-22 | 2024-04-13 |
 | [Monday's Fácil](https://open.spotify.com/track/00W5tnmuEvWvIJiiWJzHr6) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Monday's Fácil](https://open.spotify.com/album/4O5cQY3eatUzq7Kvx2Sei2) | 4:07 | 2021-04-30 | 2022-04-25 |
+| [Moneyman](https://open.spotify.com/track/0LfQP8yZq7O6YsGtiL4g7r) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Upper Mezzanine](https://open.spotify.com/album/5ojQXf3OcDCowE2qwpdgO4) | 4:00 | 2025-08-04 |  |
 | [Monkey Ball Gatekeeper \(Cinnamon\)](https://open.spotify.com/track/5GcTGdSfTJOs0G7Q0T0Dzj) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Miracle](https://open.spotify.com/album/7fGs8fgBZi8JmAEGdNFF9E) | 3:24 | 2023-03-03 | 2023-04-09 |
 | [Montana](https://open.spotify.com/track/5f4jIPLCdVFXLOO3wadbiM) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Montana](https://open.spotify.com/album/1QRmUd7quysdvWp0m32526) | 3:20 | 2021-03-05 | 2022-04-29 |
 | [Moon](https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [All Over Again b/w Moon](https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty) | 2:42 | 2023-10-27 | 2024-06-08 |
@@ -1098,6 +1102,7 @@
 | [Orpheus Under the Influence](https://open.spotify.com/track/7KwJrAQMoJyUEBes3evMLv) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Buttertones](https://open.spotify.com/album/6TWlzuPZqA2gR5qkDNa1dx) | 2:14 | 2022-03-26 | 2022-09-03 |
 | [out 4 a breather](https://open.spotify.com/track/73aXl4EIbQsY8ufuopTAaZ) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/0Yyb7bR8VvEfrJ0sBoEhMl) | 3:21 | 2021-03-05 | 2022-04-29 |
 | [outsider](https://open.spotify.com/track/15hKAxyO4NjLcyVH2UeiDv) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [outsider](https://open.spotify.com/album/5mYrCk5fDhKwIQFW67MlFD) | 2:01 | 2025-01-10 | 2025-05-17 |
+| [over + out](https://open.spotify.com/track/4LbmZljAnOYP6TkCRYiFfm) | [Trout](https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy) | [over + out](https://open.spotify.com/album/6DKd4qKmz1yOj5rmGHXrOP) | 2:51 | 2025-08-04 |  |
 | [Over and over](https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Over and over](https://open.spotify.com/album/5AfjwhZxK3ERoaEuXsVhzt) | 4:24 | 2022-11-17 | 2022-12-15 |
 | [Over And Over](https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Over And Over](https://open.spotify.com/album/0uL6OMzCds7OOSRXq72uMo) | 6:12 | 2023-01-20 | 2023-03-11 |
 | [Over and Over](https://open.spotify.com/track/7EgfTld4hrzfdBLkqd52cx) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Over and Over](https://open.spotify.com/album/5e4eoRfKYGH0CYbcTd2UmL) | 3:57 | 2025-03-21 | 2025-06-07 |

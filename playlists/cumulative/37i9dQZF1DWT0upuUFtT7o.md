@@ -2,7 +2,7 @@
 
 ### [ Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> Celebrating 10 years of the best new indie music from independent artists\. Cover: Polami Roko
+> The best new indie tracks from independent artists & labels\. Cover: Polami Roko
 
 3,403 songs - 7 day 20 hr 24 min
 

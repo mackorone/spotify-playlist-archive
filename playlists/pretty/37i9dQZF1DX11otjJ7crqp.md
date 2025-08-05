@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Haiden Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,163 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,263 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 37 | [Happy Breakup!](https://open.spotify.com/track/6eJn6XejWj32KT6MCWaz9b) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Happy Breakup!](https://open.spotify.com/album/0wJbcsaxnjJpKc6pSU5gSa) | 2:58 |
 | 38 | [Top Down](https://open.spotify.com/track/2CY6MFDQZFjGP2uf7UF3nv) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Top Down](https://open.spotify.com/album/6EMKqL3gQmZZaHcccm9U5t) | 3:11 |
 | 39 | [amber white](https://open.spotify.com/track/0dmXv59JlwshTnNEZcFjl5) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [amber white](https://open.spotify.com/album/7Lf92SezPL5RogqCIAy7bb) | 2:44 |
-| 40 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 40 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 41 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 |
 | 42 | [Away We Go](https://open.spotify.com/track/3VhDpmwuYGrfvB9qagSHH0) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Away We Go](https://open.spotify.com/album/6gbrYJI3NWW1qbPty0nA00) | 3:15 |
 | 43 | [Weightless](https://open.spotify.com/track/6d0RZj5m0Yk84gLSy85UQX) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Weightless](https://open.spotify.com/album/3oe0Ic96YMqgNUPiynRIRo) | 2:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [hi, strangers](https://open.spotify.com/track/0yyLpgewoYRmSAtU58CfaV) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [hi, strangers](https://open.spotify.com/album/64yk3fgHfS8hTznFTRn2Dl) | 2:11 |
 | 99 | [Happier](https://open.spotify.com/track/20S9YwqCOx5cRRyseQ23Gf) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [Happier](https://open.spotify.com/album/57wQFtbtACr9SPCueOrWQJ) | 3:28 |
 
-Snapshot ID: `AAAAAOcCHiChxiN/UhT/YXIKduHevvYb`
+Snapshot ID: `aIxoBgAAAABAwtyH2opbrOSW4Z0vXc3G`

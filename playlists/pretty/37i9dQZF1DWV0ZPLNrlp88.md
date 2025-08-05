@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,070 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,081 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 |
 | 40 | [いちについて](https://open.spotify.com/track/454rsP0XW1Yzi9yhdEENrT) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [いちについて](https://open.spotify.com/album/0bzjjIHmafHh6T5fFTGcWj) | 6:13 |
 
-Snapshot ID: `AAAAAJVSd/oFzvF9pz+VcGSxcYcQVPP2`
+Snapshot ID: `aIzWcQAAAAASDFLO4Fy2eT0teW29bGa+`

@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 177607,
+  "num_followers": 177660,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAACOlgtHI0cFVQC9P1vrq7W9",
+  "snapshot_id": "aI6mgAAAAADxd1MHzjWEP8Yohc1JW4Jb",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "Para\u00edso De Dulzura",
-      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OG: Original Gangster",
         "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 336120,
       "name": "Barrunto",
       "url": "https://open.spotify.com/track/5qxGS2O7i5bQXHu0MyM9c8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "Para\u00edso De Dulzura",
+      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
     },
     {
       "added_at": null,

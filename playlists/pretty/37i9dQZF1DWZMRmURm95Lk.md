@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > DJ Shocca è tornato, 60 Hz II\. Beat e rime, oggi come una volta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,179 likes - 145 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,197 likes - 145 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

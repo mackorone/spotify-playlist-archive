@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVUpHtKnGyE.md) - [plain]
 
 > When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero\. Now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,383 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,600 likes - 54 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

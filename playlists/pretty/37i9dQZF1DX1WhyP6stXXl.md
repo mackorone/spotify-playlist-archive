@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,666 likes - 89 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,649 likes - 89 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

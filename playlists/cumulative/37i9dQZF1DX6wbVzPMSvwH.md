@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-192 songs - 12 hr 4 min
+193 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 | 2024-11-14 |
 | [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 | 2023-09-20 | 2023-12-14 |
 | [BESTFRiEND \(feat\. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\)](https://open.spotify.com/track/3EkueWJSbk5wXE3YCtXf0N) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd), [Rizal Rasid](https://open.spotify.com/artist/0N5dq4m7PRgUGNGdOtuGh8) | [BESTFRiEND \(feat\. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\)](https://open.spotify.com/album/1hfDOYGLqeCHH3VdQbCOwp) | 3:49 | 2023-12-13 | 2024-11-14 |
-| [Better Day](https://open.spotify.com/track/4kJiasEelFvQM6itbOIHfH) | [Samo Rafael](https://open.spotify.com/artist/4VacCuYOOHgyuwVYpKq28y) | [Arti Cinta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FO5dcRkprUpZG0HE7oGQy) | 2:59 | 2025-07-17 |  |
+| [Better Day](https://open.spotify.com/track/4kJiasEelFvQM6itbOIHfH) | [Samo Rafael](https://open.spotify.com/artist/4VacCuYOOHgyuwVYpKq28y) | [Arti Cinta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FO5dcRkprUpZG0HE7oGQy) | 2:59 | 2025-07-17 | 2025-08-05 |
 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 | 2023-05-18 | 2025-02-12 |
 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-06-19 |  |
 | [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-12-13 | 2023-10-20 |
@@ -99,6 +99,7 @@
 | [Kasmaran](https://open.spotify.com/track/5MkEW02j6Lu7uMxaieHxVZ) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Kasmaran](https://open.spotify.com/album/0JCLBNTCR1M1e8zSTxE0S5) | 4:21 | 2025-02-03 |  |
 | [Kata Kata](https://open.spotify.com/track/2AzoifKBHrbzI3WCrdEhZo) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 3:39 | 2025-05-23 |  |
 | [Kata Mereka Aku...](https://open.spotify.com/track/7Be9Tfmv2v5cmSmmyzlM75) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Kata Mereka Aku...](https://open.spotify.com/album/0P4dcxJxuBewHaMKfeyKFN) | 4:00 | 2025-07-28 |  |
+| [Kaulah Kamuku \(feat\. Mikha Angelo\)](https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC), [Mikha Angelo](https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 3:38 | 2025-08-04 |  |
 | [KECANDUAN](https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [KECANDUAN](https://open.spotify.com/album/3ocKWS6k7vfXQYVx8ahmxI) | 3:37 | 2024-12-09 |  |
 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2022-12-13 | 2023-08-09 |
 | [Kehilangan](https://open.spotify.com/track/7IgGkjE5Ceph27pn47pAmr) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Kehilangan](https://open.spotify.com/album/5eW6letl2iRvCaFXkSgZVF) | 4:13 | 2023-06-20 | 2024-12-04 |

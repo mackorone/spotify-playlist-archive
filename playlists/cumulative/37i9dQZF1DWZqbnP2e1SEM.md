@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-499 songs - 1 day 2 hr 27 min
+500 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Ibizacore](https://open.spotify.com/track/0LU920mdHUiNTWGd3xIxdl) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Into The Doof](https://open.spotify.com/album/7bQCvS4ChwrfuLEiGY7fkf) | 2:42 | 2024-07-26 | 2025-05-30 |
 | [If Only I Knew](https://open.spotify.com/track/66H7ULe9JbxBVVWsfLi8JC) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [If Only I Knew](https://open.spotify.com/album/3VIlxPfmem99BaiIOUQqDX) | 3:43 | 2024-08-02 | 2025-05-09 |
 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 | 2024-06-14 | 2025-05-09 |
+| [If You Let Me](https://open.spotify.com/track/0RsViKNsOgDim3FeU2smxX) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [If You Let Me](https://open.spotify.com/album/2EiPW2PhjYzXtq3EikOg96) | 2:37 | 2025-08-04 |  |
 | [If You Wanna](https://open.spotify.com/track/5NMpjgdyG48RGtkjj8QENH) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [If You Wanna](https://open.spotify.com/album/7yicRngbUo5uEPuCK2WpRy) | 3:00 | 2021-07-09 | 2022-05-11 |
 | [In My Room](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [In My Room](https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g) | 2:39 | 2025-05-08 | 2025-07-20 |
 | [Indestructible](https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Indestructible](https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7) | 2:40 | 2025-05-08 |  |
@@ -253,7 +254,7 @@
 | [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 | 2025-07-31 |  |
 | [Let Me Love You \- Club Mix](https://open.spotify.com/track/7EUIv0ygwh1Z10Km2z1Jbo) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Let Me Love You \(Club Mix\)](https://open.spotify.com/album/7ll9skDp7tYCUwUt5uFPd7) | 3:30 | 2021-07-09 | 2022-05-11 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-05-16 | 2024-08-03 |
-| [LEVELS](https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB) | [LEVELS](https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9) | 3:18 | 2025-05-08 |  |
+| [LEVELS](https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB) | [LEVELS](https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9) | 3:18 | 2025-05-08 | 2025-08-05 |
 | [Levels \- Radio Edit](https://open.spotify.com/track/0JhKJg5ejeQ8jq89UQtnw8) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/4mkvtXQd6rD7zuAHhexEvb) | 3:19 | 2025-05-29 |  |
 | [Lies](https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Lies](https://open.spotify.com/album/2hvJIyjOG3bn3hNRS2za58) | 3:16 | 2021-07-09 | 2022-07-29 |
 | [Life Goes On](https://open.spotify.com/track/15Vlfa18uD2w98YG5zX7Pb) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On](https://open.spotify.com/album/4gQ2RlVnWDZ61Y8fTJTap5) | 2:49 | 2021-07-09 | 2022-07-29 |

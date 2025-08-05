@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 50277,
+  "num_followers": 50297,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAACu5ONvJyuIuSYzJ/sYg5V4",
+  "snapshot_id": "aI6mgAAAAAC+kPqeJjMPdET5On1T7q6o",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 320110,
+      "name": "Waging War",
+      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 499250,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 320110,
-      "name": "Waging War",
-      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
     },
     {
       "added_at": null,

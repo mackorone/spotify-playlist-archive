@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3bSz5dBEak.md) - [plain]
 
 > Beethoven's famous works for piano, from wistful sonatas to ghostly trios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,642 likes - 48 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,646 likes - 48 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3bSz5dBEak.md) - [plain]
 | 47 | [Piano Sonata No\. 26 in E\-Flat Major, Op\. 81a "Les Adieux": 1\. Das Lebewohl \(Adagio \- Allegro\)](https://open.spotify.com/track/5IFVx8wzxu8CFowCwp1go3) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [HieYon Choi](https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB) | [Beethoven Piano Sonatas Nos\. 18, 26, 27, 30](https://open.spotify.com/album/3sjVNkbfETPWmywvBtpbEF) | 6:45 |
 | 48 | [Piano Sonata No\. 15 in D Major, Op\. 28, "Pastorale": III\. Scherzo\. Allegro vivace](https://open.spotify.com/track/1gnWEzRRapiYOI5Arbzf0V) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Beethoven: The Complete Piano Sonatas](https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg) | 2:08 |
 
-Snapshot ID: `AAAAACT61/TJEG2et7WX/qGwXC3YaFCy`
+Snapshot ID: `aFLURQAAAABZQZIZrZBNi5I3SiSs7TQC`

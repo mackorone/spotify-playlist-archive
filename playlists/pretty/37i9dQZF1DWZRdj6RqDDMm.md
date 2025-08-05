@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Theresa Phondo & Praise Umali
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,024 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,046 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/track/5yCCJK8o5g7vAPBGVNlJ2V) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/album/4OT93FOVowh9DWBoXdb6i5) | 5:59 |
 | 100 | [More Fire](https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Burn](https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ) | 5:51 |
 
-Snapshot ID: `aIwD3gAAAAARVFMHDogCTnYU0zRRxBX1`
+Snapshot ID: `AAAAAN6MA2H63Rj1dn8e3v8otEERh785`

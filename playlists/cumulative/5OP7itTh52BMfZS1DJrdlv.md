@@ -2,7 +2,7 @@
 
 ### [100 Greatest Christmas Songs Ever](https://open.spotify.com/playlist/5OP7itTh52BMfZS1DJrdlv)
 
-> Celebrate Christmas in July in style with this timeless playlist of Xmas favorites old and new  ☀️🎄\. Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
+> Celebrate Christmas this summer in style with this timeless playlist of Xmas favorites old and new  ☀️🎄\. Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
 187 songs - 9 hr 53 min
 
@@ -38,8 +38,8 @@
 | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/3p6OeDp9P4y3ZZCOoVKE2l) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:30 | 2023-12-09 | 2025-07-02 |
 | [Christmas Time Is Here](https://open.spotify.com/track/3J49Jiis9gFskQcB10HbAL) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:30 | 2023-12-09 | 2025-07-02 |
 | [Christmas Wish \(Aka My Christmas Wish for You\)](https://open.spotify.com/track/4BorLKKvjKmgcT8XL3UN1y) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:40 | 2023-12-09 |  |
-| [Christmas Without You](https://open.spotify.com/track/0H8ZZMF9rCFyRpt5CuoaZb) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:49 | 2023-12-09 | 2025-07-02 |
-| [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 | 2025-07-01 |  |
+| [Christmas Without You](https://open.spotify.com/track/0H8ZZMF9rCFyRpt5CuoaZb) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:49 | 2023-12-09 |  |
+| [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 | 2025-07-01 | 2025-08-05 |
 | [Christmas Wrapping \(with Iggy Pop\)](https://open.spotify.com/track/3kyZcS729JZYDVJvxjsCbl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 5:03 | 2023-12-19 | 2025-07-02 |
 | [Cold December Night](https://open.spotify.com/track/5NygPpvNMWZxiPrFN4goOs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:18 | 2023-12-09 | 2024-11-28 |
 | [Count on Christmas](https://open.spotify.com/track/5tGB1wbTZ4GOu5koMPpxZm) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:59 | 2023-12-09 | 2025-07-02 |

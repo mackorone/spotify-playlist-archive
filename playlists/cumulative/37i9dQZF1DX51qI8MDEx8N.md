@@ -4,7 +4,7 @@
 
 > Soft piano music to accompany your reading
 
-206 songs - 8 hr 48 min
+211 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alla fine insieme \(Together at Last\)](https://open.spotify.com/track/5YZpHsggUWJwLirje3LvqH) | [Guiseppe Amilcare](https://open.spotify.com/artist/0WyCteOTfIYG3buyiDjXZb) | [Alla fine insieme \(Together at Last\)](https://open.spotify.com/album/1BgkRFDTCvBMxIZyMW8cnf) | 2:08 | 2022-04-28 | 2025-05-21 |
 | [Along Came You](https://open.spotify.com/track/6S89pQkAuxmU1MFUHIWuzE) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Along Came You](https://open.spotify.com/album/4W1QLtlQHhRDMlsIlANNf9) | 2:10 | 2023-06-19 |  |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-08-15 |  |
+| [As Silence Falls](https://open.spotify.com/track/016jV0p2FhrHscjW9pq8eN) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [As Silence Falls](https://open.spotify.com/album/13CI80Wu8xoSXlG0a8vdHz) | 2:31 | 2025-08-04 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-04-28 | 2025-05-15 |
 | [avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 | 2022-04-28 | 2025-06-11 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2022-04-28 | 2022-07-21 |
@@ -137,6 +138,7 @@
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2022-04-28 | 2025-05-21 |
 | [Pour Vous](https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 2:30 | 2022-07-20 |  |
 | [Prelude to Elegance](https://open.spotify.com/track/0eubFOQUAbrLPPmf6xNDQE) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Prelude to Elegance](https://open.spotify.com/album/4DiOIV9lYzorVb8SDsO4ys) | 1:59 | 2023-06-19 |  |
+| [Presence](https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Presence](https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a) | 2:25 | 2025-08-04 |  |
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-04-28 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-28 | 2025-05-03 |
 | [Radožda](https://open.spotify.com/track/2zgdofZUkshZvKAWCEpRp5) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Radožda](https://open.spotify.com/album/183bZYoRCXy29ZX35mxFOR) | 2:25 | 2022-04-28 | 2025-05-15 |
@@ -160,6 +162,7 @@
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-04-28 |  |
 | [Slowdive](https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Slowdive](https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM) | 2:50 | 2024-07-26 |  |
 | [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 | 2025-07-21 |  |
+| [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-04 |  |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [Sparrow](https://open.spotify.com/track/2zFYk6wwcF2fTXrvsMaeEP) | [Ana Petrovna](https://open.spotify.com/artist/4g3wEGX9ERd45u8lFS7ei9) | [Sparrow](https://open.spotify.com/album/0vUq0BxoKFTGQTSK5ChdXM) | 2:10 | 2022-04-28 | 2025-05-03 |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-20 | 2024-04-19 |
@@ -174,6 +177,7 @@
 | [Sunshine memories](https://open.spotify.com/track/7mTOT3NtThBfjth797MRD1) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Sunshine memories](https://open.spotify.com/album/415BxT3uG0LXopWxVtfueb) | 1:45 | 2023-07-04 | 2025-06-11 |
 | [sérénade](https://open.spotify.com/track/4L2r0Em9lqGCDSbsxk4C1g) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [sérénade](https://open.spotify.com/album/5caaM4yQzP89GlNu2bDNQh) | 2:32 | 2025-07-21 |  |
 | [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-04-28 | 2025-06-11 |
+| [Tender Steps](https://open.spotify.com/track/3WNsw5ObrZTAQGQVd8LM0m) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Tender Steps](https://open.spotify.com/album/2xorZUQJHWqqlcAGG00PXe) | 2:24 | 2025-08-04 |  |
 | [The Beginning](https://open.spotify.com/track/3y2v4q1x9MyPQ4O12IpMUL) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [The Beginning](https://open.spotify.com/album/1su3KOYInrFNm0jFL5hoH0) | 1:59 | 2022-04-28 | 2025-05-03 |
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2022-04-28 |  |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 |  |
@@ -183,6 +187,7 @@
 | [The little princess](https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [The little princess](https://open.spotify.com/album/6MzCfFeBDf9Ci669LpjrCF) | 2:05 | 2023-06-19 |  |
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2022-04-28 |  |
 | [The Relaxing Gem](https://open.spotify.com/track/5REKUW4QDSYOIeL68o5bUH) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [The Relaxing Gem](https://open.spotify.com/album/6LM72L5zfSMbFq0LtG3HRs) | 1:58 | 2025-06-10 |  |
+| [The Road Leading Home](https://open.spotify.com/track/6MjhNXAhiZn5q8233Uzxn7) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [The Road Leading Home](https://open.spotify.com/album/787Zif3QbLeV0K7IDRKgnp) | 2:36 | 2025-08-04 |  |
 | [The Sound of Light](https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [The Sound of Light](https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF) | 2:33 | 2025-05-14 |  |
 | [Timeless](https://open.spotify.com/track/2iKJY18ZbvwC6rGIGh1pIE) | [Allister Romans](https://open.spotify.com/artist/2iXh00erHUEAsyIw0s2UGh) | [Timeless](https://open.spotify.com/album/465XayPaIKMC649uN3VNIE) | 2:26 | 2022-04-28 | 2022-07-21 |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-28 |  |

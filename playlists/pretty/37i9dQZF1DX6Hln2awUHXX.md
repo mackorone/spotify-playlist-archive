@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain]
 
 > An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,213 likes - 61 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,223 likes - 61 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain]
 | 60 | [Lohengrin, WWV 75: Mein lieber Schwan!](https://open.spotify.com/track/2WSJaKbu2e3wfM4FuJh2fz) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [James King](https://open.spotify.com/artist/5I2cYLH1KGi4ezFJ9X7JTI), [Karl Ridderbusch](https://open.spotify.com/artist/1hSpFJPxPDIHS6CTkZOEpw), [Gundula Janowitz](https://open.spotify.com/artist/2VMPE6OWfNkGhnPe4KFLgX), [Gwyneth Jones](https://open.spotify.com/artist/0AtMadeKoVSrmS6pXFObUU), [Bavarian Radio Chorus](https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m), [Heinz Mende](https://open.spotify.com/artist/5LlErCAJTvzgK6MjewVHuj), [Bavarian Radio Symphony Orchestra](https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm), [Rafael Kubelík](https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C) | [Wagner: Essentials](https://open.spotify.com/album/2J6V4iNZrA2YPl7ZA7H1tf) | 8:30 |
 | 61 | [Wesendonck Lieder, WWV 91: Der Engel](https://open.spotify.com/track/19vO5SGuRIzG8bHpgnTHee) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Jonas Kaufmann](https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB), [Orchester der Deutschen Oper Berlin](https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO), [Donald Runnicles](https://open.spotify.com/artist/3mcoDPxS0qsZgKYkNP7wua) | [Wagner](https://open.spotify.com/album/2vrUhK5YPM027kjZYmnj5O) | 3:11 |
 
-Snapshot ID: `aGP+CwAAAAC/rJjzk/PNj/C0JmBb0OKJ`
+Snapshot ID: `AAAAAC8fTWH5miw+AKGfXUscF0r+Vasl`

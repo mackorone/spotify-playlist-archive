@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1414064,
+  "num_followers": 1414153,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAAHv0qMz0Bg0KzRilRNpujV",
+  "snapshot_id": "aI6mgAAAAAAYL/hFG2g6NrifEvSsup42",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
       },
@@ -523,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
       "artists": [
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
+      "duration_ms": 156480,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "On Sight",
-      "url": "https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -595,26 +595,6 @@
       "duration_ms": 104591,
       "name": "Follow God",
       "url": "https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
-      },
-      "artists": [
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 105722,
-      "name": "BEAUTY AND THE BEAST",
-      "url": "https://open.spotify.com/track/1FLskKiqnrOZdtNSRnC7Ng"
     },
     {
       "added_at": null,
@@ -639,6 +619,26 @@
       "duration_ms": 323960,
       "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
       "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 105722,
+      "name": "BEAUTY AND THE BEAST",
+      "url": "https://open.spotify.com/track/1FLskKiqnrOZdtNSRnC7Ng"
     },
     {
       "added_at": null,
@@ -811,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
       "artists": [
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 132666,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/2lWqz0nVW5Z0awSqANtlof"
+      "duration_ms": 372113,
+      "name": "Saint Pablo",
+      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
     },
     {
       "added_at": null,
@@ -851,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 372113,
-      "name": "Saint Pablo",
-      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -884,7 +864,7 @@
       "added_at": null,
       "album": {
         "name": "BULLY",
-        "url": "https://open.spotify.com/album/13o7UWbtqb2uWuiruK4cva"
+        "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
       },
       "artists": [
         {
@@ -896,9 +876,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 142772,
-      "name": "LAST BREATH",
-      "url": "https://open.spotify.com/track/1N0xbRqkKMwyJMeVwtOQiV"
+      "duration_ms": 132666,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/2lWqz0nVW5Z0awSqANtlof"
     },
     {
       "added_at": null,
@@ -943,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/13o7UWbtqb2uWuiruK4cva"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 142772,
+      "name": "LAST BREATH",
+      "url": "https://open.spotify.com/track/1N0xbRqkKMwyJMeVwtOQiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "E.T.",
-      "url": "https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Recession",
         "url": "https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 321293,
       "name": "Put On",
       "url": "https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45"
     }
   ],
   "unique_name": "This Is Kanye West",

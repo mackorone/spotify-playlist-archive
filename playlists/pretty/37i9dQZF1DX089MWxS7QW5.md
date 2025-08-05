@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: g0nny\(거니\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,504 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,545 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 48 | [Divine](https://open.spotify.com/track/5LaprlAymyV3AHvYr6XZto) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Divine](https://open.spotify.com/album/514DtBDeNajf7d8UfFAUxU) | 2:49 |
 | 49 | [Caffeine](https://open.spotify.com/track/2Sn9FClQKj6FrBFOXbKtl7) | [Maylinn](https://open.spotify.com/artist/60CX9yGvjcDd4kcKculbMg) | [Caffeine](https://open.spotify.com/album/1qC8qEhfPZvZcgpRqCV50P) | 2:58 |
 
-Snapshot ID: `aH9PLAAAAABY6X5IhnG8p5+OZfL5iBnj`
+Snapshot ID: `aH9PLAAAAADKlIx9YPOvigGYOw0jmyaK`

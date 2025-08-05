@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dxnlXUttzpueYSwe74J2c.md) - [plain]
 
 > Mellow music for your evenings.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 1,045 likes - 125 songs - 7 hr 44 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 1,044 likes - 125 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

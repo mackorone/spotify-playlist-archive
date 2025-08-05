@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273671,
+      "name": "Method to the Madness",
+      "url": "https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN"
+    },
+    {
+      "album": {
         "name": "W.L. (Deluxe)",
         "url": "https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu"
       },

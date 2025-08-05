@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 7251,
+  "num_followers": 7271,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAC0pb7jn74H6iYIlv2am46Y",
+  "snapshot_id": "aI6mgAAAAAC7fpJztUqa++w0j5wDJcVw",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "London Summers",
-        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "London Summers",
-      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gaslight 101",
         "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 179036,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "London Summers",
+        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
     },
     {
       "added_at": null,

@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "BOMBA",
+        "url": "https://open.spotify.com/album/1e56g1NQaBAfERtl7az1n7"
+      },
+      "artists": [
+        {
+          "name": "YOUNITE",
+          "url": "https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159258,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/4UOhWJXihWNNNaDwGSUSqP"
+    },
+    {
+      "album": {
         "name": "Boogie Man",
         "url": "https://open.spotify.com/album/31nJ079frWEmOsFtYepjdw"
       },
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
@@ -5468,6 +5486,24 @@
       "duration_ms": 195813,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
+    },
+    {
+      "album": {
+        "name": "LOVE ANECDOTE(S)",
+        "url": "https://open.spotify.com/album/0hffupnkBt5Q4tP7kf2713"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "How Can I Do",
+      "url": "https://open.spotify.com/track/2e9IAFsDNri6u0t4Sf9iZ2"
     },
     {
       "album": {
@@ -9172,7 +9208,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 182133,
       "name": "poppop",
       "url": "https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU"

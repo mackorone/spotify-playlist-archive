@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 49 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 |
 | 50 | [Lost in Life](https://open.spotify.com/track/7zgFGIH7zVmIZc3Aw3iK1M) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:25 |
 | 51 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 |
-| 52 | [Never Came Back](https://open.spotify.com/track/0F0d7kqzkL3liLZghYAhRY) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Never Came Back](https://open.spotify.com/album/7lYnNiYEwLi9XZyaNz2axi) | 3:14 |
-| 53 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
+| 52 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
+| 53 | [Never Came Back](https://open.spotify.com/track/0F0d7kqzkL3liLZghYAhRY) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Never Came Back](https://open.spotify.com/album/7lYnNiYEwLi9XZyaNz2axi) | 3:14 |
 | 54 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 |
 | 55 | [The Library of Babel](https://open.spotify.com/track/34VKneosqJYPELJ8WnkDZp) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [The Library of Babel](https://open.spotify.com/album/1NjnAVH23SyDYQDMT6abrG) | 7:42 |
 | 56 | [Nowhere](https://open.spotify.com/track/3fDPr16Vfg42BPuxjI1xY4) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:04 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 123 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 124 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `Ab4i3AAAAAA+Aw8Z03QRpymj4BOpXGCe`
+Snapshot ID: `Ab4ocgAAAAALSaez3Zm0oC6qUN/AdlSI`

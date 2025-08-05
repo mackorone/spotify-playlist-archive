@@ -4,7 +4,7 @@
 
 > Éxitos de Trap Latino 📸 Eladio Carrion.
 
-553 songs - 1 day 6 hr 42 min
+554 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Humilde pero Cotizado](https://open.spotify.com/track/4K8LtrJP6kxbwuTvSqpQCf) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Humilde pero Cotizado](https://open.spotify.com/album/7jw0BTiz0RRFnjUomw562e) | 2:42 | 2022-05-27 | 2022-06-18 |
 | [Hustlers](https://open.spotify.com/track/13YSzHTwd2mc2sWMxmdc27) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Hustlers](https://open.spotify.com/album/03sozFYbar8tsEPjw1l6Dh) | 2:48 | 2024-06-07 | 2024-08-31 |
 | [Infinito al Doble](https://open.spotify.com/track/0GnAvYHtwWi1x2BosdNDf5) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Infinito al Doble](https://open.spotify.com/album/1wVslOIwbHczIgpjluf6FP) | 2:56 | 2021-12-06 | 2022-06-04 |
+| [Inmortal](https://open.spotify.com/track/0KFtEhso9Km1ViLz0hIPBC) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Inmortal](https://open.spotify.com/album/5V1lerGWL4xsuQoyIOGTDe) | 3:16 | 2025-08-04 |  |
 | [INOLVIDABLE](https://open.spotify.com/track/2YVd5KUxkBnTEtPuqFR5uc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 3:57 | 2021-12-06 | 2022-01-29 |
 | [Intro: THE GOAT](https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:04 | 2024-05-31 | 2025-01-11 |
 | [Iphone Branco](https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Iphone Branco](https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2) | 2:17 | 2022-06-03 | 2022-09-17 |

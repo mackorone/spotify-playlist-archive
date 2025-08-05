@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat Joe L, Sexmane, Jami Faltin, Chappell Roan ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,446 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,451 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 20 | [Kaaos](https://open.spotify.com/track/3sAuSGeIAXMzl1VdMXtJtD) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kaaos](https://open.spotify.com/album/7gHx6mdw2L4TAXlAAtS2LZ) | 3:06 |
 | 21 | [The Runner](https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [The Runner](https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh) | 3:42 |
 | 22 | [Shine, Glow, Glisten](https://open.spotify.com/track/5MTaywYh6VyGvSV2urrzoB) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Shine, Glow, Glisten](https://open.spotify.com/album/40QvMD3aV70QyngklC3d5h) | 3:10 |
-| 23 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 23 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 24 | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS) | 3:28 |
 | 25 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 |
 | 26 | [sunday morning](https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [sunday morning](https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ) | 2:20 |

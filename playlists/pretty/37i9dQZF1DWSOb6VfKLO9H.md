@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,402 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,439 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

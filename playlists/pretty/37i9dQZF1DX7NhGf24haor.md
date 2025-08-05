@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Dual Damage
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,915 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,024 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 89 | [Van God Los \- Official 2025 Kamping Kitsch Club Anthem](https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV) | [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Kamping Kitsch Club Soundsystem](https://open.spotify.com/artist/2DPRgxvMDx9oQNR25vUIIG), [Boerin Anna](https://open.spotify.com/artist/35DH30n3qCSB631m0Ea9X8) | [Van God Los \(Official 2025 Kamping Kitsch Club Anthem\)](https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL) | 2:45 |
 | 90 | [E\-Motion](https://open.spotify.com/track/3sRCl4cti4esxQK8Y19kXO) | [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO), [Subtraqx](https://open.spotify.com/artist/7jMo6kJUzpjKlwckoAeiVP) | [E\-Motion](https://open.spotify.com/album/7irY2slmlkaHpgbK9ACZpi) | 3:29 |
 
-Snapshot ID: `aHlyegAAAACccM3yz71MTdSbIuWD0iBR`
+Snapshot ID: `AAAAAN/mANmxzIHzrKv97GOJwMLnWjps`

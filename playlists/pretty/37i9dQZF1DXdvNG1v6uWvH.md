@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist Of Chapell Roan, Maron Birnir & ELVAR og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,338 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,342 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 23 | [Bloodtype](https://open.spotify.com/track/1M5lIbc4qRKWAuHnVBquJI) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Bloodtype](https://open.spotify.com/album/4oN6f5DEfF17PwR4ahs30V) | 2:24 |
 | 24 | [Shine, Glow, Glisten](https://open.spotify.com/track/5MTaywYh6VyGvSV2urrzoB) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Shine, Glow, Glisten](https://open.spotify.com/album/40QvMD3aV70QyngklC3d5h) | 3:10 |
 | 25 | [Darlin' \(feat\. Sean Paul & Brodie\)](https://open.spotify.com/track/3nzc4SgSCinAI09fpGaHxT) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Darlin' \(feat\. Sean Paul & Brodie\)](https://open.spotify.com/album/0ixEaoNaJMDniffs0HfMpt) | 2:34 |
-| 26 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 26 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 27 | [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:24 |
 | 28 | [Bathsheba & Him](https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bathsheba & Him](https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT) | 3:33 |
 | 29 | [Wake Up \(With You Mine\)](https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [Wake Up \(With You Mine\)](https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf) | 3:20 |

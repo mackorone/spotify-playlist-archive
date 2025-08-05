@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAACD6vDy8ok5y2qqetMMyWIK",
+  "snapshot_id": "aI6mgAAAAAAbE8ndlPH0l7uz4DwpkUhc",
   "tracks": [
     {
       "added_at": null,
@@ -619,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+        "name": "Sorry (Holland Zingt Hazes)",
+        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
       "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
         {
           "name": "Andre Hazes",
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 234533,
-      "name": "Leef Nu Maar Je Eigen Leven",
-      "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
+      "duration_ms": 220879,
+      "name": "Sorry - Holland Zingt Hazes",
+      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
     },
     {
       "added_at": null,
@@ -651,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry (Holland Zingt Hazes)",
-        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
       "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        },
         {
           "name": "Andre Hazes",
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 220879,
-      "name": "Sorry - Holland Zingt Hazes",
-      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
+      "duration_ms": 234533,
+      "name": "Leef Nu Maar Je Eigen Leven",
+      "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
     },
     {
       "added_at": null,

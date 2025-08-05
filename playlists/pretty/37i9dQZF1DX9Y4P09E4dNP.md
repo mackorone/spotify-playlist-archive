@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: Fameye
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,118 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,154 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 49 | [Do Better](https://open.spotify.com/track/3CqYU4M2gHSXybegYvquPo) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Do Better](https://open.spotify.com/album/40gTIoaMmvc21n7Q1jPZ69) | 2:38 |
 | 50 | [Too Bad](https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Too Bad / Different Place](https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8) | 3:49 |
 
-Snapshot ID: `aHmOzQAAAACtO9byyNeKyOaQUVTnXJ1g`
+Snapshot ID: `AAAAAPE9RJsiYnkdBbGxjbgdJGKPyNNn`

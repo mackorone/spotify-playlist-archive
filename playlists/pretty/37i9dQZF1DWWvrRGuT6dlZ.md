@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: NO TIME FOR SILENCE\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,034 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,035 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > Poco Lee's Detty December essentials
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,779 likes - 46 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,780 likes - 46 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 45 | [Oblee \(Remix\)](https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Oblee \(Remix\)](https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC) | 2:40 |
 | 46 | [Uhh Yeahh](https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:24 |
 
-Snapshot ID: `Z25b5QAAAAAJKFcA9wpj+ZhRfy/j4kML`
+Snapshot ID: `Z25b5QAAAAAxjVUP4IMu45uDTw1MEwdj`

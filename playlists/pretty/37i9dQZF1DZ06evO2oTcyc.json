@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 221778,
+  "num_followers": 221807,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAA2vpLxkCYfjd58/uLAJJBb",
+  "snapshot_id": "aI6mgAAAAABAnkowtaEAEpGLBvzFxbwR",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 328574,
-      "name": "FLORIDA FLOW",
-      "url": "https://open.spotify.com/track/4vqwVaEqLNWo3UXhQi5IFH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 188870,
       "name": "HVN ON EARTH (with Kodak Black)",
       "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 328574,
+      "name": "FLORIDA FLOW",
+      "url": "https://open.spotify.com/track/4vqwVaEqLNWo3UXhQi5IFH"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bill Israel",
-        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pimpin Ain't Eazy",
-      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FEMA (Finesse Elevate Motivate Achieve)",
         "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bill Israel",
+        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pimpin Ain't Eazy",
+      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lil Big Pac",
         "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
@@ -646,31 +646,15 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240274,
-      "name": "Purp",
-      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 164038,
-      "name": "MoshPit (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
+      "duration_ms": 196336,
+      "name": "Too Many Years",
+      "url": "https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK"
     },
     {
       "added_at": null,
@@ -691,6 +675,26 @@
       "duration_ms": 264531,
       "name": "Codeine Dreaming (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 164038,
+      "name": "MoshPit (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
     },
     {
       "added_at": null,
@@ -726,31 +730,11 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 196336,
-      "name": "Too Many Years",
-      "url": "https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0"
+      "duration_ms": 240274,
+      "name": "Purp",
+      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -795,6 +795,30 @@
       "duration_ms": 168312,
       "name": "Day for Day",
       "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By Myself (feat. Dj E Money & G6reddot)",
+        "url": "https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Dj E Money",
+          "url": "https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue"
+        },
+        {
+          "name": "G6reddot",
+          "url": "https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq"
+        }
+      ],
+      "duration_ms": 237223,
+      "name": "By Myself (feat. Dj E Money & G6reddot)",
+      "url": "https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj"
     },
     {
       "added_at": null,
@@ -827,30 +851,6 @@
       "duration_ms": 130929,
       "name": "If I'm Lyin', I'm Flyin'",
       "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By Myself (feat. Dj E Money & G6reddot)",
-        "url": "https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Dj E Money",
-          "url": "https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue"
-        },
-        {
-          "name": "G6reddot",
-          "url": "https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq"
-        }
-      ],
-      "duration_ms": 237223,
-      "name": "By Myself (feat. Dj E Money & G6reddot)",
-      "url": "https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj"
     },
     {
       "added_at": null,

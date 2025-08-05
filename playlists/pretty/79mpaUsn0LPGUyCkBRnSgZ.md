@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 554 songs - 1 day 12 hr 8 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 555 songs - 1 day 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -562,5 +562,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 552 | [J & J](https://open.spotify.com/track/5pZxlslpcJfWZS7Hg5yAK2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Mainframe](https://open.spotify.com/artist/6KOrnW75O2TRNDXzHSXm9h) | [Johnson & Jonson](https://open.spotify.com/album/1bTbPZOjvjsNRD1EKTKt1h) | 4:21 |
 | 553 | [Across My Jaw](https://open.spotify.com/track/2dYwmQKGTqHEFEafnNwr60) | [Dan English](https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh) | [Sky Record](https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y) | 3:33 |
 | 554 | [little](https://open.spotify.com/track/5mOLwb99LIMkgVwNqBNhH8) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 0:48 |
+| 555 | [Dedicated To The World](https://open.spotify.com/track/7mrg21PgRujbDGdMhZZNFL) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 3:02 |
 
-Snapshot ID: `AAAHbqheU8PAZjbZ8wTiSP/8rXgOLUBC`
+Snapshot ID: `AAAHb7kLGhwNKq4/FKRlqpx4U6p8FyW/`

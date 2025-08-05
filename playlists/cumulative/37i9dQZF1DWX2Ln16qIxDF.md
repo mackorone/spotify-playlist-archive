@@ -4,7 +4,7 @@
 
 > Canciones que tenes que escuchar  📸 Maria Becerra.
 
-849 songs - 1 day 19 hr 19 min
+850 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Cuarteto Sessions \#3](https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Cuarteto Sessions \#3](https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA) | 8:20 | 2024-02-16 | 2025-04-12 |
 | [Cuchi Cuchi](https://open.spotify.com/track/42rwnXA394j5b1pdGQUMCn) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Cuchi Cuchi](https://open.spotify.com/album/1wWpYZCZGGxUl3IvvghPFJ) | 2:37 | 2023-08-25 | 2023-09-08 |
 | [Cuidado Que Te Supero](https://open.spotify.com/track/1e4Tx54QsKMoHdHsZCEFM3) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Cuidado Que Te Supero](https://open.spotify.com/album/4W2q8WrlRkTXxo3W8iUNtQ) | 2:34 | 2025-05-02 | 2025-07-26 |
+| [Cuidado Que Te Supero](https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Cuidado Que Te Supero](https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY) | 3:45 | 2025-08-04 |  |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-05-12 | 2023-06-03 |
 | [Dale Mecha](https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dale Mecha](https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F) | 2:30 | 2023-05-12 | 2023-11-25 |
 | [DALLAX](https://open.spotify.com/track/4cZiqNmLWLoAx67ENn53YG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DALLAX](https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM) | 2:30 | 2025-03-31 | 2025-07-12 |

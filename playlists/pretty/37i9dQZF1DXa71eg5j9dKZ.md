@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,899 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,885 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
 | 100 | [Generator](https://open.spotify.com/track/3FV2AQ5XPCCXqHvalR7SMA) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Generator EP](https://open.spotify.com/album/0fjFfo4fjXex8kNyEu4CZ0) | 4:57 |
 
-Snapshot ID: `AAAAALGv6GGs4iqwLJ0g2zp40wmTIt7+`
+Snapshot ID: `aIv1fAAAAACv3gvWmvVlu4h9Uei5ax2Y`

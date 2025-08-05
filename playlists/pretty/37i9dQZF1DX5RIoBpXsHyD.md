@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 
 > Unleash the power of Persona and immerse yourself in the world of this epic RPG series with this\. 『ペルソナ３リロード: Episode Aegis』を含む、ペルソナシリーズの世界に浸れる公式プレイリスト！ⒸATLUS\. ⒸSEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,294 likes - 87 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,333 likes - 87 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 | 86 | [Cinematic Tale](https://open.spotify.com/track/0zICS9wKt46JavXyL1Rp1G) | [川村ゆみ](https://open.spotify.com/artist/55yEcpOYHnvIFiQGqN4t6U), [藤田真由美](https://open.spotify.com/artist/39YYbQMUCjxvV2VQ1mzrR1), [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX), [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [ペルソナQ2 ニュー シネマ ラビリンス オリジナル・サウンドトラック](https://open.spotify.com/album/1bZGyKmn3Q96g3BoCkkRED) | 3:59 |
 | 87 | [colorful world](https://open.spotify.com/track/6LBZrnKeCBQT0gu5OPQSjN) | [川村ゆみ](https://open.spotify.com/artist/55yEcpOYHnvIFiQGqN4t6U), [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX), [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [ペルソナQ2 ニュー シネマ ラビリンス オリジナル・サウンドトラック](https://open.spotify.com/album/1bZGyKmn3Q96g3BoCkkRED) | 5:25 |
 
-Snapshot ID: `ZulP/gAAAAC6fnfY7HgG1Ywwj/kkRoqj`
+Snapshot ID: `AAAAAJWcBAQjRoWXOpDm6l4E3e+qVHA/`

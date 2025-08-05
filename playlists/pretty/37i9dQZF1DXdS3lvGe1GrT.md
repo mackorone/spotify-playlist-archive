@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Celebrating 10 years of the best new folk music from independent artists\. Cover: Cleo Reed
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Cleo Reed
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,947 likes - 130 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,973 likes - 130 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 129 | [Seasons](https://open.spotify.com/track/2MRbM2lCVSZD8n5OMhHLTQ) | [Chris Wallace](https://open.spotify.com/artist/4uvONBnmpTsvWRG0eEh87r) | [Seasons](https://open.spotify.com/album/4OUuAZUw7uXRbxfxRk6ab5) | 2:42 |
 | 130 | [New Number](https://open.spotify.com/track/69VlydpqC3ZOntX3sf2Izs) | [Sianon](https://open.spotify.com/artist/4ZGKNVN3vAyIWr5lsQFVxZ) | [New Number](https://open.spotify.com/album/4R6lg2DhqASfXBXJp1h6ox) | 4:17 |
 
-Snapshot ID: `aIET3gAAAAD/onBYqD2GkrXnIVjgS3Qz`
+Snapshot ID: `aJDs4AAAAADSlB0jl8THDPv2Hhr9Pg7q`

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 888360,
+  "num_followers": 888388,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAC8yAa6TODFNeuPk+blhdMW",
+  "snapshot_id": "aI6mgAAAAAAb3dM7H78WjaH6xd8hO1hN",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
-        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
+        "name": "Dreams Worth More Than Money",
+        "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
       "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 227560,
-      "name": "The Night Is Still Young",
-      "url": "https://open.spotify.com/track/75u9uswC5UMdtv4SQ3xSYf"
+      "duration_ms": 223973,
+      "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
     },
     {
       "added_at": null,
@@ -247,26 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreams Worth More Than Money",
-        "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
+        "name": "The Pinkprint (International Deluxe Explicit)",
+        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
       },
       "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 223973,
-      "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
+      "duration_ms": 227560,
+      "name": "The Night Is Still Young",
+      "url": "https://open.spotify.com/track/75u9uswC5UMdtv4SQ3xSYf"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Chun-Li",
-      "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love (Remix)",
         "url": "https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9"
       },
@@ -583,38 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich Gang (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB"
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
       "artists": [
         {
-          "name": "Rich Gang",
-          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Birdman",
-          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
-        },
-        {
-          "name": "Mack Maine",
-          "url": "https://open.spotify.com/artist/18AOdS1Qw4XXnQSiPJQr1B"
-        },
-        {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 284586,
-      "name": "Tapout",
-      "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
+      "duration_ms": 191600,
+      "name": "Chun-Li",
+      "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
     },
     {
       "added_at": null,
@@ -655,6 +619,42 @@
       "duration_ms": 325614,
       "name": "Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",
       "url": "https://open.spotify.com/track/6ezg5Mm5UEEi3Oqsbb7Cjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rich Gang (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB"
+      },
+      "artists": [
+        {
+          "name": "Rich Gang",
+          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "name": "Mack Maine",
+          "url": "https://open.spotify.com/artist/18AOdS1Qw4XXnQSiPJQr1B"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 284586,
+      "name": "Tapout",
+      "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kissing Strangers",
-        "url": "https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 234333,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kissing Strangers",
+        "url": "https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Kissing Strangers",
+      "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
     },
     {
       "added_at": null,

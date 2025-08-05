@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62975,
+  "num_followers": 62981,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAAqPiCHQfiPg4Ksj8WJoupo",
+  "snapshot_id": "aI6mgAAAAABF8bcJNU+qesZdeX7z8x4d",
   "tracks": [
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 279826,
-      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gloria A Deus",
         "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 379803,
       "name": "Maravilhado",
       "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 279826,
+      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 826880,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00fasica e Palavra (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
       },
@@ -955,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ousado Amor",
-        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
       },
       "artists": [
         {
@@ -964,9 +980,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 826880,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+      "duration_ms": 407000,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
     },
     {
       "added_at": null,
@@ -983,22 +999,6 @@
       "duration_ms": 331306,
       "name": "Incompar\u00e1vel - Ao Vivo",
       "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Mais Escravos",
-        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "N\u00e3o Mais Escravos",
-      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
+        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 427917,
-      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
+      "duration_ms": 508432,
+      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
+      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

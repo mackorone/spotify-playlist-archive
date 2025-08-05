@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142361,
+      "name": "servidora \ud83d\udd76\ufe0f",
+      "url": "https://open.spotify.com/track/5PqINo0dGJTCyNXcBomwsb"
+    },
+    {
+      "album": {
         "name": "servidora \ud83d\udd76\ufe0f",
         "url": "https://open.spotify.com/album/01wueU0QUElPyE1GmymglY"
       },
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 142361,
       "name": "servidora \ud83d\udd76\ufe0f",
       "url": "https://open.spotify.com/track/6x6CoOGyNqDcPx96paNGSQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Sheila Majid, yung kai, Faizal Tahir,  Henry Moodie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,266 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,260 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 72 | [寻找梦（超级宝贝2025主题曲）](https://open.spotify.com/track/0fd2Ggyjf27pnT0oxVswOE) | [Zyann](https://open.spotify.com/artist/6szARpNac5jGl7hBsby0kZ) | [寻找梦](https://open.spotify.com/album/2WAx4u1GJh3gcU6wQfzips) | 4:00 |
 | 73 | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/track/00MUcb9hu2ADEcC9LR16Ha) | [鱼惺味](https://open.spotify.com/artist/7AMQEk5MoxhbLmZrXwtZ6X) | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/album/7JETECMEUMKSjmWZlIcoKo) | 4:18 |
 | 74 | [Gone](https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Gone](https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9) | 4:01 |
-| 75 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 75 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 76 | [running](https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 3:50 |
 | 77 | [What About Love](https://open.spotify.com/track/4X363jPq3db7ODossYt3l7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:37 |
 | 78 | [UNETHICAL](https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [UNETHICAL](https://open.spotify.com/album/7JGdeYz3PWV1n79hAUxhTc) | 3:39 |

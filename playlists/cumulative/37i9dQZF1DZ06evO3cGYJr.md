@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-118 songs - 6 hr 1 min
+119 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [City Lines \- 2021 Version](https://open.spotify.com/track/3p4vObjU7Er7Hh27vPGMgN) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:41 | 2025-02-03 | 2025-08-02 |
 | [Cleaved](https://open.spotify.com/track/1MbCCV9wmYRxeNCUnGTHnX) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:14 | 2025-02-11 | 2025-07-03 |
 | [Cleaved](https://open.spotify.com/track/7rE3RYWNKCOpqMJrQGcTBC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [ALTERED FUTURE: HALCYON PT.I](https://open.spotify.com/album/5LQdUz31WT8U1BfajznbHg) | 3:14 | 2024-12-14 | 2025-06-16 |
-| [CONFUS1NG](https://open.spotify.com/track/1G07gbwkIQXRYXBQC6cnmG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 2:04 | 2025-08-04 |  |
+| [CONFUS1NG](https://open.spotify.com/track/1G07gbwkIQXRYXBQC6cnmG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 2:04 | 2025-08-04 | 2025-08-05 |
 | [CONFUS1NG](https://open.spotify.com/track/4xZdfb97GXnH8ZlWNYNkcq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 2:04 | 2024-12-14 | 2025-07-25 |
 | [D1FFERENT](https://open.spotify.com/track/3smXPUJkQdHnodtGjGA5DC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:46 | 2025-01-19 | 2025-03-28 |
 | [D1FFERENT \(INTRO\)](https://open.spotify.com/track/43pus1gZHRnJ73PvkX2orL) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 2:46 | 2024-12-14 | 2025-08-03 |
@@ -67,6 +67,7 @@
 | [Give it up](https://open.spotify.com/track/4XaaW3qfaXeHqbFfazrJnj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [scrubi](https://open.spotify.com/artist/4Mz7QIwe9O2ZXzpDWIwNWu) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 3:04 | 2025-06-18 |  |
 | [Give it up](https://open.spotify.com/track/61SSsw33TH5Vmsj8VBsObe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [scrubi](https://open.spotify.com/artist/4Mz7QIwe9O2ZXzpDWIwNWu) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:04 | 2025-03-23 | 2025-06-12 |
 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 | 2024-12-29 |  |
+| [Halcyon](https://open.spotify.com/track/0StvsZs3EbWGSINUC5NEUT) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [N E H O C](https://open.spotify.com/artist/5r2xS9xwGZzfuXovIyrm8f), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:40 | 2025-08-05 |  |
 | [Halcyon](https://open.spotify.com/track/3eAMZYxihi4IQomVVBqDep) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [N E H O C](https://open.spotify.com/artist/5r2xS9xwGZzfuXovIyrm8f), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:40 | 2024-12-14 | 2025-08-03 |
 | [haunting](https://open.spotify.com/track/40uQ2xkYJ2RwCFNz4b2Ikl) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:47 | 2025-06-23 | 2025-06-25 |
 | [haunting](https://open.spotify.com/track/44qerQcxwwrUYdAqMtCi8W) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:47 | 2025-04-12 | 2025-05-07 |

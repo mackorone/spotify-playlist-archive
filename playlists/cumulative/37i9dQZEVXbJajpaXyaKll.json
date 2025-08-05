@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "3 Some",
+        "url": "https://open.spotify.com/album/3v6OHUkFIBDvZzQVUbeM0e"
+      },
+      "artists": [
+        {
+          "name": "MIHAEL",
+          "url": "https://open.spotify.com/artist/5hltTBEG3itRi13wdEtv9Y"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227312,
+      "name": "3 Some",
+      "url": "https://open.spotify.com/track/7uuMiNxOTPXMO3XAIqjOJB"
+    },
+    {
+      "album": {
         "name": "30 Grados",
         "url": "https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg"
       },
@@ -6280,7 +6298,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 241648,
       "name": "COQUETA",
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
@@ -10588,7 +10606,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 132922,
       "name": "FAMOSINHA",
       "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
@@ -11582,7 +11600,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -19376,7 +19394,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 302647,
       "name": "Mr. Crowley",
       "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
@@ -30248,7 +30266,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 84977,
       "name": "TRALALERO TRALALA x Sigma Boy",
       "url": "https://open.spotify.com/track/6cOQaNa4pcL7mLRK2vIJBA"

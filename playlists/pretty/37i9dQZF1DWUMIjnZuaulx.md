@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,602 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,669 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Better than Life \- Live](https://open.spotify.com/track/4MrCvonLoLGsQZpu69EJaz) | [Vizion Worship](https://open.spotify.com/artist/50U7PStTJa45DXDnGt6Cy0), [Katrina Houston](https://open.spotify.com/artist/10yRCRMqHkgFSSrXEcJqeE) | [Better than Life \(Live\)](https://open.spotify.com/album/4zcsi3YBVPTItEHMOyvguC) | 4:20 |
 | 100 | [Hosanna \(Blessed Be The Rock\) \- Live](https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof) | [Randy Weston](https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Testimony Service \(Live\)](https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0) | 4:09 |
 
-Snapshot ID: `aIy0cAAAAACiy5p2tqtMExsxz6YbPSU+`
+Snapshot ID: `AAAAAJsBsPJY1QqArGUcV71olWD9Lp13`

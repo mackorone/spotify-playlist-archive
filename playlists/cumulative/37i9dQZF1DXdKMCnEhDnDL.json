@@ -936,7 +936,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 218906,
       "name": "Bemin Me Later (uit Liefde Voor Muziek)",
       "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 162400,
       "name": "Dag & Nacht",
       "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
@@ -4382,6 +4382,28 @@
     {
       "album": {
         "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/6z9xi38DbqJntYApAwfhM5"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Line De Dauw",
+          "url": "https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/3xRjrioxJQIjfJmGYxtyKR"
+    },
+    {
+      "album": {
+        "name": "Met Of Zonder Jou",
         "url": "https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT"
       },
       "artists": [
@@ -4646,6 +4668,24 @@
       "duration_ms": 158604,
       "name": "Morgen Wordt Fantastisch",
       "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
+    },
+    {
+      "album": {
+        "name": "Morning Dawns Again",
+        "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238699,
+      "name": "Morning Dawns Again",
+      "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 136967,
+  "num_followers": 136982,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAC/0CwbjF0l20LlBk2pai4X",
+  "snapshot_id": "aI6mgAAAAAC4Cuw3cZ6nx6XtLYrnZEBa",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 145375,
-      "name": "Seguimos Dando Lata",
-      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reyes Magos",
         "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 128000,
       "name": "Reyes Magos",
       "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 145375,
+      "name": "Seguimos Dando Lata",
+      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,
@@ -523,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Line Up",
-        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
       "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 188481,
-      "name": "Vara Alta",
-      "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
+      "duration_ms": 241785,
+      "name": "Distinta Movida",
+      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
     },
     {
       "added_at": null,
@@ -575,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+        "name": "The Line Up",
+        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
       "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 241785,
-      "name": "Distinta Movida",
-      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
+      "duration_ms": 188481,
+      "name": "Vara Alta",
+      "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Tirano (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triple L",
-          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 186147,
-      "name": "Amor Tirano",
-      "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Line Up",
         "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 157909,
       "name": "De La Calle (Remix)",
       "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Tirano (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triple L",
+          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 186147,
+      "name": "Amor Tirano",
+      "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Siempre Activo",
-      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 137769,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Siempre Activo",
+      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
     },
     {
       "added_at": null,

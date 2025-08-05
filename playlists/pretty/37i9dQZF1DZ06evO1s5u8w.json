@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 196738,
+  "num_followers": 196764,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAADI8x+5g/lRZlYHpwet38YX",
+  "snapshot_id": "aI6mgAAAAADlGCHpi5mGGR3518uA5ZOC",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 332093,
-      "name": "(Nothing But) Flowers - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -299,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
       },
       "artists": [
         {
@@ -308,9 +292,25 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 349280,
-      "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
+      "duration_ms": 332093,
+      "name": "(Nothing But) Flowers - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Uh-Oh, Love Comes to Town - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ziWFozxLNQH76CGGizB32"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 169466,
-      "name": "Uh-Oh, Love Comes to Town - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ziWFozxLNQH76CGGizB32"
+      "duration_ms": 349280,
+      "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
     },
     {
       "added_at": null,

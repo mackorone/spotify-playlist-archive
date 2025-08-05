@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "After Sky",
+        "url": "https://open.spotify.com/album/2HIcAjp3OfgYbUWEjqiHV2"
+      },
+      "artists": [
+        {
+          "name": "Drifreda",
+          "url": "https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159352,
+      "name": "After Sky",
+      "url": "https://open.spotify.com/track/7JWthkhacSL9OxUvQu0lRB"
+    },
+    {
+      "album": {
         "name": "Aguachile",
         "url": "https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ"
       },

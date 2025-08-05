@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,710 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,714 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Angel in Disguise \- Spotify Singles](https://open.spotify.com/track/6As4ASyAXTOuzub0MOligf) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Rodney Jerkins](https://open.spotify.com/artist/33b5NkaZsL1YoW7pO19Sc7) | [Angel in Disguise \- Spotify Singles](https://open.spotify.com/album/0uGn4uXVGKMPb5F4ZHdnx6) | 4:02 |
 | 80 | [Flowers and Butterfly](https://open.spotify.com/track/0TnZDDsrZJHf05NMM6YkJW) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flowers and Butterfly](https://open.spotify.com/album/0a4ChujBi0qpoWUmu405J4) | 4:05 |
 
-Snapshot ID: `aIuFCAAAAACva+SpZzHo9PGrpcxNpCxy`
+Snapshot ID: `AAAAABVtGB0PqzChLIbvvFd8o5mb0A3V`

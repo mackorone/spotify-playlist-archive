@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > Almost forgot that this was the whole point ∼ all the best instrumentals & sounds from the internet 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,106 likes - 115 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,300 likes - 115 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 11 | [Outro](https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry up, We're Dreaming](https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG) | 4:07 |
 | 12 | [childhood](https://open.spotify.com/track/06dDLXf4gPbE02gvH8E6G9) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [childhood](https://open.spotify.com/album/3n3DgKUDa2UqJlLzMOQMXj) | 2:09 |
 | 13 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 |
-| 14 | [Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Killswitch Lullaby](https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E) | 2:27 |
-| 15 | [golden hour \- Orchestral Version\) \(Instrumental](https://open.spotify.com/track/4gLtQPqNB58yqdVCRyPpZ4) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour \(Orchestral Version\)](https://open.spotify.com/album/2AYh5fLMxNGcmSB1rANFfJ) | 3:31 |
-| 16 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/61YM5SkqqeUjIBL7It56cs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Bordas](https://open.spotify.com/artist/3dfj7lu33WXUMWOlFcybXM) | [JUST THE BEST MUSIC Vol\. 2 Solo Piano Relax Playlist](https://open.spotify.com/album/5aftlLJi5cmXRnPQjwUak2) | 5:02 |
-| 17 | [New Home](https://open.spotify.com/track/4YU1TYJM667l0wfKsa5zwN) | [Matti Paalanen](https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1), [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [Piano for Reels](https://open.spotify.com/album/2DimA4FGM0mjtDq3ZkoMw5) | 1:12 |
-| 18 | [To Build a Home \- Instrumental Version](https://open.spotify.com/track/7dZ90SiAB4KFm2UUmRNmnQ) | [Nick Squires](https://open.spotify.com/artist/3oT8qO8OOP7DgaxBVBzeBb), [London Music Works](https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB) | [To Build a Home \(Instrumental Version\)](https://open.spotify.com/album/2dzPOv3kkFIxurNrae2GAr) | 4:01 |
-| 19 | [my love mine all mine \- piano instrumental](https://open.spotify.com/track/46F1Ugbswy8P9taYlmAzmn) | [Chilled Pig](https://open.spotify.com/artist/1m7V9rstnZ264nGJe9MDUq) | [Relaxing Piano Pop Covers 2023 \(Vol.5\)](https://open.spotify.com/album/5kYSUzr1mb658wvM50BxVx) | 1:36 |
-| 20 | [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 |
-| 21 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 |
+| 14 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/61YM5SkqqeUjIBL7It56cs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Bordas](https://open.spotify.com/artist/3dfj7lu33WXUMWOlFcybXM) | [JUST THE BEST MUSIC Vol\. 2 Solo Piano Relax Playlist](https://open.spotify.com/album/5aftlLJi5cmXRnPQjwUak2) | 5:02 |
+| 15 | [Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Killswitch Lullaby](https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E) | 2:27 |
+| 16 | [New Home](https://open.spotify.com/track/4YU1TYJM667l0wfKsa5zwN) | [Matti Paalanen](https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1), [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [Piano for Reels](https://open.spotify.com/album/2DimA4FGM0mjtDq3ZkoMw5) | 1:12 |
+| 17 | [To Build a Home \- Instrumental Version](https://open.spotify.com/track/7dZ90SiAB4KFm2UUmRNmnQ) | [Nick Squires](https://open.spotify.com/artist/3oT8qO8OOP7DgaxBVBzeBb), [London Music Works](https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB) | [To Build a Home \(Instrumental Version\)](https://open.spotify.com/album/2dzPOv3kkFIxurNrae2GAr) | 4:01 |
+| 18 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 |
+| 19 | [golden hour \- Orchestral Version\) \(Instrumental](https://open.spotify.com/track/4gLtQPqNB58yqdVCRyPpZ4) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour \(Orchestral Version\)](https://open.spotify.com/album/2AYh5fLMxNGcmSB1rANFfJ) | 3:31 |
+| 20 | [my love mine all mine \- piano instrumental](https://open.spotify.com/track/46F1Ugbswy8P9taYlmAzmn) | [Chilled Pig](https://open.spotify.com/artist/1m7V9rstnZ264nGJe9MDUq) | [Relaxing Piano Pop Covers 2023 \(Vol.5\)](https://open.spotify.com/album/5kYSUzr1mb658wvM50BxVx) | 1:36 |
+| 21 | [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 |
 | 22 | [stellar](https://open.spotify.com/track/2PpYJcgJN6PzozUv7rU669) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [stellar](https://open.spotify.com/album/4gF0aKdd26DsLMbDcLdJdc) | 1:39 |
 | 23 | [Kitchen Fan Lullaby \(Raw\)](https://open.spotify.com/track/2jGlG8sAuZkWxOjMMTlZHC) | [Claire Boyer](https://open.spotify.com/artist/6r6rfdIwKZOJBYaQHBs7yp) | [Kitchen Fan Lullaby \(Raw\)](https://open.spotify.com/album/70mv2rOaMfu4apLtT26Iib) | 1:39 |
 | 24 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 114 | [I'm here.](https://open.spotify.com/track/1xC2XNZCIlmfuCDTF9b2bu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [I'm here.](https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i) | 2:37 |
 | 115 | [Elevator Music](https://open.spotify.com/track/5WIHTBujvgqKbbOp1mWQiz) | [Bohoman](https://open.spotify.com/artist/64kcpTMl9ldPMoUQzUh6LL) | [Elevator Music](https://open.spotify.com/album/4JELBhwdQUdAD6JcrlvuWx) | 2:48 |
 
-Snapshot ID: `aHi76gAAAAAtCgOmDVbUSihCzj4IVhLo`
+Snapshot ID: `aJB0nAAAAAA5J/O23w5VK3wD2+wb5sp3`

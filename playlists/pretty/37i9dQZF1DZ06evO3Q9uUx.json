@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15597,
+  "num_followers": 15598,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAC5WlxaKO2C2EK/SSq6uWc4",
+  "snapshot_id": "aI6mgAAAAACixHTDnnj6VDCVEM2XPpkK",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "blame the chat",
-        "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "fine shyt (feat. BIA)",
-      "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 194675,
       "name": "MILANO",
       "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blame the chat",
+        "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 139680,
+      "name": "fine shyt (feat. BIA)",
+      "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
     },
     {
       "added_at": null,
@@ -579,38 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
-        "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 231325,
-      "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
-      "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Freaky Girl (Queen Mix)",
         "url": "https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 234899,
       "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
       "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
+        "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 231325,
+      "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
+      "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End of an Era",
-        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
-      },
-      "artists": [
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 170899,
-      "name": "Is That Right",
-      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -871,38 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
+        "name": "The End of an Era",
+        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
       "artists": [
         {
-          "name": "DJ Bliss",
-          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 141533,
-      "name": "808",
-      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "MILLIONS",
-      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+      "duration_ms": 170899,
+      "name": "Is That Right",
+      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
     },
     {
       "added_at": null,
@@ -927,6 +891,42 @@
       "duration_ms": 172078,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
+      },
+      "artists": [
+        {
+          "name": "DJ Bliss",
+          "url": "https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "808",
+      "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
     },
     {
       "added_at": null,

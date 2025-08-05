@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Celebrate the season with your favorite bluegrass artists from yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,972 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,971 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

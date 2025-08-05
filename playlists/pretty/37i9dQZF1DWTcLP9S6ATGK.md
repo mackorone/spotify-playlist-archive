@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Daun Jatuh, Grace Kaitlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,703 likes - 115 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,705 likes - 115 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

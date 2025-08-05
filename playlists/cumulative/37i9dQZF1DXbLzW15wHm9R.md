@@ -4,7 +4,7 @@
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Superman
 
-131 songs - 7 hr 18 min
+133 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2024-01-13 | 2024-05-23 |
 | [Are You with Me Now?](https://open.spotify.com/track/7JSKAwskeR9SGtwJdarODc) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Mug Museum](https://open.spotify.com/album/5xXP2gI8U35p389RggZW6O) | 4:20 | 2025-07-16 |  |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2024-01-13 | 2024-06-15 |
+| [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn) | 2:37 | 2025-08-05 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2) | 2:26 | 2024-10-11 |  |
 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2025-02-25 |  |
 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 | 2024-01-13 | 2024-10-12 |
@@ -136,6 +137,7 @@
 | [Yeah x10](https://open.spotify.com/track/0kqLsYEktElJRKFprEiJsI) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 2:38 | 2024-05-03 | 2024-06-15 |
 | [Yes No Okay](https://open.spotify.com/track/6GQzzmWX9hUV23fyhbFNm7) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BOTTOMS \(Original Motion Picture Score\)](https://open.spotify.com/album/48ZXLW2ZEThXeScpsxelMa) | 3:04 | 2024-01-13 | 2024-01-31 |
 | [You Belong With Me](https://open.spotify.com/track/6dpjJIWTgTJQyviasKWjk4) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Three \(Covers from the Netflix Series\)](https://open.spotify.com/album/2euYqZ4wqxj9dPRzkkZxgd) | 4:01 | 2024-06-14 | 2024-11-13 |
+| [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 | 2025-08-05 |  |
 | [You Found Me \(From the Netflix Series "Too Much"\)](https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [You Found Me](https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ) | 4:13 | 2025-07-16 |  |
 | [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [You'll Be OK, Kid \(From the Original Documentary “Child Star”\)](https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK) | 2:46 | 2024-09-13 | 2025-03-04 |
 | [Your Man](https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 2:43 | 2025-02-25 |  |

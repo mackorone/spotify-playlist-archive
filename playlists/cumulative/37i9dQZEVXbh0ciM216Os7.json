@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "album": {
         "name": "Stories From The Western Front",
         "url": "https://open.spotify.com/album/7x74AsZWhJloc6tKOF7Nty"
       },
@@ -15486,7 +15504,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 195107,
       "name": "Entertain",
       "url": "https://open.spotify.com/track/4yP7Qvd8pqf9PPD2vwWxLD"
@@ -29940,7 +29958,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 153516,
       "name": "Let's Go (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/7xCHPhRSF5SZIjwQHg01Qa"
@@ -34954,7 +34972,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 170941,
       "name": "my mind is a mountain",
       "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
@@ -36332,7 +36350,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 154447,
       "name": "NO TRUST - with Snoop Dogg",
       "url": "https://open.spotify.com/track/2bPqQy1jrs0Gpd75tMCgaK"
@@ -39246,7 +39264,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 163834,
       "name": "Payback Is A Bitch (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/5ncdJMzIJrUrH2JTVL73Dd"

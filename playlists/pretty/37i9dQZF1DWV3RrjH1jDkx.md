@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Bausa!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,208 likes - 106 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,210 likes - 106 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

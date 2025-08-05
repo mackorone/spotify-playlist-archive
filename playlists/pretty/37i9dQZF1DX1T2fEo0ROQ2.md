@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,501 likes - 250 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,554 likes - 250 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 249 | [Outer Landscape](https://open.spotify.com/track/3Ok08TYWMM3Fl655SAZ3jS) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Outer Landscape](https://open.spotify.com/album/19gKIWbf29Kb71g9xoKVjt) | 2:34 |
 | 250 | [Minutes](https://open.spotify.com/track/4zIyhdolfQSwPrclbLyvUT) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Minutes](https://open.spotify.com/album/3WNhmBvd5KGFOW2vPEFNkR) | 2:28 |
 
-Snapshot ID: `aIIA+wAAAAAWxYVl3Of4+KD3dFG6KD/F`
+Snapshot ID: `AAAAAHwxuFmdy5AXkCm0FDzuFp82EfLs`

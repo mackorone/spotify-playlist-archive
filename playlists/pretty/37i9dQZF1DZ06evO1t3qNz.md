@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,384 likes - 35 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,466 likes - 35 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 34 | [A Little Too Drunk](https://open.spotify.com/track/61yBKW3uXN13DUax0kLZKd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:28 |
 | 35 | [Nothing Else Matters](https://open.spotify.com/track/4FowjhkBn9wwIWNgbBvlke) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 3:10 |
 
-Snapshot ID: `aI1VAAAAAAAdIKDU2PPj0JXX8Bzww6v2`
+Snapshot ID: `aI6mgAAAAABZklCluD3FRNxht3KQSKRr`

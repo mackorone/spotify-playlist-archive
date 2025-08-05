@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 158 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 158 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 64 | [Doppelgänger](https://open.spotify.com/track/1KjJfUt1UyEbZSbliSkGpi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Doppelgänger](https://open.spotify.com/album/7wUFChQwfJDOAMTBTFjBHc) | 3:14 |
 | 65 | [so sad so sexy](https://open.spotify.com/track/1hQjRldnVW3On7QzoxGlht) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:32 |
 | 66 | [Infinity](https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1 to Infinity](https://open.spotify.com/album/6kRdK7cPgLqNfSoI7AMlyj) | 3:59 |
-| 67 | [Pieces of Us \(feat\. King Princess\)](https://open.spotify.com/track/0fQf209axFXyMsV5pAhfzf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:26 |
-| 68 | [Danger](https://open.spotify.com/track/4CevWKebcrg0qzZCI6vu9c) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:55 |
+| 67 | [Danger](https://open.spotify.com/track/4CevWKebcrg0qzZCI6vu9c) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:55 |
+| 68 | [Pieces of Us \(feat\. King Princess\)](https://open.spotify.com/track/0fQf209axFXyMsV5pAhfzf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:26 |
 | 69 | [Man On The Moon](https://open.spotify.com/track/5dtec26a6yPRNJhCXeNHCW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:46 |
 | 70 | [Stay Open](https://open.spotify.com/track/2yvDDDQUmJnop6ycSqOAGf) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Stay Open](https://open.spotify.com/album/5ZAqh0eYkQBAwL8ybo6v31) | 3:30 |
 | 71 | [Goin Up \(feat\. DyCy\)](https://open.spotify.com/track/6ZXO2ZFcAFmkFoJpMIwzGa) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [DyCy](https://open.spotify.com/artist/2qdqYad94Al0HLIgmUGQM5) | [Goin Up \(feat\. DyCy\)](https://open.spotify.com/album/2xNyHrIBEJynLhUMtylDYZ) | 2:42 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 157 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 158 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `Ab4i3AAAAACMxBjZZtnZZCkE0u1a9bcE`
+Snapshot ID: `Ab4ohgAAAAArDdc0yn05wGx/OspakvGU`

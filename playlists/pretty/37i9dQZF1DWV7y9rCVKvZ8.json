@@ -1,29 +1,13 @@
 {
   "description": "Jadi lebih produktif ditemani musik terkini",
-  "num_followers": 149081,
+  "num_followers": 149087,
   "original_name": "Lebih Produktif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIbiMAAAAAANT9OGjunBhKgyqeV2WW8W",
+  "snapshot_id": "aJAvjwAAAAB4FtAM2l8cMRsBVeyvaY2d",
   "tracks": [
-    {
-      "added_at": "2025-06-16 07:25:32",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
     {
       "added_at": "2025-07-28 02:36:32",
       "album": {
@@ -39,38 +23,6 @@
       "duration_ms": 309293,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/6cebiKUXkoLYlaxzDfEPtS"
-    },
-    {
-      "added_at": "2025-06-30 06:50:29",
-      "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2025-06-16 07:25:32",
-      "album": {
-        "name": "Membangun & Menghancurkan",
-        "url": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
-      },
-      "artists": [
-        {
-          "name": ".Feast",
-          "url": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
-        }
-      ],
-      "duration_ms": 288981,
-      "name": "Tarot",
-      "url": "https://open.spotify.com/track/4XHijJfABTtUCW3Bp6KFvr"
     },
     {
       "added_at": "2025-07-28 02:36:32",
@@ -89,20 +41,52 @@
       "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
     },
     {
-      "added_at": "2025-07-28 02:15:00",
+      "added_at": "2025-06-16 07:25:32",
       "album": {
-        "name": "All This To Say I Love You",
-        "url": "https://open.spotify.com/album/79nYzVvNLxJ9WRt0cKDRsg"
+        "name": "Membangun & Menghancurkan",
+        "url": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
       },
       "artists": [
         {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+          "name": ".Feast",
+          "url": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Who Knew Dancing Was A Sin",
-      "url": "https://open.spotify.com/track/17zEsC34uYNTkV7UuSbd2D"
+      "duration_ms": 288981,
+      "name": "Tarot",
+      "url": "https://open.spotify.com/track/4XHijJfABTtUCW3Bp6KFvr"
+    },
+    {
+      "added_at": "2025-06-16 07:25:32",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2025-06-30 06:50:29",
+      "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2025-07-15 02:59:44",
@@ -119,6 +103,38 @@
       "duration_ms": 335612,
       "name": "Rona Merah Langit",
       "url": "https://open.spotify.com/track/2qLERqFBztNjBKuZNMaqQK"
+    },
+    {
+      "added_at": "2025-07-28 02:15:00",
+      "album": {
+        "name": "All This To Say I Love You",
+        "url": "https://open.spotify.com/album/79nYzVvNLxJ9WRt0cKDRsg"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Who Knew Dancing Was A Sin",
+      "url": "https://open.spotify.com/track/17zEsC34uYNTkV7UuSbd2D"
+    },
+    {
+      "added_at": "2025-08-04 03:54:45",
+      "album": {
+        "name": "Malam Rawan",
+        "url": "https://open.spotify.com/album/6K3f48VhTPIz9wFO1iQFOH"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Malam Rawan",
+      "url": "https://open.spotify.com/track/6JBojdxAPtcPNfhFqmZEBt"
     },
     {
       "added_at": "2025-06-30 06:50:29",
@@ -169,6 +185,22 @@
       "url": "https://open.spotify.com/track/2Ly9Woxy0J5MdZMzds4JSi"
     },
     {
+      "added_at": "2025-08-04 03:54:45",
+      "album": {
+        "name": "Setangkai Bunga",
+        "url": "https://open.spotify.com/album/4ZVZ0mOtFY44cgPX6Baxtp"
+      },
+      "artists": [
+        {
+          "name": "Caffeine",
+          "url": "https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Setangkai Bunga",
+      "url": "https://open.spotify.com/track/3BuxK6MbHLEJ8YybhvJYrv"
+    },
+    {
       "added_at": "2025-06-23 05:42:49",
       "album": {
         "name": "Take A Sexy Picture Of Me",
@@ -217,6 +249,38 @@
       "url": "https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7"
     },
     {
+      "added_at": "2025-08-04 03:54:45",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 177523,
+      "name": "watch",
+      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
+    },
+    {
+      "added_at": "2025-07-28 02:15:00",
+      "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 250654,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/1w3HIUTwYqWoYCUq1S5T4E"
+    },
+    {
       "added_at": "2025-05-19 15:57:26",
       "album": {
         "name": "Nalar",
@@ -235,22 +299,6 @@
       "duration_ms": 261048,
       "name": "Mangu",
       "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
-    },
-    {
-      "added_at": "2025-07-28 02:15:00",
-      "album": {
-        "name": "WITHERED",
-        "url": "https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 250654,
-      "name": "Where'd It Go Wrong?",
-      "url": "https://open.spotify.com/track/1w3HIUTwYqWoYCUq1S5T4E"
     },
     {
       "added_at": "2025-07-28 02:15:00",
@@ -421,6 +469,26 @@
       "url": "https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe"
     },
     {
+      "added_at": "2025-08-04 03:56:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        },
+        {
+          "name": "Mikha Angelo",
+          "url": "https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Kaulah Kamuku (feat. Mikha Angelo)",
+      "url": "https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q"
+    },
+    {
       "added_at": "2025-04-21 07:26:37",
       "album": {
         "name": "Kita Usahakan Lagi",
@@ -437,26 +505,6 @@
       "url": "https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF"
     },
     {
-      "added_at": "2025-07-07 02:57:45",
-      "album": {
-        "name": "MAPA (Indonesian Ver.)",
-        "url": "https://open.spotify.com/album/0jVk4hqUcFogF1NcK3ZQ0a"
-      },
-      "artists": [
-        {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
-        },
-        {
-          "name": "Aruma",
-          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "MAPA (Indonesian Ver.)",
-      "url": "https://open.spotify.com/track/23FJNFAeNLzAuFORNvyBFf"
-    },
-    {
       "added_at": "2025-04-21 07:26:37",
       "album": {
         "name": "You'll Be In My Heart",
@@ -471,38 +519,6 @@
       "duration_ms": 241776,
       "name": "You'll Be in My Heart",
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
-    },
-    {
-      "added_at": "2025-07-28 02:15:00",
-      "album": {
-        "name": "The Emancipation Of Mimi (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "When I Feel It",
-      "url": "https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME"
-    },
-    {
-      "added_at": "2025-07-28 02:15:00",
-      "album": {
-        "name": "Lagu-Lagu Cemara (OST. Musikal Keluarga Cemara)",
-        "url": "https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq"
-      },
-      "artists": [
-        {
-          "name": "The Lantis",
-          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
-        }
-      ],
-      "duration_ms": 204940,
-      "name": "Seperti Cemara",
-      "url": "https://open.spotify.com/track/5c6zSJlr4tHXewLs3s374p"
     },
     {
       "added_at": "2025-06-16 07:25:32",
@@ -609,62 +625,6 @@
       "url": "https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor"
     },
     {
-      "added_at": "2025-06-16 07:25:32",
-      "album": {
-        "name": "Nothing More Than That",
-        "url": "https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 213838,
-      "name": "Nothing More Than That",
-      "url": "https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t"
-    },
-    {
-      "added_at": "2025-04-21 07:26:37",
-      "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
-    },
-    {
-      "added_at": "2025-07-28 02:15:00",
-      "album": {
-        "name": "WONDERLAND",
-        "url": "https://open.spotify.com/album/6kAIg4on5PAYArTdNvywdV"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 181225,
-      "name": "Ferris wheel (feat. Heize)",
-      "url": "https://open.spotify.com/track/7MbtHBj17NTiuk6jYJGExd"
-    },
-    {
       "added_at": "2025-04-21 07:26:37",
       "album": {
         "name": "Messy",
@@ -715,22 +675,6 @@
     {
       "added_at": "2025-06-02 15:06:30",
       "album": {
-        "name": "TWENTIES",
-        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171955,
-      "name": "TWENTIES",
-      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
-    },
-    {
-      "added_at": "2025-06-02 15:06:30",
-      "album": {
         "name": "Everything I've Wanted To Say",
         "url": "https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td"
       },
@@ -743,38 +687,6 @@
       "duration_ms": 126666,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/0A3omwhvYCn1Hg27VliWen"
-    },
-    {
-      "added_at": "2025-04-21 07:26:37",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2025-04-21 07:26:37",
-      "album": {
-        "name": "Rampung",
-        "url": "https://open.spotify.com/album/4MJIfun1IIBTsPwnK1oEgi"
-      },
-      "artists": [
-        {
-          "name": "Ruang Senja",
-          "url": "https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp"
-        }
-      ],
-      "duration_ms": 208736,
-      "name": "Sirkus",
-      "url": "https://open.spotify.com/track/3pSMg0s9GyRlGIkhF0902x"
     },
     {
       "added_at": "2025-04-21 07:26:37",
@@ -839,22 +751,6 @@
       "duration_ms": 281021,
       "name": "Somebody's Pleasure (Extended Version)",
       "url": "https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X"
-    },
-    {
-      "added_at": "2025-04-21 07:26:37",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-04-21 07:26:37",
@@ -955,22 +851,6 @@
       "duration_ms": 246107,
       "name": "Alunan Mimpi",
       "url": "https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj"
-    },
-    {
-      "added_at": "2025-04-21 07:26:37",
-      "album": {
-        "name": "Asa Asmara",
-        "url": "https://open.spotify.com/album/1PknYCJJPjdLZwhtA2SK4Z"
-      },
-      "artists": [
-        {
-          "name": "Baila",
-          "url": "https://open.spotify.com/artist/4RMuTrQQ4FiEb2e5jxvvhp"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Asa Asmara",
-      "url": "https://open.spotify.com/track/5WhXF5UP1oJxuG9X4CsbxP"
     },
     {
       "added_at": "2025-04-21 07:26:37",
@@ -1167,22 +1047,6 @@
       "duration_ms": 282675,
       "name": "Kita Ke Sana",
       "url": "https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW"
-    },
-    {
-      "added_at": "2025-04-21 07:26:37",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "added_at": "2025-04-21 07:26:37",

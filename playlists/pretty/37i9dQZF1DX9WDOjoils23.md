@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,129 likes - 50 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,162 likes - 50 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 |
 | 50 | [Goriye Main Jana Pardes](https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Merian Gallan Yaad Karengi](https://open.spotify.com/album/0TYRJT4ttquHauBI32E8tm) | 5:29 |
 
-Snapshot ID: `aHDbaAAAAAB3GS+Gi4g2l+FarP9cqpe6`
+Snapshot ID: `AAAAAJBAOuegGX7FGnr4WbnoktT2G6X+`

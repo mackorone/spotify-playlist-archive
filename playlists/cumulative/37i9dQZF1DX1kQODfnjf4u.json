@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Yzomandias, Ektor, P T K, Robin Zoot, Nik Tendo",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Nik Tendo, Decky",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 173731,
       "name": "Brick na brick",
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
@@ -946,6 +946,40 @@
       "duration_ms": 181224,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
       "album": {
@@ -2854,6 +2888,32 @@
       "duration_ms": 162461,
       "name": "Zaslou\u017een\u00fd",
       "url": "https://open.spotify.com/track/7HdlQ15U3u9fLIzH5st0lq"
+    },
+    {
+      "album": {
+        "name": "GoldKiid",
+        "url": "https://open.spotify.com/album/75BwUpwFikffhSNtr6Z1hU"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Decky",
+          "url": "https://open.spotify.com/artist/7wjbFMCXWpPswS7olSgEjX"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199673,
+      "name": "\u0158EKNI MI PRAVDU",
+      "url": "https://open.spotify.com/track/6m6T2GEUhecN8weKqdoE8x"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u"

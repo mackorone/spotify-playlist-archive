@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-673 songs - 1 day 15 hr 20 min
+674 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Eurostar](https://open.spotify.com/track/0WoZF12IBXLSQDzbQm7Jeb) | [Soundpool](https://open.spotify.com/artist/2vkjEcWfKySAsYcwpRRGn4) | [On High](https://open.spotify.com/album/157hEnA1WdlHwTinWyJlms) | 3:19 | 2024-12-09 | 2025-01-12 |
 | [Evening In Paris](https://open.spotify.com/track/2zHLjLNLmQcxw7aF1FEBE9) | [Lois](https://open.spotify.com/artist/2TPN3wAFNOE6VN1OLNLBwH) | [Strumpet](https://open.spotify.com/album/55qFoYA2utC3qhqmutvSRX) | 2:37 | 2024-04-18 | 2024-05-16 |
 | [Evening Mirror \- From the Original Score of The Sweet East](https://open.spotify.com/track/7hy0XnO9PBwcsZNP4H5sX4) | [Paul Grimstad](https://open.spotify.com/artist/2sI4HMXuvwKYhP1gmqr6Jv), [Talia Ryder](https://open.spotify.com/artist/1gfXCBma9K651B5zUc2Btl) | [Evening Mirror \(From the Original Score of The Sweet East\)](https://open.spotify.com/album/0uailJ2SWjeKlOEDHcNoGB) | 3:11 | 2024-02-21 | 2024-03-10 |
+| [Everglade](https://open.spotify.com/track/5ReNkBEft2t7iEzTx2GHBx) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Birds On The Playground](https://open.spotify.com/album/1cz6AMoMZX5QnyoZk0qcCJ) | 4:15 | 2025-08-04 |  |
 | [Everglade](https://open.spotify.com/track/12Ly9pR2DxzNCWHauZWiYj) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/26QpVjamtdjHvXSfd7c7v7) | 4:26 | 2024-04-25 | 2024-05-16 |
 | [Every Time I Hear](https://open.spotify.com/track/07mE5wD18Ki9yjscGoird0) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/187xHScatgoZvJa48yGuyG) | 2:43 | 2024-09-27 | 2024-11-14 |
 | [Everyone Else Is Ahead Far Ahead](https://open.spotify.com/track/4tNmcoZysizQT9Io7CIDQy) | [The Marshmallow Kisses](https://open.spotify.com/artist/4tzg961dC4xoU1YYGZeYud) | [I Wonder Why My Favorite Boy Leaves Me An EP](https://open.spotify.com/album/0tVIqiviChQkxeZoVC9aGq) | 2:41 | 2024-07-12 | 2024-09-08 |

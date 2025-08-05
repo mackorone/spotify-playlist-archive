@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,043 likes - 160 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,022 likes - 160 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 159 | [One Step at a Time](https://open.spotify.com/track/6N5mvQmipHnahnQCF3eqF8) | [Attention Bird Utopia](https://open.spotify.com/artist/6WQmjqmXZdwjIb1Tpctt4o), [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8), [Eli Hirsch](https://open.spotify.com/artist/3TnGwgpdm4ySLrbjzd38OW) | [Best of Kings](https://open.spotify.com/album/5oCjXdfKyrccegnfxKF5Yb) | 4:11 |
 | 160 | [Tangerine](https://open.spotify.com/track/6XGLeeMS07Fg7jKI9UiNdc) | [Mae Powell](https://open.spotify.com/artist/1VSTyX3EyvqFHQs7LAt6vr) | [Tangerine](https://open.spotify.com/album/40KUjcZvNqx83NawRYK9Xx) | 3:05 |
 
-Snapshot ID: `aIw73gAAAAAIz4vrMm/RuFDiWl1LhhfL`
+Snapshot ID: `AAAAABEziFt73T2Irvcr6kw6gdXdYO0e`

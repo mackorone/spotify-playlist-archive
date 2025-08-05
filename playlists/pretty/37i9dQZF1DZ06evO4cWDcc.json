@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 321409,
+  "num_followers": 321427,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAAtYsfkur4j+pJGI0k2VJia",
+  "snapshot_id": "aI6mgAAAAABzdjsazVHElBn6FIa/EyMV",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 219573,
-      "name": "Hey Gypsy Boy",
-      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 528133,
-      "name": "Voodoo Chile Blues",
-      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
+      "duration_ms": 219573,
+      "name": "Hey Gypsy Boy",
+      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 364626,
       "name": "Hey Baby (New Rising Sun)",
       "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 104973,
-      "name": "Villanova Junction Blues",
-      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Lady Studios: A Jimi Hendrix Vision",
         "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 372560,
       "name": "Straight Ahead - Takes 1 & 2",
       "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 104973,
+      "name": "Villanova Junction Blues",
+      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
-        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 35906,
-      "name": "Play That Riff - Anthology Version",
-      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Lady Studios: A Jimi Hendrix Vision",
         "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198626,
       "name": "Drifter's Escape - Takes 1 & 2",
       "url": "https://open.spotify.com/track/5p1RIGcfKyX6dy9R6t93h4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 35906,
+      "name": "Play That Riff - Anthology Version",
+      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
     },
     {
       "added_at": null,

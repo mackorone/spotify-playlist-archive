@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,993 likes - 142 songs - 21 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,988 likes - 142 songs - 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

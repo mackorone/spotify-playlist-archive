@@ -120,7 +120,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 117400,
       "name": "5 Preludes, Op. 74: No. 2. Tres lent, contemplatif",
       "url": "https://open.spotify.com/track/5fvAOnB3TFJWaehSr9L7Dt"
@@ -450,6 +450,28 @@
       "duration_ms": 815613,
       "name": "Ascencion",
       "url": "https://open.spotify.com/track/4byb8gZffMTaIZD4xl0PfQ"
+    },
+    {
+      "album": {
+        "name": "Terry Riley: Autodreamographical Tales",
+        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Bang On A Can All-Stars",
+          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171589,
+      "name": "Autodreamographical Tales (Arr. G. Riley for Chamber Ensemble): III. See Them Out There",
+      "url": "https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP"
     },
     {
       "album": {
@@ -2012,7 +2034,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 352973,
       "name": "Lazy Afternoon Among the Crocodiles",
       "url": "https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3"
@@ -2052,7 +2074,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 276146,
       "name": "Llanto",
       "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
@@ -2552,7 +2574,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 180426,
       "name": "ORGANUM FOR STEFANO V",
       "url": "https://open.spotify.com/track/7Ls5m0w6Hoc9YPCn1uLNrC"
@@ -3197,28 +3219,6 @@
     },
     {
       "album": {
-        "name": "Autodreamographical Tales",
-        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Bang On A Can All-Stars",
-          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
-        }
-      ],
-      "date_added": "2022-05-29",
-      "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
-      "duration_ms": 171589,
-      "name": "See Them Out There",
-      "url": "https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP"
-    },
-    {
-      "album": {
         "name": "Silver Murray",
         "url": "https://open.spotify.com/album/2t32IlKJGGudD7IT5wvxkQ"
       },
@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 456066,
       "name": "Spirit of Peace: Part II.",
       "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"

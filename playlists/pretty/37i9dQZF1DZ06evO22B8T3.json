@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1309204,
+  "num_followers": 1309190,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAALlffB/Q0ZMM0aOnnO/Jtx",
+  "snapshot_id": "aI6mgAAAAAAIcBds9yrvC/X6LnJWeKRC",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 191186,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
     },
     {
       "added_at": null,
@@ -559,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+      "duration_ms": 191186,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
     },
     {
       "added_at": null,

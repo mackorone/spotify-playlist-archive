@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 Charli xcx \[One Universe Festival\] 8월 15일 @ 서울대공원 주차광장
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,324 likes - 20 songs - 59 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 26,431 likes - 20 songs - 59 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 |
 | 20 | [Boom Clap](https://open.spotify.com/track/094RugjgLW6CdPLOJctBZ3) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF) | 2:49 |
 
-Snapshot ID: `aJAiNgAAAAANOkWRWRjXZMQDX/v+UtJ0`
+Snapshot ID: `AAAAAPg7ct0m4WpnNFAviMpHXQF+ID/K`

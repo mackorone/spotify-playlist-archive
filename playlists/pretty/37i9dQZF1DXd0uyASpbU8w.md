@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Nkosazana Daughter, Will Linley, Rema, Thakzin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,851 likes - 84 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,930 likes - 84 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 29 | [Intoni](https://open.spotify.com/track/6MPoUeEAxWMykaG0aEaHpM) | [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Smash SA](https://open.spotify.com/artist/0w5arbommuYnUMeXetmv17) | [Intoni](https://open.spotify.com/album/6g1G2wXyoZvqluymsTOXr7) | 6:05 |
 | 30 | [Cabin Feva](https://open.spotify.com/track/6vxEPL0Z4WD18kcW2uCvQd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Cabin Feva](https://open.spotify.com/album/18ZMOxwR8uBaZc1n0X9uZx) | 2:48 |
 | 31 | [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 |
-| 32 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 32 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 33 | [Lutho \(feat\. De Rose\)](https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp) | [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ), [Wesley Keys](https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL) | [Onkgopotse](https://open.spotify.com/album/1NSZ619pGHYfsgbB2kBfF8) | 6:35 |
 | 34 | [Leave Me Alone](https://open.spotify.com/track/44t9rTRjK82lBbZwuePQOE) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:21 |
 | 35 | [Buenos Términos](https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Buenos Términos](https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX) | 2:30 |

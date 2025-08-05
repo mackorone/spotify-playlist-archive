@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 51171,
+  "num_followers": 51177,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAADO3XvDsOtx5o2FiTu77v2",
+  "snapshot_id": "aI6mgAAAAACyU+UqlhYUcQoGRimOgc2v",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145026,
+      "name": "I Need Some Money",
+      "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues Summit",
         "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 298066,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145026,
-      "name": "I Need Some Money",
-      "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 296733,
-      "name": "Ali D'Oro",
-      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 225906,
       "name": "Baby Lee (feat. Robert Cray)",
       "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 296733,
+      "name": "Ali D'Oro",
+      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIVE IN HOUSTON 1979",
-        "url": "https://open.spotify.com/album/2KlhM7Pl2zOOW6v07qBG87"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Roll Your Daddy Right",
-      "url": "https://open.spotify.com/track/2E8ndUQK4EYrg3Kya1KlUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 238173,
       "name": "Tupelo (2007 - Remaster)",
       "url": "https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIVE IN HOUSTON 1979",
+        "url": "https://open.spotify.com/album/2KlhM7Pl2zOOW6v07qBG87"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Roll Your Daddy Right",
+      "url": "https://open.spotify.com/track/2E8ndUQK4EYrg3Kya1KlUc"
     },
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelin'",
-        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
+        "name": "It Serve You Right To Suffer (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 145551,
-      "name": "No Shoes",
-      "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
+      "duration_ms": 146232,
+      "name": "Money - 2025 Remaster",
+      "url": "https://open.spotify.com/track/0H0sVV08u23jZxuhXoHk4G"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

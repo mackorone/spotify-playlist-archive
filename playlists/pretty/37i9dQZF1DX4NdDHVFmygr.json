@@ -1,12 +1,12 @@
 {
   "description": "Made in Morocco, 100% hits marocains.",
-  "num_followers": 65255,
+  "num_followers": 65462,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI5GnQAAAAC250kPGiHMBbm8qr2tX3Et",
+  "snapshot_id": "aJDJWwAAAAACysZn1FFKpNjfENBu0yFJ",
   "tracks": [
     {
       "added_at": "2025-08-02 17:10:53",
@@ -55,26 +55,6 @@
       "duration_ms": 167111,
       "name": "Ha Wlidi",
       "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
-    },
-    {
-      "added_at": "2025-08-02 17:10:53",
-      "album": {
-        "name": "RIRI&ROCKY",
-        "url": "https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh"
-      },
-      "artists": [
-        {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
-        },
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 163995,
-      "name": "RIRI&ROCKY",
-      "url": "https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J"
     },
     {
       "added_at": "2025-08-02 17:10:53",
@@ -279,6 +259,26 @@
       "duration_ms": 228017,
       "name": "RS6",
       "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
+    },
+    {
+      "added_at": "2025-08-02 17:10:53",
+      "album": {
+        "name": "RIRI&ROCKY",
+        "url": "https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 163995,
+      "name": "RIRI&ROCKY",
+      "url": "https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J"
     },
     {
       "added_at": "2025-08-02 17:10:53",

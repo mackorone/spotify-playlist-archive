@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 
 > What is dead may never die\. Listen to the most memorable and pinnacle tracks from all eight seasons of Game of Thrones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,706 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,731 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 | 64 | [The Last of the Starks](https://open.spotify.com/track/4fXqpIzgHDBhylBBOLOKVX) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 4:52 |
 | 65 | [A Song of Ice and Fire](https://open.spotify.com/track/1AvLUHxSunGMWWRfEFmWSC) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 2:11 |
 
-Snapshot ID: `ZkKUZwAAAADGgk161XzG415OfC+1nXkz`
+Snapshot ID: `AAAAAE1Fj8ZrHeRZKtV5r9MUxN5NifWz`

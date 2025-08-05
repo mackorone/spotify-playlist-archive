@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Elumale
 
-1,653 songs - 4 day 4 hr 44 min
+1,654 songs - 4 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Haaduve Naa Haaduve](https://open.spotify.com/track/0OuwNrVyd2RMMqD32TiLHe) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Siddharth Belmannu](https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj) | [Orchestra, Mysuru! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VoMGIXAIvC0YeU1GZrgzN) | 6:52 | 2023-01-12 | 2023-05-18 |
 | [Haaduve Naa Haaduve](https://open.spotify.com/track/5T8wOodxnY4yKIUqL3WyC7) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Siddharth Belmannu](https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj) | [Orchestra, Mysuru! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1xZ7njeguIdXjWWuBFDnqd) | 6:52 | 2023-01-12 | 2023-05-15 |
 | [Haage Aada Aalingana](https://open.spotify.com/track/11yJpEnFSTEWrQJZfzxLRe) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Keertana Vaidyanathan](https://open.spotify.com/artist/0a0IGsUt7bEnl8wYB1BCmr) | [Vijayanand](https://open.spotify.com/album/4COVkOIFOxT6IcmyO2phVh) | 3:36 | 2022-11-09 | 2023-02-04 |
+| [Haalaada Preethi \(From "Bandook"\)](https://open.spotify.com/track/0dXJARBkfAW4E4kL7RL5Ma) | [Jogila Siddaraju](https://open.spotify.com/artist/4sQji195GLuaoJau57EHWG), [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ), [Mahesh Ravikumar](https://open.spotify.com/artist/1Uq9gLsq21bsDj8412hYbD) | [Haalaada Preethi \(From "Bandook"\)](https://open.spotify.com/album/7rBrlRcoN6rWQ4fbbKNyva) | 2:47 | 2025-08-04 |  |
 | [Haaro Hakki](https://open.spotify.com/track/5FzJ6eouXhq9OlQJ7AKgFU) | [Surendra Nath](https://open.spotify.com/artist/2Cu5DT1SFHf9XmrvmkgRmt) | [Raja Rani Roarer Rocket](https://open.spotify.com/album/6mhO76NborMqdZH9Fc21JE) | 3:34 | 2022-11-25 | 2023-01-13 |
 | [Haaruthidhe \(From "Cicada"\)](https://open.spotify.com/track/7d1juAocG4g5cugWGWUfnL) | [Praveen Raveendran](https://open.spotify.com/artist/5ATQFS0ejLfL3tKquLU0oX), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Haaruthidhe \(From "Cicada"\)](https://open.spotify.com/album/6fnxCJ8pDcFh5EIj6Axgnq) | 2:41 | 2024-01-08 | 2024-02-23 |
 | [Haayagide](https://open.spotify.com/track/0apfI2SxduCbp7hsM27BcR) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Tom And Jerry](https://open.spotify.com/album/7KIBS7sFAUSg4pZ7D9GHUM) | 3:31 | 2021-12-06 | 2022-06-15 |

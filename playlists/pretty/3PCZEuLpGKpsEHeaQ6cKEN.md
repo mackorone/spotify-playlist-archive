@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  James Hype
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 266,120 likes - 206 songs - 10 hr 56 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 266,043 likes - 206 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  رامي صبري
 
-388 songs - 22 hr 40 min
+389 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-13 | 2023-01-25 |
 | [Mish Ader Ansa](https://open.spotify.com/track/5G2GTdOEo3xF8RZZxibZjv) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mish Ader Ansa](https://open.spotify.com/album/1vhrqKQYvY1ztZ11HLs4BK) | 4:27 | 2025-05-13 |  |
 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-28 | 2023-02-14 |
+| [Narein](https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:04 | 2025-08-04 |  |
 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 | 2023-05-05 | 2023-07-06 |
 | [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-17 | 2023-05-06 |
 | [Nefsy Ahbek](https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Sara Moullablad](https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:17 | 2024-09-09 |  |
@@ -273,7 +274,7 @@
 | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 | 2024-07-08 | 2025-04-15 |
 | [اللي جاي بتاعنا](https://open.spotify.com/track/1BNhn1lZF39HCgaO1afuE4) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [اللي جاي بتاعنا](https://open.spotify.com/album/5Qcj7F2YKWE8hWEm8ryAPR) | 2:40 | 2024-01-20 | 2024-03-19 |
 | [انا من غيرك](https://open.spotify.com/track/2nQeY3iJpE57Rnc7r8z2Qx) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا من غيرك](https://open.spotify.com/album/6r21z8FXZjYr4Lz1s86u2o) | 3:31 | 2024-11-22 |  |
-| [انتي فاكره نفسك ايه ؟](https://open.spotify.com/track/2FFtVrD5IEy4pgY1DFz8nV) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [انتي فاكره نفسك ايه ؟](https://open.spotify.com/album/178RKaUkMIryw2QM6MHYyv) | 2:18 | 2024-12-11 |  |
+| [انتي فاكره نفسك ايه ؟](https://open.spotify.com/track/2FFtVrD5IEy4pgY1DFz8nV) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [انتي فاكره نفسك ايه ؟](https://open.spotify.com/album/178RKaUkMIryw2QM6MHYyv) | 2:18 | 2024-12-11 | 2025-08-05 |
 | [انتي قلبي](https://open.spotify.com/track/1z4wa1hxM6Ja7Cpq5cljsb) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/5ql1v6jrdAmSzuyPJPKnNF) | 3:12 | 2022-07-25 | 2022-10-11 |
 | [انتي قلبي](https://open.spotify.com/track/6FFbKaePLzo5jQLof1ZX5K) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/47KtVI2WQJoZXV0EE2e65m) | 3:12 | 2022-04-13 | 2022-07-29 |
 | [ايويا يا حبيبتي وحشتيني](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايويا يا حبيبتي وحشتيني](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 | 2024-01-17 | 2024-06-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,736 likes - 48 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,814 likes - 48 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 47 | [A Ele a Glória \- Live Session](https://open.spotify.com/track/4RGZXhX3mbTvlbL9wjpyxe) | [Momento Solene](https://open.spotify.com/artist/54zL5JenxhZlJS9kHdSlwu), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [A Ele a Glória \(Live Session\)](https://open.spotify.com/album/55bnVShqB095KyZybT3cC4) | 5:25 |
 | 48 | [Quem Irá Nos Separar?](https://open.spotify.com/track/2bPkjiOg3DpQjJXuyNjQVH) | [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [Quem Irá Nos Separar?](https://open.spotify.com/album/4DftnYPiEHRLftb5wCrOrE) | 4:07 |
 
-Snapshot ID: `AAAAACfz/w9KQTQIw7pp68iGBFTBGuq/`
+Snapshot ID: `aIwt/gAAAAAIf2JLaqXTaFLLT672oPoi`

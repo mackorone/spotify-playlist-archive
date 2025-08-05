@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/bigtiggershow/">Big Tigger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,424 likes - 49 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,447 likes - 49 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 | 48 | [That Girl](https://open.spotify.com/track/1Vl4ESWb6U7gKSPfK4qenq) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:01 |
 | 49 | [Doggy Dogg World](https://open.spotify.com/track/5HCxyNfUA6DMJtIHavfJnw) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 5:38 |
 
-Snapshot ID: `AAAAAHwUUNIl8pwzSvY/YrjREdGROrm/`
+Snapshot ID: `ZUHNQAAAAAA6ZQUjybs9cuJUIrzGehe8`

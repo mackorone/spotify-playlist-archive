@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 232012,
+  "num_followers": 232029,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAABaAEnUM68FyF8I0wMvDTOO",
+  "snapshot_id": "aI6mgAAAAABWq3fhncX61fqsH/HbVLXH",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bier & Ska",
-        "url": "https://open.spotify.com/album/4pxMygdzZTAmzRSqmeb6sn"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 209334,
-      "name": "Bier & Ska",
-      "url": "https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ej\u00e9rcito de Paz",
         "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 225053,
       "name": "Abajo y a la Izquierda",
       "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bier & Ska",
+        "url": "https://open.spotify.com/album/4pxMygdzZTAmzRSqmeb6sn"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 209334,
+      "name": "Bier & Ska",
+      "url": "https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h"
     },
     {
       "added_at": null,

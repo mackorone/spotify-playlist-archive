@@ -1,12 +1,12 @@
 {
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
-  "num_followers": 33678,
+  "num_followers": 33677,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAA1tQHwTCuWRUMxFvOg2zWZ",
+  "snapshot_id": "aI6mgAAAAAAGBL13PniWEgVPV44qQMAz",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Word",
-        "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 249229,
-      "name": "Start Stoppin'",
-      "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotionally Yours",
         "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 283600,
       "name": "Keep On Lovin' Me",
       "url": "https://open.spotify.com/track/6rpsIgRcHpiyK47Tqmym0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Word",
+        "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 249229,
+      "name": "Start Stoppin'",
+      "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
     },
     {
       "added_at": null,

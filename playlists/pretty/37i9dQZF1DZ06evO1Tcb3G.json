@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 497785,
+  "num_followers": 497863,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAAC8FPZAAo/59iXvS5Mjd0r",
+  "snapshot_id": "aI6mgAAAAACxVHUh7CHFJ43hIWSf3271",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/3eEzfujAc108cq9L6yCVgT"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
       "artists": [
         {
@@ -124,25 +124,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
+      "duration_ms": 221039,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5CN13QjYdc9s4aFg2wxwnE"
     },
     {
       "added_at": null,
@@ -163,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
       },
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 278226,
-      "name": "Wilder Mind",
-      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/47Zfe25jhdizlJ8sAYviwA"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/47Zfe25jhdizlJ8sAYviwA"
+      "duration_ms": 278226,
+      "name": "Wilder Mind",
+      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
     },
     {
       "added_at": null,
@@ -284,25 +284,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 221226,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 218626,
+      "duration_ms": 218627,
       "name": "Ditmas",
-      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+      "url": "https://open.spotify.com/track/0cIQEeA1OD5XzUjuplVfiT"
     },
     {
       "added_at": null,
@@ -323,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 314893,
-      "name": "Lover of the Light",
-      "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delta",
         "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
       },
@@ -355,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
       "artists": [
         {
@@ -364,9 +332,25 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 248546,
-      "name": "Snake Eyes",
-      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
+      "duration_ms": 314893,
+      "name": "Lover of the Light",
+      "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
       "duration_ms": 247013,
       "name": "Where It Belongs",
       "url": "https://open.spotify.com/track/6S7tceZdDsUpvJmK2267PD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Snake Eyes",
+      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0N0nwjlcbx58JduDVE8T2E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Johannesburg",
         "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 267946,
       "name": "There Will Be Time",
       "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0N0nwjlcbx58JduDVE8T2E"
     },
     {
       "added_at": null,

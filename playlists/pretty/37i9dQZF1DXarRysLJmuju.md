@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,762 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,709 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 98 | [Ballerina](https://open.spotify.com/track/3nZsqswPnClkutnGyDsI4X) | [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Ballerina](https://open.spotify.com/album/0gB3P5VpyTRyLUhz1NejJe) | 2:25 |
 | 99 | [spilt milk](https://open.spotify.com/track/1XwFZjQw8OlawIzfoB3M0E) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [spilt milk](https://open.spotify.com/album/6Li9EK2ntXjjBKsb2Cpowl) | 2:39 |
 
-Snapshot ID: `aIw73AAAAAAJUDGvJa3iirex3PkwFXXK`
+Snapshot ID: `AAAAALOVjaLZy3IxW5GObo+r+R0u8BDq`

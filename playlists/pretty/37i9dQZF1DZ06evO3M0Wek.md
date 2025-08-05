@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,289 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,325 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 25 | [Innocence](https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:15 |
 | 26 | [You Call Me a Bitch Like It's a Bad Thing](https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 |
 | 27 | [Apocalyptic](https://open.spotify.com/track/4DveRhd1VBtZyPodE3sbLj) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:13 |
-| 28 | [Vicious](https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:02 |
+| 28 | [Uncomfortable](https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:40 |
 | 29 | [I'm Not an Angel](https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:14 |
 | 30 | [Break In \(feat\. Amy Lee\)](https://open.spotify.com/track/2vB55r6U3pqNI8I6Spz391) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Reimagined](https://open.spotify.com/album/6U136FqCYPkYDQnBaaUovl) | 4:54 |
 | 31 | [Psycho Crazy](https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:25 |
-| 32 | [Uncomfortable](https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:40 |
+| 32 | [Vicious](https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:02 |
 | 33 | [Mayhem](https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:36 |
 | 34 | [Heathens](https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 3:28 |
 | 35 | [Bet U Wish U Had Me Back](https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 48 | [Straight Through the Heart](https://open.spotify.com/track/13sFHP8az3xl5fIchnLr03) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Ronnie James Dio \- This Is Your Life](https://open.spotify.com/album/76DxuvfdC3lmCDLFf6rSWw) | 3:58 |
 | 49 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 |
 
-Snapshot ID: `aI1VAAAAAAA/EaKQNNp/WwmmcnZVsqyb`
+Snapshot ID: `aI6mgAAAAAAWILeCwRBbyEpxolAszlot`

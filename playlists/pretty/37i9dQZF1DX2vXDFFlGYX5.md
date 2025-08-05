@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vXDFFlGYX5.md) - [plain]
 
 > Music From "TIGER & BUNNY"! タイバニの世界を彩る楽曲を1つのプレイリストで！©BNP/T&B2 PARTNERS
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,362 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,366 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5ZOsG2Ogi1.md) - [plain]
 
 > ¡Perreo del bueno! twerk that 🍑 Cover: Luis R Conriquez, Neton Vega, Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,119 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,139 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

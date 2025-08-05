@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,842 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,766 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 |
 | 75 | [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 |
 
-Snapshot ID: `aIw71gAAAADa0G5cobcF5LpOx+kqMIHJ`
+Snapshot ID: `AAAAALbq3r7yhlzshnIbEWQTf8JOKHzw`

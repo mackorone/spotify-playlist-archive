@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > lá em cima feito Ret com a habilidade do Alee e a auto estima do Ye / Foto: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,550,065 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550,132 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [PRETTY LET GIRL](https://open.spotify.com/track/5UBCGftdDXdaxomn1eloLC) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 2:44 |
 | 55 | [Odisseia](https://open.spotify.com/track/6zk2KqmVIvyKRbF50hXP5Q) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Odisseia](https://open.spotify.com/album/7boBqgtZPsVLsh2JUIMoyT) | 2:17 |
 
-Snapshot ID: `AAAAANcKQRB3lmk0gPvg68qywNreUL6L`
+Snapshot ID: `aIz18wAAAACrX4QoR+4OZrLW8wkiPdaV`

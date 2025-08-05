@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84678,
+  "num_followers": 84685,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAADCW+4bpUwLVxgn62u9hI8R",
+  "snapshot_id": "aI6mgAAAAACUfj0XA252zlIrO2EOLlfI",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caricias del Cielo",
-        "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Acost\u00fambrame al cielo",
-      "url": "https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 185000,
       "name": "Procuro Olvidarte",
       "url": "https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caricias del Cielo",
+        "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Acost\u00fambrame al cielo",
+      "url": "https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 223045,
-      "name": "So\u00f1\u00e9 Que Te Perd\u00eda",
-      "url": "https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 165000,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 223045,
+      "name": "So\u00f1\u00e9 Que Te Perd\u00eda",
+      "url": "https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -547,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+        "name": "Memorias Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
       },
       "artists": [
         {
@@ -556,25 +572,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 173000,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Nace Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Me Nace Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
+      "duration_ms": 249586,
+      "name": "No Renunciar\u00e9",
+      "url": "https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memorias Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "No Renunciar\u00e9",
-      "url": "https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 226000,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/6qhCzLPi0m17BpotgfSE2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Nace Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Me Nace Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 220329,
       "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
       "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
     },
     {
       "added_at": null,

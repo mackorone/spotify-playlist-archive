@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Chappell Roan, Demi Lovato, Rema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,781 likes - 123 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,764 likes - 123 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

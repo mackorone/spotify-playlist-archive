@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Kmilla Cdd
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,796 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,797 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 7 | [SÏNNAL](https://open.spotify.com/track/4Xc46FSyhdS27YpR8WoCFi) | [Caio Ocean](https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q), [OrdinaryJoe](https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN) | [SÏNNAL](https://open.spotify.com/album/1QLwI8gx9F3TsEmBRYTD8t) | 2:02 |
 | 8 | [Apesar Dos Pesares](https://open.spotify.com/track/0C6r4n5duUOYDsTG6Qe9oZ) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4), [kamau](https://open.spotify.com/artist/6onVBckIgCAx5N0heF8LUQ), [Henrick Fuentes](https://open.spotify.com/artist/3qsRZ6e79XifSKwGxg8OOj), [Zorack](https://open.spotify.com/artist/2Lc0QBTzTAStlB4qnTskCk) | [Raciocínio \(EXTRA\)](https://open.spotify.com/album/4TIXtKqNpkt0KhSIT5wuEY) | 4:15 |
 | 9 | [PRETA](https://open.spotify.com/track/35uJ1vzancyJmPh5Whws2i) | [Pezão](https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [PRETA](https://open.spotify.com/album/5aBnSgXoatVepOcVVYi8qm) | 2:18 |
-| 10 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
+| 10 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
 | 11 | [Segunda Chance](https://open.spotify.com/track/4pMuVA8t24Gnbu95a11thE) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [Segunda Chance](https://open.spotify.com/album/0uDDj3QQ7ziTjKTzwW5kuc) | 2:44 |
 | 12 | [Acima De Mim Só Deus \- Remix](https://open.spotify.com/track/6qnNkLzQo9IfTlkJ8Fe18L) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 3:32 |
 | 13 | [Livre, Pt\. 1](https://open.spotify.com/track/6s02DPRlAkmDIqRWDNb780) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ) | [KARAVANA](https://open.spotify.com/album/1QarWNaXUycLyAGM0kZvhS) | 2:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [2 Pesos, Várias Medidas Remix](https://open.spotify.com/track/5aKzfoUoWfp5WAMioQCXm1) | [Peter Só](https://open.spotify.com/artist/7BttiTS2aShzhi36rmJ8yE), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8), [Dabliueme](https://open.spotify.com/artist/7AZBJxuwZH8vqFa7y4MOcX) | [2 Pesos, Várias Medidas Remix](https://open.spotify.com/album/7EziNjt5vZwb5WRBfTe3Vx) | 2:55 |
 | 75 | [Perfil \#111 \- Death Note](https://open.spotify.com/track/6WIAfu2S3eMwveTm5A0ruC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px) | [Perfil \#111 \- Death Note](https://open.spotify.com/album/6mD06ZVgoct7pEB7gCIxsK) | 2:08 |
 
-Snapshot ID: `aI0T/AAAAAA+QzH6uyIvhLg7dg8wU+pd`
+Snapshot ID: `aI0T/AAAAACuzhVwvlkXlp+TkvZC3GRJ`

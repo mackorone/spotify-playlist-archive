@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Chappell Roan, Gims x La Mano 1.9, Jul and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,653 likes - 94 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,659 likes - 94 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 53 | [LE PARI](https://open.spotify.com/track/3ChgQZ5az6S9Km9ej4VwAB) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [LE PARI](https://open.spotify.com/album/7e5Y19gAPCcoEszTnZmiI5) | 2:32 |
 | 54 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 |
 | 55 | [Succes](https://open.spotify.com/track/1UL0Ut7peRfWtg2PFyVlrH) | [Augustijn](https://open.spotify.com/artist/5pgj94XEmNfGDvO294g34K) | [Succes](https://open.spotify.com/album/1h4FS9Yiw6H9Jop5GndlI1) | 3:43 |
-| 56 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 56 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 57 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
 | 58 | [MAGNETIC](https://open.spotify.com/track/5pZ7aZnPA582Y4Eh2t0FCU) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [MAGNETIC](https://open.spotify.com/album/7sWOjKLCaVDNhPMbOAHMhy) | 3:02 |
 | 59 | [Hunting Season](https://open.spotify.com/track/0tKMZFO30VbRFulQzIWxjX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Hunting Season](https://open.spotify.com/album/2x425wKGZzQLlrbVNkvNyr) | 2:55 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 93 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 |
 | 94 | [Last Few Parties](https://open.spotify.com/track/55wfUUF4RMvbZg98dSl9oH) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [You Wanna Fade? \(Deluxe Edition\)](https://open.spotify.com/album/3DN44dRh3BSu0pEYSLoSuG) | 2:40 |
 
-Snapshot ID: `AAAAAEzByUy/TBMbaRgn60mo7M9tFlMV`
+Snapshot ID: `aJCicAAAAADsVTXv3I+v2ywmz2tEBp7o`

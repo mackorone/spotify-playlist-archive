@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,327 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,351 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 49 | [Do For Your Love](https://open.spotify.com/track/3kg6XwcUY1eRJ3ntWvZeSY) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Do For Your Love](https://open.spotify.com/album/3bXzAamzshpdQlDn3ijyCT) | 4:05 |
 | 50 | [Alone \- Four Tet Remix](https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Alone \(Four Tet Remix\)](https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp) | 6:16 |
 
-Snapshot ID: `AAAAAPqusM5AWmXxphabbOXBK+Xm0xqD`
+Snapshot ID: `aF7kawAAAACepyB2ZENcjZXkNNbu1FSU`

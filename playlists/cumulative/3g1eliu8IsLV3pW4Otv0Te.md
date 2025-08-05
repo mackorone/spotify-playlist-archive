@@ -4,7 +4,7 @@
 
 > 
 
-236 songs - 15 hr 58 min
+237 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,5 +244,6 @@
 | [you should see me in a crown](https://open.spotify.com/track/6vsV4D8BM6PioRr1UOx0n2) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [you should see me in a crown](https://open.spotify.com/album/6K7WeaA2R5wPU9hfuE8Zfb) | 3:00 | 2018-11-12 |  |
 | [Your Smile](https://open.spotify.com/track/17CwzHWb86NqaoMlG8fctI) | [Relay & Front](https://open.spotify.com/artist/3YZoEgGJy8A3LPJZ99wa0F) | [Soul Directions EP](https://open.spotify.com/album/00hsq6Q20JyLrWF9D3aUla) | 5:39 | 2016-10-05 |  |
 | [Yours Truly \(Aaron Jackson Remix\) \[feat\. Danyka Nadeau\]](https://open.spotify.com/track/3zO0WOLeHlEdf2YR8gwnBV) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq), [Danyka](https://open.spotify.com/artist/5BcGTHxcGIGryQTS4DqFsu) | [Monstercat 024 \- Vanguard](https://open.spotify.com/album/682NkmBmb2MmKcvLwFJ6BE) | 5:59 | 2016-02-27 |  |
+| [Zeitgeist](https://open.spotify.com/track/4HFRItYjNrcwT6Vbtbk2i4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 4:37 | 2025-08-05 |  |
 
 \*This playlist was first scraped on 2020-01-28. Prior content cannot be recovered.

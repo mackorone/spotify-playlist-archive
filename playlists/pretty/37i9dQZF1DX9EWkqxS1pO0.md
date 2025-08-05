@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Encam Potkal
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,214 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,218 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

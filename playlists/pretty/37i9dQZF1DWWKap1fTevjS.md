@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,732 likes - 255 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,852 likes - 255 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 254 | [Nightblooom](https://open.spotify.com/track/0Lc0SeMSM2Ao7hcCcr6kmB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Nightblooom](https://open.spotify.com/album/1bTVVlALCmMtFarxxZFqyo) | 2:18 |
 | 255 | [Patientia](https://open.spotify.com/track/7xliwWjoey2VUe450gdZ5Y) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Patientia](https://open.spotify.com/album/2wHSo6N02pO8aExcDzjiP4) | 2:20 |
 
-Snapshot ID: `AAAAAGRkxq2jvgElrchcwSHftWNcgoXm`
+Snapshot ID: `aIIESgAAAADgKmoDO22CmEFUEUFL2f/a`

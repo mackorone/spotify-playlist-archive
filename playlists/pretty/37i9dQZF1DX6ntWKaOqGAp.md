@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: シャイトープ shytaupe
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,878 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,927 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [pineapple!](https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 3:00 |
 | 100 | [strattera](https://open.spotify.com/track/3cWgSMVcOuIV2cU8NthSlg) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [strattera](https://open.spotify.com/album/5PyTv0b00U4U0ymjrlcPWw) | 2:40 |
 
-Snapshot ID: `AAAAADXOztRPceJLECRlVWSpEEL32/Lx`
+Snapshot ID: `aIxeSAAAAADYMuFfiofaJ4B6jeTXxbO0`

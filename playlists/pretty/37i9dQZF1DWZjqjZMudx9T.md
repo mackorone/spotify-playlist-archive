@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la Calle a la Cima con Natanael Cano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,744,169 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,743,966 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 49 | [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 |
 | 50 | [Bella](https://open.spotify.com/track/4mvD8af1IQary3hoe0KgOU) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Los Galácticos](https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3) | 2:21 |
 
-Snapshot ID: `aIxYAAAAAABhlKv45jc4SdPWBt6pIIp4`
+Snapshot ID: `AAAAAGhS/C+2D3vyZtW42qsWczDdr08P`

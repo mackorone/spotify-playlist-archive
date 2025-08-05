@@ -72,7 +72,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 129438,
       "name": "2 Sides",
       "url": "https://open.spotify.com/track/23HXgFzfHAaoTqlyweimUI"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 143627,
       "name": "American Made",
       "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
@@ -1117,6 +1117,32 @@
     },
     {
       "album": {
+        "name": "Good Music Hypnotizes",
+        "url": "https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Koncept Jack$on",
+          "url": "https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143685,
+      "name": "High Winds",
+      "url": "https://open.spotify.com/track/5ewsLbDQeBetGNUueVxdT0"
+    },
+    {
+      "album": {
         "name": "High Winds",
         "url": "https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf"
       },
@@ -1320,7 +1346,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 96634,
       "name": "Laser Focused",
       "url": "https://open.spotify.com/track/4S0LNpvBL53M9lqQ6AVekp"

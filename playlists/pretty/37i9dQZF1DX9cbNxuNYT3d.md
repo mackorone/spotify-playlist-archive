@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,998 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,094 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
 | 50 | [Rocking Music \(Edit\)](https://open.spotify.com/track/6y5tyuZF4Wyo4pMlfUseXs) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Rocking Music](https://open.spotify.com/album/1iGqmQkFg3TVlB0NuAdn6h) | 3:42 |
 
-Snapshot ID: `aIOMRwAAAACgMRmSUSoScoCpB+YRfFro`
+Snapshot ID: `aIOMRwAAAABypds4ua1XYGaoBaHknJpB`

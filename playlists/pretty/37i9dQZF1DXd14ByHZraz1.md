@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,875 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,873 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [GEMINI](https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [ZARA](https://open.spotify.com/artist/5jwZdQArPjjRLzneEx3DAn) | [GEMINI](https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme) | 2:37 |
 | 50 | [Redline](https://open.spotify.com/track/2SccLSKaSbPI8ei4V0kTnw) | [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [Redline](https://open.spotify.com/album/0aXKQ2PXqOWt7I1b2zHNc9) | 3:11 |
 
-Snapshot ID: `AAAAAFrAmpGBt1ORK/5DNVaI+2XrFggz`
+Snapshot ID: `aI0IVgAAAACWpm9LpdL2v/67a0mq4vX+`

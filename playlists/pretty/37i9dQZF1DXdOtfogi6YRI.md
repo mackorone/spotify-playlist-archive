@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOtfogi6YRI.md) - [plain]
 
 > Nieoczywiste aktualne brzmienia polskiego rapu\. Cover: Twój, Dawid
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,286 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,291 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

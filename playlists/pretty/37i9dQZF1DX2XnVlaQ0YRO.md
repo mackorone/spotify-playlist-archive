@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,805 likes - 153 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,804 likes - 153 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

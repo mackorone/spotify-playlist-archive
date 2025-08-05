@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,843 likes - 170 songs - 10 hr 6 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,852 likes - 169 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,6 +177,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 167 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
 | 168 | [Make It Rain](https://open.spotify.com/track/7EIvSDk1RM2hZRzVx4KuSD) | [EJ Rose](https://open.spotify.com/artist/3aWqQvuvCbTcOKKX0CXOJV) | [Pain To Love](https://open.spotify.com/album/72wqPbxlo3ITrUghqg6R5l) | 3:19 |
 | 169 | [Young Blood](https://open.spotify.com/track/15zO6KG1cc8PG8zTHPr9mG) | [Nick Ryan](https://open.spotify.com/artist/5B5y0bD85xKFIlhMGCeqoy), [Joey Falcone](https://open.spotify.com/artist/4KA9rESUxMgWdO4b7S7scd) | [Young Blood](https://open.spotify.com/album/3B4ChBcW3TsQvsPEDMpRi6) | 3:50 |
-| 170 | [Dreaming](https://open.spotify.com/track/2DbAAE60XTkud3FYwADhQh) | [David Morin](https://open.spotify.com/artist/24kIGBNAXpwruRnnYjfN2p), [Koyla](https://open.spotify.com/artist/4ZPTXiGXai2aHL3625gokV) | [Dreaming](https://open.spotify.com/album/1ANCCq2iXOTbtXL6iVJfzU) | 5:00 |
 
-Snapshot ID: `AAAzpF4YiNlBq1phFb53XuKTZ/ubc3Bv`
+Snapshot ID: `AAAzpcNMXMjEqxzO0yRMyFzX3JfhTCUj`

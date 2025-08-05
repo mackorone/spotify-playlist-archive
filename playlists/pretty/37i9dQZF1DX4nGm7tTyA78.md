@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Reggaeton pero al sabor de Cristo! Foto: ANMILY
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,284 likes - 69 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,312 likes - 69 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 37 | [Con Dio’](https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Con Dio’](https://open.spotify.com/album/22LMGZA7CzDWuz4oJvFiwH) | 3:29 |
 | 38 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |
 | 39 | [Poco a Poco](https://open.spotify.com/track/1OMnykDpR1iqD7WycHrVWT) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Poco a Poco](https://open.spotify.com/album/7exSbIs48xc2PVLOKSBwrF) | 3:01 |
-| 40 | [No Se Quita](https://open.spotify.com/track/71Uw8G2YIbZ7Rkoqo8CoNI) | [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [No Se Quita](https://open.spotify.com/album/5iQhx0NRljm9aaSbkDmC9L) | 3:02 |
+| 40 | [No Se Quita](https://open.spotify.com/track/71Uw8G2YIbZ7Rkoqo8CoNI) | [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT), [El Machuca](https://open.spotify.com/artist/5RGwgqWxg85IKK6CfkzJiH), [The RialMonkey](https://open.spotify.com/artist/7bqloBOpfL37qqgklvlWm3) | [No Se Quita](https://open.spotify.com/album/5iQhx0NRljm9aaSbkDmC9L) | 3:02 |
 | 41 | [Por Ti](https://open.spotify.com/track/09bRLZWd9AFz72wP92B1z9) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Por Ti](https://open.spotify.com/album/4T40Iv05X5BjqviBRTXbCv) | 2:58 |
 | 42 | [TE QUIERO A MI LAU <3](https://open.spotify.com/track/633xpklRiB5wdid6tmzBdQ) | [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [TE QUIERO A MI LAU <3](https://open.spotify.com/album/77AGAXhsDQPkj37PypBlne) | 3:24 |
 | 43 | [Demasiado Amor](https://open.spotify.com/track/4r3FQt7P5A4NL40wUJF25Z) | [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Demasiado Amor](https://open.spotify.com/album/5NES5Et2zjK1Yk6tEXDfyW) | 3:21 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 68 | [Fugitiva](https://open.spotify.com/track/6WDZqC9He9lOIBmwLXwmwN) | [Eich Nothingness](https://open.spotify.com/artist/6cFqhnt1xZwIl7cR3Y7R2i), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [Nothingness](https://open.spotify.com/album/3JcRkiItSa5JBT5ylMd2td) | 3:49 |
 | 69 | [Te Bendeciré](https://open.spotify.com/track/1OBWc30FzvJHFEJaGlN5QE) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Te Bendeciré](https://open.spotify.com/album/59sf5c1YPBH2wxNMjOECQh) | 4:46 |
 
-Snapshot ID: `aIMgjAAAAACqhrT0Fc2DSozYVYYllVp8`
+Snapshot ID: `AAAAACK9SW4ZannwyxDGlHkVgqU5CVaT`

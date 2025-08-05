@@ -4321,7 +4321,25 @@
     },
     {
       "album": {
-        "name": "Quiereme Despacio",
+        "name": "Qui\u00e9reme As\u00ed",
+        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188193,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9reme Despacio (primavera)",
         "url": "https://open.spotify.com/album/1au2ufugm545yrGyacMr8U"
       },
       "artists": [
@@ -4338,26 +4356,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 249500,
-      "name": "Quiereme Despacio",
+      "name": "Qui\u00e9reme Despacio (primavera)",
       "url": "https://open.spotify.com/track/1nSs1KUitz6Hjlks4qtY8N"
-    },
-    {
-      "album": {
-        "name": "Qui\u00e9reme As\u00ed",
-        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "date_added": "2022-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188193,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
     },
     {
       "album": {

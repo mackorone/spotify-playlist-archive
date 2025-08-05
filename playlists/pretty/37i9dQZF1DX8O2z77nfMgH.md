@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,463 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,253 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 74 | [Crucemos](https://open.spotify.com/track/1DqxFcAxtVKIA2sWldZYKY) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Crucemos](https://open.spotify.com/album/15pPla93CDLdX0TbVYbXHP) | 3:09 |
 | 75 | [Lowkey](https://open.spotify.com/track/1GPcb8c5YYDeDP9pRVoqKb) | [DAYANA](https://open.spotify.com/artist/23zv5txL53oenql1rkQDAY) | [Lowkey](https://open.spotify.com/album/3koSgeDRGxcMknFurOjf7o) | 2:46 |
 
-Snapshot ID: `aIxEjwAAAADljPSeGCkwA5/K2SNiTl38`
+Snapshot ID: `AAAAADpj9fgZl+8KmXQR+M5y6I+lwHEW`

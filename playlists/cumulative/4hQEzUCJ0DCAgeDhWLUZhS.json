@@ -3889,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "Illness",
+        "url": "https://open.spotify.com/album/2XyDL6Ij7UwWj39HIYHAPw"
+      },
+      "artists": [
+        {
+          "name": "No Apologies",
+          "url": "https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234978,
+      "name": "Illness",
+      "url": "https://open.spotify.com/track/05271XZOhIM7S1iQlVbRJ2"
+    },
+    {
+      "album": {
         "name": "In Need of Repair",
         "url": "https://open.spotify.com/album/01JnSvaj1iA6nTZsmnwPiG"
       },

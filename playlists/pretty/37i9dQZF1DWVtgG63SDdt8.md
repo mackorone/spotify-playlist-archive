@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,057 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,188 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [WHY](https://open.spotify.com/track/5FyapNabN0qbFYTkrEKmsi) | [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW), [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot), [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp) | [The Rose Era](https://open.spotify.com/album/00SwpAGnOUIfdh9ZPvdqTL) | 3:28 |
 | 100 | [Rain of Your Love](https://open.spotify.com/track/7LiaePCWFMtu4Thx29GHGq) | [Maria Hilman](https://open.spotify.com/artist/6zM3emeiYDQ8sdoOA72Hc7) | [Rain of Your Love](https://open.spotify.com/album/6MY1NpLdseGhU0Jh8857nS) | 2:57 |
 
-Snapshot ID: `AAAAAOoikW8jLhwVr+7xyRb5Wuv5oN0A`
+Snapshot ID: `aIywgwAAAACxJw3K6SmYC3yd3oM+h5yt`

@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [Summer Breeze](https://open.spotify.com/track/0NGfhybX4BhIrRiexDlf04) | [Cherrykim](https://open.spotify.com/artist/2oOKucHCVvvG0s9F2AdG8l), [Maya Jade](https://open.spotify.com/artist/7tK7zDUhoiskbWyv8F0DRq) | [Summer Breeze](https://open.spotify.com/album/6a29f6fwppurOjOr10b1Y3) | 2:52 |
 | 40 | [Next Sign Of Love](https://open.spotify.com/track/7BKXyAZim0Tw0Iui0rAV0g) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Next Sign Of Love](https://open.spotify.com/album/31bkOZfr9DwqdDMSruWg4l) | 3:18 |
 
-Snapshot ID: `AAAAAOxLqrXkEnVNYE+4kzfKBj3TfJuf`
+Snapshot ID: `aIw73gAAAACoAgXRh2BMCyhjT86IiVBV`

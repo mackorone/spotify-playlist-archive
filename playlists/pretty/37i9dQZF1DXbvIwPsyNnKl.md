@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: 1550 Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,943 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,380 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

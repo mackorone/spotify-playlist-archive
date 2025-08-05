@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BSEHgPgKpk.md) - [plain]
 
 > Spotifyプレイリストシリーズ"ArtistCHRONICLE"\(アーティスト・クロニクル\)、第7弾はサザンオールスターズを特集！ \*Music+Talk版は<a href="spotify:show:7ENAg894BUX86x0x2xB5lu">こちら</a>。制作協力：<a href="https://cocolo.jp/sjr/">FM COCOLO 「SUPER J\-HITS RADIO」</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,139 likes - 64 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,156 likes - 64 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BSEHgPgKpk.md) - [plain]
 | 63 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 |
 | 64 | [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 |
 
-Snapshot ID: `ZWJ4LgAAAABjE++GS4Xjqupb1Wcv0/qP`
+Snapshot ID: `AAAAAA2a2saoi/q9bQp3SXlBWQOM5XPE`

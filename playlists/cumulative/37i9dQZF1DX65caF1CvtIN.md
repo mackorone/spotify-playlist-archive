@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-258 songs - 11 hr 25 min
+259 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Slowness Within](https://open.spotify.com/track/37yMja7S79WxV3EmvEKR5F) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Slowness Within](https://open.spotify.com/album/17sb0A1FVV1alrS66l2vIa) | 2:07 | 2025-04-15 | 2025-05-14 |
 | [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 | 2024-09-02 |  |
 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 | 2022-08-03 |  |
+| [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-04 |  |
 | [Solemnity](https://open.spotify.com/track/5SFneEGsmuyDQ7icV9q7QS) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Solemnity](https://open.spotify.com/album/1Rut9Kb0vybVZUie7TNH7N) | 2:44 | 2022-08-03 | 2024-09-03 |
 | [Solitude](https://open.spotify.com/track/5EaxoaMc2J9fq5zeQd1Nem) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Mirrored](https://open.spotify.com/album/0SsL5gEgRhjvYeX6aB3W0o) | 4:28 | 2022-12-06 | 2025-04-29 |
 | [Solstice](https://open.spotify.com/track/0YToMJJspEyWPAy3qR5IUH) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [Solstice](https://open.spotify.com/album/1gIRbswLCQphvIUNnjX61P) | 2:09 | 2022-12-21 |  |

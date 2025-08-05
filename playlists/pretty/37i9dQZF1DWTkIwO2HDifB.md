@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: tariisx
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,589,457 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,589,945 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Bonde dos Milionário 🍀](https://open.spotify.com/track/7M2oEncOyIxqCB1H22L96m) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [Feliz no Simples 🍀](https://open.spotify.com/album/5ANUMlfnRL0wLnb0WWb6TC) | 3:00 |
 | 50 | [Clack Bum](https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [DJ Borest](https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46) | [Clack Bum](https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H) | 2:21 |
 
-Snapshot ID: `AAAAAGrN8uSl6JVg8/WMF0nv6Ik18uyi`
+Snapshot ID: `aILzTQAAAAAu//L29ixx3003nDzevouB`

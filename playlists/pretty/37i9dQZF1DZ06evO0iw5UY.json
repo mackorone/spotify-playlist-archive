@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAC9uq8VVBfWiGAfbqvp+4AH",
+  "snapshot_id": "aI6mgAAAAAAqTK16maBDz1l839oQvMkY",
   "tracks": [
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 163479,
       "name": "No Control",
       "url": "https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: YG, Leon Thomas\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,929 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,990 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 16 | [Marta](https://open.spotify.com/track/1MQ0UpW7K0n04Waxoxoo2m) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [Marta](https://open.spotify.com/album/4wSG4GaHaqbTmDcIxXj6ex) | 2:25 |
 | 17 | [Rap Kingpin](https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Rap Kingpin](https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V) | 2:44 |
 | 18 | [That's Not Your Path \(feat\. Babyface Ray & Sango\)](https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [In Rhythm](https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv) | 3:12 |
-| 19 | [PALETTE](https://open.spotify.com/track/4r8wEqHKGSnfTgHIH5OhAe) | [TO](https://open.spotify.com/artist/3PttRSwXon32UdfFbxJbp9), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me) | [PALETTE](https://open.spotify.com/album/4yHV1aSknTiXSvFWRGOnBf) | 3:34 |
+| 19 | [PALETTE](https://open.spotify.com/track/4r8wEqHKGSnfTgHIH5OhAe) | [TO](https://open.spotify.com/artist/3PttRSwXon32UdfFbxJbp9), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [PALETTE](https://open.spotify.com/album/4yHV1aSknTiXSvFWRGOnBf) | 3:34 |
 | 20 | [I Do Too \(feat\. STAR BANDZ\)](https://open.spotify.com/track/0YLBrU5gVaDnrS3d2i7Ltl) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [I Do Too \(feat\. STAR BANDZ\)](https://open.spotify.com/album/5vbpI9GYc8rQapACTW1CxG) | 1:50 |
 | 21 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 |
 | 22 | [Professional](https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Professional](https://open.spotify.com/album/3szFCrznF383ASda6GRzq2) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [STAMINA](https://open.spotify.com/track/40i7vkc0iEaNXpFwppz8q3) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [STAMINA](https://open.spotify.com/album/0351ZKuJpwc1xnSvSAOWVU) | 2:22 |
 | 100 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 |
 
-Snapshot ID: `aIwm4gAAAACHDTx0WxsKWxqOYoPJ3b16`
+Snapshot ID: `AAAAAA0qa2Q1ILVudweWXzWB2UecZxNx`

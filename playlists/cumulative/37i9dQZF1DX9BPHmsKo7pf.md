@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: YNY Sebi
+> Cele mai de succes 50 de hituri în România\. Cover: Babasha
 
-203 songs - 9 hr 45 min
+205 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [ALL RED](https://open.spotify.com/track/3WQfLuSH0Az2tzVoCz6OCE) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/65TLpR9CjyYqBL8Os2pmlY) | 2:28 | 2024-09-23 | 2024-10-01 |
 | [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 | 2025-02-03 | 2025-06-25 |
 | [Am un secret](https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Am un secret](https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV) | 2:50 | 2025-03-03 |  |
-| [Amo, Amo](https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Amo, Amo](https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh) | 2:27 | 2024-07-08 |  |
+| [Amo, Amo](https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Amo, Amo](https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh) | 2:27 | 2024-07-08 | 2025-08-05 |
 | [Amore](https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Amore](https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9) | 2:38 | 2024-07-01 | 2024-12-03 |
 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 | 2025-01-27 |  |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-10 | 2025-06-04 |
@@ -49,7 +49,7 @@
 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 | 2025-04-14 |  |
 | [Cateodata](https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-10 | 2025-06-17 |
 | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs) | 3:10 | 2025-04-14 |  |
-| [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-14 |  |
+| [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-14 | 2025-08-05 |
 | [Cine N\-a Gresit Vreodata](https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Cine N\-a Gresit Vreodata](https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh) | 3:18 | 2024-11-11 | 2025-05-06 |
 | [Ciocolata](https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Ciocolata](https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4) | 2:49 | 2024-07-01 | 2025-01-14 |
 | [COMBINAȚII](https://open.spotify.com/track/6Z0Mb8terxwVLRvSYQhwgu) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [COMBINAȚII](https://open.spotify.com/album/1FB9b9BY9FVO8hgFP1Y2G2) | 3:12 | 2025-01-27 | 2025-04-08 |
@@ -150,6 +150,7 @@
 | [PE STRADĂ](https://open.spotify.com/track/5m8qkGkNUdclEqMrFEADmD) | [AlbertNbn](https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [PE STRADĂ](https://open.spotify.com/album/3P1d69RRAhJxr3UIntRcvK) | 2:12 | 2025-03-24 | 2025-04-15 |
 | [Pe un pat](https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Pe un pat](https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81) | 2:37 | 2024-07-01 | 2024-08-27 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-07-30 |
+| [pookie wookie](https://open.spotify.com/track/47kNo1roYlMXIZTGxAYO3P) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [pookie wookie](https://open.spotify.com/album/0jYGFjIt2G4ZjDfi8HD11g) | 3:31 | 2025-08-04 |  |
 | [PRAF 3](https://open.spotify.com/track/1JZG2Uy2YX81JVWFGpz16J) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [PRAF 3](https://open.spotify.com/album/0eQ1ejoOl4WVZBVbuCKcIi) | 3:07 | 2024-07-22 | 2024-08-13 |
 | [PRIETENA TA](https://open.spotify.com/track/65s5E9OK3p1fER8OCdJjWO) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn), [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [PRIETENA TA](https://open.spotify.com/album/0f9WWquV54mxfVNBppwy9i) | 3:22 | 2025-05-05 |  |
 | [Păi naa](https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Păi naa](https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q) | 2:40 | 2024-07-01 | 2025-04-29 |
@@ -187,6 +188,7 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-01-13 | 2025-01-21 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-09 | 2024-10-01 |
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-05-27 | 2025-07-22 |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-04 |  |
 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-30 | 2025-06-04 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-07-01 | 2024-08-27 |
 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 | 2024-07-01 | 2024-07-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,175 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,176 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 38 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 |
 | 39 | [Semana Vem](https://open.spotify.com/track/0AH5iaTfTZHhsp17XQJEml) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 4:22 |
 | 40 | [Calma Preta](https://open.spotify.com/track/75igikg3xWQPFhHHVj3jdT) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:09 |
-| 41 | [Preta D+](https://open.spotify.com/track/1RsXIRweHrvL1MqmxHgiKf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:14 |
+| 41 | [Try](https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:33 |
 | 42 | [Mais que Refrão](https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:45 |
 | 43 | [Ouça\-Me RMX](https://open.spotify.com/track/6ZePoSRNfKqkbqbhMXgKlp) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:56 |
 | 44 | [Bêbada de Feriado](https://open.spotify.com/track/23C1cUsh8QcMZZfUXiXbeR) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Vida de Atriz](https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:48 |
 | 50 | [Magenta](https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A) | [Afroito](https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Mango02](https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk) | 3:11 |
 
-Snapshot ID: `aI1VAAAAAACRS8Nc60nS2kr/BMCtx1bT`
+Snapshot ID: `aI6mgAAAAABzbsyguUdc+2Pvbei5AMvk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from ILLENIUM, Eli Brown, Rebūke, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,955 likes - 130 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,043 likes - 130 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

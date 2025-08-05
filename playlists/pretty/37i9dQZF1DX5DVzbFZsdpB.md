@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > From the Diving Board with Charli Chats is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423 likes - 10 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,422 likes - 10 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

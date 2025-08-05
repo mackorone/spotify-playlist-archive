@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,489 songs - 19 day 10 hr 0 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,492 songs - 19 day 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7497,5 +7497,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7487 | [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 |
 | 7488 | [emulation \(mode:totonee\)](https://open.spotify.com/track/5XUB5h1kZcFrgLa9RZda3Y) | [stargaze shelter](https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW) | [emulation](https://open.spotify.com/album/0OQwd9OkjGYKjYk4QCJYDB) | 3:54 |
 | 7489 | [Last Summer](https://open.spotify.com/track/0TrEqlX6NlAI0ghmvlqRSJ) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [Last Summer](https://open.spotify.com/album/3uWez8TbuS3tEyT5Mirf0W) | 4:05 |
+| 7490 | [Luv \(sic\) pt2](https://open.spotify.com/track/6gSalwEvVQfSFiqgwfyITp) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:33 |
+| 7491 | [Piano Concerto No\. 2 in C Minor, Op\. 18: 2\. Adagio sostenuto](https://open.spotify.com/track/4rrrn8OLrttq7r9RgNXalU) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Michael Francis](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) | [Rachmaninov: Piano Concerto No.2](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) | 10:44 |
+| 7492 | [Evil Woman](https://open.spotify.com/track/4N6HYihypXOVL24bnaR4fp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [All Over The World: The Very Best Of ELO](https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB) | 4:11 |
 
-Snapshot ID: `AAAIDVTLO4sWLIHVr/qfcg5P4r4SjkKX`
+Snapshot ID: `AAAIEHlNYadzf4FEVhEBovofq1wStiRG`

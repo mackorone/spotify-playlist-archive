@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 
 > Una mezcla sabrosa, picosita y refrescante con Danna Paola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,168 likes - 125 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,225 likes - 125 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

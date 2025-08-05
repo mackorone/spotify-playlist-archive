@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > Ambient highlights of 2024\. Aphex Twin on cover\. \#spotifywrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,548 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,554 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 49 | [Call For Winter II](https://open.spotify.com/track/3NkPGvXhZLgia4crLVNSuW) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Hope](https://open.spotify.com/album/7s5eowxjxvNsyob3EuiHUM) | 5:26 |
 | 50 | [III](https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 6:09 |
 
-Snapshot ID: `Z1BHxAAAAACKHkcnrRosiGCMcYb7WRIP`
+Snapshot ID: `AAAAAIzGvChTh+n0AznUGYonOfBYiHbo`

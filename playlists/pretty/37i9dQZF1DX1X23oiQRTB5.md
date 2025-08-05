@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Genezio x Tiakola au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,373 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,561 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [En vrai de vrai](https://open.spotify.com/track/0OkMUD6CfBPYG8sDle7PY9) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [En vrai de vrai](https://open.spotify.com/album/3cCY3cxdYsjtO8v2Sa1RPa) | 3:38 |
 | 40 | [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 |
 
-Snapshot ID: `aIKs/gAAAADeZVX7McGtoHe7eifG+sMq`
+Snapshot ID: `AAAAAGMgfLsK998QlrBunWGrOuQubwJL`

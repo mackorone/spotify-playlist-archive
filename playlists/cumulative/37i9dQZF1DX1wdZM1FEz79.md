@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-594 songs - 1 day 11 hr 5 min
+595 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/7Lf3MxufBeAg6ZSKlut8wZ) | [Bam Soo Sung](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Close Your Eyes](https://open.spotify.com/album/5D8tcWOfpWfIoLG075ptmG) | 3:32 | 2022-03-31 | 2022-04-14 |
 | [Cloud](https://open.spotify.com/track/2C8ISWwVLF8t2b55GJrikc) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Cloud](https://open.spotify.com/album/2sBqBMbztnyHxhDHI8JbCP) | 2:47 | 2022-03-31 | 2022-04-21 |
 | [Clover](https://open.spotify.com/track/6KboAbHVBi95z5UAkeaJV6) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Clover](https://open.spotify.com/album/7F0h3aAEjQdQIZrLO4Lz95) | 3:46 | 2023-10-27 | 2023-11-04 |
+| [Coffee](https://open.spotify.com/track/5ajpJxhyVzeRuWvtAcVedH) | [나의 노래 메모장](https://open.spotify.com/artist/2j5LbdJFRLOltAs5r9QwOF) | [Coffee](https://open.spotify.com/album/4o3GYoyddGfm3AkIGugwmw) | 2:58 | 2025-08-05 |  |
 | [Coffee Song \- Korean Version](https://open.spotify.com/track/0aWNMpUMgsy6erqUlft9Pw) | [임백천](https://open.spotify.com/artist/6LqtnFuXA9qt2dVmxHckoa) | [New Way](https://open.spotify.com/album/3v5zdvdUOz1sRYxN2fYSPL) | 2:52 | 2022-03-31 | 2022-04-21 |
 | [Color of the day](https://open.spotify.com/track/1fljCSLlJYcFubv7LMNQRM) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [Poems 25](https://open.spotify.com/album/33nIFtG0RQDBdXjsQ9X73G) | 3:30 | 2025-04-10 | 2025-05-15 |
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-10 | 2022-07-25 |
@@ -506,7 +507,7 @@
 | [Umbrella](https://open.spotify.com/track/0o18OyyGIciA1QbaSWiMm0) | [diego](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [Fractal](https://open.spotify.com/album/7nRBNnnHayboasRapn3I91) | 2:56 | 2024-08-10 | 2024-08-23 |
 | [Underdog Love](https://open.spotify.com/track/2B3m6yaFZf5Tzwyn1opfT8) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Underdog Love](https://open.spotify.com/album/7krQUrbx4ixgB9xD5eltcm) | 3:18 | 2025-07-11 |  |
 | [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-03-04 | 2022-04-15 |
-| [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-10 |  |
+| [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-10 | 2025-08-05 |
 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 | 2022-03-04 | 2024-09-03 |
 | [Voice Of The Forest \- Guitar Version](https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Voice Of The Forest](https://open.spotify.com/album/6MbzdZpJjL2CXVOuPEVLmb) | 3:53 | 2022-02-18 | 2022-04-21 |
 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 | 2021-12-10 |  |

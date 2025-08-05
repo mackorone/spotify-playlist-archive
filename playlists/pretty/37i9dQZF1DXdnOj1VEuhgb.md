@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: MERO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,453 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,647 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AQUAFINA](https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [AQUAFINA](https://open.spotify.com/album/2y43Y78ueoesO5T4mtvsXj) | 2:27 |
+| 1 | [ÇOK AĞLADIM](https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [ÇOK AĞLADIM](https://open.spotify.com/album/3xDHI3UPennkKzJsmmtODd) | 1:54 |
 | 2 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
 | 3 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 |
-| 4 | [ÇOK AĞLADIM](https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [ÇOK AĞLADIM](https://open.spotify.com/album/3xDHI3UPennkKzJsmmtODd) | 1:54 |
-| 5 | [RS6](https://open.spotify.com/track/51KQvZMR70ffMVxs4JugnX) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [RS6](https://open.spotify.com/album/1Jse2pNXxLcKTrePHApCAP) | 3:00 |
-| 6 | [DELETE](https://open.spotify.com/track/1GQdjHxfxg28ZWPzr54cCM) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [DELETE](https://open.spotify.com/album/4KMjA8n2JDVKj4y6ercuTN) | 3:18 |
-| 7 | [LUXURIA](https://open.spotify.com/track/4I23Z0bem61CsCYeedtsgo) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [LUXURIA](https://open.spotify.com/album/4XfphrxQnnvLdd8JxYPHrx) | 3:23 |
-| 8 | [dubaiiiiii](https://open.spotify.com/track/4J49WukjRkDHgnqLdwRy8Z) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [dubaiiiiii](https://open.spotify.com/album/61m26yYILtyEmRYxCdLT8u) | 2:13 |
-| 9 | [Sana Dair](https://open.spotify.com/track/6Bm8h6mriSBj26TGTFdKbW) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Sana Dair](https://open.spotify.com/album/4trc0RuyJmjfsTXJQ7wZX6) | 2:24 |
-| 10 | [Heyecan](https://open.spotify.com/track/7L3GLSWe2zd1YPwHLxJvR7) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Heyecan](https://open.spotify.com/album/2E94wziZW75uLBhC4P71gh) | 2:50 |
-| 11 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
+| 4 | [AQUAFINA](https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [AQUAFINA](https://open.spotify.com/album/2y43Y78ueoesO5T4mtvsXj) | 2:27 |
+| 5 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
+| 6 | [RS6](https://open.spotify.com/track/51KQvZMR70ffMVxs4JugnX) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [RS6](https://open.spotify.com/album/1Jse2pNXxLcKTrePHApCAP) | 3:00 |
+| 7 | [Heyecan](https://open.spotify.com/track/7L3GLSWe2zd1YPwHLxJvR7) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Heyecan](https://open.spotify.com/album/2E94wziZW75uLBhC4P71gh) | 2:50 |
+| 8 | [LUXURIA](https://open.spotify.com/track/4I23Z0bem61CsCYeedtsgo) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [LUXURIA](https://open.spotify.com/album/4XfphrxQnnvLdd8JxYPHrx) | 3:23 |
+| 9 | [dubaiiiiii](https://open.spotify.com/track/4J49WukjRkDHgnqLdwRy8Z) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [dubaiiiiii](https://open.spotify.com/album/61m26yYILtyEmRYxCdLT8u) | 2:13 |
+| 10 | [DELETE](https://open.spotify.com/track/1GQdjHxfxg28ZWPzr54cCM) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [DELETE](https://open.spotify.com/album/4KMjA8n2JDVKj4y6ercuTN) | 3:18 |
+| 11 | [Sana Dair](https://open.spotify.com/track/6Bm8h6mriSBj26TGTFdKbW) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Sana Dair](https://open.spotify.com/album/4trc0RuyJmjfsTXJQ7wZX6) | 2:24 |
 | 12 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
 | 13 | [napıyosun mesela ?](https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 3:05 |
 | 14 | [Bench Press](https://open.spotify.com/track/5DkuYrfGZrg6xTWpvRsIkk) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Bench Press](https://open.spotify.com/album/3GtEfsHdYR6TIHSk2IcJ62) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 50 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
 
-Snapshot ID: `aIvZYQAAAABlThLFH0JpEelXoOzyNo57`
+Snapshot ID: `aJEEHgAAAAAlzfZByEbyAOgrBPqGiCT6`

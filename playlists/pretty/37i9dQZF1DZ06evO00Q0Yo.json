@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19556,
+  "num_followers": 19558,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAABLyzWrLBJJUsqzxevks5P/",
+  "snapshot_id": "aI6mgAAAAACdc1zri2/f3wgGYdNoDIr2",
   "tracks": [
     {
       "added_at": null,
@@ -287,30 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bando Stone and The New World",
-        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Talk My Shit (feat. Amaarae & Flo Milli)",
-      "url": "https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rodeo Remix (feat. Flo Milli) [Sped Up Version]",
         "url": "https://open.spotify.com/album/2qJA56ITockA3bdWlUJEK2"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 187000,
       "name": "Rodeo Remix (feat. Flo Milli) [Sped Up Version]",
       "url": "https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Talk My Shit (feat. Amaarae & Flo Milli)",
+      "url": "https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN"
     },
     {
       "added_at": null,

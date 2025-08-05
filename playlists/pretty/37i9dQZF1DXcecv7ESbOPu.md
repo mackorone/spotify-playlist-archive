@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Chappell Roan, Hooja, Peg Parnevik och Demi Lovato med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,969 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,964 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 22 | [Seasalt & Teardrops](https://open.spotify.com/track/0K0rN4ZN1xJpwEK0METl5t) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Seasalt & Teardrops](https://open.spotify.com/album/5H4p5XKauaYQ1I1E79ZLQG) | 2:58 |
 | 23 | [California Love](https://open.spotify.com/track/7EAtkR8y8sT4jEx3SOsznv) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [California Love](https://open.spotify.com/album/0wQm88iHgpEIZ3pNChByEf) | 2:19 |
 | 24 | [pippi](https://open.spotify.com/track/6hLpSP9SCZW9KmripG2oEN) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [pippi](https://open.spotify.com/album/2LhAKI5zXiRdKmLkUpegxk) | 2:23 |
-| 25 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 25 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 26 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 |
 | 27 | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS) | 3:28 |
 | 28 | [apricot jam](https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [apricot jam](https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N) | 3:14 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 100 | [Freedom](https://open.spotify.com/track/4iASwEBoRvT7vF0v58n8Qj) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Freedom](https://open.spotify.com/album/75bZcmEoh0IMVP2E63TQQs) | 2:32 |
 | 101 | [Don't Look Down](https://open.spotify.com/track/060VALM3GBwYuLva2Kg4r9) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Don't Look Down](https://open.spotify.com/album/09vETzLYeQ2RxuOOWYpkeY) | 3:25 |
 
-Snapshot ID: `AAAAAOmOqVBpxfLHXh/PzoTzmJ0vChkr`
+Snapshot ID: `aIyO9AAAAAAr5rqOAlNpVbm3Nf2aEi99`

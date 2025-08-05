@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "The Lost Files",
+        "url": "https://open.spotify.com/album/428N9zTdjW9YzRVxBWZN7C"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84114,
+      "name": "IWATCHEDHIMDROWN",
+      "url": "https://open.spotify.com/track/4jv3TFJWkmCswY7DxwMeQI"
+    },
+    {
+      "album": {
         "name": "11th Dimension",
         "url": "https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf"
       },
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 164082,
       "name": "Train food",
       "url": "https://open.spotify.com/track/5lar0mCUejpILVkAz50s2J"

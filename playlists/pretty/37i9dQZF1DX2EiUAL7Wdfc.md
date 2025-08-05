@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EiUAL7Wdfc.md) - [plain]
 
 > Los temas que se convertirán en himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,807 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,061 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

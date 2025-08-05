@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring 1111\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,042 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,110 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Collect 200](https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe) | 2:50 |
 | 100 | [Take More Chances](https://open.spotify.com/track/40ABQIYtFBnZynIbdg9RIv) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE), [Bacavi](https://open.spotify.com/artist/7mRPKukfheKbpoHKRS7kkd) | [Take More Chances](https://open.spotify.com/album/4BvW9yJRncNFyTOmJ8O0j4) | 3:01 |
 
-Snapshot ID: `AAAAANSissetq7zBcEHvanJYLjeGIGCf`
+Snapshot ID: `aIzSLgAAAABUQKVaYKdiwAvy7Zh+NCPA`

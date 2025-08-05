@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,533 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,540 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [you say that i'm crazy](https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [you say that i'm crazy](https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9) | 2:26 |
 | 80 | [The Saviour](https://open.spotify.com/track/3HKIcz3YOVdLVaydRVmSC2) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Saviour](https://open.spotify.com/album/23fDS1YhmFSeZUptFFshoA) | 3:38 |
 
-Snapshot ID: `AAAAAA93HCxxWyWeMLMj2f2LVtLe2vUH`
+Snapshot ID: `aInx/gAAAACEtOyrbKg+r6snUeUD+Dzr`

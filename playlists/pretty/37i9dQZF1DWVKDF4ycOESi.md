@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Chappell Roan, Rauw Alejandro, Danny Ocean, Saweetie e TWICE, d4vd e hannah bahng e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,122 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,106 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 7 | [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 |
 | 8 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 |
 | 9 | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/3prI01KDvDe7nNLlZ8UF85) | [Caught Stealing Movie](https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dA8X01ZBLGjM8g8rThf3h) | 3:46 |
-| 10 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 10 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 11 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
 | 12 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
 | 13 | [Credo di Esserci](https://open.spotify.com/track/5j1sRdybeDBwQA7qzcwiCG) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Credo di Esserci](https://open.spotify.com/album/5Kq1XMq8nCUjaWJLOnhvhw) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 49 | [Last Few Parties](https://open.spotify.com/track/55wfUUF4RMvbZg98dSl9oH) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [You Wanna Fade? \(Deluxe Edition\)](https://open.spotify.com/album/3DN44dRh3BSu0pEYSLoSuG) | 2:40 |
 | 50 | [burn down everything](https://open.spotify.com/track/4O9gHHOl9rpHtasRdFBFxd) | [Orbit Service](https://open.spotify.com/artist/1Ebw2dMuB90FgMsddepveL) | [burn down everything](https://open.spotify.com/album/0trlZIP1RAv04237302ppf) | 4:24 |
 
-Snapshot ID: `aIwD3AAAAADU5oIeX/do/MOtUV7/JZ43`
+Snapshot ID: `AAAAAJRvfye4ld/LHXkQzA9vRa04M5sV`

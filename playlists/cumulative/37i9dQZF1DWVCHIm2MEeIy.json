@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 389038,
       "name": "Along Came Polly",
       "url": "https://open.spotify.com/track/6fL2wAZuNKGpze9E3SINnW"
@@ -2845,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Do You EP",
+        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221769,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
+    },
+    {
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/3e0ey4aL4pWbdGl92S4F0m"
       },
@@ -3745,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455040,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF"
+    },
+    {
+      "album": {
         "name": "Give It 2 Me",
         "url": "https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR"
       },
@@ -4036,7 +4072,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 199727,
       "name": "Hare Ram",
       "url": "https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O"

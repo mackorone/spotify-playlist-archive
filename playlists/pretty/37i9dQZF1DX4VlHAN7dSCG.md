@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 脆樂團 \(Crispy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,380 likes - 81 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,381 likes - 81 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 263541,
+  "num_followers": 263575,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAADyXLApH5frSxoVCmIEd1F8",
+  "snapshot_id": "aI6mgAAAAAD18IZOSNgnvmQMcbM5iW24",
   "tracks": [
     {
       "added_at": null,
@@ -614,11 +614,15 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 186121,
-      "name": "penhasco.",
-      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": null,
@@ -698,15 +702,11 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
+      "duration_ms": 186121,
+      "name": "penhasco.",
+      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
     },
     {
       "added_at": null,
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olhos Castanhos",
-        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
       },
       "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 205523,
-      "name": "Olhos Castanhos",
-      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
+      "duration_ms": 167122,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
     },
     {
       "added_at": null,
@@ -827,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
+        "name": "Olhos Castanhos",
+        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
       },
       "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 167122,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
+      "duration_ms": 205523,
+      "name": "Olhos Castanhos",
+      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GyB1VTMbAk.md) - [plain]
 
 > Enjoy the RIIZE CONCERT TOUR \[RIIZING LOUD\] LIVE SET including the voices of them on stage! \(라이즈의 무대 멘트와 목소리가 포함된 \[RIIZING LOUD\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,394 likes - 29 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,430 likes - 29 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GyB1VTMbAk.md) - [plain]
 | 28 | [One Kiss](https://open.spotify.com/track/4aShw2oGVO55cXxFGu7MM7) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 3:32 |
 | 29 | [Inside My Love](https://open.spotify.com/track/0ctTbnpZKsDjY7vG7jtPeM) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:39 |
 
-Snapshot ID: `aHnw/AAAAAA2bbtoG1SAqMpYxsC/BJZW`
+Snapshot ID: `AAAAAMy21zEMsGzBWNS/MszhIX4C3z83`

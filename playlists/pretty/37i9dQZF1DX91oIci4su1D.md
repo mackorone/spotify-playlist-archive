@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Markus Schulz
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,478 likes - 187 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,506 likes - 187 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

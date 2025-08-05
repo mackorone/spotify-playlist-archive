@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,373,910 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,064 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 3 | [JANKY moral COMPASS \(feat\. Samara Cyn & Sydney Leona\)](https://open.spotify.com/track/4Sfl1Hhi7adLW7IsHP4itc) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Sydney Leona](https://open.spotify.com/artist/4sWc3NPfHM8tgq3C1gASa4), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 5:09 |
 | 4 | [Ensalada \(feat\. Anderson .Paak\)](https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:46 |
 | 5 | [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 |
-| 6 | [PALETTE](https://open.spotify.com/track/4r8wEqHKGSnfTgHIH5OhAe) | [TO](https://open.spotify.com/artist/3PttRSwXon32UdfFbxJbp9), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me) | [PALETTE](https://open.spotify.com/album/4yHV1aSknTiXSvFWRGOnBf) | 3:34 |
+| 6 | [PALETTE](https://open.spotify.com/track/4r8wEqHKGSnfTgHIH5OhAe) | [TO](https://open.spotify.com/artist/3PttRSwXon32UdfFbxJbp9), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [PALETTE](https://open.spotify.com/album/4yHV1aSknTiXSvFWRGOnBf) | 3:34 |
 | 7 | [That's Not Your Path \(feat\. Babyface Ray & Sango\)](https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [In Rhythm](https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv) | 3:12 |
 | 8 | [Now We're Strangers](https://open.spotify.com/track/4ys3y9djWZurOdyouMlcBG) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:26 |
 | 9 | [Sucka Free](https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:41 |

@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-187 songs - 7 hr 46 min
+188 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 | 2023-05-09 | 2025-04-09 |
 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-04 |  |
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2023-05-09 | 2025-04-26 |
+| [Feel For Balance](https://open.spotify.com/track/11RToQo0Dt4xy0z301RV5Q) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Feel For Balance](https://open.spotify.com/album/4nexlHbho207Wndt2F5SI5) | 2:38 | 2025-08-04 |  |
 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 | 2025-04-04 |  |
 | [Fiore](https://open.spotify.com/track/0WawGuRGr9dUuAL2ifURnx) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Fiore](https://open.spotify.com/album/3uNpgppb88r1tYCOUyIQ2h) | 2:24 | 2025-02-18 |  |
 | [Fjord](https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fjord](https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs) | 2:37 | 2024-07-30 |  |

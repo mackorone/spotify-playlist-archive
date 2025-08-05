@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,369 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,386 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 69 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 | 70 | [Rihanna](https://open.spotify.com/track/5zUDU4xwvd3V3DjOKULoM7) | [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI) | [Rihanna](https://open.spotify.com/album/6sa8C7jhBvpN7ipQUoFwgu) | 2:10 |
 
-Snapshot ID: `AAAAADUh6+IRjiYs7v9X4uAhNEZuLwZE`
+Snapshot ID: `aIjs3QAAAACXXRW6xuzAOT29iigFJ/ge`

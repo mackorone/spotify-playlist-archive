@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 436332,
+  "num_followers": 436328,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAAsXUqyRNVw55T3zsySnpYI",
+  "snapshot_id": "aI6mgAAAAACTT61KqML6P17jchdftmHH",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+        "name": "The Bedroom Tour Playlist",
+        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
       },
       "artists": [
         {
+          "name": "Niykee Heaton",
+          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
+        },
+        {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
         }
       ],
-      "duration_ms": 239316,
-      "name": "Time For Me",
-      "url": "https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r"
+      "duration_ms": 245722,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
     },
     {
       "added_at": null,
@@ -319,26 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bedroom Tour Playlist",
-        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
       "artists": [
         {
-          "name": "Niykee Heaton",
-          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
-        },
-        {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
         }
       ],
-      "duration_ms": 245722,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
+      "duration_ms": 239316,
+      "name": "Time For Me",
+      "url": "https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r"
     },
     {
       "added_at": null,
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 198077,
-      "name": "First 48",
-      "url": "https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK"
+      "duration_ms": 222424,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
     },
     {
       "added_at": null,
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 222424,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
+      "duration_ms": 198077,
+      "name": "First 48",
+      "url": "https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK"
     }
   ],
   "unique_name": "This Is Migos",

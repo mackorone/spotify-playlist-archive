@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-326 songs - 18 hr 33 min
+327 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 | 2025-06-30 |  |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-03-16 |  |
 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2023-11-12 |  |
+| [Something more awesome than a ghost](https://open.spotify.com/track/47f3tIWTiD6wHB2AaCmkkp) | [null](https://open.spotify.com/artist/2uunASYD2lq4NEKTWE0O6V), [warabe](https://open.spotify.com/artist/6o7QGeizvqvNU5Aq2Okw13) | [Something more awesome than a ghost](https://open.spotify.com/album/49TixC2pbSlrKHpGZBntp1) | 3:10 | 2025-08-04 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-14 |  |
 | [Spotlight \(feat\. WaMi\)](https://open.spotify.com/track/2GwDA6KvANMLYETLsBj9SE) | [MOTTO MUSIC](https://open.spotify.com/artist/69eIvKHcfYigWsgnBSv1jW), [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Sweets.](https://open.spotify.com/album/2AoDCCx6szbKJp8yrZPzdL) | 4:04 | 2024-08-12 |  |
 | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv) | 1:41 | 2023-11-29 |  |

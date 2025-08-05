@@ -3697,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "soleil",
+        "url": "https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV"
+      },
+      "artists": [
+        {
+          "name": "Adrien Anvi\u00e9r",
+          "url": "https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155384,
+      "name": "soleil",
+      "url": "https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli"
+    },
+    {
+      "album": {
         "name": "Solemnity",
         "url": "https://open.spotify.com/album/1Rut9Kb0vybVZUie7TNH7N"
       },

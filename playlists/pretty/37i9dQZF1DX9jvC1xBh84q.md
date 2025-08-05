@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9jvC1xBh84q.md) - [plain]
 
 > Calling all sneaky links! 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,201 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,228 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9jvC1xBh84q.md) - [plain]
 | 48 | [On Chill \(feat\. Jeremih\)](https://open.spotify.com/track/5z51HY4ei5QhTjcvwq5Msw) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:34 |
 | 49 | [Mixy \(feat\. Summer Walker\)](https://open.spotify.com/track/1qMnyfVxKKlAxYrFPYTuph) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:30 |
 
-Snapshot ID: `ZIvhAgAAAAAYlET+qw3w1+qnQ4iM4RzA`
+Snapshot ID: `AAAAACiEMfifVdW5my8a9YzN6x2Uu+K2`

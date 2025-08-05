@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 65 | [Circus](https://open.spotify.com/track/62bw5Ul7YeOXsQHq7HmT56) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Play Dead](https://open.spotify.com/album/3iOOZ1PJx2CEl7snAAW6W6) | 3:30 |
 | 66 | [Every Moment](https://open.spotify.com/track/6X0uczH3gOA4hbyPNdvSfb) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Every Moment](https://open.spotify.com/album/5YVNW4DIzAdA7gc1bJEW6X) | 2:53 |
 | 67 | [Kamikaze Camouflage](https://open.spotify.com/track/7kfq2i1lkGF0ObTD5Ke4os) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 2:34 |
-| 68 | [Wiersz Na Szkle](https://open.spotify.com/track/19gAeD3VrmLtPgAA9d9yun) | [Adam Kubera](https://open.spotify.com/artist/6Wac9kvo37JBxgkSS8LRXU) | [Wiersz Na Szkle](https://open.spotify.com/album/7pgMoAox0KApuvFljDbpyL) | 3:40 |
-| 69 | [No One But Yourself](https://open.spotify.com/track/5ep9D7x1FwCBy6INbF0Fad) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [No One But Yourself](https://open.spotify.com/album/4VDksPljHSEP0701PHsjj9) | 2:59 |
+| 68 | [No One But Yourself](https://open.spotify.com/track/5ep9D7x1FwCBy6INbF0Fad) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [No One But Yourself](https://open.spotify.com/album/4VDksPljHSEP0701PHsjj9) | 2:59 |
+| 69 | [Wiersz Na Szkle](https://open.spotify.com/track/19gAeD3VrmLtPgAA9d9yun) | [Adam Kubera](https://open.spotify.com/artist/6Wac9kvo37JBxgkSS8LRXU) | [Wiersz Na Szkle](https://open.spotify.com/album/7pgMoAox0KApuvFljDbpyL) | 3:40 |
 | 70 | [Dopamine \- Radio Edit](https://open.spotify.com/track/1uzXNHa9hfU7WlIq0galfM) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Dopamine](https://open.spotify.com/album/0q9AGhJrvZruxED1HFSLwf) | 3:40 |
 | 71 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 |
 | 72 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 112 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 113 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Ab4i0gAAAAAu3/SVGi189tkcxDqK2XdP`
+Snapshot ID: `Ab4oaAAAAABqxTDAu6tGausWYSNn+BCX`

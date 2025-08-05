@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Pig Pen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,429 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,473 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Kingdom](https://open.spotify.com/track/548QJ0CSvCYHUfHmx7L9VN) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Kingdom](https://open.spotify.com/album/74YG8EwAj4KnJtLmkwYKuZ) | 3:02 |
 | 100 | [Positions of Power](https://open.spotify.com/track/1xT9m6qJL4FbuoiNMB3Au5) | [Skullpresser](https://open.spotify.com/artist/074HajIHsqL6ax3y72BtN9) | [Positions of Power](https://open.spotify.com/album/4IbPhWqkRy3E5fCr1saj1H) | 1:40 |
 
-Snapshot ID: `AAAAAOvPgIpsymgcNWCJ+eQpellbLLFJ`
+Snapshot ID: `aHnG0gAAAACYha3ou3g9z1f1cnOTZedI`

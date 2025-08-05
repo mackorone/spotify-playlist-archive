@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2962086,
+  "num_followers": 2962033,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAACjii4lg3kDoS7vLjQFFZF7",
+  "snapshot_id": "aI6mgAAAAACWuIyRTyNpiPNueo2acJ8o",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "WingRiddenAngel",
-      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 121630,
       "name": "I don't let go",
       "url": "https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "WingRiddenAngel",
+      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lost Files",
+        "url": "https://open.spotify.com/album/428N9zTdjW9YzRVxBWZN7C"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 84114,
+      "name": "IWATCHEDHIMDROWN",
+      "url": "https://open.spotify.com/track/4jv3TFJWkmCswY7DxwMeQI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
       },
@@ -871,22 +891,6 @@
       "duration_ms": 118360,
       "name": "Curse",
       "url": "https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 164082,
-      "name": "Train food",
-      "url": "https://open.spotify.com/track/5lar0mCUejpILVkAz50s2J"
     }
   ],
   "unique_name": "This Is XXXTENTACION",

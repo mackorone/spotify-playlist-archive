@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,106 songs - 2 day 11 hr 37 min
+1,107 songs - 2 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Flat](https://open.spotify.com/track/3W4qJ1f1anwipbPi0M93Dq) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat \- Single](https://open.spotify.com/album/26hIh6pP1BRAuePDXuRxn7) | 2:33 | 2022-07-28 | 2022-08-18 |
 | [Flawless](https://open.spotify.com/track/7iFF7hvCRpuvEriLvb1E0O) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Flawless](https://open.spotify.com/album/7nPvL8HgvRRnyaHqk20rON) | 2:44 | 2025-04-08 | 2025-05-22 |
 | [FLOWER & SAINTS](https://open.spotify.com/track/76nPGzoILoxiq1ntIrixfS) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Stolen Dreams](https://open.spotify.com/album/3wKOSB7GTT0aeaXsEJ26G9) | 3:00 | 2024-01-12 |  |
+| [Flowers](https://open.spotify.com/track/6f71Yo6bkv9AWs3MbM7dWu) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Flowers](https://open.spotify.com/album/6xrvT0PEBTmD7k1vkFe1io) | 2:54 | 2025-08-04 |  |
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2022-07-15 | 2023-02-04 |
 | [Friend Zone](https://open.spotify.com/track/6H68gA0MicRwC9Nsqg8dMH) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Friend Zone](https://open.spotify.com/album/7zFz2AZIusoKWEC9qbXwEc) | 3:25 | 2022-02-22 | 2022-03-11 |
 | [From Ages](https://open.spotify.com/track/1F4ndcQwUk98MK3lpBs7t2) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:15 | 2025-06-27 |  |
@@ -382,7 +383,7 @@
 | [Ik Tu Goriye](https://open.spotify.com/track/155WbOc8SuCW9ZyIh4rFI4) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Ik Tu Goriye](https://open.spotify.com/album/003fTrJAdHyNsxNLh22vsy) | 4:00 | 2023-12-11 | 2024-09-07 |
 | [Ikk Number](https://open.spotify.com/track/3IIfZy5KjNupxhlZfoPfOw) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Ikk Number](https://open.spotify.com/album/2zzVGCWpet59talzUugOaA) | 3:02 | 2023-11-07 |  |
 | [Ikk Taara Tuta \- From "P.R."](https://open.spotify.com/track/0XpQ26NbTXPyqCRRCoZ9Zp) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Sabir Ali](https://open.spotify.com/artist/3tZ8wQquxUwLnS4yr7czym) | [Ikk Taara Tuta \(From "P.R."\)](https://open.spotify.com/album/3CiJDlIoqFmzcT4yaU1aTZ) | 8:29 | 2022-06-01 | 2022-07-06 |
-| [Ikko Dil](https://open.spotify.com/track/1zPxAetWhgUtwSvdstIgBb) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl) | [Ikko Dil](https://open.spotify.com/album/5uJDRK3mUmwGjUXzFzbN38) | 2:54 | 2025-07-16 |  |
+| [Ikko Dil](https://open.spotify.com/track/1zPxAetWhgUtwSvdstIgBb) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl) | [Ikko Dil](https://open.spotify.com/album/5uJDRK3mUmwGjUXzFzbN38) | 2:54 | 2025-07-16 | 2025-08-05 |
 | [Ikko Jehe](https://open.spotify.com/track/0uG6SxCSZUgrzb5yNo2g1e) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Ikko Jehe](https://open.spotify.com/album/4QpYtJtoSMKRCHAWHMS9eF) | 3:11 | 2024-03-08 | 2025-03-10 |
 | [Iko Zindagi](https://open.spotify.com/track/3qTAXAJXCmYxbc9AnEeVlS) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Prince Rakhdi](https://open.spotify.com/artist/27D50vNC9ZMp58DGsWU2g2), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Iko Zindagi](https://open.spotify.com/album/0STaVuZue6lZ2VIbcGpZfh) | 2:51 | 2023-01-11 | 2023-02-04 |
 | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/4TsopDP9uBKf0oBN01CKoC) | [Mehtab Virk](https://open.spotify.com/artist/6npKsb0CeJMFX3FwjKybfD) | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/7Amx2o2pSvJHgoddju9d0p) | 3:33 | 2022-04-21 | 2022-04-29 |

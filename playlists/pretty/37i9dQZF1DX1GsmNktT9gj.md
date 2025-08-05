@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GsmNktT9gj.md) - [plain]
 
 > Listen to all of your favorite songs from the brand new film, Disney's Lilo & Stitch and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,722 likes - 48 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,918 likes - 48 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GsmNktT9gj.md) - [plain]
 | 47 | [I'm Lost](https://open.spotify.com/track/4NxkKbiXAUa7e3CFGohZqh) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 4:39 |
 | 48 | [Hawaiian Roller Coaster Ride \- Orgel Version](https://open.spotify.com/track/6yfrjt5pxSJtOUiubztVKN) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 4:45 |
 
-Snapshot ID: `aFBgMwAAAACmB71hWOY+EJtJHfn4ypLu`
+Snapshot ID: `aFBgMwAAAAC2fBdUZji3aTGGCtsxNly+`

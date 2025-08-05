@@ -670,7 +670,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 204835,
       "name": "High",
       "url": "https://open.spotify.com/track/2lzezhXlYVSwah9ZVlZ5fg"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 239521,
       "name": "Shred For Summer",
       "url": "https://open.spotify.com/track/0gOgWkKdzbuNIY9Zh5VLGX"
@@ -1624,6 +1624,24 @@
       "duration_ms": 239521,
       "name": "Shred For Summer",
       "url": "https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0"
+    },
+    {
+      "album": {
+        "name": "Shred For Summer",
+        "url": "https://open.spotify.com/album/5OBRYYOZTSUhEgbYL8kXPc"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239521,
+      "name": "Shred For Summer",
+      "url": "https://open.spotify.com/track/5QMBzbn8l7o6BHPXiL3XJK"
     },
     {
       "album": {

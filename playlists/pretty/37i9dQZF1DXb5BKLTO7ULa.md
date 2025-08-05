@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Chappell Roan, Bastille, SONS en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,797 likes - 83 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,769 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 41 | [Waiting](https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Waiting](https://open.spotify.com/album/6jXFSUgmXl8qAZEIPChYcE) | 2:47 |
 | 42 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 |
 | 43 | [Papucho](https://open.spotify.com/track/2odDG9OI4nyZoT5567Se0B) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0) | [Papucho](https://open.spotify.com/album/1EVZHXfuIBIlZkOHH6fOHW) | 2:55 |
-| 44 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 44 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 45 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
 | 46 | [MAGNETIC](https://open.spotify.com/track/5pZ7aZnPA582Y4Eh2t0FCU) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [MAGNETIC](https://open.spotify.com/album/7sWOjKLCaVDNhPMbOAHMhy) | 3:02 |
 | 47 | [Magnetisch](https://open.spotify.com/track/4SkkqCMpDi9CD84stXUMdo) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Magnetisch](https://open.spotify.com/album/6nZq99A3bzEq6T9M40d4qC) | 2:58 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 82 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 |
 | 83 | [Last Few Parties](https://open.spotify.com/track/55wfUUF4RMvbZg98dSl9oH) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [You Wanna Fade? \(Deluxe Edition\)](https://open.spotify.com/album/3DN44dRh3BSu0pEYSLoSuG) | 2:40 |
 
-Snapshot ID: `aIwDlgAAAAAWDnIVpArwJYbbmp+9Cp/W`
+Snapshot ID: `aJCiZgAAAABBlUdV4Pzu4M404C8iIf+8`

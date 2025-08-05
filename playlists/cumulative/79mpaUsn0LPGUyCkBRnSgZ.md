@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-863 songs - 2 day 9 hr 15 min
+864 songs - 2 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Death Parade](https://open.spotify.com/track/4IIdH7tHoikvvr0twQtCBI) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Anime, Trauma and Divorce](https://open.spotify.com/album/23SV7P5U8oF3EJfkdW08wO) | 2:24 | 2023-06-29 | 2023-07-02 |
 | [Debaser](https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:51 | 2023-11-30 | 2024-01-17 |
 | [Decora](https://open.spotify.com/track/4AAbuMTQKLT3ls8Maztnbn) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Electr\-o\-pura](https://open.spotify.com/album/4z0y72X6GLvi4EOlezrFS9) | 3:26 | 2023-05-06 |  |
+| [Dedicated To The World](https://open.spotify.com/track/7mrg21PgRujbDGdMhZZNFL) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 3:02 | 2025-08-04 |  |
 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 | 2023-06-27 | 2023-07-29 |
 | [Departed](https://open.spotify.com/track/1piZEjk3QiqY7wekdSz3tb) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 2:14 | 2024-08-19 |  |
 | [Describe You](https://open.spotify.com/track/5QX8sjpXdXRqlvRKZHR2HW) | [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Confessions](https://open.spotify.com/album/523NK9KpUMDov85Flrn1kf) | 3:19 | 2024-01-18 |  |

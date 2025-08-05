@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 40 | [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 |
 | 41 | [FUCKBOI REJECTS](https://open.spotify.com/track/580TkL4a8bKLgVbsiSoEFQ) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:07 |
 | 42 | [bright side of the moon](https://open.spotify.com/track/5r4G5w8ujwefEnrCT5uzoX) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [bright side of the moon](https://open.spotify.com/album/2oD4BvnapvypZEBsrNRqY3) | 3:10 |
-| 43 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
-| 44 | [Endless](https://open.spotify.com/track/39TniRr67zsLesnyrwrkLK) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Endless](https://open.spotify.com/album/27COR8Xifi0nEuSEKRAKRt) | 3:26 |
+| 43 | [Endless](https://open.spotify.com/track/39TniRr67zsLesnyrwrkLK) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Endless](https://open.spotify.com/album/27COR8Xifi0nEuSEKRAKRt) | 3:26 |
+| 44 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
 | 45 | [Move On](https://open.spotify.com/track/177XRjFkqB9RpGTFjlgeQE) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Slow Dance](https://open.spotify.com/album/3BN8juNaSxMdwagm6RBvwh) | 2:25 |
 | 46 | [Insomniac](https://open.spotify.com/track/7EdtiTscQqDxg4xdqxsyMn) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Insomniac](https://open.spotify.com/album/6CWaxE82SLay9c4lHOAXfX) | 2:10 |
 | 47 | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/track/4QnJgCPkDgqSyOdjlI83ys) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr) | 3:07 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 166 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 | 167 | [indica](https://open.spotify.com/track/3fvn8a0X0yOdXSi25fYPME) | [jesse](https://open.spotify.com/artist/6BtIpll353jdO2Zv8YPVsT) | [kat](https://open.spotify.com/album/3SR1oVf3c8rqN74VyzI400) | 1:49 |
 
-Snapshot ID: `Ab4i0gAAAAD18NbtF1OwEV0btWADAtIG`
+Snapshot ID: `Ab4ofAAAAAA7ZECbtiO0pRwpxO7kd/mT`

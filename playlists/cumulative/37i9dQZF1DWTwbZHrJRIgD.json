@@ -593,6 +593,36 @@
     },
     {
       "album": {
+        "name": "Bawaria (From \"Dhadak 2\")",
+        "url": "https://open.spotify.com/album/3mx855fUhdhM8oaOal30Kz"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Suvarna Tiwari",
+          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
+        },
+        {
+          "name": "Ozil Dalal",
+          "url": "https://open.spotify.com/artist/5vGIhgwjE6NAhC1EwD85zH"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220111,
+      "name": "Bawaria - From \"Dhadak 2\"",
+      "url": "https://open.spotify.com/track/0QCdkOOINHgFUj3CxaoKMM"
+    },
+    {
+      "album": {
         "name": "Be My Mehbooba (From \"The Miranda Brothers\")",
         "url": "https://open.spotify.com/album/5uaLWXtVPKqCzvyloRJWmR"
       },
@@ -4822,7 +4852,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 157076,
       "name": "Nachdi (From \"Son Of Sardaar 2\")",
       "url": "https://open.spotify.com/track/5plhRq2ZCy6sH671phdjbd"

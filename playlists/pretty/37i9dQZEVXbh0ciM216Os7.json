@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADgWVNGuxWuzxUKiALRfCf+",
+  "snapshot_id": "AAAAAAAAAAB4E6ucUuG80eUieuGqNxui",
   "tracks": [
     {
       "added_at": "2025-08-01 04:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Shiny Things",
-        "url": "https://open.spotify.com/album/7uBrX85Ovwtor3h7DJmhvO"
-      },
-      "artists": [
-        {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 182137,
-      "name": "Shiny Things",
-      "url": "https://open.spotify.com/track/1C0krz8HosA1CReG6cC1hU"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -119,6 +103,42 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
+        "name": "Shiny Things",
+        "url": "https://open.spotify.com/album/7uBrX85Ovwtor3h7DJmhvO"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "duration_ms": 182137,
+      "name": "Shiny Things",
+      "url": "https://open.spotify.com/track/1C0krz8HosA1CReG6cC1hU"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "Head On Swivel",
+        "url": "https://open.spotify.com/album/6pCZ5PKVR7emIMYKzr6qGS"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 163834,
+      "name": "Payback Is A Bitch (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/5ncdJMzIJrUrH2JTVL73Dd"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
         "name": "Kangaroos",
         "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
       },
@@ -135,30 +155,46 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "CRIMSON",
-        "url": "https://open.spotify.com/album/5U0bD6SAwFFCbBLDgkzL4C"
+        "name": "NO TRUST (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/1O0ziOxAl1DSZTF9JFPigI"
       },
       "artists": [
         {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+          "name": "Upstates",
+          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
         },
         {
           "name": "Snoop Dogg",
           "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Rittz",
-          "url": "https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 195107,
-      "name": "Entertain",
-      "url": "https://open.spotify.com/track/4yP7Qvd8pqf9PPD2vwWxLD"
+      "duration_ms": 154447,
+      "name": "NO TRUST - with Snoop Dogg",
+      "url": "https://open.spotify.com/track/2bPqQy1jrs0Gpd75tMCgaK"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/7evaZcQOosRHFINTmM4ElR"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        },
+        {
+          "name": "E.V.G",
+          "url": "https://open.spotify.com/artist/24nKkGrmRvfoYXkCmcIRy0"
+        }
+      ],
+      "duration_ms": 137396,
+      "name": "Crimson",
+      "url": "https://open.spotify.com/track/5nkJnnRGh0QTbsmfbYBymU"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -191,50 +227,6 @@
       "duration_ms": 162253,
       "name": "Lecture",
       "url": "https://open.spotify.com/track/7ETx46LypHNUH9UHTfMUvy"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/7evaZcQOosRHFINTmM4ElR"
-      },
-      "artists": [
-        {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
-        },
-        {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
-        },
-        {
-          "name": "E.V.G",
-          "url": "https://open.spotify.com/artist/24nKkGrmRvfoYXkCmcIRy0"
-        }
-      ],
-      "duration_ms": 137396,
-      "name": "Crimson",
-      "url": "https://open.spotify.com/track/5nkJnnRGh0QTbsmfbYBymU"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Head On Swivel",
-        "url": "https://open.spotify.com/album/6pCZ5PKVR7emIMYKzr6qGS"
-      },
-      "artists": [
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 153516,
-      "name": "Let's Go (feat. Wiz Khalifa)",
-      "url": "https://open.spotify.com/track/7xCHPhRSF5SZIjwQHg01Qa"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -283,22 +275,6 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "Back in the Saddle",
-        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 212962,
-      "name": "Back in the Saddle",
-      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -331,18 +307,34 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "my mind is a mountain",
-        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 170941,
-      "name": "my mind is a mountain",
-      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2025-08-01 04:00:00",

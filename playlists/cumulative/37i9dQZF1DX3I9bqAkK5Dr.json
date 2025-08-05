@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!! \nCover : Jagdish, Ayaan, Damini",
   "name": "Telugu Indie",
   "tracks": [
     {
@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "JORDAAR BONALU",
+        "url": "https://open.spotify.com/album/4CCGP86JNpn3EiHLf5nK5H"
+      },
+      "artists": [
+        {
+          "name": "Dasagriva",
+          "url": "https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206399,
+      "name": "JORDAAR BONALU",
+      "url": "https://open.spotify.com/track/5kgHaFpjmF37K4NK1fQDJU"
+    },
+    {
+      "album": {
         "name": "KAALA BASHA",
         "url": "https://open.spotify.com/album/0dNnLja79nFUoZS3epocQL"
       },
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 133145,
       "name": "KAALA BASHA",
       "url": "https://open.spotify.com/track/4hMORTbAYAI0khfjB4hieK"
@@ -3298,6 +3316,24 @@
       "duration_ms": 296129,
       "name": "Malupu",
       "url": "https://open.spotify.com/track/4JfjRekM3nNFpKdAuldWMY"
+    },
+    {
+      "album": {
+        "name": "Manasa",
+        "url": "https://open.spotify.com/album/6L9qphCHwfyMpeu00DqbPP"
+      },
+      "artists": [
+        {
+          "name": "ReddyBhau",
+          "url": "https://open.spotify.com/artist/0Vay4tn6aXMqr5Scvpz51g"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168959,
+      "name": "Manasa",
+      "url": "https://open.spotify.com/track/3oxEW6HwUcGJo0prrFC1sz"
     },
     {
       "album": {
@@ -5528,7 +5564,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 266796,
       "name": "Pilla Nee Ventae",
       "url": "https://open.spotify.com/track/6KBGVi3Kt2wKmNgqHX9cI9"

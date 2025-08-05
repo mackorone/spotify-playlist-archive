@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,977 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,066 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Dingue ! \(feat\. Jungeli\)](https://open.spotify.com/track/0caQCtKgoJV8rgAbdriaBF) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Dingue ! \(feat\. Jungeli\)](https://open.spotify.com/album/5yv0njpIZTEZl1XvKTDmg6) | 3:45 |
 | 50 | [Genkidama](https://open.spotify.com/track/09n6Y0EosYBt0SDyPlwNu2) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Genkidama](https://open.spotify.com/album/2YToMjpcRUMwan7Zy7Qyia) | 2:33 |
 
-Snapshot ID: `aIKs/QAAAADyekGxqs1FtC/odviwjqwo`
+Snapshot ID: `AAAAABT6BpGoEdWYfiYEzcBiMdu6j2fy`

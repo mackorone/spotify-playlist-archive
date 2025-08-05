@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,277 likes - 120 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,313 likes - 120 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 119 | [Candy](https://open.spotify.com/track/4kEG7GfptFvhKG6WF4CsdR) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Candy](https://open.spotify.com/album/4pPtVCFv3qzdC8kV1izQHB) | 2:02 |
 | 120 | [Players \(Instrumental\)](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
 
-Snapshot ID: `aEMB6wAAAABDnXeSXvBqMK280RnCaABJ`
+Snapshot ID: `AAAAAFcC+8gwG9g5znx8VMAORmv3Ky16`

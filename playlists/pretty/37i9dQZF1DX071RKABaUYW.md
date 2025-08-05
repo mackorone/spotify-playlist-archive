@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Cruel Sister
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,545 likes - 66 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,548 likes - 66 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 65 | [Lately](https://open.spotify.com/track/6zdLffZXG3KrhWSMZfSOGN) | [Ebba Åsman](https://open.spotify.com/artist/1SJBWUlS5p1YPnH64h8e3O) | [When You Know](https://open.spotify.com/album/5u73KsIltiMF0n4Y20N5K8) | 4:08 |
 | 66 | [N.U.M.T.E.](https://open.spotify.com/track/4mOeDBDYPH5gXoqro372dT) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [N.U.M.T.E.](https://open.spotify.com/album/4xX47unKRstG9YzR5ORhvS) | 2:53 |
 
-Snapshot ID: `AAAAAGNmouy8BhfnZc1sOu8i0VHVvPWC`
+Snapshot ID: `aELkSwAAAADarwdGr+SyuSheAqEoDu7k`

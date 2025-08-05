@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Zuta
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,565 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,567 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Po burzy](https://open.spotify.com/track/6euxdptOZFX9Kh75CLt847) | [Jakub Wysmułek](https://open.spotify.com/artist/1iIcrcgUgQwx2yzqwAwAIK) | [Po burzy](https://open.spotify.com/album/5GdZ2bLoqMvWJdjA4UMZ70) | 3:04 |
 | 100 | [Serca na Straty](https://open.spotify.com/track/1IlxzbWGRXRgGcosunZHWc) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Serca na Straty](https://open.spotify.com/album/6RuEVj7XckAOSXRVFqUoZr) | 3:04 |
 
-Snapshot ID: `AAAAADX8cu9rYzWOPIk4dtGP28JKIt5L`
+Snapshot ID: `aIvniAAAAAADJnWbhwcfi3Eo3x1hBGg8`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-1,771 songs - 3 day 9 hr 12 min
+1,773 songs - 3 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,8 @@
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-23 | 2024-08-15 |
 | [juice](https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [juice](https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV) | 1:47 | 2024-03-05 | 2024-05-01 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-29 |  |
+| [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2025-08-04 |  |
+| [kah](https://open.spotify.com/track/10tJQJV1h0GQs943bmTpem) | [егорbez](https://open.spotify.com/artist/1IqUqQeXkri4oktoPWRrhJ) | [kah](https://open.spotify.com/album/4Q1OfYUgfpyPQBxo36dGFz) | 1:56 | 2025-08-04 |  |
 | [KENDALL](https://open.spotify.com/track/2BS14uYqcMxK3YyYQY73ol) | [MONEYKEN](https://open.spotify.com/artist/2C2VKkif62AD8WOVXpHln1), [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [KENDALL](https://open.spotify.com/album/4unwOiImlM4tpx6VJ3Km8c) | 2:10 | 2024-07-13 | 2024-07-16 |
 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 | 2024-02-20 | 2024-02-24 |
 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-07-01 | 2025-07-13 |
@@ -653,7 +655,7 @@
 | [MOVE YO BODY](https://open.spotify.com/track/1FKqhy26Yyu6jeCgbVJraj) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY](https://open.spotify.com/album/0PiWi303xIJnEx5FxBmx0f) | 2:08 | 2024-01-29 | 2024-02-21 |
 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 | 2024-01-30 | 2024-03-11 |
 | [MOVE YO BODY \- sped up](https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P) | 1:57 | 2024-01-29 | 2024-01-31 |
-| [Mr\. Crowley](https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:02 | 2025-07-24 |  |
+| [Mr\. Crowley](https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:02 | 2025-07-24 | 2025-08-05 |
 | [MTG \- RITMO ZELDA \- Super Slowed](https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI) | [JXM](https://open.spotify.com/artist/2nGwC9QG6Hpw4fSDgNpn5n), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [MTG \- RITMO ZELDA](https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV) | 1:47 | 2025-03-02 | 2025-03-19 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-29 | 2024-02-11 |
 | [My Bubble Gum](https://open.spotify.com/track/1Ifo82Rvbtq0dQOF5dvDFr) | [Rasheeda](https://open.spotify.com/artist/3x6gZfwmkDn92EKOwnYq4H) | [Dat Type Of Gurl](https://open.spotify.com/album/6d8UWE4pWDP2t2lwcq6uqG) | 3:26 | 2025-06-05 | 2025-06-07 |
@@ -1572,7 +1574,7 @@
 | [Свои](https://open.spotify.com/track/3H1ZHzt9IkIp5giEUZz7JL) | [Бонд с кнопкой](https://open.spotify.com/artist/2JrtkA0Z0JxBfEmxL25cP6) | [Свои](https://open.spotify.com/album/2pxC2JbFDpQTYWgEfEZc0X) | 3:40 | 2024-11-02 | 2025-05-31 |
 | [священная война](https://open.spotify.com/track/6BtA6NH1QCvODImNs88LAK) | [lofish](https://open.spotify.com/artist/2Bdh4VfakVo5g06d9jd5gB) | [священная война](https://open.spotify.com/album/5GYNEI2wLH1s5x8gxhPtxk) | 1:43 | 2025-05-25 | 2025-06-08 |
 | [Священная война](https://open.spotify.com/track/3zDebn1IehlLPIAKxqRaNp) | [The Red Army Choir](https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG) | [Священная война](https://open.spotify.com/album/3iSuly1GwhNZ9JTRoQ66Fn) | 3:32 | 2025-05-10 | 2025-05-17 |
-| [священная война](https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw) | 1:42 | 2025-06-07 |  |
+| [священная война](https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw) | 1:42 | 2025-06-07 | 2025-08-05 |
 | [сейджуро акаши 2\)](https://open.spotify.com/track/17VtOCT1WwkYI1VGA2MoLa) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [сейджуро акаши 2\)](https://open.spotify.com/album/6LGvtUcKhVHeNMiNCKaAWQ) | 1:13 | 2024-07-23 | 2024-08-27 |
 | [СЕКРЕТАРША](https://open.spotify.com/track/3cwT9c3zKuac1UjZwLBfs9) | [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi), [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD) | [СЕКРЕТАРША](https://open.spotify.com/album/3HDBrG1yxlZSpaWPa8gEXq) | 3:01 | 2024-09-17 | 2024-10-02 |
 | [Секси тема](https://open.spotify.com/track/3p41txHMZQ5Ep5SGidbAqW) | [esospesos](https://open.spotify.com/artist/4C0laSSCybNao98AhnM0XH) | [Секси тема](https://open.spotify.com/album/5aiNmMlRrBwRC86zhcyXEl) | 1:27 | 2025-02-08 | 2025-02-23 |

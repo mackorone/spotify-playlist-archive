@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,474 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,489 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 24 | [The Tide Is High \- Live](https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live](https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt) | 4:04 |
 | 25 | [Pretty Baby](https://open.spotify.com/track/0Yue9xdK8DrISp8AeEpTDY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:23 |
 | 26 | [Rip Her To Shreds \- Remastered 2001](https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:22 |
-| 27 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 |
-| 28 | [Island Of Lost Souls](https://open.spotify.com/track/7ws0FaHPNTK2Z6ujUPSviN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:50 |
-| 29 | [Detroit 442 \- Remastered](https://open.spotify.com/track/169bqVVPKnu2TInM4qNCjG) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:28 |
+| 27 | [Island Of Lost Souls](https://open.spotify.com/track/7ws0FaHPNTK2Z6ujUPSviN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:50 |
+| 28 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 |
+| 29 | [Bermuda Triangle Blues \- Remastered](https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:48 |
 | 30 | [In The Sun \- Remastered 2001](https://open.spotify.com/track/6RnnbW4qp7lCTDITqbkbK0) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:39 |
-| 31 | [The Hardest Part](https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:42 |
-| 32 | [Good Boys \- Blow\-Up Mix / Remastered](https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 6:05 |
-| 33 | [Bermuda Triangle Blues \- Remastered](https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:48 |
+| 31 | [Good Boys \- Blow\-Up Mix / Remastered](https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 6:05 |
+| 32 | [The Hardest Part](https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:42 |
+| 33 | [Detroit 442 \- Remastered](https://open.spotify.com/track/169bqVVPKnu2TInM4qNCjG) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:28 |
 | 34 | [Out In The Streets \- Remastered 2001](https://open.spotify.com/track/2Sxny86sWlahqpFV5XqGhs) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:20 |
-| 35 | [Accidents Never Happen](https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 4:13 |
-| 36 | [Doom or Destiny](https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 2:54 |
+| 35 | [Doom or Destiny](https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 2:54 |
+| 36 | [Accidents Never Happen](https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 4:13 |
 | 37 | [End to End](https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [The Curse of Blondie](https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU) | 3:59 |
 | 38 | [Man Overboard \- Remastered 2001](https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:22 |
 | 39 | [Here's Looking At You \- Remastered 2001](https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 2:58 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 41 | [Llámame \(Call Me\)](https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 6:20 |
 | 42 | [Fun](https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 4:19 |
 | 43 | [Do The Dark \- Remastered 2001](https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:51 |
-| 44 | [Sunday Girl \- French Version](https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Sunday Girl](https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw) | 3:14 |
-| 45 | [Heart of Glass](https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9) | [Kingston Sound System](https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Heart of Glass](https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa) | 3:05 |
+| 44 | [Heart of Glass](https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9) | [Kingston Sound System](https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Heart of Glass](https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa) | 3:05 |
+| 45 | [Sunday Girl \- French Version](https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Sunday Girl](https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw) | 3:14 |
 | 46 | [Already Naked](https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 4:06 |
 | 47 | [Angels On The Balcony \- Remastered 2001](https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:47 |
 | 48 | [What I Heard](https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Panic of Girls](https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t) | 3:17 |
 | 49 | [Warm\-Up](https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live in San Francisco 1977, Vol\. 1 \(HQ Remastered\)](https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F) | 0:39 |
 | 50 | [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 |
 
-Snapshot ID: `aI1VAAAAAABtaLsURssGlzgPOqeBRYT4`
+Snapshot ID: `aI6mgAAAAADEnMl7uu51VaqCMTtsSBdU`

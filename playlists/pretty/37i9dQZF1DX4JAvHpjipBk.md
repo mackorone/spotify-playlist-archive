@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Chappell Roan, Metro Boomin, Reneé Rapp, Mariah the Scientist, Hayley Williams, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,421,988 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,421,595 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 15 | [WE DONT COUNT](https://open.spotify.com/track/62j2njaZrT6D7hJQPw9HGW) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [WE DONT COUNT](https://open.spotify.com/album/1deGUuQqxvhUVoNJ2vdYzI) | 2:50 |
 | 16 | [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 |
 | 17 | [South Of Sanity](https://open.spotify.com/track/0pwAGmv0r5LeEWaIIAK384) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [South Of Sanity](https://open.spotify.com/album/6NVclGrBOx2UG9z8pDIJGd) | 3:40 |
-| 18 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 18 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 19 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 |
 | 20 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
 | 21 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,306 likes - 251 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,305 likes - 251 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,9 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 104 | [Side Effects](https://open.spotify.com/track/7cbTFYQnzTIZ0wPAfHYIwZ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:22 |
 | 105 | [Cry.](https://open.spotify.com/track/61HjlsDWWrPv8XgSBBY1aC) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:48 |
 | 106 | [The Art Of Letting Go](https://open.spotify.com/track/2H9QubaaB740tCUGKf2QhV) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:44 |
-| 107 | [You Don't Know What To Do](https://open.spotify.com/track/4DeLQFtXdy1C6iHuDqY7gR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:47 |
-| 108 | [All I've Ever Wanted](https://open.spotify.com/track/30g1ETXoxRMrLoIF3OibqG) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:52 |
-| 109 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 |
+| 107 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 |
+| 108 | [You Don't Know What To Do](https://open.spotify.com/track/4DeLQFtXdy1C6iHuDqY7gR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:47 |
+| 109 | [All I've Ever Wanted](https://open.spotify.com/track/30g1ETXoxRMrLoIF3OibqG) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:52 |
 | 110 | [Portrait](https://open.spotify.com/track/2flnYutr2WlFzi6ZpXz8ci) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 4:01 |
 | 111 | [Infamous](https://open.spotify.com/track/0whvlq5itiG6JNCtPoPG82) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 3](https://open.spotify.com/album/1JY8uoxY8dLSPwVj2UqLiP) | 3:35 |
 | 112 | [Faded](https://open.spotify.com/track/4jkr4EdrUpITdcQPVsG4CL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:39 |
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 250 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 251 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `Ab4i5gAAAABcuRHDtNRU6OqSa/wD1lrh`
+Snapshot ID: `Ab4ofAAAAABgl7Eb1EfbOj1VxXkLM7Sj`

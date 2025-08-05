@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: JWLKRS Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,348 likes - 75 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,417 likes - 75 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 74 | [When Wind Meets Fire \(feat\. Chris Brown & Tiffany Hudson\)](https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:10 |
 | 75 | [Shalom](https://open.spotify.com/track/30mz7jGufwQ3YAvulUUi18) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK), [Setnick Sene](https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE) | [Shalom](https://open.spotify.com/album/0cudtQVYv29jw1Q4MOIUdU) | 5:22 |
 
-Snapshot ID: `aHEDQwAAAADgv/+njhhox/gWuPEKRhrf`
+Snapshot ID: `AAAAANpW5uRAR0mH5UIB9E/UxY/xGHQo`

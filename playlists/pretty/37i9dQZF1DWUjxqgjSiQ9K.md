@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Omar Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,423 likes - 90 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,508 likes - 90 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 8 | [Mi Adoración](https://open.spotify.com/track/1lSYSHSu1HZ5ibdqKYD6rZ) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Digno de Adorar](https://open.spotify.com/album/6mEIqWRRl6vB9Exsi47NMg) | 4:35 |
 | 9 | [Sal 22 / Te Amo](https://open.spotify.com/track/4DwySFpj8jUX4a5srbPCqi) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Sal 22 / Te Amo](https://open.spotify.com/album/4R52HFBigLI6sLbw4yIxyg) | 6:17 |
 | 10 | [Todo lo entrego a Ti](https://open.spotify.com/track/7jwcIVhWVZINSsHaLjDEuK) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Cuánto Te Amo](https://open.spotify.com/album/5RAfoek4jngJ5JXhDdRbdn) | 4:28 |
-| 11 | [Todo Va a Estar Bien \- Live In República Dominicana](https://open.spotify.com/track/0uySaNZfyLbtx8TtyGfuiY) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz), [Juan Carlos Rodriguez](https://open.spotify.com/artist/1qOS5nTlVontMVE6tJPWZH) | [Todo Va a Estar Bien \(Live In República Dominicana\)](https://open.spotify.com/album/7l5ZeaIwVuaNZ8yvPMVRRv) | 6:42 |
+| 11 | [Todo Va Estar Bien \- Live In República Dominicana](https://open.spotify.com/track/0uySaNZfyLbtx8TtyGfuiY) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz), [Juan Carlos Rodriguez](https://open.spotify.com/artist/1qOS5nTlVontMVE6tJPWZH) | [Todo Va Estar Bien \(Live In República Dominicana\)](https://open.spotify.com/album/7l5ZeaIwVuaNZ8yvPMVRRv) | 6:42 |
 | 12 | [Eterno Dios](https://open.spotify.com/track/4Us4fYaik1qi2KsTPDp1S4) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Eterno Dios](https://open.spotify.com/album/4C1H7azlbjrDwK2mVwZVpX) | 5:19 |
 | 13 | [Todo Es Posible \- En Vivo](https://open.spotify.com/track/3UmzPKGN6BRpPtW7M8ynEO) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Todo Es Posible \(En Vivo\)](https://open.spotify.com/album/61c7y8Wv1OLa0gO19ft2pK) | 3:56 |
 | 14 | [A Ti te alabo](https://open.spotify.com/track/4YxJhfFMouMHdSnGdgApDa) | [Hakuna Group Music](https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS) | [A Ti te alabo](https://open.spotify.com/album/3mSGV20IyaGArMPDbATllJ) | 3:09 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 89 | [El Gozo de Dios \- Live At The Belonging Co, Nashville, TN / 2024](https://open.spotify.com/track/51x4s8bI0X4JTa6Ti2pylu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [El Gozo de Dios \(Live\)](https://open.spotify.com/album/48ZyIvLbT85ZZ3M8f6WdmA) | 5:29 |
 | 90 | [Mi Confianza](https://open.spotify.com/track/2TYVuxijnXO0WsAgFBn4zH) | [Toni Romero](https://open.spotify.com/artist/69BWizWNZTCdBWLb1zllgw), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Confianza](https://open.spotify.com/album/0clBHCKiqXSQtLq8g87xju) | 4:34 |
 
-Snapshot ID: `aIy11gAAAADLIz8+4DrbjIsZqCQAb+pH`
+Snapshot ID: `AAAAAM+D90BrSmaoIgtWEILBukuMqqpe`

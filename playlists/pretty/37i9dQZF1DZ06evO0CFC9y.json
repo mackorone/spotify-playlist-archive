@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 36912,
+  "num_followers": 36923,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI1VAAAAAAA6sBVcjEdptKTFlRJ9XRtR",
+  "snapshot_id": "aI6mgAAAAABC7t/UQm9FbCozFPuPx7Hk",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "Don't Make Me Ill",
-      "url": "https://open.spotify.com/track/1iJZlwuYQ9UsooAPRGbMJU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crash Love (Deluxe)",
         "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 176640,
       "name": "Too Shy To Scream",
       "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 160440,
+      "name": "Don't Make Me Ill",
+      "url": "https://open.spotify.com/track/1iJZlwuYQ9UsooAPRGbMJU"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+        "name": "All Hallows EP",
+        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 128106,
-      "name": "The Checkered Demon",
-      "url": "https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC"
+      "duration_ms": 192626,
+      "name": "Fall Children",
+      "url": "https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC"
     }
   ],
   "unique_name": "This Is AFI",

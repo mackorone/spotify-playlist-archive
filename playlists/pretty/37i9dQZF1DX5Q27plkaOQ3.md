@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with RIOT
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,606 likes - 200 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,272 likes - 200 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 199 | [Hold Me One More Time](https://open.spotify.com/track/6VbvigV2ODddEjJwpOMkPm) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Hold Me One More Time](https://open.spotify.com/album/3XsZon2TnZSGEud8rGUfNn) | 3:13 |
 | 200 | [Delusional](https://open.spotify.com/track/4f2a45202MGqyp7ZkC1Qu8) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [Delusional](https://open.spotify.com/album/0mTgHGtaN63xXRd9PTFjed) | 2:58 |
 
-Snapshot ID: `aIw78gAAAAB+bab8VhMqsl32npm5awJe`
+Snapshot ID: `aJEIVQAAAABNnrRu1wlcsnwWHxOaJoHN`

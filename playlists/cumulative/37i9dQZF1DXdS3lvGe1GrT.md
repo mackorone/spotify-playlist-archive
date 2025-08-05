@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Celebrating 10 years of the best new folk music from independent artists\. Cover: Cleo Reed
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Cleo Reed
 
 1,801 songs - 4 day 11 hr 43 min
 

@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 223255,
       "name": "Asa Asmara",
       "url": "https://open.spotify.com/track/5WhXF5UP1oJxuG9X4CsbxP"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 181225,
       "name": "Ferris wheel (feat. Heize)",
       "url": "https://open.spotify.com/track/7MbtHBj17NTiuk6jYJGExd"
@@ -2633,6 +2633,28 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        },
+        {
+          "name": "Mikha Angelo",
+          "url": "https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218693,
+      "name": "Kaulah Kamuku (feat. Mikha Angelo)",
+      "url": "https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q"
+    },
+    {
+      "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
@@ -3292,7 +3314,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
@@ -3433,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Malam Rawan",
+        "url": "https://open.spotify.com/album/6K3f48VhTPIz9wFO1iQFOH"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Malam Rawan",
+      "url": "https://open.spotify.com/track/6JBojdxAPtcPNfhFqmZEBt"
+    },
+    {
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
@@ -3506,7 +3546,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 270586,
       "name": "MAPA (Indonesian Ver.)",
       "url": "https://open.spotify.com/track/23FJNFAeNLzAuFORNvyBFf"
@@ -4092,7 +4132,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 213838,
       "name": "Nothing More Than That",
       "url": "https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t"
@@ -5190,7 +5230,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 204940,
       "name": "Seperti Cemara",
       "url": "https://open.spotify.com/track/5c6zSJlr4tHXewLs3s374p"
@@ -5251,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Setangkai Bunga",
+        "url": "https://open.spotify.com/album/4ZVZ0mOtFY44cgPX6Baxtp"
+      },
+      "artists": [
+        {
+          "name": "Caffeine",
+          "url": "https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Setangkai Bunga",
+      "url": "https://open.spotify.com/track/3BuxK6MbHLEJ8YybhvJYrv"
+    },
+    {
+      "album": {
         "name": "Show Me Your Love",
         "url": "https://open.spotify.com/album/0cKkYtVFyXBqZzybyQc0vD"
       },
@@ -5302,7 +5360,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 208736,
       "name": "Sirkus",
       "url": "https://open.spotify.com/track/3pSMg0s9GyRlGIkhF0902x"
@@ -6476,7 +6534,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 171955,
       "name": "TWENTIES",
       "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
@@ -6512,7 +6570,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -6631,6 +6689,24 @@
     },
     {
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177523,
+      "name": "watch",
+      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -6714,7 +6790,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-05",
       "duration_ms": 189800,
       "name": "When I Feel It",
       "url": "https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME"

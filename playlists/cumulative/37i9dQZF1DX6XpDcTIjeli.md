@@ -2,7 +2,7 @@
 
 ### [Afro Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX6XpDcTIjeli)
 
-> Alleen beschikbaar met Premium.
+> Video's zijn alleen beschikbaar met Premium.
 
 30 songs - 1 hr 45 min
 

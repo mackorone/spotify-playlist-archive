@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,380 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,378 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Duo Pulse](https://open.spotify.com/track/02Jy2accvqFUfr8TmFWleS) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Duo Pulse](https://open.spotify.com/album/0PJgxCPlMtCFHg4VCrNOy3) | 4:16 |
 | 100 | [Hard To Say](https://open.spotify.com/track/4kh0xxyueJwvLia6wRPAA3) | [Dampé](https://open.spotify.com/artist/4NvFxGMQzU0xJjAEMR5R9i), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Hard To Say](https://open.spotify.com/album/3NSfYqayrDD1CAgw3qhBRb) | 3:17 |
 
-Snapshot ID: `aIw74gAAAACowQplRFZNdlqMwWeGSh+J`
+Snapshot ID: `AAAAAOV4MlPJoa+6wqJvqabBPc2U0k01`

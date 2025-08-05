@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Chappell Roan, GIMS x La Mano 1.9 et Jul au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,164 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,146 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 43 | [Waiting](https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Waiting](https://open.spotify.com/album/6jXFSUgmXl8qAZEIPChYcE) | 2:47 |
 | 44 | [LE PARI](https://open.spotify.com/track/3ChgQZ5az6S9Km9ej4VwAB) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [LE PARI](https://open.spotify.com/album/7e5Y19gAPCcoEszTnZmiI5) | 2:32 |
 | 45 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 |
-| 46 | [This Right Here](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [This Right Here](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
+| 46 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 47 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
 | 48 | [MAGNETIC](https://open.spotify.com/track/5pZ7aZnPA582Y4Eh2t0FCU) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [MAGNETIC](https://open.spotify.com/album/7sWOjKLCaVDNhPMbOAHMhy) | 3:02 |
 | 49 | [Hunting Season](https://open.spotify.com/track/0tKMZFO30VbRFulQzIWxjX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Hunting Season](https://open.spotify.com/album/2x425wKGZzQLlrbVNkvNyr) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,551 likes - 155 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,560 likes - 155 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 154 | [Noah \(feat\. NATURE\)](https://open.spotify.com/track/1A0xG6GikvDRtQbC2oAztI) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Noah \(feat\. NATURE\)](https://open.spotify.com/album/4aJ61ha1wgTPFeS6tXdjeu) | 4:52 |
 | 155 | [Minimalism on Steroids](https://open.spotify.com/track/4cbeaKJfbPzjugUN9BJlFX) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito Xtended](https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1) | 7:26 |
 
-Snapshot ID: `AAAAAIFL1f11JGbz7Y5xOEnABt1XChNj`
+Snapshot ID: `aAum0AAAAADsp9vL0iV7E6SOVuQRE98n`

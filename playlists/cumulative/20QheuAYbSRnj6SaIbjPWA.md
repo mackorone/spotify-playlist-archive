@@ -4,7 +4,7 @@
 
 > 2021
 
-137 songs - 9 hr 7 min
+138 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Meet Me In The Woods](https://open.spotify.com/track/54hj06Z7sm7DaHSrGGMAZG) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:22 | 2024-04-03 |  |
 | [Melancholy Man](https://open.spotify.com/track/55RBi5R0DUxk085tAN1TI6) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Come Ahead](https://open.spotify.com/album/69oeXCLAa7NA3CfrCRFHlT) | 5:15 | 2025-06-08 |  |
 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 | 2023-03-15 |  |
+| [Method to the Madness](https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:33 | 2025-08-04 |  |
 | [Microwave](https://open.spotify.com/track/0hrKuvEiE78ZyOk1pnBeW5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L\. \(Deluxe\)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 3:39 | 2023-09-26 |  |
 | [Miracle Aligner](https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 4:05 | 2023-08-20 |  |
 | [Murder To Excellence](https://open.spotify.com/track/3Gjc2FE6BEMMHURUjlMXvX) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 5:00 | 2024-12-05 |  |

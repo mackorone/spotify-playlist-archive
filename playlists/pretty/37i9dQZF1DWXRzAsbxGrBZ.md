@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: <a href="https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD?si=2BamayqtRn2v0ThhAsIjSQ">LaTique</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,641 likes - 69 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,990 likes - 69 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 68 | [Ngiqonyiwe](https://open.spotify.com/track/18HzlQU9ydu2TifcFwNYAO) | [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Shino Kikai](https://open.spotify.com/artist/6JSU7gW4qNCnKJ2Twfy5jk), [NtoMusica](https://open.spotify.com/artist/7JlErV6ZjUdULnC01bNbGw) | [Against All Odds](https://open.spotify.com/album/5nUlwT3wtONm8n3j5YQfJh) | 8:15 |
 | 69 | [Mfanaka \(Mfana Noxman\)](https://open.spotify.com/track/24wJMihL08N5HMAxgNEGQK) | [Slaga](https://open.spotify.com/artist/6TMHpHxtnjEsfpC0Psdsdw), [Dazz\-B MusiQ](https://open.spotify.com/artist/2uXPRBlQzbT3xMPV2Fbotn), [Macnoss](https://open.spotify.com/artist/1lKc8wWqtr5h8dgFbQ1mf2) | [Mfanaka \(Mfana Noxman\)](https://open.spotify.com/album/6tIeOt2XiKPfDliDlPYoRX) | 7:08 |
 
-Snapshot ID: `AAAAAPfDj0FHKZq1O3jZZbWF4F9RfoR8`
+Snapshot ID: `aI+4tgAAAACZQd8e+wNoeHctnmpiGOpu`

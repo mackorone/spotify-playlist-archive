@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,194 likes - 150 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,207 likes - 150 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

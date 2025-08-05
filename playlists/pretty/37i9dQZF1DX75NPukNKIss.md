@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,254 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,319 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 99 | [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 |
 | 100 | [bae](https://open.spotify.com/track/5sEC88gNr8VEGXc7FSQGit) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [bae](https://open.spotify.com/album/07MVkMt1UaDkk7rKgviGYT) | 2:33 |
 
-Snapshot ID: `aIMBdAAAAADSLCFLElR4yBkuJ9q2Hx36`
+Snapshot ID: `AAAAACvHdthMscjmBfQa2mlDMeMtNVDJ`

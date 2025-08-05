@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 
 > Enjoy music from "<br/>Umamusume: Pretty Derby! © Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,915 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,163 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

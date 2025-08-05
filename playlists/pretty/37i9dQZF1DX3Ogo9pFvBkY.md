@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,241 likes - 213 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,248 likes - 213 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 212 | [Echoes Divided](https://open.spotify.com/track/14k8ejDpD3MNTzpYhUjKTN) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Echoes Divided](https://open.spotify.com/album/7i5F1CLSgsFpYqEJLQQ4MS) | 2:34 |
 | 213 | [Lucent Dawn](https://open.spotify.com/track/0juX8bP0u09C1dTNzanItI) | [Slow Journey](https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW) | [Lucent Dawn](https://open.spotify.com/album/6tTbuxEpF0kMyNTLETgZiS) | 2:31 |
 
-Snapshot ID: `aIIZnQAAAADSnw6m57SNT4xgJBA6Zc5o`
+Snapshot ID: `AAAAANOZhyzuK1Q2Euf5Cj1owzpSG9RG`

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: TTSSFU
+> Fresh rock & alternative from independent artists every Wednesday\. Cover: TTSSFU
 
-2,031 songs - 4 day 16 hr 8 min
+2,032 songs - 4 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-02-23 | 2022-05-12 |
 | [23](https://open.spotify.com/track/7f7hqp9w9YV51afzbRwUrc) | [Sixth Avenue](https://open.spotify.com/artist/56UD1hTIykpofVALekgE1R) | [23](https://open.spotify.com/album/0gH2HB0x66dc2CFL9INkOH) | 4:00 | 2023-03-29 | 2023-05-04 |
 | [24HR Fix](https://open.spotify.com/track/0GEPysbHDFpXm9Ya4HT4yq) | [Ilan Rubin](https://open.spotify.com/artist/11jeKM5q8nnYr1tssNmGVO) | [24HR Fix](https://open.spotify.com/album/0SKUkmCu16EkzlwIRpXEpK) | 4:25 | 2022-04-27 | 2022-06-30 |
+| [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-08-04 |  |
 | [5 Things I Can Taste](https://open.spotify.com/track/2M3NmJ4ukVKxPsuPV7JM3k) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [5 Things I Can Taste](https://open.spotify.com/album/71IBPfv1DLKTIPiq8jzZfW) | 3:56 | 2023-09-27 | 2023-10-19 |
 | [50/50](https://open.spotify.com/track/0MFC096AIvLIY3jGlwsTy6) | [Tysm!](https://open.spotify.com/artist/1F61TARz2vG80nNTu7po72) | [50/50](https://open.spotify.com/album/4IHS8zeMiS1VXultdixrf9) | 2:43 | 2022-11-09 | 2023-01-12 |
 | [555](https://open.spotify.com/track/7aQnb6sTiQto4mh02kHd1G) | [Chlsy](https://open.spotify.com/artist/316TfRq3qjtJpsjGzIOSBL) | [555](https://open.spotify.com/album/6CC7epoExBeS6bK2PlMpAE) | 3:45 | 2022-07-27 | 2022-10-06 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,261 likes - 109 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,255 likes - 109 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [UPPENBART](https://open.spotify.com/track/4meKZi0x36BTVKSbtsCFYs) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [UPPENBART](https://open.spotify.com/album/6B8CngVy31ukIgv0cayn85) | 2:21 |
 | 2 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
-| 3 | [Ta honom](https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Ta honom](https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4) | 2:08 |
+| 3 | [Nordhemsgatan leder rakt in i himlen](https://open.spotify.com/track/3sScQoU8Ak03HNpwU5EQpx) | [Nisse Hasselgren](https://open.spotify.com/artist/4v5w0Jq7clg8opEwcfrGs2) | [Nordhemsgatan leder rakt in i himlen](https://open.spotify.com/album/5LxzOjxSKOHTXsIPltxaRZ) | 4:39 |
 | 4 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 5 | [Nordhemsgatan leder rakt in i himlen](https://open.spotify.com/track/3sScQoU8Ak03HNpwU5EQpx) | [Nisse Hasselgren](https://open.spotify.com/artist/4v5w0Jq7clg8opEwcfrGs2) | [Nordhemsgatan leder rakt in i himlen](https://open.spotify.com/album/5LxzOjxSKOHTXsIPltxaRZ) | 4:39 |
+| 5 | [Ta honom](https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Ta honom](https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4) | 2:08 |
 | 6 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 | 7 | [Safe And Sorry](https://open.spotify.com/track/6f7TYlaYYwOxZ0OeZCX3ZD) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Safe And Sorry](https://open.spotify.com/album/0AphAftJDSEGYfDzzHKQue) | 2:58 |
 | 8 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 108 | [Hon får mig dansa](https://open.spotify.com/track/6cMKUMafbyVrXYoaHC9FcW) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hon får mig dansa](https://open.spotify.com/album/6TEULhvPJGhxAG6tAaxNOW) | 2:53 |
 | 109 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 |
 
-Snapshot ID: `aIvnewAAAAASR0vb3/159sO2Jx8rLx2S`
+Snapshot ID: `aJDb5wAAAAAbN2zjWShWCs5xtpbptia+`

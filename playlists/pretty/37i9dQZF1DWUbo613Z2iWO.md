@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  India Shawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,278 likes - 204 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,290 likes - 204 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
