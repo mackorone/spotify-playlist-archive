@@ -1,4 +1,4 @@
-## Playlists \(8716\)
+## Playlists \(8717\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4106,6 +4106,7 @@
 - [Nederlandse Hardstyle](/playlists/pretty/37i9dQZF1DXd3ubJMppxuP.md)
 - [Nederlandse Hits 2025 \| Best of Nederland \| Top songs Netherlands](/playlists/pretty/064PXW3a66042BjmZEu3Rv.md)
 - [Nederlandse Zomerhits 2025](/playlists/pretty/37i9dQZF1DXcCQbOdQV38g.md)
+- [Neew](/playlists/pretty/30fSw0eXTPQ6U07aShNukW.md)
 - [Nelson Mandela Tribute](/playlists/pretty/7iUOaMP7iKI22rBNflBwjX.md)
 - [Nemazapop](/playlists/pretty/37i9dQZF1DWT0HmsQ8GzI0.md)
 - [Neo Tango](/playlists/pretty/37i9dQZF1DX1WNn0uqbB04.md)
