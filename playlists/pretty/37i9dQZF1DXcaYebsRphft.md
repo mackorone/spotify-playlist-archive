@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『ENHYPEN WORLD TOUR ‘WALK THE LINE’ IN JAPAN』 のセットリストをスペシャルメッセージとともに公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,611 likes - 27 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,668 likes - 27 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 26 | [Helium](https://open.spotify.com/track/48jRAABr5TxjWHvoNWClGG) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:42 |
 | 27 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 |
 
-Snapshot ID: `aI9hkwAAAADVqujcKT0qMC5xS21VNY92`
+Snapshot ID: `AAAAACkbCCOo/ZVmmpjeO5T4531Kyqyc`

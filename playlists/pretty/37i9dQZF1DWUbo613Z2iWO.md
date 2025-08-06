@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  India Shawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,290 likes - 204 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,305 likes - 204 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 203 | [Only For Your Eyes](https://open.spotify.com/track/2ArFMotB4CV9uFQAkffZmY) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Only For Your Eyes](https://open.spotify.com/album/5p3AZP0vPLFAwOv8NuiFCT) | 2:20 |
 | 204 | [Rental](https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Rental](https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da) | 3:09 |
 
-Snapshot ID: `AAAAANqMXuxH2nTsXUAeC+mYJa861Veq`
+Snapshot ID: `aIxYuQAAAAA8ZrFNVgQ7FDsHBKEsiobJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,912 likes - 62 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,042 likes - 62 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 61 | [Taking Time \- 963 Hz](https://open.spotify.com/track/2evSXLOTpNdEAPIYKthWny) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Taking Time \- 963 Hz](https://open.spotify.com/album/6gWgxZt7OpnflNuI9wRDko) | 2:46 |
 | 62 | [963 Hz Deep Breathing](https://open.spotify.com/track/0pY9RfLWbqMKguhWXrCCQ3) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Deep Breathing](https://open.spotify.com/album/4gVsivQcSQfT3oEkMGtNJ5) | 2:38 |
 
-Snapshot ID: `aIIaqwAAAABv6IXu2/HCAeEkwZBEHz08`
+Snapshot ID: `AAAAAOAhDYoOsfXiBb3atpnMmQcAQGRW`

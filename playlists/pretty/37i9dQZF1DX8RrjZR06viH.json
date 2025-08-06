@@ -1,6 +1,6 @@
 {
   "description": "Sommeren er her!\ud83c\udf79\n",
-  "num_followers": 98808,
+  "num_followers": 98822,
   "original_name": "kj\u00e6re sommer",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 183670,
       "name": "Glide",
       "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Tobias Sten",
-        "url": "https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Ka visste eg",
-      "url": "https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
         "name": "What Happened To The Heart? (Deluxe)",
         "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 206333,
-      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
+      "duration_ms": 233500,
+      "name": "Ka visste eg",
+      "url": "https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -639,6 +623,22 @@
       "duration_ms": 221427,
       "name": "N\u00e5 har du meg",
       "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
+        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -855,22 +855,18 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "V\u00e5rs\u00f8g",
-        "url": "https://open.spotify.com/album/0xNCvZnoASYU3VjS8Tl9OV"
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
       },
       "artists": [
         {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Henning Sommerro",
-          "url": "https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu"
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
         }
       ],
-      "duration_ms": 188202,
-      "name": "V\u00e5rs\u00f8g",
-      "url": "https://open.spotify.com/track/19fg74cR8JsB4As2iaJil2"
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -891,18 +887,22 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+        "name": "V\u00e5rs\u00f8g",
+        "url": "https://open.spotify.com/album/0xNCvZnoASYU3VjS8Tl9OV"
       },
       "artists": [
         {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Henning Sommerro",
+          "url": "https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu"
         }
       ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+      "duration_ms": 188202,
+      "name": "V\u00e5rs\u00f8g",
+      "url": "https://open.spotify.com/track/19fg74cR8JsB4As2iaJil2"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
+        "name": "Gamle vaner",
+        "url": "https://open.spotify.com/album/223dqSTNxI8iK6Bj7iudvN"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 124067,
+      "name": "Gamle vaner",
+      "url": "https://open.spotify.com/track/3spvaek151dJXQ3Uc7wDrK"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
         "name": "Synd synd synd",
         "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 106649,
       "name": "eu te amo beb\u00ea",
       "url": "https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
-        "name": "Gamle vaner",
-        "url": "https://open.spotify.com/album/223dqSTNxI8iK6Bj7iudvN"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 124067,
-      "name": "Gamle vaner",
-      "url": "https://open.spotify.com/track/3spvaek151dJXQ3Uc7wDrK"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 161667,
       "name": "henda i v\u00e6ret",
       "url": "https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Om hundre \u00e5r",
-        "url": "https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9"
+        "name": "B\u00f8lger",
+        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
       },
       "artists": [
         {
-          "name": "Ulrikke",
-          "url": "https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh"
+          "name": "3TOS",
+          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Om hundre \u00e5r",
-      "url": "https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX"
+      "duration_ms": 133875,
+      "name": "B\u00f8lger",
+      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
+        "name": "Om hundre \u00e5r",
+        "url": "https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9"
+      },
+      "artists": [
+        {
+          "name": "Ulrikke",
+          "url": "https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Om hundre \u00e5r",
+      "url": "https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
         "name": "Papaya",
         "url": "https://open.spotify.com/album/5J83TBJ13dS8FXyvqOlWTi"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 223624,
       "name": "Likeable",
       "url": "https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
-        "name": "B\u00f8lger",
-        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
-      },
-      "artists": [
-        {
-          "name": "3TOS",
-          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
-        }
-      ],
-      "duration_ms": 133875,
-      "name": "B\u00f8lger",
-      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
         "name": "Spor i sn\u00f8",
         "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 185454,
       "name": "LOVELIFE",
       "url": "https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     },
     {
       "added_at": "2025-07-24 22:00:33",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-07-24 22:00:33",
       "album": {
-        "name": "Never Look Down",
-        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Never Look Down",
-      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
-    },
-    {
-      "added_at": "2025-07-24 22:00:33",
-      "album": {
         "name": "Oh Love (Acoustic)",
         "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 201774,
       "name": "Oh Love - Acoustic",
       "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
+    },
+    {
+      "added_at": "2025-07-24 22:00:33",
+      "album": {
+        "name": "25 bare fem \u00e5r til",
+        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "25 bare fem \u00e5r til",
+      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
     }
   ],
   "unique_name": "kj\u00e6re sommer",

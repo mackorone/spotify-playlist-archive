@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Eslabon Armado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,580 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,685 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [Adams Family](https://open.spotify.com/track/5cBYDgW3PiHrVpIPrmRLAJ) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Temporadas](https://open.spotify.com/album/7Adg6dhyDSBRNlum5ghnDJ) | 3:28 |
 | 75 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 
-Snapshot ID: `AAAAAAD65UVcUF+FWdfc988MlTbyRn3y`
+Snapshot ID: `aIw76gAAAACbmzxKP/y0A8dDLfWipje9`

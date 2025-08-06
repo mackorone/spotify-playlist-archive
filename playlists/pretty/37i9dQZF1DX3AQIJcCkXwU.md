@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,784 likes - 135 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,911 likes - 135 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 134 | [Aum](https://open.spotify.com/track/142JeUf0yewGiafhVEVZAQ) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Relaxing Music From Around The World: Music for Meditation, Sleep and Working](https://open.spotify.com/album/5QU0YYRzu0pzxfNESLOECe) | 5:23 |
 | 135 | [Shaantipoorn Sardee](https://open.spotify.com/track/32J8PZ2TsVXaylMujwAfQs) | [Kanti Kata](https://open.spotify.com/artist/2YKTWzjZkpGVHMdbAP0df5) | [Shaant Garmee](https://open.spotify.com/album/1OUUILFcARqONfzoxVxTlf) | 3:47 |
 
-Snapshot ID: `AAAAAPWrghubF7Hd5t5Gg3RFQ/c/MA7C`
+Snapshot ID: `aIJCGwAAAABEsyCYCy8coqJnXVdOEhcg`

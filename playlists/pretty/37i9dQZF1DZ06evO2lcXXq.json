@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 366716,
+  "num_followers": 366731,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAAD69CAmQRBTWzjqQ9ajXcE7",
+  "snapshot_id": "aI/4AAAAAABCYt8rtTI2l8z5vO5a4kWI",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond Us",
-        "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
+        "name": "Let It Be A Hallelujah",
+        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
       },
       "artists": [
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 229733,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
+      "duration_ms": 238000,
+      "name": "Let It Be A Hallelujah",
+      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Be A Hallelujah",
-        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
+        "name": "Beyond Us",
+        "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
       },
       "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Let It Be A Hallelujah",
-      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
+      "duration_ms": 229733,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
     },
     {
       "added_at": null,

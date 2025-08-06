@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 213911,
+  "num_followers": 213902,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
+        "name": "Overfladisk",
+        "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Overfladisk",
+      "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
         "name": "Birra",
         "url": "https://open.spotify.com/album/6ET2zhZ1JD8Zge03jYUnyT"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 113400,
       "name": "Birra",
       "url": "https://open.spotify.com/track/2IdIiiNX7SpQO9WW77aZPx"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
-        "name": "Overfladisk",
-        "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Overfladisk",
-      "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "Se p\u00e5 meg",
-        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 143759,
-      "name": "Se p\u00e5 meg",
-      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 259096,
       "name": "Tjue \u00e5r",
       "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50"
+        "name": "Se p\u00e5 meg",
+        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
       },
       "artists": [
         {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
         }
       ],
-      "duration_ms": 201459,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN"
+      "duration_ms": 143759,
+      "name": "Se p\u00e5 meg",
+      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "Memoarer",
-        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Memoarer",
-      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
         "name": "In Memory Of Some Stand Up Guys",
         "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 161739,
       "name": "Svar",
       "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
+        "name": "Memoarer",
+        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Memoarer",
+      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
     },
     {
       "added_at": "2025-07-31 22:00:35",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
+        "name": "Hvert \u00c5r",
+        "url": "https://open.spotify.com/album/6HE9CnakRqPFCb4Ra36eQU"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Hvert \u00c5r",
+      "url": "https://open.spotify.com/track/6lCuJDgduRfAmgrFyStT3g"
+    },
+    {
+      "added_at": "2025-07-31 22:00:35",
+      "album": {
         "name": "Gode Tider (feat. Streetboys)",
         "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
       },
@@ -819,38 +835,22 @@
     {
       "added_at": "2025-07-31 22:00:35",
       "album": {
-        "name": "Hvert \u00c5r",
-        "url": "https://open.spotify.com/album/6HE9CnakRqPFCb4Ra36eQU"
+        "name": "Ryker p\u00e5'a igjen",
+        "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
       },
       "artists": [
         {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Hvert \u00c5r",
-      "url": "https://open.spotify.com/track/6lCuJDgduRfAmgrFyStT3g"
-    },
-    {
-      "added_at": "2025-07-31 22:00:35",
-      "album": {
-        "name": "Dette er livet (feat. OnklP)",
-        "url": "https://open.spotify.com/album/5SrPHNFUtPbv5RgRlRe61v"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         },
         {
-          "name": "OnklP",
-          "url": "https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 158225,
-      "name": "Dette er livet (feat. OnklP)",
-      "url": "https://open.spotify.com/track/07i2PdaFfEclgdsnT4WKEk"
+      "duration_ms": 145111,
+      "name": "Ryker p\u00e5'a igjen",
+      "url": "https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr"
     },
     {
       "added_at": "2025-07-31 22:00:35",

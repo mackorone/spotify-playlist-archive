@@ -3881,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1wiNGVqtNMiziYeh8hGpb1"
+      },
+      "artists": [
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227803,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2H5ZgMAQWLsq09AEkZyT3g"
+    },
+    {
+      "album": {
         "name": "vicious",
         "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
       },

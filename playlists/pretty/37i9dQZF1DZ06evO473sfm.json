@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 506486,
+  "num_followers": 506707,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAAAqwjLSvxKDvwWp9zW+0UIs",
+  "snapshot_id": "aI/4AAAAAAABbe9BsLfNuaU2HM6nryyX",
   "tracks": [
     {
       "added_at": null,
@@ -702,15 +702,11 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
         }
       ],
-      "duration_ms": 188330,
-      "name": "\u00bfQu\u00e9 Haces Por Ac\u00e1?",
-      "url": "https://open.spotify.com/track/2hMsGqC4z5czLGacKK93Ap"
+      "duration_ms": 200608,
+      "name": "No Se Parece A Ti",
+      "url": "https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5"
     },
     {
       "added_at": null,
@@ -782,11 +778,15 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
         }
       ],
-      "duration_ms": 200608,
-      "name": "No Se Parece A Ti",
-      "url": "https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5"
+      "duration_ms": 188330,
+      "name": "\u00bfQu\u00e9 Haces Por Ac\u00e1?",
+      "url": "https://open.spotify.com/track/2hMsGqC4z5czLGacKK93Ap"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Yo Fuera Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Profugos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
-        }
-      ],
-      "duration_ms": 179201,
-      "name": "Si Yo Fuera Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 126307,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Yo Fuera Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Profugos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
+        }
+      ],
+      "duration_ms": 179201,
+      "name": "Si Yo Fuera Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
     },
     {
       "added_at": null,

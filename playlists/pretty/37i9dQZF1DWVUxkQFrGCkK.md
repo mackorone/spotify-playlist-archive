@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Peak IBZ szn has arrived!
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,828 likes - 299 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,936 likes - 299 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 6 | [Jovens Dias](https://open.spotify.com/track/415R1PHUQ1nwK9PrEN3bi5) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Jovens Dias](https://open.spotify.com/album/4WatONlKBPEem3P27oICCN) | 2:42 |
 | 7 | [Leave The World Behind](https://open.spotify.com/track/1ZGs1UN56boDca814jara3) | [A.M.R \(DE\)](https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Leave The World Behind](https://open.spotify.com/album/2yuvGs4SvCvDzdr9btBErf) | 4:20 |
 | 8 | [Mussulo \(feat\. Doddy\) \[unfazed Remix\]](https://open.spotify.com/track/4q79PsRndcpYTlRBd3PiKj) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp), [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Mussulo \(feat\. Doddy\) \[unfazed Remix\]](https://open.spotify.com/album/2EUd2HxVvlaqR6b3drEtnT) | 2:57 |
-| 9 | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
+| 9 | [MIND GAMES](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [MIND GAMES](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
 | 10 | [Isaka \(6am\) Vanco Mix \- In Joburg](https://open.spotify.com/track/5ncLgVY26bAfHhUjTm7Sz4) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\) Vanco Mix \- In Joburg](https://open.spotify.com/album/2pSnEC7Cf4IhMSUrXPjrUN) | 3:24 |
 | 11 | [Oleku \- Remix](https://open.spotify.com/track/7bA4dMvgVGhc3R4TAjOvKf) | [Fully Focus](https://open.spotify.com/artist/3cSXE6QoAmNGlvzR5hqG78), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Oleku \(Remix\)](https://open.spotify.com/album/6fUsreQDL7iraRLoUiLU5R) | 3:26 |
 | 12 | [You](https://open.spotify.com/track/44q1UuWeAd10A039OJaQCo) | [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [You](https://open.spotify.com/album/19ItPFuhI8876a357HNd74) | 2:52 |

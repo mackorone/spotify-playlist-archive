@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-265 songs - 14 hr 10 min
+267 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [DON'T CALL ME AGAIN](https://open.spotify.com/track/5Y3OPUKCfbGNygyijpeP4e) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:53 | 2022-03-24 |  |
 | [DON’T CALL ME AGAIN](https://open.spotify.com/track/4pOPTaIor4ilgBCcOmnJRU) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 2:53 | 2022-07-19 | 2024-04-19 |
 | [Doughnut](https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p) | 4:23 | 2022-03-24 |  |
+| [ENEMY](https://open.spotify.com/track/7i21zZuqTMuJQl4ScMeYiQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/47izqvoaTPoXfcYe8sgwo3) | 2:41 | 2025-08-06 |  |
 | [Era with NAYEON \- \(Remix\)](https://open.spotify.com/track/0Nezjtp74RRI0p6C3gXN13) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [Era with NAYEON \(TWICE\)](https://open.spotify.com/album/4oRP4R749QNBtxOob5lylI) | 2:29 | 2025-06-16 |  |
 | [ESPRESSO](https://open.spotify.com/track/5xUJPd7wa2sVsu7TtjmRdn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:07 | 2022-03-24 |  |
 | [ESPRESSO](https://open.spotify.com/track/61iEzLnJzBnMwumWtn0nFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2022-07-19 | 2024-04-19 |
@@ -230,6 +231,7 @@
 | [STUCK IN MY HEAD](https://open.spotify.com/track/19rOI8tvgnNUQaNyz0n2TP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:56 | 2022-07-19 | 2024-04-19 |
 | [STUCK IN MY HEAD](https://open.spotify.com/track/045vckAeaQEbJ3vmatyBWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:56 | 2022-03-24 |  |
 | [STUCK IN MY HEAD \- Japanese ver.](https://open.spotify.com/track/64yv4Oj1BfZse3JswH5iBH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STUCK IN MY HEAD \(Japanese ver.\)](https://open.spotify.com/album/6ASR567iHO8X0ILS2vsP3W) | 2:59 | 2022-03-24 |  |
+| [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-06 |  |
 | [SWEET SUMMER DAY](https://open.spotify.com/track/4XDWKodqvKyGL5YJILpKM5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:11 | 2022-03-24 |  |
 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 | 2022-07-19 | 2024-04-19 |
 | [Sweetest Obsession](https://open.spotify.com/track/3JLsNH9got4QblMZOjQIeO) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:46 | 2024-12-06 |  |

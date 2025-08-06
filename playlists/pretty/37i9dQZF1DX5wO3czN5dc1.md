@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH?si=a8GHNTZJT6OEa04GIsoCvQ">Theology HD</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,479 likes - 57 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,602 likes - 57 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,097 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,205 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 84 | [417 Hz \- Soledad Tranquilo](https://open.spotify.com/track/0NjwEMcfZAa0N0A3g8cfQl) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Soledad Tranquilo](https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF) | 2:16 |
 | 85 | [Balance 417 Hz](https://open.spotify.com/track/7dhw7Tlvp7GSkCqHfOv4es) | [Ennio Campbell](https://open.spotify.com/artist/0TMiGw2GvOM7ck2akGDD8Z) | [417 Hz Solfeggio Frequencies](https://open.spotify.com/album/6aYOSbKEskAis4ou5yRm4P) | 2:09 |
 
-Snapshot ID: `aG5wGAAAAACwMKONOa2D0urMGpB1yUk7`
+Snapshot ID: `AAAAAKCG4/TqfkcHyR/C2ir+ahQASO7P`

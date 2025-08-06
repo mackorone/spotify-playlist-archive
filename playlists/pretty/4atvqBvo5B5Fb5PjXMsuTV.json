@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Aug 03:05 UTC.",
-  "num_followers": 98,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Aug 22:07 UTC.",
+  "num_followers": 99,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAATu6qUXXC1cYLf2FFU/uboA5uw+6/+",
+  "snapshot_id": "AAATv1gVTBGVoJeJidJG9m3d6CVdoaO1",
   "tracks": [
+    {
+      "added_at": "2025-08-05 22:07:01",
+      "album": {
+        "name": "Behind the Clock",
+        "url": "https://open.spotify.com/album/0XfWqCd9PH408MsPtDvAED"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 237465,
+      "name": "Behind the Clock",
+      "url": "https://open.spotify.com/track/7x3ir1NFIt7z5Sy1rJTHLJ"
+    },
     {
       "added_at": "2025-08-03 13:04:43",
       "album": {
@@ -39,6 +55,38 @@
       "duration_ms": 181586,
       "name": "Fast",
       "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
+    },
+    {
+      "added_at": "2025-08-05 08:06:38",
+      "album": {
+        "name": "KELEBU",
+        "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "KELEBU",
+      "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
+    },
+    {
+      "added_at": "2025-08-05 22:07:01",
+      "album": {
+        "name": "Know You Naked",
+        "url": "https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 205304,
+      "name": "Know You Naked",
+      "url": "https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE"
     },
     {
       "added_at": "2025-08-01 03:06:42",
@@ -763,54 +811,6 @@
       "duration_ms": 177245,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/0szmDue1FCIpLC9SBs7fbU"
-    },
-    {
-      "added_at": "2025-07-25 13:08:13",
-      "album": {
-        "name": "one of the ones",
-        "url": "https://open.spotify.com/album/6N5pQPXCLUTGfOMUwYzPgb"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 125909,
-      "name": "one of the ones",
-      "url": "https://open.spotify.com/track/5suD5LTKXheT2zBtXtPfEy"
-    },
-    {
-      "added_at": "2025-07-25 13:08:13",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 236759,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
-    },
-    {
-      "added_at": "2025-07-25 08:06:23",
-      "album": {
-        "name": "d\u00a3aler",
-        "url": "https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 160337,
-      "name": "d\u00a3aler",
-      "url": "https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6"
     }
   ],
   "unique_name": "New Singles Now",

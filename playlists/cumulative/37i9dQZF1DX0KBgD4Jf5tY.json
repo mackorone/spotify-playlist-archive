@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3LzPMUrVGBa352z5KZiubQ\">Lumiero</a> in cover",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:1pRhf8tFJk2k1ejw6sRqQK\">IDDA</a> in cover",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 292217,
       "name": "'E Parole",
       "url": "https://open.spotify.com/track/4o4f0Cddeo8fTA4Rc3ZP5c"
+    },
+    {
+      "album": {
+        "name": "'na carezza",
+        "url": "https://open.spotify.com/album/39vzeTwJBqvYUaqMOb9xRm"
+      },
+      "artists": [
+        {
+          "name": "Nyya",
+          "url": "https://open.spotify.com/artist/2TrbH9Pxl9xNJ5Z6Bfuk5D"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "'na carezza",
+      "url": "https://open.spotify.com/track/3dc1rr8vG5gpY1Pq5x2XLQ"
     },
     {
       "album": {
@@ -3330,6 +3348,24 @@
       "duration_ms": 195657,
       "name": "Baby stai con me",
       "url": "https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/36AEFtkxgsXPXpjzwuuox4"
+      },
+      "artists": [
+        {
+          "name": "Domenixoxo",
+          "url": "https://open.spotify.com/artist/6UXPscFV0GdrRtVzOjXmBk"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/6QXBl5zHAIsVfnE2Myyz2a"
     },
     {
       "album": {
@@ -9188,7 +9224,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 267428,
       "name": "Dreamliner RMX",
       "url": "https://open.spotify.com/track/0PVH5vg0HN1BzsKPpsAyVa"
@@ -10216,7 +10252,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 173254,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7zhjHihJHGKrsM0TxEY7h8"
@@ -15152,7 +15188,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 184163,
       "name": "L'unica",
       "url": "https://open.spotify.com/track/3HFuWPn66BiUM4bMkYpw7j"
@@ -24617,6 +24653,24 @@
     },
     {
       "album": {
+        "name": "POVERO CORAGGIO & CARTA VETRATA",
+        "url": "https://open.spotify.com/album/2HWfrSfKZ26i2YSDgY8yEu"
+      },
+      "artists": [
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241804,
+      "name": "POVERO CORAGGIO",
+      "url": "https://open.spotify.com/track/0rCLarJ8osSoxjOP8Ae6xp"
+    },
+    {
+      "album": {
         "name": "PRADA",
         "url": "https://open.spotify.com/album/27xonw95LmR1XGfpk9A4Cx"
       },
@@ -30823,6 +30877,24 @@
     },
     {
       "album": {
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/6OCajRJf1WIMNsZJYhrHJ7"
+      },
+      "artists": [
+        {
+          "name": "Sara Baroni",
+          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204539,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/5PwTybFbsl5vByJBSrQb9o"
+    },
+    {
+      "album": {
         "name": "they don't know the pain that we've been through",
         "url": "https://open.spotify.com/album/7dw3UMEEUwlhEpGDbzSoIM"
       },
@@ -32766,7 +32838,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 134785,
       "name": "Vent'Anni",
       "url": "https://open.spotify.com/track/0O2fFtLdeS3scAJs6z9g47"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMCcMvVNsy9.md) - [plain]
 
 > With the release of <a href="spotify:show:6lIui701UGlgFROb4kuHqz">Lies & Weddings</a>, international bestselling author Kevin Kwan handpicks his soundtrack to accompany the highly anticipated book.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,808 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,812 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMCcMvVNsy9.md) - [plain]
 | 29 | [Hyperballad](https://open.spotify.com/track/4z1fNs2B7KndCsvyPgrhq5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 5:21 |
 | 30 | [If Love Is Overrated](https://open.spotify.com/track/40WHJeUcfk00hEQxJHw14R) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 5:53 |
 
-Snapshot ID: `ZmnNoQAAAACGNf7wMKHWfHpWO8z08N87`
+Snapshot ID: `ZmnNoQAAAAAF5Mw0BO0xmh303sheltuv`

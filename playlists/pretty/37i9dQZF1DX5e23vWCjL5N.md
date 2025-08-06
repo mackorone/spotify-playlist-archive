@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Cover: Salmo
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,389 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,397 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 84 | [00 \(feat\. Tedua\)](https://open.spotify.com/track/13fAvTJ7oGRDwrYY7TNSW2) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Orange County California](https://open.spotify.com/album/3dw4egjjsLDxbpgvACa3AC) | 3:14 |
 | 85 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 |
 
-Snapshot ID: `aIvnsgAAAABt1FeqR08oFaJhEXYZM/3W`
+Snapshot ID: `AAAAAEr/3aQtYDneNeIa3T/XeiE+SPqa`

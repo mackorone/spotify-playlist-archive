@@ -2563,6 +2563,32 @@
     },
     {
       "album": {
+        "name": "Electrified (feat. Meggie York)",
+        "url": "https://open.spotify.com/album/129bJi3DuftUpoEJyB9otr"
+      },
+      "artists": [
+        {
+          "name": "Manolo",
+          "url": "https://open.spotify.com/artist/5KZyaSfK2qb3HTWHP1934B"
+        },
+        {
+          "name": "NIO",
+          "url": "https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI"
+        },
+        {
+          "name": "Meggie York",
+          "url": "https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206216,
+      "name": "Electrified (feat. Meggie York)",
+      "url": "https://open.spotify.com/track/27rNi4LbU3ZgKwPRYNyAQE"
+    },
+    {
+      "album": {
         "name": "En Secreto",
         "url": "https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1"
       },

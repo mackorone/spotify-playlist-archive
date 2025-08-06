@@ -1,6 +1,6 @@
 {
   "description": "The greatest New Wave songs through the decades. Cover: Blondie",
-  "num_followers": 942229,
+  "num_followers": 942332,
   "original_name": "Essential New Wave",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Natural's Not in It",
-      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
         "name": "Public Image Ltd.",
         "url": "https://open.spotify.com/album/51UsBsFjLhVVTAa8xXmyI3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 378360,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6u91CCTziobh3twCDMBlEk"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Natural's Not in It",
+      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/2ccrabRMmY1gECUdyqblP2"
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
         }
       ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic - Remastered 2003",
-      "url": "https://open.spotify.com/track/5pDmunv6G71w7NSjOPXbYw"
+      "duration_ms": 250760,
+      "name": "White Wedding - Part 1 - 2001- Remaster",
+      "url": "https://open.spotify.com/track/4zmx3vEPgRPjRT2CszUsZo"
     }
   ],
   "unique_name": "Essential New Wave",

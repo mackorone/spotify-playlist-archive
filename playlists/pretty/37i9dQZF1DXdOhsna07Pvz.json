@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 94252,
+  "num_followers": 94276,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZIsRngAAAAA6/Pu/zSyUSsOo177YOSB0",
   "tracks": [
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Sete Desejos",
-        "url": "https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "La Belle De Jour",
-      "url": "https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A"
-    },
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 128000,
       "name": "Sangue latino",
       "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Sete Desejos",
+        "url": "https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "La Belle De Jour",
+      "url": "https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 288160,
-      "name": "Anuncia\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 288160,
+      "name": "Anuncia\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -243,26 +243,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Rita Lee",
-        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Chega Mais",
-      "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Que Falta Voc\u00ea Me Faz",
         "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
       },
@@ -283,6 +263,26 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Chega Mais",
+      "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Duas Cidades",
         "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 246280,
       "name": "Lucro (Descomprimindo)",
       "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Esse \u00c9 O Rem\u00e9dio",
-        "url": "https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Com Certeza",
-      "url": "https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -331,18 +315,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
+        "name": "Esse \u00c9 O Rem\u00e9dio",
+        "url": "https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
         }
       ],
-      "duration_ms": 283133,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
+      "duration_ms": 235933,
+      "name": "Com Certeza",
+      "url": "https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -359,6 +343,22 @@
       "duration_ms": 300333,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
-        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
-      },
-      "artists": [
-        {
-          "name": "Os Tinco\u00e3s",
-          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Deixa A Gira Girar",
-      "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Verde Anil Amarelo Cor de Rosa e Carv\u00e3o",
         "url": "https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 214866,
       "name": "Na Estrada",
       "url": "https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
+        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
+      },
+      "artists": [
+        {
+          "name": "Os Tinco\u00e3s",
+          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Deixa A Gira Girar",
+      "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
+        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Voc\u00ea N\u00e3o Entende Nada",
+      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Extra",
         "url": "https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 354813,
       "name": "Extra",
       "url": "https://open.spotify.com/track/3GS0CICQvKGCQcI7lNalcT"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Gal Canta Caetano",
-        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Vaca Profana",
-      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Gal Canta Caetano",
+        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Vaca Profana",
+      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Chega",
         "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 185544,
       "name": "Chega",
       "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
-        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Voc\u00ea N\u00e3o Entende Nada",
-      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Conversa Fiada",
-        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 196810,
-      "name": "Conversa Fiada",
-      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Tete a Tete Margareth",
         "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 334133,
       "name": "Fara\u00f3",
       "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Conversa Fiada",
+        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 196810,
+      "name": "Conversa Fiada",
+      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Leci Brand\u00e3o",
-        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
-      },
-      "artists": [
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
         "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 248106,
       "name": "Minha Teimosia, uma Arma pra Te Conquistar",
       "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Leci Brand\u00e3o",
+        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "20 Grandes \u00caxitos",
-        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Swing da Cor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Ligeiro",
         "url": "https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp"
       },
@@ -1031,42 +1015,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Robson Jorge e Lincoln Olivetti",
-        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
       },
       "artists": [
         {
-          "name": "Robson Jorge",
-          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
-        },
-        {
-          "name": "Lincoln Olivetti",
-          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
         }
       ],
-      "duration_ms": 232937,
-      "name": "Aleluia",
-      "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Cole\u00e7\u00e3o Nacional",
-        "url": "https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu"
-      },
-      "artists": [
-        {
-          "name": "Instituto",
-          "url": "https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o"
-        },
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Cabe\u00e7a de N\u00eago",
-      "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
+      "duration_ms": 215600,
+      "name": "Swing da Cor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1095,18 +1055,42 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Pad\u00ea",
-        "url": "https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU"
+        "name": "Cole\u00e7\u00e3o Nacional",
+        "url": "https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu"
       },
       "artists": [
         {
-          "name": "Ju\u00e7ara Mar\u00e7al e Kiko Dinucci",
-          "url": "https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m"
+          "name": "Instituto",
+          "url": "https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o"
+        },
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
         }
       ],
-      "duration_ms": 185280,
-      "name": "S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
+      "duration_ms": 237426,
+      "name": "Cabe\u00e7a de N\u00eago",
+      "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+      },
+      "artists": [
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        }
+      ],
+      "duration_ms": 232937,
+      "name": "Aleluia",
+      "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1127,6 +1111,22 @@
       "duration_ms": 198897,
       "name": "Pequim",
       "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Pad\u00ea",
+        "url": "https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU"
+      },
+      "artists": [
+        {
+          "name": "Ju\u00e7ara Mar\u00e7al e Kiko Dinucci",
+          "url": "https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
     },
     {
       "added_at": "2022-09-22 18:13:04",

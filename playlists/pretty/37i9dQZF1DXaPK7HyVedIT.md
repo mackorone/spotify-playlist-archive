@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Bashkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,770 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,526 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [Inner Wars](https://open.spotify.com/track/2rHIFv8iIZCpPPTqUkHrgs) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [Miguel Ante](https://open.spotify.com/artist/0yLnk8vkyAvMHmEqAsmPKR), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Inner Wars](https://open.spotify.com/album/2fKFnbJnUOt3fVcCs1TnnW) | 3:36 |
 | 75 | [Mahaba](https://open.spotify.com/track/76QYDYnFoaUBkkk4gei84D) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Mahaba](https://open.spotify.com/album/3XlArIGlspDya8mQlmYTAL) | 3:43 |
 
-Snapshot ID: `aI03nQAAAACUTP4H0hu9HmCQGXSbWi7i`
+Snapshot ID: `AAAAADGwxRxZnOM7nUNpkGE/0XYQNQ80`

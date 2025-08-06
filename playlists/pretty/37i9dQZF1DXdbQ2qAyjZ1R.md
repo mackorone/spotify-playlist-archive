@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,995 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,971 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 69 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:11 |
 | 70 | [Pretty Bird](https://open.spotify.com/track/4SoNUIg58ISjWdvsk7WY9m) | [Lemuria](https://open.spotify.com/artist/6wzxL5b6rHgsbAaKwhwTDi), [Terea](https://open.spotify.com/artist/6NtHkAB0wnU6v3RNs9n55r) | [Hunk Of Heaven/Pretty Bird](https://open.spotify.com/album/6a2AXXlm4TuB2rFqhmS66Q) | 4:04 |
 
-Snapshot ID: `Z5LKAwAAAADjctMdmPfrEQeX1Ub70b2A`
+Snapshot ID: `AAAAAO6WcVOvAsMIveIyejLX7fx5esOp`

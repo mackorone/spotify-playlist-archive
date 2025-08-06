@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Alessi Rose 🛸
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,418 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,393 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 99 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
 | 100 | [It's Always Been Like This](https://open.spotify.com/track/0vC7gZPL238uXjMC3qyDyx) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [It's Always Been Like This](https://open.spotify.com/album/1JoMcY15UV9qBPMzoIqOcg) | 3:23 |
 
-Snapshot ID: `aIwDlQAAAABM66WU5K3PeEgRpFUo2Frw`
+Snapshot ID: `AAAAAAtB2FNLpo4oQCmCioBGlxQRndu3`

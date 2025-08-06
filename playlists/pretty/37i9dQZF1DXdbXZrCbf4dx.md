@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXZrCbf4dx.md) - [plain]
 
 > Music from "Ranking of Kings" /「王様ランキング」の楽曲を1つのプレイリストで。© 十日草輔・KADOKAWA刊／アニメ「王様ランキング 勇気の宝箱」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,735 likes - 40 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,740 likes - 40 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXZrCbf4dx.md) - [plain]
 | 39 | [この国の未来のために](https://open.spotify.com/track/0bOK0moAbNLZ7jAoiQFLKe) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 2:06 |
 | 40 | [小さかったあの頃](https://open.spotify.com/track/31aoDsr3aufeDF9V2yxWcR) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:59 |
 
-Snapshot ID: `ZsNB0AAAAACsHZPY0///QOheFlMaftYl`
+Snapshot ID: `AAAAAHf9ZhS8Kx/fFBNs4oWJEGCOXbRX`

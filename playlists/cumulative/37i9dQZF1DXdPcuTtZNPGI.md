@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-159 songs - 10 hr 33 min
+160 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2022-10-09 | 2024-04-19 |
 | [ブリキノダンス](https://open.spotify.com/track/1jJR9vHfvEOdHnmYuYkgl3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 3:18 | 2024-02-22 |  |
 | [マザーランド](https://open.spotify.com/track/5SZWCBRpEujCFwETNvfxzz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:20 | 2024-02-22 |  |
+| [マトリョシカ](https://open.spotify.com/track/5Pb7RnGUE4hVUlbySBRLNH) | [Ado×りぶ](https://open.spotify.com/artist/6HRAUUnT4VXRnzqnJ1lK6u) | [Ratimeria \-初回限定盤「コラボ歌ってみた」\-](https://open.spotify.com/album/6rYxK76gakhVklf09jo6GO) | 3:22 | 2025-08-06 |  |
 | [ラッキー・ブルート](https://open.spotify.com/track/5ZRsRV8NEIM8DRTL60n6n6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:29 | 2024-02-22 |  |
 | [ラブカ？ \(feat\. Ado\)](https://open.spotify.com/track/5R3XD7aR25OcI6qimQU91Z) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ラブカ？ \(feat\. Ado\)](https://open.spotify.com/album/54t8GGGwqraTv779NBRZas) | 3:05 | 2024-02-22 |  |
 | [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2024-02-22 | 2024-07-10 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-744 songs - 1 day 13 hr 27 min
+745 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [One Taste](https://open.spotify.com/track/0HwgZzRDcSC6dvDz7Eepsy) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [One Taste](https://open.spotify.com/album/7z5mJozS5AxvzQqcXTvvtR) | 3:12 | 2023-03-31 | 2023-12-14 |
 | [ONI](https://open.spotify.com/track/23KhGOR08Q40MyuaP9qAtf) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [ONI](https://open.spotify.com/album/5pXmKXrvvPsRULRXDSt7Cr) | 4:00 | 2023-05-09 | 2023-08-10 |
 | [Online](https://open.spotify.com/track/2PgivAhiFtODlcuSrC9QO4) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Online](https://open.spotify.com/album/6PRAD7CISUhkoXegWG9mCD) | 3:04 | 2022-11-16 | 2023-04-28 |
+| [Only Human](https://open.spotify.com/track/5PTgXveCle4EOVHv6AhyI6) | [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB) | [Only Human](https://open.spotify.com/album/71zNx0FII8lbRjvoYFlp3V) | 2:14 | 2025-08-05 |  |
 | [Only The Fallen](https://open.spotify.com/track/7pZ4Ry6amHpyDyyIa79HAl) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Only The Fallen](https://open.spotify.com/album/5ceqUHXf2JdrWOzqaZcz2t) | 3:15 | 2024-03-07 | 2024-09-29 |
 | [ordinary / horrifying](https://open.spotify.com/track/6q4tuFgBe7g1bcxKblLhz3) | [updog](https://open.spotify.com/artist/1s5ZfyjywLsAr7PY4pmldn) | [ordinary / horrifying](https://open.spotify.com/album/7uE7ZmDrsJN4ImAjrXBoS2) | 3:44 | 2023-07-07 | 2023-08-10 |
 | [Orphic Night](https://open.spotify.com/track/2pHUAHfX7hSoLdBZ8wALnP) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Orphic Night](https://open.spotify.com/album/4rrzK0Cbp95qcjH0p9oPsc) | 2:56 | 2023-06-08 | 2023-08-10 |

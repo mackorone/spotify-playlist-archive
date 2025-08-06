@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: SIVIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,173 likes - 92 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,177 likes - 92 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

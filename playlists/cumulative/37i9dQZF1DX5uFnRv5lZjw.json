@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Blue sea",
+        "url": "https://open.spotify.com/album/3GMcRS0oOuCxBhkHHrwO9w"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Blue sea",
+      "url": "https://open.spotify.com/track/6AMrAH1lwUxY538AjW3psv"
+    },
+    {
+      "album": {
         "name": "Can't Be Replaced",
         "url": "https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi"
       },
@@ -736,7 +754,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 127497,
       "name": "Just Like the Movies",
       "url": "https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS"
@@ -920,6 +938,42 @@
       "duration_ms": 130000,
       "name": "Moment In Time",
       "url": "https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM"
+    },
+    {
+      "album": {
+        "name": "Murmurations",
+        "url": "https://open.spotify.com/album/5HOPgWkP9VSkJAeTyAiaLB"
+      },
+      "artists": [
+        {
+          "name": "letter from lenor",
+          "url": "https://open.spotify.com/artist/4nNvXevjgdNqjoJuB188Lr"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178697,
+      "name": "Murmurations",
+      "url": "https://open.spotify.com/track/2lm2W9WGR2w4kdpTjoKuq3"
+    },
+    {
+      "album": {
+        "name": "Ness Cove",
+        "url": "https://open.spotify.com/album/27uUtOHg4CD8eaVkkrmnPe"
+      },
+      "artists": [
+        {
+          "name": "Shoalstone",
+          "url": "https://open.spotify.com/artist/4DVH5f7mp7fPURb2lsI4cz"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Ness Cove",
+      "url": "https://open.spotify.com/track/2AgIYRB5g5ZHjLOnLrmAVQ"
     },
     {
       "album": {
@@ -1175,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Soar",
+        "url": "https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW"
+      },
+      "artists": [
+        {
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133220,
+      "name": "Soar",
+      "url": "https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR"
+    },
+    {
+      "album": {
         "name": "Sole In Viso",
         "url": "https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S"
       },
@@ -1298,6 +1370,24 @@
       "duration_ms": 144555,
       "name": "Talk to Them",
       "url": "https://open.spotify.com/track/3oGWkoSBS9wpmf48OlI54i"
+    },
+    {
+      "album": {
+        "name": "Taylor River",
+        "url": "https://open.spotify.com/album/7HlwXtNrThDW7yDKT0bMbC"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131126,
+      "name": "Taylor River",
+      "url": "https://open.spotify.com/track/6GNqGNo4HxzaMsXo36ErsG"
     },
     {
       "album": {

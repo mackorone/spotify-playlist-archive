@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Chappell Roan on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,417 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,423 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [All Hearts Beat](https://open.spotify.com/track/0398YEQ9aQ8AlPHkG8PEB1) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [All Hearts Beat](https://open.spotify.com/album/7g7WPnrCEAnpvEVVriZRh5) | 5:41 |
 | 100 | [The Interview](https://open.spotify.com/track/0hNqw95TQX5RoB4j7QIk4L) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [The Interview](https://open.spotify.com/album/3s8KGS52Bk5y7gM8DBfd1o) | 2:04 |
 
-Snapshot ID: `aIxB2AAAAAAglTW57UWDZnikrhYU8I7u`
+Snapshot ID: `AAAAAJszE0S1hx4YZspX/M2rxOsrjQ7G`

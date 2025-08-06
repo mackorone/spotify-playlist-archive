@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "docile",
+        "url": "https://open.spotify.com/album/5J2X0qHRnjhOZXcir9RlEO"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Frays",
+          "url": "https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151374,
+      "name": "docile",
+      "url": "https://open.spotify.com/track/32d6hHOruz7YSM1V4o0JSi"
+    },
+    {
+      "album": {
         "name": "Domande",
         "url": "https://open.spotify.com/album/7c7ES2lzWaTQQJZ8nBIozl"
       },

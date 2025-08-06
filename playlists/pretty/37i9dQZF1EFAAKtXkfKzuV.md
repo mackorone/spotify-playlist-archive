@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 16 | [We're Done](https://open.spotify.com/track/1ZmP8k7gRkFnHU5WT5f3qm) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [We're Done](https://open.spotify.com/album/5OMiYGBlMTN09vXaf8rZ5u) | 2:59 |
 | 17 | [Used To](https://open.spotify.com/track/7fxBpWDrnSYnbMq1nXxHPw) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Used To](https://open.spotify.com/album/2WaLo3xRff8eUIbRRrhgTm) | 2:39 |
 | 18 | [Irgendwie auch nicht](https://open.spotify.com/track/0KcYpVzF1lc6m49JsTjgkC) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Vielleicht Irgendwann \(Deluxe Edition\)](https://open.spotify.com/album/7tQQXsZhZIDbI3GPeEGwMV) | 2:28 |
-| 19 | [Better Off](https://open.spotify.com/track/45F6EIwDFK039OKPUynPbw) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Better Off](https://open.spotify.com/album/2ZZxWs9ltFcQzuQnCsb2WC) | 2:05 |
-| 20 | [Not Ready](https://open.spotify.com/track/0mtm0nHodvra53NA3n0T9B) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Not Ready](https://open.spotify.com/album/0uVoAz2Yw0dGaYbhO5D3VA) | 1:52 |
+| 19 | [Not Ready](https://open.spotify.com/track/0mtm0nHodvra53NA3n0T9B) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Not Ready](https://open.spotify.com/album/0uVoAz2Yw0dGaYbhO5D3VA) | 1:52 |
+| 20 | [Better Off](https://open.spotify.com/track/45F6EIwDFK039OKPUynPbw) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Better Off](https://open.spotify.com/album/2ZZxWs9ltFcQzuQnCsb2WC) | 2:05 |
 | 21 | [Follow Me \(Into the Sun\)](https://open.spotify.com/track/1am9iMOzvV1VrhwCBsPmbc) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Follow Me \(Into the Sun\)](https://open.spotify.com/album/6L7ZEimKo9L67LdkYd8HpZ) | 1:35 |
 | 22 | [Über dich](https://open.spotify.com/track/3qM79gu83nz6RiT98UGWTI) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:04 |
 | 23 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 69 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 70 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Ab4oaAAAAABemxiFYpC3qQgrkvmW5SsH`
+Snapshot ID: `Ab4uCAAAAAAk3rSY0+OAszqwae6DIvbb`

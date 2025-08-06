@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   \u00d8yunn",
-  "num_followers": 46790,
+  "num_followers": 46794,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
         "name": "STADION",
         "url": "https://open.spotify.com/album/4LhHEEE9u5q0vRkv5rOkyn"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 142333,
       "name": "STADION",
       "url": "https://open.spotify.com/track/4kudNL6XGu5Y79pcUNWILB"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
-        "name": "Venter Kun P\u00e5 Dig",
-        "url": "https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL"
-      },
-      "artists": [
-        {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
-        }
-      ],
-      "duration_ms": 140111,
-      "name": "Venter Kun P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -343,18 +343,18 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+        "name": "Venter Kun P\u00e5 Dig",
+        "url": "https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL"
       },
       "artists": [
         {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
         }
       ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+      "duration_ms": 140111,
+      "name": "Venter Kun P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
+        "name": "Dagdr\u00f8mmeri",
+        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 188963,
+      "name": "Dagdr\u00f8mmeri",
+      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p"
       },
@@ -423,18 +439,34 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Dagdr\u00f8mmeri",
-        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
+        "name": "Gav Det Et Skud",
+        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
       },
       "artists": [
         {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 188963,
-      "name": "Dagdr\u00f8mmeri",
-      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+      "duration_ms": 176489,
+      "name": "Gav Det Et Skud",
+      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -455,18 +487,34 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+        "name": "Det sker alt for tit",
+        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
         }
       ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+      "duration_ms": 187422,
+      "name": "Det sker alt for tit",
+      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
+        "name": "Marianne og Henrik",
+        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        }
+      ],
+      "duration_ms": 180664,
+      "name": "Marianne og Henrik",
+      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -503,34 +551,34 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Gav Det Et Skud",
-        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
       },
       "artists": [
         {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 176489,
-      "name": "Gav Det Et Skud",
-      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
     },
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Marianne og Henrik",
-        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+        "name": "Halsk\u00e6de",
+        "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
       },
       "artists": [
         {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
         }
       ],
-      "duration_ms": 180664,
-      "name": "Marianne og Henrik",
-      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
+      "duration_ms": 157373,
+      "name": "Halsk\u00e6de",
+      "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -555,66 +603,18 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
         }
       ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
-        "name": "Det sker alt for tit",
-        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Det sker alt for tit",
-      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
-        "name": "Halsk\u00e6de",
-        "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Halsk\u00e6de",
-      "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
       "artists": [
         {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
         }
       ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Bed\u00f8vende",
-        "url": "https://open.spotify.com/album/5bKpoipS6WMBCYf8v7f5IO"
-      },
-      "artists": [
-        {
-          "name": "Josef",
-          "url": "https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB"
-        }
-      ],
-      "duration_ms": 144700,
-      "name": "Bed\u00f8vende",
-      "url": "https://open.spotify.com/track/3oswKE6oPvZWvnfJRRUNdl"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "I Know All The Words But I Can't Say Goodbye",
-        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
+        "name": "Bed\u00f8vende",
+        "url": "https://open.spotify.com/album/5bKpoipS6WMBCYf8v7f5IO"
       },
       "artists": [
         {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+          "name": "Josef",
+          "url": "https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB"
         }
       ],
-      "duration_ms": 207558,
-      "name": "We Grow",
-      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
+      "duration_ms": 144700,
+      "name": "Bed\u00f8vende",
+      "url": "https://open.spotify.com/track/3oswKE6oPvZWvnfJRRUNdl"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -827,6 +811,22 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
+        "name": "I Know All The Words But I Can't Say Goodbye",
+        "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
+      },
+      "artists": [
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "duration_ms": 207558,
+      "name": "We Grow",
+      "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -863,38 +863,6 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Too Bad We Grow Up",
-        "url": "https://open.spotify.com/album/3JEsGLchf4cPvjSud2EefH"
-      },
-      "artists": [
-        {
-          "name": "june",
-          "url": "https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Ghosted",
-      "url": "https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
-        "name": "ZAMINA",
-        "url": "https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT"
-      },
-      "artists": [
-        {
-          "name": "Zay",
-          "url": "https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z"
-        }
-      ],
-      "duration_ms": 192432,
-      "name": "ZAMINA",
-      "url": "https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
         "name": "Vilde \u00d8jne",
         "url": "https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 190000,
       "name": "Vilde \u00d8jne",
       "url": "https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -935,18 +919,18 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN"
+        "name": "Too Bad We Grow Up",
+        "url": "https://open.spotify.com/album/3JEsGLchf4cPvjSud2EefH"
       },
       "artists": [
         {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+          "name": "june",
+          "url": "https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X"
         }
       ],
-      "duration_ms": 178746,
-      "name": "Carpe Diem",
-      "url": "https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST"
+      "duration_ms": 193866,
+      "name": "Ghosted",
+      "url": "https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -983,6 +967,22 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
+        "name": "ZAMINA",
+        "url": "https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT"
+      },
+      "artists": [
+        {
+          "name": "Zay",
+          "url": "https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z"
+        }
+      ],
+      "duration_ms": 192432,
+      "name": "ZAMINA",
+      "url": "https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
         "name": "F\u00f8r Jeg Falder",
         "url": "https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9"
       },
@@ -1015,54 +1015,6 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
-        "name": "HAR DET MAX",
-        "url": "https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3"
-      },
-      "artists": [
-        {
-          "name": "Elias",
-          "url": "https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K"
-        }
-      ],
-      "duration_ms": 107931,
-      "name": "HAR DET MAX",
-      "url": "https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
-        "name": "Lige Meget Hvor Langt Du Er",
-        "url": "https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA"
-      },
-      "artists": [
-        {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
-        }
-      ],
-      "duration_ms": 258797,
-      "name": "Lige Meget Hvor Langt Du Er",
-      "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7"
-      },
-      "artists": [
-        {
-          "name": "Isaac Kasule",
-          "url": "https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/5PrXiCU1agpgbMwzdCCVpe"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -1075,22 +1027,6 @@
       "duration_ms": 199313,
       "name": "F\u00f8rhen",
       "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
-    },
-    {
-      "added_at": "2025-07-31 22:00:34",
-      "album": {
-        "name": "En Som Dig",
-        "url": "https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf"
-      },
-      "artists": [
-        {
-          "name": "BUKURU",
-          "url": "https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN"
-        }
-      ],
-      "duration_ms": 192474,
-      "name": "En Som Dig",
-      "url": "https://open.spotify.com/track/2D70stXApX10H7JKusia0x"
     },
     {
       "added_at": "2025-07-31 22:00:34",
@@ -1127,6 +1063,54 @@
     {
       "added_at": "2025-07-31 22:00:34",
       "album": {
+        "name": "Lige Meget Hvor Langt Du Er",
+        "url": "https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 258797,
+      "name": "Lige Meget Hvor Langt Du Er",
+      "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
+        "name": "En Som Dig",
+        "url": "https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf"
+      },
+      "artists": [
+        {
+          "name": "BUKURU",
+          "url": "https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN"
+        }
+      ],
+      "duration_ms": 192474,
+      "name": "En Som Dig",
+      "url": "https://open.spotify.com/track/2D70stXApX10H7JKusia0x"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
+        "name": "HAR DET MAX",
+        "url": "https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K"
+        }
+      ],
+      "duration_ms": 107931,
+      "name": "HAR DET MAX",
+      "url": "https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
         "name": "Det\u00b4 kun vigtigt, hvad det er",
         "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 199930,
       "name": "Det\u00b4 kun vigtigt, hvad det er",
       "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
+    },
+    {
+      "added_at": "2025-07-31 22:00:34",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7"
+      },
+      "artists": [
+        {
+          "name": "Isaac Kasule",
+          "url": "https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/5PrXiCU1agpgbMwzdCCVpe"
     },
     {
       "added_at": "2025-07-31 22:00:34",

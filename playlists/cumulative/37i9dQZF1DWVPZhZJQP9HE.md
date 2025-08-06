@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-680 songs - 1 day 15 hr 57 min
+682 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 | 2022-11-25 | 2023-03-08 |
 | [Cosmo Thambi](https://open.spotify.com/track/2AWotg9hZ0VU8xiwVl5tYW) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Ram Ramasamy](https://open.spotify.com/artist/3MZkQPKZr3O7dzm4QP8thH), [4AM](https://open.spotify.com/artist/34rseJDXUUQFKBYJ5EwGA8) | [Cosmo Thambi](https://open.spotify.com/album/5q6ZKvPcqrywlljZXWSRH8) | 3:15 | 2023-08-02 | 2025-01-31 |
 | [Crack](https://open.spotify.com/track/5G84D0D1IpS1zJrmdOYyBx) | [NM Linges](https://open.spotify.com/artist/7F1xpPdr8TnUyGcUJsbDVT) | [Crack](https://open.spotify.com/album/3UM0gnmOYK7WzVtNUmLRsp) | 4:08 | 2022-08-25 | 2022-10-14 |
+| [Cute Kuppama](https://open.spotify.com/track/0uDYZ1WYvQAaC8k3KF1Tal) | [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Cute Kuppama](https://open.spotify.com/album/0YNwmb4oH1kfZzLoXDfpWS) | 4:04 | 2025-08-05 |  |
 | [Dabbu Dabbu](https://open.spotify.com/track/0lwCAr7ISc1LHNdCqnZC6p) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Dabbu Dabbu](https://open.spotify.com/album/3g5SeWC3MKugu7122cYD2d) | 2:57 | 2025-02-28 |  |
 | [Dei \- From "Think Specials"](https://open.spotify.com/track/2MJVUEFXFiMFYjqLCnfxUo) | [Inbaraj Rajendran](https://open.spotify.com/artist/66XIpVT4VmscyfSrPNFkaJ), [Anugraha Raphy](https://open.spotify.com/artist/2mOt2eAGBhSlwjiQNkVvvN) | [Dei \(From "Think Specials"\)](https://open.spotify.com/album/721Fc2J0RU2yPYUroSfKEG) | 3:44 | 2022-05-26 | 2022-07-15 |
 | [Devathai](https://open.spotify.com/track/4yostA1PrvFZpt5nlpVCp3) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Devathai](https://open.spotify.com/album/1nJWfx1wivsOd16Oy73c4F) | 3:22 | 2023-03-14 | 2023-07-15 |
@@ -537,6 +538,7 @@
 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 | 2021-12-01 | 2023-02-07 |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-02-02 | 2024-01-20 |
 | [Scene\-U Singaari](https://open.spotify.com/track/7MUFv0xMRBgA0zqgdMaI7A) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Sridhar Sena](https://open.spotify.com/artist/5YSYUHw3olaxG4SZhtCPET), [Bharath K Rajesh](https://open.spotify.com/artist/13n9V5dYM3IMUSIJQp0i45) | [Scene\-U Singaari](https://open.spotify.com/album/0vuhvk9LTtGNPer0oEQh8G) | 3:40 | 2022-01-06 | 2022-07-08 |
+| [Seema Singari](https://open.spotify.com/track/0TCM3afjjjDMXN90yAx4Ou) | [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d) | [Seema Singari](https://open.spotify.com/album/3GyE45eJIIEBz8EO3XdoyW) | 3:42 | 2025-08-05 |  |
 | [Semma Bodha \(From "Think Originals"\)](https://open.spotify.com/track/4tugggYmgNVjmMPIMzLC45) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH) | [Semma Bodha \(From "Think Originals"\)](https://open.spotify.com/album/7nC9Y3QpO4fWpj0FfqMJMA) | 3:16 | 2021-12-01 | 2023-02-07 |
 | [Sempakame Senthamizhe](https://open.spotify.com/track/2oYRRmUs4BsapjrHdj6AYo) | [Govind Padmasoorya](https://open.spotify.com/artist/7nraINNdmtvgbuyK7VcT07), [Sreenanda Sreekumar](https://open.spotify.com/artist/5UyfRGmsSp7z7rO7TbFvWH), [Anooj Babu](https://open.spotify.com/artist/5fT6CTXGDBgdzabq5MT7jz) | [Sempakame Senthamizhe](https://open.spotify.com/album/5XWDuBAmcsNI4ypIQI71sB) | 3:21 | 2024-02-09 | 2024-06-18 |
 | [Serithaana](https://open.spotify.com/track/5cdUR8s0paGuX4G2qANUeu) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Serithaana](https://open.spotify.com/album/3qUobbcOQKOPuzJBOiSGF6) | 3:22 | 2023-04-28 | 2024-11-21 |

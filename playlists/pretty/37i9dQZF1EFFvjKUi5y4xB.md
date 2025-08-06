@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 56 | [Miami](https://open.spotify.com/track/2uRlLRhuqa7OQJFuwQ8mR4) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 2:31 |
 | 57 | [No Odda](https://open.spotify.com/track/4p7iggZIyG97xOTy6jzDJ9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [No Odda](https://open.spotify.com/album/39KZYAJshmamLxlPohz2YW) | 3:11 |
 | 58 | [In It \(feat\. Latto\)](https://open.spotify.com/track/2GDFfYpuDzUjB7gYtNbR8n) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Floor Seats II](https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV) | 1:58 |
-| 59 | [Ride It](https://open.spotify.com/track/5rWia6d9DtaErAjnDLgZn8) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MIH\-TY](https://open.spotify.com/album/16rRmI5wxWWO5dnRWUKCPA) | 3:09 |
-| 60 | [Ooh La La](https://open.spotify.com/track/7rXfgg6jbK89XINlgcB8cu) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Joyride](https://open.spotify.com/album/0u3rjsCgagcSxHoRtXMKQo) | 3:15 |
+| 59 | [Ooh La La](https://open.spotify.com/track/7rXfgg6jbK89XINlgcB8cu) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Joyride](https://open.spotify.com/album/0u3rjsCgagcSxHoRtXMKQo) | 3:15 |
+| 60 | [Ride It](https://open.spotify.com/track/5rWia6d9DtaErAjnDLgZn8) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MIH\-TY](https://open.spotify.com/album/16rRmI5wxWWO5dnRWUKCPA) | 3:09 |
 | 61 | [Where Them $ @](https://open.spotify.com/track/386fU7GxAkgruYjw66WVTW) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Big Dreez](https://open.spotify.com/album/6LTCFCmcHl9RgVCjWKghNS) | 3:13 |
 | 62 | [If It's Over \(feat\. Charli XCX\)](https://open.spotify.com/track/3rGdqpn43JMpALFlC01OCE) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:39 |
 | 63 | [Birthday](https://open.spotify.com/track/3eKNhLFP3smSZTsyXFZchJ) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | ["A"](https://open.spotify.com/album/7JZi4kTfYCJcqOzVbKAYh5) | 3:24 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 112 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
 | 113 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `Ab4ocgAAAAD923UzFuDdDK3Y4LMfkeOj`
+Snapshot ID: `Ab4uCAAAAAAppEhvbuK94ESkswzvFxY7`

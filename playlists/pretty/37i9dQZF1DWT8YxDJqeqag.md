@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8YxDJqeqag.md) - [plain]
 
 > Spooky Minecraft music from every game – because it’s not Halloween without some creeper\-y vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,262 likes - 33 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,362 likes - 33 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8YxDJqeqag.md) - [plain]
 | 32 | [Five](https://open.spotify.com/track/60R09x1L8B9ioZ1BK4sIdy) | [Samuel Åberg](https://open.spotify.com/artist/7FX066BT272G8Z9qRdNsDC), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: The Wild Update \(Original Game Soundtrack\)](https://open.spotify.com/album/78Q3kP5fUZWmx47nHEZP5W) | 2:58 |
 | 33 | [Creator \(leon chang Remix\)](https://open.spotify.com/track/2HLpPvix8g93bdCS4YTd4h) | [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h), [leon chang](https://open.spotify.com/artist/3ciUz1yuEMltCsRaiEPBA8) | [Minecraft: Pixel Genesis](https://open.spotify.com/album/3pv30z3VATTE260rWIhWdE) | 2:58 |
 
-Snapshot ID: `ZxbU2AAAAAA9lCBRRQwREFyYgBnXEcMj`
+Snapshot ID: `ZxbU2AAAAADwr0v5eK6lpax19dwM/eVV`

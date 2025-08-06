@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Swank Mami
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,335 likes - 250 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,302 likes - 250 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

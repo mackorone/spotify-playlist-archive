@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 
 > While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! \(글로벌 베일드 뮤지션의 공개 모집을 기다리며 국내 최정상 보컬들의 음악을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,014 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,015 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 | 49 | [좋은 사람 \(Feat\. 김형중\)](https://open.spotify.com/track/1hTZUGfMzWYCSns929UWTo) | [Toy](https://open.spotify.com/artist/2HyoXCqcYBSzVibRweDeX8), [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Fermata](https://open.spotify.com/album/7eWW4M11CVi3LS0MeU5pWn) | 4:28 |
 | 50 | [Falling](https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Knock](https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9) | 3:41 |
 
-Snapshot ID: `aGaB3QAAAAC8N8ePB6DLXC20zT+9Tqzc`
+Snapshot ID: `AAAAAEtvMi3fikvZu22jU1ENHmg4KcKk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW34Z8OBNGGs.md) - [plain]
 
 > Celebrate the 25th Anniversary of the iconic Tony Hawk's Pro Skater franchise with the official in\-game soundtrack of Tony Hawk's Pro Skater 1+2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,639 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,708 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW34Z8OBNGGs.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
 
-Snapshot ID: `ZvcwoQAAAACX+R5/LwFJlvUOB235vivY`
+Snapshot ID: `ZvcwoQAAAAApHwjtZ7FROgDmzNIBSilJ`

@@ -4,12 +4,13 @@
 
 > Calm and quiet piano music for reading.
 
-823 songs - 1 day 11 hr 36 min
+826 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2017](https://open.spotify.com/track/1omqxrkMVNo4SOJ1b3KEmi) | [Pranit Khedekar](https://open.spotify.com/artist/0oFU5xoASWO97hFES9qbkT) | [2017](https://open.spotify.com/album/3r9NQVsjX9DpHVE6xyOarC) | 2:45 | 2022-04-15 | 2022-05-14 |
 | [A Dream of Tomorrow](https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Dream of Tomorrow](https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly) | 2:13 | 2023-02-27 | 2024-08-14 |
+| [A Forest Tale](https://open.spotify.com/track/0aOHjlTg0HE2n3R8VBsxik) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [A Forest Tale](https://open.spotify.com/album/57Db6TlvbRj77MzvdR0lWY) | 2:24 | 2025-08-05 |  |
 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 | 2022-04-15 | 2022-04-23 |
 | [A partire dal](https://open.spotify.com/track/3M0EGPJEuloXdbnrP6cC4j) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [A partire dal](https://open.spotify.com/album/412D6erKmAsitjfDKwd7vK) | 2:20 | 2022-04-15 | 2023-08-15 |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-20 | 2024-11-20 |
@@ -86,7 +87,7 @@
 | [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 | 2024-05-21 |  |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-15 | 2023-07-25 |
 | [Big Sur](https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1) | [Marisa Madsen](https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF) | [Big Sur](https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf) | 2:38 | 2022-04-15 | 2023-04-13 |
-| [Bittersweet](https://open.spotify.com/track/0bxzyjTOBLWowRUOltf6Ld) | [Purple Kees](https://open.spotify.com/artist/1DJk5phajqhPpEq84bJzjz) | [Bittersweet](https://open.spotify.com/album/7KuautUZm0ZeL7LmAxuQfZ) | 2:58 | 2025-06-10 |  |
+| [Bittersweet](https://open.spotify.com/track/0bxzyjTOBLWowRUOltf6Ld) | [Purple Kees](https://open.spotify.com/artist/1DJk5phajqhPpEq84bJzjz) | [Bittersweet](https://open.spotify.com/album/7KuautUZm0ZeL7LmAxuQfZ) | 2:58 | 2025-06-10 | 2025-08-06 |
 | [Blessed with a fire](https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Blessed with a fire](https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr) | 2:06 | 2023-07-10 | 2025-05-22 |
 | [Blessing In Disguise](https://open.spotify.com/track/1oxgOieE4U81VQM8Fd0B4W) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Always Sometimes](https://open.spotify.com/album/6MZFw7yJqWz9fOdoGSOvL8) | 2:32 | 2022-04-15 | 2022-05-14 |
 | [Blijheid](https://open.spotify.com/track/5JkjVf8tpS6JiBQ8M56Lhe) | [Annebelle Coenraad](https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z) | [Blijheid](https://open.spotify.com/album/0glfYY0y3DtvgPb4LpHzVM) | 2:30 | 2022-05-26 | 2024-12-18 |
@@ -139,6 +140,7 @@
 | [Cuore](https://open.spotify.com/track/1a31NqOXht9wFFpjTYRirI) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Cuore](https://open.spotify.com/album/5X7LXtUg4O5ZLy1aRqfGgr) | 2:40 | 2022-04-15 | 2023-05-04 |
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-04-15 | 2024-04-04 |
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2022-04-15 | 2024-04-04 |
+| [Dancing Leaves](https://open.spotify.com/track/6o4HSEEtxQ7ahr2l4CqfEN) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Dancing Leaves](https://open.spotify.com/album/2CSEmKSL5kLMWuciOzshWD) | 2:13 | 2025-08-05 |  |
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2022-04-15 | 2022-04-23 |
 | [Dans](https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Dans](https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK) | 2:22 | 2022-04-15 | 2024-02-14 |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2022-04-15 | 2024-02-28 |
@@ -621,7 +623,7 @@
 | [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-02 |  |
 | [Silent Words](https://open.spotify.com/track/0wzcJ18C87PpQdHBRAftqN) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Silent Words](https://open.spotify.com/album/2Sepj0N27dHOykHW32nYTG) | 2:49 | 2022-04-15 | 2022-05-14 |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-04-15 | 2022-05-14 |
-| [Silhouettes](https://open.spotify.com/track/3bNoItToT68iMJdpMYdMyd) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Silhouettes](https://open.spotify.com/album/5OM6FaXShLy7NT5XTQpp4H) | 2:15 | 2025-04-04 |  |
+| [Silhouettes](https://open.spotify.com/track/3bNoItToT68iMJdpMYdMyd) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Silhouettes](https://open.spotify.com/album/5OM6FaXShLy7NT5XTQpp4H) | 2:15 | 2025-04-04 | 2025-08-06 |
 | [Silk](https://open.spotify.com/track/32VbxbNM4X11uODmO24YYZ) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Silk](https://open.spotify.com/album/1wCZIEqsby6O7EeicgO7oG) | 1:55 | 2023-04-03 | 2023-07-25 |
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-04-03 | 2025-03-19 |
 | [Silver Lining](https://open.spotify.com/track/6dfDHPTRAVzPRlpB299l24) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Silver Lining](https://open.spotify.com/album/1jB2I6tTdCtzwOa6wmq1lE) | 2:36 | 2023-12-12 | 2025-05-22 |
@@ -638,6 +640,7 @@
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2022-04-15 | 2024-03-19 |
 | [Small Steps](https://open.spotify.com/track/4C0fbA7KbgfmDcib7tefmH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Small Steps](https://open.spotify.com/album/29wAVFuaCeCjCePIaDK2vq) | 2:50 | 2022-04-15 | 2024-09-04 |
 | [Soar](https://open.spotify.com/track/5JoCHCDI2s4PvI2H2yGlHs) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Soar](https://open.spotify.com/album/20V23ZlHIuN3hChiJPFrLj) | 2:24 | 2022-04-15 | 2022-09-21 |
+| [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 | 2025-08-05 |  |
 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-22 | 2025-05-22 |
 | [Solaris](https://open.spotify.com/track/5dBrUWCwDmw81rejMq1orC) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Solaris](https://open.spotify.com/album/2oup5geFHdBckuyVICr0nc) | 3:02 | 2024-10-22 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-04-15 | 2024-04-04 |

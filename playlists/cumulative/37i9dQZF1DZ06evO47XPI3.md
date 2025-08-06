@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Lover's Concerto](https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:18 | 2022-05-25 | 2025-08-05 |
+| [A Lover's Concerto](https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:18 | 2022-05-25 |  |
 | [Ain't That Peculiar \- Remastered](https://open.spotify.com/track/7om40hqPzeuIhQUKA6TLMn) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 1:46 | 2023-02-11 | 2024-02-11 |
 | [Alfie](https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:50 | 2022-05-27 |  |
 | [Baby I Love You](https://open.spotify.com/track/2tTdwJOFZY5ofaomvP4WmY) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:07 | 2022-05-25 |  |
@@ -38,7 +38,7 @@
 | [Hot Dog \(I Love You So\) \- Remastered](https://open.spotify.com/track/1tpfXwi6oIzkdV0W3kbUQC) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:16 | 2023-07-30 | 2024-06-23 |
 | [Hot Dog \(I Love You So\) \- Remastered](https://open.spotify.com/track/7ulFQzcnIDm337xLiQMYx4) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Love Songs](https://open.spotify.com/album/47I69OChJY93PaFpCRhS31) | 2:18 | 2022-05-25 | 2023-03-20 |
 | [How Long Will You Stay \- Re\-Recorded In Stereo](https://open.spotify.com/track/7LVpQBczvJBhkiezh2316d) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 4:46 | 2022-05-25 |  |
-| [Hurt so Bad](https://open.spotify.com/track/5FGSizyi9HyfIVzNivq2IY) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:04 | 2022-05-30 |  |
+| [Hurt so Bad](https://open.spotify.com/track/5FGSizyi9HyfIVzNivq2IY) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:04 | 2022-05-30 | 2025-08-06 |
 | [I Don't Want To Make You Wait \- Digitally Remastered 1997](https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 3:16 | 2022-05-25 |  |
 | [I Gave to You](https://open.spotify.com/track/7ni5SnrJnT1QwZe1rcPqhC) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 5:54 | 2022-05-25 |  |
 | [I Told You So](https://open.spotify.com/track/1AFFq11T6bTm3R8K3bYM4x) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 3:10 | 2023-04-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > Sync Next 25에서 이어지는 감각적 몰입, 새로운 레이브를 경험해보세요\. \(Step into a new kind of rave \- born from the sensory immersion of Sync Next 25.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,015 likes - 20 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,031 likes - 20 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 19 | [p.5](https://open.spotify.com/track/3q5PUiWIpRfgBRonYwQn3m) | [HOSOO](https://open.spotify.com/artist/3kMFfdFyf5MJCjr2ATgmKz) | [mist](https://open.spotify.com/album/0nmEthpB9Ym4XsOBBGOztX) | 9:34 |
 | 20 | [Heavy Peace](https://open.spotify.com/track/763S65Ooys16ozi2di7Wea) | [HOSOO](https://open.spotify.com/artist/3kMFfdFyf5MJCjr2ATgmKz) | [Odyssey](https://open.spotify.com/album/2c2OdwOA7piFSvZhxha0Sd) | 5:54 |
 
-Snapshot ID: `AAAAAOPqPbuGyqCGmZdRt5XqWqQkh32c`
+Snapshot ID: `aDfbnwAAAAB92/C9wSZRUnRk8CkFSH8t`

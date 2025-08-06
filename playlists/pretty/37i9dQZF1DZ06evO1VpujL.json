@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 27678,
+  "num_followers": 27683,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAAD7qesS9mLFdk8VXGP2QeNe",
+  "snapshot_id": "aI/4AAAAAADgfmbJcOhyPFvNikACeovQ",
   "tracks": [
     {
       "added_at": null,
@@ -187,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shark Bites and Dog Fights",
-        "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
+        "name": "Union Black",
+        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
       "artists": [
         {
           "name": "Skindred",
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
         }
       ],
-      "duration_ms": 246120,
-      "name": "Stand for Something",
-      "url": "https://open.spotify.com/track/2juhfL5ob3ykgArNQOtBYX"
+      "duration_ms": 230800,
+      "name": "Warning - feat. Jacoby Shaddix",
+      "url": "https://open.spotify.com/track/51D2Hs0t0X37GWI0TTMyaW"
     },
     {
       "added_at": null,
@@ -219,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Union Black",
-        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
+        "name": "Shark Bites and Dog Fights",
+        "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
       },
       "artists": [
         {
           "name": "Skindred",
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Warning - feat. Jacoby Shaddix",
-      "url": "https://open.spotify.com/track/51D2Hs0t0X37GWI0TTMyaW"
+      "duration_ms": 246120,
+      "name": "Stand for Something",
+      "url": "https://open.spotify.com/track/2juhfL5ob3ykgArNQOtBYX"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 213960,
-      "name": "Calling All Stations",
-      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
+      "duration_ms": 216733,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Days Like These",
-      "url": "https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo"
+      "duration_ms": 213960,
+      "name": "Calling All Stations",
+      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Automatic
 
-1,664 songs - 3 day 23 hr 56 min
+1,665 songs - 4 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1453,6 +1453,7 @@
 | [The Ransom](https://open.spotify.com/track/3iQcTLzH1Cp6iQjtFWco34) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [The Ransom](https://open.spotify.com/album/5n9Z7vxsXEnk0s7O2H6B35) | 4:10 | 2024-04-26 | 2024-06-01 |
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2022-08-25 | 2023-05-20 |
 | [The Right Thing Is Hard To Do](https://open.spotify.com/track/0V1zBWOzQ8Y1qKFgedja6N) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [The Right Thing Is Hard To Do](https://open.spotify.com/album/2KojEkrwmfqvGW4XJAVB9F) | 3:46 | 2021-03-25 | 2022-04-29 |
+| [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:16 | 2025-08-05 |  |
 | [The Sky Is Melting](https://open.spotify.com/track/4xWCnmQlJN1xh4QDvRBuDi) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Sky Is Melting](https://open.spotify.com/album/0YbYR3WvIXRdE7mNYBrpkf) | 4:06 | 2023-05-19 | 2023-06-16 |
 | [The Story](https://open.spotify.com/track/4kcvT4Fe3igO27vjVF4Jd8) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [The Story](https://open.spotify.com/album/5LpL8QmBaPCAnUngav4qTr) | 3:18 | 2024-11-15 | 2025-03-22 |
 | [The Sway](https://open.spotify.com/track/40dIRHeWIhQNWflZKIemQI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:35 | 2021-10-02 | 2022-04-26 |

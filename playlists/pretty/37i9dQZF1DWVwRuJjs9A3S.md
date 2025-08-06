@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Hayley Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,826 likes - 139 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,841 likes - 139 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 138 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 |
 | 139 | [Lago Maggiore](https://open.spotify.com/track/2QGQO0H2bkgAvRfgfvnxbD) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Nordic Machine](https://open.spotify.com/album/4XHdvDlocx2Kd8VdXVmDpI) | 2:58 |
 
-Snapshot ID: `aIvnhwAAAADea3+mYDsG6zWthRV/eA7i`
+Snapshot ID: `AAAAALWhU/3hNmXi0GkOaoUGO3me6hY/`

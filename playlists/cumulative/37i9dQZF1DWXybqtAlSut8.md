@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-102 songs - 4 hr 22 min
+104 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Grace And Peace](https://open.spotify.com/track/3T1BlzdFJxRswrlnHDeVla) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Grace And Peace](https://open.spotify.com/album/3uPJxmcUZHkr2N1fuPz0ym) | 2:56 | 2025-01-21 |  |
 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 | 2024-03-20 |  |
 | [Greener Pastures](https://open.spotify.com/track/1MAQP8f7QWAjItJ0XtwWBP) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Greener Pastures](https://open.spotify.com/album/47tLMghDhPZA4eD4yHTXgS) | 2:32 | 2025-02-21 |  |
+| [He Is Calling My Name](https://open.spotify.com/track/5g7ALQt7Bqm91rXr2V4z45) | [Anas Penelope](https://open.spotify.com/artist/2C69j48WL1Rn6TZvIiSWsk) | [He Is Calling My Name](https://open.spotify.com/album/5I8xMQ8Rr8pelKwrL15muZ) | 2:35 | 2025-08-05 |  |
 | [He Is Near](https://open.spotify.com/track/5XVaTfPnzPaQAgQobVjPMX) | [Andrea Bergfeld](https://open.spotify.com/artist/4mWXiBDSDQA9XRPQqQsQNl) | [He Is Near](https://open.spotify.com/album/5L583RmMoftX92GbeeK88U) | 2:39 | 2024-12-10 |  |
 | [He Shall Feed His Flock](https://open.spotify.com/track/2jZ8tqe6R2EmZZei0f2UPa) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [He Shall Feed His Flock](https://open.spotify.com/album/6omqeIVajSFPf0o4TWA5WQ) | 2:38 | 2024-10-22 |  |
 | [Here As In Heaven](https://open.spotify.com/track/1wo3GK2jEuRriOsWAm1Ptf) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Here As In Heaven](https://open.spotify.com/album/1VTY0PzMDDBJqDAGqgHJjA) | 3:24 | 2025-03-18 | 2025-04-05 |
@@ -55,6 +56,7 @@
 | [How Great Thou Art](https://open.spotify.com/track/5jTAJBqOZQIFp0gndvqR75) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [How Great Thou Art](https://open.spotify.com/album/5nBnV844JGJgufUEmm3rVH) | 3:26 | 2024-11-06 |  |
 | [I Believe](https://open.spotify.com/track/0Wf4gthDt7BQTUx7GCj8DD) | [Passerina Caerulea](https://open.spotify.com/artist/4A6r5yNuH0Mo4L9pdTIlSC) | [I Believe](https://open.spotify.com/album/5qSQ9AIHgT3mg8UkMRrdXR) | 2:57 | 2024-12-10 |  |
 | [I Need Thee Every Hour \- Piano](https://open.spotify.com/track/5bN7njfcG2B2WvtcD27Qqh) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Hymns of the Lord](https://open.spotify.com/album/1ku5bURxOqNFicICMmdN74) | 2:32 | 2024-03-20 |  |
+| [I Surrender All](https://open.spotify.com/track/13kZperIhrBuQ9v5is3zEg) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Sacred Melodies](https://open.spotify.com/album/11SHFPD7WhwrpSgzQlYZFG) | 3:04 | 2025-08-05 |  |
 | [I Surrender All](https://open.spotify.com/track/1Hk1qNA1BZRWfLZ3TIYdLn) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [I Surrender All](https://open.spotify.com/album/4bjGbFrwdlWRcb17Lw1NH2) | 2:10 | 2024-03-20 | 2025-03-05 |
 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 | 2024-03-20 | 2025-03-05 |
 | [In Christ Alone](https://open.spotify.com/track/2OFB7zEQGMzwA9o0GWi4L5) | [Ivory Gospel](https://open.spotify.com/artist/3pFauni8fnHnLzziMVuDPD) | [In Christ Alone](https://open.spotify.com/album/5PdWLoUSCqXuxFiyfnWyb2) | 2:27 | 2025-05-14 | 2025-05-21 |

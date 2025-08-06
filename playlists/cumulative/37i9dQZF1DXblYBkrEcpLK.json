@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Chasing destiny",
+        "url": "https://open.spotify.com/album/4yvxPHi1sWYrgUzWnm6aEJ"
+      },
+      "artists": [
+        {
+          "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2(CV.\u5e73\u91ce\u7dbe)",
+          "url": "https://open.spotify.com/artist/7fRpvlBaMGN1iShO2s46P8"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250173,
+      "name": "Chasing destiny",
+      "url": "https://open.spotify.com/track/2jePpIWARbuy860PvrJxui"
+    },
+    {
+      "album": {
         "name": "CHE.R.RY\uff08TV\u30a2\u30cb\u30e1\u300c\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\uff09",
         "url": "https://open.spotify.com/album/7q7rAh1DQg7LlLUGs1w9Uq"
       },
@@ -1618,6 +1636,24 @@
       "duration_ms": 249400,
       "name": "Diamond Human",
       "url": "https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng"
+    },
+    {
+      "album": {
+        "name": "DIVINE",
+        "url": "https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257625,
+      "name": "DIVINE",
+      "url": "https://open.spotify.com/track/2EXMoOCIHbhnLzDg5gZZ4U"
     },
     {
       "album": {
@@ -5396,7 +5432,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 224234,
       "name": "request",
       "url": "https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2"
@@ -14326,7 +14362,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 207777,
       "name": "\u8ffd\u61b6",
       "url": "https://open.spotify.com/track/1Tm2kBMTCHFP1psIF2t7cj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,492 songs - 19 day 10 hr 19 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,496 songs - 19 day 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6300,7 +6300,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6290 | [SO PLAYFUL \(Feat\. towana\)](https://open.spotify.com/track/0OCeClZVAKQOZd9kUHnBbl) | [Corners Groove](https://open.spotify.com/artist/4uj56Cozl6X8xYbl1GW8Zg), [towana](https://open.spotify.com/artist/7ab5IblJTWvfa31nymwt1v) | [Blue Watar Island \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/album/4UCpmOGJkoXksPaLOgfZlV) | 3:15 |
 | 6291 | [Talk about luv](https://open.spotify.com/track/1eVElcQXf0LEzOhOhnfkWy) | [Cosmograph](https://open.spotify.com/artist/4en0H7iE6PqEnZnWGmtWuK) | [Blue Watar Island \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/album/4UCpmOGJkoXksPaLOgfZlV) | 3:02 |
 | 6292 | [Romantic Valentine](https://open.spotify.com/track/4YGVAUyz7MEfPY2vwpv7Gr) | [LEVEL NINE](https://open.spotify.com/artist/4Q4MsHUCFTMr4Nnca9qChC), [Seibin](https://open.spotify.com/artist/74Xl4AiGLucUvFwjqneSvx) | [Romantic Valentine \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/album/7a8CZh1CKxMbjkTXGDBqGp) | 4:35 |
-| 6293 | [Come Inside Of My Heart](https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:06 |
+| 6293 | [Come Inside Of My Heart](https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:06 |
 | 6294 | [Solo](https://open.spotify.com/track/4lH6nENd1y81jp7Yt9lTBX) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HNDRXX](https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X) | 4:25 |
 | 6295 | [KEKE](https://open.spotify.com/track/14PlDNjNh3pXyHXzkhX8n5) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Day69: Graduation Day](https://open.spotify.com/album/1ubczeMvCrPHbSEjgfu4a7) | 2:31 |
 | 6296 | [Angelz \[Feat\. Karriem Riggins\]](https://open.spotify.com/track/4ssI3CWZrlBJYBjK8jGO5f) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 3:51 |
@@ -7500,5 +7500,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7490 | [Luv \(sic\) pt2](https://open.spotify.com/track/6gSalwEvVQfSFiqgwfyITp) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:33 |
 | 7491 | [Piano Concerto No\. 2 in C Minor, Op\. 18: 2\. Adagio sostenuto](https://open.spotify.com/track/4rrrn8OLrttq7r9RgNXalU) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Michael Francis](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) | [Rachmaninov: Piano Concerto No.2](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) | 10:44 |
 | 7492 | [Evil Woman](https://open.spotify.com/track/4N6HYihypXOVL24bnaR4fp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [All Over The World: The Very Best Of ELO](https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB) | 4:11 |
+| 7493 | [Red Rose](https://open.spotify.com/track/61FX2iQOlgHjTStwENyg0T) | [Woo Ye Rin	](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Day : 바람의 옷을 입고 초록을 달리네](https://open.spotify.com/album/2XTYLKxTTLNrz7tgcjQjv5) | 3:34 |
+| 7494 | [still love me? \(My Sweden Laundry \#2\)](https://open.spotify.com/track/0yTFx0iWAbm2yAKcrIXe7O) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [still love me? \(My Sweden Laundry \#2\)](https://open.spotify.com/album/6AfXs8y1KSRATouzb4vdf0) | 2:50 |
+| 7495 | [내생에 봄날은...](https://open.spotify.com/track/7p5vCCJi48DHb3X4sFFZnu) | [CAN](https://open.spotify.com/artist/2c1h7Xz5KxOeVuwfz8HTGQ) | [Can With Piano](https://open.spotify.com/album/3YiTiVLwE5I7zLGYpD8JYB) | 4:02 |
+| 7496 | [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 |
 
-Snapshot ID: `AAAIEHlNYadzf4FEVhEBovofq1wStiRG`
+Snapshot ID: `AAAIFPygTk/TAmBdffPqnusUzUWO73j+`

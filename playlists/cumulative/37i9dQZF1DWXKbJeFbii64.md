@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-173 songs - 8 hr 14 min
+174 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Distant Thunder At Night](https://open.spotify.com/track/1eAAKEMh69QfLafJAwgmXg) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Distant Thunder At Night](https://open.spotify.com/album/72gBU4g2D5LGIxe4HKm09V) | 2:22 | 2022-10-28 |  |
 | [Dreaming of Thunderstorms](https://open.spotify.com/track/32TQpydapcCkHdy1umyw0r) | [Sleepy Cow](https://open.spotify.com/artist/0M5U34sPfMWrF5MWtKwzc5) | [Dreaming of Thunderstorms](https://open.spotify.com/album/3ED6nTG9aUnFoYd7sHVwK6) | 3:27 | 2025-07-23 |  |
 | [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Thurricane](https://open.spotify.com/artist/336hn7XbKf5r6kzE4SZ1RP) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 | 2023-09-20 |  |
+| [Earthly Thunder](https://open.spotify.com/track/3WalMxwN7DJg5bKwk7DMxN) | [Earthly Delights](https://open.spotify.com/artist/3AhSKCMBK1DWhRGvem6prn) | [Earthly Thunder](https://open.spotify.com/album/0w30DDf2yjB88GxOzCCDZX) | 2:36 | 2025-07-23 |  |
 | [Echoes in the Darkened Sky](https://open.spotify.com/track/1F7VGnCSFeMS19TxzEDjxQ) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Echoes in the Darkened Sky](https://open.spotify.com/album/0OBEWkFV12cYT1WjpcDqw1) | 3:24 | 2025-07-23 |  |
 | [El Trueno Desde Arriba](https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P) | [Adela Amando](https://open.spotify.com/artist/4MxSvvBZgxyHPAuwKX5srl) | [El Trueno Desde Arriba](https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV) | 2:29 | 2023-09-20 |  |
 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
@@ -60,7 +61,7 @@
 | [Light And Thunder](https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2022-10-28 |  |
 | [Light Rain Thunder in Tabio](https://open.spotify.com/track/4yfVltdD9apD0UuyXdAoGW) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Andean Serene Thunderstorms](https://open.spotify.com/album/0bta8z0QHhtpCVCi6sU7TH) | 2:13 | 2024-04-15 | 2024-10-04 |
-| [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 |  |
+| [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 | 2025-08-06 |
 | [Lightning in the Dark](https://open.spotify.com/track/3UEdcz71hKsKcad6rnC8tO) | [Thunder etc.](https://open.spotify.com/artist/1O2nK8zKtpXOckXSR76kaS) | [Thunderstorm Blues](https://open.spotify.com/album/0yC2vctUeh6ODo7qw1QFIj) | 3:02 | 2023-09-20 |  |
 | [Lightning in the Evening](https://open.spotify.com/track/3Wzk6YAWxFTw6wNzycn6q6) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:51 | 2023-09-20 |  |
 | [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 | 2025-07-24 |

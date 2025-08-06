@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 
 > Listen to the music from and inspired by Scott Pilgrim Takes Off, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,419 likes - 76 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,439 likes - 76 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 | 75 | [Bad Husband \(Bonus Track\)](https://open.spotify.com/track/761wA4ahjL8XV2w3mGWLyy) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:46 |
 | 76 | [We Did It \(Bonus Track\)](https://open.spotify.com/track/0otwMwfq6MDcjrpoIZ3cLC) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:21 |
 
-Snapshot ID: `AAAAAE+X554kk/TnHxPtJwmyrxu6AqvQ`
+Snapshot ID: `ZWenTAAAAACKNP7RZ2KaxFvFSoUib59m`

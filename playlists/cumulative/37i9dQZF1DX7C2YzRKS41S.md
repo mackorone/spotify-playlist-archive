@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-463 songs - 1 day 3 hr 17 min
+464 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Erro Bobo](https://open.spotify.com/track/72sKirCcDXGaEM2SWlf50m) | [Dinho'](https://open.spotify.com/artist/7JQgcBXk05AThUYUDV0V6F), [Raffa Chagas](https://open.spotify.com/artist/47m0yEWPfhkKy7sz5BYuyT) | [Erro Bobo](https://open.spotify.com/album/6jbR8T51hWTXhfrs987CMv) | 3:58 | 2022-05-12 | 2022-07-03 |
 | [Escopo](https://open.spotify.com/track/4PzX9NhxDbJ1gQm5Yf91DZ) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ana Muller](https://open.spotify.com/album/3E4OoDSqNfBF6Sl5xGzPT4) | 2:37 | 2022-03-25 | 2022-04-19 |
 | [Escopo](https://open.spotify.com/track/5MpxCfD9pR1RHlN9W9amf1) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ana Muller](https://open.spotify.com/album/0wzMf9BvPCaVifQiWwkIp4) | 2:37 | 2022-03-25 | 2022-04-06 |
+| [Espelho](https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Espelho](https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw) | 2:11 | 2025-07-19 |  |
 | [Este Viaje](https://open.spotify.com/track/2j9QmeOI4giuBYMTE1HTuT) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Este Viaje](https://open.spotify.com/album/2cCwvOMxy19lOjl2mpzxCv) | 2:43 | 2022-03-25 | 2022-04-14 |
 | [Estou Vivo](https://open.spotify.com/track/0E4MQi6lcBOBwy2wxfxbc3) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj) | [Estou Vivo](https://open.spotify.com/album/57ky0d7AyoSc9U8YbqU3zN) | 2:56 | 2021-12-24 | 2022-07-18 |
 | [Estrada](https://open.spotify.com/track/6BbtZyTCkYL81wEETzM3B4) | [Bruno Addax](https://open.spotify.com/artist/2eLcfHcwcWB84a7ebdTAux) | [Cuidar & Colher](https://open.spotify.com/album/58GSyk2Ed80ABaoMTA4Yn2) | 2:34 | 2021-12-24 | 2022-07-11 |
@@ -391,7 +392,7 @@
 | [Slowmotion Cameraman](https://open.spotify.com/track/6nAJoXxWKSp7OsE10n3pOo) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Slowmotion Cameraman](https://open.spotify.com/album/0FBNHe4jU5USsdtE0qFsB5) | 3:35 | 2021-12-24 | 2022-07-29 |
 | [Society](https://open.spotify.com/track/37KL1oRZD8yzcke0yYdkE0) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6) | 3:56 | 2022-03-25 | 2022-04-16 |
 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 | 2022-07-04 | 2024-04-19 |
-| [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 | 2025-02-22 |  |
+| [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 | 2025-02-22 | 2025-08-06 |
 | [Solamento](https://open.spotify.com/track/5dtVGvYTO7r9wPtmse04Hl) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Pra Doer](https://open.spotify.com/album/0uLTUkUC8dpt0sRF2BZ9nt) | 3:54 | 2022-03-25 | 2022-04-08 |
 | [Some Lazy Days](https://open.spotify.com/track/6IzIxuegLDSdebVCsHIciW) | [Cícero](https://open.spotify.com/artist/6a5wUPC879Kyfw0aXxVatB) | [Cosmo](https://open.spotify.com/album/5WAzHbc9I1cM61IC6ORoHv) | 2:58 | 2021-12-24 | 2022-04-19 |
 | [Some Type Of Skin \- Acoustic](https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin \(Acoustic\)](https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr) | 3:20 | 2024-05-30 | 2024-07-03 |

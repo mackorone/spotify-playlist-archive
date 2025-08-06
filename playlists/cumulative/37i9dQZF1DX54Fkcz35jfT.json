@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Paledusk",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: coldrain",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 187875,
       "name": "BULL-UPPA",
       "url": "https://open.spotify.com/track/0ooPzfrxXqMq3kJvOHJGb7"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 191242,
       "name": "BUNBUN SUIBUN",
       "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
@@ -1112,6 +1112,24 @@
       "duration_ms": 143152,
       "name": "CHASE THE SKY -RedLine Title Song-",
       "url": "https://open.spotify.com/track/6aqz8DMLznpWEE3Ef91Ykx"
+    },
+    {
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk"
     },
     {
       "album": {
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 273933,
       "name": "Galaxy Of Black Hole",
       "url": "https://open.spotify.com/track/5Ij7OdS2JBKZ1onV9wnJcN"
@@ -5418,7 +5436,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 214500,
       "name": "STAY GROUND",
       "url": "https://open.spotify.com/track/594mWwCmEPEUdbTylWSr5p"

@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY?si=ViEr\_9SrQauIoyTiB9n2rQ"> Greek</a>\. Updates every Wednesday.
 
-3,469 songs - 7 day 7 hr 17 min
+3,470 songs - 7 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Bags](https://open.spotify.com/track/3NbfpyJ7RROQgoUBXE33yP) | [Vahn Black](https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7) | [Bags](https://open.spotify.com/album/2QQM5pI8KDCvDO1eazhoFk) | 3:30 | 2023-04-12 | 2024-01-11 |
 | [Bamboo](https://open.spotify.com/track/3qEJUyevEIcoYFYS6oNqi9) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Candid](https://open.spotify.com/album/13wWno0G43cztuh7WGXexr) | 4:50 | 2022-02-09 | 2022-04-14 |
 | [Bands On You](https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Bands On You](https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx) | 2:49 | 2023-07-28 | 2024-01-11 |
+| [Barbados](https://open.spotify.com/track/5yHtwDeh3SMpjzkqNvcvrL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Nic Nac](https://open.spotify.com/artist/3JUt8Eb39ikWDdahCinDwB), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [NO HArD FEELINGS](https://open.spotify.com/album/4QNno1ha0uOT41LYqdteGN) | 2:32 | 2025-08-05 |  |
 | [barbie and ken](https://open.spotify.com/track/5Cprm2gTWUcFy87dFKG1VL) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [barbie and ken](https://open.spotify.com/album/0suuwh2SAggpprp9PKKYNk) | 1:33 | 2024-08-02 | 2024-12-05 |
 | [Barely](https://open.spotify.com/track/3HRFNUKyOa3376N7j7zyQM) | [Chelsie Denise](https://open.spotify.com/artist/0fRSAl779fSbXWCYpzPm2j) | [Barely](https://open.spotify.com/album/2D0zTDIJ9YmzJr2lh47TF6) | 2:50 | 2022-07-01 | 2022-08-04 |
 | [BATSHIT CRAZY](https://open.spotify.com/track/0F6k72LR7Fk22YX3vFxcgJ) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [BATSHIT CRAZY](https://open.spotify.com/album/4VkOu0yzpmh3HJ8oPtP1WV) | 2:26 | 2025-05-23 |  |

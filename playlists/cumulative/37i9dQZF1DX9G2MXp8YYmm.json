@@ -2397,6 +2397,28 @@
     },
     {
       "album": {
+        "name": "Fark\u0131ndayd\u0131n",
+        "url": "https://open.spotify.com/album/60T9anGFIN7i4zAYEJ7hfU"
+      },
+      "artists": [
+        {
+          "name": "Sura \u0130skenderli",
+          "url": "https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS"
+        },
+        {
+          "name": "Lil Orxan",
+          "url": "https://open.spotify.com/artist/4se0Sn6hGwzmytn5VYtc6d"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176816,
+      "name": "Fark\u0131ndayd\u0131n",
+      "url": "https://open.spotify.com/track/1OUuYxtMnyNS4etNDpto3A"
+    },
+    {
+      "album": {
         "name": "Felaket",
         "url": "https://open.spotify.com/album/6BD9aDBrdBRnJ88a5bnInr"
       },
@@ -3632,6 +3654,24 @@
       "duration_ms": 183387,
       "name": "K\u00fcl Kedisi",
       "url": "https://open.spotify.com/track/7pL0k2S0xtCeIK8frnpogr"
+    },
+    {
+      "album": {
+        "name": "K\u00fc\u00e7\u00fck Hesaplar",
+        "url": "https://open.spotify.com/album/4NmqdoLVzbMUF9x41SMOMM"
+      },
+      "artists": [
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
+        }
+      ],
+      "date_added": "2025-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275242,
+      "name": "K\u00fc\u00e7\u00fck Hesaplar",
+      "url": "https://open.spotify.com/track/0ydR35Qtrsk24fL01NuYC6"
     },
     {
       "album": {
@@ -5216,7 +5256,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 145500,
       "name": "Uslanmaz",
       "url": "https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG"
@@ -5576,7 +5616,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 152434,
       "name": "Yar\u0131 Deli",
       "url": "https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN"

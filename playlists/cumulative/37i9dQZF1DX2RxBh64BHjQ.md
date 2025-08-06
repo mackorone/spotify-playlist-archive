@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7IrBqZo6diq3hV3GpUhrs2">Jim Legxacy</a>
 
-2,446 songs - 4 day 12 hr 32 min
+2,447 songs - 4 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1383,6 +1383,7 @@
 | [MURDER](https://open.spotify.com/track/11MIbPR5dJcq8CXKI7ArIT) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [MURDER](https://open.spotify.com/album/2eFBnPVOjFSjm0Vi7qCGEn) | 3:02 | 2024-02-09 | 2024-03-16 |
 | [Murder Bitch](https://open.spotify.com/track/1SfiDsFHqJnQoiN7cLaRz0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder Bitch](https://open.spotify.com/album/4jenlFugsErE0X5wP5ot79) | 4:53 | 2022-08-26 | 2022-10-08 |
 | [Murder Bitch](https://open.spotify.com/track/50OwB88gluc7N8TeflonIV) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legend](https://open.spotify.com/album/4qMgmLnCEAFvXAthrLcxvw) | 4:53 | 2022-09-09 | 2022-10-29 |
+| [MVP](https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Migo In America](https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw) | 1:43 | 2025-08-05 |  |
 | [MVP](https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [MVP](https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx) | 2:26 | 2022-05-20 | 2022-07-23 |
 | [My Baby](https://open.spotify.com/track/3cgmoVRxUBAtT72UkxnVyW) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [My Baby](https://open.spotify.com/album/7tiaY9WqyQSbKuSlNkmiTo) | 2:06 | 2023-11-17 | 2024-01-20 |
 | [My Baby \(feat\. STAR BANDZ\)](https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [2 Sides of the Story](https://open.spotify.com/album/6uPMZVukSlHx20cwHBfSlf) | 2:58 | 2024-09-13 | 2025-02-15 |
@@ -1810,7 +1811,7 @@
 | [Right Back Out](https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Right Back Out](https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP) | 3:24 | 2022-07-15 | 2022-09-10 |
 | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn) | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 | 2024-02-02 | 2024-03-16 |
 | [Right Or Wrong](https://open.spotify.com/track/67HBjDb9HgqkvUn5uihPBO) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3) | [Right Or Wrong](https://open.spotify.com/album/33YGEZAInWHu05iQAoLmfc) | 2:30 | 2024-02-16 | 2024-03-16 |
-| [Riley N Lamilton \(Lunch Break Freestyle\)](https://open.spotify.com/track/26j5KruhbUBKNb7uN2Pyd3) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Riley N Lamilton \(Lunch Break Freestyle\)](https://open.spotify.com/album/17o2BffeZ5neJvgWDmvs9Y) | 2:25 | 2025-07-25 |  |
+| [Riley N Lamilton \(Lunch Break Freestyle\)](https://open.spotify.com/track/26j5KruhbUBKNb7uN2Pyd3) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Riley N Lamilton \(Lunch Break Freestyle\)](https://open.spotify.com/album/17o2BffeZ5neJvgWDmvs9Y) | 2:25 | 2025-07-25 | 2025-08-06 |
 | [RIO FREE](https://open.spotify.com/track/1H3BKRHPHblRSbEm5HSPfU) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [RIO FREE](https://open.spotify.com/album/7timfkRN7jFMqKwMAvfG8J) | 3:20 | 2024-12-13 | 2025-02-08 |
 | [Riot](https://open.spotify.com/track/1cnhCYf4m2moDg9SnABIOs) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Riot](https://open.spotify.com/album/7glR8qsTx6uTCheooEyubi) | 1:48 | 2022-06-10 | 2022-07-23 |
 | [RIP](https://open.spotify.com/track/0iBV6djrudVllSHVTSAJbB) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 2:03 | 2025-02-28 | 2025-07-12 |

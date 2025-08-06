@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: 171",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: No Guard Okey",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 228037,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/4zbYQ7PAjE0ZLSw1KQorMd"
@@ -5776,7 +5776,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 182747,
       "name": "morning glow",
       "url": "https://open.spotify.com/track/7vRVeeoAMz9peuYiHkjRiN"
@@ -5812,7 +5812,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 222093,
       "name": "MUZIC",
       "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
@@ -7546,6 +7546,24 @@
       "duration_ms": 170533,
       "name": "Riot",
       "url": "https://open.spotify.com/track/5O4zLbMmWjJlDGWvgIwk3o"
+    },
+    {
+      "album": {
+        "name": "Post Nut Clarity",
+        "url": "https://open.spotify.com/album/00XVENE42qr4q682CkoZYK"
+      },
+      "artists": [
+        {
+          "name": "No Guard Okey",
+          "url": "https://open.spotify.com/artist/0WChAIlhqnTFsCusfLKQLL"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179519,
+      "name": "Rise and Fall",
+      "url": "https://open.spotify.com/track/3SdDGsYRE2gZxxbddSUNi0"
     },
     {
       "album": {

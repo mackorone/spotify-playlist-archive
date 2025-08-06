@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Blue sea",
+        "url": "https://open.spotify.com/album/3GMcRS0oOuCxBhkHHrwO9w"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Blue sea",
+      "url": "https://open.spotify.com/track/6AMrAH1lwUxY538AjW3psv"
+    },
+    {
+      "album": {
         "name": "Blund",
         "url": "https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK"
       },
@@ -6017,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "Ness Cove",
+        "url": "https://open.spotify.com/album/27uUtOHg4CD8eaVkkrmnPe"
+      },
+      "artists": [
+        {
+          "name": "Shoalstone",
+          "url": "https://open.spotify.com/artist/4DVH5f7mp7fPURb2lsI4cz"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Ness Cove",
+      "url": "https://open.spotify.com/track/2AgIYRB5g5ZHjLOnLrmAVQ"
+    },
+    {
+      "album": {
         "name": "Night Dancer",
         "url": "https://open.spotify.com/album/6IGbOBB7g1vDVCAnQ1IhZR"
       },
@@ -8935,6 +8971,24 @@
     },
     {
       "album": {
+        "name": "Taylor River",
+        "url": "https://open.spotify.com/album/7HlwXtNrThDW7yDKT0bMbC"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131126,
+      "name": "Taylor River",
+      "url": "https://open.spotify.com/track/6GNqGNo4HxzaMsXo36ErsG"
+    },
+    {
+      "album": {
         "name": "Petit Voyage",
         "url": "https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V"
       },
@@ -9076,7 +9130,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 182572,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/1Jjqg0u9T3XG8GZoEWHFAm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 
 > Enjoy songs from artists appearing on WONDERLIVET 2024! \(WONDERLIVET 2024의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,148 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,153 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 | 79 | [Edison](https://open.spotify.com/track/0X4OlWpwfrRUhZnMHSJyg1) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Maneki Neko / Edison](https://open.spotify.com/album/0mSHhU7ol9v4rT8aAdRyMp) | 3:13 |
 | 80 | [Ikkyu\-san](https://open.spotify.com/track/5xU5Ji9LPp4uGBaLS5MGes) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [SUPERMAN](https://open.spotify.com/album/1wrPSdg93Y5S0kRQZNDKwJ) | 4:00 |
 
-Snapshot ID: `AAAAAKij7TrHkneF1LHpfvROnp5qJ5eo`
+Snapshot ID: `Zw8v7gAAAAA6bpQs+v/KR4OvmMpMTR+O`

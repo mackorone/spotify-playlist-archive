@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,307 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,332 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 |
 | 50 | [Vise de zahăr](https://open.spotify.com/track/57pU1kPLQNHP1n14Xy3Ohf) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [Oana Matache](https://open.spotify.com/artist/7FmNU0yMM716pY73SteA4u) | [Vise de zahăr](https://open.spotify.com/album/4cKW0kBFtSKYtwde9yVTzv) | 3:15 |
 
-Snapshot ID: `aIvZYQAAAACF1c+WMJ8BpFE13GmW9tKX`
+Snapshot ID: `AAAAAN6vEuTnirYjWhEiaRi5uYPnWmG2`

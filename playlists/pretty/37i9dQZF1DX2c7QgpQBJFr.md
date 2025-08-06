@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Epoque
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,155 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,160 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 6 | [MA CHE IDEA RMX](https://open.spotify.com/track/3NX8uz8ollJtkfa5IQczm1) | [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA RMX](https://open.spotify.com/album/3wUrUcYjwY1uLfvB0bHC4e) | 2:57 |
 | 7 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 |
 | 8 | [TORRE DI BABELE](https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [TORRE DI BABELE](https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP) | 3:02 |
-| 9 | [Che ne sai?](https://open.spotify.com/track/1QsgxbubysBHPePv0PuBYG) | [GUSA](https://open.spotify.com/artist/14Vlzht8zPQPQNHDCnNshZ), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Che ne sai?](https://open.spotify.com/album/0w6E6RqoRUKaokGrLmaXLL) | 2:46 |
-| 10 | [Noi per sempre](https://open.spotify.com/track/3M8oXXKiXUCLG5DT1JmWkS) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Noi per sempre](https://open.spotify.com/album/1DYsiTArC8RfO6t4pUCGnW) | 2:33 |
-| 11 | [Mareamore](https://open.spotify.com/track/6nOPUJzS5DhZcECqq6UCEs) | [achiblu](https://open.spotify.com/artist/73w1eKfpLiAoX6LI87kfC1) | [Mareamore](https://open.spotify.com/album/2yWN4qvoatNHnri7AAM3xN) | 2:40 |
-| 12 | [Sceglierei il mio cane](https://open.spotify.com/track/1nDqzcFhRkwYMr2L2B2hZ7) | [RIP](https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM) | [Sceglierei il mio cane](https://open.spotify.com/album/4QSxBOQxj6zp3U7CC53Qbs) | 4:16 |
-| 13 | [Allucinazione](https://open.spotify.com/track/6s42fEwCHQsW2KbTb58abU) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Allucinazione](https://open.spotify.com/album/54CcbtH5Kq625vyy8V27XQ) | 2:52 |
-| 14 | [downdowndown](https://open.spotify.com/track/4VB8mDt4OutaW3Dk3kHRJ8) | [Trendy](https://open.spotify.com/artist/6ZtwPk2bazCQSmolpfKJkh) | [downdowndown](https://open.spotify.com/album/3ZzVgVMmjiCxyy6J2i0lpT) | 2:14 |
+| 9 | [downdowndown](https://open.spotify.com/track/4VB8mDt4OutaW3Dk3kHRJ8) | [Trendy](https://open.spotify.com/artist/6ZtwPk2bazCQSmolpfKJkh) | [downdowndown](https://open.spotify.com/album/3ZzVgVMmjiCxyy6J2i0lpT) | 2:14 |
+| 10 | [Che ne sai?](https://open.spotify.com/track/1QsgxbubysBHPePv0PuBYG) | [GUSA](https://open.spotify.com/artist/14Vlzht8zPQPQNHDCnNshZ), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Che ne sai?](https://open.spotify.com/album/0w6E6RqoRUKaokGrLmaXLL) | 2:46 |
+| 11 | [Noi per sempre](https://open.spotify.com/track/3M8oXXKiXUCLG5DT1JmWkS) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Noi per sempre](https://open.spotify.com/album/1DYsiTArC8RfO6t4pUCGnW) | 2:33 |
+| 12 | [Mareamore](https://open.spotify.com/track/6nOPUJzS5DhZcECqq6UCEs) | [achiblu](https://open.spotify.com/artist/73w1eKfpLiAoX6LI87kfC1) | [Mareamore](https://open.spotify.com/album/2yWN4qvoatNHnri7AAM3xN) | 2:40 |
+| 13 | [Sceglierei il mio cane](https://open.spotify.com/track/1nDqzcFhRkwYMr2L2B2hZ7) | [RIP](https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM) | [Sceglierei il mio cane](https://open.spotify.com/album/4QSxBOQxj6zp3U7CC53Qbs) | 4:16 |
+| 14 | [Allucinazione](https://open.spotify.com/track/6s42fEwCHQsW2KbTb58abU) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Allucinazione](https://open.spotify.com/album/54CcbtH5Kq625vyy8V27XQ) | 2:52 |
 | 15 | [Would you love me](https://open.spotify.com/track/1e806Hat5LfLplONzEsfXE) | [Pablo Murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A) | [Would you love me](https://open.spotify.com/album/2JwC7y2x36ygUT9DRmVj5a) | 2:10 |
 | 16 | [corri, nuota, ridi, espira](https://open.spotify.com/track/7LbPyyq0gBdze1o1mB7Ftw) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ), [DEIAH](https://open.spotify.com/artist/5E7XQI53f90TDm0MOcwJhs) | [corri, nuota, ridi, espira](https://open.spotify.com/album/0ws70wtRtYBkhF4h90kFKH) | 3:06 |
 | 17 | [TIVITIBI](https://open.spotify.com/track/5M5DJszDIrnQQsG5fbYlU9) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Rx](https://open.spotify.com/artist/4cBr49Vh3Y4I2Ty5E3gakQ), [Luvi](https://open.spotify.com/artist/0cPBV0vRFQYE3ikRRh3Xr0) | [TIVITIBI](https://open.spotify.com/album/3GsB7kZrdZ6o4FEVj8Kwo4) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 99 | [I LUV U](https://open.spotify.com/track/5RJcX2TpD3LxJyM7OonuAP) | [NOX](https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A) | [I LUV U](https://open.spotify.com/album/6iKZL4XM7RlKTtWwz0A4bg) | 2:43 |
 | 100 | [LA PORTA IL VENTO](https://open.spotify.com/track/4OxSMgOinHc1T9c69cfkJJ) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Mile](https://open.spotify.com/artist/0YfrIvbDrpW1PdjB0WvZqQ), [cupido](https://open.spotify.com/artist/5VJIiHHvYSPDLm3te8gJhM) | [LA PORTA IL VENTO](https://open.spotify.com/album/6If7Vr3rVDFYaUyP1jwnSf) | 2:15 |
 
-Snapshot ID: `aIvnrQAAAAARVm4hj5ZYBgARb6lbGQrE`
+Snapshot ID: `aJG9qQAAAADIbDXTd/o6AY8IfgxSgmgh`

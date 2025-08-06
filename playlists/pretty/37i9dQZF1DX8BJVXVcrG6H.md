@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 
 > Representantes de la rima Charrúa\. Foto: Zeballos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,928 likes - 81 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,932 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 | 80 | [Bandido](https://open.spotify.com/track/05VOv9XZssR7p058ISvqCE) | [Crasek](https://open.spotify.com/artist/1Wyenmx5v8iqA6uD9z8435), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [Bandido](https://open.spotify.com/album/2IFvOcq4sQrFef0iysZBZm) | 2:40 |
 | 81 | [Fuego en la Disco](https://open.spotify.com/track/55FU7UMUbX3hskfV9CQJzg) | [AFC](https://open.spotify.com/artist/5EOi4iopwT7JCvwft1knJl) | [Murgang](https://open.spotify.com/album/1mVbqOCVks51RonIHtJBTz) | 3:28 |
 
-Snapshot ID: `Zy1+sAAAAAA3kCCuuaZEBFH+YGLv+mkK`
+Snapshot ID: `AAAAADewD+SMVLjk/spzIIjD7nG8KhxK`

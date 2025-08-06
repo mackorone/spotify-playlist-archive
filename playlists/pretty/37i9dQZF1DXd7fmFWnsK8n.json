@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 71569,
+  "num_followers": 71575,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "DAYBREAK INTERLUDE",
-      "url": "https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "Heart to Heart",
         "url": "https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 233760,
       "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "DAYBREAK INTERLUDE",
+      "url": "https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -459,18 +459,26 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "\u30ab\u30e9\u30d5\u30eb",
-        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
+        "name": "Polished",
+        "url": "https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA"
       },
       "artists": [
         {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
+        },
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
         }
       ],
-      "duration_ms": 278373,
-      "name": "\u30ab\u30e9\u30d5\u30eb",
-      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
+      "duration_ms": 269853,
+      "name": "Polished",
+      "url": "https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -507,6 +515,50 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
+        },
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        },
+        {
+          "name": "\u5343 (CV.\u7acb\u82b1\u614e\u4e4b\u4ecb)",
+          "url": "https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh"
+        },
+        {
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "LOVE&GAME",
         "url": "https://open.spotify.com/album/5tXE6J3mi2wyzX0dGv8zFK"
       },
@@ -527,46 +579,6 @@
       "duration_ms": 234002,
       "name": "LOVE&GAME",
       "url": "https://open.spotify.com/track/4B4oTvmtcumgNyXFz7ow79"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "Polished",
-        "url": "https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        },
-        {
-          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
-          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
-        },
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
-        }
-      ],
-      "duration_ms": 269853,
-      "name": "Polished",
-      "url": "https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u30ad\u30ba\u30ca",
-        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "\u30ad\u30ba\u30ca",
-      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -603,8 +615,24 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4"
+        "name": "\u30ad\u30ba\u30ca",
+        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "\u30ad\u30ba\u30ca",
+      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "Unfoggy Sight",
+        "url": "https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV"
       },
       "artists": [
         {
@@ -612,21 +640,17 @@
           "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
         },
         {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
         },
         {
-          "name": "\u5343 (CV.\u7acb\u82b1\u614e\u4e4b\u4ecb)",
-          "url": "https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh"
-        },
-        {
-          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY"
+      "duration_ms": 260560,
+      "name": "Unfoggy Sight",
+      "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -647,22 +671,6 @@
       "duration_ms": 201240,
       "name": "Unbalance Shadow",
       "url": "https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u30ad\u30ba\u30ca",
-        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 310600,
-      "name": "\u30d5\u30a9\u30c8\u30d5\u30ec\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -699,8 +707,24 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Unfoggy Sight",
-        "url": "https://open.spotify.com/album/2HBzSQ7ABffmLI78lkNneV"
+        "name": "\u30ad\u30ba\u30ca",
+        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 310600,
+      "name": "\u30d5\u30a9\u30c8\u30d5\u30ec\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
+        "url": "https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr"
       },
       "artists": [
         {
@@ -708,17 +732,21 @@
           "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
         },
         {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
         },
         {
-          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
-          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
+          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
+        },
+        {
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
         }
       ],
-      "duration_ms": 260560,
-      "name": "Unfoggy Sight",
-      "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
+      "duration_ms": 230933,
+      "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
+      "url": "https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -759,6 +787,22 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        }
+      ],
+      "duration_ms": 258385,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
         "name": "\u96e8",
         "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
       },
@@ -787,50 +831,6 @@
       "duration_ms": 251520,
       "name": "Risky\u306a\u5f7c\u5973",
       "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
-        "url": "https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr"
-      },
-      "artists": [
-        {
-          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
-        },
-        {
-          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
-          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
-        },
-        {
-          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
-        },
-        {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\uff5eMATSURI\uff5e",
-      "url": "https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
-      },
-      "artists": [
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        }
-      ],
-      "duration_ms": 258385,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "my 10plate",
-        "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
-      },
-      "artists": [
-        {
-          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "my 10plate",
-      "url": "https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "June is Natural",
         "url": "https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 242013,
       "name": "June is Natural",
       "url": "https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "my 10plate",
+        "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
+      },
+      "artists": [
+        {
+          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "my 10plate",
+      "url": "https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "\u5348\u524d4\u6642\u306eDusty Love",
-        "url": "https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd"
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
       },
       "artists": [
         {
-          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
-          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
         }
       ],
-      "duration_ms": 274946,
-      "name": "\u5348\u524d4\u6642\u306eDusty Love",
-      "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
+      "duration_ms": 235013,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
+        "name": "\u5348\u524d4\u6642\u306eDusty Love",
+        "url": "https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd"
       },
       "artists": [
         {
-          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
+          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
         }
       ],
-      "duration_ms": 235013,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
+      "duration_ms": 274946,
+      "name": "\u5348\u524d4\u6642\u306eDusty Love",
+      "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
     },
     {
       "added_at": "2025-06-09 15:00:27",

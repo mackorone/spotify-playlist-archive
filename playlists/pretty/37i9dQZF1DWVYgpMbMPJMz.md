@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: UPPERROOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,233 likes - 95 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,315 likes - 95 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 94 | [Rescue \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Rescue](https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk) | 3:41 |
 | 95 | [Living Proof \- Live](https://open.spotify.com/track/1CmWihe8s7fwmNZcB4Zd1j) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Testify \(Live\)](https://open.spotify.com/album/5Gh92ayf6MMWd7Ffsc5SfJ) | 3:53 |
 
-Snapshot ID: `AAAAAEoYTXjiQUybeAGPUTfS+/Hezz0Y`
+Snapshot ID: `aIy1DQAAAABq692uSVAyGN4deVlc4FOt`

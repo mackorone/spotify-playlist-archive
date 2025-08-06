@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Paloma Mami is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,041 likes - 20 songs - 55 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,014 likes - 20 songs - 55 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

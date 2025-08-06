@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Hilltop Hoods, Chappell Roan, Emma Louise, Flume, NO CIGAR, Alison Wonderland + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,228 likes - 91 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,206 likes - 91 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 90 | [You're So Mine](https://open.spotify.com/track/4bnnXbFWZqfk141IgwdZNm) | [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [You're So Mine](https://open.spotify.com/album/5JHPaj4uXUiTAuxJnCgSdp) | 3:12 |
 | 91 | [On Sight](https://open.spotify.com/track/4c5E62kOUx9UWmbcLRFeAu) | [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2), [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X) | [On Sight](https://open.spotify.com/album/1Qy6lDCDO6HRSDLJdsldvM) | 2:43 |
 
-Snapshot ID: `AAAAAFoiJyy9GJTLnl+lwv8TpWY+AYMM`
+Snapshot ID: `aIxEDgAAAAC3DlsD1gOOlC9fCato3o2n`

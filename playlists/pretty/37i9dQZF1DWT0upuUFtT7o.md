@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Polami Roko
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,405 likes - 130 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,419 likes - 130 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 129 | [MOTH](https://open.spotify.com/track/21GVerzG5CIaXuLqPZCzwP) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [BROADWAY & BOND](https://open.spotify.com/album/2RUKkWGLqHcHoNkmKO435C) | 2:51 |
 | 130 | [Pulled Me in Dark](https://open.spotify.com/track/51IYzcb1bKuyA9tVk06OGD) | [Giant Claw](https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc) | [Pulled Me in Dark](https://open.spotify.com/album/2O2hRNszrULuyEQDhCSLcB) | 6:58 |
 
-Snapshot ID: `aJDsjQAAAAAYX8C+8iZ+SDbH29hZimjd`
+Snapshot ID: `AAAAAJdHY9lAQUHGwUvl7X0xNKlepkY2`

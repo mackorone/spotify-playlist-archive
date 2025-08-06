@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 500982,
+  "num_followers": 500962,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "The Trip",
+          "url": "https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW"
+        }
+      ],
+      "duration_ms": 196895,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 139009,
       "name": "Keep It Exciting",
       "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "The Trip",
-          "url": "https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW"
-        }
-      ],
-      "duration_ms": 196895,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 215602,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "Que Tal America (Dave Lee Mixes)",
-        "url": "https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH"
-      },
-      "artists": [
-        {
-          "name": "Dos Hombres Sonido",
-          "url": "https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        }
-      ],
-      "duration_ms": 240238,
-      "name": "Que Tal America - Dave Lee Mix",
-      "url": "https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
         "name": "Love Is All Around",
         "url": "https://open.spotify.com/album/71xOe0V8lYKJd2cjAkpp8e"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 148065,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/0ZrCsbgPF7j50Uw6ODNbFY"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "Que Tal America (Dave Lee Mixes)",
+        "url": "https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH"
+      },
+      "artists": [
+        {
+          "name": "Dos Hombres Sonido",
+          "url": "https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 240238,
+      "name": "Que Tal America - Dave Lee Mix",
+      "url": "https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "The Last Time",
-        "url": "https://open.spotify.com/album/39fKrm33IcGXYEd1hfwZbI"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 222122,
-      "name": "The Last Time - Edit",
-      "url": "https://open.spotify.com/track/2qbC0K8Ya7wkNEMaB4KuBA"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
         "name": "Wish I Didn't Miss You",
         "url": "https://open.spotify.com/album/4Jz21rRURJ684wdODJ2UAL"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 224132,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/1nptAYTa5Gps4uhImuSZjk"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "The Last Time",
+        "url": "https://open.spotify.com/album/39fKrm33IcGXYEd1hfwZbI"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 222122,
+      "name": "The Last Time - Edit",
+      "url": "https://open.spotify.com/track/2qbC0K8Ya7wkNEMaB4KuBA"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "Unidos",
-        "url": "https://open.spotify.com/album/2dJgxHSvlhIM3bxxQozioO"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 317962,
-      "name": "Unidos",
-      "url": "https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
         "name": "FROM LUST TO YOU",
         "url": "https://open.spotify.com/album/4cGoaOJxdB86dCMSOi1Y4v"
       },
@@ -1551,6 +1531,26 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
+        "name": "Unidos",
+        "url": "https://open.spotify.com/album/2dJgxHSvlhIM3bxxQozioO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 317962,
+      "name": "Unidos",
+      "url": "https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/1L4dKn2nbO7JCNfZbtoEmh"
       },
@@ -1563,6 +1563,30 @@
       "duration_ms": 138491,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5RgqLIWWb1ceLM01BORkez"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "Back To The Old",
+        "url": "https://open.spotify.com/album/5RdANBW2sritjPOVUhrW3N"
+      },
+      "artists": [
+        {
+          "name": "Dario D'Attis",
+          "url": "https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX"
+        },
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
+        },
+        {
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
+        }
+      ],
+      "duration_ms": 405200,
+      "name": "Back To The Old - Joeski Remix",
+      "url": "https://open.spotify.com/track/5X3p1qsoCgxATEnWsqDSbS"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1595,32 +1619,8 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "Back To The Old",
-        "url": "https://open.spotify.com/album/5RdANBW2sritjPOVUhrW3N"
-      },
-      "artists": [
-        {
-          "name": "Dario D'Attis",
-          "url": "https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX"
-        },
-        {
-          "name": "Mr. V",
-          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
-        },
-        {
-          "name": "Joeski",
-          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
-        }
-      ],
-      "duration_ms": 405200,
-      "name": "Back To The Old - Joeski Remix",
-      "url": "https://open.spotify.com/track/5X3p1qsoCgxATEnWsqDSbS"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
-        "name": "Keep Me On The Dancefloor",
-        "url": "https://open.spotify.com/album/2lehhdJMvhIzZX8tPwWERk"
+        "name": "Vicino O' Mare (The Shapeshifters Remix)",
+        "url": "https://open.spotify.com/album/0eY1ikGLbHzwrz2x7hZfAT"
       },
       "artists": [
         {
@@ -1628,13 +1628,13 @@
           "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
         },
         {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Keep Me On The Dancefloor",
-      "url": "https://open.spotify.com/track/3v8AhfiTziiMe3YgwrEmV9"
+      "duration_ms": 199692,
+      "name": "Vicino O' Mare - The Shapeshifters Remix",
+      "url": "https://open.spotify.com/track/4oAu9Wfs3YdDA2zw1oZA3g"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej"
-      },
-      "artists": [
-        {
-          "name": "Gissa",
-          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
-        }
-      ],
-      "duration_ms": 249469,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
         "name": "Circus EP",
         "url": "https://open.spotify.com/album/4ZlcX8nEMYUursOBLVzwXF"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 191250,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3z12e1P8AJEJeFXcVeqrjT"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej"
+      },
+      "artists": [
+        {
+          "name": "Gissa",
+          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
+        }
+      ],
+      "duration_ms": 249469,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1747,8 +1747,8 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "Vicino O' Mare (The Shapeshifters Remix)",
-        "url": "https://open.spotify.com/album/0eY1ikGLbHzwrz2x7hZfAT"
+        "name": "Keep Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/2lehhdJMvhIzZX8tPwWERk"
       },
       "artists": [
         {
@@ -1756,13 +1756,13 @@
           "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
         },
         {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
         }
       ],
-      "duration_ms": 199692,
-      "name": "Vicino O' Mare - The Shapeshifters Remix",
-      "url": "https://open.spotify.com/track/4oAu9Wfs3YdDA2zw1oZA3g"
+      "duration_ms": 147000,
+      "name": "Keep Me On The Dancefloor",
+      "url": "https://open.spotify.com/track/3v8AhfiTziiMe3YgwrEmV9"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1783,6 +1783,26 @@
       "duration_ms": 194220,
       "name": "Deep Inside - CASSIMM Remix",
       "url": "https://open.spotify.com/track/26xyL8HgzrQfiY0n8x01Z8"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/6y079nJ40NbY5Qnad8nnpl"
+      },
+      "artists": [
+        {
+          "name": "Soldera",
+          "url": "https://open.spotify.com/artist/3jkWhyxck0vHfZV83khRLc"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 208062,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/33nXKnlbDs5zsI5A4tMkCi"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1819,26 +1839,6 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/6y079nJ40NbY5Qnad8nnpl"
-      },
-      "artists": [
-        {
-          "name": "Soldera",
-          "url": "https://open.spotify.com/artist/3jkWhyxck0vHfZV83khRLc"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 208062,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/33nXKnlbDs5zsI5A4tMkCi"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
         "name": "Selebra Bida",
         "url": "https://open.spotify.com/album/1kZ5GbcKUfwkJxbOR6BOeu"
       },
@@ -1855,6 +1855,26 @@
       "duration_ms": 211967,
       "name": "My Heartbeat",
       "url": "https://open.spotify.com/track/1fGrmb93vmYFq4141u0HJJ"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "But I Do (Crackazat Remix)",
+        "url": "https://open.spotify.com/album/1QILvuipSztS0KzLzGeOt6"
+      },
+      "artists": [
+        {
+          "name": "lovetempo",
+          "url": "https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY"
+        },
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "duration_ms": 244871,
+      "name": "But I Do - Crackazat Remix",
+      "url": "https://open.spotify.com/track/0KaBrdbY3kQO6sI2Wn875J"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1919,22 +1939,46 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "But I Do (Crackazat Remix)",
-        "url": "https://open.spotify.com/album/1QILvuipSztS0KzLzGeOt6"
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/0wSR02tnGQD9TDcnnvjWWy"
       },
       "artists": [
         {
-          "name": "lovetempo",
-          "url": "https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY"
+          "name": "Rony Breaker",
+          "url": "https://open.spotify.com/artist/5wSpDfqDmrcfiXQX3hILuL"
         },
         {
-          "name": "Crackazat",
-          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+          "name": "Chinua Hawk",
+          "url": "https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0"
+        },
+        {
+          "name": "Brian Tappert",
+          "url": "https://open.spotify.com/artist/15PNwQoGpnGp9XNFlSYy8A"
         }
       ],
-      "duration_ms": 244871,
-      "name": "But I Do - Crackazat Remix",
-      "url": "https://open.spotify.com/track/0KaBrdbY3kQO6sI2Wn875J"
+      "duration_ms": 361172,
+      "name": "Solid Ground - Brian Tappert for the Heads Remix",
+      "url": "https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "Gabriel",
+        "url": "https://open.spotify.com/album/3yZcSjo5wlJ2CzIFYPtxbU"
+      },
+      "artists": [
+        {
+          "name": "Travis Emmons",
+          "url": "https://open.spotify.com/artist/1gQou2nfkVjww2lOEBTGLF"
+        },
+        {
+          "name": "Trice Be",
+          "url": "https://open.spotify.com/artist/04yg9GkPRs16El4FGBdFfT"
+        }
+      ],
+      "duration_ms": 472258,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/79aDNSN85CmvaPCGkAsYOL"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -1967,30 +2011,6 @@
     {
       "added_at": "2025-08-04 22:00:07",
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/0wSR02tnGQD9TDcnnvjWWy"
-      },
-      "artists": [
-        {
-          "name": "Rony Breaker",
-          "url": "https://open.spotify.com/artist/5wSpDfqDmrcfiXQX3hILuL"
-        },
-        {
-          "name": "Chinua Hawk",
-          "url": "https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0"
-        },
-        {
-          "name": "Brian Tappert",
-          "url": "https://open.spotify.com/artist/15PNwQoGpnGp9XNFlSYy8A"
-        }
-      ],
-      "duration_ms": 361172,
-      "name": "Solid Ground - Brian Tappert for the Heads Remix",
-      "url": "https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/1k5qFfaMjDVHBeJxY5iGBW"
       },
@@ -2003,26 +2023,6 @@
       "duration_ms": 180000,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0V55B8CbeV1OMOFPD78udd"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
-        "name": "Gabriel",
-        "url": "https://open.spotify.com/album/3yZcSjo5wlJ2CzIFYPtxbU"
-      },
-      "artists": [
-        {
-          "name": "Travis Emmons",
-          "url": "https://open.spotify.com/artist/1gQou2nfkVjww2lOEBTGLF"
-        },
-        {
-          "name": "Trice Be",
-          "url": "https://open.spotify.com/artist/04yg9GkPRs16El4FGBdFfT"
-        }
-      ],
-      "duration_ms": 472258,
-      "name": "Gabriel",
-      "url": "https://open.spotify.com/track/79aDNSN85CmvaPCGkAsYOL"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -2047,6 +2047,22 @@
       "duration_ms": 180982,
       "name": "Feel The Love (Pride Anthem 2025)",
       "url": "https://open.spotify.com/track/4CVlaXv9huD30ej1FRZrfg"
+    },
+    {
+      "added_at": "2025-08-04 22:00:07",
+      "album": {
+        "name": "Wanna Party?",
+        "url": "https://open.spotify.com/album/6KbwQMIY8pA0kAhLlz2xZf"
+      },
+      "artists": [
+        {
+          "name": "Gissa",
+          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Wanna Party?",
+      "url": "https://open.spotify.com/track/79XjyfvxxbRjog2o3fbfD7"
     },
     {
       "added_at": "2025-08-04 22:00:07",
@@ -2091,22 +2107,6 @@
       "duration_ms": 210000,
       "name": "French 75",
       "url": "https://open.spotify.com/track/4kMa10rUvrtekpPGrNROWC"
-    },
-    {
-      "added_at": "2025-08-04 22:00:07",
-      "album": {
-        "name": "Wanna Party?",
-        "url": "https://open.spotify.com/album/6KbwQMIY8pA0kAhLlz2xZf"
-      },
-      "artists": [
-        {
-          "name": "Gissa",
-          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Wanna Party?",
-      "url": "https://open.spotify.com/track/79XjyfvxxbRjog2o3fbfD7"
     },
     {
       "added_at": "2025-08-04 22:00:07",

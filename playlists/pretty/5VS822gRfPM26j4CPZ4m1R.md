@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,798 likes - 602 songs - 1 day 11 hr 44 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,803 likes - 602 songs - 1 day 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Changin Me](https://open.spotify.com/track/0ohz67ESfEL7m6xYGRPTHu) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Changin Me](https://open.spotify.com/album/1mOKUsrP4CiJwI13cMlBZB) | 3:06 |
-| 2 | [Mirrorland](https://open.spotify.com/track/41oobhHtYEgpuZfuHjOPAC) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Mirrorland](https://open.spotify.com/album/5Y5Lw8HNzX81Np0l6gdhw3) | 2:44 |
-| 3 | [Venice In Vegas](https://open.spotify.com/track/4e3SbftWWthMLLC2NiLxsR) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [Venice In Vegas](https://open.spotify.com/album/6LvqM78DSiJhlF7qgiTDSg) | 3:59 |
-| 4 | [Achot](https://open.spotify.com/track/4CYBH8qUPtirrXkfqfyqZt) | [Yosef Madar](https://open.spotify.com/artist/0Om9WwRZyNzAI0NisSEXHg) | [Achot](https://open.spotify.com/album/17sc30yw7VBeTvnT1RYcK3) | 3:43 |
-| 5 | [Honey](https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Honey](https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt) | 3:04 |
+| 2 | [Honey](https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Honey](https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt) | 3:04 |
+| 3 | [Mirrorland](https://open.spotify.com/track/41oobhHtYEgpuZfuHjOPAC) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Mirrorland](https://open.spotify.com/album/5Y5Lw8HNzX81Np0l6gdhw3) | 2:44 |
+| 4 | [Venice In Vegas](https://open.spotify.com/track/4e3SbftWWthMLLC2NiLxsR) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [Venice In Vegas](https://open.spotify.com/album/6LvqM78DSiJhlF7qgiTDSg) | 3:59 |
+| 5 | [Achot](https://open.spotify.com/track/4CYBH8qUPtirrXkfqfyqZt) | [Yosef Madar](https://open.spotify.com/artist/0Om9WwRZyNzAI0NisSEXHg) | [Achot](https://open.spotify.com/album/17sc30yw7VBeTvnT1RYcK3) | 3:43 |
 | 6 | [Two Hearts, Come Through](https://open.spotify.com/track/2JoyN7oOvqLGWHbbzNIcjk) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Two Hearts, Come Through](https://open.spotify.com/album/3r2M2R0w1L4gF5VAajvzCQ) | 2:47 |
 | 7 | [honeymoon](https://open.spotify.com/track/5kMY4PErwx0EYP44UvGrLb) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [honeymoon](https://open.spotify.com/album/4hB4Eh9hGAdgt53dJR74Cc) | 4:59 |
 | 8 | [Bumpy's Weekend](https://open.spotify.com/track/3GHVZtUIcYXkwLFMwyP6qe) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bumpy's Weekend](https://open.spotify.com/album/05Ir7UhaHYEoVQGrnocVIh) | 2:41 |
@@ -159,9 +159,9 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 149 | [Floating](https://open.spotify.com/track/1aPUONuI7KAvlIPcR6ykkA) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Floating](https://open.spotify.com/album/6PE7PpQc15oj7ax0vFTlmh) | 2:56 |
 | 150 | [Siren](https://open.spotify.com/track/5VADjWiRz4UJIEVQfCq1H3) | [Sinqa](https://open.spotify.com/artist/4lnUBIuxttzqphQpXzDDnd) | [Siren](https://open.spotify.com/album/5OCUaU4D3vbpOQencTJcZP) | 3:01 |
 | 151 | [On the Line](https://open.spotify.com/track/2cgwJaz7Pwt4bm06xOpcAY) | [Caraml](https://open.spotify.com/artist/60Mmm8LfNaNPjTbn20b1cg) | [On the Line](https://open.spotify.com/album/6HwgtqegmPLdyCZcdmfnCW) | 4:41 |
-| 152 | [Hyper\-Reality TV](https://open.spotify.com/track/08LdG070iuaux7PtX7q5iG) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [Hyper\-Reality TV](https://open.spotify.com/album/0B7keMQfzHgs1uL2WDCZvT) | 3:59 |
-| 153 | [Loverboy \- Saib Remix](https://open.spotify.com/track/1pYWjYD43C9VhCmZDzdDtC) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Loverboy \(Remixes\)](https://open.spotify.com/album/753myFKOaafeI5Mh2qZ62B) | 3:58 |
-| 154 | [Loverboy \- Teen Daze Remix](https://open.spotify.com/track/7IZqKRmTxr8Z4H2ZiHstOa) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Loverboy \(Remixes\)](https://open.spotify.com/album/753myFKOaafeI5Mh2qZ62B) | 4:37 |
+| 152 | [Loverboy \- Saib Remix](https://open.spotify.com/track/1pYWjYD43C9VhCmZDzdDtC) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Loverboy \(Remixes\)](https://open.spotify.com/album/753myFKOaafeI5Mh2qZ62B) | 3:58 |
+| 153 | [Loverboy \- Teen Daze Remix](https://open.spotify.com/track/7IZqKRmTxr8Z4H2ZiHstOa) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Loverboy \(Remixes\)](https://open.spotify.com/album/753myFKOaafeI5Mh2qZ62B) | 4:37 |
+| 154 | [Hyper\-Reality TV](https://open.spotify.com/track/08LdG070iuaux7PtX7q5iG) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [Hyper\-Reality TV](https://open.spotify.com/album/0B7keMQfzHgs1uL2WDCZvT) | 3:59 |
 | 155 | [Night Life](https://open.spotify.com/track/7iWvPsN6wCwIux93wz1kY0) | [Avec Toi](https://open.spotify.com/artist/33j8ts3ANjs8VJD0EyVpvz) | [Night Life](https://open.spotify.com/album/2E0QHpwYbmqRnvZold9Qso) | 2:58 |
 | 156 | [Sushi](https://open.spotify.com/track/6BSq9HDPqweaowVNTqTjZF) | [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Selfsteam](https://open.spotify.com/artist/0aQ90r9TMr6IniH31Me6L8) | [Nice Guys Love You \(Vol\. 1\)](https://open.spotify.com/album/4eW7jDOFO874ue4vEmf1qL) | 3:40 |
 | 157 | [Lost Coast](https://open.spotify.com/track/0k3nXJgntp60YZ9GRgFQ9R) | [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Selfsteam](https://open.spotify.com/artist/0aQ90r9TMr6IniH31Me6L8) | [Nice Guys Love You \(Vol\. 1\)](https://open.spotify.com/album/4eW7jDOFO874ue4vEmf1qL) | 2:28 |
@@ -611,4 +611,4 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 601 | [GNAT](https://open.spotify.com/track/2kHcjE4XH8nL0BGlw67UY5) | [ZOO](https://open.spotify.com/artist/6d4fitLNR82dlkyALodJWR) | [GNAT](https://open.spotify.com/album/1BNuN0l6Z4G4KHqq80MiFH) | 4:30 |
 | 602 | [Black Water](https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Black Water](https://open.spotify.com/album/5F6oYmEDb19QAUEUrf4uxY) | 2:42 |
 
-Snapshot ID: `AAAL7NKwEnMYm158qk6GBoCKV51jw9bs`
+Snapshot ID: `AAAL7t/KaYnSuezyewvk/rkKuYme26aY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Blippi & Grover
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,374 likes - 137 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,459 likes - 137 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

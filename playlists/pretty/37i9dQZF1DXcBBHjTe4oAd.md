@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 
 > Mi toro, aquí una playlist perrona para dar el fucking roll por el barril con el Lalito y el Josuesy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,453 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,495 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 | 59 | [Dios Te Bendiga](https://open.spotify.com/track/7dBOVQQroOv3hReDvA1poe) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia Y Maldad](https://open.spotify.com/album/3jdYDg5KQ9d8uBGleBlGYY) | 2:42 |
 | 60 | [Suki](https://open.spotify.com/track/4QdzJBR50yP1F8S5jaEzz2) | [Bby Gangsta](https://open.spotify.com/artist/4eUikgk9P7XBNOvztUEu6I), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI), [Tu ere Chorito](https://open.spotify.com/artist/4Nq2840H6hxZM71FI557V9), [Revellekilla](https://open.spotify.com/artist/4WBgcRWsivonu11LdhT4yn) | [Chulos y Putas](https://open.spotify.com/album/2f7rtDlDpXlrupDmpcguRg) | 4:17 |
 
-Snapshot ID: `Zvsj2wAAAABTdaOmeQxJamugoSzChAtw`
+Snapshot ID: `Zvsj2wAAAAASRHQVy5UZ0aVmKuTw31rZ`

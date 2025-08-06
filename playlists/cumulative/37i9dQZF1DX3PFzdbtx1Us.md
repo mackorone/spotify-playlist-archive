@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-399 songs - 16 hr 3 min
+403 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Beyond The Sun](https://open.spotify.com/track/4cq0zgDNcYj3auhiT6i7Cx) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Beyond The Sun](https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V) | 2:59 | 2021-06-27 | 2023-05-16 |
 | [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-09-11 |  |
 | [Blooms in grace](https://open.spotify.com/track/3tUGh814AK93KVoZNrdTdt) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [Blooms in grace](https://open.spotify.com/album/1VxBXYp3DzCYQX8SwuPEUv) | 2:20 | 2024-02-05 |  |
+| [Blue sea](https://open.spotify.com/track/6AMrAH1lwUxY538AjW3psv) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Blue sea](https://open.spotify.com/album/3GMcRS0oOuCxBhkHHrwO9w) | 2:44 | 2025-08-05 |  |
 | [Bonjour](https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Bonjour](https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD) | 2:39 | 2024-05-01 |  |
 | [Borrowed Peace](https://open.spotify.com/track/51s3ibJpDlmrr41l331xJA) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/0c2uw96zlJP8jMui1HA38h) | 1:45 | 2021-06-27 | 2022-07-29 |
 | [Borrowed Peace](https://open.spotify.com/track/6S8a2phix2XOZBcTybxP3m) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 1:45 | 2022-07-05 | 2022-11-13 |
@@ -240,6 +241,7 @@
 | [Moonlit Waltz](https://open.spotify.com/track/4OhlV0mUJNXXSv6xHBn0bf) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Moonlit Waltz](https://open.spotify.com/album/6xQzhd6Olos5emiENxcuOj) | 2:41 | 2024-03-19 |  |
 | [Morning Frost](https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Morning Frost](https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM) | 1:52 | 2023-06-19 | 2023-08-16 |
 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 | 2024-04-17 |  |
+| [Murmurations](https://open.spotify.com/track/2lm2W9WGR2w4kdpTjoKuq3) | [letter from lenor](https://open.spotify.com/artist/4nNvXevjgdNqjoJuB188Lr) | [Murmurations](https://open.spotify.com/album/5HOPgWkP9VSkJAeTyAiaLB) | 2:58 | 2025-08-05 |  |
 | [My love](https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF) | [Maxime Verdoni](https://open.spotify.com/artist/5jKR9zUiwVSlHO8N5JYu6e) | [My love](https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC) | 2:50 | 2024-05-07 |  |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-07-24 | 2025-04-10 |
 | [Música De La Montaña](https://open.spotify.com/track/7mzc35QkCyOX2vvFaO0CEY) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Música De La Montaña](https://open.spotify.com/album/7pJy6qLcQVxYYJ1bQXmCM4) | 1:59 | 2023-06-19 | 2023-08-16 |
@@ -308,6 +310,7 @@
 | [Riverlight](https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Riverlight](https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP) | 2:13 | 2023-05-15 |  |
 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 | 2023-05-15 |  |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2023-05-15 |  |
+| [Santa Barbara](https://open.spotify.com/track/16nTxk9TksPWSrQDRc6SeU) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Santa Barbara](https://open.spotify.com/album/4PvqoY4bru4pvBdCsHwNnl) | 2:10 | 2025-08-05 |  |
 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2023-11-08 |  |
 | [Saragossa](https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Saragossa](https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO) | 2:34 | 2023-11-28 |  |
 | [Saudade](https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Saudade](https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy) | 3:34 | 2023-07-24 |  |
@@ -328,6 +331,7 @@
 | [Small Memory](https://open.spotify.com/track/5sWFhWNyWU55TDmGSXQMpM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2t8hYss2U3w8cJqs9ZzeqW) | 1:40 | 2021-06-27 | 2022-07-29 |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2022-07-05 | 2023-05-16 |
 | [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-05-15 |  |
+| [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 | 2025-08-05 |  |
 | [Softly, Gently](https://open.spotify.com/track/0wmmFkwOtzaanH4T5vMMLz) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/5el3jiphgAIadKL7FcB09G) | 2:00 | 2022-07-05 | 2023-05-16 |
 | [Softly, Gently](https://open.spotify.com/track/5JwtahJeHWFPETXjxBH74B) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/1Q7Yfz4VUJoZrJPuo2ePIj) | 2:00 | 2021-06-27 | 2022-07-29 |
 | [Solo Stroll](https://open.spotify.com/track/5Gug122LEQi3zHI0fomUgi) | [Holgar Ingeldson](https://open.spotify.com/artist/1yJ4WtOgFB4k9NYCNvWCvL) | [Solo Stroll](https://open.spotify.com/album/1C4CBb9HOLqMyQUmWVMlhq) | 2:16 | 2024-09-24 |  |

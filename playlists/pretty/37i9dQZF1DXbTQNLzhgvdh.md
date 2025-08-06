@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > bolsa birkin me pegué un tiro pa comprarla, tu vales eso y más ❤️‍🔥💐✨💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,474 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,568 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 99 | [Inconcluso](https://open.spotify.com/track/2ZkpJVo7z6UdGjaXz5qiCN) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [B.M.T](https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF) | 2:36 |
 | 100 | [De Sobremanera](https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:38 |
 
-Snapshot ID: `aGcpAAAAAACx1DYhY7CoE+xivHtLLrSH`
+Snapshot ID: `AAAAALWUVC+oZatP+34kcf5UkYRyJPlQ`

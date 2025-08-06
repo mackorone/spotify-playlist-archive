@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "DIVINE",
+        "url": "https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257625,
+      "name": "DIVINE",
+      "url": "https://open.spotify.com/track/2EXMoOCIHbhnLzDg5gZZ4U"
+    },
+    {
+      "album": {
         "name": "DOGLAND",
         "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
       },
@@ -2073,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "\u3072\u307e\u308f\u308a",
+        "url": "https://open.spotify.com/album/0WceqWQ4ASE8Vliz7i4yAp"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172085,
+      "name": "\u3072\u307e\u308f\u308a",
+      "url": "https://open.spotify.com/track/2KskwqOHY43u6gRn4fVSLX"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30de\u30ea\u30ea\u30b9",
         "url": "https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT"
       },
@@ -3262,7 +3298,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 237904,
       "name": "\u7136\u3089\u3070",
       "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7"
@@ -3406,7 +3442,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 191624,
       "name": "\u7b2c\u516d\u611f",
       "url": "https://open.spotify.com/track/22sQUmLhT8umlEhQzDrzfJ"

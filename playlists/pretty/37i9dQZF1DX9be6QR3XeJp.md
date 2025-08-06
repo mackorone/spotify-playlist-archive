@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Elliot Schooling
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,096 likes - 246 songs - 13 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,090 likes - 246 songs - 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

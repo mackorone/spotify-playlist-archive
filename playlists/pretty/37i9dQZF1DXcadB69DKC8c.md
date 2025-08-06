@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,412 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,435 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 59 | [Sound of Washint & Masinko \(feat\. Mulatu Astatke\)](https://open.spotify.com/track/2CdBbAcbd9FHbT8xO2C721) | [Tukul Band](https://open.spotify.com/artist/34XOIFTcNr5KJbhUaXDZIf), [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Addis 1988 \(feat\. Mulatu Astatke\)](https://open.spotify.com/album/2sonNCd7qfzjIAkEZXM24M) | 3:33 |
 | 60 | [Stuzzicadenti](https://open.spotify.com/track/2v2bSUXNQpR0JjTBZltLO7) | [Cosmic Analog Ensemble](https://open.spotify.com/artist/477PPCXcCS9mi3lRRnudCq) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 2:23 |
 
-Snapshot ID: `Z+awiQAAAACfFR4pYFdBA/YjZg+6trO5`
+Snapshot ID: `AAAAACII8BICpzJ6rQlDbHQhc1xK+0AW`

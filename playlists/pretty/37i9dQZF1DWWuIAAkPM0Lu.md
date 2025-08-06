@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Gilli & Thor Farlov, D1MA og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,064 likes - 84 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,074 likes - 84 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 83 | [Reach](https://open.spotify.com/track/3BnfPpuiZYueTDASS6UE7o) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Reach](https://open.spotify.com/album/1Il2gSQNo91NycABId7xbg) | 2:53 |
 | 84 | [BLA BLA BLA BLA BLA](https://open.spotify.com/track/0s670d6JDOw7VpfGnKmbvU) | [shahin](https://open.spotify.com/artist/4UahOkDtEAWCb6zhWwxVTf) | [BLA BLA BLA BLA BLA](https://open.spotify.com/album/0CxLPMAJpjvMtF4djufyRw) | 2:33 |
 
-Snapshot ID: `AAAAAOZ1itJbTLrWXYUJbrb/5EaAR37d`
+Snapshot ID: `aJBf9wAAAAA3LjOXL10tCdV2KD+5kIm1`

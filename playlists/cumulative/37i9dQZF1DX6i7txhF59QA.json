@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc601\ud0c1)\nLet's party with cheerful Korean trot medley.",
+  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc815\ub3d9\uc6d0)\nLet's party with cheerful Korean trot medley.",
   "name": "K-\ud2b8\ub86f \uc2a4\ud0c0 (K-Trot Stars)",
   "tracks": [
     {
@@ -1230,6 +1230,24 @@
       "duration_ms": 203720,
       "name": "Ari Ariyo",
       "url": "https://open.spotify.com/track/1QQPP9ldfF9o253Xv6IwQ0"
+    },
+    {
+      "album": {
+        "name": "Love Call Center Seven Stars Part13",
+        "url": "https://open.spotify.com/album/5aPWjs8upzX6jIG1Y0yGHm"
+      },
+      "artists": [
+        {
+          "name": "Kim Yong Bin",
+          "url": "https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100346,
+      "name": "Aririang Mokdong",
+      "url": "https://open.spotify.com/track/6vJW4stsxtcfZBTfTjKlze"
     },
     {
       "album": {
@@ -3719,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "Easy Lover",
+        "url": "https://open.spotify.com/album/1mahH2ErwTOnfud1pRHPxT"
+      },
+      "artists": [
+        {
+          "name": "JD1",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/2mMdTzr7Ys2xVdQXAUw9j6"
+    },
+    {
+      "album": {
         "name": "Elegant Love",
         "url": "https://open.spotify.com/album/1qitDj5QDQoPckwS8joDrT"
       },
@@ -4614,7 +4650,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 219200,
       "name": "Flutter Away",
       "url": "https://open.spotify.com/track/4rq0IiPHShUWoBhKPSlhWQ"
@@ -5796,7 +5832,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 181813,
       "name": "Heung! (Feat. HAON)",
       "url": "https://open.spotify.com/track/4VzQkVeV9vv65B4EZ1LYbU"
@@ -6910,6 +6946,28 @@
       "duration_ms": 187240,
       "name": "I'll be your love (Prod. A.COMA)",
       "url": "https://open.spotify.com/track/45IZe8keFBXIWVXmVAnRG8"
+    },
+    {
+      "album": {
+        "name": "I'll protect you",
+        "url": "https://open.spotify.com/album/7EGwvxIbksrtJRmKufj4x4"
+      },
+      "artists": [
+        {
+          "name": "Son Tae Jin",
+          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
+        },
+        {
+          "name": "Jeon Yu Jin",
+          "url": "https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "I'll protect you",
+      "url": "https://open.spotify.com/track/3SyUVzOE7KipVgPqbvKgq8"
     },
     {
       "album": {
@@ -9984,7 +10042,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 252333,
       "name": "Mother",
       "url": "https://open.spotify.com/track/20fmErhR8XZhjVfbtKvjxD"
@@ -13868,7 +13926,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 254360,
       "name": "Thank",
       "url": "https://open.spotify.com/track/2g4Rh54nLEA7MwbuL4NT6e"
@@ -17244,7 +17302,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 156613,
       "name": "You like me I like you",
       "url": "https://open.spotify.com/track/6lEhLzYJ5ibWe2P7RTxe9I"

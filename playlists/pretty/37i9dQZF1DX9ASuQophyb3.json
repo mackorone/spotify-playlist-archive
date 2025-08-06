@@ -1,13 +1,29 @@
 {
   "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Afra",
-  "num_followers": 1524592,
+  "num_followers": 1524802,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJBm3QAAAABL3uec3G2ebp2L1YBGXl1D",
+  "snapshot_id": "aJHA7QAAAAAh145kBrGoqJ6+EmdhoWW1",
   "tracks": [
+    {
+      "added_at": "2025-07-31 21:00:18",
+      "album": {
+        "name": "Leylim",
+        "url": "https://open.spotify.com/album/0CPVT7HVK60qFC1hRjDstu"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        }
+      ],
+      "duration_ms": 149361,
+      "name": "Leylim",
+      "url": "https://open.spotify.com/track/6c3am6xNv4i0ES2hxKyopR"
+    },
     {
       "added_at": "2025-07-31 21:00:18",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 148000,
       "name": "Yerinde Dur",
       "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
-    },
-    {
-      "added_at": "2025-07-31 21:00:18",
-      "album": {
-        "name": "Leylim",
-        "url": "https://open.spotify.com/album/0CPVT7HVK60qFC1hRjDstu"
-      },
-      "artists": [
-        {
-          "name": "Afra",
-          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
-        }
-      ],
-      "duration_ms": 149361,
-      "name": "Leylim",
-      "url": "https://open.spotify.com/track/6c3am6xNv4i0ES2hxKyopR"
     },
     {
       "added_at": "2025-07-31 21:00:18",
@@ -119,22 +119,6 @@
     {
       "added_at": "2025-07-31 21:00:18",
       "album": {
-        "name": "K\u00fc\u00e7\u00fck Hesaplar",
-        "url": "https://open.spotify.com/album/4NmqdoLVzbMUF9x41SMOMM"
-      },
-      "artists": [
-        {
-          "name": "Tan Ta\u015f\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
-        }
-      ],
-      "duration_ms": 275242,
-      "name": "K\u00fc\u00e7\u00fck Hesaplar",
-      "url": "https://open.spotify.com/track/0ydR35Qtrsk24fL01NuYC6"
-    },
-    {
-      "added_at": "2025-07-31 21:00:18",
-      "album": {
         "name": "A\u015fiyan",
         "url": "https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2025-07-31 21:00:18",
       "album": {
+        "name": "K\u00fc\u00e7\u00fck Hesaplar",
+        "url": "https://open.spotify.com/album/4NmqdoLVzbMUF9x41SMOMM"
+      },
+      "artists": [
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
+        }
+      ],
+      "duration_ms": 275242,
+      "name": "K\u00fc\u00e7\u00fck Hesaplar",
+      "url": "https://open.spotify.com/track/0ydR35Qtrsk24fL01NuYC6"
+    },
+    {
+      "added_at": "2025-07-31 21:00:18",
+      "album": {
         "name": "Ekseri",
         "url": "https://open.spotify.com/album/5rBCasvS7OfLLlHhn1rJj8"
       },
@@ -164,7 +164,7 @@
           "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
         }
       ],
-      "duration_ms": 211710,
+      "duration_ms": 210018,
       "name": "Ekseri",
       "url": "https://open.spotify.com/track/4sFS3HvHOYyp6RiViVjZI6"
     },

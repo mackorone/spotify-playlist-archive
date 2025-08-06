@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-780 songs - 2 day 3 hr 34 min
+782 songs - 2 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-03 |  |
 | [Canary Yellow](https://open.spotify.com/track/7KDZ7v5hHAAEHNvwT6Dhhg) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Canary Yellow](https://open.spotify.com/album/3Ee1rvSUA8iX5QhqiclAix) | 3:38 | 2022-06-24 | 2022-07-28 |
 | [Chain](https://open.spotify.com/track/0CwTBiqEhkwkBSW6lPOzij) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chain](https://open.spotify.com/album/1JhsPt7D3qFum6vTWL5LWB) | 4:05 | 2024-02-13 | 2024-04-17 |
+| [Chasing destiny](https://open.spotify.com/track/2jePpIWARbuy860PvrJxui) | [涼宮ハルヒ\(CV.平野綾\)](https://open.spotify.com/artist/7fRpvlBaMGN1iShO2s46P8) | [Chasing destiny](https://open.spotify.com/album/4yvxPHi1sWYrgUzWnm6aEJ) | 4:10 | 2025-08-05 |  |
 | [CHE.R.RY](https://open.spotify.com/track/3a0OFi0j1DNKwwmbj1a9Jd) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [CHE.R.RY（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/7q7rAh1DQg7LlLUGs1w9Uq) | 3:29 | 2024-08-29 | 2024-09-13 |
 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 | 2023-10-24 | 2024-01-19 |
 | [Cheers!デリシャスパーティ♡プリキュア](https://open.spotify.com/track/2fogdJN46llUQtV4lZ5410) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [デリシャスパーティ♡プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/15JIJms7qoGCJA9iF0jtKY) | 3:48 | 2023-02-07 | 2023-03-08 |
@@ -96,6 +97,7 @@
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2023-01-12 | 2023-04-14 |
 | [Destiny Sky](https://open.spotify.com/track/6ZrUo8yKzHwTxFnL1ujuEr) | [若井 友希](https://open.spotify.com/artist/73JD6yDn5gO4yjoeAOmbwV) | [Destiny Sky](https://open.spotify.com/album/5n5KwJPFtcQVdzErwkuiMZ) | 5:13 | 2022-06-12 | 2022-06-15 |
 | [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 | 2023-06-13 | 2023-07-05 |
+| [DIVINE](https://open.spotify.com/track/2EXMoOCIHbhnLzDg5gZZ4U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [DIVINE](https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG) | 4:17 | 2025-08-05 |  |
 | [Don't Know Why](https://open.spotify.com/track/77IWDKuXUNjFyj0MuVQqT5) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 3:36 | 2022-06-09 | 2022-07-29 |
 | [DONUT](https://open.spotify.com/track/3wW8vRIGlHd8AEWFGI62bT) | [EXiNA](https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd) | [SHiENA](https://open.spotify.com/album/1Y1WeX2E8wOiCtMidUcFzx) | 4:52 | 2022-06-14 | 2022-07-23 |
 | [Dream hopper](https://open.spotify.com/track/3pQZD8Wry7hk60Z5fiXTFi) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Dream hopper](https://open.spotify.com/album/55dB5EJl6C5S6Ls1K8RmsI) | 4:18 | 2022-06-14 | 2022-07-24 |
@@ -294,7 +296,7 @@
 | [remember](https://open.spotify.com/track/4LnRLsKhypMfOqExy6QanW) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Orion Blue \(Special Edition\)](https://open.spotify.com/album/18fDDV05JDXFmNSACmKj7r) | 5:50 | 2022-06-24 | 2022-07-29 |
 | [Repaint](https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP) | 3:53 | 2022-06-12 | 2022-07-25 |
 | [Repaint](https://open.spotify.com/track/5urLwuxGL2sFvVeHdjR2ON) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 3:54 | 2022-06-14 | 2022-06-18 |
-| [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 | 2024-01-22 |  |
+| [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 | 2024-01-22 | 2025-08-06 |
 | [Resolution](https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX) | 4:50 | 2022-10-03 | 2022-11-13 |
 | [Reverb](https://open.spotify.com/track/2UPjrQxLzC8z9cKOCmW9hw) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Reverb](https://open.spotify.com/album/6DQf4EkGbnZdIovtszpsa3) | 4:33 | 2022-06-24 | 2022-07-21 |
 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 | 2024-10-08 |  |
@@ -759,7 +761,7 @@
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-06-12 | 2023-01-13 |
 | [躍動](https://open.spotify.com/track/7fi2zDTlIUWMDPHrhm8Qsj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動](https://open.spotify.com/album/5zNh75gt6D4kRCWZXhb3UZ) | 4:09 | 2022-06-12 | 2022-07-29 |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2023-01-06 | 2023-04-27 |
-| [追憶](https://open.spotify.com/track/1Tm2kBMTCHFP1psIF2t7cj) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [追憶](https://open.spotify.com/album/5Pjgez8WCYUZza3oEpZLFD) | 3:27 | 2025-07-22 |  |
+| [追憶](https://open.spotify.com/track/1Tm2kBMTCHFP1psIF2t7cj) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [追憶](https://open.spotify.com/album/5Pjgez8WCYUZza3oEpZLFD) | 3:27 | 2025-07-22 | 2025-08-06 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-07 | 2023-12-20 |
 | [逆転のレジーナ](https://open.spotify.com/track/4yhKU3ArP1N9TXO1O3kEiu) | [Little Black Dress](https://open.spotify.com/artist/0rrUSORQ2b4EReKZhB3U9P) | [逆転のレジーナ](https://open.spotify.com/album/1i0yIkcdoEPhRk2gxpWvT7) | 3:20 | 2022-06-09 | 2022-06-13 |
 | [透明シンガー](https://open.spotify.com/track/4P9DbhVv54fNieI3DJkFw1) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [透明シンガー](https://open.spotify.com/album/73yWqC1fwnccaD2Xw2Wen7) | 2:55 | 2022-06-21 | 2022-06-24 |

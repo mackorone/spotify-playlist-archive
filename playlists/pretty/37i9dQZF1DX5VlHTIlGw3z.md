@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,200 likes - 36 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,278 likes - 36 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 35 | [Wonderwall](https://open.spotify.com/track/1DadkoAI2gicYJfindPY20) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies...1994\-2009](https://open.spotify.com/album/6L5KBi1wt0rv1rA88kS1W4) | 4:19 |
 | 36 | [Crazy Dancer](https://open.spotify.com/track/2iM4ZRQaL44nDu3nQe3irq) | [Yoru no Honki Dance](https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua) | [DANCEABLE](https://open.spotify.com/album/0o3RQWikYCF9w9wtUdV6bO) | 3:10 |
 
-Snapshot ID: `AAAAAG6yU+4PDn9sxzwLDZ3kO9cTPPlu`
+Snapshot ID: `aD/rXgAAAAC9Dqdy/HEfNZ8kdDBrHbJj`

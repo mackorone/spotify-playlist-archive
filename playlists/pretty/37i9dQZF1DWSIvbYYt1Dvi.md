@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > nem todas as AULAS são mó mamão \- pergunta pro dinizz \(ce tá na sua razão né beatriz? dmr então 👍🏽\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,900 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,816 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [OUTRA REALIDADE](https://open.spotify.com/track/28DVvFIEB1NAYcxKL65oMl) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy), [DJ Negrito](https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1) | [OUTRA REALIDADE](https://open.spotify.com/album/0HmLrWoCZvc4d2Cz0cB4Jq) | 4:24 |
 | 50 | [Conversas Que Nunca Tivemos](https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Conversas Que Nunca Tivemos](https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90) | 4:43 |
 
-Snapshot ID: `aI0U4AAAAAB+kUuFblaJxMF5Rb0cAxMx`
+Snapshot ID: `AAAAAPKtzT+QpYVxBwG9V9kc4an+toF/`

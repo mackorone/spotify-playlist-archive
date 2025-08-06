@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,649 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,682 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [Stay Awake](https://open.spotify.com/track/3Fcdwu4gMqd0eAlC9thpKo) | [Patrick James](https://open.spotify.com/artist/02rbtsxmzmlWKtEZ4DLZr8) | [Stay Awake](https://open.spotify.com/album/6Z8AubnDokmqjdzELuqg3t) | 1:59 |
 | 100 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 |
 
-Snapshot ID: `AAAAAKZZuHT/bjhRmoJOBTbWvYukUC9L`
+Snapshot ID: `aI/0igAAAADJk5qzf/4cafoE8xmg5igu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 
 > Cruise through Japanese “Neo” City Pop from the ’00s./ 渋谷系の系譜から、ボーダーレスに多様化に向かっていった’00年代。ネオ・シティポップ新時代の波はすぐそこに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,566 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,572 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 | 49 | [あれから](https://open.spotify.com/track/2p88nkbBzmJLXpUdsp1BgG) | [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [オアシス](https://open.spotify.com/album/1mDa5GUbu5jNDemBUJubux) | 5:47 |
 | 50 | [罌粟](https://open.spotify.com/track/6x1hT5lHXcraem8FQCPykz) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI) | [WILD AND GENTLE](https://open.spotify.com/album/2pBg1hE7WVqOLri4aQTepx) | 5:37 |
 
-Snapshot ID: `AAAAAFWs1SKjFv3p/adLrMHXEK+bcUmc`
+Snapshot ID: `ZnzORwAAAAA2/lGnvkQXlYl63yB5LdfZ`

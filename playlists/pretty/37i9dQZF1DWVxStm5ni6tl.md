@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Sully Burrows, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,101 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,129 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [your big break](https://open.spotify.com/track/0iefDyUICDBwtnLuljrP23) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [your big break](https://open.spotify.com/album/1Mg2mDR4iqfAXWMAyufgA4) | 3:06 |
 | 50 | [COLLIDE](https://open.spotify.com/track/1324lPy1m92QIsYFEpVj6M) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [COLLIDE](https://open.spotify.com/album/2GRPGYWIy8MYKtG7wsQ4rk) | 2:17 |
 
-Snapshot ID: `aIqYiwAAAACVwfS89CPkDlUEXhEU3kz6`
+Snapshot ID: `AAAAABnMT0PXLeAJVONKaB1QPXnlvcgR`

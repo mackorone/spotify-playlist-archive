@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6w89fnbIo78.md) - [plain]
 
 > Rage with the machines\. Listen to the music from The Electric State, streaming now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,496 likes - 12 songs - 45 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,511 likes - 12 songs - 45 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6w89fnbIo78.md) - [plain]
 | 11 | [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:18 |
 | 12 | [Yoshimi Battles the Pink Robots, Pt\. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:47 |
 
-Snapshot ID: `Z9PUAAAAAABfc37EylbNYtQa+uMhHCen`
+Snapshot ID: `AAAAAAm8ddFHR0ZJAKBvY9n9SOFz6zsE`

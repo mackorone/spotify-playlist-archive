@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,555 likes - 90 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,565 likes - 90 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 89 | [Alright Wid Me](https://open.spotify.com/track/23uGz8o01ThulEQPZTLvM2) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents The Definition of Hardcore](https://open.spotify.com/album/0Ajwqb746Owv6ALnMWBiGI) | 4:53 |
 | 90 | [Ahora](https://open.spotify.com/track/05N1EV6Amcno97OdjtGhg4) | [2 In A Room](https://open.spotify.com/artist/2029eJThczywCgnjE33s33), [The Wepaman](https://open.spotify.com/artist/1bssoMlDIuqovvzzi6NN4q) | [World Party](https://open.spotify.com/album/2wxVC5gBh5KeTDRRo5iRQa) | 4:27 |
 
-Snapshot ID: `aAeScAAAAAC+3cXmq4A+ZwT1eu/5Kcjw`
+Snapshot ID: `AAAAADjjVRku1bKSrMRl2yFsmSN5zbNk`

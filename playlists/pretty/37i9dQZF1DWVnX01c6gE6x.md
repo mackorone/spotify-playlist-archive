@@ -2,17 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 ### [RADAR Creadores México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
-> Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/0wIEjvBgrm2C14XXohUv8H?si=73788076240f4162">El Grupito de Atrás</a>
+> Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:0l5y61Jz0nxl8YISvkRmR6">En Grande Podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,981 likes - 6 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,982 likes - 8 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LA VERDAD SOBRE MI ADOPCIÓN 😭 Ep.20 \[INFANCIA\] 🧸 \- El Grupito de Atrás 🗣️](https://open.spotify.com/episode/6BURut3PA4EeXxP4sWvWWe) | [El Grupito de Atrás](https://open.spotify.com/show/0wIEjvBgrm2C14XXohUv8H) | [El Grupito de Atrás](https://open.spotify.com/album/0wIEjvBgrm2C14XXohUv8H) | 1:11:32 |
-| 2 | [MAGIA JAPONESA: BRUJERÍA Y ESPIRITUALIDAD DEL SINTOÍSMO](https://open.spotify.com/episode/19hy7icNzJ6XfdBH7XQor6) | [Pláticas Ocultas](https://open.spotify.com/show/2cZsUU0aSXsRNNLybIR3px) | [Pláticas Ocultas](https://open.spotify.com/album/2cZsUU0aSXsRNNLybIR3px) | 1:52:52 |
-| 3 | [EP.18 I TUNÉAME EL CV](https://open.spotify.com/episode/5znlbilS4RKQrotgbuzbRn) | [VILLA GODÍN PODCAST](https://open.spotify.com/show/7FG4EizzJGEyvAu5ymwh9J) | [VILLA GODÍN PODCAST](https://open.spotify.com/album/7FG4EizzJGEyvAu5ymwh9J) | 52:35 |
-| 4 | [ME QUERÍAN CAMBIAR POR 3 CAMELLOS 🐫 EN MARRUECOS 🇲🇦 Ep.19 \[VIAJES\] ✈️ \- El Grupito de Atrás 🗣️](https://open.spotify.com/episode/03l4xezmtfoPihHHAHHKyY) | [El Grupito de Atrás](https://open.spotify.com/show/0wIEjvBgrm2C14XXohUv8H) | [El Grupito de Atrás](https://open.spotify.com/album/0wIEjvBgrm2C14XXohUv8H) | 1:12:46 |
-| 5 | [HÉCATE: CÓMO INICIAR SU CULTO, RITUALES E HISTORIA \| ‪Pláticas Ocultas](https://open.spotify.com/episode/6ByeGwxyZy6UsCcs5kfQZG) | [Pláticas Ocultas](https://open.spotify.com/show/2cZsUU0aSXsRNNLybIR3px) | [Pláticas Ocultas](https://open.spotify.com/album/2cZsUU0aSXsRNNLybIR3px) | 3:15:49 |
-| 6 | [EP.22 I LA CAGAMOS, Y QUÉ??](https://open.spotify.com/episode/4Du29567ytlwzidHGSaVbU) | [VILLA GODÍN PODCAST](https://open.spotify.com/show/7FG4EizzJGEyvAu5ymwh9J) | [VILLA GODÍN PODCAST](https://open.spotify.com/album/7FG4EizzJGEyvAu5ymwh9J) | 1:05:27 |
+| 1 | [Cuerpos de verano \| Ep\. 19](https://open.spotify.com/episode/25DFPF2bz3YFOV8vPA7EfG) | [En Grande Podcast](https://open.spotify.com/show/0l5y61Jz0nxl8YISvkRmR6) | [En Grande Podcast](https://open.spotify.com/album/0l5y61Jz0nxl8YISvkRmR6) | 34:37 |
+| 2 | [SOMOS TEAM ÁNGELA AGUILAR Y FLORINDA MEZA 👊🏼 Ep.38 \[Villanos\] 👺 \- El Grupito de Atrás 🗣️](https://open.spotify.com/episode/2lbCjntcuFY7SFpa2J45N8) | [El Grupito de Atrás](https://open.spotify.com/show/0wIEjvBgrm2C14XXohUv8H) | [El Grupito de Atrás](https://open.spotify.com/album/0wIEjvBgrm2C14XXohUv8H) | 1:00:12 |
+| 3 | [Ser gorda en la industria de la moda \| Ep\. 16](https://open.spotify.com/episode/2D2c8y3pjOU8cZHCVb4dQH) | [En Grande Podcast](https://open.spotify.com/show/0l5y61Jz0nxl8YISvkRmR6) | [En Grande Podcast](https://open.spotify.com/album/0l5y61Jz0nxl8YISvkRmR6) | 46:28 |
+| 4 | [Episodio \#211 / ¿Se separa Pacas?](https://open.spotify.com/episode/4PDMR9Bx9o0qW1Ccg9rUFn) | [Buzón de quejas](https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa) | [Buzón de quejas](https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa) | 1:03:32 |
+| 5 | [Capítulo 72: Café](https://open.spotify.com/episode/54qs4hZbVEpM0a9OVIejhe) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:41:37 |
+| 6 | [Episodio \#212 / Desviví a mi gallina con Jaro Hernández](https://open.spotify.com/episode/6XdxILDttLO1HKZZC2qd6D) | [Buzón de quejas](https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa) | [Buzón de quejas](https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa) | 1:09:29 |
+| 7 | [CAMILA NO NOS INVITÓ A SU FIESTA 😡 Ep.37 \[Cumpleaños\] 🥳 \- El Grupito de Atrás 🗣️](https://open.spotify.com/episode/0DsXB1RBGZOwb66SEY0IOL) | [El Grupito de Atrás](https://open.spotify.com/show/0wIEjvBgrm2C14XXohUv8H) | [El Grupito de Atrás](https://open.spotify.com/album/0wIEjvBgrm2C14XXohUv8H) | 59:27 |
+| 8 | [Capítulo 69: Metro](https://open.spotify.com/episode/2kEj8kmGaSenMzfg700xOx) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:13:40 |
 
-Snapshot ID: `Z8+H9AAAAABxUK9BpuWBPrFHURhoa/IF`
+Snapshot ID: `aJJnpwAAAADRT1PHPQw454CqUln4mkLr`

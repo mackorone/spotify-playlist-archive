@@ -4,7 +4,7 @@
 
 > Sueña lindo, corazón..\. 💖✨ Arath Herce en portada.
 
-442 songs - 1 day 0 hr 53 min
+443 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 | 2023-04-21 | 2024-05-04 |
 | [A Un Beso](https://open.spotify.com/track/78syLbUjCTVKBvvNSA8baO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Un Beso](https://open.spotify.com/album/3jYjUm6vUaNsvD3X8FOx03) | 3:37 | 2022-02-04 | 2022-06-30 |
 | [Acuérdate](https://open.spotify.com/track/2tCDLxHGG00lRgvYNH9SGT) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [Acuérdate](https://open.spotify.com/album/1fXEwuOFVyFztok4zBkmys) | 3:16 | 2022-02-04 | 2022-02-12 |
+| [Acá Entre Nos](https://open.spotify.com/track/6WKsKpZf7x72dOKhHXFS6A) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Acá Entre Nos](https://open.spotify.com/album/10nGaA8hZKtPb9LyaBTXzG) | 3:56 | 2025-07-18 |  |
 | [Adolescentes Asustados](https://open.spotify.com/track/4jKx04HZIoeG8RKu4y9qPh) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Adolescentes Asustados](https://open.spotify.com/album/3KqW4ksCNpzx4HldKbkzPa) | 3:59 | 2022-07-01 | 2022-07-23 |
 | [aeropuerto](https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [aeropuerto](https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb) | 3:34 | 2024-12-06 | 2025-04-05 |
 | [Afortunada](https://open.spotify.com/track/0lm7k3vmIJ3Cteo6lyPv9f) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Afortunada](https://open.spotify.com/album/5kC1XgP6HSTEXLux9mQCB9) | 2:44 | 2024-09-20 | 2024-10-19 |
@@ -228,7 +229,7 @@
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-04-21 | 2024-05-18 |
 | [Lo Que Me Queda De Ti](https://open.spotify.com/track/0bCoAsS2tm8Y7QJdEoiQns) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Lo Que Me Queda De Ti](https://open.spotify.com/album/31Ybx563moBZW2N0LPKMKi) | 3:37 | 2022-02-04 | 2022-03-12 |
 | [Lo Que Mis Ojos Ven](https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Lo Que Mis Ojos Ven](https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA) | 3:27 | 2024-05-17 |  |
-| [Lo que se ve no se pregunta](https://open.spotify.com/track/5zoDhK8iiplOLDqS5aCyM5) | [Angelo Pierattini](https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Lo que se ve no se pregunta](https://open.spotify.com/album/2cZnMWDQmTrfqrCE97kDik) | 3:26 | 2025-06-27 |  |
+| [Lo que se ve no se pregunta](https://open.spotify.com/track/5zoDhK8iiplOLDqS5aCyM5) | [Angelo Pierattini](https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Lo que se ve no se pregunta](https://open.spotify.com/album/2cZnMWDQmTrfqrCE97kDik) | 3:26 | 2025-06-27 | 2025-08-06 |
 | [Lo Que Tú Quieras](https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Que Tú Quieras](https://open.spotify.com/album/1APLoRrGJUBAcIzHeYclft) | 3:18 | 2024-04-19 | 2024-10-05 |
 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 | 2022-07-01 | 2022-07-23 |
 | [Los Reyes de Nada](https://open.spotify.com/track/1yJMX6CsEfxLj9UhDIcJVO) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Los Reyes de Nada](https://open.spotify.com/album/3dJBJplsWPROevVmb7JGiM) | 2:34 | 2024-04-19 | 2024-06-07 |

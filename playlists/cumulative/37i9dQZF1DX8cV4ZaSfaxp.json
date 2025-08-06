@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 220453,
       "name": "City Breeze & Love Song",
       "url": "https://open.spotify.com/track/0GpGnPA4HhHclOTN81FPKZ"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 220230,
       "name": "City Night (feat. Jisun)",
       "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
@@ -1933,6 +1933,28 @@
     },
     {
       "album": {
+        "name": "Kim Hyun Chul 10Th \"Sale\"",
+        "url": "https://open.spotify.com/album/6xqjeBCnTkA68QjSNmwOst"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214265,
+      "name": "Drive (Feat. George)",
+      "url": "https://open.spotify.com/track/3reKqA2i3YSgBFtEZaqDB9"
+    },
+    {
+      "album": {
         "name": "DRIVE (Feat. Leellamarz) (Single Edition 2)",
         "url": "https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy"
       },
@@ -2108,6 +2130,28 @@
       "duration_ms": 214736,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
+    },
+    {
+      "album": {
+        "name": "EOY (Eyes On You)",
+        "url": "https://open.spotify.com/album/2zdE9YhMYxBUdUujScCtIt"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253813,
+      "name": "EOY (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/6aLCAV1PYK1ONbmXnLeu7L"
     },
     {
       "album": {
@@ -2988,6 +3032,24 @@
       "duration_ms": 208240,
       "name": "I want to be closer to you",
       "url": "https://open.spotify.com/track/1WfxhZEtlQ9J0B4325cBsF"
+    },
+    {
+      "album": {
+        "name": "Law and The City, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "I want to know",
+      "url": "https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq"
     },
     {
       "album": {
@@ -6018,7 +6080,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 275494,
       "name": "There's nothing special about love",
       "url": "https://open.spotify.com/track/0xhgxd9DUnDXuIBwvQXACO"

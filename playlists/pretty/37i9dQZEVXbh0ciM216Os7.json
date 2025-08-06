@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB4E6ucUuG80eUieuGqNxui",
+  "snapshot_id": "AAAAAAAAAADMn7SMxmpCbOGEZg2z1s9L",
   "tracks": [
     {
       "added_at": "2025-08-01 04:00:00",
@@ -103,38 +103,22 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "Shiny Things",
-        "url": "https://open.spotify.com/album/7uBrX85Ovwtor3h7DJmhvO"
+        "name": "NO TRUST (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/1O0ziOxAl1DSZTF9JFPigI"
       },
       "artists": [
         {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 182137,
-      "name": "Shiny Things",
-      "url": "https://open.spotify.com/track/1C0krz8HosA1CReG6cC1hU"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Head On Swivel",
-        "url": "https://open.spotify.com/album/6pCZ5PKVR7emIMYKzr6qGS"
-      },
-      "artists": [
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+          "name": "Upstates",
+          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 163834,
-      "name": "Payback Is A Bitch (feat. Wiz Khalifa)",
-      "url": "https://open.spotify.com/track/5ncdJMzIJrUrH2JTVL73Dd"
+      "duration_ms": 154447,
+      "name": "NO TRUST - with Snoop Dogg",
+      "url": "https://open.spotify.com/track/2bPqQy1jrs0Gpd75tMCgaK"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -155,22 +139,38 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "NO TRUST (with Snoop Dogg)",
-        "url": "https://open.spotify.com/album/1O0ziOxAl1DSZTF9JFPigI"
+        "name": "Head On Swivel",
+        "url": "https://open.spotify.com/album/6pCZ5PKVR7emIMYKzr6qGS"
       },
       "artists": [
         {
-          "name": "Upstates",
-          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 154447,
-      "name": "NO TRUST - with Snoop Dogg",
-      "url": "https://open.spotify.com/track/2bPqQy1jrs0Gpd75tMCgaK"
+      "duration_ms": 153516,
+      "name": "Let's Go (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/7xCHPhRSF5SZIjwQHg01Qa"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "Shiny Things",
+        "url": "https://open.spotify.com/album/7uBrX85Ovwtor3h7DJmhvO"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "duration_ms": 182137,
+      "name": "Shiny Things",
+      "url": "https://open.spotify.com/track/1C0krz8HosA1CReG6cC1hU"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
         "name": "Devil in Disguise",
         "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
       },
@@ -307,34 +291,34 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "Back in the Saddle",
-        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 212962,
-      "name": "Back in the Saddle",
-      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+        "name": "my mind is a mountain",
+        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 202133,
       "name": "Tell Me What It Is",
       "url": "https://open.spotify.com/track/5lFf9WQMwthejzRre8ObNf"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "What Did I Miss?",
+        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "I'll Be Around",
-        "url": "https://open.spotify.com/album/19FgcQw8fRGL25HZsKYmZP"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 220407,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/5TEbPy96mbPIH31c3XMWBK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
         "name": "MODERN DAY",
         "url": "https://open.spotify.com/album/6492ivv1TvmfA2sAfpILAp"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 143255,
       "name": "Dingue - MARQUISE Remix",
       "url": "https://open.spotify.com/track/7JdECRrMW00rvsdxY8ZoAr"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "I'll Be Around",
+        "url": "https://open.spotify.com/album/19FgcQw8fRGL25HZsKYmZP"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 220407,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/5TEbPy96mbPIH31c3XMWBK"
     },
     {
       "added_at": "2025-08-01 04:00:00",

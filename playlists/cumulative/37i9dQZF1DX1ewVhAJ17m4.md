@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Good Charlotte
 
-515 songs - 1 day 1 hr 44 min
+516 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 | 2021-12-22 | 2022-10-14 |
 | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/5XC95kPi0453QJxtx0zLaS) | 2:42 | 2025-05-15 | 2025-07-29 |
 | [I.K.A.M.F.](https://open.spotify.com/track/0egIfVb09Q7jwhkL4aIXxT) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [I.K.A.M.F.](https://open.spotify.com/album/3UiHWnze9rV4mvpc9jNHTE) | 2:13 | 2025-05-15 |  |
-| [If I'm Honest](https://open.spotify.com/track/5hxC606AyNMf3ZFByarMxA) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [If I'm Honest](https://open.spotify.com/album/34PDSAsthwQVMCfQTiiwmw) | 3:37 | 2025-02-21 |  |
+| [If I'm Honest](https://open.spotify.com/track/5hxC606AyNMf3ZFByarMxA) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [If I'm Honest](https://open.spotify.com/album/34PDSAsthwQVMCfQTiiwmw) | 3:37 | 2025-02-21 | 2025-08-06 |
 | [If You Have My Voodoo Doll, Give Me a Hug](https://open.spotify.com/track/2I2fsIg0aSPmstuuaBcEIW) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [If You Have My Voodoo Doll, Give Me a Hug](https://open.spotify.com/album/2LrqwyeMfmptOAaqCM6JLs) | 3:06 | 2022-05-20 | 2023-07-07 |
 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 | 2021-12-20 | 2022-04-05 |
 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 | 2021-12-20 | 2022-02-22 |
@@ -405,6 +405,7 @@
 | [sleepwalking](https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [sleepwalking](https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt) | 2:00 | 2024-02-05 |  |
 | [Slow Dance](https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV) | [Life After Youth](https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2) | [Slow Dance](https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc) | 3:32 | 2023-09-15 | 2024-06-15 |
 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 | 2021-12-20 | 2022-04-05 |
+| [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 | 2025-08-05 |  |
 | [So Happy](https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Happy](https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp) | 2:53 | 2025-05-23 |  |
 | [Soak](https://open.spotify.com/track/1yTAMGYb5hcJXBRJh4oqMj) | [Waxflower](https://open.spotify.com/artist/6ZIpcOBGC8WtihYI8n7hf8) | [Soak](https://open.spotify.com/album/3Jj07iZX7NzaWpOI5qVTBm) | 2:41 | 2021-12-20 | 2022-01-15 |
 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 | 2021-12-20 | 2022-10-14 |

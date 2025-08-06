@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Latrelle, 22simba, Sad e KIID, Abby 6ix e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,081 likes - 121 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,083 likes - 121 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 120 | [Sotto Da Me](https://open.spotify.com/track/0m3fYGq4NOexP5miSGAC5j) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [Sotto Da Me](https://open.spotify.com/album/1RB1eHaESS3qlPNUmbhHki) | 2:35 |
 | 121 | [GALER & CIMITER](https://open.spotify.com/track/5jxDwh8Ieq4PQuxWNySD6I) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F) | [GALER & CIMITER](https://open.spotify.com/album/3y1EiSxjHTfYlxpSKGwKS9) | 1:57 |
 
-Snapshot ID: `aIvnrAAAAACqdVC31v0JQtKUbbJhOcgp`
+Snapshot ID: `AAAAAD5l6fctc2vTOGm2u50eB/y9ZIkd`

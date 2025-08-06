@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAABetju1gNsKzkit5CEhmE43",
+  "snapshot_id": "aI/4AAAAAAAx6yP5ndiUwrurVWXg61Fi",
   "tracks": [
     {
       "added_at": null,
@@ -830,15 +830,11 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         }
       ],
-      "duration_ms": 165752,
-      "name": "The Gout",
-      "url": "https://open.spotify.com/track/2OxaQeidsD8uHqyRUT3250"
+      "duration_ms": 149787,
+      "name": "Notre Dame",
+      "url": "https://open.spotify.com/track/5pEa8zLhRTC1jqSFxK7hU7"
     },
     {
       "added_at": null,
@@ -918,11 +914,15 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         }
       ],
-      "duration_ms": 149787,
-      "name": "Notre Dame",
-      "url": "https://open.spotify.com/track/5pEa8zLhRTC1jqSFxK7hU7"
+      "duration_ms": 165752,
+      "name": "The Gout",
+      "url": "https://open.spotify.com/track/2OxaQeidsD8uHqyRUT3250"
     },
     {
       "added_at": null,

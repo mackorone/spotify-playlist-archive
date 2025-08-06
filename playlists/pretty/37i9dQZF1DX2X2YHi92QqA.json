@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf3b\ud83c\udfd5\ufe0f\ud83c\udfde\ufe0f\ud83c\udfca\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udf05\ud83c\udf37\u26f0\ufe0f\ud83d\udeb4\ud83c\udffc\u200d\u2642\ufe0f\ud83c\udf7a\ud83c\udf33",
-  "num_followers": 36900,
+  "num_followers": 36914,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,22 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "special",
-        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
+        "name": "Alleys of My Mind",
+        "url": "https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA"
       },
       "artists": [
         {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+        },
+        {
+          "name": "Black Soil",
+          "url": "https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD"
         }
       ],
-      "duration_ms": 138861,
-      "name": "special",
-      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+      "duration_ms": 237778,
+      "name": "Alleys of My Mind",
+      "url": "https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB"
     },
     {
       "added_at": "2025-08-04 08:37:10",
@@ -231,22 +235,18 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "Alleys of My Mind",
-        "url": "https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA"
+        "name": "special",
+        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
       },
       "artists": [
         {
-          "name": "Carpetman",
-          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
-        },
-        {
-          "name": "Black Soil",
-          "url": "https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD"
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
         }
       ],
-      "duration_ms": 237778,
-      "name": "Alleys of My Mind",
-      "url": "https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB"
+      "duration_ms": 138861,
+      "name": "special",
+      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
     },
     {
       "added_at": "2025-08-04 08:37:10",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
-    },
-    {
-      "added_at": "2025-08-04 08:37:10",
-      "album": {
         "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
         "url": "https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 205500,
       "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay"
+    },
+    {
+      "added_at": "2025-08-04 08:37:10",
+      "album": {
+        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
     },
     {
       "added_at": "2025-08-04 08:37:10",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "Of Us",
-        "url": "https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL"
-      },
-      "artists": [
-        {
-          "name": "Ziferblat",
-          "url": "https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR"
-        }
-      ],
-      "duration_ms": 178588,
-      "name": "Of Us",
-      "url": "https://open.spotify.com/track/7G8u2KxKcxhay2TFOBSwlc"
-    },
-    {
-      "added_at": "2025-08-04 08:37:10",
-      "album": {
         "name": "Lucerna",
         "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 376000,
       "name": "Lucerna",
       "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
+    },
+    {
+      "added_at": "2025-08-04 08:37:10",
+      "album": {
+        "name": "Of Us",
+        "url": "https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL"
+      },
+      "artists": [
+        {
+          "name": "Ziferblat",
+          "url": "https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "Of Us",
+      "url": "https://open.spotify.com/track/7G8u2KxKcxhay2TFOBSwlc"
     },
     {
       "added_at": "2025-08-04 08:37:10",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
+        "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
+        "url": "https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl"
+      },
+      "artists": [
+        {
+          "name": "Grohotsky",
+          "url": "https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi"
+        }
+      ],
+      "duration_ms": 213992,
+      "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
+      "url": "https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d"
+    },
+    {
+      "added_at": "2025-08-04 08:37:10",
+      "album": {
         "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
         "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 218928,
       "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
       "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
-    },
-    {
-      "added_at": "2025-08-04 08:37:10",
-      "album": {
-        "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
-        "url": "https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl"
-      },
-      "artists": [
-        {
-          "name": "Grohotsky",
-          "url": "https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi"
-        }
-      ],
-      "duration_ms": 213992,
-      "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
-      "url": "https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d"
     },
     {
       "added_at": "2025-08-04 08:37:10",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "no hard feelings",
-        "url": "https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 141424,
-      "name": "no hard feelings",
-      "url": "https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE"
-    },
-    {
-      "added_at": "2025-08-04 08:37:10",
-      "album": {
         "name": "\u041c\u0456\u0441\u0442\u043e",
         "url": "https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 138045,
       "name": "\u041c\u0456\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h"
+    },
+    {
+      "added_at": "2025-08-04 08:37:10",
+      "album": {
+        "name": "no hard feelings",
+        "url": "https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 141424,
+      "name": "no hard feelings",
+      "url": "https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE"
     },
     {
       "added_at": "2025-08-04 08:37:10",

@@ -1,12 +1,12 @@
 {
   "description": "The best new rock & alternative tracks every week. Cover: Wisp",
-  "num_followers": 920193,
+  "num_followers": 920220,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIwWtRdum9z9gW6xwfXEvZAx+7A3",
+  "snapshot_id": "aIw76gAAAACir6+KhKyvZh+7wSDT3dSG",
   "tracks": [
     {
       "added_at": "2025-08-01 04:00:42",
@@ -311,6 +311,34 @@
       "duration_ms": 241700,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/11DmWsJq63RyfNY8m0MiH3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:42",
+      "album": {
+        "name": "Incline (feat. Nova Twins, Pink Siifu & Yung Skrrt)",
+        "url": "https://open.spotify.com/album/7772WgBOwdNwxi8PlJnH3Y"
+      },
+      "artists": [
+        {
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
+        },
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Incline (feat. Nova Twins, Pink Siifu & Yung Skrrt)",
+      "url": "https://open.spotify.com/track/6QnlhyJkaLpxEslu7sB5el"
     },
     {
       "added_at": "2025-08-01 04:00:42",

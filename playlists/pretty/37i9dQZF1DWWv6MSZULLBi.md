@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Kathleen Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,546 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,536 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Take It to the Limit](https://open.spotify.com/track/4JjMZQyUwq0AnzLefRRljB) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Take It to the Limit](https://open.spotify.com/album/2xk1ostPIBfKqChwmfT4ty) | 3:50 |
 | 100 | [Birthday Card](https://open.spotify.com/track/1uFn2mmWBNsXNStZjPXm6Y) | [My Mercury](https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U) | [Places](https://open.spotify.com/album/702Futz2TyHnQd9WfXDWaQ) | 2:27 |
 
-Snapshot ID: `aIw8FwAAAABsTcff233cWMbl5pg0jy9s`
+Snapshot ID: `AAAAAKOLuNE/yveBbf7UqSvP4bnJnhCl`

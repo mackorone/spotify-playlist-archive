@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat Joe L, Sexmane, Jami Faltin, Chappell Roan ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,451 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,446 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 88 | [M.O.B.](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B.](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
 | 89 | [Last Few Parties](https://open.spotify.com/track/55wfUUF4RMvbZg98dSl9oH) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [You Wanna Fade? \(Deluxe Edition\)](https://open.spotify.com/album/3DN44dRh3BSu0pEYSLoSuG) | 2:40 |
 | 90 | [California Love](https://open.spotify.com/track/7EAtkR8y8sT4jEx3SOsznv) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [California Love](https://open.spotify.com/album/0wQm88iHgpEIZ3pNChByEf) | 2:19 |
-| 91 | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
+| 91 | [MIND GAMES](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [MIND GAMES](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
 | 92 | [Low Again](https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Low Again](https://open.spotify.com/album/6afCL6c4857TgbFFS3FGWe) | 2:07 |
 | 93 | [space cadet](https://open.spotify.com/track/3yIocoyPLR357SZ15enoK9) | [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV) | [space cadet](https://open.spotify.com/album/44hIMwPmCwDu7OhHXc9bBW) | 3:12 |
 | 94 | [Let's Dance](https://open.spotify.com/track/2jNEy7Cd0gapx39YgdzhKD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Let's Dance](https://open.spotify.com/album/3JWGEbw29Trh5MxFMjYEXv) | 4:08 |

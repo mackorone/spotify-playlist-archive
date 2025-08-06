@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,990 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,988 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 62 | [Eternal Fantasia](https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:36 |
 | 63 | [Fun! Fun! Festa!](https://open.spotify.com/track/6lEsKbmCYQftBozkzK2QP4) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:52 |
 | 64 | [VICTORY BELIEVER](https://open.spotify.com/track/5ltT1kT95shiznz2wQiZ3l) | [W](https://open.spotify.com/artist/6deIsG3p0GRcNITnDdk4ok) | [THE IDOLM@STER SideM ST@RTING LINE\-05 W](https://open.spotify.com/album/0l7nhxLWcTLIyY8zupFA4f) | 4:31 |
-| 65 | [LET'S GO!!](https://open.spotify.com/track/2V375EIhtUNvPexkqDNNIz) | [315 STARS](https://open.spotify.com/artist/1NYhr1c68AEaL0LIPvnC8e) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 01](https://open.spotify.com/album/5nG3eMCVdGwe9jd8UzGW4v) | 3:59 |
-| 66 | [SASH OF SMILE](https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS) | [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 3:54 |
+| 65 | [SASH OF SMILE](https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS) | [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 3:54 |
+| 66 | [LET'S GO!!](https://open.spotify.com/track/2V375EIhtUNvPexkqDNNIz) | [315 STARS](https://open.spotify.com/artist/1NYhr1c68AEaL0LIPvnC8e) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 01](https://open.spotify.com/album/5nG3eMCVdGwe9jd8UzGW4v) | 3:59 |
 | 67 | [GLORIA MOMENT](https://open.spotify.com/track/53c6D3TlwsFp2qfyOjLUOz) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 03](https://open.spotify.com/album/0f7ipGixpoqOH09KNBGAUk) | 4:35 |
 | 68 | [∞ Possibilities](https://open.spotify.com/track/3wFfcTqbDiBTdaJQfqsegr) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM ST@RTING LINE\-06 S.E.M](https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH) | 4:51 |
 | 69 | [夜空を煌めく星のように](https://open.spotify.com/track/5UKLEjFhNV3EeP7UjpL2nD) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43), [High Joker](https://open.spotify.com/artist/72dLwkFLqecJWmcMtWF8ZX) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 01](https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3) | 4:58 |

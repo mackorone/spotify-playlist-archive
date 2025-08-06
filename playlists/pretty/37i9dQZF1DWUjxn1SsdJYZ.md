@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Lithe
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,814 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,811 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [DON'T TALK TO ME](https://open.spotify.com/track/3ZXzByu0ozYfDTwroDBaeS) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [DON'T TALK TO ME](https://open.spotify.com/album/7FwKaUCk0UtcE0QCRgP5oF) | 2:27 |
 | 100 | [Somebody Else](https://open.spotify.com/track/2d55RWRePWG1qhyjRo2jCK) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [4 NOW](https://open.spotify.com/album/07y0HGVXh91TwdJbRSJzYs) | 2:52 |
 
-Snapshot ID: `AAAAAEBZIEJvAJcCuEhoMWoaKssvmXbE`
+Snapshot ID: `aIt3CQAAAABl+wXBsvsV2zt//BCdyiOm`

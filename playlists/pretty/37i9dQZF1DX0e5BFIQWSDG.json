@@ -1,13 +1,41 @@
 {
   "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos",
-  "num_followers": 280130,
+  "num_followers": 280252,
   "original_name": "Hot Hits Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIdFsAAAAABqML/ohflB/SW7PRwoOtah",
+  "snapshot_id": "aJG5LAAAAABHIBZ+PTEFTBF2Ox7LRcmz",
   "tracks": [
+    {
+      "added_at": "2025-08-05 07:56:28",
+      "album": {
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "PARADISO",
+      "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
+    },
     {
       "added_at": "2025-07-28 09:41:04",
       "album": {
@@ -97,6 +125,30 @@
       "url": "https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B"
     },
     {
+      "added_at": "2025-08-05 07:56:28",
+      "album": {
+        "name": "O Xoros Tou Fy",
+        "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "duration_ms": 195758,
+      "name": "Kalo Koritsi",
+      "url": "https://open.spotify.com/track/07AO5p4nddtCbxzvpBj3uv"
+    },
+    {
       "added_at": "2025-07-28 09:41:04",
       "album": {
         "name": "FHMES",
@@ -169,6 +221,30 @@
       "url": "https://open.spotify.com/track/6vSy6np4X6taAUmk8R1DTp"
     },
     {
+      "added_at": "2025-08-05 07:56:28",
+      "album": {
+        "name": "O Xoros Tou Fy",
+        "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "duration_ms": 171705,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/0sh8BOMXIJxPZW1pasio6P"
+    },
+    {
       "added_at": "2025-07-28 09:41:04",
       "album": {
         "name": "D%SCO",
@@ -223,6 +299,30 @@
       "duration_ms": 195345,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
+    },
+    {
+      "added_at": "2025-08-05 07:56:28",
+      "album": {
+        "name": "BMR",
+        "url": "https://open.spotify.com/album/6aqUwNGtWSDfJviXILNU1t"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "Baby Grim",
+          "url": "https://open.spotify.com/artist/69nPV8F506jroOnHRHxG2g"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "MARTINEZ",
+      "url": "https://open.spotify.com/track/6fXwyGSpKTbh7ZURCqU0RP"
     },
     {
       "added_at": "2025-07-28 09:41:04",
@@ -507,26 +607,6 @@
     {
       "added_at": "2025-07-28 09:41:04",
       "album": {
-        "name": "SE5EIMAIEKEI",
-        "url": "https://open.spotify.com/album/0af7T692JsA9UIYXFdimyh"
-      },
-      "artists": [
-        {
-          "name": "DAIMA",
-          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
-        },
-        {
-          "name": "Stanley",
-          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
-        }
-      ],
-      "duration_ms": 123900,
-      "name": "ATHINA",
-      "url": "https://open.spotify.com/track/6KURM9fEiDWxHsepuicdx1"
-    },
-    {
-      "added_at": "2025-07-28 09:41:04",
-      "album": {
         "name": "SOS 2",
         "url": "https://open.spotify.com/album/4RVpjTkGxzG2E2YgxxGalG"
       },
@@ -735,22 +815,6 @@
     {
       "added_at": "2025-07-28 09:41:04",
       "album": {
-        "name": "Kale... Poios Einai Autos?",
-        "url": "https://open.spotify.com/album/1p6wochIG0XNOunIdKHdh7"
-      },
-      "artists": [
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Kale... Poios Einai Autos?",
-      "url": "https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL"
-    },
-    {
-      "added_at": "2025-07-28 09:41:04",
-      "album": {
         "name": "Kante",
         "url": "https://open.spotify.com/album/25IHylZDJHvWiStgSyV4o3"
       },
@@ -927,26 +991,6 @@
     {
       "added_at": "2025-07-28 09:41:04",
       "album": {
-        "name": "Boro Ki Ego",
-        "url": "https://open.spotify.com/album/2hKXyjSxMtoobIWn0w88wJ"
-      },
-      "artists": [
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        },
-        {
-          "name": "Christos Mastoras",
-          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "Boro Ki Ego",
-      "url": "https://open.spotify.com/track/4mo8SrFr4TmwTrj76DTwIA"
-    },
-    {
-      "added_at": "2025-07-28 09:41:04",
-      "album": {
         "name": "VICE CITY",
         "url": "https://open.spotify.com/album/1icTqcbOlU00sFNbEKNI0G"
       },
@@ -963,26 +1007,6 @@
       "duration_ms": 192026,
       "name": "DEMON II",
       "url": "https://open.spotify.com/track/1Dq9yztl0OSwtNMIytx1xP"
-    },
-    {
-      "added_at": "2025-07-28 09:41:04",
-      "album": {
-        "name": "Fthina Tricks 3",
-        "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "Antigonidon",
-      "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
     }
   ],
   "unique_name": "Hot Hits Greece",

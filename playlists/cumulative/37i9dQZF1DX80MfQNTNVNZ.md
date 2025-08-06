@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-597 songs - 1 day 11 hr 12 min
+598 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Enchanté](https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Enchanté](https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM) | 2:42 | 2024-07-26 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\) \- Live At NPR's Tiny Desk](https://open.spotify.com/track/2gByHvt8cLpctREvU835gT) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Evergreen \(You Didn't Deserve Me At All\) \[Live At NPR's Tiny Desk\]](https://open.spotify.com/album/1wuLdAWwgUfKx78vR4VXDj) | 4:52 | 2022-10-20 | 2022-11-18 |
 | [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 | 2023-09-08 | 2023-11-17 |
+| [Fade Blue \(11pm\)](https://open.spotify.com/track/6MqbcgkeYKBqWxgQkEVtoN) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Fade Blue \(11pm\)](https://open.spotify.com/album/6WjNXKqWiFExl1vtgLnH2j) | 2:39 | 2025-08-01 |  |
 | [Fade Out \- FOFU remix](https://open.spotify.com/track/1SJI6TfA3Rc5e2aXnBIDyE) | [fofu](https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [Fade Out \(FOFU remix\)](https://open.spotify.com/album/2r7uJi4YQI4fhWEsYnmVs1) | 3:25 | 2022-03-24 | 2022-04-18 |
 | [FADED](https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [OASIS \(Prelude\)](https://open.spotify.com/album/41YLj80mj5GEaNkZnNLpYx) | 3:36 | 2021-12-23 | 2022-07-28 |
 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 | 2023-04-06 | 2023-07-14 |
@@ -287,7 +288,7 @@
 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/0M4GK1taHqdIOuvXnEJFiw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/6j5rt47tD2qb4PzsvZKL1K) | 3:11 | 2021-12-23 | 2022-04-20 |
 | [Lights Up \(feat\. Channel Tres\) \- Myd Remix](https://open.spotify.com/track/5B1JcoxYjVjRNt2ZJyraJT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(feat\. Channel Tres\) \[Myd Remix\]](https://open.spotify.com/album/6uf2MqhxoUOvQ8tyUWOLk8) | 3:35 | 2022-03-31 | 2022-04-17 |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-11 | 2024-01-26 |
-| [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-12-23 |  |
+| [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-12-23 | 2025-08-06 |
 | [LMKWYGH](https://open.spotify.com/track/2wiIWQzSZ06GbgkABk4pT6) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 6:15 | 2022-08-18 | 2023-01-20 |
 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-06-03 |  |
 | [Lonely](https://open.spotify.com/track/6upMBb2trQvnIGe8Ho1ZgE) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Secret Night Gang](https://open.spotify.com/album/7uepmRsBVVSXRvIxSPTtlX) | 3:52 | 2022-03-31 | 2022-04-13 |

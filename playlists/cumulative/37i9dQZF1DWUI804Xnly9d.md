@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-574 songs - 1 day 8 hr 7 min
+575 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 | 2023-05-17 |  |
 | [Kyun?](https://open.spotify.com/track/5GOeSNgwSD6DnmPRHnXwpg) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31) | [Kyun?](https://open.spotify.com/album/4z2xS1OlMUwBDJX7KcocbD) | 2:27 | 2025-06-06 | 2025-06-21 |
 | [Laazmi](https://open.spotify.com/track/3tT3fyLD98cL19jyPbzn77) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Laazmi](https://open.spotify.com/album/6To7c9IW2w6NbXKLxRDFQg) | 2:54 | 2024-08-02 | 2024-09-06 |
-| [Lamha \- Acoustic](https://open.spotify.com/track/1nBhlwwJEtw5M1F8BD883x) | [Kakkey](https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp) | [Lamha \(Acoustic\)](https://open.spotify.com/album/6BSGXr1rDhX7ZVk4zkbJ3i) | 4:20 | 2025-06-13 |  |
+| [Lamha \- Acoustic](https://open.spotify.com/track/1nBhlwwJEtw5M1F8BD883x) | [Kakkey](https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp) | [Lamha \(Acoustic\)](https://open.spotify.com/album/6BSGXr1rDhX7ZVk4zkbJ3i) | 4:20 | 2025-06-13 | 2025-08-06 |
 | [Lamha Ye](https://open.spotify.com/track/6DXeCwgEuE5rf5cgbU0mQ1) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Lamha Ye](https://open.spotify.com/album/4taFbFCbTnAlujGwi92UVN) | 3:46 | 2024-01-09 | 2025-04-15 |
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
 | [LAPATA](https://open.spotify.com/track/6e6wQ0vfFLqyMKs9GAdEfX) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [LAPATA](https://open.spotify.com/album/3P6JsgJlXQ3yZDVo8OtXVr) | 2:46 | 2024-08-01 | 2024-10-10 |
@@ -534,6 +534,7 @@
 | [Tum Hi Ho Zindagi](https://open.spotify.com/track/63fb4uUccR5njgRs53yhI0) | [Dr Prashant Shah](https://open.spotify.com/artist/0S5pmNjdaDdybWL6TSZTpj), [Mithun Kumar](https://open.spotify.com/artist/7D7J1kkyEyVW7n05cd7hof) | [Tum Hi Ho Zindagi](https://open.spotify.com/album/3pU6Zmnvcn2GSiLKcn4E0B) | 1:45 | 2024-09-29 | 2024-10-02 |
 | [Tum Ho](https://open.spotify.com/track/3etyNnDggmCD0kCA7f8S25) | [Peddy Jey](https://open.spotify.com/artist/69nhISlOUkxh6wI5XagbBB) | [Tum Ho](https://open.spotify.com/album/2reqa4xPxtc2O0liIs6RvV) | 3:36 | 2025-03-20 | 2025-04-23 |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 | 2024-04-01 |
+| [Tum Jo Mile](https://open.spotify.com/track/7I8wUSlvmYKv1bf2TU3UBy) | [Shubhashish Upadhyay](https://open.spotify.com/artist/3FMZ4EYLC6d2M2I0UZgSsA), [Anurag D](https://open.spotify.com/artist/2q0wPAJHBknTwwKMsPxoAv) | [Tum Jo Mile](https://open.spotify.com/album/74MuugXpPZBBqEbp2LkSEV) | 2:45 | 2025-08-05 |  |
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 | 2023-08-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-21 | 2023-10-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 | 2023-10-03 | 2024-02-08 |

@@ -4,7 +4,7 @@
 
 > 💫giovane💫pop💫z💫 Cover: Olly
 
-800 songs - 1 day 13 hr 4 min
+801 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Sogni Di Carta](https://open.spotify.com/track/4kNHKjNYAzGhnkKQO4Qoto) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Dimmi a che ora finisce l'amore](https://open.spotify.com/album/4DZWdEA5mqCqkJYXt6VEWq) | 2:45 | 2024-07-11 | 2024-09-13 |
 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 | 2023-10-19 | 2023-11-10 |
 | [SOGNO](https://open.spotify.com/track/3nYJsu8sOEhD0PWJPDttWn) | [Lil Zeff](https://open.spotify.com/artist/3NA2FHw8ieXbg4FHvShWL0), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [SOGNO](https://open.spotify.com/album/1sqrJ50Bu6DKuuRNQE7pk7) | 2:40 | 2023-06-01 | 2023-06-30 |
+| [SOLA \(TI AMO\)](https://open.spotify.com/track/5tQtxkxCwLsJAhWZ3K8JQ5) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [SOLA \(TI AMO\)](https://open.spotify.com/album/1Xizf3rtH6J1aLvfleJTm8) | 2:56 | 2025-08-05 |  |
 | [Sole](https://open.spotify.com/track/1jc2mpGtz7UDbIzHfePpbi) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Sole](https://open.spotify.com/album/0rVmsYmpxbll1uJxseRpFH) | 2:33 | 2024-10-03 | 2024-12-20 |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-06-13 | 2024-07-19 |
 | [SOLO STANOTTE](https://open.spotify.com/track/3w7U6hoes2QzFZB10DSp0h) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [SOLO STANOTTE](https://open.spotify.com/album/5nCdwVW2ylZVW9NhPET9pu) | 3:42 | 2024-03-06 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: High Valley
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,500 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,502 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 74 | [I Saw the Devil](https://open.spotify.com/track/44ehKJU7RkPnu9O3oWy5Wd) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [I Saw the Devil](https://open.spotify.com/album/0ZALmMpegki8cMOJzwoqCe) | 3:20 |
 | 75 | [7 Words](https://open.spotify.com/track/1DXBG86wW6xaOoaEryBaAa) | [Dallas Alexander](https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv) | [7 Words](https://open.spotify.com/album/6BuB9ZxCxGsYZV0iSkv1xv) | 3:27 |
 
-Snapshot ID: `aIw8GAAAAACcZyx6lt7ekUx9A8TruMnw`
+Snapshot ID: `AAAAAL5mGDsjtwibqAzHlk/gs+GVGg7t`

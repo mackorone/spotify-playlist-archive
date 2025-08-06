@@ -2,7 +2,7 @@
 
 ### [Novedades Rock](https://open.spotify.com/playlist/37i9dQZF1DX1MT1Ubz4wvO)
 
-> Todas las semanas los nuevos lanzamientos de rock en español, con Los Chivatos en portada.
+> Todas las semanas los nuevos lanzamientos de rock en español, con Palo Domado en portada.
 
 4,562 songs - 10 day 23 hr 19 min
 

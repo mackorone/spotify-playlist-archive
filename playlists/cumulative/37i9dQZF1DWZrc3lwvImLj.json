@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Forest Tale",
+        "url": "https://open.spotify.com/album/57Db6TlvbRj77MzvdR0lWY"
+      },
+      "artists": [
+        {
+          "name": "Mariuga",
+          "url": "https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144985,
+      "name": "A Forest Tale",
+      "url": "https://open.spotify.com/track/0aOHjlTg0HE2n3R8VBsxik"
+    },
+    {
+      "album": {
         "name": "A Heavy Heart",
         "url": "https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD"
       },
@@ -326,6 +344,24 @@
       "duration_ms": 151871,
       "name": "alone at sea",
       "url": "https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT"
+    },
+    {
+      "album": {
+        "name": "Alone in the Room",
+        "url": "https://open.spotify.com/album/19nFYmxoMJJErGa5uZLx6v"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Nova",
+          "url": "https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161178,
+      "name": "Alone in the Room",
+      "url": "https://open.spotify.com/track/0gZrTTVm9uPztybIBR5gBv"
     },
     {
       "album": {
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 177600,
       "name": "Cold Winter",
       "url": "https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE"
@@ -3830,6 +3866,24 @@
       "duration_ms": 124666,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3DXpfTvTezTECh3a3qjjiD"
+    },
+    {
+      "album": {
+        "name": "Lost in your light",
+        "url": "https://open.spotify.com/album/4OGR54PPjoNCX3HzqXfYNa"
+      },
+      "artists": [
+        {
+          "name": "Anton Lindholm",
+          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150183,
+      "name": "Lost in your light",
+      "url": "https://open.spotify.com/track/03WCxjmI3kGMf4UPMVcFHp"
     },
     {
       "album": {

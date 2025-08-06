@@ -4,7 +4,7 @@
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-187 songs - 9 hr 45 min
+188 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Abrakha Min Sa'a](https://open.spotify.com/track/2R8dOkDTAOFOYPdSeuA84J) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S), [Nasser Al Kubaisi](https://open.spotify.com/artist/0fC7bynVVOrhri9VhNG6Gu) | [Abrakha Min Sa'a](https://open.spotify.com/album/6ekaaw1ifb9mc5max3CIhA) | 2:23 | 2024-03-11 | 2025-03-29 |
 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 | 2025-03-28 |  |
 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 | 2024-04-08 | 2025-01-29 |
+| [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 | 2025-03-28 |  |
 | [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 | 2024-04-08 | 2024-04-19 |
 | [Al Eid Gaa](https://open.spotify.com/track/5ra4kmbcUvek1OdmMcDRm5) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/3TwvfliTWcoaU3lc3PzGHu) | 1:49 | 2024-04-10 | 2025-01-29 |
 | [Al Kol Yafnny](https://open.spotify.com/track/0DP3o17gDVEe6ADkpHi8FD) | [Ahmed Hamdy](https://open.spotify.com/artist/7rwf98k7PayJKQCzFpm0xD) | [Ya Rasoul Allah](https://open.spotify.com/album/008HEgbo9fydgwkr7krc2W) | 3:27 | 2024-03-25 | 2025-03-29 |
@@ -58,7 +59,7 @@
 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2025-03-28 |  |
 | [Ghafar](https://open.spotify.com/track/6pOFEHUELXDTNd2TJ3oIkE) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Ghafar](https://open.spotify.com/album/2IphGCfyPybFr6qFlBp92q) | 1:19 | 2025-01-28 | 2025-03-29 |
 | [Give Thanks to Allah](https://open.spotify.com/track/34rjVNKRvJtbVQgzrk1Km3) | [Zain Bhikha](https://open.spotify.com/artist/2S9mgYENcr2X6A4rRU83cb) | [Songs of a Soul \(Double Album\)](https://open.spotify.com/album/62Wfw6AFEtYSigIag286Lh) | 1:54 | 2024-03-11 | 2025-03-29 |
-| [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 | 2025-03-28 |  |
+| [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 | 2025-03-28 | 2025-08-06 |
 | [Habib Allah](https://open.spotify.com/track/1SnQTqKUaxJRIGzYknmRyu) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Habib Allah](https://open.spotify.com/album/1MnEwqAyo0PznggPe3f8kN) | 2:49 | 2024-03-11 | 2024-04-09 |
 | [Habibna Al Mostafa \- Al Maddah](https://open.spotify.com/track/4IREk5iMdOnZ0cIIFa7Tkl) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Habibna Al Mostafa \(Al Maddah\)](https://open.spotify.com/album/3wAUcH51VjK2DyEgIBqIup) | 3:09 | 2024-03-11 | 2025-03-29 |
 | [Hadul El\-Quran](https://open.spotify.com/track/37i5M2dPXF44z745r0HDEz) | [Mohamed Youssef](https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4) | [Hadul El\-Quran](https://open.spotify.com/album/4mUAz2Gmtcg4gJM7TPpCtl) | 3:19 | 2024-03-11 | 2025-03-29 |

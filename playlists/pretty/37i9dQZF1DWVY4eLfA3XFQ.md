@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇 Tech house technicians, featuring SCRIPT
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,740 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,809 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Crusin](https://open.spotify.com/track/72kwm40QlqYaXf3SgyDtPO) | [Ssol](https://open.spotify.com/artist/0r1nzP20Iambhd9ubmmkQJ) | [Crusin](https://open.spotify.com/album/2wutMDPV65g2V9xwuKjXRm) | 2:31 |
 | 125 | [Blocked](https://open.spotify.com/track/768JazCT1tUiO0vqp47MXH) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Blocked](https://open.spotify.com/album/0x0Ou3FP7rLlFKPkG4sVzF) | 3:21 |
 
-Snapshot ID: `aI4+dwAAAABpeYzlnBccfi/yME/X0R5g`
+Snapshot ID: `AAAAADlR42Pxlwnkq5WkhgQwEz5xfPJ3`

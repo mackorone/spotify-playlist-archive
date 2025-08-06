@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,161 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,176 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 49 | [Kiss From A Rose](https://open.spotify.com/track/5LNFAjkC0DhgUfiQcKHrX4) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Walter Phillips](https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ) | [Kiss From A Rose](https://open.spotify.com/album/7hWYQeuLz8pL88CqfFLroi) | 2:35 |
 | 50 | [H.O.U.S.E.](https://open.spotify.com/track/5SbB70CvX0V8TrACuUbMsz) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Fuzzy Cufflinxxx](https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19) | [H.O.U.S.E.](https://open.spotify.com/album/017CLSoIiuc2jKEKF3OmcC) | 2:40 |
 
-Snapshot ID: `aFqzxgAAAACZoLwfsGsSmaND+X61I0TF`
+Snapshot ID: `AAAAAMxeDbz2GGFl6qZ+I7KmCWrXQpSl`

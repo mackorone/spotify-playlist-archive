@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 27561,
+  "num_followers": 27571,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAABu+XLtjIhsuCA6YLYwSKr1",
+  "snapshot_id": "aI/4AAAAAAAIfvnY2rYiAYUvhXtAaDAv",
   "tracks": [
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All She Do Is Shake",
-        "url": "https://open.spotify.com/album/2kFbyhA5QPeK5qGlWADpk9"
-      },
-      "artists": [
-        {
-          "name": "J Traxx",
-          "url": "https://open.spotify.com/artist/3U2KtlMuUKLd0RTIXU3051"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 118549,
-      "name": "All She Do Is Shake",
-      "url": "https://open.spotify.com/track/0iFEoMhWXzSHV28372OosY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4eva Us Neva Them",
         "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 193041,
       "name": "Daddy (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Sexyy Love Money (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
     }
   ],
   "unique_name": "This Is Sexyy Red",

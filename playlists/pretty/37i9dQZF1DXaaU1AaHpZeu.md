@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Oh'laville en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,643 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,598 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 45 | [Fuego Lento](https://open.spotify.com/track/3U8DEnbRUGE1jHmr4PVlRY) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Fuego Lento](https://open.spotify.com/album/5pbyuxzzQXCdHAGlINxihm) | 3:26 |
 | 46 | [ny affair](https://open.spotify.com/track/1n9KF7ujt1U9MUTkAtH3SK) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [ny affair](https://open.spotify.com/album/7ptUztHexj09LRVBnjcl5H) | 2:08 |
 | 47 | [Monte perdido](https://open.spotify.com/track/7bX208E8SIWnqkV29GnVky) | [Idoipe](https://open.spotify.com/artist/6fQf8huuC5Obj3dpGxppug), [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Monte perdido / Celina](https://open.spotify.com/album/297D9IeWM7tyxFEvDFCBhe) | 3:17 |
-| 48 | [Fantasmas](https://open.spotify.com/track/7yNCwPdCl6hE1Ec2TEh600) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Fantasmas](https://open.spotify.com/album/23PHZdTTybBHs0pOhvxMzh) | 3:02 |
+| 48 | [FANTASMAS](https://open.spotify.com/track/7yNCwPdCl6hE1Ec2TEh600) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [FANTASMAS](https://open.spotify.com/album/23PHZdTTybBHs0pOhvxMzh) | 3:02 |
 | 49 | [Sobre ti](https://open.spotify.com/track/2jB70RhkcGs277hms0JuHQ) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr), [Anish](https://open.spotify.com/artist/3DW1mYPTqXp0z1saaE6VgZ) | [Sobre ti](https://open.spotify.com/album/46LFeBEJA40wbTOZ9Nvx2H) | 2:59 |
 | 50 | [Salto](https://open.spotify.com/track/4F00zpGzwg5xl4sHdnv4sT) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Salto](https://open.spotify.com/album/53cPtZPUXDd4Vfl3SYjQT3) | 2:14 |
 

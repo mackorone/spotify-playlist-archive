@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: H ZETTRIO",
+  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Liquid Stella",
   "name": "Jazz Fusion Japan",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 367560,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2tGPXshJU22aA1xawVLKkX"
+    },
+    {
+      "album": {
+        "name": "7\u3064\u6570\u3048\u308d\uff01",
+        "url": "https://open.spotify.com/album/5KyoEmSq0hbKybj2HmKnHZ"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217883,
+      "name": "7\u3064\u6570\u3048\u308d\uff01",
+      "url": "https://open.spotify.com/track/1OIEqbUIvlnEw5xQKsXSq8"
     },
     {
       "album": {
@@ -590,7 +608,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 390680,
       "name": "Down In The Village",
       "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
@@ -850,6 +868,28 @@
       "duration_ms": 146760,
       "name": "Greenfield",
       "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
+    },
+    {
+      "album": {
+        "name": "Groove Delight (feat.Ovall)",
+        "url": "https://open.spotify.com/album/7dCw1GWPdLc8exWpsmn1vn"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217016,
+      "name": "Groove Delight (feat.Ovall)",
+      "url": "https://open.spotify.com/track/4TgNRA05pRMz0oBaQYMyS3"
     },
     {
       "album": {
@@ -1540,7 +1580,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 223426,
       "name": "Rex",
       "url": "https://open.spotify.com/track/3Ia70rfhSIPAfb5x7TeMRm"
@@ -2458,7 +2498,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 143000,
       "name": "\u590f\u306eGravity",
       "url": "https://open.spotify.com/track/6enQtdIj33IpAt8Z0baDpA"
@@ -2642,6 +2682,24 @@
       "duration_ms": 265689,
       "name": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc - English Jazz Ver.",
       "url": "https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU"
+    },
+    {
+      "album": {
+        "name": "BRILLIANCE",
+        "url": "https://open.spotify.com/album/3cZtGqT3aBtt5cLeKUTdRj"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221095,
+      "name": "\u93e1\u82b1\u6c34\u6708",
+      "url": "https://open.spotify.com/track/1pGXcOeGzdL9tcD5xGtbo4"
     },
     {
       "album": {

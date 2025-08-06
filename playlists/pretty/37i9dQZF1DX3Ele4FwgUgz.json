@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 18323,
+  "num_followers": 18330,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "Infinity! Our wings!!",
         "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 271106,
       "name": "Infinity! Our wings!!",
       "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
     },
     {
       "added_at": "2025-07-21 16:15:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5amwhRzLzfE.md) - [plain]
 
 > Enjoy music from the world\-famous figure skating anime <a href="https://yurionice.com/">"YURI!!! on ICE"</a> \. <a href="spotify:album:1YCzHcY9H5X6309OyGCEQ3">「ユーリ!!! on CONCERT」</a>Live CD好評発売中！©HTP／YoIP
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,458 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,463 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5amwhRzLzfE.md) - [plain]
 | 44 | [History Maker \- ユーリ!!! on CONCERT CD](https://open.spotify.com/track/2MttMFl98EofUvKFs0dLsj) | [Taro Umebayashi](https://open.spotify.com/artist/2Nnwx1j1GrmIKZ8vx6fJSI), [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq), [ユリコンAllstars](https://open.spotify.com/artist/2aF37B9bJGJ5A5P9QAFRQi) | [ユーリ!!! on CONCERT](https://open.spotify.com/album/1YCzHcY9H5X6309OyGCEQ3) | 6:37 |
 | 45 | [You Only Live Once \- ユーリ!!! on CONCERT CD](https://open.spotify.com/track/1JBUeHt59yyiOkGSsdkcY8) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT), [Taro Umebayashi](https://open.spotify.com/artist/2Nnwx1j1GrmIKZ8vx6fJSI), [彦田元気](https://open.spotify.com/artist/2KNULmxmv0ttShYDehMsfb), [Taku Matsushiba](https://open.spotify.com/artist/3ITwaLbY4bFzc57CVTKT2u) | [ユーリ!!! on CONCERT](https://open.spotify.com/album/1YCzHcY9H5X6309OyGCEQ3) | 3:55 |
 
-Snapshot ID: `ZIsOvgAAAACdzJxZCqVuB66cwAkIc5qb`
+Snapshot ID: `AAAAAJP3yqAapnzqI+M3uN0Mzp2eWScI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Sunmisola Agbebi and Ada Ehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,640 likes - 102 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,659 likes - 102 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 101 | [JESUS POWER](https://open.spotify.com/track/60va7Dt4MhpJbHroZf8DYj) | [Hiro Lyon](https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX) | [JESUS POWER](https://open.spotify.com/album/1lSF5avLFnYNIsHVRx34xl) | 2:35 |
 | 102 | [Ran Mi Lowo](https://open.spotify.com/track/4qIUl1e1svzdffOOvWJeDW) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Ran Mi Lowo](https://open.spotify.com/album/0Yxx4q9vunlFoORVai7Szc) | 3:37 |
 
-Snapshot ID: `aI4WwwAAAADOpFK4WKWcGr06aN65W0WX`
+Snapshot ID: `AAAAAMxAH2z4WY433CArk9mSl/ceUd25`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,488 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,494 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Wanna Go Home \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/5pVwwTrPd0UNmcOUsTO5LR) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dont Wanna Go Home \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/6qWmhd3HsIHSaNRWz4NftB) | 5:23 |
 | 2 | [LONELY AVENUE \(feat\. Randy Newman\)](https://open.spotify.com/track/43fnovfvtK8e3PFuiYx2Wt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [LONELY AVENUE](https://open.spotify.com/album/57t7JEyilKnh23rmBNRCCM) | 3:40 |
 | 3 | [Been There Done That](https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 3:48 |
-| 4 | [One Kind Favor](https://open.spotify.com/track/7pMvQN1WG5Blmtlf6AwzWh) | [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Datrian Johnson](https://open.spotify.com/artist/7jc3GCmBMxWrV9Rci2XyyJ), [Mem\_Mod Productions](https://open.spotify.com/artist/6uGKkwfuUXwqk5AwpalHP5) | [One Kind Favor](https://open.spotify.com/album/22pbmmk7EVQsrI2YEo9d4b) | 3:25 |
+| 4 | [One Kind Favor](https://open.spotify.com/track/7pMvQN1WG5Blmtlf6AwzWh) | [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Datrian Johnson](https://open.spotify.com/artist/7jc3GCmBMxWrV9Rci2XyyJ), [MEM\_MODS](https://open.spotify.com/artist/2NS7SoCNyg1AWORYD54jSv) | [One Kind Favor](https://open.spotify.com/album/22pbmmk7EVQsrI2YEo9d4b) | 3:25 |
 | 5 | [Broken Record](https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 6:58 |
 | 6 | [See Through](https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [See Through](https://open.spotify.com/album/64xN67Mp1r0LoKCyMJ9Jsb) | 4:13 |
 | 7 | [Voodoo Charm](https://open.spotify.com/track/68dgcG0PJyYarPW4LLDaK9) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Voodoo Charm](https://open.spotify.com/album/0aaGePntScMAQkV87h4rr3) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Big Grey Sky](https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Big Grey Sky](https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP) | 4:28 |
 | 100 | [Way Too Long](https://open.spotify.com/track/3NLCu7XL8dRLRtgObLWa5z) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Way Too Long](https://open.spotify.com/album/4On5stWO7yBkRUdOZKejzN) | 3:32 |
 
-Snapshot ID: `aIw71gAAAADAsO7gI+p4Z7j1WO3va9Px`
+Snapshot ID: `AAAAAA1GtRA7bMayZPDnrDzoljQmfc5u`

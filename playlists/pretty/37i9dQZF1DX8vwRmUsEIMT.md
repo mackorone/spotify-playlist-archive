@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Demi Lovato
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,241 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,192 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Devotion](https://open.spotify.com/track/3NRMx8ZKh6OHPotPxW4O4C) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Devotion](https://open.spotify.com/album/2wKWnv20DzkEJCuz3c9EWV) | 3:54 |
 | 80 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 |
 
-Snapshot ID: `aIwDlgAAAAByQ/BH9J8JO5uQTnZPR4yV`
+Snapshot ID: `AAAAADrYrlYZl5lpxfAm/1mDvVHQSzim`

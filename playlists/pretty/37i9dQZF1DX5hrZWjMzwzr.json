@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10833,
+  "num_followers": 10832,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Prawie straci\u0142em g\u0142os",
+        "url": "https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "duration_ms": 144472,
+      "name": "Prawie straci\u0142em g\u0142os",
+      "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "PO CO?",
         "url": "https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 183750,
       "name": "PO CO?",
       "url": "https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "Prawie straci\u0142em g\u0142os",
-        "url": "https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr"
-      },
-      "artists": [
-        {
-          "name": "Chivas",
-          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
-        }
-      ],
-      "duration_ms": 144472,
-      "name": "Prawie straci\u0142em g\u0142os",
-      "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Techno",
+        "url": "https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/7j5lyR5RW7JLzXayM4zr8q"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "JOHNNY DANG",
         "url": "https://open.spotify.com/album/37cllReDw2lRsZsOdUl2lT"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 192162,
       "name": "Jab\u0142onie",
       "url": "https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "Techno",
-        "url": "https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j"
-      },
-      "artists": [
-        {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        },
-        {
-          "name": "Auer",
-          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/7j5lyR5RW7JLzXayM4zr8q"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1095,6 +1095,42 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "LEVEL DOWN",
+        "url": "https://open.spotify.com/album/56WnDQSLIcUlKqTIwtWmKp"
+      },
+      "artists": [
+        {
+          "name": "Patokalipsa",
+          "url": "https://open.spotify.com/artist/4MQ0aW7922qB3p1f335bDv"
+        },
+        {
+          "name": "Eripe",
+          "url": "https://open.spotify.com/artist/2E2h76dKcZsiyHgrQqEeyL"
+        },
+        {
+          "name": "Penx",
+          "url": "https://open.spotify.com/artist/2sdcnmAToSQ7TYQEwSP3gj"
+        },
+        {
+          "name": "Delekta",
+          "url": "https://open.spotify.com/artist/38fyO3cEQYQkpfDTUm93hB"
+        },
+        {
+          "name": "EsZet",
+          "url": "https://open.spotify.com/artist/6LGEaONAoxrUoVCqup6Gya"
+        },
+        {
+          "name": "Zygson",
+          "url": "https://open.spotify.com/artist/7jsF3Z1nA4S0DrcOR1o8f4"
+        }
+      ],
+      "duration_ms": 321702,
+      "name": "LEVEL DOWN",
+      "url": "https://open.spotify.com/track/1uU3qFjCD0NLpWco9f8mHD"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "TEN STYL TEN RAP",
         "url": "https://open.spotify.com/album/63m0NfybZkXzENDaUc3gN4"
       },
@@ -1135,42 +1171,6 @@
       "duration_ms": 253176,
       "name": "TEN STYL TEN RAP",
       "url": "https://open.spotify.com/track/0XFA3fpnrboMVyKAUt7HtO"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "LEVEL DOWN",
-        "url": "https://open.spotify.com/album/56WnDQSLIcUlKqTIwtWmKp"
-      },
-      "artists": [
-        {
-          "name": "Patokalipsa",
-          "url": "https://open.spotify.com/artist/4MQ0aW7922qB3p1f335bDv"
-        },
-        {
-          "name": "Eripe",
-          "url": "https://open.spotify.com/artist/2E2h76dKcZsiyHgrQqEeyL"
-        },
-        {
-          "name": "Penx",
-          "url": "https://open.spotify.com/artist/2sdcnmAToSQ7TYQEwSP3gj"
-        },
-        {
-          "name": "Delekta",
-          "url": "https://open.spotify.com/artist/38fyO3cEQYQkpfDTUm93hB"
-        },
-        {
-          "name": "EsZet",
-          "url": "https://open.spotify.com/artist/6LGEaONAoxrUoVCqup6Gya"
-        },
-        {
-          "name": "Zygson",
-          "url": "https://open.spotify.com/artist/7jsF3Z1nA4S0DrcOR1o8f4"
-        }
-      ],
-      "duration_ms": 321702,
-      "name": "LEVEL DOWN",
-      "url": "https://open.spotify.com/track/1uU3qFjCD0NLpWco9f8mHD"
     },
     {
       "added_at": "2025-04-24 21:35:46",

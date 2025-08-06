@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > He glows different when it’s live\. Cover: Elijah Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,535 likes - 20 songs - 55 min 46 sec
+[Spotify](https://open.spotify.com/user/spotify) - 56,522 likes - 20 songs - 55 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 
 > Listen to the official playlist for LUPIN, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,029 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,033 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 | 61 | [On ne change pas](https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il Suffisait D'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 4:08 |
 | 62 | [Meaning \- Choral Version](https://open.spotify.com/track/4ajEeUByf22nxfhqCHuJD9) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9) | [The Human Octopus](https://open.spotify.com/album/4nFqGxTrgWmVeMZdRW3VE0) | 2:57 |
 
-Snapshot ID: `ZR5+2AAAAADnFklHy42oW+1ptuIiqmnD`
+Snapshot ID: `AAAAAMpYGjUIWhPkSAsX6MzX9uHGVKBy`

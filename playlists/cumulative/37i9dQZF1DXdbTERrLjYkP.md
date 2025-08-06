@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: fliss
 
-911 songs - 2 day 0 hr 49 min
+912 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [hope ur doing good](https://open.spotify.com/track/5Se5rp7mZFuAa3zMTYn6Lc) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [the way i see it](https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9) | 3:25 | 2022-11-18 | 2023-01-21 |
 | [Hope You're Well](https://open.spotify.com/track/6EyNnSOJY4KgAU1cxqQDO8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Hope You're Well](https://open.spotify.com/album/4Cp8eaPfgMH2VAyZrCznkZ) | 3:28 | 2022-11-04 | 2023-02-04 |
 | [Horror Movie](https://open.spotify.com/track/5yi8gmYXgvCTJtivjMtKAp) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Horror Movie](https://open.spotify.com/album/6T60F9RIEtDiyj6xDeyelH) | 3:18 | 2025-04-18 |  |
+| [Horses Run](https://open.spotify.com/track/75WCo9dLWJ88R0rXnXuqeu) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Horses Run](https://open.spotify.com/album/0e5JHJao5JWVlOzkK3M1NR) | 3:28 | 2025-08-06 |  |
 | [Hospitals](https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [How did I let this get so serious?](https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU) | 2:54 | 2025-04-04 | 2025-07-19 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-04-15 | 2022-09-03 |
 | [hot summer](https://open.spotify.com/track/3gR8omUbqmDU0l38K3CpHX) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [hot summer](https://open.spotify.com/album/6Gu94XbWCmDBCbbsHJ3SdF) | 3:32 | 2025-07-21 |  |
@@ -805,7 +806,7 @@
 | [this house is not a home](https://open.spotify.com/track/7CKDmTfTBNp6cezLioRqRs) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [this house is not a home](https://open.spotify.com/album/4sfBi3CDkc1y3k5MiReoLJ) | 2:38 | 2022-01-14 | 2022-09-03 |
 | [This Isn't Over](https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [This Isn't Over](https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk) | 2:34 | 2024-05-31 | 2024-07-27 |
 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 | 2022-09-02 | 2022-12-24 |
-| [Thunder](https://open.spotify.com/track/2Yyb780z1hYYngedfG3yXy) | [Audrey McGraw](https://open.spotify.com/artist/0PkYl0yro1VsA8BGGkAVPS) | [Thunder](https://open.spotify.com/album/0ie82BteCZLD5vuvsx3mSb) | 3:49 | 2025-06-06 |  |
+| [Thunder](https://open.spotify.com/track/2Yyb780z1hYYngedfG3yXy) | [Audrey McGraw](https://open.spotify.com/artist/0PkYl0yro1VsA8BGGkAVPS) | [Thunder](https://open.spotify.com/album/0ie82BteCZLD5vuvsx3mSb) | 3:49 | 2025-06-06 | 2025-08-06 |
 | [tightrope](https://open.spotify.com/track/16GBUPnzB2pSU5x0Vby14u) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [tightrope](https://open.spotify.com/album/5lvUj2vXEFl5Zd2T18szOg) | 5:09 | 2025-07-18 |  |
 | [Til Death Do Us Part](https://open.spotify.com/track/4HkyqRGphINv1xhlP7xPEC) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Til Death Do Us Part](https://open.spotify.com/album/6AE7Jgr7arm1a48S8wOjvK) | 3:10 | 2022-01-21 | 2022-09-10 |
 | [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-18 |  |

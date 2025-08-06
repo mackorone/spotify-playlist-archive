@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,014 likes - 139 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,039 likes - 139 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 125 | [JUBA](https://open.spotify.com/track/60PBqE0Y2Alj376HwSqBwE) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JUBA](https://open.spotify.com/album/5FfcT2dsjjrcgcs110VvzJ) | 3:01 |
 | 126 | [DODOnDAWA \- Extended Version](https://open.spotify.com/track/1fgL1JV4NPRaXmJ7MoOTCW) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [DODOnDAWA \(Extended Version\)](https://open.spotify.com/album/1QU3F0GcrX1vGU41l4nAtz) | 10:08 |
 | 127 | [This Year \- Remix](https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This Year \(Remix\)](https://open.spotify.com/album/4eGZHqU1iRAhe3gtowOLHX) | 2:42 |
-| 128 | [City On The Hill](https://open.spotify.com/track/64zc5jlST8fznswHfuUoOt) | [Hiro Lyon](https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX) | [City On The Hill](https://open.spotify.com/album/7GwikS8qorwZ88eZhsUCYD) | 3:14 |
+| 128 | [City On The Hill](https://open.spotify.com/track/64zc5jlST8fznswHfuUoOt) | [Hiro Lyon](https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX) | [City On The Hill](https://open.spotify.com/album/7GwikS8qorwZ88eZhsUCYD) | 2:36 |
 | 129 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 |
 | 130 | [Pamper](https://open.spotify.com/track/1pULwRUwuK7xx8iCRomQ8V) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [Pamper](https://open.spotify.com/album/0c02LRMPa9oZmkTO5z9vUY) | 2:07 |
 | 131 | [D2D](https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 2:37 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 138 | [Radical](https://open.spotify.com/track/73x1RKOULcFwHI4fXEVJPu) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Radical](https://open.spotify.com/album/1qH7PKSm7heJPJVtl89bIc) | 2:40 |
 | 139 | [Doing Of The Lord](https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Doing Of The Lord](https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD) | 4:19 |
 
-Snapshot ID: `aI4XIwAAAAA2DgF+/tcQoPAibzAwb7pN`
+Snapshot ID: `aI4XIwAAAAADEMgOMNYbfGrFapiAd6kk`

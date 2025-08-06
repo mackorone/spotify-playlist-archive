@@ -694,7 +694,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 228062,
       "name": "Again",
       "url": "https://open.spotify.com/track/3eam4YNpR4GHxBGqLNzZ4U"
@@ -7357,6 +7357,28 @@
     },
     {
       "album": {
+        "name": "Gates",
+        "url": "https://open.spotify.com/album/2P0qQgoetyqrHVdYCsJraC"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156098,
+      "name": "Gates",
+      "url": "https://open.spotify.com/track/4fuRN2DclIn0H2Zz3paFzh"
+    },
+    {
+      "album": {
         "name": "Gaze",
         "url": "https://open.spotify.com/album/0RMBhqzBhd1tQBb6NkTwZI"
       },
@@ -7634,6 +7656,24 @@
       "duration_ms": 262374,
       "name": "Give Me A Second",
       "url": "https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2"
+    },
+    {
+      "album": {
+        "name": "Glass Souls",
+        "url": "https://open.spotify.com/album/0ADnJKIlDDtKo0wfK237YH"
+      },
+      "artists": [
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Glass Souls",
+      "url": "https://open.spotify.com/track/4bXajrbi7CKAuOGlZcXB97"
     },
     {
       "album": {
@@ -11134,7 +11174,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 140939,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/4p9c1dudsL928nIhcZn15q"

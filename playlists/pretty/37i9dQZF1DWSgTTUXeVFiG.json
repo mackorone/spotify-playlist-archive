@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 28676,
+  "num_followers": 28706,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "30 A\u00f1os de Power",
+        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 489480,
+      "name": "Tu Cari\u00f1ito - Live",
+      "url": "https://open.spotify.com/track/2WxPRJ2zsx5kvmkMFmvgiQ"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
         "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 281160,
       "name": "Detalles - Live",
       "url": "https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "30 A\u00f1os de Power",
-        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 489480,
-      "name": "Tu Cari\u00f1ito - Live",
-      "url": "https://open.spotify.com/track/2WxPRJ2zsx5kvmkMFmvgiQ"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "En Vivo Desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Tu Loco, Loco, Y Yo Tranquilo - En Vivo",
-      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "Un Sonido Bestial El Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 371813,
       "name": "Sonido Bestial - En Vivo",
       "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "En Vivo Desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Tu Loco, Loco, Y Yo Tranquilo - En Vivo",
+      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -876,13 +876,13 @@
       },
       "artists": [
         {
-          "name": "El Canario",
-          "url": "https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 349493,
-      "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
-      "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
+      "duration_ms": 272773,
+      "name": "Mata Siguaraya - Live Version",
+      "url": "https://open.spotify.com/track/0OBiNNQRUHrxTyhttCje8w"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -892,13 +892,13 @@
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "El Canario",
+          "url": "https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT"
         }
       ],
-      "duration_ms": 272773,
-      "name": "Mata Siguaraya - Live Version",
-      "url": "https://open.spotify.com/track/0OBiNNQRUHrxTyhttCje8w"
+      "duration_ms": 349493,
+      "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
+      "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
     },
     {
       "added_at": "2024-09-24 20:35:55",

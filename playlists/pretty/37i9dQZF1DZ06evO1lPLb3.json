@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 56283,
+  "num_followers": 56317,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAAC0er4RAeigCbdIaYkJUJW4",
+  "snapshot_id": "aI/4AAAAAADWadiFQAv+lua6zRY5iokX",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day Without Yesterday / Six O Six",
-        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
+        "name": "Needs x UN Women Present HeForShe",
+        "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 339379,
-      "name": "Day Without Yesterday",
-      "url": "https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz"
+      "duration_ms": 402838,
+      "name": "Shero",
+      "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Needs x UN Women Present HeForShe",
-        "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
+        "name": "Day Without Yesterday / Six O Six",
+        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 402838,
-      "name": "Shero",
-      "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
+      "duration_ms": 339379,
+      "name": "Day Without Yesterday",
+      "url": "https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
       "duration_ms": 117236,
       "name": "Your Art",
       "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Day Without Yesterday / Six O Six",
-        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 366405,
-      "name": "Six O Six",
-      "url": "https://open.spotify.com/track/01aXWzyH9y5prhVJ2tQLY9"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 353047,
       "name": "Troop",
       "url": "https://open.spotify.com/track/7GbhZNoIASAeUjwekiT0sa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Day Without Yesterday / Six O Six",
+        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 366405,
+      "name": "Six O Six",
+      "url": "https://open.spotify.com/track/01aXWzyH9y5prhVJ2tQLY9"
     },
     {
       "added_at": null,

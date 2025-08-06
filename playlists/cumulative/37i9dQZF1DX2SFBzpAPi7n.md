@@ -2,7 +2,7 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dragon Pony\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: HANRORO\) \(핫한 국내 록 음악을 만나보세요!\)
 
 1,007 songs - 2 day 13 hr 28 min
 

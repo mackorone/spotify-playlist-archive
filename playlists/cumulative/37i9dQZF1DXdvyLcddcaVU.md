@@ -4,10 +4,11 @@
 
 > \#fyp
 
-836 songs - 1 day 19 hr 45 min
+837 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [00:03](https://open.spotify.com/track/1SC35gqLMGnp1rjBFszBwJ) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [00:03](https://open.spotify.com/album/5XTiBLAvw9nhT23AnvbbYx) | 2:06 | 2025-08-05 |  |
 | [1 2 3 4](https://open.spotify.com/track/5JVR0F2Gya13oWlAG3dc62) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [SÛR ET CERTAIN](https://open.spotify.com/album/2XOWQl3JrnpzrUcD3QgMFl) | 3:00 | 2023-11-10 | 2024-08-02 |
 | [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 | 2023-09-08 | 2023-11-11 |
 | [1,2,3 Soleil](https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW) | [NAZAKEBLACK](https://open.spotify.com/artist/5H9EtsRc980WZMj0m0nwqa), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [1,2,3 Soleil](https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw) | 2:53 | 2023-06-14 | 2023-12-14 |
@@ -770,7 +771,7 @@
 | [Tipo Nino Vs Kabrinha](https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Tipo Nino Vs Kabrinha](https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH) | 3:21 | 2025-06-20 |  |
 | [Titulaires](https://open.spotify.com/track/1OToHVdN93nhrEJcMEax6C) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [OCHO](https://open.spotify.com/album/5WWp49ZHB34eMwy5n856Jj) | 4:00 | 2023-03-24 | 2023-08-26 |
 | [TNF](https://open.spotify.com/track/0Vfir5TGvFgsctQJY9CnBM) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:17 | 2024-09-06 | 2025-01-18 |
-| [Toi et moi](https://open.spotify.com/track/6D8pnA3WyMrGy8Q2258BC0) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Toi et moi](https://open.spotify.com/album/7prFQUHqq5CDwXE5Org7uy) | 3:21 | 2025-08-04 |  |
+| [Toi et moi](https://open.spotify.com/track/6D8pnA3WyMrGy8Q2258BC0) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Toi et moi](https://open.spotify.com/album/7prFQUHqq5CDwXE5Org7uy) | 3:21 | 2025-08-04 | 2025-08-06 |
 | [Toko dombi](https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Toko dombi](https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i) | 2:40 | 2024-03-22 | 2024-06-22 |
 | [Toto et Ninetta](https://open.spotify.com/track/4DMSNaJcSirQN31BSf2BeZ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:31 | 2025-04-03 | 2025-04-19 |
 | [Totopika](https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Totopika](https://open.spotify.com/album/2RnvdenjPNouk7sUE3aPzg) | 2:19 | 2025-03-21 | 2025-06-28 |

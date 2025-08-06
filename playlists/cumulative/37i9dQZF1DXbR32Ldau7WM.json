@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: AKASAKI",
+  "description": "The biggest rock artists in Japan right now!  Cover: Tempalay",
   "name": "Big in Japan",
   "tracks": [
+    {
+      "album": {
+        "name": "0.5\u79d2\u306e\u604b",
+        "url": "https://open.spotify.com/album/1ozxjnuc7fzu2464EJnKne"
+      },
+      "artists": [
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189386,
+      "name": "0.5\u79d2\u306e\u604b",
+      "url": "https://open.spotify.com/track/3I8zgp21FQb6rxy4RNM7UT"
+    },
     {
       "album": {
         "name": "01",
@@ -2098,6 +2116,24 @@
       "duration_ms": 243826,
       "name": "Channeling lurking demons",
       "url": "https://open.spotify.com/track/7pJZeXJAE5AxFKya5VHyV6"
+    },
+    {
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk"
     },
     {
       "album": {
@@ -4900,7 +4936,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 191666,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
@@ -5438,7 +5474,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 215000,
       "name": "INCOMPLETE",
       "url": "https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh"
@@ -7191,6 +7227,24 @@
     },
     {
       "album": {
+        "name": "Naked 4 Satan",
+        "url": "https://open.spotify.com/album/2CzjVt14KokXk1Q6vGp925"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281773,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7LhFZAamVSW35NGGSMxwoZ"
+    },
+    {
+      "album": {
         "name": "MAGIC TIME / CREEPSHOW",
         "url": "https://open.spotify.com/album/1LdYc6r9E8RKlTShRs0myy"
       },
@@ -7624,7 +7678,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 188613,
       "name": "mild days",
       "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
@@ -8212,6 +8266,24 @@
       "duration_ms": 250924,
       "name": "naniyue",
       "url": "https://open.spotify.com/track/6iJD4wxQUHUkOanQDgCmtA"
+    },
+    {
+      "album": {
+        "name": "Natsu no Saibu",
+        "url": "https://open.spotify.com/album/33rdhNaIEYvznVw2hVF183"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233415,
+      "name": "Natsu no Saibu",
+      "url": "https://open.spotify.com/track/63QfN1eAvWSDnPMRxJbGTS"
     },
     {
       "album": {
@@ -9612,6 +9684,24 @@
       "duration_ms": 243161,
       "name": "Ramble In The Rainbow",
       "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
+    },
+    {
+      "album": {
+        "name": "Rashisa",
+        "url": "https://open.spotify.com/album/4XOkiHZhn0dnTGgFgAnNzV"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302880,
+      "name": "Rashisa",
+      "url": "https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R"
     },
     {
       "album": {
@@ -12995,6 +13085,28 @@
     },
     {
       "album": {
+        "name": "Time of War (ft. Moostop)",
+        "url": "https://open.spotify.com/album/2njahabOMpJv7NRN7AaX8c"
+      },
+      "artists": [
+        {
+          "name": "Zoobombs",
+          "url": "https://open.spotify.com/artist/207YH7vqVsMSqZGXtDAb96"
+        },
+        {
+          "name": "Moostop",
+          "url": "https://open.spotify.com/artist/07Tzhj1GQYPlU1g3pzwVAJ"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248267,
+      "name": "Time of War - ft. Moostop",
+      "url": "https://open.spotify.com/track/7LWzvtzmuelx8CivCbbVhZ"
+    },
+    {
+      "album": {
         "name": "Tiny World",
         "url": "https://open.spotify.com/album/1FiKy2LLk2fQTecXtXS1nK"
       },
@@ -13186,7 +13298,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 163322,
       "name": "tragedy",
       "url": "https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd"
@@ -13804,7 +13916,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 215467,
       "name": "Up",
       "url": "https://open.spotify.com/track/6u8I0eP3J6GUF3ORCev4Um"
@@ -15362,7 +15474,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 190866,
       "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
       "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
@@ -15756,6 +15868,28 @@
       "duration_ms": 86280,
       "name": "\u3059\u3054\u3044\u901f\u3055",
       "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
+    },
+    {
+      "album": {
+        "name": "\u3059\u3070\u3089\u3057\u3044\u305b\u304b\u3044",
+        "url": "https://open.spotify.com/album/2eLvOhHNts9Qc25UEHVawP"
+      },
+      "artists": [
+        {
+          "name": "Yoh kamiyama",
+          "url": "https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv"
+        },
+        {
+          "name": "YOSUKE from SPYAIR",
+          "url": "https://open.spotify.com/artist/4auQxWsYcnbVfwsOqMezcJ"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242386,
+      "name": "\u3059\u3070\u3089\u3057\u3044\u305b\u304b\u3044",
+      "url": "https://open.spotify.com/track/0JfFHx7GqaI1rtnw677cBa"
     },
     {
       "album": {
@@ -17396,7 +17530,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 232000,
       "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
       "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
@@ -17558,7 +17692,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
@@ -20692,7 +20826,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 180000,
       "name": "\u5b9f\u9a13\u4e2d",
       "url": "https://open.spotify.com/track/5ZQgJnXh6vJnQuNeriQrmj"
@@ -21124,7 +21258,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 176406,
       "name": "\u5fd8\u30ec\u30ca\u5504",
       "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
@@ -21898,6 +22032,24 @@
       "duration_ms": 234586,
       "name": "\u6708\u898b\u8349",
       "url": "https://open.spotify.com/track/2r9pdXhX8ii5tN18RceY2E"
+    },
+    {
+      "album": {
+        "name": "\u6708\u9762\u63a5\u543b",
+        "url": "https://open.spotify.com/album/7zi4AejuS2PqMs084hmcjB"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294053,
+      "name": "\u6708\u9762\u63a5\u543b",
+      "url": "https://open.spotify.com/track/1BVaTJoYRHVUFaLMyZYzCX"
     },
     {
       "album": {
@@ -24202,6 +24354,24 @@
       "duration_ms": 324767,
       "name": "\u9752\u306e\u6714\u65e5",
       "url": "https://open.spotify.com/track/4juomwTgjpVtOKLaiSsJKS"
+    },
+    {
+      "album": {
+        "name": "\u9752\u967d\u6f6e",
+        "url": "https://open.spotify.com/album/7je7GYsdmvHqI5UP2u1iak"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215142,
+      "name": "\u9752\u967d\u6f6e",
+      "url": "https://open.spotify.com/track/7DsSuSygp4N7CwlpadQcRQ"
     },
     {
       "album": {

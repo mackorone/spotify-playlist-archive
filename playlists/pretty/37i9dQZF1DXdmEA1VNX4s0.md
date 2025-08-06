@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmEA1VNX4s0.md) - [plain]
 
 > Ambient, dreampop, heady, fresh and unexpected tracks for the mind\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,330 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,427 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmEA1VNX4s0.md) - [plain]
 | 59 | [Persephone \- The Gathering of Flowers](https://open.spotify.com/track/4yYIL5oRSltUsUnUqz5iFg) | [Dead Can Dance](https://open.spotify.com/artist/6sq7prp0tj9Abn89khmfja) | [The Best of Lisa Gerrard](https://open.spotify.com/album/6nZq8HA36VB2WGzGVEtAEr) | 6:36 |
 | 60 | [When the Earth Yelled Back at Me](https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Something Ephemeral](https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL) | 3:21 |
 
-Snapshot ID: `AAAAAMxOWdOu13XAVLvayNdXZQmEKNIU`
+Snapshot ID: `Z67N8wAAAAAPjO6u0xSIlAQLRSVzA1JJ`

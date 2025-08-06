@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tommy WA
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,770 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,782 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 |
 | 50 | [DON'T LET THE SUN GO DOWN \(Joshua 10\)](https://open.spotify.com/track/6hR9aFbhdmVKYB8tYqdsCF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [PRAY](https://open.spotify.com/album/4XChhddkwMUOluOfB74Z4J) | 2:38 |
 
-Snapshot ID: `aIwD3wAAAADq5FfJSJqv4C9I3eZ/MyWO`
+Snapshot ID: `AAAAAII8dFQXxE31mJiuYr5Ubhw9bgoi`

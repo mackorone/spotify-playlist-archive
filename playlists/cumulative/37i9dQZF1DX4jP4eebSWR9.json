@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Amo, Aymen",
+  "description": "50 Hits in einer Playlist! Cover: Tinashe, Disco Lines",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 137114,
       "name": "bad bunnies",
       "url": "https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 164426,
       "name": "JUPITER",
       "url": "https://open.spotify.com/track/7ecko4ieGpsWtj4h0rBAaJ"
@@ -3823,6 +3823,28 @@
     },
     {
       "album": {
+        "name": "SOMMERN\u00c4CHTE",
+        "url": "https://open.spotify.com/album/6qskdHd6p8TSdBIv0OosZs"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124831,
+      "name": "SOMMERN\u00c4CHTE",
+      "url": "https://open.spotify.com/track/1IHZV2I3riACMv2Uz92LJS"
+    },
+    {
+      "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
@@ -4154,6 +4176,24 @@
       "duration_ms": 173056,
       "name": "The Glen - Levi Heron Edit",
       "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
+    },
+    {
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "album": {

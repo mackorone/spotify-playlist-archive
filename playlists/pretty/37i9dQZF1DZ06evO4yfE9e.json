@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2455,
+  "num_followers": 2457,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAACm7CVW4pJDmSo1B7orO9ht",
+  "snapshot_id": "aI/4AAAAAABWPjcIwCJJcQSeSMpRGEEu",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
       "duration_ms": 173760,
       "name": "Wishin",
       "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/30eZ6nN8mdJAXaVQQSh6YA"
+      },
+      "artists": [
+        {
+          "name": "EZ Ice",
+          "url": "https://open.spotify.com/artist/4NZklHPG05LMNCqbffWkpG"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 163115,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/1V1Ej2Pl51pmoVzL2qN4Sn"
     }
   ],
   "unique_name": "This Is bludnymph",

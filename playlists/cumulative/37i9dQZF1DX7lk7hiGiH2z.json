@@ -704,7 +704,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 141773,
       "name": "Contigo en la playa",
       "url": "https://open.spotify.com/track/5YZpIO8LYmAuHY6RshKAgL"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 164723,
       "name": "Der sch\u00f6nste Tag vom Sommer / En g\u00fczel Yaz G\u00fcn\u00fcm",
       "url": "https://open.spotify.com/track/0S6MWrgRd8U3qCTe7j16I9"
@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Disco Kinder",
+        "url": "https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs"
+      },
+      "artists": [
+        {
+          "name": "Isa Gl\u00fccklich",
+          "url": "https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169773,
+      "name": "Disco Kinder (Minis Maxis)",
+      "url": "https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G"
+    },
+    {
+      "album": {
         "name": "Unter meinem Bett 7",
         "url": "https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy"
       },
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 220173,
       "name": "Drachenwind",
       "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 122506,
       "name": "F\u00fchl Mich So Gut",
       "url": "https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ"
@@ -3725,6 +3743,28 @@
     },
     {
       "album": {
+        "name": "Unter meinem Bett 6",
+        "url": "https://open.spotify.com/album/5T56fAdOETGPwEWYReIesL"
+      },
+      "artists": [
+        {
+          "name": "Francesco Wilking",
+          "url": "https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV"
+        },
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "Hund und Katze",
+      "url": "https://open.spotify.com/track/75wYu5BBtsTFp6yaguVJO3"
+    },
+    {
+      "album": {
         "name": "Meine Lieblingskinderlieder f\u00fcr die Silvesterparty",
         "url": "https://open.spotify.com/album/3OdBIyTZ3kE8rHl7UrHAng"
       },
@@ -3990,7 +4030,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 199520,
       "name": "Ich lass mich nicht \u00e4rgern",
       "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
@@ -4152,7 +4192,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 113626,
       "name": "Ida's Sommerlied",
       "url": "https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL"
@@ -5834,7 +5874,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 123262,
       "name": "Liebesdusche",
       "url": "https://open.spotify.com/track/0M1F8GVMNhz4mTceABRmtd"
@@ -6428,7 +6468,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 118532,
       "name": "No Problama",
       "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
@@ -6500,7 +6540,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 253120,
       "name": "Ohne dich h\u00e4tt' ich mich nicht getraut",
       "url": "https://open.spotify.com/track/5dlhNyHb5S9AuixZqnPaNY"
@@ -6888,6 +6928,28 @@
       "duration_ms": 151093,
       "name": "Purple People Eater",
       "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
+    },
+    {
+      "album": {
+        "name": "Raumschiff",
+        "url": "https://open.spotify.com/album/0RvaLDbmx9L8P3gLvQU69N"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte"
+        },
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183225,
+      "name": "Raumschiff",
+      "url": "https://open.spotify.com/track/0LqVqtvi6cnPEIOpxIVN1I"
     },
     {
       "album": {
@@ -7350,7 +7412,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 207466,
       "name": "Schokoladeneis",
       "url": "https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW"
@@ -7540,7 +7602,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 156450,
       "name": "Sommerbrille",
       "url": "https://open.spotify.com/track/1iLdE6oZKQTijqzo5WNc7C"
@@ -7594,7 +7656,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 128444,
       "name": "Sommertag",
       "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
@@ -7616,7 +7678,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 134265,
       "name": "Sommerzeit",
       "url": "https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h"
@@ -8276,10 +8338,28 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 213413,
       "name": "Urlaub unter Freunden",
       "url": "https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR"
+    },
+    {
+      "album": {
+        "name": "Kinderdisco - Das Original",
+        "url": "https://open.spotify.com/album/34PrK0cbxMsYRunUvZ5m9y"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117720,
+      "name": "Urlaubskoffer",
+      "url": "https://open.spotify.com/track/5TAxZVVxlQTZWzZSQhkuQ7"
     },
     {
       "album": {
@@ -8370,7 +8450,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 148560,
       "name": "Vogelhochzeit",
       "url": "https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG"
@@ -8718,7 +8798,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 143053,
       "name": "Wenn ich den See seh'",
       "url": "https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T"

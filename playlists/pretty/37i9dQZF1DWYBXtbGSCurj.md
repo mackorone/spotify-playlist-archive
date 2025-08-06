@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,301 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,332 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 14 | [Hiperfoco](https://open.spotify.com/track/1rO0uD1DwejqeZLNXTroJK) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:20 |
 | 15 | [Grama Verde](https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:56 |
 | 16 | [YoYo](https://open.spotify.com/track/7jtOEgEsdS55PZTC08OEjU) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [YoYo](https://open.spotify.com/album/1Fc3WVF7Mrz2DWRR3qKnjR) | 2:52 |
-| 17 | [Fogo na Cidade](https://open.spotify.com/track/16wJDBxuYze6hxLDAvGdn7) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Maurin](https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI) | [Liberdade \(Deluxe\)](https://open.spotify.com/album/72UAM9YXaUyl4iT8crtq2p) | 3:13 |
+| 17 | [Fogo na Cidade](https://open.spotify.com/track/16wJDBxuYze6hxLDAvGdn7) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Maurin](https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI), [Gigant](https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O) | [Liberdade \(Deluxe\)](https://open.spotify.com/album/72UAM9YXaUyl4iT8crtq2p) | 3:13 |
 | 18 | [No Off](https://open.spotify.com/track/3zHywyJkTiovhgNyGFUJQM) | [MC Vitinho Avassalador](https://open.spotify.com/artist/3B9jl6KbMcVVInEm0EjIuv), [Di Paulla, El Nuevo](https://open.spotify.com/artist/6136F7KIhtFHDFCZU5e2Xr) | [No Off](https://open.spotify.com/album/1CKmrVjJFqmdZWfRsdCegc) | 2:04 |
 | 19 | [Uma ligação](https://open.spotify.com/track/64ss3DqHafaIu9bj5leXsO) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ike Avila](https://open.spotify.com/artist/3JPkFqx7D94uZRYUnNlfMh), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Uma ligação](https://open.spotify.com/album/0m2i8QYwPsdt2J0qKXGwcP) | 2:51 |
 | 20 | [MIGOS](https://open.spotify.com/track/3Rc0BGklC1QmiNIq7FeKay) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 2:28 |

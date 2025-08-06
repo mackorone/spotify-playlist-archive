@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Juana Aguirre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,908 likes - 114 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,920 likes - 114 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 113 | [La Maza \- En Vivo Desde Fonobox](https://open.spotify.com/track/66N4z49zmWLC1oOsXRqu09) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [La Maza \(En Vivo Desde Fonobox\)](https://open.spotify.com/album/6FsFC9UhnjHs6kZOqlpbCh) | 5:03 |
 | 114 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 |
 
-Snapshot ID: `aIdgxAAAAACQH2x++bh30iW5JEygaIoy`
+Snapshot ID: `AAAAAE27gjR7uKjkD8bSV5F2XQ+fiVTe`

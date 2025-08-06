@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs",
-  "num_followers": 34024,
+  "num_followers": 34033,
   "original_name": "70's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
+        "name": "We Leven Nog",
+        "url": "https://open.spotify.com/album/5Tc0w1i6odQgSFSPN29yAR"
+      },
+      "artists": [
+        {
+          "name": "Ramses Shaffy",
+          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Wij Zullen Doorgaan - 1975 Single Version",
+      "url": "https://open.spotify.com/track/19MAlVmXa2jrccQiFVi5UE"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
         "name": "Huilen Is Voor Jou Te Laat / Adio Adio Adio",
         "url": "https://open.spotify.com/album/46vwUGrncWOXNsG5XkcsKw"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 183656,
       "name": "Huilen Is Voor Jou Te Laat",
       "url": "https://open.spotify.com/track/0zrx7g0WrWjDzhwfI77gTr"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
-        "name": "We Leven Nog",
-        "url": "https://open.spotify.com/album/5Tc0w1i6odQgSFSPN29yAR"
-      },
-      "artists": [
-        {
-          "name": "Ramses Shaffy",
-          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Wij Zullen Doorgaan - 1975 Single Version",
-      "url": "https://open.spotify.com/track/19MAlVmXa2jrccQiFVi5UE"
     },
     {
       "added_at": "2024-07-09 16:51:18",

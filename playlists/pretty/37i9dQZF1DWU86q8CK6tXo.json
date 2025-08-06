@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Noah Cyrus\n",
-  "num_followers": 63969,
+  "num_followers": 63970,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
+        "name": "Fast",
+        "url": "https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Fast",
+      "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -163,18 +179,18 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Fast",
-        "url": "https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI"
+        "name": "Glum",
+        "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Fast",
-      "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
+      "duration_ms": 193131,
+      "name": "Glum",
+      "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -195,26 +211,6 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Could You Be Loved (with LP Giobbi)",
-        "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 286879,
-      "name": "Could You Be Loved (with LP Giobbi)",
-      "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
       },
@@ -231,18 +227,38 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Glum",
-        "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
       },
       "artists": [
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 193131,
-      "name": "Glum",
-      "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
+      "duration_ms": 218120,
+      "name": "perfectas",
+      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
+        "name": "Could You Be Loved (with LP Giobbi)",
+        "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 286879,
+      "name": "Could You Be Loved (with LP Giobbi)",
+      "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -283,22 +299,6 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 228842,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
         "name": "Desperate",
         "url": "https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9"
       },
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 228842,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
         "name": "THE ONE.",
         "url": "https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 204928,
       "name": "THE ONE.",
       "url": "https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
-        "name": "perfectas",
-        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "perfectas",
-      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Getting By",
-        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Troubled Water",
-      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
         "name": "the hell you are",
         "url": "https://open.spotify.com/album/5yqBQUm3a7jXyfM3OMw5rJ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 174462,
       "name": "the hell you are",
       "url": "https://open.spotify.com/track/6E02wi9oGn2EvKiLc2cuMv"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
+        "name": "Getting By",
+        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -511,6 +511,26 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
+        "name": "Waymo",
+        "url": "https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 182460,
+      "name": "Waymo",
+      "url": "https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
         "name": "We On Dat",
         "url": "https://open.spotify.com/album/4dpOOB97KCYfGTu14imfV2"
       },
@@ -523,22 +543,6 @@
       "duration_ms": 172000,
       "name": "We On Dat",
       "url": "https://open.spotify.com/track/7lZAVKwXTXcxp2RPF1R2U6"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
-        "name": "Rattlesnake Preacher",
-        "url": "https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 235253,
-      "name": "Rattlesnake Preacher",
-      "url": "https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -559,22 +563,18 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Waymo",
-        "url": "https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9"
+        "name": "Rattlesnake Preacher",
+        "url": "https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj"
       },
       "artists": [
         {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 182460,
-      "name": "Waymo",
-      "url": "https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf"
+      "duration_ms": 235253,
+      "name": "Rattlesnake Preacher",
+      "url": "https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Corn Queen",
-        "url": "https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 247503,
-      "name": "White Limousine",
-      "url": "https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
         "name": "Marlboro Man",
         "url": "https://open.spotify.com/album/76zkHW7rcIRtQ8h9Cc2YTW"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 215626,
       "name": "Marlboro Man",
       "url": "https://open.spotify.com/track/6Wzl4TwDZLRDmFmv1KHyp5"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
+        "name": "Corn Queen",
+        "url": "https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 247503,
+      "name": "White Limousine",
+      "url": "https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
+        "name": "Fine Shyt",
+        "url": "https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Fine Shyt",
+      "url": "https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
         "name": "That's Gonna Leave a Mark",
         "url": "https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 217000,
       "name": "That's Gonna Leave a Mark",
       "url": "https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
-        "name": "Planting by the Signs",
-        "url": "https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 222629,
-      "name": "I'm in Love",
-      "url": "https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
+        "name": "Planting by the Signs",
+        "url": "https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 222629,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
         "name": "Jumbos",
         "url": "https://open.spotify.com/album/5FLJL9V5MiJde68lPpdGZr"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 191689,
       "name": "Jumbos",
       "url": "https://open.spotify.com/track/2XOnuf9xCg90wOcrthaGPD"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
-        "name": "The Whole Thing",
-        "url": "https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "The Whole Thing",
-      "url": "https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
+        "name": "The Whole Thing",
+        "url": "https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "The Whole Thing",
+      "url": "https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/7xYvqJyefvpXWdsG9hUlCC"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Fine Shyt",
-        "url": "https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I"
+        "name": "Old Me (New Wig)",
+        "url": "https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh"
       },
       "artists": [
         {
-          "name": "BunnaB",
-          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 160066,
-      "name": "Fine Shyt",
-      "url": "https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3"
+      "duration_ms": 139900,
+      "name": "Old Me (New Wig)",
+      "url": "https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -887,6 +903,22 @@
       "duration_ms": 161060,
       "name": "Girls Just Wanna Be Famous",
       "url": "https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/45iPCweMwZcjbPtPwpv1X6"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 167547,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/2OZxoB37FO6OzZOoOYvOni"
     },
     {
       "added_at": "2025-08-04 18:30:13",
@@ -923,38 +955,6 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
-        "name": "Old Me (New Wig)",
-        "url": "https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 139900,
-      "name": "Old Me (New Wig)",
-      "url": "https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/45iPCweMwZcjbPtPwpv1X6"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 167547,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/2OZxoB37FO6OzZOoOYvOni"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
         "name": "crisis EXistencial",
         "url": "https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-08-04 18:30:13",
       "album": {
+        "name": "Waldo",
+        "url": "https://open.spotify.com/album/7bZVLwO7D3pBTgRXkhtjtH"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 174966,
+      "name": "Waldo",
+      "url": "https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt"
+    },
+    {
+      "added_at": "2025-08-04 18:30:13",
+      "album": {
         "name": "Queen Of The Crazy",
         "url": "https://open.spotify.com/album/5w0Rvnu7ZpmbSgp05qqJEu"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 265506,
       "name": "Where Is My Angel",
       "url": "https://open.spotify.com/track/0gtymJc3EEfZezuhNwcKWn"
-    },
-    {
-      "added_at": "2025-08-04 18:30:13",
-      "album": {
-        "name": "Waldo",
-        "url": "https://open.spotify.com/album/7bZVLwO7D3pBTgRXkhtjtH"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 174966,
-      "name": "Waldo",
-      "url": "https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt"
     },
     {
       "added_at": "2025-08-04 18:30:13",

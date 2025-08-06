@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4Xm23Bzc6s.md) - [plain]
 
 > Cuco's crafted a playlist for..\. the playlistener\. Get it? <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,553 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,581 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4Xm23Bzc6s.md) - [plain]
 | 49 | [Me Haces Falta..\. Te Necesito](https://open.spotify.com/track/7wALcoRBVOiQIfAQUKSJbg) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Serie 32: Yndio](https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE) | 3:13 |
 | 50 | [BELEZA PULA](https://open.spotify.com/track/63dLm0BUpepXeFIfZ0OKEL) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [BRASILIAN SKIES](https://open.spotify.com/album/0zXeZw0oFC2Db99RqlfHur) | 7:53 |
 
-Snapshot ID: `aCN4twAAAADOWEIcCq/wIeCKBjF8UrGx`
+Snapshot ID: `aCN4twAAAAAtBgISrbJOuaH3QoX3gnvK`

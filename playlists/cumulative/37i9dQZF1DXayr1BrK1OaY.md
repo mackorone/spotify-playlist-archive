@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-538 songs - 1 day 7 hr 53 min
+539 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Out Of Touch \- CRi Remix](https://open.spotify.com/track/4D09wI2gi5vX9ajRztj1Qf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Out Of Touch \(Remixes\)](https://open.spotify.com/album/4vr2ogtjMDoeVfoWeoi7ri) | 6:17 | 2021-04-10 | 2022-07-29 |
 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-05-21 |
 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-29 | 2024-04-19 |
-| [Over Too Soon](https://open.spotify.com/track/6d08LJ1vqb2YHXK9EKMIDM) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Over Too Soon](https://open.spotify.com/album/4fQR9Ef3st0ZwuOvtBnHbU) | 3:11 | 2025-05-09 |  |
+| [Over Too Soon](https://open.spotify.com/track/6d08LJ1vqb2YHXK9EKMIDM) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Over Too Soon](https://open.spotify.com/album/4fQR9Ef3st0ZwuOvtBnHbU) | 3:11 | 2025-05-09 | 2025-08-06 |
 | [Over You](https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Over You](https://open.spotify.com/album/5HajT51f4NCbAIANcVrlIe) | 2:42 | 2025-05-23 |  |
 | [over you](https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [over you](https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ) | 3:38 | 2025-07-04 |  |
 | [Overtones](https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Overtones](https://open.spotify.com/album/4tY6Z1lYShKuvQMt3tMV7k) | 4:29 | 2021-08-14 | 2022-07-29 |
@@ -544,6 +544,7 @@
 | [You & Me \- Flume Remix](https://open.spotify.com/track/2yl5YlFWTreZRv4hMlcngT) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Disclosure Classics](https://open.spotify.com/album/4uFZjHXOKswRVy7r1ry15P) | 4:42 | 2021-04-02 | 2023-12-30 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2023-12-29 |  |
 | [You Don’t Even Miss Me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You Don’t Even Miss Me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 | 2025-04-25 | 2025-05-03 |
+| [You Said Forever](https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [You Said Forever](https://open.spotify.com/album/3Sga55WOeWr0G12vzC2GoQ) | 2:27 | 2025-08-01 |  |
 | [You've Done Enough](https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [You’ve Done Enough](https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk) | 3:33 | 2021-04-02 | 2024-04-06 |
 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 | 2021-07-30 | 2024-08-17 |
 

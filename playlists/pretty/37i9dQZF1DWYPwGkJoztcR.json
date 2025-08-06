@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 392231,
+  "num_followers": 392266,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
-    },
-    {
-      "added_at": "2025-06-27 12:58:26",
-      "album": {
         "name": "The Indien",
         "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "Light of My Life",
-        "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
       },
       "artists": [
         {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 259518,
-      "name": "Light of My Life",
-      "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -679,18 +663,18 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+        "name": "Light of My Life",
+        "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
       },
       "artists": [
         {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
         }
       ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
+      "duration_ms": 259518,
+      "name": "Light of My Life",
+      "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -723,6 +707,22 @@
       "duration_ms": 200441,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
+    },
+    {
+      "added_at": "2025-06-27 12:58:26",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "Coffee Shop Boy",
-        "url": "https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ"
-      },
-      "artists": [
-        {
-          "name": "Zoe Hess",
-          "url": "https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT"
-        }
-      ],
-      "duration_ms": 207017,
-      "name": "Coffee Shop Boy",
-      "url": "https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp"
-    },
-    {
-      "added_at": "2025-06-27 12:58:26",
-      "album": {
         "name": "Saturday Silence",
         "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
@@ -891,22 +875,34 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "Old Summers",
-        "url": "https://open.spotify.com/album/3tRCgORe1F5ilqUzRPKudV"
+        "name": "Coffee Shop Boy",
+        "url": "https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ"
       },
       "artists": [
         {
-          "name": "Melle",
-          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
-        },
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+          "name": "Zoe Hess",
+          "url": "https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT"
         }
       ],
-      "duration_ms": 219968,
-      "name": "Old Summers (feat. philine)",
-      "url": "https://open.spotify.com/track/2jjknDW4cIC8d9C3kv5zrS"
+      "duration_ms": 207017,
+      "name": "Coffee Shop Boy",
+      "url": "https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp"
+    },
+    {
+      "added_at": "2025-06-27 12:58:26",
+      "album": {
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -927,18 +923,22 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "Lean On Me",
-        "url": "https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5"
+        "name": "Old Summers",
+        "url": "https://open.spotify.com/album/3tRCgORe1F5ilqUzRPKudV"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        },
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr"
+      "duration_ms": 219968,
+      "name": "Old Summers (feat. philine)",
+      "url": "https://open.spotify.com/track/2jjknDW4cIC8d9C3kv5zrS"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "When She\u2019s Around",
-        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
-      },
-      "artists": [
-        {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "When She\u2019s Around",
-      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
-    },
-    {
-      "added_at": "2025-06-27 12:58:26",
-      "album": {
         "name": "Green Lights",
         "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 177306,
       "name": "Falling Easy",
       "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
+    },
+    {
+      "added_at": "2025-06-27 12:58:26",
+      "album": {
+        "name": "When She\u2019s Around",
+        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
+      },
+      "artists": [
+        {
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "When She\u2019s Around",
+      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "In The Middle",
-        "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
-      },
-      "artists": [
-        {
-          "name": "Mad3 for M3",
-          "url": "https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV"
-        },
-        {
-          "name": "Cris Cab",
-          "url": "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
-        }
-      ],
-      "duration_ms": 221271,
-      "name": "In The Middle",
-      "url": "https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw"
-    },
-    {
-      "added_at": "2025-06-27 12:58:26",
-      "album": {
         "name": "Happier (Piano Version)",
         "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 195217,
       "name": "Loud Boy - Acoustic Session",
       "url": "https://open.spotify.com/track/0wKgwevSPynsNCJcLqN1bq"
+    },
+    {
+      "added_at": "2025-06-27 12:58:26",
+      "album": {
+        "name": "In The Middle",
+        "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
+      },
+      "artists": [
+        {
+          "name": "Mad3 for M3",
+          "url": "https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV"
+        },
+        {
+          "name": "Cris Cab",
+          "url": "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
+        }
+      ],
+      "duration_ms": 221271,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "I Look For You",
-        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
       },
       "artists": [
         {
-          "name": "BYNK",
-          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "BROWN & GRAY",
+          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
         }
       ],
-      "duration_ms": 211704,
-      "name": "I Look For You",
-      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
+      "duration_ms": 169585,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
+        "name": "I Look For You",
+        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
       },
       "artists": [
         {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "BROWN & GRAY",
-          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
+          "name": "BYNK",
+          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
         }
       ],
-      "duration_ms": 169585,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
+      "duration_ms": 211704,
+      "name": "I Look For You",
+      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "Groundwork Rising",
-        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
-    },
-    {
-      "added_at": "2025-06-27 12:58:26",
-      "album": {
         "name": "Wild Horses",
         "url": "https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 200000,
       "name": "Suddenly Forever",
       "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
+    },
+    {
+      "added_at": "2025-06-27 12:58:26",
+      "album": {
+        "name": "Groundwork Rising",
+        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 252080,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi"
+      },
+      "artists": [
+        {
+          "name": "FLORE",
+          "url": "https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ"
+    },
+    {
+      "added_at": "2025-06-27 12:58:26",
+      "album": {
         "name": "Happy in Hindsight",
         "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi"
+        "name": "You Give Me Something (Refreshed)",
+        "url": "https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV"
       },
       "artists": [
         {
-          "name": "FLORE",
-          "url": "https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h"
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
         }
       ],
-      "duration_ms": 145185,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ"
+      "duration_ms": 243426,
+      "name": "You Give Me Something (Refreshed)",
+      "url": "https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -1523,22 +1539,6 @@
       "duration_ms": 291706,
       "name": "Julianne",
       "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
-    },
-    {
-      "added_at": "2025-06-27 12:58:26",
-      "album": {
-        "name": "You Give Me Something (Refreshed)",
-        "url": "https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "You Give Me Something (Refreshed)",
-      "url": "https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH"
     },
     {
       "added_at": "2025-06-27 12:58:26",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2025-06-27 12:58:26",
       "album": {
-        "name": "skipping stone",
-        "url": "https://open.spotify.com/album/6iEIEFKB1OShW5ImoSZEFs"
+        "name": "Here's To Forever",
+        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
       },
       "artists": [
         {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "Bart van Liemt",
+          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
         }
       ],
-      "duration_ms": 189711,
-      "name": "skipping stone",
-      "url": "https://open.spotify.com/track/6gD86nnXjZPG6bMoJdPEu8"
+      "duration_ms": 184883,
+      "name": "Here's To Forever",
+      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
     }
   ],
   "unique_name": "'t Koffiehuis",

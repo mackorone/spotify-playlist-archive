@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 129542,
+  "num_followers": 129526,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Antics",
-        "url": "https://open.spotify.com/album/5NUna7cH8t5yLMgBxmW4NL"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/6zPOdhLim2vbcLo0rfjDjq"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "So Jealous",
         "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 150293,
       "name": "Walking with a Ghost",
       "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Antics",
+        "url": "https://open.spotify.com/album/5NUna7cH8t5yLMgBxmW4NL"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/6zPOdhLim2vbcLo0rfjDjq"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Zombie Prom (Hallowe'en At Home Edition)",
-        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Zombie Prom",
-      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "It's Halloween!",
         "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 149117,
       "name": "It's Halloween!",
       "url": "https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Zombie Prom (Hallowe'en At Home Edition)",
+        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Zombie Prom",
+      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Young-Girl Forever",
-        "url": "https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 170990,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/55hOQ0HMdVityRpvJt1RQ8"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Head of the Love Club",
         "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 175500,
       "name": "Little Vampire",
       "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Young-Girl Forever",
+        "url": "https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 170990,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/55hOQ0HMdVityRpvJt1RQ8"
     },
     {
       "added_at": "2024-11-14 23:00:00",

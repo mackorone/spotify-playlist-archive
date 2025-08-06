@@ -754,7 +754,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 258734,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY"
@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 175018,
       "name": "Intervention",
       "url": "https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj"
@@ -3474,6 +3474,24 @@
       "duration_ms": 198751,
       "name": "lilja",
       "url": "https://open.spotify.com/track/2APv5JlP1VXAxvFaQpDKbK"
+    },
+    {
+      "album": {
+        "name": "long lost",
+        "url": "https://open.spotify.com/album/2gQ3teUEg1TVZVubUji8Bn"
+      },
+      "artists": [
+        {
+          "name": "eternal",
+          "url": "https://open.spotify.com/artist/4wGMrwZjdj39HPuCm3Ui6U"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128285,
+      "name": "long lost",
+      "url": "https://open.spotify.com/track/7L2ofInqnrSisKJxVPGE6K"
     },
     {
       "album": {
@@ -4526,7 +4544,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 179916,
       "name": "Quietud",
       "url": "https://open.spotify.com/track/5V5TF6nM3jYyvJENU2P8RK"
@@ -6128,7 +6146,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 165000,
       "name": "Umbrian Affair",
       "url": "https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG"
@@ -6254,7 +6272,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 176020,
       "name": "Vesperam",
       "url": "https://open.spotify.com/track/6xUIYjip7xV5rOGz0V168m"

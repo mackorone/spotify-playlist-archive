@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Mild Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,350 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,347 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Hurlstone Park](https://open.spotify.com/track/5chs2Pm4tOiye2143iWVFU) | [Cody Munro Moore](https://open.spotify.com/artist/76LfvWJ9SYMkhovOhDzxyn), [Charles Rushforth](https://open.spotify.com/artist/5IPg4E2yiwGYEMGcOfKKsj) | [Hurlstone Park](https://open.spotify.com/album/6rde1mAD1xi1vfMlZhUYHd) | 3:20 |
 | 100 | [I Am Everything](https://open.spotify.com/track/3KtC8awsPhk1WPQLzbPeGU) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [I Am Everything](https://open.spotify.com/album/4wHOmqPIqa5shEdrpcQQ1D) | 2:52 |
 
-Snapshot ID: `aII8aAAAAABtgEHCQtRTFEItEAyN+Akq`
+Snapshot ID: `AAAAAOQOPtVlx0U+JhV6V06hHdu+rqdK`

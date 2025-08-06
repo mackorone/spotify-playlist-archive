@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > KAYTRANADA celebrates the release of his new album with a takeover with that bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,240 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,247 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 38 | [Fading Away](https://open.spotify.com/track/3Bxo37ejoaz4nPxBzEXLrb) | [Sjunne Ferger](https://open.spotify.com/artist/2yweM9aoLMrk1pnZqxUhvV) | [Mindgames](https://open.spotify.com/album/7iUEroP0jKpvT8PlDY4taI) | 2:51 |
 | 39 | [Get Up Remix](https://open.spotify.com/track/1iOFhpepFESMjZ4R40O8bo) | [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5) | [Lost & Found](https://open.spotify.com/album/2rgWCee7GYItQcX4GmuiB3) | 3:49 |
 
-Snapshot ID: `ZmddWgAAAAAc6HkdBHiwafZUoWX22oIB`
+Snapshot ID: `AAAAAHErOrq1yet7Xw5126PjcWKiMWxA`

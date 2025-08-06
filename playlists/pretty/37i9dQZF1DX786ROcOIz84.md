@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain]
 
 > Our editors' pick of the best lofi tunes this year\. Study, relax, see you in 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,732 likes - 75 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,746 likes - 75 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain]
 | 74 | [SoulShower](https://open.spotify.com/track/5aeQDI9LxC5Aiuc5Vqo65K) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [SoulShower](https://open.spotify.com/album/6JrRnSqrgKmEAIgx6f0qWX) | 3:13 |
 | 75 | [Passengers](https://open.spotify.com/track/1BFDeCPQPrggdlxJVUGdlS) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Lester Nowhere](https://open.spotify.com/artist/0wolj0IKnhhYnBFynfNaQn) | [Passengers](https://open.spotify.com/album/65DeqofWoDSoVvRMHGYAug) | 1:51 |
 
-Snapshot ID: `Z1BIAAAAAAC7USIjiFubBT0cqi7zzcF9`
+Snapshot ID: `AAAAAKzCib95jFXQMs7zzYwp6gsNIHiO`

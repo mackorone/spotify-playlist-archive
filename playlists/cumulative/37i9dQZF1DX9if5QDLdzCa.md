@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-252 songs - 12 hr 4 min
+253 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,9 +84,10 @@
 | [Intense Waves](https://open.spotify.com/track/3Df32CSX8IXm96Wrfi6xaO) | [Di Melting Point](https://open.spotify.com/artist/00BUyp4ARwFm96JWiIaDFK) | [Natural Waves](https://open.spotify.com/album/4x8wKm4OPCiwFUDl81TNRS) | 1:09 | 2021-11-10 | 2023-10-12 |
 | [Intense Waves](https://open.spotify.com/track/1FtSAakJaU7QilpyRo2kmF) | [Waves Hard](https://open.spotify.com/artist/7m2W3E2UoY7QqQqvtuU3p0) | [Waves Hard](https://open.spotify.com/album/3rkI5EXt7Bb3lnECDesp89) | 2:27 | 2021-11-10 |  |
 | [Island Waves](https://open.spotify.com/track/1AKBor4M47I7axiOkCRiqk) | [Hawaiian Explosion](https://open.spotify.com/artist/6UY5lHIUz2dzWHwyGy2DMj) | [Island Waves](https://open.spotify.com/album/6jrW7MXGhQoWkfAajd2Fms) | 3:30 | 2021-11-10 |  |
+| [Just Flowing](https://open.spotify.com/track/4YwFtmZr8DguYlP4gnioFh) | [Luna Unda](https://open.spotify.com/artist/0HFy4weId97uNxqmHzqowN) | [Flow](https://open.spotify.com/album/5WSeUqq3BQFs9wU3bIgyNg) | 6:29 | 2025-07-21 |  |
 | [La Palma Waves](https://open.spotify.com/track/6wW4gCCbApItGoeRDq8gfe) | [X Somnum](https://open.spotify.com/artist/6IhgFJsVFWJ5hdFFUxbMeK) | [La Palma Waves](https://open.spotify.com/album/0PsIYe3RhMh93382cBJeWp) | 3:08 | 2024-03-25 |  |
 | [Lazy Days By The Lake](https://open.spotify.com/track/18uuBGIbhEAJLXzqmsJ43Z) | [Shoreline](https://open.spotify.com/artist/79VpsHg6Cb4FOzObCEh42h) | [Recordings from the lake](https://open.spotify.com/album/0k3ZTo8htaQiSb8LZdwF0f) | 2:24 | 2021-11-10 |  |
-| [Light Ocean Waves](https://open.spotify.com/track/5SxUwK1RuHTLnaP5bgv3Wl) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Light Ocean Waves](https://open.spotify.com/album/0PgPNssEN1eYkysKCgtOGI) | 3:26 | 2023-06-19 |  |
+| [Light Ocean Waves](https://open.spotify.com/track/5SxUwK1RuHTLnaP5bgv3Wl) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Light Ocean Waves](https://open.spotify.com/album/0PgPNssEN1eYkysKCgtOGI) | 3:26 | 2023-06-19 | 2025-08-06 |
 | [Liquid Seas](https://open.spotify.com/track/2OzmqBZDsLbzlUMg4Cw9M3) | [Wavesand](https://open.spotify.com/artist/4EZtMSNcLHaKdfBcrcsRmO) | [Liquid Seas](https://open.spotify.com/album/0PbmrdSxdxhGxeel5aEZlc) | 2:19 | 2021-11-10 |  |
 | [Luscious Wave Sounds](https://open.spotify.com/track/60YCNr1vTbIw2rwmEjzxVf) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Wave Sounds 2](https://open.spotify.com/album/44oisHZw3NOw4AnV9RklCl) | 2:06 | 2021-11-10 |  |
 | [Lush Waves](https://open.spotify.com/track/75hBeoFUIqCtkEnO2c1VKs) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Lush Waves](https://open.spotify.com/album/3HsfMxvNvueXhO9PDqA7Oq) | 2:56 | 2021-11-10 |  |

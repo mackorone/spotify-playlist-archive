@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 36496,
+  "num_followers": 36501,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,18 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Barrio",
-        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
+        "name": "El Jard\u00edn",
+        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
       },
       "artists": [
         {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
         }
       ],
-      "duration_ms": 125861,
-      "name": "Barrio",
-      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
+      "duration_ms": 140500,
+      "name": "El Jard\u00edn",
+      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -83,18 +79,22 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "El Jard\u00edn",
-        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
       },
       "artists": [
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 140500,
-      "name": "El Jard\u00edn",
-      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
+      "duration_ms": 125861,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
+        "name": "Cumbiero",
+        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
         "name": "Moonlight Juice",
         "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 147786,
       "name": "Moonlight Juice",
       "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
-        "name": "Cumbiero",
-        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
+        "name": "Lo-Fi el Panadero Con el Pan",
+        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Lo-Fi el Panadero Con el Pan",
+      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
         "name": "Autorretrato",
         "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 214193,
       "name": "Autorretrato",
       "url": "https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
-        "name": "Lo-Fi el Panadero Con el Pan",
-        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Lo-Fi el Panadero Con el Pan",
-      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -587,18 +587,38 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Nostalgia en Ruta",
-        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
       "artists": [
         {
           "name": "Palmasur",
           "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 115052,
-      "name": "Nostalgia en Ruta",
-      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
+      "duration_ms": 113333,
+      "name": "Vibrando Alto En Tulum",
+      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -627,18 +647,42 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+        "name": "Nos Usamos",
+        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
+        "name": "Bolero lo-fi para el coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7gw1sD1ewqfVJSUGrsakhl"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 143294,
+      "name": "Bolero lo-fi para el coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7oN0peZfa6jylWx4TinJP3"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -675,46 +719,6 @@
       "duration_ms": 129332,
       "name": "Sugar Leafs",
       "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
-        "name": "Bolero lo-fi para el coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7gw1sD1ewqfVJSUGrsakhl"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 143294,
-      "name": "Bolero lo-fi para el coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7oN0peZfa6jylWx4TinJP3"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
-        "name": "Nos Usamos",
-        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -803,26 +807,18 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "I Remember The Time We Spent In The Summercamp",
-        "url": "https://open.spotify.com/album/7irMRjQ33R0pobMg1JCx7o"
+        "name": "Nadie sabe nada de nadie",
+        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
       },
       "artists": [
         {
-          "name": "Bomshi",
-          "url": "https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz"
-        },
-        {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        },
-        {
-          "name": "The Retune Project",
-          "url": "https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 112941,
-      "name": "I Remember The Time We Spent In The Summercamp",
-      "url": "https://open.spotify.com/track/4nsQtyHfmRGGB9iX8bQ6EW"
+      "duration_ms": 179538,
+      "name": "Nadie sabe nada de nadie",
+      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -843,18 +839,26 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Nadie sabe nada de nadie",
-        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
+        "name": "I Remember The Time We Spent In The Summercamp",
+        "url": "https://open.spotify.com/album/7irMRjQ33R0pobMg1JCx7o"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Bomshi",
+          "url": "https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz"
+        },
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "The Retune Project",
+          "url": "https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr"
         }
       ],
-      "duration_ms": 179538,
-      "name": "Nadie sabe nada de nadie",
-      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
+      "duration_ms": 112941,
+      "name": "I Remember The Time We Spent In The Summercamp",
+      "url": "https://open.spotify.com/track/4nsQtyHfmRGGB9iX8bQ6EW"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -947,6 +951,22 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
+        "name": "El Tambor",
+        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        }
+      ],
+      "duration_ms": 106357,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
         "name": "lost in a dream",
         "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
       },
@@ -963,22 +983,6 @@
       "duration_ms": 163333,
       "name": "lost in a dream",
       "url": "https://open.spotify.com/track/2Knc6s3lb5pAAVcetSmu7i"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
-        "name": "El Tambor",
-        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        }
-      ],
-      "duration_ms": 106357,
-      "name": "El Tambor",
-      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1115,26 +1119,6 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Azul (lofi)",
-        "url": "https://open.spotify.com/album/7KRbJAZ2USgekineOZsmlL"
-      },
-      "artists": [
-        {
-          "name": "LatinoFi",
-          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
-        },
-        {
-          "name": "The Remix Station",
-          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
-        }
-      ],
-      "duration_ms": 111560,
-      "name": "Azul - lofi",
-      "url": "https://open.spotify.com/track/2wOHCt4ctDYnYUmkctitAI"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
         "name": "ajijic, jalisco",
         "url": "https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV"
       },
@@ -1175,22 +1159,22 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Lost Memories",
-        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
+        "name": "Azul (lofi)",
+        "url": "https://open.spotify.com/album/7KRbJAZ2USgekineOZsmlL"
       },
       "artists": [
         {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+          "name": "LatinoFi",
+          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
         },
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         }
       ],
-      "duration_ms": 146845,
-      "name": "Lost Memories",
-      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
+      "duration_ms": 111560,
+      "name": "Azul - lofi",
+      "url": "https://open.spotify.com/track/2wOHCt4ctDYnYUmkctitAI"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1227,6 +1211,26 @@
       "duration_ms": 116666,
       "name": "Lofi En La Mamalona",
       "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
+        "name": "Lost Memories",
+        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 146845,
+      "name": "Lost Memories",
+      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1339,26 +1343,6 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
-      },
-      "artists": [
-        {
-          "name": "Raouf Beats",
-          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 111219,
-      "name": "Extra\u00f1os (Strangers)",
-      "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
         "name": "2 de suadero con todo",
         "url": "https://open.spotify.com/album/0PCCDz04565lReyRpRgGUI"
       },
@@ -1375,6 +1359,26 @@
       "duration_ms": 278918,
       "name": "2 de suadero con todo",
       "url": "https://open.spotify.com/track/4P3TFxyAgji4gBWAGzAR56"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+      },
+      "artists": [
+        {
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 111219,
+      "name": "Extra\u00f1os (Strangers)",
+      "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1411,6 +1415,26 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
         "name": "only in memories",
         "url": "https://open.spotify.com/album/11nJ7IKgzmvujw4i6nfhPr"
       },
@@ -1431,22 +1455,18 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
         }
       ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1487,22 +1507,6 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Trompo de Pastor",
-        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
-      },
-      "artists": [
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Trompo de Pastor",
-      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
@@ -1515,26 +1519,6 @@
       "duration_ms": 123243,
       "name": "Cafe y T\u00e9",
       "url": "https://open.spotify.com/track/2DvU4WFADIqoGkvXgVQCqB"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
-        "name": "journey",
-        "url": "https://open.spotify.com/album/2nShXvcFZZtcPfxeTcqofZ"
-      },
-      "artists": [
-        {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
-        },
-        {
-          "name": "Edgar Oca\u00f1a",
-          "url": "https://open.spotify.com/artist/5GmzXCrTDcNn3FyGk7MdK0"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "journey",
-      "url": "https://open.spotify.com/track/7xzJeKJ3k1gHjt1qmtKZXX"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1555,6 +1539,22 @@
       "duration_ms": 150097,
       "name": "Taco de barbacoa",
       "url": "https://open.spotify.com/track/0HmemevuitE85g3zqOVk78"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1583,18 +1583,22 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+        "name": "journey",
+        "url": "https://open.spotify.com/album/2nShXvcFZZtcPfxeTcqofZ"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+        },
+        {
+          "name": "Edgar Oca\u00f1a",
+          "url": "https://open.spotify.com/artist/5GmzXCrTDcNn3FyGk7MdK0"
         }
       ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+      "duration_ms": 205173,
+      "name": "journey",
+      "url": "https://open.spotify.com/track/7xzJeKJ3k1gHjt1qmtKZXX"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1619,22 +1623,6 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "Custard",
-        "url": "https://open.spotify.com/album/5rxBQgiR1YDWfOxiLC7JCu"
-      },
-      "artists": [
-        {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "Custard",
-      "url": "https://open.spotify.com/track/4rDPr3D57E1G2xLpxTAzXI"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
         "name": "Abr\u00e1zame mucho estos d\u00edas",
         "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
       },
@@ -1651,46 +1639,6 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
-        "name": "THIS TENDER APPEAL",
-        "url": "https://open.spotify.com/album/4FXEQpFsX5l7Lb6QCeIgRl"
-      },
-      "artists": [
-        {
-          "name": "Pika Man",
-          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
-        },
-        {
-          "name": "Universatility Group",
-          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "questa terra",
-      "url": "https://open.spotify.com/track/5a0LmcyRxKhHaJJE6uLkry"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
-      },
-      "artists": [
-        {
-          "name": "Ajvsco",
-          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
-        },
-        {
-          "name": "El More",
-          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
-        }
-      ],
-      "duration_ms": 197802,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
         "name": "Sayulita Vibes",
         "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
       },
@@ -1703,6 +1651,22 @@
       "duration_ms": 118588,
       "name": "Sayulita Vibes",
       "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
+        "name": "Custard",
+        "url": "https://open.spotify.com/album/5rxBQgiR1YDWfOxiLC7JCu"
+      },
+      "artists": [
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "Custard",
+      "url": "https://open.spotify.com/track/4rDPr3D57E1G2xLpxTAzXI"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1727,6 +1691,26 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
+      },
+      "artists": [
+        {
+          "name": "Ajvsco",
+          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+        },
+        {
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -1743,6 +1727,26 @@
       "duration_ms": 183370,
       "name": "Martes Azul",
       "url": "https://open.spotify.com/track/7C2znQxQdm8Ck7nvdJnitF"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
+        "name": "THIS TENDER APPEAL",
+        "url": "https://open.spotify.com/album/4FXEQpFsX5l7Lb6QCeIgRl"
+      },
+      "artists": [
+        {
+          "name": "Pika Man",
+          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
+        },
+        {
+          "name": "Universatility Group",
+          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
+        }
+      ],
+      "duration_ms": 93000,
+      "name": "questa terra",
+      "url": "https://open.spotify.com/track/5a0LmcyRxKhHaJJE6uLkry"
     },
     {
       "added_at": "2025-07-18 06:00:09",
@@ -1815,6 +1819,22 @@
     {
       "added_at": "2025-07-18 06:00:09",
       "album": {
+        "name": "Viernes Azul",
+        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Viernes Azul",
+      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
+    },
+    {
+      "added_at": "2025-07-18 06:00:09",
+      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/5v8MUduPnrFiMUIvZyfS1q"
       },
@@ -1831,22 +1851,6 @@
       "duration_ms": 104333,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/4kKKdnlF6IdudQcwnjnTkH"
-    },
-    {
-      "added_at": "2025-07-18 06:00:09",
-      "album": {
-        "name": "To My Past Self",
-        "url": "https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8"
-      },
-      "artists": [
-        {
-          "name": "Donovan's Playground",
-          "url": "https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ"
-        }
-      ],
-      "duration_ms": 111303,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt"
     }
   ],
   "unique_name": "LoFi mexa",

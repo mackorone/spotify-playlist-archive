@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: DJ Tshegu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,910 likes - 65 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,266 likes - 65 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 64 | [Uyaphapha Marn \(feat\. Scotts Maphuma & Kabelo Sings\)](https://open.spotify.com/track/1F3J7D5byxTWbEyhpizptk) | [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Seun1401](https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Kabelo Sings](https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn) | [Uyaphapha Marn \(feat\. Scotts Maphuma & Kabelo Sings\)](https://open.spotify.com/album/6NG399UcNIP6WDH5R9JiJV) | 7:17 |
 | 65 | [Biri Marung \(feat\. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii\)](https://open.spotify.com/track/7MD8gswt08VhFwVF1PR8Mg) | [Mr Pilato](https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa), [Ego Slimflow](https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy), [Tebogo G Mashego](https://open.spotify.com/artist/3U6tzzUuiMZD64IPkutbjM), [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [Biri Marung \(feat\. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii\)](https://open.spotify.com/album/4Q3RdIIabU5csHjoe8b8Qh) | 7:34 |
 
-Snapshot ID: `aIwctAAAAACTTEwaYOEm9h89iqJk7ZLB`
+Snapshot ID: `AAAAAIy/o1jRazdHR6R1EG6dR0HTqchq`

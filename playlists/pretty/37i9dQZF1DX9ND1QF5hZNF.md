@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,852 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,965 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 14 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
 | 15 | [Wicked Games \- Radio Edit](https://open.spotify.com/track/3AchVMlCSZhA3hMKkG7Kpe) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Wicked Games](https://open.spotify.com/album/6uzOfYRbgUn91q4aRRAH1u) | 3:15 |
 | 16 | [Lucky Star](https://open.spotify.com/track/2IMYd9xzr2jJ6GOpYcmJ7Q) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Holseek](https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Lucky Star](https://open.spotify.com/album/2LmebXVmdpNnCxnytWWhxM) | 2:30 |
-| 17 | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
+| 17 | [MIND GAMES](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [MIND GAMES](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
 | 18 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 |
 | 19 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 |
 | 20 | [Bolide allemand \- Jaykill & Sublife Remix](https://open.spotify.com/track/1RSEQ5skCiI2o9lNoUv7go) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Jaykill](https://open.spotify.com/artist/0dGPMxHTZHlIWhNqfrWs9e), [SubLife](https://open.spotify.com/artist/6PZjd0IGgGy8f1kVfKp7sc) | [Bolide allemand](https://open.spotify.com/album/2ggT3ZPX8xC4eUPPlpvAKH) | 5:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Mayana](https://open.spotify.com/track/46fdi4VtT9vhfNsw7NGBNX) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Mayana](https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy) | 3:32 |
 | 60 | [Evening In Summer](https://open.spotify.com/track/0OifrLBpOntNsIMPcBbD52) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU) | [Evening In Summer](https://open.spotify.com/album/7EwyJEilRC30qr9pYGZOZl) | 2:23 |
 
-Snapshot ID: `aIzk7QAAAAAK/PwNCxSQZqD1pw1ebd82`
+Snapshot ID: `AAAAAOKmjhrfiCan2l6nxzbhxbgmr6x2`

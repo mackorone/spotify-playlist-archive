@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 42324,
+  "num_followers": 42327,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAAB7Vx/+9UUzEl0A8/XHEf2H",
+  "snapshot_id": "aI/4AAAAAAATeir/oVm4zv5SMpjhEhAf",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodriguez Rocks: Live In Australia",
-        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+        "name": "Jazz Lounge : pour travailler \u00e0 la maison",
+        "url": "https://open.spotify.com/album/1Oq6ubogSpuGQh0u4zc2uC"
       },
       "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Thomas de Pourquery",
+          "url": "https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe"
+        },
         {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 152444,
-      "name": "Learnin' the Blues",
-      "url": "https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2"
+      "duration_ms": 212680,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/6UBajaTgPGAL0by8OExExG"
     },
     {
       "added_at": null,
@@ -299,26 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Lounge : pour travailler \u00e0 la maison",
-        "url": "https://open.spotify.com/album/1Oq6ubogSpuGQh0u4zc2uC"
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
       },
       "artists": [
-        {
-          "name": "Baptiste Trotignon",
-          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
-        },
-        {
-          "name": "Thomas de Pourquery",
-          "url": "https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe"
-        },
         {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 212680,
-      "name": "Sugar Man",
-      "url": "https://open.spotify.com/track/6UBajaTgPGAL0by8OExExG"
+      "duration_ms": 152444,
+      "name": "Learnin' the Blues",
+      "url": "https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,234 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,912 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,19 +12,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 2 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 |
 | 3 | [Shamballa](https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1) | [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg) | [Shamballa](https://open.spotify.com/album/5JD4AQHlyGOR9w0qXtOavf) | 2:27 |
 | 4 | [Viano](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Encore / Viano](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
-| 5 | [Toi et moi](https://open.spotify.com/track/6D8pnA3WyMrGy8Q2258BC0) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Toi et moi](https://open.spotify.com/album/7prFQUHqq5CDwXE5Org7uy) | 3:21 |
-| 6 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 |
-| 7 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 |
-| 8 | [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 |
-| 9 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
-| 10 | [Ibiza](https://open.spotify.com/track/1n7fqc4bQcxIyxZP2IXVbg) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE) | [C'est pas des LOL](https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT) | 3:55 |
-| 11 | [PROZACZOPIXAN RELOADED](https://open.spotify.com/track/2KdGSv2jbnShvF4GYVtIna) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ) | [PANDEMONIUM RELOADED](https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J) | 2:13 |
-| 12 | [Impardonnable](https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:10 |
-| 13 | [Nagasaki](https://open.spotify.com/track/51QxcyKFOnHGx2Ay12Fbhu) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr) | [Nagasaki](https://open.spotify.com/album/4y1mQndLY4i4DJky4XgFw5) | 2:37 |
-| 14 | [Whine](https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Whine](https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB) | 2:44 |
-| 15 | [Mood](https://open.spotify.com/track/2GJuXOJJEemxrTuKXyR23P) | [13 Block](https://open.spotify.com/artist/7rTPCNINGzMp3Hc8Xqht5Z) | [Mood](https://open.spotify.com/album/4mFUUjx1KljXBO00P6MDsN) | 3:43 |
-| 16 | [Adriano](https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Adriano](https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi) | 2:22 |
-| 17 | [4h44](https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [4h44](https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ) | 1:53 |
+| 5 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 |
+| 6 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 |
+| 7 | [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 |
+| 8 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
+| 9 | [Ibiza](https://open.spotify.com/track/1n7fqc4bQcxIyxZP2IXVbg) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE) | [C'est pas des LOL](https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT) | 3:55 |
+| 10 | [PROZACZOPIXAN RELOADED](https://open.spotify.com/track/2KdGSv2jbnShvF4GYVtIna) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ) | [PANDEMONIUM RELOADED](https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J) | 2:13 |
+| 11 | [Impardonnable](https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:10 |
+| 12 | [Nagasaki](https://open.spotify.com/track/51QxcyKFOnHGx2Ay12Fbhu) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr) | [Nagasaki](https://open.spotify.com/album/4y1mQndLY4i4DJky4XgFw5) | 2:37 |
+| 13 | [Whine](https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Whine](https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB) | 2:44 |
+| 14 | [Mood](https://open.spotify.com/track/2GJuXOJJEemxrTuKXyR23P) | [13 Block](https://open.spotify.com/artist/7rTPCNINGzMp3Hc8Xqht5Z) | [Mood](https://open.spotify.com/album/4mFUUjx1KljXBO00P6MDsN) | 3:43 |
+| 15 | [Adriano](https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Adriano](https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi) | 2:22 |
+| 16 | [4h44](https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [4h44](https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ) | 1:53 |
+| 17 | [00:03](https://open.spotify.com/track/1SC35gqLMGnp1rjBFszBwJ) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [00:03](https://open.spotify.com/album/5XTiBLAvw9nhT23AnvbbYx) | 2:06 |
 | 18 | [Vrais](https://open.spotify.com/track/6WfnzeciIa1Ta661GY9hue) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:03 |
 | 19 | [Pélican](https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Pélican](https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS) | 2:45 |
 | 20 | [Melrose Place](https://open.spotify.com/track/0TYTQ9vAJM0q4qT1mzDeFq) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Melrose Place](https://open.spotify.com/album/0FAFFUdI9WV0PypgJLMkYP) | 2:36 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
 | 90 | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/track/6vAvTYuvHpVBzDOx7W4zJQ) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/1xTOkHI0GDVBNuFutqUmMF) | 1:49 |
 
-Snapshot ID: `aJDIMwAAAADPqyG+I056uLtn6KAS50x8`
+Snapshot ID: `aJHk9wAAAAD805NOZhH2o+27Y4cZmN1/`

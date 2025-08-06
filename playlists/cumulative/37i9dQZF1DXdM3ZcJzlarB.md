@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Varese
 
-302 songs - 1 day 5 hr 13 min
+302 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Morgana](https://open.spotify.com/track/6X0OQT0i0cUrrk5LEfJowc) | [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj) | [Morgana / Toscana / Kaskazi](https://open.spotify.com/album/1xbCeOhci5mBshpP8dbmvg) | 9:12 | 2020-09-04 | 2023-11-11 |
 | [Mormont](https://open.spotify.com/track/5EpcBzEWCGOKXW0X5f45zV) | [Ale Russo](https://open.spotify.com/artist/0A8f47i7flodKdZlcfNggE) | [Mormont / Under The Moon](https://open.spotify.com/album/6zl9lrSab9NKNlbWPJBYYP) | 7:52 | 2020-09-04 | 2023-11-18 |
 | [Move It](https://open.spotify.com/track/67yeBOn7nvDWkjOAZORrzS) | [Nico Falla](https://open.spotify.com/artist/4AkU9yNDom7FVL65WjszS1), [Martin Angrisano \(ARG\)](https://open.spotify.com/artist/4qqTKHcPAqB75sw7TwUB9Y) | [Move It EP](https://open.spotify.com/album/7jeFF0jRs6uDtnJSpR866Y) | 2:50 | 2025-06-06 |  |
-| [Mushrooms \- VegaZ SL Remix \- Mixed](https://open.spotify.com/track/4ah25aaGmCtfPI2Q4qP34X) | [goodkidmadcity](https://open.spotify.com/artist/3TsQkwBefRbM07sSS8fpSR), [Gastón Rodríguez \(AR\)](https://open.spotify.com/artist/1AK2nEhsVnIzaV74hVsAtm), [VegaZ SL](https://open.spotify.com/artist/35TmmeuoCIFr1xEP8DazE0) | [Noche Galactica, Vol\. 11 \(DJ Mix\)](https://open.spotify.com/album/6higzHaZhDAVNtZSLKVDfD) | 5:15 | 2025-06-27 |  |
+| [Mushrooms \- VegaZ SL Remix \- Mixed](https://open.spotify.com/track/4ah25aaGmCtfPI2Q4qP34X) | [goodkidd](https://open.spotify.com/artist/3TsQkwBefRbM07sSS8fpSR), [Gastón Rodríguez \(AR\)](https://open.spotify.com/artist/1AK2nEhsVnIzaV74hVsAtm), [VegaZ SL](https://open.spotify.com/artist/35TmmeuoCIFr1xEP8DazE0) | [Noche Galactica, Vol\. 11 \(DJ Mix\)](https://open.spotify.com/album/6higzHaZhDAVNtZSLKVDfD) | 5:15 | 2025-06-27 |  |
 | [My Love \(Soul\)](https://open.spotify.com/track/2CDGL4qBBR3E2UaFaRLCB8) | [Sol Vietto](https://open.spotify.com/artist/19NMbL7lyVMUILzd1GAtWL) | [My Love](https://open.spotify.com/album/3i27h5xJ1lwMMdFigWvoVD) | 4:11 | 2023-11-17 | 2025-03-20 |
 | [My Own Game](https://open.spotify.com/track/7ehsDztBOjFPBNcAiA6qPC) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [My Own Game](https://open.spotify.com/album/3jmfC10RYxScBCWYHjFQrh) | 4:25 | 2025-02-28 |  |
 | [Nada para siempre](https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:49 | 2024-07-26 | 2025-03-20 |
@@ -249,7 +249,7 @@
 | [Si te Vas](https://open.spotify.com/track/6WRLeJo5Z889waku7dElld) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [Si te Vas](https://open.spotify.com/album/4C1XtgaJyNHJGmIg1v9jYV) | 3:45 | 2025-02-28 |  |
 | [Smoothy](https://open.spotify.com/track/1kKlDmOKaMLAj3gbu0O1xK) | [Chapa & Castelo](https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH) | [Smoothy](https://open.spotify.com/album/0bXhaJCdZZTSaZxMjBbWMm) | 7:06 | 2025-03-19 |  |
 | [Solo le pido a Dios](https://open.spotify.com/track/1skkPGNyYlH65spqAIgs0Q) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [Solo le pido a Dios](https://open.spotify.com/album/6LrfdNpjcDWf0lljGfqrKY) | 6:14 | 2025-02-28 | 2025-03-20 |
-| [Someday](https://open.spotify.com/track/55oVoKcHueAUJYWFHYLhJ0) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Someday](https://open.spotify.com/album/67f7jfkzTyzPvdEVE3mBpQ) | 3:15 | 2025-07-25 |  |
+| [Someday](https://open.spotify.com/track/55oVoKcHueAUJYWFHYLhJ0) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Someday](https://open.spotify.com/album/67f7jfkzTyzPvdEVE3mBpQ) | 1:15 | 2025-07-25 |  |
 | [Something Like This](https://open.spotify.com/track/1kNCtmGN7BKuWZZC3coMDV) | [Muter](https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk) | [Something Like This](https://open.spotify.com/album/1Uvh6MoYnao9DEPoqg91wZ) | 2:49 | 2025-03-19 |  |
 | [Southern Sun \- Anunnakis Remix](https://open.spotify.com/track/3tRyvyNRKsj5GVp6HzZ4Ln) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Anunnakis](https://open.spotify.com/artist/558YA9OfxNMkjUzyRyGRmn), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun \(Anunnakis Remix\)](https://open.spotify.com/album/4o93VExtyaKljkFk3mxJez) | 4:19 | 2024-03-15 |  |
 | [Speak Your Truth](https://open.spotify.com/track/3zyNnvdvhR6uYkpkuFfLNB) | [Zisko](https://open.spotify.com/artist/7zGd5iIunxYB9juugujqqS) | [Speak Your Truth EP](https://open.spotify.com/album/2om3kx2VVpQuk1pLlU7SaM) | 4:52 | 2025-03-20 | 2025-06-06 |

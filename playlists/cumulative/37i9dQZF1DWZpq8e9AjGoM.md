@@ -4,7 +4,7 @@
 
 > The sound of spring.
 
-235 songs - 10 hr 16 min
+237 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Small windows](https://open.spotify.com/track/54PMgKkErM6O1QUgV3Nk3Q) | [Lyla Lyons](https://open.spotify.com/artist/1QwrYOufNq8cKYVIs8ATy1) | [Small windows](https://open.spotify.com/album/2mNM2ui2bPCfElAWPlvl9U) | 2:49 | 2025-03-11 | 2025-04-03 |
 | [Sogni di Notturno](https://open.spotify.com/track/6FnrJardubPPSYmp8oVxyZ) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Sogni di Notturno](https://open.spotify.com/album/7hSrAcxKNUJd1QGTCper6y) | 2:19 | 2025-03-11 |  |
 | [Sojourn](https://open.spotify.com/track/7FBcY1tXW5gAv8kF4nvYq6) | [Henri Fleur](https://open.spotify.com/artist/15cHdlUWr4RxcrF0gyfcCw) | [Sojourn](https://open.spotify.com/album/4wFSklfLWMiu8DlVvPD0nF) | 2:19 | 2025-04-04 | 2025-05-21 |
+| [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-05 |  |
 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 | 2025-03-11 |  |
 | [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 | 2025-03-11 |  |
 | [Spring Around the Corner](https://open.spotify.com/track/5iQj8xPir1hT976PWF5Bea) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Spring Around the Corner](https://open.spotify.com/album/0Ry7qze8hAUuCLyT2aMqD1) | 2:10 | 2025-03-11 |  |
@@ -211,6 +212,7 @@
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2025-03-11 |  |
 | [They'll be out for us](https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [They'll be out for us](https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ) | 2:17 | 2025-03-11 |  |
 | [Thoughts](https://open.spotify.com/track/2junWtiVGC2yG0lbpybRP2) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Thoughts](https://open.spotify.com/album/75joTFFYIbkf9BxF9RfowR) | 2:14 | 2025-03-28 |  |
+| [Through the Gentle Haze](https://open.spotify.com/track/1kyoGHHQAZ1HidriJFl2x0) | [Eldur Hættu](https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8) | [Through the Gentle Haze](https://open.spotify.com/album/3LGOez0TX1PDOLseuLVj3t) | 2:11 | 2025-08-05 |  |
 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 | 2025-03-11 |  |
 | [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 | 2025-03-11 |  |
 | [Time Will Heal](https://open.spotify.com/track/0pmb6g76rV00adDf5xpLIJ) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Time Will Heal](https://open.spotify.com/album/2DrVkyMIctHhYWz0WU7Vfj) | 2:27 | 2025-05-20 |  |

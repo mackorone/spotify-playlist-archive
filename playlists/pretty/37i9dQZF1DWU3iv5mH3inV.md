@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que ta subiendo\. Foto: Jey One
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,879 likes - 110 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,918 likes - 110 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 3 | [Una Chica Good](https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Una Chica Good](https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3) | 2:11 |
 | 4 | [Pretty Little Baby](https://open.spotify.com/track/5yZtuZG7pwnODadEyWvUyL) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Pretty Little Baby](https://open.spotify.com/album/3hr4fBTzj8PxiUdDloKh3K) | 2:11 |
 | 5 | [El Esqueleto](https://open.spotify.com/track/3omdjMeKzznlMu4YpZADSp) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [El Esqueleto](https://open.spotify.com/album/63ff76Auoq6zfeOWbUdJwi) | 2:33 |
-| 6 | [Voltio](https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Voltio](https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03) | 2:13 |
+| 6 | [Voltio](https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Voltio](https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03) | 1:54 |
 | 7 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
 | 8 | [MIAMI](https://open.spotify.com/track/1icArN1DYAfijXGShx9llW) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Track 4 + Track 14](https://open.spotify.com/album/6Q496E7ViJao8G4N4aDqbJ) | 2:14 |
 | 9 | [CELOS](https://open.spotify.com/track/2QcaHpuw9wNCku4Wi5tVTb) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Track 4 + Track 14](https://open.spotify.com/album/6Q496E7ViJao8G4N4aDqbJ) | 2:45 |

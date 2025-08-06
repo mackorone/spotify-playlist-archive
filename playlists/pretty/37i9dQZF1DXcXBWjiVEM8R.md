@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain]
 
 > This is Avicii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,035,525 likes - 59 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,561 likes - 59 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain]
 | 58 | [Sunshine](https://open.spotify.com/track/0PCRR19Pf4iiuvSrPxtQ0x) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 6:00 |
 | 59 | [Collide \- Radio Edit](https://open.spotify.com/track/3bxtgzAeAZPdRtKoPL5GG2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Collide \(Radio Edit\)](https://open.spotify.com/album/3GZwrOSPZpRGFlweFm2x7U) | 3:59 |
 
-Snapshot ID: `AAAAAFvw1FG/IdLu91r2QAfZMG/KbTo3`
+Snapshot ID: `aCZkAAAAAACBbT0125rYrNrYSspg6VVN`

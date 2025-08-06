@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0J0zp7fKKN.md) - [plain]
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,811 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,899 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0J0zp7fKKN.md) - [plain]
 | 61 | [Lights, Camera, Action!](https://open.spotify.com/track/36gOOIQaBwXZVKL5z2vC3Z) | [Mr\. Cheeks](https://open.spotify.com/artist/0UeVxCKyBypjQvDCT889zt) | [John P\. Kelly](https://open.spotify.com/album/5gY77QhEAvYAjYBN0WgEv0) | 4:21 |
 | 62 | [Okay \(feat\. Lil Jon & YoungBloodZ\)](https://open.spotify.com/track/1e5ayf28RKanXy0NNJVANp) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq) | [Complicated](https://open.spotify.com/album/3KNzGIMzjSY0x2HV3Lm53c) | 4:43 |
 
-Snapshot ID: `Zy5n7AAAAAC+W6i6VNFDkbJkvfsulZGl`
+Snapshot ID: `AAAAAMZTTjkD2KuDWY7TCTma1hCy7aW0`

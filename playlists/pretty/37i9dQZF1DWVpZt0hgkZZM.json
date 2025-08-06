@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 41236,
+  "num_followers": 41254,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
+      },
+      "artists": [
+        {
+          "name": "La Familia Andr\u00e9",
+          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Senta Danada",
         "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 172621,
       "name": "Senta Danada",
       "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
-      },
-      "artists": [
-        {
-          "name": "La Familia Andr\u00e9",
-          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "De Oro",
-      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Grandes de la Cumbia Tropical",
-        "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 212952,
-      "name": "Mar de Emociones",
-      "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Grandes de la Cumbia Tropical",
+        "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 212952,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Afrosound",
-        "url": "https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 243054,
-      "name": "Ag\u00fcita e Coco - Instrumental",
-      "url": "https://open.spotify.com/track/0dwH1sfUCF7U6ZwaU9XoId"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/7CsmHsSsuGjCr3FyMZDkMd"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Afrosound",
+        "url": "https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "duration_ms": 243054,
+      "name": "Ag\u00fcita e Coco - Instrumental",
+      "url": "https://open.spotify.com/track/0dwH1sfUCF7U6ZwaU9XoId"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/4DI822RRc3lVOKz4ed1MSF"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 292352,
       "name": "Te Har\u00e9 Cambiar",
       "url": "https://open.spotify.com/track/7jWjLAC9IBsWWcfpqLU23I"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/4DI822RRc3lVOKz4ed1MSF"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
         }
       ],
-      "duration_ms": 234231,
-      "name": "Qu\u00e9 Lindo Es Quererte",
-      "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
+      "duration_ms": 242224,
+      "name": "Encanto",
+      "url": "https://open.spotify.com/track/3AxARmSZAUeLbeXNfEAYFv"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
         }
       ],
-      "duration_ms": 242224,
-      "name": "Encanto",
-      "url": "https://open.spotify.com/track/3AxARmSZAUeLbeXNfEAYFv"
+      "duration_ms": 234231,
+      "name": "Qu\u00e9 Lindo Es Quererte",
+      "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1631,22 +1631,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de 14 Vallenatos Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U"
+        "name": "Costa Alegre",
+        "url": "https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "La Nueva Generaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
+          "name": "V\u00edctor Salamanca",
+          "url": "https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI"
         }
       ],
-      "duration_ms": 278691,
-      "name": "Muero por Verla",
-      "url": "https://open.spotify.com/track/2CIWM6twdjSFIsw2LSVKyc"
+      "duration_ms": 163108,
+      "name": "El Escorpi\u00f3n",
+      "url": "https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1663,6 +1659,26 @@
       "duration_ms": 226184,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de 14 Vallenatos Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "La Nueva Generaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
+        }
+      ],
+      "duration_ms": 278691,
+      "name": "Muero por Verla",
+      "url": "https://open.spotify.com/track/2CIWM6twdjSFIsw2LSVKyc"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1707,22 +1723,6 @@
       "duration_ms": 219352,
       "name": "Tania",
       "url": "https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Costa Alegre",
-        "url": "https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Salamanca",
-          "url": "https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI"
-        }
-      ],
-      "duration_ms": 163108,
-      "name": "El Escorpi\u00f3n",
-      "url": "https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q"
     },
     {
       "added_at": "2024-07-12 23:11:55",

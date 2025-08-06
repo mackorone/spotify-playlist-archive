@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/30eZ6nN8mdJAXaVQQSh6YA"
+      },
+      "artists": [
+        {
+          "name": "EZ Ice",
+          "url": "https://open.spotify.com/artist/4NZklHPG05LMNCqbffWkpG"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163115,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/1V1Ej2Pl51pmoVzL2qN4Sn"
+    },
+    {
+      "album": {
         "name": "Lickity Splickity",
         "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
       },

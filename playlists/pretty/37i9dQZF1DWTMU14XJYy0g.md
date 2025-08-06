@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Barbi Recanati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,783 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,776 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Corpiños](https://open.spotify.com/track/0he2pDZz4tYGsSTNDZUWex) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Corpiños](https://open.spotify.com/album/1X3h0cRHuVDj42UFh0OyBR) | 4:05 |
 | 100 | [Yo Me Quedo](https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Yo Me Quedo / Todo El Bien](https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz) | 2:54 |
 
-Snapshot ID: `AAAAABHvnwDTAx1ofoaU55DqLHThggg1`
+Snapshot ID: `aIwtuQAAAADQPEBtFA0lNwzOkPb5kJVY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop! Nieuw: KATNUF & Tabitha \(cover\), Zoë Livay, Roxy Dekker en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,573 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,572 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 74 | [Marathon](https://open.spotify.com/track/6Q2rqIUFhHAoGDpcv7JQeY) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Marathon](https://open.spotify.com/album/5VHOkYdgZW38bN4O5k7UgJ) | 2:38 |
 | 75 | [Alleen op de wereld](https://open.spotify.com/track/1jf4FPYzBsk1fVer0iZWab) | [LUUK](https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1) | [Alleen op de wereld](https://open.spotify.com/album/5MRBUpQbMCON0mx61DzAFL) | 2:14 |
 
-Snapshot ID: `aJEtaAAAAAAqiAJmYhX26woiwrpTaE1G`
+Snapshot ID: `AAAAAOecaNIa3oZqTfzcjxqfVXkNwgX3`

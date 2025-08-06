@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > una guitarra y mucho sentimiento para cantar\. Arath Herce en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,666 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,686 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 59 | [Amigos](https://open.spotify.com/track/7neyy61UqoctoI9ouUyFJd) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Amigos](https://open.spotify.com/album/7FXxxX3233WGt9NLhnPvMC) | 3:16 |
 | 60 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
 
-Snapshot ID: `AAAAAJ8z8dYRKQYZJPGrTssq5rAoGY2w`
+Snapshot ID: `AAAAAKnnj9LEZFRzgEEQijLpUdyM81zp`

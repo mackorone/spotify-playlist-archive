@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Amo",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: ziproom",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1266,6 +1266,24 @@
       "duration_ms": 149572,
       "name": "ALL DAYS",
       "url": "https://open.spotify.com/track/6EaYcsHsDDuvicUeAt4kBd"
+    },
+    {
+      "album": {
+        "name": "ALL EYES ON ME",
+        "url": "https://open.spotify.com/album/0Gpd7U4hqBQDBNJBZrYurJ"
+      },
+      "artists": [
+        {
+          "name": "v3geboy",
+          "url": "https://open.spotify.com/artist/6o5b0gyvclyErlTzoECnJ8"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113655,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/5mZ36S4w1cx9HlbdZBIuIM"
     },
     {
       "album": {
@@ -3655,6 +3673,28 @@
     },
     {
       "album": {
+        "name": "Loco Lunch",
+        "url": "https://open.spotify.com/album/5dkYXP7OLnKNmMrXNdcNcg"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        },
+        {
+          "name": "Lil Mafuyu",
+          "url": "https://open.spotify.com/artist/5wSugh7oHcNNpzvKHZTMgY"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119700,
+      "name": "CHOO IIKO (feat. Lil Mafuyu)",
+      "url": "https://open.spotify.com/track/2vYwj3WEg316UTRZ0lxTYy"
+    },
+    {
+      "album": {
         "name": "MATSURI",
         "url": "https://open.spotify.com/album/7affgEpm5B1mwdgPBlvCTw"
       },
@@ -4594,7 +4634,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 159927,
       "name": "Dive",
       "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
@@ -6106,6 +6146,24 @@
       "duration_ms": 124724,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/7aEAiYoJW4QySVB260xtTa"
+    },
+    {
+      "album": {
+        "name": "FEEL LIKE THIS",
+        "url": "https://open.spotify.com/album/0simDSpVggc9FAOTaG5Zen"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/0OvP9ZkETqzwMVIB8kEC93"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96780,
+      "name": "FEEL LIKE THIS",
+      "url": "https://open.spotify.com/track/3kzHFjDretlH3uM6MpbdlZ"
     },
     {
       "album": {
@@ -9788,7 +9846,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 131374,
       "name": "Katsushika",
       "url": "https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf"
@@ -10254,7 +10312,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 207857,
       "name": "Landscape",
       "url": "https://open.spotify.com/track/1fueh4THH0z9BP757rWmeI"
@@ -10494,7 +10552,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 166720,
       "name": "Life has changed",
       "url": "https://open.spotify.com/track/5gJGF6bSk2EBhvQ3EVLPrl"
@@ -11578,6 +11636,24 @@
       "duration_ms": 137100,
       "name": "mind",
       "url": "https://open.spotify.com/track/0zYcvSK1kGlReKyKJYPVOJ"
+    },
+    {
+      "album": {
+        "name": "MINT",
+        "url": "https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141145,
+      "name": "MINT",
+      "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
     },
     {
       "album": {
@@ -13133,6 +13209,28 @@
     },
     {
       "album": {
+        "name": "OKAY!!!",
+        "url": "https://open.spotify.com/album/6l0H9EXgxP4YIIiIXv54Hc"
+      },
+      "artists": [
+        {
+          "name": "XAN",
+          "url": "https://open.spotify.com/artist/5NfqonprYhdYuBctIrOv6B"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160221,
+      "name": "OKAY!!!",
+      "url": "https://open.spotify.com/track/0dqfX10E5vLff5tFEeYSB8"
+    },
+    {
+      "album": {
         "name": "Okinawa",
         "url": "https://open.spotify.com/album/3jEtZeVegDHJDls2wlTOjG"
       },
@@ -13808,7 +13906,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 129276,
       "name": "PARADOX",
       "url": "https://open.spotify.com/track/2k3n4QTwWpvAIlHpRrsI8N"
@@ -15831,6 +15929,24 @@
     },
     {
       "album": {
+        "name": "Secret Luv",
+        "url": "https://open.spotify.com/album/339EWqYUlFEUlpYApsXbaz"
+      },
+      "artists": [
+        {
+          "name": "whimsyboy",
+          "url": "https://open.spotify.com/artist/2CX0MgEcYXDiBTBWjPnFp8"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138556,
+      "name": "Secret Luv",
+      "url": "https://open.spotify.com/track/6Pcvbk6tmNy2GTw3G9Pq3q"
+    },
+    {
+      "album": {
         "name": "641-0001-5",
         "url": "https://open.spotify.com/album/1EkwUfyX7IfE7uecCc8fuF"
       },
@@ -16522,7 +16638,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 127535,
       "name": "Sleek Bun",
       "url": "https://open.spotify.com/track/6FsCCWKaOznJfZCHXNUfbb"
@@ -18058,6 +18174,24 @@
       "duration_ms": 174400,
       "name": "Time (feat. Tade Dust)",
       "url": "https://open.spotify.com/track/5XPvqUjBuMjcPAVBaoXbyo"
+    },
+    {
+      "album": {
+        "name": "Making a Way",
+        "url": "https://open.spotify.com/album/337SqZsxMoziug8hTkElop"
+      },
+      "artists": [
+        {
+          "name": "interplay",
+          "url": "https://open.spotify.com/artist/3aqzl6USx71Kd6SxlOsNz0"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Time is Now",
+      "url": "https://open.spotify.com/track/1MU8Rs5rnVuxbM7qU5ljnu"
     },
     {
       "album": {

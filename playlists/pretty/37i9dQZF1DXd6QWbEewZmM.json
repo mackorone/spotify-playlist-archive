@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 302774,
+  "num_followers": 302918,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Platicame De Ti",
+      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "ETERNIDAD",
         "url": "https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 175375,
       "name": "ETERNIDAD",
       "url": "https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Platicame De Ti",
-      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Malandro Enamorado",
-        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Y Su Equipo Escoltado",
-          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
-        }
-      ],
-      "duration_ms": 216980,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Siendo Sincero",
         "url": "https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 174000,
       "name": "Siendo Sincero",
       "url": "https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "Malandro Enamorado",
+        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Y Su Equipo Escoltado",
+          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
+        }
+      ],
+      "duration_ms": 216980,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Es Diferente",
-        "url": "https://open.spotify.com/album/1G4PFNNCrqMyZfkEynA0PG"
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
       "artists": [
         {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 243029,
-      "name": "Es Diferente",
-      "url": "https://open.spotify.com/track/2jNBVmei23ag6hYbxiZr8A"
+      "duration_ms": 215303,
+      "name": "Sigues Siendo Tu - En vivo",
+      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+        "name": "Es Diferente",
+        "url": "https://open.spotify.com/album/1G4PFNNCrqMyZfkEynA0PG"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
         }
       ],
-      "duration_ms": 215303,
-      "name": "Sigues Siendo Tu - En vivo",
-      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
+      "duration_ms": 243029,
+      "name": "Es Diferente",
+      "url": "https://open.spotify.com/track/2jNBVmei23ag6hYbxiZr8A"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 235152,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
         "name": "Cartas",
         "url": "https://open.spotify.com/album/6WZShqo7ZujFuNJS7Aeoa1"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 153827,
       "name": "Cartas",
       "url": "https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 235152,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "LHTL",
-        "url": "https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 234734,
-      "name": "LHTL",
-      "url": "https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Superando...y Mas",
         "url": "https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 260364,
       "name": "Superando",
       "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "LHTL",
+        "url": "https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 234734,
+      "name": "LHTL",
+      "url": "https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Corridos 100% Callejeros (Vol. 1)",
-        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Beso De Peda",
-      "url": "https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "No Est\u00e1 Funcionando",
         "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
       },
@@ -2175,8 +2155,28 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3vzNE4iHp8Tjz4pNxezDRb"
+        "name": "Corridos 100% Callejeros (Vol. 1)",
+        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Beso De Peda",
+      "url": "https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "Tomando",
+        "url": "https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2"
       },
       "artists": [
         {
@@ -2184,9 +2184,9 @@
           "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6ycrt2KyR7HLWB0E9VTkt9"
+      "duration_ms": 199536,
+      "name": "Tomando",
+      "url": "https://open.spotify.com/track/1CGht82S5X0ZZiEqDaFdGI"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2255,8 +2255,8 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Tomando",
-        "url": "https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3vzNE4iHp8Tjz4pNxezDRb"
       },
       "artists": [
         {
@@ -2264,9 +2264,9 @@
           "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 199536,
-      "name": "Tomando",
-      "url": "https://open.spotify.com/track/1CGht82S5X0ZZiEqDaFdGI"
+      "duration_ms": 234000,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6ycrt2KyR7HLWB0E9VTkt9"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Rodeo Drive",
-        "url": "https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11"
-      },
-      "artists": [
-        {
-          "name": "Drian",
-          "url": "https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K"
-        }
-      ],
-      "duration_ms": 128213,
-      "name": "Rodeo Drive",
-      "url": "https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "Ojos Vac\u00edos",
         "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
       },
@@ -2431,18 +2415,18 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "INERCIA",
-        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
+        "name": "Rodeo Drive",
+        "url": "https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11"
       },
       "artists": [
         {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+          "name": "Drian",
+          "url": "https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K"
         }
       ],
-      "duration_ms": 220250,
-      "name": "Mi Soledad",
-      "url": "https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC"
+      "duration_ms": 128213,
+      "name": "Rodeo Drive",
+      "url": "https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2459,6 +2443,22 @@
       "duration_ms": 230368,
       "name": "Tierra de los Olvidados",
       "url": "https://open.spotify.com/track/3njxvE2qVZ1XbsxYD1SMXE"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "INERCIA",
+        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 220250,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC"
     },
     {
       "added_at": "2025-02-04 03:46:56",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2025-02-04 03:46:56",
       "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Las Ganas",
-      "url": "https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw"
-    },
-    {
-      "added_at": "2025-02-04 03:46:56",
-      "album": {
         "name": "T\u00fa No Vuelves",
         "url": "https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 203723,
       "name": "T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44"
+    },
+    {
+      "added_at": "2025-02-04 03:46:56",
+      "album": {
+        "name": "Tres Mundos",
+        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Las Ganas",
+      "url": "https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw"
     },
     {
       "added_at": "2025-02-04 03:46:56",

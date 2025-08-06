@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 14848,
+  "num_followers": 14855,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
+        "name": "Agbadza Gospel Medley II (Live)",
+        "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
+      },
+      "artists": [
+        {
+          "name": "Bethel Revival Choir",
+          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+        }
+      ],
+      "duration_ms": 513044,
+      "name": "Agbadza Gospel Medley II (Live)",
+      "url": "https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 146779,
       "name": "Chale",
       "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
-        "name": "Agbadza Gospel Medley II (Live)",
-        "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
-      },
-      "artists": [
-        {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
-        }
-      ],
-      "duration_ms": 513044,
-      "name": "Agbadza Gospel Medley II (Live)",
-      "url": "https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT"
     },
     {
       "added_at": "2025-04-11 00:01:31",

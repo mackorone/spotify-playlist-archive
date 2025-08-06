@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Emilia, Rauw Alejandro, Danny Ocean, J Abecia, Mushkaa y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,986 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,004 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 33 | [Gafas de Sol](https://open.spotify.com/track/0Jb95iL8Fjxtv4dh5qcLt9) | [Fresquito](https://open.spotify.com/artist/1fURW117sgaPpgIoz8YLXW), [Mango](https://open.spotify.com/artist/1hus2QLWtdEpTUSgopRRZq) | [Gafas de Sol](https://open.spotify.com/album/7LcVcUXdpWh4z4rYArUGrP) | 2:02 |
 | 34 | [TOTA 2006](https://open.spotify.com/track/5yjVlb3u73eZX7bun60GLo) | [Beauty Pikete](https://open.spotify.com/artist/3MpMuiI6gcFqUWmw54W3iB), [WEST DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq) | [TOTA 2006](https://open.spotify.com/album/1MEib2qo8bYOxCZCCBZEuB) | 2:42 |
 | 35 | [16](https://open.spotify.com/track/6JONsoOlt1pQFshri5qcOt) | [KYR4](https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2), [Vnder](https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb), [SLOWMXBEATZ](https://open.spotify.com/artist/1r1zyjf5wMrGc37Zn4JLhH) | [16](https://open.spotify.com/album/5NUprK3SuVJzsTOZ70Ym2w) | 3:38 |
-| 36 | [Volver](https://open.spotify.com/track/3ydPEak8XnDIIPjI3GG8gi) | [Bores D](https://open.spotify.com/artist/4W8h2ExvQpRm0A7fPst5Kw), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Temas de verano 2](https://open.spotify.com/album/4AZqqLKuvp1iaSL034636B) | 2:24 |
+| 36 | [Volver](https://open.spotify.com/track/3ydPEak8XnDIIPjI3GG8gi) | [Bores D](https://open.spotify.com/artist/4W8h2ExvQpRm0A7fPst5Kw), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Temas de Verano 2](https://open.spotify.com/album/4AZqqLKuvp1iaSL034636B) | 2:24 |
 | 37 | [FAR CRY](https://open.spotify.com/track/53kIVPhDqaUzpOsc4h0HL7) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Brocki](https://open.spotify.com/artist/4O8h3XRpqE3SMxLQaHjRlK) | [FAR CRY](https://open.spotify.com/album/08pmCUIFTxKkiqRnDtUtYe) | 2:29 |
 | 38 | [Dime](https://open.spotify.com/track/4R6FsEosZEko5S92ne5QyV) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dime](https://open.spotify.com/album/5rcb27gz7zYhz2LASit9cF) | 3:40 |
 | 39 | [Sí](https://open.spotify.com/track/1ZmifnETXF3y0oB4TaBYtj) | [MARTIN](https://open.spotify.com/artist/0WaT9IZwWiA0LuYWlVrKtL) | [Sí](https://open.spotify.com/album/26f5Tw89iNtrgWE4DNDb5l) | 2:53 |

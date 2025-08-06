@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels, featuring Baby Yami\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,029 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,040 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 48 | [Decreto + Gratitud](https://open.spotify.com/track/0fEze9a2Q5HIuyL6g6af0i) | [El Dam](https://open.spotify.com/artist/7heSJfsQ8yE1pzPi4JIWDN) | [Desde el alma](https://open.spotify.com/album/3c5Dq6INcLsOWZdmtwi3Ee) | 3:04 |
 | 49 | [Película](https://open.spotify.com/track/3T0sR45JxRj7jJSl2JOsHR) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Película](https://open.spotify.com/album/0tnJFppPcKm4N9Y9hmQjaR) | 3:17 |
 
-Snapshot ID: `aHkmbAAAAABt5cE397Zxp6ztxPxLR9r5`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

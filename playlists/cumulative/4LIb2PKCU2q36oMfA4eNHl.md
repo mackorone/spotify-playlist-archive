@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-308 songs - 19 hr 46 min
+309 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Empty](https://open.spotify.com/track/2wx4Ly6Cbi4j0fBGYYSNNl) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Longing EP](https://open.spotify.com/album/1JN4XsXhTnQ6WmNkAVvh5j) | 4:21 | 2025-02-21 |  |
 | [Entangled](https://open.spotify.com/track/5802VW3sVbchM6EkEavcUt) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 3:04 | 2023-12-08 | 2024-02-17 |
 | [Erase \(An Apparition\)](https://open.spotify.com/track/3YubJlJNgsLhggBLTUdtZx) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Apparitions](https://open.spotify.com/album/1mcEBBcWomsTWDQYWOaH8D) | 4:18 | 2025-01-13 | 2025-04-05 |
+| [Everything](https://open.spotify.com/track/2AinCcHQcadlZFOEE0OXK8) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [Missing Places I've Never Been](https://open.spotify.com/album/0PbMNDMPVfWieY0Mvl9p61) | 5:33 | 2025-08-05 |  |
 | [Everything Blooms Around Her](https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Everything Blooms Around Her](https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU) | 3:50 | 2024-07-05 | 2024-08-24 |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-14 |  |
 | [Faber](https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 3:27 | 2024-10-04 |  |
@@ -189,7 +190,7 @@
 | [Magnolia](https://open.spotify.com/track/5sa8RhxrOzLUOuCgwpGpWb) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Magnolia](https://open.spotify.com/album/5WyNgwQ9DQ1GPPGquKmj5F) | 2:33 | 2024-02-02 | 2024-06-15 |
 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 | 2025-02-21 |  |
 | [Maybe It Was Already Here](https://open.spotify.com/track/4Om2YCCAQedz29TCRK2PwQ) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 2:18 | 2025-01-13 | 2025-05-24 |
-| [maybe we’re different and everything is still the same](https://open.spotify.com/track/2iLbKE6M5c1S8X6pUXQXUx) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Leaving Laurel](https://open.spotify.com/album/7JdHbGAS2cIjeMww8hlKcE) | 2:38 | 2025-01-13 |  |
+| [maybe we’re different and everything is still the same](https://open.spotify.com/track/2iLbKE6M5c1S8X6pUXQXUx) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Leaving Laurel](https://open.spotify.com/album/7JdHbGAS2cIjeMww8hlKcE) | 2:38 | 2025-01-13 | 2025-08-06 |
 | [Medi](https://open.spotify.com/track/5qlRBDvAOo7QjNjG3o5aMf) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness EP](https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy) | 4:31 | 2024-03-01 | 2024-05-24 |
 | [Meliadi](https://open.spotify.com/track/7q0hKCMq8bSTB6z6BSXQ2a) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Meliadi](https://open.spotify.com/album/2uerceDrS1RHxnrpNq8Zz7) | 2:46 | 2025-01-17 |  |
 | [Mellowness Of The Heart](https://open.spotify.com/track/3ihuiqzWNyixSqftwLcL0q) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 4:28 | 2024-11-01 |  |

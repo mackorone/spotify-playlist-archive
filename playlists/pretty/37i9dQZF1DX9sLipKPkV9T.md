@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר:נועה קירל
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,089 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,097 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 59 | [אבא תציל אותי](https://open.spotify.com/track/0Ld99iorPgMTRE2BTecOGq) | [Sheer Zuares](https://open.spotify.com/artist/6A7zj7m35jN7X2u49Sy52r) | [שיר](https://open.spotify.com/album/1jyTuoysCelRU9I9AAIF5v) | 2:49 |
 | 60 | [משהו אחר](https://open.spotify.com/track/7cqdH5LgHJsorTvwtAMmYF) | [Eldad Zitrin](https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [משהו אחר](https://open.spotify.com/album/3sRSX68JBe65QH4N1ip1wW) | 2:31 |
 
-Snapshot ID: `aIvZYwAAAABeE8SEeHqBp7WQangzJYun`
+Snapshot ID: `AAAAACL8IRJ8G3cm6RH92fsg3nGirjst`

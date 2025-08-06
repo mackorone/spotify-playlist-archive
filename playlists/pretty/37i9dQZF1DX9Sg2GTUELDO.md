@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 李芯駖
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,057 likes - 530 songs - 1 day 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,060 likes - 530 songs - 1 day 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -539,4 +539,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 529 | [座右銘](https://open.spotify.com/track/0wrcgFagQjRcXmuGRm8p0C) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [In Control](https://open.spotify.com/album/687bmgPYRYsFGrdnRfTniL) | 3:56 |
 | 530 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 |
 
-Snapshot ID: `AAAAAIOxYn9sNxjhAyKdV5zb2a/5BdUS`
+Snapshot ID: `aIxhMwAAAACfa1OKpeTRaiytgh/ySUHE`

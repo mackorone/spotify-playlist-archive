@@ -3937,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a"
+      },
+      "artists": [
+        {
+          "name": "Leonard Czernay",
+          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145217,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ"
+    },
+    {
+      "album": {
         "name": "Raining Stars",
         "url": "https://open.spotify.com/album/365qk1heQP6e6IGmaZycSe"
       },
@@ -5061,6 +5079,24 @@
     },
     {
       "album": {
+        "name": "The Road Leading Home",
+        "url": "https://open.spotify.com/album/787Zif3QbLeV0K7IDRKgnp"
+      },
+      "artists": [
+        {
+          "name": "Isora Hill",
+          "url": "https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156289,
+      "name": "The Road Leading Home",
+      "url": "https://open.spotify.com/track/6MjhNXAhiZn5q8233Uzxn7"
+    },
+    {
+      "album": {
         "name": "The Sacrament",
         "url": "https://open.spotify.com/album/6PCHBDH0Zpllxm3FKuBnMz"
       },
@@ -5292,7 +5328,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 147944,
       "name": "Time Will Heal",
       "url": "https://open.spotify.com/track/0pmb6g76rV00adDf5xpLIJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,560 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,587 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 53 | [Hope You Understand Me](https://open.spotify.com/track/23dHiDEw7ljPqmthWInVds) | [Tiffany Evans](https://open.spotify.com/artist/3CoW2DhcuWKs93YEjEY5Eq) | [Hope You Understand Me](https://open.spotify.com/album/40BuVcBOhEeXmyJpR3LtIF) | 3:13 |
 | 54 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 
-Snapshot ID: `aIxWvwAAAADUCPguoZhb0Mm79yu9KKT5`
+Snapshot ID: `AAAAANg3QNbCH+T49UPhq51B5aFI1//2`

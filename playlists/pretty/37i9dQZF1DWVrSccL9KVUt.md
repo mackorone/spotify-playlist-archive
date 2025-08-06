@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,045 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,065 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 69 | [Didn't Know I Needed](https://open.spotify.com/track/1wrZnOAjD2S9Af1zEY5X4O) | [Steph Andrews](https://open.spotify.com/artist/4FnTMVmIxn0KHS5IplpaLD) | [Dare to Behold](https://open.spotify.com/album/6zXzfwhSC8ptOxo0VLi8S2) | 3:25 |
 | 70 | [Something More](https://open.spotify.com/track/7kKN9NjsDL4C95WIjKSyQr) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Something More](https://open.spotify.com/album/4vrjC5Da5RlIXAAOF4fAYC) | 3:42 |
 
-Snapshot ID: `aJFN1AAAAAD9V2QJTOy97iy3bRXYXVcb`
+Snapshot ID: `AAAAAFRm6+/KaGFWW2HZASfUs5bCWRN+`

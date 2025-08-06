@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 346914,
+  "num_followers": 346906,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Like Flowers In The Sun",
+        "url": "https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 238571,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Songs from Home",
         "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 229800,
       "name": "If it wasn't for Jesus",
       "url": "https://open.spotify.com/track/7FVckXqUw0kkUU00TxCvV4"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Like Flowers In The Sun",
-        "url": "https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 238571,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 242432,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "This is How I Thank The Lord (Acoustic)",
         "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 178548,
       "name": "This Is How I Thank The Lord - Acoustic",
       "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 242432,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Simple Phrase",
-        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Simple Phrase",
-      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Psalm 42 (Loudest Praise)",
         "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
       },
@@ -963,6 +947,42 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Simple Phrase",
+        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Simple Phrase",
+      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Prayers Filled With Praises (ambient)",
+        "url": "https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F"
+      },
+      "artists": [
+        {
+          "name": "Austin Ludwig",
+          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 246043,
+      "name": "Prayers Filled With Praises - ambient",
+      "url": "https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Goodbye Yesterday",
         "url": "https://open.spotify.com/album/3wrSWEbC9DSO09KnV9bDoI"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 196878,
       "name": "Goodbye Yesterday",
       "url": "https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Prayers Filled With Praises (ambient)",
-        "url": "https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F"
-      },
-      "artists": [
-        {
-          "name": "Austin Ludwig",
-          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 246043,
-      "name": "Prayers Filled With Praises - ambient",
-      "url": "https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1167,6 +1167,38 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Sparrows (Acoustic)",
+        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Sparrows - Acoustic",
+      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/0fUS3GFhw8Fc2zi94hbOlG"
       },
@@ -1203,38 +1235,6 @@
       "duration_ms": 164605,
       "name": "Do it Afraid",
       "url": "https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Sparrows (Acoustic)",
-        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Sparrows - Acoustic",
-      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 378379,
+      "name": "Providence",
+      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Graves Into Gardens",
         "url": "https://open.spotify.com/album/1K5cVcwIdfduyciXSQJtUG"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 212234,
       "name": "Holy",
       "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 378379,
-      "name": "Providence",
-      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Lord I Need You",
-        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "Lord I Need You",
-      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "prove it",
         "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 162666,
       "name": "prove it",
       "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Lord I Need You",
+        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "Lord I Need You",
+      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
+        "name": "Sanctuary (Live from Ocean Way)",
+        "url": "https://open.spotify.com/album/4IgmJsW7w50QBm7ywRHp9Z"
+      },
+      "artists": [
+        {
+          "name": "Abby Robertson",
+          "url": "https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7"
+        }
+      ],
+      "duration_ms": 233709,
+      "name": "Sanctuary - Live from Ocean Way",
+      "url": "https://open.spotify.com/track/5H2SMaHabl8CZue8O6NQDX"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
         "name": "Heart of Worship: Songs for Prayer and Reflection",
         "url": "https://open.spotify.com/album/7rN2lXBTRTT0DAfJT0rZqn"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 382058,
       "name": "Only Yeshua | Every Tongue | Take Over",
       "url": "https://open.spotify.com/track/2ypOAFsA9G8yO38nH4ep81"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Sanctuary (Live from Ocean Way)",
-        "url": "https://open.spotify.com/album/4IgmJsW7w50QBm7ywRHp9Z"
-      },
-      "artists": [
-        {
-          "name": "Abby Robertson",
-          "url": "https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7"
-        }
-      ],
-      "duration_ms": 233709,
-      "name": "Sanctuary - Live from Ocean Way",
-      "url": "https://open.spotify.com/track/5H2SMaHabl8CZue8O6NQDX"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
       "artists": [
         {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
         }
       ],
-      "duration_ms": 290526,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     }
   ],
   "unique_name": "Be Still",

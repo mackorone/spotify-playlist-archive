@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain]
 
 > Enjoy the 2NE1 Seoul concert LIVE SET including the voices of them on stage! \(2NE1의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,968 likes - 26 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,979 likes - 26 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain]
 | 25 | [2NE1's Final Comments of the Night](https://open.spotify.com/track/3bAOsyZWg63a1WnKTc8cbF) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 CONCERT \[WELCOME BACK\] \(LIVE\)](https://open.spotify.com/album/6OiCo6f12LZXVF1UTHxe4S) | 1:30 |
 | 26 | [I Am the Best \(내가 제일 잘 나가\)](https://open.spotify.com/track/0duGEEnNcvRgkeoZVx6qFu) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 2nd Mini Album](https://open.spotify.com/album/0zWLbtlKLJINtIiqnSXqag) | 3:30 |
 
-Snapshot ID: `ZxtqmwAAAABVW0Bju6dmdvETnpfb48Aq`
+Snapshot ID: `AAAAAO+a1K4jdM1hwisqR/5dMjFk6qqD`

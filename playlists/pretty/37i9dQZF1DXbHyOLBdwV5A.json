@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 129314,
+  "num_followers": 129319,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,26 @@
     {
       "added_at": "2025-07-19 03:29:40",
       "album": {
+        "name": "Voc\u00ea Me Mudou",
+        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
+      },
+      "artists": [
+        {
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 183682,
+      "name": "Voc\u00ea Me Mudou",
+      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
+    },
+    {
+      "added_at": "2025-07-19 03:29:40",
+      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2025-07-19 03:29:40",
-      "album": {
-        "name": "Voc\u00ea Me Mudou",
-        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
-      },
-      "artists": [
-        {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 183682,
-      "name": "Voc\u00ea Me Mudou",
-      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
     },
     {
       "added_at": "2025-07-19 03:29:40",
@@ -915,30 +915,6 @@
     {
       "added_at": "2025-07-19 03:29:40",
       "album": {
-        "name": "Se Tu Creres (Remix)",
-        "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
-      },
-      "artists": [
-        {
-          "name": "DJ Emerson MK",
-          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
-        },
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Xote Santo",
-          "url": "https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Se Tu Creres - Remix",
-      "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
-    },
-    {
-      "added_at": "2025-07-19 03:29:40",
-      "album": {
         "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
         "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 158789,
       "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
       "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
+    },
+    {
+      "added_at": "2025-07-19 03:29:40",
+      "album": {
+        "name": "Se Tu Creres (Remix)",
+        "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
+      },
+      "artists": [
+        {
+          "name": "DJ Emerson MK",
+          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
+        },
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Xote Santo",
+          "url": "https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Se Tu Creres - Remix",
+      "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
     },
     {
       "added_at": "2025-07-19 03:29:40",

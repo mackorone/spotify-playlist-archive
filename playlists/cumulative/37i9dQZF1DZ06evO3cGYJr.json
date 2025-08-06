@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "better than i was",
       "url": "https://open.spotify.com/track/0HLs9ktjeINGigUq6i1hAP"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 124585,
       "name": "CONFUS1NG",
       "url": "https://open.spotify.com/track/1G07gbwkIQXRYXBQC6cnmG"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 130369,
       "name": "Memory of a Different World - 2021 Version",
       "url": "https://open.spotify.com/track/6YRMabYzzHeU3OBPjLbjrD"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 219130,
       "name": "Racing",
       "url": "https://open.spotify.com/track/4NUrUFTFvLZj0BmsdAp4d2"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 185739,
       "name": "Ramblings of the Lost Man - 2021 Version",
       "url": "https://open.spotify.com/track/1nFMcGlbCsw6yqz7pSDyzh"
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "maybe i need to know myself",
+        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155156,
+      "name": "So long (waiting 4 this)",
+      "url": "https://open.spotify.com/track/3axDbI0dscRkHl9NkjET3J"
+    },
+    {
+      "album": {
         "name": "So long (waiting 4 this)",
         "url": "https://open.spotify.com/album/04IwqTy1euUxr2XGKlu53Z"
       },
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 156610,
       "name": "So long (waiting 4 this)",
       "url": "https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Chloe Parche\u0301",
+  "description": "The best new music by independent artists and labels. Cover: Brazen Barbie",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -13195,6 +13195,24 @@
     },
     {
       "album": {
+        "name": "scapegoat",
+        "url": "https://open.spotify.com/album/22Hf29mwqbiZqMMQaxzRmQ"
+      },
+      "artists": [
+        {
+          "name": "B Murph",
+          "url": "https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123485,
+      "name": "code blue",
+      "url": "https://open.spotify.com/track/7wZ7tGoqw04ViI5hITe2rK"
+    },
+    {
+      "album": {
         "name": "Crowd Pleaser, Pt. 1",
         "url": "https://open.spotify.com/album/0cQBtqU0VYhEP7y3oOomH6"
       },
@@ -16500,6 +16518,24 @@
       "duration_ms": 185018,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/5xRVYGvXqEIuPKnm09WCHx"
+    },
+    {
+      "album": {
+        "name": "BRAZEN",
+        "url": "https://open.spotify.com/album/0rHdsM0FF6LshyUpD5BOyC"
+      },
+      "artists": [
+        {
+          "name": "Brazen Barbie",
+          "url": "https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "DEEP END",
+      "url": "https://open.spotify.com/track/6KcxzTcm5k37XRoXnh1EBC"
     },
     {
       "album": {
@@ -23573,6 +23609,28 @@
     },
     {
       "album": {
+        "name": "BUD & DENI",
+        "url": "https://open.spotify.com/album/27j0jVa9hKVPOhRxUDgXe8"
+      },
+      "artists": [
+        {
+          "name": "Jamaica Moana",
+          "url": "https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh"
+        },
+        {
+          "name": "Kevin Jz Prodigy",
+          "url": "https://open.spotify.com/artist/1ubi6HKbyDdK01A4lu05Lk"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206157,
+      "name": "FINALE",
+      "url": "https://open.spotify.com/track/3VOeBY0XjyFtSIiByOOZUQ"
+    },
+    {
+      "album": {
         "name": "Something To Look Back On",
         "url": "https://open.spotify.com/album/27eJIiIuiYXzY6tfCNWNfN"
       },
@@ -25862,7 +25920,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 171078,
       "name": "Get 'Em Up",
       "url": "https://open.spotify.com/track/3WJXMqyJTVUoZbe73wDjYw"
@@ -30552,6 +30610,28 @@
       "duration_ms": 156519,
       "name": "Hoes On Cam!",
       "url": "https://open.spotify.com/track/6OVmhnl12KY9H349iBtGfU"
+    },
+    {
+      "album": {
+        "name": "Hold It Back",
+        "url": "https://open.spotify.com/album/5c1w1LV5MtWkxsLq1LM250"
+      },
+      "artists": [
+        {
+          "name": "WILS*RISH",
+          "url": "https://open.spotify.com/artist/5cK541UGPFSPZ8TjsVDU2h"
+        },
+        {
+          "name": "DoloRRes",
+          "url": "https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303964,
+      "name": "Hold It Back",
+      "url": "https://open.spotify.com/track/3iiGvAASl95ZDdzP44tEBl"
     },
     {
       "album": {
@@ -35360,7 +35440,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 161658,
       "name": "Inspired To Do Nothing",
       "url": "https://open.spotify.com/track/16Qz0r7dMIeUaehBX0NwH3"
@@ -40755,6 +40835,24 @@
     },
     {
       "album": {
+        "name": "Lost In A Moment",
+        "url": "https://open.spotify.com/album/1XBFrxoQTN88BQSJlnThgc"
+      },
+      "artists": [
+        {
+          "name": "Tear Drive",
+          "url": "https://open.spotify.com/artist/4egyLBGawpn5FRkONTdmGA"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224734,
+      "name": "Lost In A Moment",
+      "url": "https://open.spotify.com/track/7xM31HQ5iVkXjhWMgFby8M"
+    },
+    {
+      "album": {
         "name": "Lost in Comfort",
         "url": "https://open.spotify.com/album/2qpytSIoL3FavJU2ej1MQT"
       },
@@ -41058,7 +41156,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 239680,
       "name": "Love It All",
       "url": "https://open.spotify.com/track/0VmSA1TjN3OL6nx59Hm9oH"
@@ -41690,7 +41788,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 209879,
       "name": "Lucy in London",
       "url": "https://open.spotify.com/track/0Qzl2epSjwb7FMjfBZG1sq"
@@ -43546,7 +43644,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 204186,
       "name": "Mid December",
       "url": "https://open.spotify.com/track/2raBfeuJF3prKuNo0aq3tZ"
@@ -45758,7 +45856,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 164117,
       "name": "NAME",
       "url": "https://open.spotify.com/track/1aq72ZA5nqXMDrkYcaD5tv"
@@ -49451,6 +49549,28 @@
     },
     {
       "album": {
+        "name": "On Sight",
+        "url": "https://open.spotify.com/album/1Qy6lDCDO6HRSDLJdsldvM"
+      },
+      "artists": [
+        {
+          "name": "Squid the Kid",
+          "url": "https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2"
+        },
+        {
+          "name": "Taylr",
+          "url": "https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163008,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/4c5E62kOUx9UWmbcLRFeAu"
+    },
+    {
+      "album": {
         "name": "On The Edge",
         "url": "https://open.spotify.com/album/2U8Bb9LzEpeCrb9AGScyeb"
       },
@@ -50278,6 +50398,24 @@
       "duration_ms": 228567,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1lVYXlSW3CHQfzwFs3yqxv"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2Ql5OHdgvWfnutbshymh29"
+      },
+      "artists": [
+        {
+          "name": "Silky Roads",
+          "url": "https://open.spotify.com/artist/5jD75CFwHhHcu4FSsdMUea"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211248,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2c2qKj3QPoOZAYyxtt28oh"
     },
     {
       "album": {
@@ -52310,7 +52448,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 203591,
       "name": "Phase",
       "url": "https://open.spotify.com/track/0JRW8NV1CmnJSvvAQfUgHn"
@@ -55207,6 +55345,24 @@
     },
     {
       "album": {
+        "name": "Read Your Mind",
+        "url": "https://open.spotify.com/album/07385SxKgfoCh5iMRGP9aD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Jett",
+          "url": "https://open.spotify.com/artist/1Jalc51xYVX0LR2mE9dYch"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245901,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/1vomh6KTuw0h3rd9BNWOEP"
+    },
+    {
+      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/5FvCaglJvzCz092Xeu9LXO"
       },
@@ -55258,6 +55414,24 @@
       "duration_ms": 135342,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/0AyhYj5CsFNnNPrY6u5YY0"
+    },
+    {
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/1h0kymvYAK3TSZyFHztqtX"
+      },
+      "artists": [
+        {
+          "name": "Acopia",
+          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg"
     },
     {
       "album": {
@@ -61904,7 +62078,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 171000,
       "name": "Sober Mind",
       "url": "https://open.spotify.com/track/7oimzRmzTlumz15qRPemv0"
@@ -63158,7 +63332,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 235236,
       "name": "Springboard",
       "url": "https://open.spotify.com/track/2gpZ0p7s4m5ECDrEwGQKH4"
@@ -64163,6 +64337,24 @@
     },
     {
       "album": {
+        "name": "Strangers In Line",
+        "url": "https://open.spotify.com/album/2xDinZfwNHEqipnx1eicpY"
+      },
+      "artists": [
+        {
+          "name": "Mika James",
+          "url": "https://open.spotify.com/artist/5FwQLbdP9LLN75qt4oBNPO"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "Strangers In Line",
+      "url": "https://open.spotify.com/track/2l7HI1DP7lIbFFcqthuX6R"
+    },
+    {
+      "album": {
         "name": "Strangest Feeling",
         "url": "https://open.spotify.com/album/7yseyiVWegHcUlc74AeqHB"
       },
@@ -64174,7 +64366,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 272414,
       "name": "Strangest Feeling",
       "url": "https://open.spotify.com/track/4ppKxtET7NORgNGxMCXY6a"
@@ -68593,6 +68785,24 @@
     },
     {
       "album": {
+        "name": "Then Disappear",
+        "url": "https://open.spotify.com/album/2DtHi1HuXPhOYjz8OYwFd5"
+      },
+      "artists": [
+        {
+          "name": "Lover",
+          "url": "https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143211,
+      "name": "Then Disappear",
+      "url": "https://open.spotify.com/track/1UvdfUI71roZtIg3r7sAa5"
+    },
+    {
+      "album": {
         "name": "THEO",
         "url": "https://open.spotify.com/album/2OAFMKl1EnKwQuCpxz08iq"
       },
@@ -71896,7 +72106,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 228260,
       "name": "Until June",
       "url": "https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf"
@@ -74246,7 +74456,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 162000,
       "name": "weak tolerance",
       "url": "https://open.spotify.com/track/5j1SW500X3s1fTFtm0BK7p"
@@ -74896,6 +75106,24 @@
       "duration_ms": 223887,
       "name": "What It's All About",
       "url": "https://open.spotify.com/track/3weULBBOa7Gk5C1eVuj5Dh"
+    },
+    {
+      "album": {
+        "name": "What Line?",
+        "url": "https://open.spotify.com/album/5bH6EJdqZzCNSOVhONDsfl"
+      },
+      "artists": [
+        {
+          "name": "LOLA",
+          "url": "https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295718,
+      "name": "What Line?",
+      "url": "https://open.spotify.com/track/4xGJfHUgmuXXJIKgWvNlb9"
     },
     {
       "album": {
@@ -77015,6 +77243,24 @@
     },
     {
       "album": {
+        "name": "Yeah Right",
+        "url": "https://open.spotify.com/album/3yHBNNdtOY274VIuUlMuQA"
+      },
+      "artists": [
+        {
+          "name": "Wiles",
+          "url": "https://open.spotify.com/artist/66oUtydaxLqdYiep31Vhh6"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260196,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/2vV7JVLQkcoSWL3YyKXNU9"
+    },
+    {
+      "album": {
         "name": "Yeah Yeah Yeah (Lifestyle)",
         "url": "https://open.spotify.com/album/5P9ZmsQowrSRpWwQd6vZqa"
       },
@@ -77218,7 +77464,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 288371,
       "name": "You Can't Please Everybody All Of The Time",
       "url": "https://open.spotify.com/track/3w0nHdkJCXIFFN2d3lxnkP"

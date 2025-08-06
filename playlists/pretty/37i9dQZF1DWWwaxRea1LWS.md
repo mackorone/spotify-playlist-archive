@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT celebrates 30 years of Gangsta's Paradise\. Cover: Coolio
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,318,176 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,318,037 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Funkdafied \- Single Version](https://open.spotify.com/track/3UP8eXtSY89RZ6s8oDdlyB) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [ANUTHAFUNKDAFIEDTANTRUM](https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0) | 3:05 |
 | 50 | [Hip 2 Da Game](https://open.spotify.com/track/30eW6IlBK3wCwcB8TsPXua) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening](https://open.spotify.com/album/3DqP5MhotjHve8DiljKk6r) | 4:03 |
 
-Snapshot ID: `aIrqWAAAAACW4fLTWWQlmlOVlkYrJIwN`
+Snapshot ID: `AAAAADKsstJ1DOn+eIQrmWA/rD7o4LjZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 
 > Tembang Jowo lawas pancen saget nrenyuhake ati
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,008 likes - 33 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,015 likes - 33 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 | 32 | [Nginang Karo Ngilo](https://open.spotify.com/track/3dj56ZRUvBO0z7YQ61vu6C) | [Lasmini](https://open.spotify.com/artist/3UMbszVhnTMIXvhTWrowUt) | [Campursari Gunung Kidul, Vol\. 1](https://open.spotify.com/album/0IHCBWDz3tEdf22JkMTsWg) | 5:00 |
 | 33 | [Kuncung](https://open.spotify.com/track/4fjYW9wSFa9K2C7oqw2VxK) | [Didi Kempot](https://open.spotify.com/artist/5LmRNHfiQfvy9zO8U9Q4mp) | [Keroncong Jawa Sepanjang Masa II](https://open.spotify.com/album/02YmAo3rmEw5zgNgdAn81K) | 4:15 |
 
-Snapshot ID: `ZtBYfAAAAAAYlOUPZ2pNCupOLMklgpp8`
+Snapshot ID: `AAAAABxmxkQPImO/MK9d+rq2qHbtwL84`

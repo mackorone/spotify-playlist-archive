@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 124088,
+  "num_followers": 124094,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Qmbia Juan",
+        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Juan",
+          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+        }
+      ],
+      "duration_ms": 237844,
+      "name": "Ay Que Vida",
+      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 204346,
       "name": "La Mami Que Mas Quiero",
       "url": "https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Mis Noches Sin Ti",
-        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 205087,
-      "name": "Mis Noches Sin Ti",
-      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -455,34 +455,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Qmbia Juan",
-        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+        "name": "Mis Noches Sin Ti",
+        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
       },
       "artists": [
         {
-          "name": "Qmbia Juan",
-          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
         }
       ],
-      "duration_ms": 237844,
-      "name": "Ay Que Vida",
-      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Canciones Rotas",
-        "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
-      },
-      "artists": [
-        {
-          "name": "Pablo Benegas",
-          "url": "https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Soy De Mi Tierra",
-      "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
+      "duration_ms": 205087,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -503,18 +487,34 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Agua Para El Mar",
-        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
+        "name": "Canciones Rotas",
+        "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
       },
       "artists": [
         {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+          "name": "Pablo Benegas",
+          "url": "https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp"
         }
       ],
-      "duration_ms": 185821,
-      "name": "Quiero!",
-      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
+      "duration_ms": 210506,
+      "name": "Soy De Mi Tierra",
+      "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Kaimonomacaco",
+        "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
+      },
+      "artists": [
+        {
+          "name": "Revolber",
+          "url": "https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "El Solo",
+      "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -535,18 +535,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Kaimonomacaco",
-        "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
+        "name": "Agua Para El Mar",
+        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
       },
       "artists": [
         {
-          "name": "Revolber",
-          "url": "https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn"
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
         }
       ],
-      "duration_ms": 267480,
-      "name": "El Solo",
-      "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
+      "duration_ms": 185821,
+      "name": "Quiero!",
+      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "Ni Contigo, Ni Sin Ti",
-      "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 204950,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 251626,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
     },
     {
       "added_at": "2025-03-14 20:46:39",

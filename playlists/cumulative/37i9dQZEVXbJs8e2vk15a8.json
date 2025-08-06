@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6NUpyfYu4iZDHqXjGSNeny"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1eHRolfobHFD6oqeKJ8zSF"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 82714,
       "name": "#BrooklynBloodPop! - Roku Remix",
       "url": "https://open.spotify.com/track/2ROZRya8krTZpqJrimxU8L"
@@ -1712,6 +1730,28 @@
       "duration_ms": 156145,
       "name": "A Pearl",
       "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
+    },
+    {
+      "album": {
+        "name": "A Poca Luz",
+        "url": "https://open.spotify.com/album/3hv0T6uuRTCfuV7U3xvnSw"
+      },
+      "artists": [
+        {
+          "name": "Felipelblessed",
+          "url": "https://open.spotify.com/artist/1tpfOvCgQzYscixwwKlZbx"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "A Poca Luz",
+      "url": "https://open.spotify.com/track/2LtJeieAYcKYusnMIued5z"
     },
     {
       "album": {
@@ -5196,7 +5236,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 158052,
       "name": "ASTROS",
       "url": "https://open.spotify.com/track/6vjmJ8N9A0lLVs9q33Dh6u"
@@ -14538,7 +14578,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -17483,6 +17523,32 @@
     },
     {
       "album": {
+        "name": "ESQUIRLAS",
+        "url": "https://open.spotify.com/album/0Yz9RyQTokehMVsWQJHPFM"
+      },
+      "artists": [
+        {
+          "name": "Nickla 12",
+          "url": "https://open.spotify.com/artist/7pHHeKrTZsoEceiVNiaZDt"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Ober",
+          "url": "https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4SSn6zP4bTZnQMhgEfTFPr"
+    },
+    {
+      "album": {
         "name": "DORA",
         "url": "https://open.spotify.com/album/2Si6ctAhhY9BsJtenB0O1Q"
       },
@@ -20062,7 +20128,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 163531,
       "name": "ENLOKCIENDO",
       "url": "https://open.spotify.com/track/4RvLWywNgTMHyKS3z9UEPB"
@@ -24033,6 +24099,24 @@
     },
     {
       "album": {
+        "name": "The Star Chapter: TOGETHER",
+        "url": "https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186601,
+      "name": "Ghost Girl",
+      "url": "https://open.spotify.com/track/5voKDnuTGXBnIZbAqWnb8R"
+    },
+    {
+      "album": {
         "name": "GHOST!",
         "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
       },
@@ -27859,6 +27943,28 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200860,
+      "name": "I'll Take Care of You (feat. Yebba)",
+      "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
+    },
+    {
+      "album": {
         "name": "Sunken Screens",
         "url": "https://open.spotify.com/album/5Csu9GNNwJy8vXrg7r4kwY"
       },
@@ -29174,7 +29280,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 163240,
       "name": "jellyous (Feat. Sophie Powers)",
       "url": "https://open.spotify.com/track/1hAAuDuBSaoIkgSb7Lyakt"
@@ -43747,6 +43853,28 @@
     },
     {
       "album": {
+        "name": "ESQUIRLAS",
+        "url": "https://open.spotify.com/album/0Yz9RyQTokehMVsWQJHPFM"
+      },
+      "artists": [
+        {
+          "name": "Nickla 12",
+          "url": "https://open.spotify.com/artist/7pHHeKrTZsoEceiVNiaZDt"
+        },
+        {
+          "name": "AKA Young Ty",
+          "url": "https://open.spotify.com/artist/1HaP3MGKVGPovexgm95yDt"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148054,
+      "name": "Opuestos",
+      "url": "https://open.spotify.com/track/3KEae9cr3kjVqkFNh4071x"
+    },
+    {
+      "album": {
         "name": "Orale",
         "url": "https://open.spotify.com/album/59sJPpzNnnxLEp22CgFL91"
       },
@@ -48955,6 +49083,24 @@
     },
     {
       "album": {
+        "name": "Que Culpa tengo Yo",
+        "url": "https://open.spotify.com/album/5GDMBaYJ41vu67yDkQFusv"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191067,
+      "name": "Que Culpa tengo Yo",
+      "url": "https://open.spotify.com/track/3D640imXQ08xT9HCg75bpk"
+    },
+    {
+      "album": {
         "name": "LAS LETRAS YA NO IMPORTAN",
         "url": "https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3"
       },
@@ -51005,6 +51151,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    },
+    {
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
       },
@@ -52678,6 +52842,24 @@
       "duration_ms": 189466,
       "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
       "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
+    },
+    {
+      "album": {
+        "name": "SENDA BELLAKONA",
+        "url": "https://open.spotify.com/album/1DdV2p9r8QIXrawUqTTpgD"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120494,
+      "name": "SENDA BELLAKONA",
+      "url": "https://open.spotify.com/track/7IyBvpCV5itnX98vKMramA"
     },
     {
       "album": {
@@ -56723,6 +56905,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    },
+    {
+      "album": {
         "name": "The Name Chapter: TEMPTATION",
         "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
       },
@@ -57214,7 +57414,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 177230,
       "name": "Ta Ta Ta",
       "url": "https://open.spotify.com/track/0DrBIUc9IfKGwUgJMi91ts"
@@ -57314,7 +57514,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -58566,7 +58766,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 161167,
       "name": "TENGO GANAS",
       "url": "https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW"
@@ -65412,7 +65612,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
@@ -68162,24 +68362,6 @@
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
-    },
-    {
-      "album": {
-        "name": "\u30cf\u30eb\u30ab\u30ea\u30d9\u30fc\u30b3\u30f3",
-        "url": "https://open.spotify.com/album/6NUpyfYu4iZDHqXjGSNeny"
-      },
-      "artists": [
-        {
-          "name": "HALCALI",
-          "url": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa"
-        }
-      ],
-      "date_added": "2025-08-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239547,
-      "name": "\u304a\u3064\u304b\u308cSUMMER",
-      "url": "https://open.spotify.com/track/1eHRolfobHFD6oqeKJ8zSF"
     },
     {
       "album": {

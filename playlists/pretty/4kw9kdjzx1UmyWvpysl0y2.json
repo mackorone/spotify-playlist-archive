@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125118,
+  "num_followers": 125114,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUbZofQrpwMS2S6U8uADKPM+WQkvzN",
+  "snapshot_id": "AAAUcBeIVZYzym2cC0klq7zrm07NlvN9",
   "tracks": [
+    {
+      "added_at": "2025-08-05 14:44:18",
+      "album": {
+        "name": "Glass Souls",
+        "url": "https://open.spotify.com/album/0ADnJKIlDDtKo0wfK237YH"
+      },
+      "artists": [
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Glass Souls",
+      "url": "https://open.spotify.com/track/4bXajrbi7CKAuOGlZcXB97"
+    },
+    {
+      "added_at": "2025-08-05 14:44:09",
+      "album": {
+        "name": "Gates",
+        "url": "https://open.spotify.com/album/2P0qQgoetyqrHVdYCsJraC"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        }
+      ],
+      "duration_ms": 156098,
+      "name": "Gates",
+      "url": "https://open.spotify.com/track/4fuRN2DclIn0H2Zz3paFzh"
+    },
     {
       "added_at": "2025-08-01 15:56:22",
       "album": {
@@ -1123,42 +1159,6 @@
       "duration_ms": 219633,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef"
-    },
-    {
-      "added_at": "2025-05-13 14:13:04",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/0sPXhRIkT8X3866JIiN1Rq"
-      },
-      "artists": [
-        {
-          "name": "ORACLE",
-          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
-        },
-        {
-          "name": "M\u00d8\u00d8NE",
-          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
-        }
-      ],
-      "duration_ms": 228062,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3eam4YNpR4GHxBGqLNzZ4U"
-    },
-    {
-      "added_at": "2025-05-12 15:36:55",
-      "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/4J8zgXZhgXyC8iLGZb3jaN"
-      },
-      "artists": [
-        {
-          "name": "4URA",
-          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
-        }
-      ],
-      "duration_ms": 140939,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/4p9c1dudsL928nIhcZn15q"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

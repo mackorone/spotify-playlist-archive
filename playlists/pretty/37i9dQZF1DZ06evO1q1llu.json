@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 244771,
+  "num_followers": 244780,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAACyQ5Qmmm9ZTDNZ2H1puG3d",
+  "snapshot_id": "aI/4AAAAAAC/6nEagoctRzm8eht/6NF8",
   "tracks": [
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/5b7NAfjg5DjYPWshy2jSr3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 179252,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/32ypPhtgTaETvFn3ZIHXTW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 122278,
       "name": "Speak",
       "url": "https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/5b7NAfjg5DjYPWshy2jSr3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 179252,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/32ypPhtgTaETvFn3ZIHXTW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,303 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,320 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 4 | [Thirinjin](https://open.spotify.com/track/2TxrGGH6GEnt0MTsR9Xslw) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Thirinjin](https://open.spotify.com/album/44RR3s7UnD0gnnyZoGBiMX) | 3:02 |
 | 5 | [Local Sevens \- Neravo](https://open.spotify.com/track/6lvTnrUSBKIF9VFkLP3Ss3) | [Sahal Muhammed](https://open.spotify.com/artist/59DRwpY5uhR029d3HMd9JX), [Rohith Thiruvanathil](https://open.spotify.com/artist/38V7grK8DwxC65gnr1bXLA), [Anaswar MK](https://open.spotify.com/artist/4HjOa4fKS2oqEorPN7RrTb) | [Local Sevens \- Neravo](https://open.spotify.com/album/5rMgG4ZD3Zlrasj3puVtGr) | 4:17 |
 | 6 | [Oh Jaanu](https://open.spotify.com/track/0E7pKNTaYtKSQw9mqT1ZnE) | [Agnivesh](https://open.spotify.com/artist/01UX7W5Z9vhVafQVILiHXD), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Nomadic Voice](https://open.spotify.com/artist/1oze8SLXENyjFZJbdfemfT) | [Oh Jaanu](https://open.spotify.com/album/2XOKHVXSOAckE6p94UpDet) | 3:26 |
-| 7 | [Jeevitham Oru Pwoli](https://open.spotify.com/track/0NFQNHxv4kz3pFT88RYDhW) | [Akhilesh Ramachandran](https://open.spotify.com/artist/5w15khBbkCbrbwKaHQ99qw), [Sachyn](https://open.spotify.com/artist/0a6brYFRCDxIrHAY7LcM8z) | [Jeevitham Oru Pwoli](https://open.spotify.com/album/6T5U71G1Xs8f45LRqnnTdx) | 3:27 |
+| 7 | [Jeevitham Oru Pwoli](https://open.spotify.com/track/0NFQNHxv4kz3pFT88RYDhW) | [Akhilesh Ramachandran](https://open.spotify.com/artist/5w15khBbkCbrbwKaHQ99qw), [SACHYN](https://open.spotify.com/artist/0fqn7UJi5ch6WMfbEIvHTQ) | [Jeevitham Oru Pwoli](https://open.spotify.com/album/6T5U71G1Xs8f45LRqnnTdx) | 3:27 |
 | 8 | [Mazhayayi](https://open.spotify.com/track/38b0PWjywZlQHCuBkhZ4f9) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [San Jame Bobby](https://open.spotify.com/artist/55zuvLXQ0myK8Pg9pHSF49), [Dan Jude Bobby](https://open.spotify.com/artist/2spbsj0fPN52eQRr75ZBE4), [Bobby S Robert](https://open.spotify.com/artist/73C9ZWwwci9QULTcAbq9b1) | [Mazhayayi](https://open.spotify.com/album/5vIsu0BvsTAhC5Srn2DtZH) | 3:25 |
 | 9 | [Frog Murali](https://open.spotify.com/track/6JEvCK6iMo6SMfOyvKvzXl) | [Lprockzs](https://open.spotify.com/artist/1ajN4tqQNNgKXVndkGGr82) | [Frog Murali](https://open.spotify.com/album/5i7BCSvsUj9NSahfs9sKhI) | 5:16 |
 | 10 | [Mokshamu Galada \- Saramathi](https://open.spotify.com/track/37shR8Ft0DWYTeGH3IBN9w) | [Rithul Raphael](https://open.spotify.com/artist/6WUKxqbt9LctTDHZ9qooYx) | [Mokshamu Galada \- Saramathi](https://open.spotify.com/album/16KRQSJtGUuHWQdPmQYZZo) | 2:55 |

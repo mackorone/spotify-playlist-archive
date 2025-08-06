@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  Kato On The Track & nobigdyl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,771 likes - 125 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,830 likes - 125 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

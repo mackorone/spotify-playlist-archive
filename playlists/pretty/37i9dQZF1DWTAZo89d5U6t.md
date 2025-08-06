@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZo89d5U6t.md) - [plain]
 
 > Enjoy music & episodes from “Teasing Master Takagi\-san”! 劇場版公開記念『からかい上手の高木さん』プレイリスト！　©S.Y,S/TKGM 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,455 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,463 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZo89d5U6t.md) - [plain]
 | 42 | [ハナと高木さんと西片](https://open.spotify.com/track/6xompzP6z5fvNTveqp0ujN) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 1:39 |
 | 43 | [からかい上手の高木さん](https://open.spotify.com/track/4F6QMnvOcXkoNfdVpuP3u5) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 3:16 |
 
-Snapshot ID: `ZIsSTwAAAAB5B9m/5IfmG9YvTe6+Xo7B`
+Snapshot ID: `AAAAAMK0HyvtaNJ3JQ4X35FCvBOurk1b`

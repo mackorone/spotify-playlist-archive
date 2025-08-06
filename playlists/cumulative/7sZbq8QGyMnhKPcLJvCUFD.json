@@ -10279,6 +10279,24 @@
     },
     {
       "album": {
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/71zNx0FII8lbRjvoYFlp3V"
+      },
+      "artists": [
+        {
+          "name": "ThatBehavior",
+          "url": "https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134742,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/5PTgXveCle4EOVHv6AhyI6"
+    },
+    {
+      "album": {
         "name": "Only The Fallen",
         "url": "https://open.spotify.com/album/5ceqUHXf2JdrWOzqaZcz2t"
       },

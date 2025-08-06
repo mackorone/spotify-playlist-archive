@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,222 likes - 83 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,225 likes - 83 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 82 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 83 | [Sound Body](https://open.spotify.com/track/3hp7GJP9aRyWxkEyhe4XOI) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Sound Body](https://open.spotify.com/album/4h1PrQAsqZ792z418t55bY) | 2:38 |
 
-Snapshot ID: `aIw9ZwAAAAAy3EBNAV3e2UAPwN4C/4pq`
+Snapshot ID: `AAAAAF9MhsX1gIePXNDlBPx8FJwU1SAU`

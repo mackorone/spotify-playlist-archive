@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: ELASI
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,995 likes - 109 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,994 likes - 109 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

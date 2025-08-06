@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14282,
+  "num_followers": 14281,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKbJia27DeqtzXhVYT1k24hCyXol/8",
+  "snapshot_id": "AAAKbtPK46Mkgs9VsEI1TknB74jlA7LU",
   "tracks": [
     {
       "added_at": "2025-06-10 12:37:11",
@@ -2939,6 +2939,42 @@
       "duration_ms": 207223,
       "name": "A New Day (feat. Celine Dion)",
       "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
+    },
+    {
+      "added_at": "2025-08-05 16:23:24",
+      "album": {
+        "name": "Feel The Bass",
+        "url": "https://open.spotify.com/album/0UFfEXUULwApuLxD5an0gl"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Feel The Bass",
+      "url": "https://open.spotify.com/track/0NtVfFAVWsyIRHTc7PlXbf"
+    },
+    {
+      "added_at": "2025-08-05 16:23:28",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+        }
+      ],
+      "duration_ms": 183528,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54"
     }
   ],
   "unique_name": "Ultra Club Hits",

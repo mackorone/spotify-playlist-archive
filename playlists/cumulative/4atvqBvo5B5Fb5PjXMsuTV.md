@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 05 Aug 03:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 Aug 22:07 UTC.
 
-5,264 songs - 12 day 5 hr 21 min
+5,267 songs - 12 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [Before You Fade Away](https://open.spotify.com/track/3sKHrXNMAX46FFFi0xxv29) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [Before You Fade Away](https://open.spotify.com/album/4t10VleAuvcw0JnScDe3HG) | 3:18 | 2024-09-19 | 2024-09-21 |
 | [Begin The Sacrifice](https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Begin The Sacrifice](https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR) | 3:58 | 2025-07-01 | 2025-07-09 |
 | [Behelit](https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Behelit](https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu) | 4:08 | 2024-10-15 | 2024-10-18 |
+| [Behind the Clock](https://open.spotify.com/track/7x3ir1NFIt7z5Sy1rJTHLJ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Behind the Clock](https://open.spotify.com/album/0XfWqCd9PH408MsPtDvAED) | 3:57 | 2025-08-05 |  |
 | [Believe](https://open.spotify.com/track/11kpeMIYPxxa7KwPtXqqpB) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Believe](https://open.spotify.com/album/7JDOLtvLcfMd1vZy6IoxnQ) | 3:44 | 2024-05-10 | 2024-05-14 |
 | [Believe In The BOOM!](https://open.spotify.com/track/0ZWHNgNgtPMfOPwJMxz66J) | [A.J\. & Big Justice](https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp) | [Believe In The BOOM!](https://open.spotify.com/album/08HXlt5V6JNmpuhBFDx02r) | 3:08 | 2025-06-15 | 2025-06-22 |
 | [Believe In Ya](https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Believe In Ya](https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ) | 2:59 | 2025-01-20 | 2025-01-25 |
@@ -1361,7 +1362,7 @@
 | [Dying Stars](https://open.spotify.com/track/2MSkKTWPwJNombdDRcb90M) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Dying Stars](https://open.spotify.com/album/2MmkibYmU3TyEJsiaWyzgH) | 3:15 | 2024-10-18 | 2024-10-20 |
 | [Dynamite](https://open.spotify.com/track/64WhTCMCPM0OslejLGDNko) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Dynamite](https://open.spotify.com/album/14tHr6eT9ePt6xxKghfyjt) | 2:35 | 2024-12-20 | 2025-01-04 |
 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 | 2024-10-25 | 2024-10-31 |
-| [d£aler](https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI) | 2:40 | 2025-07-25 |  |
+| [d£aler](https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI) | 2:40 | 2025-07-25 | 2025-08-06 |
 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 | 2025-06-16 | 2025-06-21 |
 | [e\-m@il](https://open.spotify.com/track/4jqOJHb9fMwwkS2iBPIt0K) | [Lilniina](https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw) | [e\-m@il](https://open.spotify.com/album/1WV8opZpwkMCo3wcO1sIYX) | 2:35 | 2024-08-07 | 2024-08-09 |
 | [earth child's lullaby](https://open.spotify.com/track/4cuHmv8OaPgW3Xe1AsLYEC) | [TOFIE](https://open.spotify.com/artist/4pnrk5QCXeKifcD98STB24) | [earth child's lullaby](https://open.spotify.com/album/3G35ioo66aOroUCbTHYfvq) | 4:32 | 2024-10-13 | 2024-10-17 |
@@ -2499,6 +2500,7 @@
 | [keepsakeFM](https://open.spotify.com/track/66ic3WTFVUyXNGItFa7o6E) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [keepsakeFM](https://open.spotify.com/album/360zxWjheLBzqwv5hVm7QD) | 3:19 | 2024-07-02 | 2024-07-05 |
 | [Kein Geheimnis](https://open.spotify.com/track/0jzz7N3FWhR2cJ1aglG7oS) | [Marvin Game](https://open.spotify.com/artist/5Gi9FP1m5OCW7sYwetsUBd), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [Kein Geheimnis](https://open.spotify.com/album/7ljlRFOzAkZxqlweOjGSy8) | 3:52 | 2024-09-20 | 2024-09-22 |
 | [Keine neuen Freunde](https://open.spotify.com/track/0waBUUrLSUnnQFZNJZY5O2) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Keine neuen Freunde](https://open.spotify.com/album/1SjhUZEwhiWQ7H51UGkFm7) | 2:24 | 2024-08-01 | 2024-08-03 |
+| [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-05 |  |
 | [KELIS](https://open.spotify.com/track/2f9GAg9zW7uZwYjdHvIGek) | [WiFiGawd](https://open.spotify.com/artist/2tM4YvbGRPeHpxdD6PqLwe), [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H), [Dylvinci](https://open.spotify.com/artist/28dzsbHhnbwJIB6cVmfvAS) | [KELIS](https://open.spotify.com/album/2rJi76TrKMd1mAQVcx8sY2) | 1:52 | 2024-09-12 | 2024-09-14 |
 | [KENNY](https://open.spotify.com/track/3tyPWm8DjAK4vcZDHOp9mY) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [KENNY](https://open.spotify.com/album/41T9tJ0A7Bb7mMYvux3wtS) | 1:48 | 2024-05-17 | 2024-05-21 |
 | [Key103](https://open.spotify.com/track/2rqHRjIdGqFNgOqq3nNPkT) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Key103](https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ) | 7:22 | 2024-07-09 | 2024-07-11 |
@@ -2549,6 +2551,7 @@
 | [Knockin' on Heaven's Door \(Heretic Original Soundtrack\)](https://open.spotify.com/track/3FUi460LOooZ4tqbJO6L6a) | [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Knockin' on Heaven's Door \(Heretic Original Soundtrack\)](https://open.spotify.com/album/5lbAnEffbw245NO2R8QwEY) | 4:52 | 2024-11-07 | 2024-11-09 |
 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 | 2024-08-23 | 2024-08-28 |
 | [Know What You Need \- Prison Tapes](https://open.spotify.com/track/6Z5CPaZuJDBBs3ovo2ncoX) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Know What You Need \(Prison Tapes\)](https://open.spotify.com/album/5iODU4Gq1xIB8Smua6R4JC) | 2:46 | 2024-08-02 | 2024-08-08 |
+| [Know You Naked](https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Know You Naked](https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe) | 3:25 | 2025-08-05 |  |
 | [koto](https://open.spotify.com/track/70e4YH5gnT9rawbo4L1Ifh) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [koto](https://open.spotify.com/album/69cDLgZcgkVRTR5SvUa166) | 2:35 | 2024-12-12 | 2024-12-14 |
 | [Kravitz](https://open.spotify.com/track/3ydiQXwguW4FTjZYCpWDLE) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Kravitz](https://open.spotify.com/album/58gxd7R2ovmIDehM0oslBt) | 4:33 | 2024-04-29 | 2024-05-02 |
 | [Krueger](https://open.spotify.com/track/0yWn9ASmnEnVZVMmutBTkj) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Krueger](https://open.spotify.com/album/47neLZxbh8NgETFGNP2DRr) | 2:07 | 2024-09-24 | 2024-09-27 |
@@ -3339,7 +3342,7 @@
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-25 | 2024-10-30 |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 | 2025-02-15 |
 | [One of My Bedbugs Ate My Pussy](https://open.spotify.com/track/5nk6lGgzXObbIl9PmHOQGb) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [One of My Bedbugs Ate My Pussy](https://open.spotify.com/album/1q7rmLsftastmCekfQ1q95) | 2:52 | 2025-06-09 | 2025-06-21 |
-| [one of the ones](https://open.spotify.com/track/5suD5LTKXheT2zBtXtPfEy) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [one of the ones](https://open.spotify.com/album/6N5pQPXCLUTGfOMUwYzPgb) | 2:05 | 2025-07-25 |  |
+| [one of the ones](https://open.spotify.com/track/5suD5LTKXheT2zBtXtPfEy) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [one of the ones](https://open.spotify.com/album/6N5pQPXCLUTGfOMUwYzPgb) | 2:05 | 2025-07-25 | 2025-08-06 |
 | [One Of Them](https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [One Of Them](https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru) | 2:51 | 2025-06-12 | 2025-06-15 |
 | [One On One](https://open.spotify.com/track/0dX6TCuCSb5vtqtmNekXec) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [One On One](https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr) | 2:50 | 2024-10-05 | 2024-10-10 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-16 | 2025-05-28 |
@@ -4131,7 +4134,7 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Sorry Not Sorry](https://open.spotify.com/album/2Wu6YPeXdwiyqV5YulLf1W) | 2:16 | 2024-08-16 | 2024-08-23 |
 | [SORRY RACH!](https://open.spotify.com/track/581wx4eVMwnfHWqoGd90jn) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [SORRY RACH!](https://open.spotify.com/album/24HXbfPIjw7Yi8bpif4H79) | 3:54 | 2025-05-09 | 2025-05-17 |
 | [SOS](https://open.spotify.com/track/1xLzlr72jRS1ZJO0JZrbeb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [SOS](https://open.spotify.com/album/0BN0TP6joQ4n47Vx8u4gyU) | 2:02 | 2024-08-02 | 2024-08-06 |
-| [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 | 2025-07-25 |  |
+| [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 | 2025-07-25 | 2025-08-06 |
 | [Soul Exchange](https://open.spotify.com/track/1UMQbH4mUPDm2ekliwzTfJ) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Soul Exchange](https://open.spotify.com/album/6YDhuGJ7MmpUk3lfG68ik9) | 2:54 | 2024-10-03 | 2024-10-05 |
 | [SOULSUCKER](https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SOULSUCKER](https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8) | 2:26 | 2024-05-26 | 2024-05-29 |
 | [Sounds from the Heart of the Woods](https://open.spotify.com/track/4pMh4kNH7W3oTCBT5QdaD9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Sounds from the Heart of the Woods](https://open.spotify.com/album/6yzkiWF8Xl3gLjJ8wNpk0o) | 21:07 | 2025-04-23 | 2025-05-01 |

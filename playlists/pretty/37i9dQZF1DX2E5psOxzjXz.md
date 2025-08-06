@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Amna Riaz
+> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Rabi Ahmed, Syed Hamza, Aalehaider Gillani
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,990 likes - 96 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,989 likes - 96 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CHAN MAHIYA](https://open.spotify.com/track/5oln63FrKz5uhd6EQt07Es) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [CHAN MAHIYA](https://open.spotify.com/album/3OqPMuRZBTqCfSGh4oUBuM) | 2:21 |
-| 2 | [Sajna](https://open.spotify.com/track/5vzPyTGOFaQ0g225aWoR1A) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA) | [Sajna](https://open.spotify.com/album/2orPTOnSyTuUHEl0yXMnlJ) | 2:37 |
+| 1 | [Sajna](https://open.spotify.com/track/5vzPyTGOFaQ0g225aWoR1A) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA) | [Sajna](https://open.spotify.com/album/2orPTOnSyTuUHEl0yXMnlJ) | 2:37 |
+| 2 | [CHAN MAHIYA](https://open.spotify.com/track/5oln63FrKz5uhd6EQt07Es) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [CHAN MAHIYA](https://open.spotify.com/album/3OqPMuRZBTqCfSGh4oUBuM) | 2:21 |
 | 3 | [Just Us](https://open.spotify.com/track/3wm5N6UAVYLF1lRQMW8t0C) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo) | [Just Us](https://open.spotify.com/album/1s5gQHicm3JMqyyia8YcpF) | 2:48 |
 | 4 | [Mera Musafir](https://open.spotify.com/track/02zLhpWokJghrfZrwV2z8a) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Suno](https://open.spotify.com/album/3pHRNlVpIx4PBBXxBkoUTZ) | 4:51 |
 | 5 | [Jaaun Kahan](https://open.spotify.com/track/5IwIs27422wuTOXjIEmXDq) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk) | [Jaaun Kahan](https://open.spotify.com/album/30BmlBHDfeSLBr3Wc1uUEX) | 4:37 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 95 | [Mujh Se Duur](https://open.spotify.com/track/0wCtnWUf3RrjUWSWM4FhP8) | [Eid Milan](https://open.spotify.com/artist/7BKTvq04dovtVmBCJN2jQj) | [LOLLYWOOD TAPES](https://open.spotify.com/album/57mBQ0Rbj7gyllup5448wy) | 1:13 |
 | 96 | [Dilwale](https://open.spotify.com/track/4I1I7Puy4TccYiYsbCrHYy) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Dilwale](https://open.spotify.com/album/24oFlrBYEx5AuFZ5LyyB6R) | 4:02 |
 
-Snapshot ID: `aIyRNgAAAAAVlpazmVX5fcwFvWFCnJ+J`
+Snapshot ID: `AAAAAHTM5DfAHTvFs5giSp0TChkp+6sz`

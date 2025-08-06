@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,176 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,175 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 19 | [Diz Que Sim](https://open.spotify.com/track/2kp4Va2kwMESfeZmokDfBK) | [Sorry Drummer](https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL), [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Silvera](https://open.spotify.com/artist/1ou3OL7zp8g8TYm2zZA7OB) | [Sorry Drummer & Friends, Vol\. 2](https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0) | 3:11 |
 | 20 | [Só um Tempo](https://open.spotify.com/track/6WxGNpMXhi5gNL2d1Kajss) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:44 |
 | 21 | [Roupa de Tirar](https://open.spotify.com/track/5ZyMe1SkLd4fHyXJUMYKSD) | [Sandália de Prata](https://open.spotify.com/artist/6YuiLSumjpSfCZJX3oo42Q), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Roupa de Tirar](https://open.spotify.com/album/75MZ5iHp8zsdBgJKcj48Yn) | 3:22 |
-| 22 | [Ostentação da Cultura](https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ostentação da Cultura](https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg) | 2:45 |
-| 23 | [Girl from Bahia](https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF) | [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Girl from Bahia](https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON) | 3:22 |
+| 22 | [Girl from Bahia](https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF) | [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Girl from Bahia](https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON) | 3:22 |
+| 23 | [Ostentação da Cultura](https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ostentação da Cultura](https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg) | 2:45 |
 | 24 | [Sol Maior](https://open.spotify.com/track/4KYvaHNOEKfrStmnwVVzGd) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:54 |
 | 25 | [Eu + Vc](https://open.spotify.com/track/1MbZJ1ZvcP15HcmZDfWqf7) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:52 |
 | 26 | [Desapegada](https://open.spotify.com/track/2UEcxnVXBbuaIZdDVD8mEM) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 4:06 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 47 | [Da Lama / Afrontamento](https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 6:26 |
 | 48 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
 | 49 | [Vida de Atriz](https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:48 |
-| 50 | [Magenta](https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A) | [Afroito](https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Mango02](https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk) | 3:11 |
+| 50 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 |
 
-Snapshot ID: `aI6mgAAAAABzbsyguUdc+2Pvbei5AMvk`
+Snapshot ID: `aI/4AAAAAAAhFgCHE790FGA8xbMNsirz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: NOIR
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,271 likes - 74 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,273 likes - 74 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 73 | [Cớ Sao Em Phải Nhớ](https://open.spotify.com/track/11xcDf9GXc2LVVTURymaJl) | [Bảo Trân.](https://open.spotify.com/artist/5NFGbQhFrVMY4kpln4HE40), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Cớ Sao Em Phải Nhớ](https://open.spotify.com/album/0lXAx9dS1lzWwH4YADZ8St) | 4:16 |
 | 74 | [Cất Cánh](https://open.spotify.com/track/50dokuC8DAufkRNrtIYOxn) | [Oliu](https://open.spotify.com/artist/5bQKHU2peXIxfcBa1LVdS1) | [Cất Cánh](https://open.spotify.com/album/7oEjwNPFZlATLRB3tqVHka) | 2:32 |
 
-Snapshot ID: `aIuhOAAAAACy/743qrxnfhNgxXmMjvIY`
+Snapshot ID: `AAAAAN5YtwX40v9cZsrWUXNP2FwooXJQ`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lusaint
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,765 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,770 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summertime](https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Summertime](https://open.spotify.com/album/1DFhkzjfsiKbFJUFKIh1g2) | 3:02 |
 | 2 | [The West Coasters](https://open.spotify.com/track/1lk4FDgVD1UZ2DWlThzkj8) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [The West Coasters](https://open.spotify.com/album/57yLNcOmYt09HSeQk5NxXj) | 3:54 |
 | 3 | [Restless](https://open.spotify.com/track/7pwk1KZxLz9GP007XDDtMW) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Restless](https://open.spotify.com/album/51VqRSW356PJE17M8SnnkR) | 3:39 |
-| 4 | [La Mer](https://open.spotify.com/track/1x75lqOHJVV0J4fljYtaS2) | [Fred Nardin Trio](https://open.spotify.com/artist/1UHA7lPwTt1jk2UT7afakp) | [Trio \[+\]](https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP) | 3:54 |
+| 4 | [La Mer](https://open.spotify.com/track/1x75lqOHJVV0J4fljYtaS2) | [Fred Nardin](https://open.spotify.com/artist/1UHA7lPwTt1jk2UT7afakp) | [Trio \[+\]](https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP) | 3:54 |
 | 5 | [Nach E Vlado](https://open.spotify.com/track/5tOLgmDjvEvUFx8KBCoyeJ) | [Vincent Peirani](https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Julien Herné](https://open.spotify.com/artist/4ewiyQXorSfBL48PZCGxAV), [Tony Paeleman](https://open.spotify.com/artist/3G11h9aLY6VGhPzW6fArEZ), [Yoann Serra](https://open.spotify.com/artist/0dtwREIGBWVYX5B5veE7jh) | [Nach E Vlado](https://open.spotify.com/album/6JQF3mpBnaKLEnfIz6cqSA) | 3:53 |
 | 6 | [These Simple Things](https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [These Simple Things](https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl) | 5:08 |
 | 7 | [Green eyes](https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Green eyes](https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez) | 4:50 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 43 | [Sun Is The Key](https://open.spotify.com/track/0Ty1CoO9OMldlQ6QYUiokr) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Christelle Raquillet](https://open.spotify.com/artist/3kXt66QJ68b1be6rhSajTJ) | [Shifting Lights](https://open.spotify.com/album/13HjPRx2MX9Hy7EmyC3uF3) | 3:14 |
 | 44 | [L'Une](https://open.spotify.com/track/4DFGTVgNDKVGvU6KBiA3d5) | [Awa Ly](https://open.spotify.com/artist/7b2XeYfI3GR9P52lt1SjuE) | [Essence and Elements](https://open.spotify.com/album/1feCfqResEBa78CKM9SY4k) | 3:28 |
 | 45 | [Bread \(butter version\)](https://open.spotify.com/track/5KGQivNF69wOcgwHEeqKV3) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Bread \(butter version\)](https://open.spotify.com/album/1Gqy3cQoOXViM50jxHJy7A) | 2:38 |
-| 46 | [Eronel](https://open.spotify.com/track/7fT9VOOaFKZwfTTJjEeCO0) | [Fred Nardin Trio](https://open.spotify.com/artist/1UHA7lPwTt1jk2UT7afakp) | [Trio \[+\]](https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP) | 3:42 |
+| 46 | [Eronel](https://open.spotify.com/track/7fT9VOOaFKZwfTTJjEeCO0) | [Fred Nardin](https://open.spotify.com/artist/1UHA7lPwTt1jk2UT7afakp) | [Trio \[+\]](https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP) | 3:42 |
 | 47 | [eggs in the morning](https://open.spotify.com/track/4RSrv5ZjdCwPnq1AbW6Owk) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [cozy you \(and other nice songs\)](https://open.spotify.com/album/2ASSjCHJDdOzKIgDkLkcgQ) | 2:27 |
 | 48 | [I Do](https://open.spotify.com/track/5CRr47xx61qWJPEVXzwkjh) | [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [I Do](https://open.spotify.com/album/6enfXcw65fIqoHixEdjBgw) | 3:52 |
 | 49 | [That Doesn't Matter](https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [That Doesn't Matter](https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg) | 2:49 |
 | 50 | [Une Histoire à Trois \(Music from "Une histoire à soi"\)](https://open.spotify.com/track/6eSmjKqPHWAAWIt6I2qgmh) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Michel Alibo](https://open.spotify.com/artist/0g4nh3F1ggb4vG5EihAJ3l), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [Une Histoire à Trois \(Music from "Une histoire à soi"\)](https://open.spotify.com/album/16aMqG3iFEa3nUKTwluARa) | 3:51 |
 
-Snapshot ID: `aIKs/wAAAADtLOWZp/PYxjM8xLYwOP2h`
+Snapshot ID: `AAAAAKqXdQgcBO2RG0S9SvUbQEKoJ0z9`

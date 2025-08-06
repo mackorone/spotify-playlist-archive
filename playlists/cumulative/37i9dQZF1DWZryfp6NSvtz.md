@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Wisp
 
-9,028 songs - 21 day 9 hr 41 min
+9,029 songs - 21 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4019,6 +4019,7 @@
 | [In Your Eyes](https://open.spotify.com/track/1uWkHb5H1Kdogi6tvuvGGC) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [In Your Eyes](https://open.spotify.com/album/0NIwJS93DCIpjtwFAkNTrk) | 3:05 | 2022-12-09 | 2022-12-17 |
 | [In Your Head](https://open.spotify.com/track/1ib6xwfqPhHZnxZlinxiyn) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [In Your Head](https://open.spotify.com/album/64DKyYtO5tU7MCxJOgJQNv) | 2:28 | 2025-01-10 | 2025-01-18 |
 | [IN\_OUT](https://open.spotify.com/track/7GpVaj9dkF6qj4ncGlI74v) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome b/w IN\_OUT](https://open.spotify.com/album/3SOjx5ALtCLxwMCeBrpZeD) | 3:23 | 2023-08-18 | 2023-08-26 |
+| [Incline \(feat\. Nova Twins, Pink Siifu & Yung Skrrt\)](https://open.spotify.com/track/6QnlhyJkaLpxEslu7sB5el) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Incline \(feat\. Nova Twins, Pink Siifu & Yung Skrrt\)](https://open.spotify.com/album/7772WgBOwdNwxi8PlJnH3Y) | 3:39 | 2025-08-01 |  |
 | [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 | 2025-02-14 | 2025-02-22 |
 | [Incubator \(V2000\)](https://open.spotify.com/track/3kqTKerp9ZIPTLLPjZXeJj) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Carpe Diem, Moonman](https://open.spotify.com/album/16GtmNPUFAfLM3l3pZFNye) | 3:18 | 2025-05-16 | 2025-06-14 |
 | [indecisons](https://open.spotify.com/track/3AyC3SzbhzCCac1Omu54RG) | [Kid Moon](https://open.spotify.com/artist/3jkVbxrPvjzWzrjXcfXKUM), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [boys don't cry](https://open.spotify.com/album/7BOjOESSmKIK0E9buCKH4k) | 2:04 | 2024-05-24 | 2024-06-01 |

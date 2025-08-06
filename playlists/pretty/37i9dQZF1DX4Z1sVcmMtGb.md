@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Z1sVcmMtGb.md) - [plain]
 
 > Enjoy the tripleS WORLD TOUR \[tripleS Come True\] LIVE SET including the voices of them on stage! \(tripleS의 무대 멘트와 목소리가 포함된 \[tripleS Come True\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,328 likes - 28 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,339 likes - 28 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Z1sVcmMtGb.md) - [plain]
 | 27 | [Colorful](https://open.spotify.com/track/5QnJpTrT60WnqMEbnQ7dbY) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6lCXOBwO98PfkbR32dsxrp) | 3:22 |
 | 28 | [Final Greetings](https://open.spotify.com/track/4nX0U8ZShjFTo0G8N8dbhE) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [tripleS WORLD TOUR \[tripleS Come True\] Audio liners](https://open.spotify.com/album/4TuLa39dsMoFLSjCfhrGyY) | 2:08 |
 
-Snapshot ID: `Z/jaKwAAAADg/ZFGA+0SzdHTM0jamSQE`
+Snapshot ID: `AAAAAPXdoGR7V68kwq1fUafvXaPvW6zh`

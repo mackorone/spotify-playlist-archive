@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Baby Blu.
 
-1,481 songs - 3 day 2 hr 0 min
+1,482 songs - 3 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,7 @@
 | [Hold Me Down](https://open.spotify.com/track/6GuUPu0gwoRmebyWhnPHXP) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hold Me Down](https://open.spotify.com/album/16MadKxDyuPRn8QUiWQFza) | 3:31 | 2025-05-08 | 2025-05-23 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-15 | 2025-03-07 |
 | [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 | 2025-02-13 | 2025-03-28 |
-| [hometown](https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [hometown](https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ) | 2:54 | 2025-07-31 |  |
+| [hometown](https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [hometown](https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ) | 2:54 | 2025-07-31 | 2025-08-06 |
 | [Honey Blonde](https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:18 | 2025-05-22 | 2025-05-30 |
 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-03 | 2025-01-03 |
 | [Hopeareunus](https://open.spotify.com/track/3hAsDXGDuNmfFCq6wLW7lu) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A) | [Hopeareunus](https://open.spotify.com/album/2H6aL1K5b39h0Znc1IGTA0) | 2:46 | 2025-06-19 | 2025-06-27 |
@@ -861,6 +861,7 @@
 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 | 2025-04-10 | 2025-05-30 |
 | [Mun Kummitus](https://open.spotify.com/track/45jCitOsgjXdWxAucoVUdC) | [Berta](https://open.spotify.com/artist/6JJ4p9AJDIzxg2eqOwkk8A) | [Mun Kummitus](https://open.spotify.com/album/2TAxv8YCROU1kKBrQ3Pzcq) | 2:51 | 2024-10-24 | 2024-11-08 |
 | [Mun Synkkyys](https://open.spotify.com/track/3z30at43JLC2ujVC6b6GPo) | [Leonidas.](https://open.spotify.com/artist/0Lh82fDiB5prBqE34vp51r), [Fabian Elano](https://open.spotify.com/artist/1FLHChwvlwuknfKJmhTbDv) | [Mun Synkkyys](https://open.spotify.com/album/5Uhq2bcW427axdCl1j3lVn) | 3:05 | 2024-11-28 | 2024-12-06 |
+| [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 | 2025-07-31 |  |
 | [Musta hevonen](https://open.spotify.com/track/1JA6J5kzRNUYagv2WmjxqY) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Musta hevonen](https://open.spotify.com/album/2WnDVAp5xi9mUOKbrBLvZG) | 2:42 | 2025-02-13 | 2025-02-28 |
 | [Mustangi II](https://open.spotify.com/track/1aVlmKGaUZz489HuSoPJgL) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Mustangi II](https://open.spotify.com/album/16zFci2pCEsVfQdqH5D0Ch) | 3:10 | 2024-08-22 | 2024-09-20 |
 | [Mutta sä elät](https://open.spotify.com/track/1DFiObAYlkGUcE8oi5m8e5) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Mutta sä elät](https://open.spotify.com/album/0VUj3ptIKJrPMKlwgBB5VX) | 3:27 | 2024-10-10 | 2024-10-18 |

@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: Kehlani",
-  "num_followers": 1096575,
+  "num_followers": 1096670,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFn04r/hkhMwCbakJD6WsYMi5AZa",
+  "snapshot_id": "aJJ32gAAAACd1EnETlmzVgPRWppfwUiR",
   "tracks": [
     {
       "added_at": "2025-08-01 04:00:42",
@@ -291,6 +291,30 @@
       "duration_ms": 200997,
       "name": "Love, Bomb",
       "url": "https://open.spotify.com/track/2PxkSYg6pxRD63Ps9o1evA"
+    },
+    {
+      "added_at": "2025-08-05 21:30:01",
+      "album": {
+        "name": "NO HArD FEELINGS",
+        "url": "https://open.spotify.com/album/4QNno1ha0uOT41LYqdteGN"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        },
+        {
+          "name": "Nic Nac",
+          "url": "https://open.spotify.com/artist/3JUt8Eb39ikWDdahCinDwB"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Barbados",
+      "url": "https://open.spotify.com/track/5yHtwDeh3SMpjzkqNvcvrL"
     },
     {
       "added_at": "2025-08-01 04:00:42",

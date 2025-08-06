@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Umarell \(e una bicicletta ¯\\\_\(ツ\)\_/¯ \) in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,248 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,251 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 5 | [slow down](https://open.spotify.com/track/5tdSu7tH9X8VmLHh0oiFa0) | [georgia, georgia](https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6) | [slow down](https://open.spotify.com/album/5eBEcVzClWn1sL4yzfdDSg) | 2:23 |
 | 6 | [GIULIA](https://open.spotify.com/track/0Td8nQAa4w1T1m3VercEFg) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f) | [TOMBINO D'ORO \(EXTRA\)](https://open.spotify.com/album/1pif2UhWwT3Q6Td7jfCJ1f) | 3:37 |
 | 7 | [\(non\) mi piace](https://open.spotify.com/track/6PPEzKxkPPb2S9hVkcGLqK) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [\(non\) mi piace](https://open.spotify.com/album/78waya964QU1EDXu7mCqPq) | 2:36 |
-| 8 | [i want to stay, you want to leave](https://open.spotify.com/track/6I6IVFZpNeDET2b29lOLXz) | [CORE MATO](https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC) | [i want to stay, you want to leave](https://open.spotify.com/album/1PSyJ1o532GVUJSuvBTcHy) | 2:55 |
-| 9 | [È solo un momento](https://open.spotify.com/track/6NCYQaMYJ8BM7SscFAcDfF) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [È solo un momento](https://open.spotify.com/album/5w0vtVhoTzKWq8t46pqLwW) | 3:31 |
-| 10 | [burn down everything](https://open.spotify.com/track/4O9gHHOl9rpHtasRdFBFxd) | [Orbit Service](https://open.spotify.com/artist/1Ebw2dMuB90FgMsddepveL) | [burn down everything](https://open.spotify.com/album/0trlZIP1RAv04237302ppf) | 4:24 |
-| 11 | [C’est Fantastique](https://open.spotify.com/track/7tACdg3fF0XqD46A5qVBNr) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [C’est Fantastique](https://open.spotify.com/album/6mnVV6qG85fVLaWRFbhF6M) | 2:59 |
+| 8 | [C’est Fantastique](https://open.spotify.com/track/7tACdg3fF0XqD46A5qVBNr) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [C’est Fantastique](https://open.spotify.com/album/6mnVV6qG85fVLaWRFbhF6M) | 2:59 |
+| 9 | [i want to stay, you want to leave](https://open.spotify.com/track/6I6IVFZpNeDET2b29lOLXz) | [CORE MATO](https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC) | [i want to stay, you want to leave](https://open.spotify.com/album/1PSyJ1o532GVUJSuvBTcHy) | 2:55 |
+| 10 | [È solo un momento](https://open.spotify.com/track/6NCYQaMYJ8BM7SscFAcDfF) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [È solo un momento](https://open.spotify.com/album/5w0vtVhoTzKWq8t46pqLwW) | 3:31 |
+| 11 | [burn down everything](https://open.spotify.com/track/4O9gHHOl9rpHtasRdFBFxd) | [Orbit Service](https://open.spotify.com/artist/1Ebw2dMuB90FgMsddepveL) | [burn down everything](https://open.spotify.com/album/0trlZIP1RAv04237302ppf) | 4:24 |
 | 12 | [Nato Nel Posto Sbagliato \- dal film "Tutta colpa del rock"](https://open.spotify.com/track/7C0Fto60xwpRwJq2ow9YNI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Nato Nel Posto Sbagliato \(dal film "Tutta colpa del rock"\)](https://open.spotify.com/album/5g3yxYSHbeI2VeFKYdM7WJ) | 2:19 |
 | 13 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 |
 | 14 | [Blenders](https://open.spotify.com/track/5lHXFgMqhII82bAGB3ptxN) | [Long Stay Ultra Girls](https://open.spotify.com/artist/3eovh5YKFX6jvFCp4Uz8ZG) | [Blenders](https://open.spotify.com/album/3LjpZzI1uIgM58yO2YRDuN) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Non ho più sangue per te](https://open.spotify.com/track/13CRRDcmr1NivSs4dG5izX) | [Gardenia](https://open.spotify.com/artist/5N8nI9X3kxma1F7KV6AMFx), [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [Non ho più sangue per te](https://open.spotify.com/album/3t59zpqiH1n5EIj7Q3fTso) | 3:48 |
 | 100 | [ogni tanto fa un gesto chiaro](https://open.spotify.com/track/517bF2a83xOmG6iKItY7bJ) | [LENORE](https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT) | [ogni tanto fa un gesto chiaro](https://open.spotify.com/album/5k8pKG9krxD9Ijd4rJ56Zx) | 2:17 |
 
-Snapshot ID: `aIvnsAAAAAA0vD0WBn2ac2XiUeFiK2Kr`
+Snapshot ID: `aJG9twAAAADT4TIVhiql1YKYlFIPGpBn`

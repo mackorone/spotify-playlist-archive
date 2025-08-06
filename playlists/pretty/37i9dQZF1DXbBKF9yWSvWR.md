@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,201 likes - 84 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,198 likes - 84 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 83 | [I Don't Wanna](https://open.spotify.com/track/0rt5jpP3FPHUmmrthlUsL6) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [I Don't Wanna](https://open.spotify.com/album/6sDEM9Y2n39EFkqhjtCESe) | 4:46 |
 | 84 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
 
-Snapshot ID: `AAAAALPPyEgX6okXph+ea2s4o0X1BVdw`
+Snapshot ID: `aJEtagAAAAAwd9hW24+8foyZTiPoH/La`

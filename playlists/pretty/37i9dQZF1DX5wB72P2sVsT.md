@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Trinix au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,059 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,078 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 |
 | 40 | [Mr\. Lie to Me](https://open.spotify.com/track/4RvvNtKEOBbZpegZiCOFOD) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX), [EYLR](https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV) | [Mr\. Lie to Me](https://open.spotify.com/album/2qPyJztYtdQNDxuN5ESdjv) | 2:49 |
 
-Snapshot ID: `aIvnfAAAAACf9341bILilvLmWe6joqui`
+Snapshot ID: `aIvnfAAAAAC18WQh6aU9Umaf8RxwcMXv`

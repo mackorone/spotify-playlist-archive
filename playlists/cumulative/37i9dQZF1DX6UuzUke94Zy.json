@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-05-30",
-  "description": "Get ready for the upcoming concert by listening to the best songs from the concert lineup! The interview is coming soon! (\ubbf8\ud305\ub8f8 \ucc38\uac00 \ub77c\uc778\uc5c5\uc758 \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \uacf5\uc5f0\uc744 \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the LIVE SET including the voices of them on stage! (\uac00\uc218\ub4e4\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "MEETING ROOM - 002",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 175875,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/5A2nLhK3EcURO5IL1h1J2v"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 349640,
       "name": "Cloud City",
       "url": "https://open.spotify.com/track/6PpiaBT36awZoXl0G3rjPt"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 63000,
       "name": "DOOR PLANT",
       "url": "https://open.spotify.com/track/4vJrV5opMzpBZ3pi8KEM94"
@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "PoP!? Plant",
+        "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185642,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/52WxJyEO3MqIO4XXl0YbMK"
+    },
+    {
+      "album": {
         "name": "Q.",
         "url": "https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 235372,
       "name": "I love to sleep more than you",
       "url": "https://open.spotify.com/track/7yZT1DnSMfaUqSncqb2nKx"
@@ -398,7 +416,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 293052,
       "name": "I'm Saying, Love you",
       "url": "https://open.spotify.com/track/3GG8NzDS00WV0kErCMT1D9"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 261262,
       "name": "Jungle Gym",
       "url": "https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 286748,
       "name": "Just Sometime",
       "url": "https://open.spotify.com/track/1a3OQ5pOJ2qjspMBB3f7pX"
@@ -546,10 +564,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 310853,
       "name": "Look of a Dream",
       "url": "https://open.spotify.com/track/0zeFm6Rj1exxilhkXEBwvQ"
+    },
+    {
+      "album": {
+        "name": "Drowsiness of DOEK",
+        "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235519,
+      "name": "Made in...",
+      "url": "https://open.spotify.com/track/0cGGVk8iPAJ5mjTxiWfZBx"
     },
     {
       "album": {
@@ -564,7 +600,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 1141141,
       "name": "Meeting Room Interview \u2013 Spotify Editor\u2019s View on chiyoonhae",
       "url": "https://open.spotify.com/episode/6qJDtWCNtOgeNZUhf1vSms"
@@ -582,7 +618,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 715008,
       "name": "Meeting Room Interview \u2013 Spotify Editor\u2019s View on Enfants",
       "url": "https://open.spotify.com/episode/15hBzRE7XQFLphNWG2ntW2"
@@ -600,10 +636,100 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 1583893,
       "name": "Meeting Room Interview \u2013 Spotify Editor\u2019s View on Samui",
       "url": "https://open.spotify.com/episode/2KivG8AU316z9oTXIF8wyz"
+    },
+    {
+      "album": {
+        "name": "MEETING ROOM 002",
+        "url": "https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY"
+      },
+      "artists": [
+        {
+          "name": "MEETING ROOM 002",
+          "url": "https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37837,
+      "name": "Ment 1",
+      "url": "https://open.spotify.com/track/6ZLWkbK2SwCqbOopkwFzYy"
+    },
+    {
+      "album": {
+        "name": "MEETING ROOM 002",
+        "url": "https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY"
+      },
+      "artists": [
+        {
+          "name": "MEETING ROOM 002",
+          "url": "https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58628,
+      "name": "Ment 2",
+      "url": "https://open.spotify.com/track/3qFFLvZS7leTxbjHLNPud6"
+    },
+    {
+      "album": {
+        "name": "MEETING ROOM 002",
+        "url": "https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY"
+      },
+      "artists": [
+        {
+          "name": "MEETING ROOM 002",
+          "url": "https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25301,
+      "name": "Ment 3",
+      "url": "https://open.spotify.com/track/5AQMXp1JVOSQACqJmd86jz"
+    },
+    {
+      "album": {
+        "name": "MEETING ROOM 002",
+        "url": "https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY"
+      },
+      "artists": [
+        {
+          "name": "MEETING ROOM 002",
+          "url": "https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35771,
+      "name": "Ment 4",
+      "url": "https://open.spotify.com/track/592CfdkHU5V4l8CaeA6meE"
+    },
+    {
+      "album": {
+        "name": "MEETING ROOM 002",
+        "url": "https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY"
+      },
+      "artists": [
+        {
+          "name": "MEETING ROOM 002",
+          "url": "https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21916,
+      "name": "Ment 5",
+      "url": "https://open.spotify.com/track/72NGENWmtIGy7ejLvGyuc6"
     },
     {
       "album": {
@@ -658,7 +784,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 246506,
       "name": "Origin",
       "url": "https://open.spotify.com/track/00trFnWtt2REuEwmKoh0GM"
@@ -694,7 +820,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 291640,
       "name": "Playing Alone",
       "url": "https://open.spotify.com/track/5fNb4E7j0VKDPr4RkzYoKU"
@@ -719,6 +845,24 @@
     },
     {
       "album": {
+        "name": "PoP!? Plant",
+        "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183425,
+      "name": "Playphone",
+      "url": "https://open.spotify.com/track/6jGnHFWgHRNsOQYwnxru5b"
+    },
+    {
+      "album": {
         "name": "Drowsiness of DOEK",
         "url": "https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy"
       },
@@ -730,7 +874,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 237187,
       "name": "Plum",
       "url": "https://open.spotify.com/track/2Qc7skjzis9Ttcu1mQQFdw"
@@ -802,7 +946,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 166747,
       "name": "Sabye",
       "url": "https://open.spotify.com/track/1kxZxuLUqsvx5nwnM1D1Ez"
@@ -928,7 +1072,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 294813,
       "name": "Sway and Waver",
       "url": "https://open.spotify.com/track/2kYWx6Y5M8oAjNBGvtDI60"
@@ -946,7 +1090,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 254457,
       "name": "Ter nun ngai",
       "url": "https://open.spotify.com/track/3n9ttHh5XfX8pS7imb6TyP"
@@ -1022,6 +1166,24 @@
       "duration_ms": 145533,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/2KAZemXZCmVODPbVPQWJyn"
+    },
+    {
+      "album": {
+        "name": "PoP!? Plant",
+        "url": "https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185368,
+      "name": "Wannabesadsong",
+      "url": "https://open.spotify.com/track/08Kx6ySadZUuHludLcD1bR"
     },
     {
       "album": {
@@ -1130,7 +1292,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 181592,
       "name": "\uc18c\uc18c\ub9ac\ubc14\ub78c",
       "url": "https://open.spotify.com/track/6hi5oK5Dxij58AxLThlSqD"
@@ -1148,7 +1310,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 281033,
       "name": "\uccad\ucd98",
       "url": "https://open.spotify.com/track/5ooqFNim3S9d9ulyct6uOy"

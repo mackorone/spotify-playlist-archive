@@ -4,7 +4,7 @@
 
 > El Dembow que ta subiendo\. Foto: Jey One
 
-1,097 songs - 2 day 0 hr 50 min
+1,097 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1076,7 +1076,7 @@
 | [Viña Mari](https://open.spotify.com/track/2bt6YuysKAK3md7r4jiRym) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Chris Tales](https://open.spotify.com/artist/0kBSH5WbfzUM9GJYRALncq) | [De Chava](https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn) | 2:33 | 2025-05-21 |  |
 | [Volanta](https://open.spotify.com/track/0BTGQeSh4fx9fKRI9kHp4P) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Kelay Teddy](https://open.spotify.com/artist/0CzzMXFbLwNSRfNoIzaH9W) | [Volanta](https://open.spotify.com/album/4NL30vupuZZKoZWqzo3910) | 2:03 | 2025-04-24 | 2025-05-16 |
 | [Volarán](https://open.spotify.com/track/0alEegt0N4cIIAHx9XoYhp) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Volarán](https://open.spotify.com/album/1kwlU1D55Ad7WX0dVBt0l4) | 2:20 | 2024-11-21 | 2024-12-13 |
-| [Voltio](https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Voltio](https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03) | 2:13 | 2025-07-24 |  |
+| [Voltio](https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Voltio](https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03) | 1:54 | 2025-07-24 |  |
 | [VOLVIO EL KURRU](https://open.spotify.com/track/1uGlvEh0Sp2EuJNFwVdCXV) | [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [VOLVIO EL KURRU](https://open.spotify.com/album/1nREYxraVsVetErRDnfTNW) | 3:28 | 2024-08-01 | 2024-12-04 |
 | [Volví](https://open.spotify.com/track/1ogvGl7qlMMDAxYSB1jN1C) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX) | [Volví](https://open.spotify.com/album/2RWJMa3SBgAQDu9lA76VKa) | 2:00 | 2024-11-06 | 2024-11-22 |
 | [Voy Pa' New York](https://open.spotify.com/track/2jh7WeLQZ0sStVzmSb2M2V) | [Albert Diamond](https://open.spotify.com/artist/4mhdzOqGkzXjckKkBvZ5wA), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [El Malcriao](https://open.spotify.com/artist/1IgscUJtHYOj0qQSEWvLjP) | [Voy Pa' New York](https://open.spotify.com/album/720ou6I9LE0v5I64He9WOs) | 3:13 | 2021-12-10 | 2022-07-26 |

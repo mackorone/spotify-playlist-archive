@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fcukers
 
-342 songs - 21 hr 19 min
+343 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Don't Try This At Home](https://open.spotify.com/track/4MtZ981NhMVxXCwu6hdwyA) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Don't Try This At Home](https://open.spotify.com/album/2piM4Hh6vF1EMobLn92bqq) | 3:33 | 2025-01-31 | 2025-02-14 |
 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2024-03-01 | 2024-04-19 |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2024-04-12 | 2024-10-25 |
+| [Don't Wanna Wait](https://open.spotify.com/track/33OtLOVRiF9fccKCbWI8Gu) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Don't Wanna Wait](https://open.spotify.com/album/1qkKU3aHbyInDgKAW7BzU8) | 3:54 | 2025-08-01 |  |
 | [Dopamine Detox](https://open.spotify.com/track/1L1EKS4V4fXLuXfOduyZ9t) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [This Is A Reminder That You Are Not Behind Your Face](https://open.spotify.com/album/3VcbVj4rqE1ICcd14Hp3La) | 3:06 | 2024-02-02 | 2024-07-27 |
 | [DoubleDouble](https://open.spotify.com/track/6DeawSklDE2dtzqTJBba7y) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [DoubleDouble](https://open.spotify.com/album/0hnvFoFIFSk3ljBGvU1OfQ) | 2:47 | 2025-02-21 |  |
 | [Down And Out \(Where E\-Girls Dare\)](https://open.spotify.com/track/4VVtRw0YWUQ72iA8R5VGU4) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [We Will Annihilate Our Enemies](https://open.spotify.com/album/3lkEkMGrB1JpIvf45r4HIg) | 3:44 | 2025-04-17 |  |
@@ -270,7 +271,7 @@
 | [Show the Way](https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Show the Way](https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J) | 4:21 | 2025-04-17 |  |
 | [Shut My Mouth](https://open.spotify.com/track/5cI4oDkASkMmaXxMVNzqKK) | [The Valla](https://open.spotify.com/artist/4YhQHwK37kKWxXGiNbCu1R) | [Shut My Mouth](https://open.spotify.com/album/0mTMooSBjeE2INrKU8AVqf) | 3:26 | 2021-10-28 | 2024-02-02 |
 | [Sister Infinity \- Edit](https://open.spotify.com/track/2FmxpCtAKpL2VT7abM5Jeq) | [HARD FEELINGS](https://open.spotify.com/artist/62leN9NRMUgDfPzshm7K5L) | [Sister Infinity](https://open.spotify.com/album/1sDjnXH9RgKCRPi2tczLy7) | 3:19 | 2021-10-28 | 2024-02-23 |
-| [So High](https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [So High](https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA) | 5:39 | 2025-06-26 |  |
+| [So High](https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [So High](https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA) | 5:39 | 2025-06-26 | 2025-08-06 |
 | [So Late \(Goldteeth Remix\)](https://open.spotify.com/track/5FXXRLw5EpDFRrPzAifM8t) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC), [Goldteeth](https://open.spotify.com/artist/0npO8yNUPxsLaomZudHo8w) | [So Late \(Goldteeth Remix\)](https://open.spotify.com/album/6SVRd1EYyIbnGjojfjXY8K) | 2:57 | 2021-10-28 | 2023-08-10 |
 | [So Late \- Goldteeth Remix](https://open.spotify.com/track/6W8xk66YHob4Yloy8aArZy) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC), [Gold Teeth](https://open.spotify.com/artist/2xmfCofOQt2Pqcv8Whg6ay) | [So Late \(Goldteeth Remix\)](https://open.spotify.com/album/3bISjcvWbNhblILoMOmVvG) | 2:57 | 2021-10-28 | 2024-03-22 |
 | [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 | 2024-10-24 |  |

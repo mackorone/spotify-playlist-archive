@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Deep night",
+        "url": "https://open.spotify.com/album/5kuKKjzwQlRqzUt4Ar7gdh"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235904,
+      "name": "Deep night",
+      "url": "https://open.spotify.com/track/27qH8mnTdm86KYkbeI1hQW"
+    },
+    {
+      "album": {
         "name": "The Joke / Deranged",
         "url": "https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB"
       },
@@ -874,6 +892,24 @@
       "duration_ms": 219280,
       "name": "Fire in These Hills",
       "url": "https://open.spotify.com/track/2Morv8EWzWFsfbqG8vdUfy"
+    },
+    {
+      "album": {
+        "name": "flaws",
+        "url": "https://open.spotify.com/album/2Adt1TBWz0YWzCD0JBVAme"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203558,
+      "name": "flaws",
+      "url": "https://open.spotify.com/track/0V4sLTiyku7aRDsrpKyHYv"
     },
     {
       "album": {
@@ -1097,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "How Could You Darling",
+      "url": "https://open.spotify.com/track/1fJ4oq1PhCd4HmncFKTi5M"
+    },
+    {
+      "album": {
         "name": "Summer Plumage",
         "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
       },
@@ -1296,7 +1350,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 266499,
       "name": "Love Shine",
       "url": "https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt"
@@ -2474,7 +2528,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 174133,
       "name": "The Craving (Jenna's version)",
       "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
@@ -2672,7 +2726,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 159800,
       "name": "We Don't Wanna Talk",
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,697 likes - 76 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,703 likes - 76 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

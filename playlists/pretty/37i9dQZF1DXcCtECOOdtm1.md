@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,726 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,741 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [Summer's Gone](https://open.spotify.com/track/6ba2rP5GlBGvf6iGre793z) | [GREAT3](https://open.spotify.com/artist/30J6mBcyUPnaFvosCbwril) | [Richmondo High](https://open.spotify.com/album/23Va8dFffSGu9AmvygAtff) | 5:16 |
 | 50 | [双子座グラフィティ](https://open.spotify.com/track/4a7fOYlDAiskqEgmeQsAQh) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [ペイパードライヴァーズミュージック](https://open.spotify.com/album/3mukrXkwtuUnV4HTA0yqQ4) | 4:50 |
 
-Snapshot ID: `ZnzN5QAAAAAGz7Uc+mArGAnkfH1zVukW`
+Snapshot ID: `AAAAALngAxF6k00soAPSkWwy32mDXEzZ`

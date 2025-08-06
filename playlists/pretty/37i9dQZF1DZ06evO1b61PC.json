@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11299,
+  "num_followers": 11298,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAAD9OP9PJG0O+TRou3donLK5",
+  "snapshot_id": "aI/4AAAAAABRfxlFzn9lI41mSG1aZ5Ba",
   "tracks": [
     {
       "added_at": null,
@@ -563,30 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The End (Jai Wolf Club Babu Remix)",
-        "url": "https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc"
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
       },
       "artists": [
         {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 229928,
-      "name": "In The End - Jai Wolf Club Babu Remix",
-      "url": "https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS"
+      "duration_ms": 95500,
+      "name": "This Space In My Heart Is for You",
+      "url": "https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3"
     },
     {
       "added_at": null,
@@ -611,18 +599,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
+        "name": "In The End (Jai Wolf Club Babu Remix)",
+        "url": "https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc"
       },
       "artists": [
         {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 95500,
-      "name": "This Space In My Heart Is for You",
-      "url": "https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3"
+      "duration_ms": 229928,
+      "name": "In The End - Jai Wolf Club Babu Remix",
+      "url": "https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS"
     },
     {
       "added_at": null,

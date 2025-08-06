@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 420838,
+  "num_followers": 420895,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI6mgAAAAABkoEB+KlEOCnib6psC82q0",
+  "snapshot_id": "aI/4AAAAAABvKFuJRbmKi7p2pZntGI3A",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Out For #1",
-        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "Bob Rock",
-          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
-        },
-        {
-          "name": "Adam Greenholtz",
-          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
         }
       ],
-      "duration_ms": 150553,
-      "name": "Looking Out For #1 - Ska Version",
-      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
+      "duration_ms": 241786,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
     },
     {
       "added_at": null,
@@ -647,18 +639,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+        "name": "Looking Out For #1",
+        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
+        },
+        {
+          "name": "Adam Greenholtz",
+          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
+      "duration_ms": 150553,
+      "name": "Looking Out For #1 - Ska Version",
+      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
     },
     {
       "added_at": null,

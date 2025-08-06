@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-651 songs - 1 day 4 hr 12 min
+654 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2022-04-22 | 2024-02-14 |
 | [Distant Glow](https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:11 | 2022-04-22 | 2023-04-19 |
 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-08 |  |
+| [docile](https://open.spotify.com/track/32d6hHOruz7YSM1V4o0JSi) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [docile](https://open.spotify.com/album/5J2X0qHRnjhOZXcir9RlEO) | 2:31 | 2025-08-05 |  |
 | [Dolci Onde](https://open.spotify.com/track/7fEzNMe3cbrrigKWXaAw25) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [Dolci Onde](https://open.spotify.com/album/6gE4b75yGmknTpGYSYWSEj) | 3:05 | 2023-06-19 | 2025-05-15 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-22 | 2024-02-14 |
 | [Dormancy](https://open.spotify.com/track/0gTGHIdwerQJczdziYMaoq) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Dormancy](https://open.spotify.com/album/1nJmaA5MmaQ8U8t2eknqYz) | 2:49 | 2024-03-04 |  |
@@ -200,6 +201,7 @@
 | [Forever](https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t) | [Muriel Bardsley](https://open.spotify.com/artist/1Lzqsd4iWBfVbx2AiRP3xu) | [Forever](https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom) | 2:58 | 2022-04-22 | 2024-02-14 |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-19 |  |
 | [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-04-22 | 2024-04-16 |
+| [From a Distance](https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw) | [Mindy Thurma](https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui) | [From a Distance](https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa) | 2:27 | 2025-08-05 |  |
 | [From Above](https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Your Story](https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2) | 1:46 | 2022-09-15 | 2023-07-19 |
 | [Frozen Flower](https://open.spotify.com/track/4WfY4hp9fBxqw4pVbiYoYb) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Frozen Flower](https://open.spotify.com/album/3gSPyAbHzv4UkOFHdkgKH9) | 3:21 | 2025-07-21 | 2025-07-26 |
 | [Full Of Life](https://open.spotify.com/track/2YsCoCOAiyDziuyHATGgz6) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Full Of Life](https://open.spotify.com/album/4vFDgnDqr5AQNnc1kElFQU) | 2:08 | 2023-03-21 |  |
@@ -526,6 +528,7 @@
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-04-22 | 2022-07-28 |
 | [Stay In Yesterday](https://open.spotify.com/track/68gOBP9twtrWZUOlwt6wZ6) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Stay In Yesterday](https://open.spotify.com/album/68GR3IKpucg2wwvYVDjIwH) | 2:35 | 2022-11-14 | 2025-05-15 |
 | [Stay with me](https://open.spotify.com/track/7K1S5y76RWJY7jIxSWupEy) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Stay with me](https://open.spotify.com/album/72ApxPcjCBMGRaHZgmbByA) | 2:47 | 2023-03-28 | 2023-05-10 |
+| [Still Learning](https://open.spotify.com/track/26w3iwMrx0lGz6z0GxRrag) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Still Learning](https://open.spotify.com/album/1Mffxx3WlFQtHRdWQWBG2F) | 2:22 | 2025-08-05 |  |
 | [Still Waters](https://open.spotify.com/track/4c3jTa0EKfUHpbfWUeHFiT) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Still Waters](https://open.spotify.com/album/1hfQwFVwaRVffpbIbQbJ3w) | 2:32 | 2024-03-19 |  |
 | [Stolen Moments](https://open.spotify.com/track/5y3ZKV2ze2sbNHN4InCSax) | [Thomas Michel](https://open.spotify.com/artist/744uxt5OILVuM5odydzxS3) | [Stolen Moments](https://open.spotify.com/album/2Meli6G9X3R09ZJgwB1fM4) | 2:07 | 2022-05-27 | 2024-11-20 |
 | [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2022-04-22 | 2023-01-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Champion Sounds\. Winners' anthems\. Curated by Super Falcons' Michelle Alozie
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,266 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,547 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 51 | [The Suitor](https://open.spotify.com/track/4XeskUroaTIAkwJ9zR5mrt) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [The Suitor](https://open.spotify.com/album/2TnhmsO6A6pUumKSewnUjA) | 2:24 |
 | 52 | [Che Che \(feat\. Asake\)](https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Che Che \(feat\. Asake\)](https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R) | 2:49 |
 
-Snapshot ID: `aJCUKAAAAABicjvf5dQw3xCRprfvbVfu`
+Snapshot ID: `AAAAAJlYAccMFvCoSf/BSmjqHZ7BDtEc`

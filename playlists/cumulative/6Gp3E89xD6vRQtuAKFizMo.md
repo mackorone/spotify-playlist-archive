@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-479 songs - 23 hr 1 min
+480 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Drop It Low](https://open.spotify.com/track/1OO5UsqmBs0zJ6gNiFtBrs) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Drop It Low](https://open.spotify.com/album/5tTRD6Y50fDdgOtmlwt5xp) | 2:17 | 2025-02-28 |  |
 | [Eclipse](https://open.spotify.com/track/2fGRhdxBQeJ1BKfOGp4bOU) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Eclipse](https://open.spotify.com/album/6pI4baZes1gQ3p6VETX9Z5) | 3:31 | 2023-04-21 | 2025-04-27 |
 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 | 2022-05-06 | 2022-08-27 |
+| [Electrified \(feat\. Meggie York\)](https://open.spotify.com/track/27rNi4LbU3ZgKwPRYNyAQE) | [Manolo](https://open.spotify.com/artist/5KZyaSfK2qb3HTWHP1934B), [NIO](https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [Electrified \(feat\. Meggie York\)](https://open.spotify.com/album/129bJi3DuftUpoEJyB9otr) | 3:26 | 2025-08-05 |  |
 | [En Secreto](https://open.spotify.com/track/6lNd1FVwfPPmcXQM3Pr0xU) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [En Secreto](https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1) | 2:09 | 2022-12-09 | 2022-12-20 |
 | [End Of The World](https://open.spotify.com/track/25tekS8txsCQov85px1xm2) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [End Of The World](https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs) | 3:45 | 2022-05-06 | 2022-08-18 |
 | [Enough For Me \(feat\. Livingston Crain\)](https://open.spotify.com/track/5dh9lSF8pKmAsAzXChRuDv) | [JONJEN](https://open.spotify.com/artist/7Fvv7NUrcjBwOC3r9wfgaI), [Livingston Crain](https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn) | [Enough For Me \(feat\. Livingston Crain\)](https://open.spotify.com/album/5UJH43CmBlwX6Bwuai8DiT) | 3:47 | 2024-06-18 | 2025-04-27 |

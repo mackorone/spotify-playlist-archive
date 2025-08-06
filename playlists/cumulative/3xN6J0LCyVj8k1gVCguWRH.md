@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,213 songs - 12 day 3 hr 38 min
+5,214 songs - 12 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3386,7 +3386,7 @@
 | [Overthinking](https://open.spotify.com/track/3JGlL8TbpPngdvo2JHowof) | [Self Made Davion](https://open.spotify.com/artist/7g6wmwFUNfjUWZWmZcRDOo) | [Overthinking](https://open.spotify.com/album/6pSXZIagV8pNRW7mqcVwcZ) | 1:37 | 2024-08-07 | 2024-08-19 |
 | [Overtime](https://open.spotify.com/track/1U24a4WyDqFhB9Fvsh9l6w) | [Merger](https://open.spotify.com/artist/6ibRf7SDr5Vj50Wny4XCV7), [Zachary Staines](https://open.spotify.com/artist/1zwl21nkg38BwnO5VhlLsk) | [Overtime](https://open.spotify.com/album/2EVMOlSvtwmXNWz8Prt5E7) | 3:07 | 2021-01-29 | 2021-02-13 |
 | [Owe Me Money](https://open.spotify.com/track/0PGCHyGkisSIn2e0Fllwzi) | [Tolliver](https://open.spotify.com/artist/0wOGyFuFZwtEqyLdFC0FlZ) | [Owe Me Money](https://open.spotify.com/album/76rkWiMkX5BoXEuHDGLSoJ) | 2:57 | 2020-06-29 | 2020-07-13 |
-| [Owl Lounge](https://open.spotify.com/track/1OJAfuTxsCoYqjRJZckPo6) | [정재승](https://open.spotify.com/artist/38IgOhYlV3QRqGRL3bEpnq) | [Owl Lounge](https://open.spotify.com/album/1sUPdyLdN6j4vf2nkGEuFp) | 2:59 | 2025-07-18 |  |
+| [Owl Lounge](https://open.spotify.com/track/1OJAfuTxsCoYqjRJZckPo6) | [정재승](https://open.spotify.com/artist/38IgOhYlV3QRqGRL3bEpnq) | [Owl Lounge](https://open.spotify.com/album/1sUPdyLdN6j4vf2nkGEuFp) | 2:59 | 2025-07-18 | 2025-08-06 |
 | [Oxbow Shower](https://open.spotify.com/track/6x7raSSPAeGs3SVTrzP5JB) | [Quiet Takes](https://open.spotify.com/artist/3qA9q27gKjuMgIq96xvrfS) | [Regrets Only](https://open.spotify.com/album/5MVIvMJjW0tFtpxnwIn8TS) | 3:22 | 2024-03-12 | 2024-03-25 |
 | [Oye Como Va](https://open.spotify.com/track/7HyAOHj2GhpB64rlrUEClA) | [MJ Songstress](https://open.spotify.com/artist/4nRHcfAmMSUanRKGE6vw3Q) | [Oye Como Va](https://open.spotify.com/album/3C6zsNP0BlBM4Iz1H5aXhb) | 3:38 | 2021-10-30 | 2022-02-27 |
 | [P.S.](https://open.spotify.com/track/7DPhPb2XcbpcVrvypn9DjT) | [Leo Lovechild](https://open.spotify.com/artist/2PWREFLQkRaPlrHyp8Pe9V) | [love is only as great as the sum of its parts](https://open.spotify.com/album/5sJGMzmDAz8DCQykwGcJTy) | 3:43 | 2024-04-17 | 2024-05-06 |
@@ -4617,6 +4617,7 @@
 | [To It](https://open.spotify.com/track/29p3pg4J4sHIlKoequiynH) | [Aryeè The Gem](https://open.spotify.com/artist/57IyzVgCqSf03yf30gIMwY) | [To It](https://open.spotify.com/album/0CjifVdpPhTsHt4hR68u6Z) | 2:46 | 2023-05-01 | 2023-05-21 |
 | [To Let Go](https://open.spotify.com/track/4Kkph2zZTrD3oCSQ89NgiN) | [Doivid](https://open.spotify.com/artist/7mht5L9b1WuGi5eKzxUs08) | [To Let Go](https://open.spotify.com/album/2OeADQtZxKWdELW2dfMJkn) | 3:30 | 2024-05-31 | 2024-06-11 |
 | [To Live & Die In Amerikkka](https://open.spotify.com/track/5lLDk6pb6kAdqyCmA9O400) | [LB199X](https://open.spotify.com/artist/2Q0j8jCsQAW5hMUeKuEryM) | [Color Us](https://open.spotify.com/album/6f2hY1aVpfDS8VD2hFgyfe) | 4:18 | 2019-12-08 | 2019-12-17 |
+| [To Love a Girl](https://open.spotify.com/track/0lVTrQu9VlFG4KYWG6gGoI) | [nys the halfsoul](https://open.spotify.com/artist/2RRycyJ57DBC9gGiPBZz0l), [FK](https://open.spotify.com/artist/4yXJ0seawIpcG3BOPr9eKG) | [To Love a Girl](https://open.spotify.com/album/1BKLZMbuCq177D8xLi9Gsh) | 2:44 | 2025-08-05 |  |
 | [To Love Like You](https://open.spotify.com/track/3iTlPsoBUOCXENasWdGodS) | [Anabella Ross](https://open.spotify.com/artist/0nC8Z271ILtDG9UNDJqZLw), [Dewey Huang](https://open.spotify.com/artist/66lGnVuB19zf3wVoli0Tov) | [To Love Like You](https://open.spotify.com/album/4CaQpZS8ZJO1FOAzIKVpTt) | 3:02 | 2025-02-19 | 2025-03-03 |
 | [To Mary](https://open.spotify.com/track/4p2Vb5uiylGLVRSFt4hKfq) | [Anthony Dubois](https://open.spotify.com/artist/2vz50FkmfFfYskP6K1ekq1) | [To Mary](https://open.spotify.com/album/2Cdr1fRJNUuaAJ5p8qVvUd) | 3:55 | 2022-04-15 | 2022-04-30 |
 | [To My Love](https://open.spotify.com/track/653SNDYmxVTPH2SwP6BE1H) | [Eric Bolton](https://open.spotify.com/artist/7MesUgS9kmfcTyWC52K2iY) | [Here Between](https://open.spotify.com/album/6YobaSE6AX9L6NGW0jXMJr) | 3:16 | 2022-12-30 | 2023-01-21 |
@@ -4957,7 +4958,7 @@
 | [What I Live For](https://open.spotify.com/track/6TvbTJeOiS2GfNta72CtcY) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [What I Live For](https://open.spotify.com/album/149F2ut9m1Y2EXEnaMTfQ7) | 2:00 | 2024-06-26 | 2024-07-08 |
 | [What I'm Not Gonna Do](https://open.spotify.com/track/2GqPzHFm4Dcuyr48co7llk) | [Dina Renee](https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ) | [What I'm Not Gonna Do](https://open.spotify.com/album/1x7JvhDv4ct3MscmmcTKkq) | 2:54 | 2024-11-16 | 2024-11-28 |
 | [What if](https://open.spotify.com/track/5PDtoSXgJfq8QMavmoNsvn) | [Isa Bellido](https://open.spotify.com/artist/0X87molz4985PMgGOcEVN3) | [What if](https://open.spotify.com/album/04gFOCcTs3WAVOwbJuvEu4) | 2:40 | 2023-03-09 | 2023-04-02 |
-| [What if I Could](https://open.spotify.com/track/4bVmwImJZ9gOhUUwQeLrvA) | [About You](https://open.spotify.com/artist/7sOJEMeZc3dgr8JIFtXyYW) | [What if I Could](https://open.spotify.com/album/3PNjy3kZKRcSjQZrPSJoMZ) | 3:24 | 2025-07-24 |  |
+| [What if I Could](https://open.spotify.com/track/4bVmwImJZ9gOhUUwQeLrvA) | [About You](https://open.spotify.com/artist/7sOJEMeZc3dgr8JIFtXyYW) | [What if I Could](https://open.spotify.com/album/3PNjy3kZKRcSjQZrPSJoMZ) | 3:24 | 2025-07-24 | 2025-08-06 |
 | [what if you break my heart again](https://open.spotify.com/track/7Fr2RRp9HBqfXdC6n3mMhB) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [what if you break my heart again](https://open.spotify.com/album/1G6C5Crg74VSejc5Xyuh6C) | 2:54 | 2022-10-14 | 2022-12-03 |
 | [What Is Love](https://open.spotify.com/track/5jKjUSRlHerD1UfdWyvKfS) | [Alvin Whitte](https://open.spotify.com/artist/1FC1eTUauFiZrcIawwc6rD) | [What Is Love](https://open.spotify.com/album/3FCDH2leLj9Kdau57aZsSP) | 2:43 | 2020-02-21 | 2020-03-11 |
 | [What Is Love](https://open.spotify.com/track/7HErxkHvSktrG09jtsbG6c) | [Orion and the Melted Crayons](https://open.spotify.com/artist/2z1E9QDGOeaEg6XaUS4eSc) | [The Good Stuff](https://open.spotify.com/album/0vnEfoQOupRZdfj5wdej5U) | 3:38 | 2021-09-18 | 2021-10-03 |

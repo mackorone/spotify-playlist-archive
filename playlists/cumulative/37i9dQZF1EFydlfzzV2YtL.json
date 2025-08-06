@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "butter",
+        "url": "https://open.spotify.com/album/4jjLX1iv8QjA5l3i6l4mKD"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158231,
+      "name": "Bread (butter version)",
+      "url": "https://open.spotify.com/track/7naYG9loUEO01h7NqnTKiA"
+    },
+    {
+      "album": {
         "name": "Break a Sweat",
         "url": "https://open.spotify.com/album/2nWxnJlsL1bzC2wHtouEvZ"
       },

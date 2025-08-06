@@ -114,10 +114,28 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 130658,
       "name": "All Aboard",
       "url": "https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX"
+    },
+    {
+      "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130658,
+      "name": "All Aboard",
+      "url": "https://open.spotify.com/track/5Bn4uE7SRLjO2qmCM63OwC"
     },
     {
       "album": {
@@ -736,7 +754,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 220730,
       "name": "Gone Are The Days",
       "url": "https://open.spotify.com/track/4k9JBFcMjr9utazVPxSySi"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 191613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 342012,
       "name": "The Descent",
       "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 177400,
       "name": "You Like It I Love It",
       "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"

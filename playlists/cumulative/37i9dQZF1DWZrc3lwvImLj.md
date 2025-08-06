@@ -4,12 +4,13 @@
 
 > lowkey crying.
 
-478 songs - 20 hr 54 min
+481 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [85mm](https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [85mm](https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV) | 2:59 | 2023-02-28 | 2023-05-10 |
 | [A Clear Mind](https://open.spotify.com/track/5CPZ6bTq6DNZyuaAH3BteC) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [A Clear Mind](https://open.spotify.com/album/4iLrnJeBbGSJOHmmFudmmX) | 2:11 | 2025-02-19 |  |
+| [A Forest Tale](https://open.spotify.com/track/0aOHjlTg0HE2n3R8VBsxik) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [A Forest Tale](https://open.spotify.com/album/57Db6TlvbRj77MzvdR0lWY) | 2:24 | 2025-08-05 |  |
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2021-12-14 | 2023-10-11 |
 | [A Sky On Fire](https://open.spotify.com/track/2VpTN9X4LJjVOkGmLFY6Fh) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [A Sky On Fire](https://open.spotify.com/album/2oCftHwKeRxgnEshiubb4K) | 1:54 | 2023-02-06 | 2023-11-16 |
 | [A Winter's Elegy](https://open.spotify.com/track/6bHkocAft4fa7LAfJqbRM7) | [Steven Poole](https://open.spotify.com/artist/1yQhRcOp7MsXQTZuoaOhyX) | [A Winter's Elegy](https://open.spotify.com/album/2eFmV9yZC88CNwG72C5pWS) | 2:23 | 2023-01-09 | 2023-11-16 |
@@ -26,6 +27,7 @@
 | [All Numbers End](https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 1:35 | 2022-07-28 | 2023-05-10 |
 | [All Numbers End](https://open.spotify.com/track/7pLoI3XJLM67CGKAnOf5M5) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Numbers End](https://open.spotify.com/album/2J8z6obkyZkBrBHUjiXERN) | 1:35 | 2021-12-14 | 2022-07-29 |
 | [alone at sea](https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [alone at sea](https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6) | 2:31 | 2024-08-20 |  |
+| [Alone in the Room](https://open.spotify.com/track/0gZrTTVm9uPztybIBR5gBv) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Alone in the Room](https://open.spotify.com/album/19nFYmxoMJJErGa5uZLx6v) | 2:41 | 2025-08-05 |  |
 | [Always Smile](https://open.spotify.com/track/6K5BSu5uwLrgyMZlcDgSCP) | [Valérie Valérie](https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25) | [Always Smile](https://open.spotify.com/album/2AKUrXCYqccpTnzxlXy3cl) | 2:50 | 2024-09-10 |  |
 | [Amber](https://open.spotify.com/track/31eqVCJgVXYnJa1GkQdJuC) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Amber](https://open.spotify.com/album/6xc2Dyjtqq4jdwFVTqdHpl) | 3:47 | 2021-12-14 | 2024-10-16 |
 | [And There You Were](https://open.spotify.com/track/0UqT57lsbRzjUt5lau8oLh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Until The Blissful Dawn](https://open.spotify.com/album/45UjPgFGq62QWAbmKiNxOM) | 2:24 | 2023-10-24 | 2023-11-09 |
@@ -91,7 +93,7 @@
 | [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 | 2022-12-21 |  |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-01-19 | 2023-11-16 |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2021-12-14 | 2022-05-05 |
-| [Cold Winter](https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Cold Winter](https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5) | 2:57 | 2025-01-07 |  |
+| [Cold Winter](https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Cold Winter](https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5) | 2:57 | 2025-01-07 | 2025-08-06 |
 | [Con Cupido](https://open.spotify.com/track/54eceUoCcFJUi1YV20rXfY) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Con Cupido](https://open.spotify.com/album/09LK6yRnnWz7pm6QIesK95) | 1:56 | 2023-02-28 | 2023-11-16 |
 | [Cos I doubt](https://open.spotify.com/track/4epcGvObMyr1L34QAkrFVH) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Cos I doubt](https://open.spotify.com/album/2G1z1EYEKOm06SSpEQBlA7) | 2:26 | 2022-09-13 |  |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-02-02 | 2025-04-10 |
@@ -220,6 +222,7 @@
 | [Longing For](https://open.spotify.com/track/4aKiZxaugtwU2ow4p13qFJ) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [Longing For](https://open.spotify.com/album/6LNMqIM9c1D2kBNrGFg7VN) | 2:23 | 2023-12-12 |  |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2021-12-14 | 2022-04-15 |
 | [Lost](https://open.spotify.com/track/3DXpfTvTezTECh3a3qjjiD) | [Sonny Klimp](https://open.spotify.com/artist/3RWIABJqEYYJJ8mDqjFhv4) | [Lost](https://open.spotify.com/album/0Ot15Cyb4fhdKpHGZKG9YG) | 2:04 | 2025-05-21 |  |
+| [Lost in your light](https://open.spotify.com/track/03WCxjmI3kGMf4UPMVcFHp) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Lost in your light](https://open.spotify.com/album/4OGR54PPjoNCX3HzqXfYNa) | 2:30 | 2025-08-05 |  |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-12-14 | 2022-05-21 |
 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 | 2023-06-20 |  |
 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 | 2024-04-15 |  |

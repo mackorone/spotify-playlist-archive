@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain]
 
 > Love who you want\. It’s good foreign policy\. Listen to the music from and inspired by Red, White & Royal Blue, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,044 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,043 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain]
 | 23 | [Color my life](https://open.spotify.com/track/7BejoLVTKcqTpVyrEedplW) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p) | 3:28 |
 | 24 | ["Was mir behagt, ist nur die muntre Jagd" Cantata, BWV 208: 9\. Schafe können sicher weiden \(Arr\. For Piano Four Hands by Mary Howe\)](https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lucas Jussen](https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI), [Arthur Jussen](https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars) | [Bach](https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M) | 4:15 |
 
-Snapshot ID: `ZNotbwAAAAAZGMWPmRDWnxbnH4LbNMwX`
+Snapshot ID: `AAAAAE2STXzz0cXK8jUCTHkKCGTQ3nw1`

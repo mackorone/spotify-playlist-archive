@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,574 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,607 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 79 | [95s](https://open.spotify.com/track/2wnYDbY2UeySCpWG2EQ4ah) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [95s](https://open.spotify.com/album/4eNPrBfL6nQH61uEZLD6Mj) | 3:18 |
 | 80 | [Imperfections](https://open.spotify.com/track/1qYalXlo1QlcuK2D2QCkMV) | [Celly](https://open.spotify.com/artist/7zBBABGp1O95Fills6I7MN) | [Imperfections](https://open.spotify.com/album/16MMr4oW3i5YvYH4jxBk6O) | 2:36 |
 
-Snapshot ID: `aIxDCQAAAAAPvterlqOsI37yhaLK21T9`
+Snapshot ID: `AAAAAKurM79abcnjCYhWNfUHI5gWsVO4`

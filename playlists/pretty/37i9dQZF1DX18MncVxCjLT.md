@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18MncVxCjLT.md) - [plain]
 
 > A glorious mix curated by the one and only Perfume Genius\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,755 likes - 29 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,768 likes - 29 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18MncVxCjLT.md) - [plain]
 | 28 | [Spindrift](https://open.spotify.com/track/0H4mxKgJjcDq4MvqylrcFz) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [All This I Do For Glory](https://open.spotify.com/album/4QU8E80wtJiQkh4ovEHEmQ) | 6:27 |
 | 29 | [Wa Habibi](https://open.spotify.com/track/5dOs1IoecYdMgAybB2FQmt) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Good Friday Eastern Sacred Songs](https://open.spotify.com/album/5IZfHQBAXDitWP4E5zE1Il) | 2:49 |
 
-Snapshot ID: `aAqvbQAAAADqfj67HO8XkJYno7pnzQ0Q`
+Snapshot ID: `AAAAAH3xaMeROlPfPTTx0tguMMHHB+1O`

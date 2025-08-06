@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Chappell Roan, Demi Lovato, Rema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,764 likes - 123 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,738 likes - 123 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 72 | [First Love](https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [First Love](https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l) | 3:41 |
 | 73 | [NATURAL SELECTION](https://open.spotify.com/track/3xzIJWhbEOf0fiQezTP9hu) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [NATURAL SELECTION](https://open.spotify.com/album/1SSCqPLzK3FU8j2EDMszhS) | 3:32 |
 | 74 | [All Da Same](https://open.spotify.com/track/4n4SppfXnfxYXfdLUSHGBs) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [All Da Same](https://open.spotify.com/album/0Yjbfdt0RSEDFxWD4BbD6D) | 2:24 |
-| 75 | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Mind Games \(feat\. Jaimes\)](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
+| 75 | [MIND GAMES](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [MIND GAMES](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
 | 76 | [Don't Look Down](https://open.spotify.com/track/060VALM3GBwYuLva2Kg4r9) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Don't Look Down](https://open.spotify.com/album/09vETzLYeQ2RxuOOWYpkeY) | 3:25 |
 | 77 | [running](https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 3:50 |
 | 78 | [The Love](https://open.spotify.com/track/6sIviVrgMCL6bAxL9buDxN) | [Larizzle](https://open.spotify.com/artist/6mmhTw2T6ai4vCudah2sXH), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [The Love](https://open.spotify.com/album/1VVs0TIP3RGyupaXoX9Dkk) | 3:23 |

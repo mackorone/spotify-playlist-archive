@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: LSDXOXO
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,837 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,844 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 79 | [Pleasure](https://open.spotify.com/track/1kLDRsnkreQD4UTf8kHg51) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [Pleasure](https://open.spotify.com/album/4ubV3S1cCFNl1bD3V0wpkp) | 3:24 |
 | 80 | [thicc](https://open.spotify.com/track/7tNUNRjg5Q5JaGg5Q0zK0o) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 3:42 |
 
-Snapshot ID: `aIMBeQAAAABVLerJMt0/ZOsLICWKide6`
+Snapshot ID: `AAAAAHFEzz1lH2Pnze6vii2AE80ajK+9`

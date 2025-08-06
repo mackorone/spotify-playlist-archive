@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "20 Grandes Sucessos De Raul Seixas",
+        "url": "https://open.spotify.com/album/1HuPsuxRE5XbqcAmVhFJrU"
+      },
+      "artists": [
+        {
+          "name": "Raul Seixas",
+          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201706,
+      "name": "Como Vov\u00f3 J\u00e1 Dizia (\u00d3culos Escuros)",
+      "url": "https://open.spotify.com/track/3fxlgsDxLanF9ryJea28Ic"
+    },
+    {
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -378,7 +396,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 216053,
       "name": "Eu Vou Fazer Voc\u00ea Voar",
       "url": "https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF"

@@ -748,8 +748,8 @@
           "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         },
         {
-          "name": "AARV",
-          "url": "https://open.spotify.com/artist/7duShCT4XsHBJsi3KlUtMI"
+          "name": "Aarv",
+          "url": "https://open.spotify.com/artist/0sv2lD4lh1FuFmTUNoABb1"
         }
       ],
       "date_added": "2025-07-17",
@@ -1199,6 +1199,32 @@
     },
     {
       "album": {
+        "name": "Ehsaas",
+        "url": "https://open.spotify.com/album/4iSQY9ZbweqLClKdwcx8G0"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186785,
+      "name": "Ek Hi",
+      "url": "https://open.spotify.com/track/7w0mo4vrWAnDABdtO4sE5Q"
+    },
+    {
+      "album": {
         "name": "Galtiyaan",
         "url": "https://open.spotify.com/album/0ydtPAEIJQeP2Vkor7mIAs"
       },
@@ -1562,7 +1588,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 322437,
       "name": "Humsafar (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/0OLTYqD8FpjkLsxJmdWmgi"
@@ -2302,6 +2328,28 @@
       "duration_ms": 254104,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/7qSqVmEQQ61iLQXmqd8mTP"
+    },
+    {
+      "album": {
+        "name": "Maybe - Royal Stag Packaged Drinking Water Boombox",
+        "url": "https://open.spotify.com/album/3PQmep1V9x1ScCdP2ATUK3"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158999,
+      "name": "Maybe - Royal Stag Packaged Drinking Water Boombox",
+      "url": "https://open.spotify.com/track/0qE1FyozaCqDj1tEE7vOjL"
     },
     {
       "album": {
@@ -3322,7 +3370,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 244122,
       "name": "Shubhkamnayein (From \"Maa\")",
       "url": "https://open.spotify.com/track/3P9F1IpJNpzWCwJcGXVODX"
@@ -3464,7 +3512,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 164208,
       "name": "Suljhe Na",
       "url": "https://open.spotify.com/track/1e9AJ9LyLB2oXjE7qMCq2g"
@@ -3980,6 +4028,28 @@
       "duration_ms": 257683,
       "name": "Ye Aankhein",
       "url": "https://open.spotify.com/track/4PvRuTLsNQQE93mEMiu2M4"
+    },
+    {
+      "album": {
+        "name": "Dhadak 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3daeQ1DOD0NOHjrrzwYaIy"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187804,
+      "name": "Ye Kaisa Ishq - From \"Dhadak 2\"",
+      "url": "https://open.spotify.com/track/5CzzeXmmVEk6WXw1TDhQUg"
     },
     {
       "album": {

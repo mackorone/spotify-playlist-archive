@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Kehlani
 
-4,204 songs - 9 day 4 hr 4 min
+4,205 songs - 9 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Balance \- Acoustic](https://open.spotify.com/track/5HKMiIppgDnjR0aBnASQpO) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest \(TBH\) \(Acoustic\)](https://open.spotify.com/album/0gKuo74azjIiPGFgyNSRaR) | 2:21 | 2022-12-23 | 2023-03-11 |
 | [Ballin](https://open.spotify.com/track/55B4vsTxKHCjDhx7Qx96iB) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ballin](https://open.spotify.com/album/2YOrMIgSjAYxGy0rjzE1Ch) | 2:34 | 2022-12-02 | 2023-01-14 |
 | [Bands On You](https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Bands On You](https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx) | 2:49 | 2023-07-28 | 2023-09-16 |
+| [Barbados](https://open.spotify.com/track/5yHtwDeh3SMpjzkqNvcvrL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Nic Nac](https://open.spotify.com/artist/3JUt8Eb39ikWDdahCinDwB), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [NO HArD FEELINGS](https://open.spotify.com/album/4QNno1ha0uOT41LYqdteGN) | 2:32 | 2025-08-05 |  |
 | [Basic](https://open.spotify.com/track/1ebg0yVS5GNqij8WWznfyu) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [3 Words, 8 Letters \(Deluxe\)](https://open.spotify.com/album/7EqanwvZAYatBvIjswwWiM) | 2:26 | 2024-04-26 | 2024-06-01 |
 | [Battle](https://open.spotify.com/track/5JQe2UYzLo91jmScVSY9mV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Battle](https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe) | 2:41 | 2023-11-17 | 2024-01-13 |
 | [Bby Boi](https://open.spotify.com/track/4r4u3CdAC7o6CRUMatZTMs) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Inside Voice\(s\)](https://open.spotify.com/album/1roRwweRpNzs6c0t3ff8HO) | 2:55 | 2025-03-21 | 2025-05-10 |

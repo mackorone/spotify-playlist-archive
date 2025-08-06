@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Haiden Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,263 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,347 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [hi, strangers](https://open.spotify.com/track/0yyLpgewoYRmSAtU58CfaV) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [hi, strangers](https://open.spotify.com/album/64yk3fgHfS8hTznFTRn2Dl) | 2:11 |
 | 99 | [Happier](https://open.spotify.com/track/20S9YwqCOx5cRRyseQ23Gf) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [Happier](https://open.spotify.com/album/57wQFtbtACr9SPCueOrWQJ) | 3:28 |
 
-Snapshot ID: `aIxoBgAAAABAwtyH2opbrOSW4Z0vXc3G`
+Snapshot ID: `aIxoBgAAAAAPzsaX1vrnPQJutWwSYE01`

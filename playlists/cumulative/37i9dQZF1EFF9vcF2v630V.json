@@ -1619,6 +1619,28 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140739,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC"
+    },
+    {
+      "album": {
         "name": "Temporary",
         "url": "https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4"
       },

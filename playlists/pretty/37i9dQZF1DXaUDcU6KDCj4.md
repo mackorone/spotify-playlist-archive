@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,022 likes - 160 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,942 likes - 160 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

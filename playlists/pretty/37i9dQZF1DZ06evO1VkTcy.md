@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,190 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,192 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 23 | [Ridículo](https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [10 Anos de Caju, Vol\. 1](https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq) | 3:23 |
 | 24 | [Plano Perfeito](https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Plano Perfeito](https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux) | 3:11 |
 | 25 | [Tira minha paz](https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:00 |
-| 26 | [Segredos](https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Negrotte](https://open.spotify.com/artist/1iFANtb8wijR3ooWPdYER5) | [Segredos](https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj) | 3:58 |
-| 27 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
+| 26 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
+| 27 | [Segredos](https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Negrotte](https://open.spotify.com/artist/1iFANtb8wijR3ooWPdYER5) | [Segredos](https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj) | 3:58 |
 | 28 | [Deixa Ir](https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5) | 2:32 |
 | 29 | [Avião](https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Avião](https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P) | 4:01 |
 | 30 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/0zT1FPiTJGmqszgiBsuBQR) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [O Mundo Parou](https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Mundo Parou](https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU) | 3:43 |
 | 50 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
 
-Snapshot ID: `aI6mgAAAAAD4VSoLKYnX7Mi89HKdwOVK`
+Snapshot ID: `aI/4AAAAAAB8KPbXLJZ5uVvdGaNwQ4+C`

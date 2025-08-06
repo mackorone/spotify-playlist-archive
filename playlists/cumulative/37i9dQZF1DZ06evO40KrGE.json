@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Cassiane 40 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2U57wHaKqG82HLUd2R99Di"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279554,
+      "name": "Aquieta (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3zUUCAfl9sOUsogbIhJFBm"
+    },
+    {
+      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-06",
       "duration_ms": 344677,
       "name": "Sinfonia De Louvor",
       "url": "https://open.spotify.com/track/0vftnUsiMRlswGm4d1d4Fz"

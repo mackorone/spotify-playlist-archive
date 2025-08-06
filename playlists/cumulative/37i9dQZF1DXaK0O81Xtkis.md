@@ -4,7 +4,7 @@
 
 > The ultimate soda boys, LANY return!
 
-1,416 songs - 2 day 22 hr 33 min
+1,417 songs - 2 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Fall Into Forever](https://open.spotify.com/track/5oCaywXYB8wG0Vq6m0RViS) | [PARKWILD](https://open.spotify.com/artist/37pbVQWclfUKj4ZKb049zA) | [Fall Into Forever](https://open.spotify.com/album/1rdlcAWpa4UaubKLGDVm6j) | 2:59 | 2024-12-20 | 2025-03-08 |
 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 | 2023-08-11 | 2024-01-05 |
 | [Fallout](https://open.spotify.com/track/5gM6XHLOdzgWq17yd0bE2o) | [Elyse Jewel](https://open.spotify.com/artist/56k4POEm6y9BnlWP5yQ8Py) | [Fallout](https://open.spotify.com/album/65B2RvJC85fF6pNCymLMDF) | 2:19 | 2024-04-26 | 2024-06-15 |
-| [Family Out Of Friends](https://open.spotify.com/track/7tfHEAIiDswTzXPHuAG8Qb) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let The Light In](https://open.spotify.com/album/7bM1GKA0zREafTz0rmbtBk) | 3:05 | 2025-06-06 |  |
+| [Family Out Of Friends](https://open.spotify.com/track/7tfHEAIiDswTzXPHuAG8Qb) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let The Light In](https://open.spotify.com/album/7bM1GKA0zREafTz0rmbtBk) | 3:05 | 2025-06-06 | 2025-08-06 |
 | [fan behavior](https://open.spotify.com/track/2HWJELHnneoKGVe0mRFeeD) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:01 | 2022-05-27 | 2022-06-04 |
 | [fantasize](https://open.spotify.com/track/3oXJgKRmoopOfS1g4ss71k) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [fantasize](https://open.spotify.com/album/1E9TSanNO7qOudlINg2C4u) | 1:54 | 2023-01-27 | 2023-04-09 |
 | [Father Time \(10am\)](https://open.spotify.com/track/1gr4SwXkiwhaHFAkFneIpA) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Father Time \(10am\)](https://open.spotify.com/album/6CiNSkolG9MwDaKYidLERu) | 2:27 | 2025-04-11 | 2025-06-07 |
@@ -1258,6 +1258,7 @@
 | [think about it](https://open.spotify.com/track/6XxJy5zej9U5Cb4BWuTJdQ) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [a matter of perspective](https://open.spotify.com/album/6MKuBYANCNnVaAANQjQO0j) | 2:56 | 2024-05-17 | 2024-07-19 |
 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 | 2023-01-06 | 2023-03-25 |
 | [Think That You're Lonely](https://open.spotify.com/track/2GA5B8SPVzJzcUM0BskVXW) | [Summer Hoop](https://open.spotify.com/artist/5bJpzOPrVuGyusOODkFeIM) | [Think That You're Lonely](https://open.spotify.com/album/546p326ke1CQwiEda6E9ZL) | 3:26 | 2024-01-12 | 2024-02-17 |
+| [THINKIN BOUT YOU](https://open.spotify.com/track/5GzTxQw4J6Qv1ekHJBxqRB) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [THINKIN BOUT YOU](https://open.spotify.com/album/1xGuSADsstny1TgJRQFz1e) | 3:08 | 2025-08-05 |  |
 | [This Heaven's Tall](https://open.spotify.com/track/3HlqOKYnN3YVyidIpwDgyV) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [This Heaven's Tall](https://open.spotify.com/album/3575vw7cA6K3kHx3fVaUFN) | 3:34 | 2023-09-15 | 2024-01-05 |
 | [This Is It](https://open.spotify.com/track/2p89C4cm3uO4aE0m3KpYRn) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Love Child Baby Dolphin](https://open.spotify.com/album/40ZhYzG43CUCoeOLEkOqof) | 2:24 | 2023-01-20 | 2023-03-25 |
 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 | 2023-09-29 | 2023-11-25 |

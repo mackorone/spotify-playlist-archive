@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwUcxteg0Wz.md) - [plain]
 
 > "SAP" a playlist by <a href="spotify:artist:29Oq9Nv8zLgu3IvX1tIpbm">Matt Champion</a>\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,028 likes - 26 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,036 likes - 26 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwUcxteg0Wz.md) - [plain]
 | 25 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Expanded Edition\)](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) | 2:35 |
 | 26 | [I Wonder](https://open.spotify.com/track/203JdojHSl25g19BERlOKe) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr), [Enjoki](https://open.spotify.com/artist/3ikaR8UkJ4qlE1YiLNqaRZ), [Tyte Eyez](https://open.spotify.com/artist/1ypcWKiCPIxozSh8ZcAaXD) | [City Of Syrup](https://open.spotify.com/album/6WqHRoNaFwM6K5KkTsQPGn) | 4:45 |
 
-Snapshot ID: `AAAAADfz7ezMKmmBJdEwY6giCHZhPu6F`
+Snapshot ID: `ZljO0AAAAABWpx0/owgpjOJiEIRx0zgw`
