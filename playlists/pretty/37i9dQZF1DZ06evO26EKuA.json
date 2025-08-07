@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 455755,
+  "num_followers": 455837,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI/4AAAAAADIaLaK/S1KLfOc3aWZo9ca",
+  "snapshot_id": "aJFJgAAAAADi+h3bVmtI5s4ij5D5DCfI",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Se Parece A T\u00ed",
+        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "Y Se Parece A Ti",
+      "url": "https://open.spotify.com/track/0XRCG6jacQjl0EkLJheIR8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lobo Domesticado",
+        "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Porque Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
@@ -387,38 +419,6 @@
       "duration_ms": 187062,
       "name": "El Hijo Del Pueblo",
       "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lobo Domesticado",
-        "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Porque Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Se Parece A T\u00ed",
-        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "Y Se Parece A Ti",
-      "url": "https://open.spotify.com/track/0XRCG6jacQjl0EkLJheIR8"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Les Pelo Baltazar",
-        "url": "https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 238240,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos De Valent\u00edn Elizalde",
         "url": "https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 235466,
       "name": "El Huizache",
       "url": "https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Les Pelo Baltazar",
+        "url": "https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v"
     },
     {
       "added_at": null,

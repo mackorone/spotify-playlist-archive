@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6L1CUnSfVed.md) - [plain]
 
 > Les plus grands standards du rock français\. Photo : Indochine
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,071 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,059 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6L1CUnSfVed.md) - [plain]
 | 49 | [365 jours ouvrables](https://open.spotify.com/track/6fTpKaifOtbqIG1mKQQLbQ) | [Diabologum](https://open.spotify.com/artist/2yctAUiUiOBP52UC77cToq) | [\#3 \(Ce n'est pas perdu pour tout le monde\)](https://open.spotify.com/album/6NlZIFySnMC6ZYXHGt97ZQ) | 3:18 |
 | 50 | [Rock à la radio](https://open.spotify.com/track/0zRRNMUCylMVDpeFqNmOIV) | [Bijou](https://open.spotify.com/artist/3cNIn4o65yBImKGe9lVuRr) | [Pic A Glace](https://open.spotify.com/album/5dPE9TQcvO6oWHy6rqeaQh) | 2:21 |
 
-Snapshot ID: `ZoQpLwAAAABwZLKw/+R/oX8lbaYdPscx`
+Snapshot ID: `AAAAAKwqHNWkqtIXPb8Q6CW/IxgxLdhS`

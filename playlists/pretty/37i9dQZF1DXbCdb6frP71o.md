@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan\. Cover: Ali Zafar
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,851 likes - 74 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,852 likes - 74 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 73 | [Gunahon Ki Aadat](https://open.spotify.com/track/5GcpxpfYqlIWnm4fZc3mgv) | [Alhajj Muhammad Owais Raza Qadri](https://open.spotify.com/artist/52UAPLpDG9yHAp9ezBPpoE), [Islamic Naats](https://open.spotify.com/artist/0rNHahVtqe44Y5qGHkVz1K) | [Best Of Muhammad Owais Raza Qadri](https://open.spotify.com/album/5wsRFYCxPWiOi3dOoVpMb0) | 5:22 |
 | 74 | [Faslon Ko Takalluf Hai](https://open.spotify.com/track/2iFS7fBDgUpfmknAAA4iLR) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT) | [Faslon Ko Takalluf Hai](https://open.spotify.com/album/1ntrUgjwWMkZC8PZmXLAfm) | 4:34 |
 
-Snapshot ID: `Z9vCggAAAACRVj48/0AHMkjNVL5E4BWH`
+Snapshot ID: `AAAAABKhWNSudzv/dQ0e4J2a9rhDIDK8`

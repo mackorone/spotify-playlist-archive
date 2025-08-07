@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoGbayjhEGv.md) - [plain]
 
 > Enjoy music from "FULLMETAL ALCHEMIST"!  ©荒川弘／スクウェアエニックス・毎日放送・アニプレックス・ボンズ・電通 2003 \(C\)HIROMU ARAKAWA / SQUARE ENIX, MBS, ANX, BONES, dentsu 2004
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,405 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,412 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoGbayjhEGv.md) - [plain]
 | 74 | [運命](https://open.spotify.com/track/4R4jaXkJQRW7tyKoxIwSqx) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr) | [鋼の錬金術師 オリジナル・サウンドトラック 3](https://open.spotify.com/album/5U0X9Jq5sLWKBp48GxFwPD) | 5:16 |
 | 75 | [別れの曲](https://open.spotify.com/track/0VVqM9e1FFkjfZLbkmBJ9W) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr) | [鋼の錬金術師 オリジナル・サウンドトラック 3](https://open.spotify.com/album/5U0X9Jq5sLWKBp48GxFwPD) | 4:18 |
 
-Snapshot ID: `Z/VGMAAAAAC8quqfqHVR/adFOphSnWR1`
+Snapshot ID: `AAAAAMbTWHxM0F9VQouDqvWNNU7m2zAz`

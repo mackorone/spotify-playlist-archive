@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [月並](https://open.spotify.com/track/1gKVnefvQ6beLh3TGvolAT) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [月並](https://open.spotify.com/album/6ftGMbUNSNwaWYYpPQngXW) | 3:34 |
 | 50 | [Ride the LAVA](https://open.spotify.com/track/1DI85Th3uFc5S9ICHtFHyB) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [ニーハオ!!!!×マダムロス](https://open.spotify.com/album/1I9tLmlpmliwCVhPRBpxi5) | 1:38 |
 
-Snapshot ID: `aJIclwAAAAAZjtzfvuk3Xut7rVdXh2uJ`
+Snapshot ID: `AAAAABImwajvQJpTWgs1BHZoaIosMXIb`

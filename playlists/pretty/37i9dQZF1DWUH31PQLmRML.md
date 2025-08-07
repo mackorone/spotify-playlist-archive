@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH31PQLmRML.md) - [plain]
 
 > pieces of u, curated by Kizzy Edgell\. Angst and romance all disjointed\. Heartstopper S3 now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,266 likes - 43 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,292 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH31PQLmRML.md) - [plain]
 | 42 | [I'm Sticking With You](https://open.spotify.com/track/1iJiJfFkhwpSh1m8qTgZ5A) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [VU](https://open.spotify.com/album/2W7aQrGUh6ZAONQYGTd0xr) | 2:26 |
 | 43 | [Not Nineteen Forever](https://open.spotify.com/track/19CIsQ1HElu4XHdLCMlSqu) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [St\. Jude](https://open.spotify.com/album/3fKNYg9Ti0jyxtYBTtlRL4) | 4:03 |
 
-Snapshot ID: `Zv5hBQAAAAC0NccquldzlOvsU7NFajZA`
+Snapshot ID: `AAAAAGuoFBYs+gXjrpPOwVfmh0vnUAPv`

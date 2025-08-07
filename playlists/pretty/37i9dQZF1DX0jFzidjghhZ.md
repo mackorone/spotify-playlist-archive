@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jFzidjghhZ.md) - [plain]
 | 38 | [Recycle c'est magique](https://open.spotify.com/track/40ibJuC6qbFtIxIvkkv1SK) | [Dominique Dimey](https://open.spotify.com/artist/13JTWSRVp51EIrfDuUD5V7) | [Des voix pour la planète](https://open.spotify.com/album/55Rp9Sd7Keo3HoyMwA5CM6) | 2:51 |
 | 39 | [Et demain ?](https://open.spotify.com/track/5azQTB7ybgODPiBPUeqZwS) | [Et demain ? Le collectif](https://open.spotify.com/artist/2pCzfmIPJjOCcEfsOqSCFO) | [Green Team](https://open.spotify.com/album/0ZrX1TCsORaOOQT7pTPnhn) | 3:16 |
 
-Snapshot ID: `ZmgIyQAAAADARdZEauKNHVBsvG9eZ89H`
+Snapshot ID: `AAAAAOXm/WvmnjbhQOXSoi+bR86HzGkQ`

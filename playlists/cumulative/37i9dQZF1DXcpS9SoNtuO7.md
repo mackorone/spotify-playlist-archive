@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-793 songs - 3 day 7 hr 56 min
+797 songs - 3 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [\#81 騒然！『GQuuuuuuX』と「BEYOND THE TIME」／解禁!!”リスアニ！LIVE 2025 ナツヤスミ”／イキヅライブ！といきづらい部！の考察が止まらない](https://open.spotify.com/episode/30raO8DlL7DTIWcVe6bdZY) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 49:08 | 2025-06-25 |  |
 | [\#82 エモすぎた…「蓮ノ空」「学マス」最新ライブを語ろう／FLOW THE FESTIVAL 2025／おじさんとアキネーター](https://open.spotify.com/episode/2fylbJOrUThkkTFngauNVN) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 44:49 | 2025-07-22 |  |
 | [\#83 “リスパレ！LIVE vol.3”と“リスアニ！LIVE 2025 ナツヤスミ”4日間の大団円を見届けて](https://open.spotify.com/episode/0orTVaWmlwfNQfzxRM0KTV) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 56:27 | 2025-07-22 |  |
+| [\#84 何が好き～？「愛♡スクリ〜ム！」の大バズりに学ぶもの／『ジークアクス』色々ありすぎた最終話／あのちゃんと『タコピーの原罪』](https://open.spotify.com/episode/5AovKzQs3h1J8cqYrqnnoN) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 43:47 | 2025-08-06 |  |
 | [10% roll, 10% romance](https://open.spotify.com/track/55gmxJ59Y44Ev4WX4ztDQR) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 4:36 | 2024-08-14 | 2025-01-27 |
 | [13 no Fuyu](https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 5:29 | 2023-11-28 | 2024-01-24 |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |
@@ -564,6 +565,7 @@
 | [ドリーム・シフト](https://open.spotify.com/track/7bTwUygo2Fl1GwPidJXxo0) | [SILK](https://open.spotify.com/artist/7aBLRszK8Sn0oRvzRd452L) | [Voice](https://open.spotify.com/album/0i0vSM82WIa3rNGLoHB6lt) | 4:05 | 2022-12-07 | 2023-01-12 |
 | [ナイショの話](https://open.spotify.com/track/6mIZrFfQSRxgiXEiQhkNwz) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [偽物語 劇伴音楽集](https://open.spotify.com/album/38vKYYkkL94P48FcWoZ0dt) | 4:21 | 2025-01-27 | 2025-05-03 |
 | [ハッピークレセント](https://open.spotify.com/track/0Psjuelr8tvRtmR8F5l0UA) | [中川かのん starring 東山奈央](https://open.spotify.com/artist/0ZdW8nxNZorYWXEtJ8K5Fd) | [Birth](https://open.spotify.com/album/73YLneRRR9Fs10qGcPFj8q) | 3:40 | 2022-11-22 | 2023-01-12 |
+| [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 | 2025-08-06 |  |
 | [ハニージェットコースター](https://open.spotify.com/track/5SucxRQYFHqB2YEPKN35iw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [ハニージェットコースター](https://open.spotify.com/album/6PRPWkHY4EfDWMt5mK0jut) | 3:35 | 2022-06-22 | 2023-01-12 |
 | [ハネムーン](https://open.spotify.com/track/0cx2aU8bSllKMX1p6KQ9ky) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [ハネムーン](https://open.spotify.com/album/3Pc5r8zpa0oqfedvi6jmIJ) | 4:30 | 2023-01-27 | 2023-07-12 |
 | [ハピネス](https://open.spotify.com/track/14GrpPBazpGF5Y8Wfurv1U) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ハピネス](https://open.spotify.com/album/5Bfc1BsJvJdMubPx0NZUfx) | 3:12 | 2022-06-07 | 2022-06-23 |
@@ -688,6 +690,7 @@
 | [恋愛サーキュレーション](https://open.spotify.com/track/7l3eyDvvjQxLI5ChGGnkgB) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [歌物語 Special Edition](https://open.spotify.com/album/4I2D6p4gmTWaisIklhyPyv) | 4:15 | 2022-06-07 | 2022-07-29 |
 | [恋愛ミリフィルム](https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム](https://open.spotify.com/album/2KrmynsmgJbJLLOuAOn1fM) | 3:27 | 2024-01-28 | 2024-07-06 |
 | [悲しみよこんにちは / with 酒井ミキオ](https://open.spotify.com/track/6wXyjP5gnqfOqebOwHWs9T) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [ANISON COVERS](https://open.spotify.com/album/54Z6WXRTCi2dxxiZWFWOUb) | 4:26 | 2024-10-08 | 2025-01-27 |
+| [愛♡スクリ～ム！](https://open.spotify.com/track/2cfFr7Mnv7fNQoQidIs38z) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/0Y7e7AVGQSaN3KPtEN6KkG) | 4:22 | 2025-08-06 |  |
 | [愛のシュプリーム!](https://open.spotify.com/track/03FUnhSnPO95g1JNsxSraj) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [愛のシュプリーム!【アニメ盤】](https://open.spotify.com/album/4vOi6tqJA42xBAHzS4EWXJ) | 4:44 | 2022-06-07 | 2022-06-23 |
 | [愛の唄](https://open.spotify.com/track/3o2YINCGDs3HSiXMeENEe6) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [愛の唄](https://open.spotify.com/album/1MvP0ayVOwZ6R5GqGoQXZW) | 4:01 | 2023-10-31 | 2024-07-06 |
 | [我武者羅](https://open.spotify.com/track/25P7XMW8PNrPaO3bAO3jZJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c) | 3:56 | 2022-06-07 | 2022-06-23 |
@@ -766,6 +769,7 @@
 | [誰彼スクランブル](https://open.spotify.com/track/0psSjxGt2lNnWYhZLLqBT6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [誰彼スクランブル](https://open.spotify.com/album/3riDcXmPfyF8WRyiFUJOo3) | 4:28 | 2024-01-23 | 2025-05-03 |
 | [謎](https://open.spotify.com/track/24bLj6UziESNkrOMjuiTb1) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [謎](https://open.spotify.com/album/29zYDeBYUEzPa8azub7iEJ) | 4:36 | 2023-12-13 | 2024-01-24 |
 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-05-02 |  |
+| [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 | 2025-08-06 |  |
 | [超人](https://open.spotify.com/track/3lYARQQEfIRLA5dZThgsTe) | [キン肉マン\(CV:宮野真守\)](https://open.spotify.com/artist/3I6whk43X7dyZF07WcUzb5) | [LOVE & JUSTICE/超人](https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX) | 3:49 | 2024-09-11 | 2025-01-27 |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/2pK7RDBr3pc79fvFLCWpBW) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [転がる岩、君に朝が降る](https://open.spotify.com/album/4woJLyet3ZNYr9sr9vlUyU) | 4:31 | 2025-01-27 | 2025-05-03 |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2023-07-14 | 2024-01-24 |

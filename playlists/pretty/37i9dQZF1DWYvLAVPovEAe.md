@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/bigtiggershow/">Big Tigger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,485 likes - 49 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,525 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvLAVPovEAe.md) - [plain]
 | 42 | [Hate Blood \(feat\. Freeway & Jadakiss\)](https://open.spotify.com/track/0EKPFDBVyeE1vMfI4ghc3L) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z) | [Instructions \(Explicit Version\)](https://open.spotify.com/album/3ssplToLM7k3pX7wCyMSht) | 3:54 |
 | 43 | [Lil Bruh](https://open.spotify.com/track/5Pi9JV3PcfvGPXVZmfpsrZ) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [I LOVE YOU \(A Dedication To My Fans\) The Mixtape](https://open.spotify.com/album/7roiS00nYv06FqErK4yXny) | 3:06 |
 | 44 | [This How We Eat](https://open.spotify.com/track/5U0kwEyxYFcdOSgk9k4Igc) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Chase the Cat](https://open.spotify.com/album/0a4n8n8oRZoHe9ofbdDgmG) | 4:45 |
-| 45 | [I Am I Be](https://open.spotify.com/track/41olBqITytXmJsev4aAjat) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [Pee Wee Ellis](https://open.spotify.com/artist/4nOsbPxGYii9IpCEfCCSbo) | [Buhloone Mindstate \(30th Anniversary\)](https://open.spotify.com/album/07K9cv8WdI6KWQsb9QtZR5) | 5:03 |
-| 46 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 |
-| 47 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
-| 48 | [That Girl](https://open.spotify.com/track/1Vl4ESWb6U7gKSPfK4qenq) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:01 |
-| 49 | [Doggy Dogg World](https://open.spotify.com/track/5HCxyNfUA6DMJtIHavfJnw) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 5:38 |
+| 45 | [Snake \(feat\. Big Tigger\)](https://open.spotify.com/track/3XhCHPfPDafMQx014Sblfy) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Big Tigger](https://open.spotify.com/artist/7ah0bKZcvxwMpN0Ygl1qTJ) | [Chocolate Factory](https://open.spotify.com/album/35Ea7OWXZPZB1vAPiaEGOM) | 4:51 |
+| 46 | [I Am I Be](https://open.spotify.com/track/41olBqITytXmJsev4aAjat) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [Pee Wee Ellis](https://open.spotify.com/artist/4nOsbPxGYii9IpCEfCCSbo) | [Buhloone Mindstate \(30th Anniversary\)](https://open.spotify.com/album/07K9cv8WdI6KWQsb9QtZR5) | 5:03 |
+| 47 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 |
+| 48 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
+| 49 | [That Girl](https://open.spotify.com/track/1Vl4ESWb6U7gKSPfK4qenq) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:01 |
+| 50 | [Doggy Dogg World](https://open.spotify.com/track/5HCxyNfUA6DMJtIHavfJnw) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 5:38 |
 
-Snapshot ID: `ZUHNQAAAAAAc7DYAcq8enBm4ccdi473C`
+Snapshot ID: `AAAAAHwUUNIl8pwzSvY/YrjREdGROrm/`

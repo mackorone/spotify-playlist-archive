@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,709 likes - 200 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,776 likes - 200 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 199 | [Chill](https://open.spotify.com/track/6NGD01CPuqp51bQaqsFt7K) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Chill](https://open.spotify.com/album/2j97456R7s5j6CSjyFQYsQ) | 1:24 |
 | 200 | [Rush Hour](https://open.spotify.com/track/4lv69NLbpOU0A2EACI4bEg) | [Lo\-Five](https://open.spotify.com/artist/3K8s2AFPmTDnzEkSfXDoTi) | [lofi cafe](https://open.spotify.com/album/5VFel9xgsCTME5frlsDRPn) | 2:38 |
 
-Snapshot ID: `aIIdOQAAAABAj0U8tkz25Y/TFP24fVIr`
+Snapshot ID: `AAAAAJeesN2ZyLyGNw1LtneWhTp07PRL`

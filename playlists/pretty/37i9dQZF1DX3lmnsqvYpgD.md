@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,529 likes - 94 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,531 likes - 94 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 93 | [出走](https://open.spotify.com/track/30ZDOmEwAfijYVCHiNXhxU) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [出走](https://open.spotify.com/album/3zrNfBfkmLxrOgNktr70em) | 5:18 |
 | 94 | [I Will Be Alright](https://open.spotify.com/track/2EBZ815zoE0He8Bae7ygyy) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [I Will Be Alright](https://open.spotify.com/album/0sD2ptJBBX6aoivZWu3m03) | 3:28 |
 
-Snapshot ID: `ZrsoywAAAABdpI3y8QcxBXoLVg05Cv0s`
+Snapshot ID: `AAAAAJ1ox0o3cf1xtwfDLLVa220jRtr6`

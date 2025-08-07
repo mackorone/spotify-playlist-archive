@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Det Löser Sej🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,193 likes - 109 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,181 likes - 109 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 108 | [Ny mark](https://open.spotify.com/track/722y4ce1sQhziubL83eqlZ) | [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [Ny mark](https://open.spotify.com/album/7xBEz2UxKI8BYAAqKGCKGs) | 2:03 |
 | 109 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 
-Snapshot ID: `aIvnfwAAAAD6kHRsq1Zz5oBmN/pBbv5m`
+Snapshot ID: `AAAAAP0X5Y5tzsBqHCtnmAFz3nzOJwwK`

@@ -4945,6 +4945,32 @@
     },
     {
       "album": {
+        "name": "Glance",
+        "url": "https://open.spotify.com/album/040Msvy15UJ5lPyp3npWdl"
+      },
+      "artists": [
+        {
+          "name": "Harman Kang",
+          "url": "https://open.spotify.com/artist/4jAlSmviG9I3J8O7MrEYzN"
+        },
+        {
+          "name": "Shaitan",
+          "url": "https://open.spotify.com/artist/17vchXZLm7Ci6rNodZA0vz"
+        },
+        {
+          "name": "Garhi",
+          "url": "https://open.spotify.com/artist/6SGe8mSKH4IT2EXG4z6Xk7"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "Glance",
+      "url": "https://open.spotify.com/track/72J8WSzWwpGt3v9hlrinhi"
+    },
+    {
+      "album": {
         "name": "Glock (From Tufang)",
         "url": "https://open.spotify.com/album/5il5FEoX2N3wqsIlBxVT4I"
       },
@@ -11284,7 +11310,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 158297,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/06sshfxgOdyohmTTissULJ"

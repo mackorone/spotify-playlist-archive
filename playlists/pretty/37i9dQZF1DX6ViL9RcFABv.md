@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Mickael Carreira,	Anselmo Ralph, Tony Carreira, Toy
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,703 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,719 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Tanta Pena](https://open.spotify.com/track/7mUs8RjGaraHXBS07nZo6A) | [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct), [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0) | [Tanta Pena](https://open.spotify.com/album/1MaAT3WQf8oKhaRBRML60M) | 3:36 |
 | 70 | [Romeu](https://open.spotify.com/track/3gBEzePLYbWPnFFlNa0kw1) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Romeu](https://open.spotify.com/album/471SFV0yNM50IclTU6Gs0m) | 3:08 |
 
-Snapshot ID: `aIv1fQAAAABamWkoa4pZ9XeONLoHA0RF`
+Snapshot ID: `AAAAAMYSHwW9yn3XX4nffndcjD5Jogc9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 
 > À deux, c'est mieux ! Photo : Pierre Garnier et M\. Pokora
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,426 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,438 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 | 49 | [Prière pour la nuit](https://open.spotify.com/track/3Mhc9o1wz6sLxAPHj1ndT7) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Les prières \- racines](https://open.spotify.com/album/7EcjiIxS8WjkrYZz187wcv) | 4:34 |
 | 50 | [À la vie comme à la mort](https://open.spotify.com/track/3RrAtSuqjZPFHxizGZTyzr) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Les p'tites jolies choses](https://open.spotify.com/album/3hbj2Bt2SECsLk8piLHwCL) | 3:24 |
 
-Snapshot ID: `Z6Xl1QAAAACCGcr/xnYI7YyKg1hVKJEG`
+Snapshot ID: `AAAAALExp5x68lU9Vc8k8wDDkf2fLm/O`

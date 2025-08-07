@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kasi, antonius
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,079 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,074 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Manchmal](https://open.spotify.com/track/5EyaNjaGLRK56ZUqs49bGL) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Manchmal](https://open.spotify.com/album/7vqnXiRe6DXBdT6StAhicY) | 2:49 |
 | 75 | [Kommst du vorbei](https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Kommst du vorbei](https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU) | 2:53 |
 
-Snapshot ID: `aIyJYAAAAAABqnT1HRH9w+yK7h7GDC/q`
+Snapshot ID: `AAAAAAXPljRtJI0nFRPSSGgHWx5Na5Nr`

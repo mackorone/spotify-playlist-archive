@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: yung kai
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,676 likes - 106 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,672 likes - 106 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 105 | [A Season In Hell](https://open.spotify.com/track/5pYhL6BGZIHGGmDJd9TDZx) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [A Season In Hell](https://open.spotify.com/album/5oY70Wyk7hdeICap4IXHZB) | 5:03 |
 | 106 | [Let Me Be Your Man](https://open.spotify.com/track/4cm2ZdTcIwNhn0ZnEnkf8s) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Let Me Be Your Man](https://open.spotify.com/album/2zhlUYDJZuHyZVaqjrgYjB) | 3:38 |
 
-Snapshot ID: `aIx4rAAAAABXshl7t/uAxjGCv7KHQ5dS`
+Snapshot ID: `AAAAANRMHloCtFHIhHxzBXLCkzv+L6JA`

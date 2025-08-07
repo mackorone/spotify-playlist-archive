@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,709 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,712 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 99 | [Dreaming of You](https://open.spotify.com/track/1KUmyQoYmcp4RUnTpZSRxW) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Dreaming of You](https://open.spotify.com/album/5L1Y6v04uA0FF2z6aRiXvj) | 2:48 |
 | 100 | [Noches de Luna](https://open.spotify.com/track/0OlaG504i495HABrYYt68F) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [Noches de Luna](https://open.spotify.com/album/0tUqNeB7alylOaLV2n3ZRb) | 2:53 |
 
-Snapshot ID: `aElsKwAAAADSCi1aWcFOdOASqIcfgfZK`
+Snapshot ID: `AAAAAPniO+zTnLOkHn1CR2KXHW9zgnyY`

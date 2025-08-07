@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 
 > Hør årets tolkninger her!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,263 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,260 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 | 48 | [Kor langt vil du gå](https://open.spotify.com/track/317Z7s4VTuuveubdV1HJEw) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Kor langt vil du gå](https://open.spotify.com/album/7LmtN5zFdhpWQICfeZLmno) | 3:00 |
 | 49 | [Brand New Heart](https://open.spotify.com/track/2V1YPgANv85At2U9ZK6dpT) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Brand New Heart](https://open.spotify.com/album/5Oi1AiUIVcU5iPXyyifx4n) | 2:40 |
 
-Snapshot ID: `Z+vnIAAAAADM0NiBKxeT2dklH58qN8+x`
+Snapshot ID: `AAAAADRojLc1gFudVR4iDZRQkXOHs4FP`

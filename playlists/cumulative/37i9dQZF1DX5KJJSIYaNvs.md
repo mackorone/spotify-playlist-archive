@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Simran Choudhary
+> Listen to women at full volume\. Cover \- Kaushiki Chakraborty
 
-549 songs - 1 day 9 hr 8 min
+550 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Dum Hai Toh Aaja \- From "Sam Bahadur"](https://open.spotify.com/track/5bGu8UREkeCtHglvOAFcR0) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Sam Bahadur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XCmGQKLUg0jr3uPQEhXQH) | 2:51 | 2023-11-28 | 2023-11-30 |
 | [DYNAMITE](https://open.spotify.com/track/7MOXP0ZdRqWUTYz44BpsHY) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [DYNAMITE](https://open.spotify.com/album/34PiZyEGOyoXAe0HE1N2al) | 2:53 | 2022-05-04 | 2023-01-04 |
 | [Ek Aur Nadiya](https://open.spotify.com/track/1f22h4QWIhU9SjEaxkxj1q) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Ek Aur Nadiya](https://open.spotify.com/album/0CEXBigwli6EFoYqMvGf6k) | 3:31 | 2024-11-22 | 2025-01-25 |
+| [Ek Baar Phir](https://open.spotify.com/track/2hyUlyhFb4qO5Gfl97taPg) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Ek Baar Phir](https://open.spotify.com/album/6BuWVwQ9YbWlumt1YNGWmn) | 3:15 | 2025-08-06 |  |
 | [Ek Khwaab](https://open.spotify.com/track/4BLS4whPCafeIwc3HjGhlt) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Ek Khwaab](https://open.spotify.com/album/2OV5h8oUYjIPrYBaG9RgFv) | 3:18 | 2024-05-21 | 2024-06-01 |
 | [Ek Tarfa](https://open.spotify.com/track/6s7dQ6nHwILfXw1SMyOI8F) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Ek Tarfa](https://open.spotify.com/album/48N7cNRVOafA9ERnFHkIIy) | 3:46 | 2022-09-07 | 2023-03-03 |
 | [Fikkar Koi Na \- Female Version](https://open.spotify.com/track/3aUeXn3MYEojxXBqrdJlgy) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3), [Sync](https://open.spotify.com/artist/1JT2GXhUeRkIglDUazBmVH) | [Fikkar Koi Na \(Female Version\)](https://open.spotify.com/album/07HlaUf3JFUc8jhxvlnLcE) | 2:52 | 2022-02-01 | 2022-03-08 |
@@ -230,7 +231,7 @@
 | [Kadar Na Jaane](https://open.spotify.com/track/0DE5XwVjRp2MT2zQI8brRF) | [Ipsitaa](https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F), [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN) | [Kadar Na Jaane](https://open.spotify.com/album/1C30MN09Sj0lxtReAlgzKg) | 2:11 | 2024-09-11 | 2024-10-05 |
 | [Kahani](https://open.spotify.com/track/7gIkNdBTXnlK1wOJJjIIhl) | [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W) | [Widow's Shadow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lvN9hN7vXkNfqZqZTVq4U) | 4:02 | 2025-04-14 | 2025-04-24 |
 | [Kahe Muskay Re](https://open.spotify.com/track/5aXPiCepce7TvDI8Iq7knH) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Bhavai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OwpfpNKcCIAP6fOCytSEI) | 4:44 | 2021-12-10 | 2022-02-02 |
-| [Kaindiyaan](https://open.spotify.com/track/5xpp3sE0zi5akk2kTA2Swo) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Broken](https://open.spotify.com/album/4j3Q0oWVdnU3pw0Y8G8h06) | 3:16 | 2025-07-18 |  |
+| [Kaindiyaan](https://open.spotify.com/track/5xpp3sE0zi5akk2kTA2Swo) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Broken](https://open.spotify.com/album/4j3Q0oWVdnU3pw0Y8G8h06) | 3:16 | 2025-07-18 | 2025-08-07 |
 | [Kajra Re](https://open.spotify.com/track/72HdutlIHBZJ7WT1xVAAZT) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Bunty Aur Babli](https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9) | 8:02 | 2025-03-05 | 2025-04-03 |
 | [Kalle Kalle \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/5o6q9gQXi5umBrUczroW79) | [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Kalle Kalle \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/6QJUBLyhuSfrrXsdxvbHT5) | 3:47 | 2022-02-01 | 2023-01-04 |
 | [Kambakth Ishq \- Remix Version](https://open.spotify.com/track/15jGFMQXdmlpQeeSes9UgC) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Pyaar Tune Kya Kiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jZTq2g2PsldYGpzKrCJrv) | 3:56 | 2025-03-05 | 2025-04-03 |

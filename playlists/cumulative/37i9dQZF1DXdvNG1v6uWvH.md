@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Chapell Roan, Maron Birnir & ELVAR og mörgum fleiri!
 
-7,143 songs - 16 day 0 hr 1 min
+7,144 songs - 16 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2542,6 +2542,7 @@
 | [Guess I,](https://open.spotify.com/track/5pFjLqzkpREUeG2FJLyDz6) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [Guess I,](https://open.spotify.com/album/7hvyDppfPfzxhEQcdBjvzU) | 3:32 | 2025-01-10 | 2025-01-12 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-01-24 | 2025-01-31 |
 | [Guilty Pleasure](https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Guilty Pleasure](https://open.spotify.com/album/4q4imcSGhn9xEqyLxp7tfI) | 2:35 | 2024-07-12 | 2024-07-19 |
+| [Guinness](https://open.spotify.com/track/69wHfWFQD8Mkbwj4nrtyMI) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Guinness](https://open.spotify.com/album/5c8ZIRrCpsMJlz6B1v5sWa) | 2:43 | 2025-08-01 |  |
 | [Gullið mitt](https://open.spotify.com/track/3TeOoskqZOHApMQJf9xnvz) | [Bjarni Ómar](https://open.spotify.com/artist/30NBEBMzDmnnw5lvs5yE90) | [Gullið mitt](https://open.spotify.com/album/7FxWdXMAefI1f2OnEFDjw5) | 4:10 | 2025-01-03 | 2025-01-10 |
 | [GUM](https://open.spotify.com/track/4fo0OT2CUmYuh1N6jpz1S2) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [GUM](https://open.spotify.com/album/1FowAd6rpHLlsbTYWAopjO) | 2:59 | 2025-04-04 | 2025-04-11 |
 | [Gumbri \(with Damon Albarn\)](https://open.spotify.com/track/4SFshffVIy0gST6zqa1U1o) | [Kaktus Einarsson](https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Gumbri](https://open.spotify.com/album/5NQZEgX4lUGzUB2C0xZOLm) | 3:48 | 2024-09-27 | 2024-10-04 |
@@ -3934,7 +3935,7 @@
 | [Løveskatt](https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll) | [Ora the Molecule](https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m) | [Løveskatt](https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1) | 4:47 | 2024-11-01 | 2024-11-08 |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-05-24 | 2024-06-01 |
 | [M o n e y & D r u g s](https://open.spotify.com/track/7c3QkPuBXz15tPm9zAhTs5) | [LilRu](https://open.spotify.com/artist/0gOMIOFouuIsiKtzyuH8jr), [XHVNNA](https://open.spotify.com/artist/7dljkFQbFDL8jsLpvHcJ1v) | [?](https://open.spotify.com/album/4ckW2QaSCKyuSvKpPq66GL) | 2:45 | 2025-04-11 | 2025-04-18 |
-| [M.O.B.](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B.](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 | 2025-08-01 |  |
+| [M.O.B](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 | 2025-08-01 |  |
 | [m.o.w.u.](https://open.spotify.com/track/1qGvV0wV8Sj79Ukf8zkQeD) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [CUM 2](https://open.spotify.com/album/3UbAyb9cYvmo0CbyY9BILA) | 3:06 | 2025-02-14 | 2025-02-21 |
 | [m3aya v1 \(sammen\)](https://open.spotify.com/track/2k3uSOCHsTXy4f1WSB0fjt) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [m3aya v1 \(sammen\)](https://open.spotify.com/album/1WI8oxJKbQFDBNfpJPPCG8) | 2:50 | 2025-08-01 |  |
 | [Macintosh](https://open.spotify.com/track/0ISzoYdlIi5fcRmKLfdl0Q) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Macintosh](https://open.spotify.com/album/5GDxSA8HKymF5oKUxyu2yY) | 3:31 | 2025-04-18 | 2025-04-25 |
@@ -4187,7 +4188,7 @@
 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 | 2024-10-11 |
 | [Moonwalk Season](https://open.spotify.com/track/4VspZ79KeIv7Ls0QYPDMeS) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Moonwalk Season](https://open.spotify.com/album/6zFZhzZoz1Nn98xYJm0bFo) | 2:41 | 2024-08-02 | 2024-08-09 |
 | [More](https://open.spotify.com/track/3oQijSJAzZsR90SfW4tQBm) | [Ida Maria](https://open.spotify.com/artist/2MCUVoI9J8LEqtHvf3X5ln) | [More](https://open.spotify.com/album/3ujjv9SEtIifVo2EDAY8FY) | 2:48 | 2025-03-28 | 2025-04-04 |
-| [More](https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [More](https://open.spotify.com/album/1e2rOFtlbbGD1phx4ksazF) | 2:21 | 2025-08-01 |  |
+| [More](https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [More](https://open.spotify.com/album/1e2rOFtlbbGD1phx4ksazF) | 2:21 | 2025-08-01 | 2025-08-07 |
 | [More Money More Alcohol](https://open.spotify.com/track/14LS0ONdIBXDEdqqYU0ERG) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Daisey](https://open.spotify.com/artist/33RgwUk4J0QcTM56aF3dKg) | [More Money More Alcohol](https://open.spotify.com/album/2BYVCSnORXftuhG7NtiewF) | 2:08 | 2025-03-07 | 2025-03-14 |
 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-02-21 | 2025-02-28 |
 | [More Than A Feeling](https://open.spotify.com/track/166TaeYHd0VzmSA7nHKDVN) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [More Than A Feeling](https://open.spotify.com/album/13K9ALiVMRRqwCCx1SBZma) | 4:02 | 2024-12-06 | 2024-12-14 |

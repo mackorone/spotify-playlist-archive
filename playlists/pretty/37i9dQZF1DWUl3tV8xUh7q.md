@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUl3tV8xUh7q.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,401 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,415 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUl3tV8xUh7q.md) - [plain]
 | 48 | [Can't Help but Wait](https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trey Day](https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn) | 3:26 |
 | 49 | [Suited \(SynX Remix\)\[feat\. Mr Eazi\] \(feat\. SynX & Mr Eazi\)](https://open.spotify.com/track/4yW5SIsnfB5TuOf8Admsku) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Synx](https://open.spotify.com/artist/4ZJQMRWSdjqxlOupRZLrAG), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Suited \(SynX Remix\)\[feat\. Mr Eazi\] \(feat\. SynX & Mr Eazi\)](https://open.spotify.com/album/2G4b0KHGvrbBbxvLAsjSlc) | 4:29 |
 
-Snapshot ID: `Z6uzFQAAAAD7BcnbrrWE1SMJVhW3VhyQ`
+Snapshot ID: `AAAAAABhFzX5+7OTRJZT54Hk+YR1BT+m`

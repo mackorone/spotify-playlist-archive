@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Serena Brancale
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,123 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,131 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 89 | [RUMBA \(mi suoni un altro samba\)](https://open.spotify.com/track/1gjTxbFcoUcLf96TSHl4kK) | [JOIA LUZ](https://open.spotify.com/artist/7LxRmWeC5xgb7x16er9tGC) | [RUMBA \(mi suoni un altro samba\)](https://open.spotify.com/album/5g6NPLkcVpxpjjqpHuxUV3) | 2:35 |
 | 90 | [RESTA](https://open.spotify.com/track/3urkb8sNrNeIT1TfwMAgxj) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [RESTA](https://open.spotify.com/album/789pMbMUOcAWVLvI1xvIjG) | 2:32 |
 
-Snapshot ID: `aJJ/PAAAAACiHFpdIDYinzBzJG+iCZqw`
+Snapshot ID: `AAAAAIPRr9RenFPtIR6e5KTkFbgsPgHq`

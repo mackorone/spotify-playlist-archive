@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,859 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,866 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 54 | [Free to Be](https://open.spotify.com/track/6vxbevT7BDCxxvsxcnAiZ6) | [davOmakesbeats](https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Free to Be](https://open.spotify.com/album/5n47UiW6BssepuVGCWega1) | 1:45 |
 | 55 | [Oração \- Pense & Dance](https://open.spotify.com/track/5PRyGNj1hZEanG7KsaehdF) | [Lechuga Zafiro](https://open.spotify.com/artist/59CKhQjneZAPQKYcylrsVd), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Oração \(Pense & Dance\)](https://open.spotify.com/album/0IQcYNXQhSoJdpml6mUQY2) | 3:41 |
 
-Snapshot ID: `aHUfmAAAAADeL9rHmssA+qfrDK1aIHG/`
+Snapshot ID: `AAAAAIdJZmhEEz4eN/RvuznGi2wvcEoj`

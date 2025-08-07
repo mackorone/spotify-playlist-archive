@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 256909,
+  "num_followers": 256880,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2Tr0AAAAAB+f/7u2FcwJQquC1YtZxha",
+  "snapshot_id": "AAAAANSm03ud3HSMDGYwoOy+sGln7KfA",
   "tracks": [
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "My Favourite Day",
-        "url": "https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh"
-      },
-      "artists": [
-        {
-          "name": "Fickle Friends",
-          "url": "https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1"
-        }
-      ],
-      "duration_ms": 215624,
-      "name": "My Favourite Day",
-      "url": "https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Tinsel Dresses",
         "url": "https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Christmas Joy",
-        "url": "https://open.spotify.com/album/6avDqTUUdYbR79ChwhXqsw"
+        "name": "My Favourite Day",
+        "url": "https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh"
       },
       "artists": [
         {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+          "name": "Fickle Friends",
+          "url": "https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1"
         }
       ],
-      "duration_ms": 141733,
-      "name": "Christmas Joy",
-      "url": "https://open.spotify.com/track/3Rs2Fic9WvAyXhMhzpNsLO"
+      "duration_ms": 215624,
+      "name": "My Favourite Day",
+      "url": "https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1251,6 +1235,22 @@
       "duration_ms": 152426,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Christmas Joy",
+        "url": "https://open.spotify.com/album/6avDqTUUdYbR79ChwhXqsw"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "duration_ms": 141733,
+      "name": "Christmas Joy",
+      "url": "https://open.spotify.com/track/3Rs2Fic9WvAyXhMhzpNsLO"
     }
   ],
   "unique_name": "Indie Christmas",

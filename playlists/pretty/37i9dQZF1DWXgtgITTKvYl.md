@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,315 likes - 75 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,384 likes - 75 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Escape at Dawn](https://open.spotify.com/track/09j8oaKoD27NuHG9GE86qj) | [Pryces](https://open.spotify.com/artist/6e4SoZqhV4nKK3pT2JNrkx), [Tolan](https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC) | [Escape at Dawn](https://open.spotify.com/album/0GcXlCthNyb66thkfwOboV) | 3:20 |
 | 75 | [Few Dollars More](https://open.spotify.com/track/0GR2rXSLuuQTiEMOxvBXnG) | [Pryces](https://open.spotify.com/artist/6e4SoZqhV4nKK3pT2JNrkx), [Tolan](https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC) | [Few Dollars More](https://open.spotify.com/album/1RReFnG2XdOQwXVunlmkZB) | 2:58 |
 
-Snapshot ID: `aIw72QAAAADORBb/7/hBYcW/38WM4HAs`
+Snapshot ID: `AAAAAJjdMDg7gbrbrjmd/WTN6bSdahIe`

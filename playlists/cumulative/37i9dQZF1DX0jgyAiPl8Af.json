@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Bitterly Sweet",
+        "url": "https://open.spotify.com/album/53WwNJTRQseNg3Xff5EYPs"
+      },
+      "artists": [
+        {
+          "name": "Jonka Ebony",
+          "url": "https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126863,
+      "name": "Bitterly Sweet",
+      "url": "https://open.spotify.com/track/0jXrk3VVvMjEMDxK62VT0M"
+    },
+    {
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/0cM0K4oNN7D8Rxx6HEsX0n"
       },
@@ -4716,7 +4734,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 144217,
       "name": "Finally Home",
       "url": "https://open.spotify.com/track/1Qy7Uz4avfS6W295hIV5pH"

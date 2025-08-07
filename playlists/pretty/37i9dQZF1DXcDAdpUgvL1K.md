@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDAdpUgvL1K.md) - [plain]
 
 > Listen to the soundtracks of You are the Apple of My Eye\. \(그 시절, 우리가 좋아했던 소녀의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 48 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 48 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDAdpUgvL1K.md) - [plain]
 | 47 | [Heart ♥](https://open.spotify.com/track/2esqU8nvRGOybsP5v34ema) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Heart ♥](https://open.spotify.com/album/6RHZmabgiGSqgNWDp5GL5B) | 2:51 |
 | 48 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 
-Snapshot ID: `Z97LHQAAAABNXNmCjL9BPuMp9WZRz14+`
+Snapshot ID: `AAAAALvBeitbP8aYCTBGaNcr1bkFSYb8`

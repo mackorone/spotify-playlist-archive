@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xHKAQ0ENmr.md) - [plain]
 
 > 祝・漫画『<a href="https://promo.shonenjump.com/boukyaku/memorial\-party/">忘却バッテリー</a>』コミックス20巻発売！千早瞬平が聴いている楽曲をセレクト！Ⓒみかわ絵子／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,170 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,171 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xHKAQ0ENmr.md) - [plain]
 | 49 | [Lesson](https://open.spotify.com/track/0J40IgqmjMIbjY24RQB2w7) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Awesome City Club BEST](https://open.spotify.com/album/0BFqP8gzjC5agHccEUR4Hu) | 4:05 |
 | 50 | [Melodic Storm](https://open.spotify.com/track/7lOjIfuDlaobjQ8NTswIXu) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [The Best 3 ストレイテナー](https://open.spotify.com/album/6H9QqniRj6GCqf7yqIQOsZ) | 3:45 |
 
-Snapshot ID: `aEpMLwAAAACqPiD34ITFKyB8T1CVGBqn`
+Snapshot ID: `AAAAAKqavBKu0UjjaHLUC9we0LcsEaDc`

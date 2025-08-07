@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 81949,
+  "num_followers": 81965,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIIAcwAAAACEF2YCGftZan2Oq8x0D+Gl",
+  "snapshot_id": "AAAAADaGNJgv6LqOiJDOZtCF6mXwM5/p",
   "tracks": [
     {
       "added_at": "2025-07-24 09:44:19",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri"
-      },
-      "artists": [
-        {
-          "name": "Alfa Cognitive",
-          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Golden Age",
-      "url": "https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Simulacrum",
         "url": "https://open.spotify.com/album/6h05jReEpu0Cri0gZkV7N4"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 185779,
       "name": "Simulacrum",
       "url": "https://open.spotify.com/track/4wEbipetGjPZ1YFGT2v34O"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri"
+      },
+      "artists": [
+        {
+          "name": "Alfa Cognitive",
+          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Choir of Clouds",
-        "url": "https://open.spotify.com/album/2nsuKSa1NLfyaikTpmlpIy"
-      },
-      "artists": [
-        {
-          "name": "The Peace Within",
-          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Choir of Clouds",
-      "url": "https://open.spotify.com/track/74Kx7ng4EeQZC5tdh34z5F"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Earthbound Stillness",
         "url": "https://open.spotify.com/album/2MZOwji5OG2AaSlrbosM0u"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 168000,
       "name": "Earthbound Stillness",
       "url": "https://open.spotify.com/track/6aASNjiUlpPPj9bu9F4p5L"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Choir of Clouds",
+        "url": "https://open.spotify.com/album/2nsuKSa1NLfyaikTpmlpIy"
+      },
+      "artists": [
+        {
+          "name": "The Peace Within",
+          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Choir of Clouds",
+      "url": "https://open.spotify.com/track/74Kx7ng4EeQZC5tdh34z5F"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Resonance",
-        "url": "https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln"
-      },
-      "artists": [
-        {
-          "name": "Evanesce",
-          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Crystal Cavern",
         "url": "https://open.spotify.com/album/0zCOovryL6HtRNJqUH4zq7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209117,
       "name": "Crystal Cavern",
       "url": "https://open.spotify.com/track/2QTj5NfJSbJXmZn047KaAF"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln"
+      },
+      "artists": [
+        {
+          "name": "Evanesce",
+          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Nature of Life",
-        "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
+        "name": "Evening Veil",
+        "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
       },
       "artists": [
         {
-          "name": "Ozo Nakuru",
-          "url": "https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7"
+          "name": "Seth Sands",
+          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
         }
       ],
-      "duration_ms": 159892,
-      "name": "Nature of Life",
-      "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
+      "duration_ms": 136000,
+      "name": "Evening Veil",
+      "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -827,34 +827,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Evening Veil",
-        "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
+        "name": "Nature of Life",
+        "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
       },
       "artists": [
         {
-          "name": "Seth Sands",
-          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
+          "name": "Ozo Nakuru",
+          "url": "https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Evening Veil",
-      "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
-        "name": "Issa",
-        "url": "https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw"
-      },
-      "artists": [
-        {
-          "name": "Sufi Pyramid",
-          "url": "https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "ISSA",
-      "url": "https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ"
+      "duration_ms": 159892,
+      "name": "Nature of Life",
+      "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -871,6 +855,22 @@
       "duration_ms": 156000,
       "name": "Interlock",
       "url": "https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Issa",
+        "url": "https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw"
+      },
+      "artists": [
+        {
+          "name": "Sufi Pyramid",
+          "url": "https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "ISSA",
+      "url": "https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
+        "name": "arches",
+        "url": "https://open.spotify.com/album/1TUCzm7JXD5OSkodobhn1I"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "duration_ms": 183916,
+      "name": "arches",
+      "url": "https://open.spotify.com/track/27kZcqkjDk78N7yvOi2MJ5"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
         "name": "Quiet Melodies",
         "url": "https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 139600,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
-        "name": "arches",
-        "url": "https://open.spotify.com/album/1TUCzm7JXD5OSkodobhn1I"
-      },
-      "artists": [
-        {
-          "name": "Aquas",
-          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
-        }
-      ],
-      "duration_ms": 183916,
-      "name": "arches",
-      "url": "https://open.spotify.com/track/27kZcqkjDk78N7yvOi2MJ5"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Wu Wei",
-        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+        "name": "Mist Over Mountains",
+        "url": "https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG"
       },
       "artists": [
         {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+          "name": "Matsyendrasana",
+          "url": "https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m"
         }
       ],
-      "duration_ms": 169382,
-      "name": "Wu Wei",
-      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
+      "duration_ms": 168000,
+      "name": "Mist Over Mountains",
+      "url": "https://open.spotify.com/track/5zPxf9oBbQmYGBUn3aZb7d"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Mist Over Mountains",
-        "url": "https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG"
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
       },
       "artists": [
         {
-          "name": "Matsyendrasana",
-          "url": "https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m"
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Mist Over Mountains",
-      "url": "https://open.spotify.com/track/5zPxf9oBbQmYGBUn3aZb7d"
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Djupet",
-        "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
-      },
-      "artists": [
-        {
-          "name": "Owen Meyers",
-          "url": "https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM"
-        }
-      ],
-      "duration_ms": 223010,
-      "name": "Djupet",
-      "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Dreams of Another",
         "url": "https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 166125,
       "name": "Dreams of Another",
       "url": "https://open.spotify.com/track/3pOOs5JqVXvvZFwOeEb1g6"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Djupet",
+        "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
+      },
+      "artists": [
+        {
+          "name": "Owen Meyers",
+          "url": "https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM"
+        }
+      ],
+      "duration_ms": 223010,
+      "name": "Djupet",
+      "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Silent Waters",
-        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 144830,
-      "name": "Silent Waters",
-      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Dream Catcher",
         "url": "https://open.spotify.com/album/2Wnl7gJAZvkaKVDTT75xQI"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 133731,
       "name": "Dream Catcher",
       "url": "https://open.spotify.com/track/5PYsxNZChhUsvG5xUR33jK"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Silent Waters",
+        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 144830,
+      "name": "Silent Waters",
+      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Circle Of Everything",
-        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
-      },
-      "artists": [
-        {
-          "name": "Dance Of Centuries",
-          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Circle Of Everything",
-      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Soft Glow (432Hz)",
         "url": "https://open.spotify.com/album/3AQhmItCysLebW9yMCxgz0"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 178000,
       "name": "Soft Glow (432Hz)",
       "url": "https://open.spotify.com/track/1N3zuxOnvLbCDfDvrsv3ST"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Circle Of Everything",
+        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Circle Of Everything",
+      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
-      },
-      "artists": [
-        {
-          "name": "Lior Freudenthal",
-          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "By the Seaside",
         "url": "https://open.spotify.com/album/02RgacYRMWFmUhJdLTG6sq"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 165193,
       "name": "By the Seaside",
       "url": "https://open.spotify.com/track/7KAQD0hOEik8MhNdrsbkTM"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
+      },
+      "artists": [
+        {
+          "name": "Lior Freudenthal",
+          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Eternal Moonlight",
-        "url": "https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK"
-      },
-      "artists": [
-        {
-          "name": "Rettifilo Flo",
-          "url": "https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "Eternal Moonlight",
-      "url": "https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Uncharted Realm",
         "url": "https://open.spotify.com/album/6TgaQwm8W1uBiLLUor2AWe"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 198000,
       "name": "Light From Within",
       "url": "https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Eternal Moonlight",
+        "url": "https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK"
+      },
+      "artists": [
+        {
+          "name": "Rettifilo Flo",
+          "url": "https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "Eternal Moonlight",
+      "url": "https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Clarity Moon",
-        "url": "https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV"
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ"
       },
       "artists": [
         {
-          "name": "Liam Steed",
-          "url": "https://open.spotify.com/artist/2mwLRUvh0iuf9swl6Rn7ki"
+          "name": "Occas",
+          "url": "https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Clarity Moon",
-      "url": "https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi"
+      "duration_ms": 152000,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Transformation",
-        "url": "https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ"
+        "name": "Clarity Moon",
+        "url": "https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV"
       },
       "artists": [
         {
-          "name": "Occas",
-          "url": "https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ"
+          "name": "Liam Steed",
+          "url": "https://open.spotify.com/artist/2mwLRUvh0iuf9swl6Rn7ki"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Transformation",
-      "url": "https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo"
+      "duration_ms": 172200,
+      "name": "Clarity Moon",
+      "url": "https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Glasslike",
-        "url": "https://open.spotify.com/album/184KNeTWudGRr8psDgZg7B"
-      },
-      "artists": [
-        {
-          "name": "Jaumey",
-          "url": "https://open.spotify.com/artist/5rKn2xAv2XuWjf5EdlTc20"
-        }
-      ],
-      "duration_ms": 139483,
-      "name": "Glasslike",
-      "url": "https://open.spotify.com/track/5as5bE8AUagyTwRxmMceVF"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1899,18 +1883,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Sleep Sequence",
-        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
+        "name": "Glasslike",
+        "url": "https://open.spotify.com/album/184KNeTWudGRr8psDgZg7B"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Jaumey",
+          "url": "https://open.spotify.com/artist/5rKn2xAv2XuWjf5EdlTc20"
         }
       ],
-      "duration_ms": 203374,
-      "name": "Sleep Sequence",
-      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
+      "duration_ms": 139483,
+      "name": "Glasslike",
+      "url": "https://open.spotify.com/track/5as5bE8AUagyTwRxmMceVF"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1927,6 +1911,22 @@
       "duration_ms": 255578,
       "name": "Reinstatement",
       "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Sleep Sequence",
+        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 203374,
+      "name": "Sleep Sequence",
+      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

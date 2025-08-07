@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-579 songs - 1 day 0 hr 28 min
+581 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-28 | 2023-06-23 |
 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 | 2023-04-28 | 2023-06-23 |
 | [Bonheur](https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Bonheur](https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs) | 2:14 | 2023-03-24 | 2023-06-23 |
-| [Boundless Moment](https://open.spotify.com/track/1wmCoFe0tdBkWD2fmmAbJA) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Boundless Moment](https://open.spotify.com/album/3YGZLm3CHmMbIA24pLklT3) | 2:29 | 2025-04-22 |  |
+| [Boundless Moment](https://open.spotify.com/track/1wmCoFe0tdBkWD2fmmAbJA) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Boundless Moment](https://open.spotify.com/album/3YGZLm3CHmMbIA24pLklT3) | 2:29 | 2025-04-22 | 2025-08-07 |
 | [Break Of Day](https://open.spotify.com/track/0tLYax4z9smBlddTSfeguE) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Break Of Day](https://open.spotify.com/album/45VoYJoivXsCEwOI107vkI) | 2:26 | 2023-05-19 | 2025-03-12 |
 | [Brescia](https://open.spotify.com/track/2padEig8uM1o78Irz2A7Ip) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:45 | 2023-04-28 | 2023-06-23 |
 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 | 2023-04-28 | 2023-06-23 |
@@ -156,6 +156,7 @@
 | [Enchantment](https://open.spotify.com/track/10SYT1xYCFAZZg7muzeAxC) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Enchantment](https://open.spotify.com/album/1wUy2g9PMkkvA1gZZQU8CX) | 3:07 | 2023-04-28 | 2023-06-23 |
 | [Encounters](https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Encounters](https://open.spotify.com/album/3JNn40KWFz77KtMcs1R2Um) | 2:11 | 2023-10-27 | 2025-03-26 |
 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 | 2022-06-17 | 2023-09-14 |
+| [English Garden](https://open.spotify.com/track/1Oj1NHji788yzlUPZhggB6) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [English Garden](https://open.spotify.com/album/3BViz5JW6h0oSoCbGOnK8t) | 2:59 | 2025-08-06 |  |
 | [Enigma](https://open.spotify.com/track/0Pl2gUFcdxy1WyPTC4BdzF) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Enigma](https://open.spotify.com/album/5xFcvrfvLgIHeAtmTeId1i) | 2:37 | 2023-02-24 | 2023-06-23 |
 | [Entwined In Time](https://open.spotify.com/track/0CFbpv9WulwdXB8rC2iqMC) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Entwined In Time](https://open.spotify.com/album/38GoFbry09VPVpnckYyNCa) | 2:51 | 2022-06-17 | 2022-09-03 |
 | [Epilogue](https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Believe](https://open.spotify.com/album/0Iutlc6WCFQ64TZrdQUECo) | 2:49 | 2022-09-16 | 2025-03-12 |
@@ -355,6 +356,7 @@
 | [Now You Are Here](https://open.spotify.com/track/12D3dmsQyd3pLT7O9hcJk3) | [Wolfgang Vrecun](https://open.spotify.com/artist/3CXmNX9aJWp1FDQn1XDDbo) | [Modern Classical Guitar, Vol\. 2](https://open.spotify.com/album/33PydvV4ZnXjfrHTauT5vv) | 2:20 | 2022-09-16 | 2023-08-18 |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
 | [Ode](https://open.spotify.com/track/2Hoxt6py7gP6fmV8Mh9OOm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Ode](https://open.spotify.com/album/7hAG7HHYB00bdiz4T2C6TO) | 2:40 | 2022-06-17 | 2022-09-09 |
+| [Offerings](https://open.spotify.com/track/2h9aGQrQy3jW8CFrQcUYNl) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Offerings](https://open.spotify.com/album/7iRpFy86CulxD4eKf2xNWN) | 2:32 | 2025-08-06 |  |
 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 | 2023-02-24 | 2023-06-23 |
 | [Olivar de los Padres](https://open.spotify.com/track/3wp1BYW2oP8kfXcKld2FtD) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Olivar de los Padres](https://open.spotify.com/album/2OxKeAL3VTsGxJte3qs2OS) | 3:25 | 2022-06-17 | 2024-06-15 |
 | [On the Yorkshire Moors](https://open.spotify.com/track/127OCZgkNOhXGJdKWX64hF) | [Art Davis](https://open.spotify.com/artist/2zetqgnvUDWRP4Ug8XyUOd) | [On the Yorkshire Moors](https://open.spotify.com/album/6trFUMDDYQJpqzON6WWlXt) | 2:41 | 2022-07-22 | 2023-08-11 |

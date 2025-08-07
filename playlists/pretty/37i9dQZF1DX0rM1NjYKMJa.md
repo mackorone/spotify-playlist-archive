@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 ### [Carnival Sounds](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> Carnival prep for wherever you are\. Cover: Full Blown, Yung Bredda
+> Carnival prep for wherever you are.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,950 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,055 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 79 | [DAP \(Drink and Party\)](https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [DAP \(Drink and Party\)](https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq) | 2:49 |
 | 80 | [Ego Jam](https://open.spotify.com/track/1zH4ohNBrmrIHxDiEio1n9) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT) | [Freestyle Riddim, Pt\. 1](https://open.spotify.com/album/5SPVidZO4L6rM4tP0bkP1w) | 3:10 |
 
-Snapshot ID: `aIyUjgAAAADcNaPoJ+Uxjg8aBx8ufVMQ`
+Snapshot ID: `AAAAACq1Sb4MkzZ2A6Qj8tx0wH7Vm+0V`

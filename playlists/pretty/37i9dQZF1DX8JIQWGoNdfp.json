@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 60412,
+  "num_followers": 60442,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsPQAAAAACwqR2Q9XPviDgspLXG9Qhs",
+  "snapshot_id": "AAAAAOxlifR4HDYpmdUbA+NvihZyzLtd",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+      },
+      "artists": [
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "Butta Love",
+      "url": "https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "Sex, Love & Pain II",
         "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Rated Next",
-        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+        "name": "12 Play",
+        "url": "https://open.spotify.com/album/11UWeyxXNreHeZwEViqs3y"
       },
       "artists": [
         {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
         }
       ],
-      "duration_ms": 296400,
-      "name": "Butta Love",
-      "url": "https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q"
+      "duration_ms": 338160,
+      "name": "It Seems Like You're Ready",
+      "url": "https://open.spotify.com/track/1bX3phMuQSmIbPyj9qaIzO"
     }
   ],
   "unique_name": "Tyreek Hill's Taste",

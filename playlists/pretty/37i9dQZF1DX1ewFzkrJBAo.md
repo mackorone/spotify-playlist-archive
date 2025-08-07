@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 
 > Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,542 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,550 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 | 44 | [BOHBO No.5 \[2024 Remaster\]](https://open.spotify.com/track/6eWruIUcUdAuteeEGPFfGA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート \[2024 Remaster\]](https://open.spotify.com/album/0kakuzEsqYnGppMTvyBuPj) | 4:58 |
 | 45 | [マンピーのG★SPOT](https://open.spotify.com/track/71eARne1HTlvqgcBvge03z) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [マンピーのG★SPOT](https://open.spotify.com/album/23O7EkA3XO0TuLF0glVrqG) | 4:15 |
 
-Snapshot ID: `Z10AiwAAAAD+e1wD1NcUMjGjlnwCbMxV`
+Snapshot ID: `AAAAALm/g3ZzjEUENMZaGj7/8W3DrB9e`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 
 > Music from "Bungo Stray Dogs"\. ©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,853 likes - 42 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,877 likes - 42 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 | 41 | [絵描き歌わん!](https://open.spotify.com/track/752XNVzyiVE1ioO0K6bpQh) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 0:43 |
 | 42 | [名前を呼ぶよ \- 中島 敦ver.](https://open.spotify.com/track/3MMRow9uU0N6ZsOrWKbD3s) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 1:30 |
 
-Snapshot ID: `Z5PD4wAAAACGTvoQNAsx5q1+KK+KCgi+`
+Snapshot ID: `AAAAAJRwMUk0Z//LMeHgdJy2CpfLfdge`

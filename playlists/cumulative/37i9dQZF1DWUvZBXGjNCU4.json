@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/76DkXVXBRZytK2M86SMOSe"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145954,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2D5hOoRVyJ4xH0RIgA1zdV"
+    },
+    {
+      "album": {
         "name": "Fireside Advice",
         "url": "https://open.spotify.com/album/27H173Ifhecw83QcLkdreV"
       },

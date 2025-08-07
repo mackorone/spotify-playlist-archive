@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,701 likes - 74 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,757 likes - 74 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 41 | [Swing Wide \- Live](https://open.spotify.com/track/4Ffb55JzVxvHyXbwRPNlOa) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL) | [Swing Wide \(Live\)](https://open.spotify.com/album/3INtOnUwU0r1N2rBu3ZOyk) | 4:43 |
 | 42 | [Who Else](https://open.spotify.com/track/6UMkiHDvUY6B4sGfJ61Q2e) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Who Else](https://open.spotify.com/album/3AYrV3AtPND8ryIBEhWsxx) | 3:09 |
 | 43 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
-| 44 | [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/7JLZZvJFCTOtmoAkT4Keic) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 |
+| 44 | [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/6zMKXgzvuhDvGQC0G2tBfQ) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 |
 | 45 | [Trust and Obey](https://open.spotify.com/track/09bhaFqEGr3sxjAltWakAe) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Trust and Obey](https://open.spotify.com/album/6y7NKvyF4kO39t5OHfWj82) | 3:41 |
 | 46 | [Before We Put Our Trust In Human Kings / Exalted \- Live](https://open.spotify.com/track/0cYZliKx3JNe2YIounQPvy) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Charrise Barron](https://open.spotify.com/artist/6605K7pp3GA4NxliiVPret) | [Before We Put Our Trust In Human Kings / Exalted \(Live\)](https://open.spotify.com/album/2Y9vpMNj8F3pHdIEMmfcRZ) | 7:09 |
 | 47 | [Spirit Breathe](https://open.spotify.com/track/3uPCdMhnn9Xs6Yh8T4xbnr) | [Echo Harbor Worship](https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Spirit Breathe](https://open.spotify.com/album/0ruqTmr1iVkkekhMSoWqtK) | 4:56 |

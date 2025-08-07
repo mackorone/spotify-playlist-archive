@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 
 > Les talents préférés de vos enfants, découverts à la télé!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,486 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,483 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 | 49 | [C'est plus facile avec vous](https://open.spotify.com/track/7Eck1LEcFFq3m5g4va6iTt) | [Emma Cerchi](https://open.spotify.com/artist/127h5drPksZ0KjbHE1DR5A) | [C'est plus facile avec vous](https://open.spotify.com/album/3SxB06J4GfyUhfkZPGgggT) | 3:38 |
 | 50 | [Tout le bonheur du monde \(feat\. Inaya\)](https://open.spotify.com/track/54LltxIjaYmwtp7OtRppKb) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Inaya](https://open.spotify.com/artist/3ssxd1G91AbaoMrg9vA3TY) | [Tout le bonheur du monde](https://open.spotify.com/album/0Fv7WQcI5bgNXNgu4IooPC) | 3:21 |
 
-Snapshot ID: `ZIxUuAAAAACIcMIEMd9AphqpbVBU2vWA`
+Snapshot ID: `AAAAAHpHhVrgTe0QwYef5X5kSO9cEcAT`

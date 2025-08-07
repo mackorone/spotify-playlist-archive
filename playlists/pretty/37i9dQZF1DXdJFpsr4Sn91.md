@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,703 likes - 95 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,712 likes - 95 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 94 | [Mitä ollaan?](https://open.spotify.com/track/0wpVMzXfRDofeqxfyGC8pU) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mitä ollaan?](https://open.spotify.com/album/7AnvBkrBxtMOLXkkmcQIhf) | 2:41 |
 | 95 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
 
-Snapshot ID: `aIwDlQAAAAA8OtxcagB33r73axczLr2q`
+Snapshot ID: `AAAAAFFeeX/6WtzCeZBQeaFEjFvdD7k2`

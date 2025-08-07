@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAK58Yov6Re.md) - [plain]
 
 > Enjoy SiM's newest album "PLAYDEAD" along with MAH's Video interview!! Interview by TAKUTO ONUKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 27 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206 likes - 27 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAK58Yov6Re.md) - [plain]
 | 26 | [MAH tells us about "The Rumbling \- Orchestra Ver."](https://open.spotify.com/episode/3bb5kpRNNK3nz8812577Uz) | [Liner Voice+ Video Podcast  SiM PLAYDEAD](https://open.spotify.com/show/3nzpc1gxVYdPvhmr8LRtmi) | [Liner Voice+ Video Podcast  SiM PLAYDEAD](https://open.spotify.com/album/3nzpc1gxVYdPvhmr8LRtmi) | 6:40 |
 | 27 | [The Rumbling \- Orchestra Ver.](https://open.spotify.com/track/48ok965tFItbXGh9xb8bGM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:14 |
 
-Snapshot ID: `ZRLx8AAAAADlC9FqLZUMokP2MssOpZjj`
+Snapshot ID: `AAAAANInKz/8RkyZzRiFe5O2DkgCrJAq`

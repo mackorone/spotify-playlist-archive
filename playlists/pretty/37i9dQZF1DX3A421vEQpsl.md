@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,138 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,204 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Tum Par Hum Hai Atke \(From "Pagalpanti"\)](https://open.spotify.com/track/0j6LeC4rexb63tw2IaY5Gq) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Tum Par Hum Hai Atke \(From "Pagalpanti"\)](https://open.spotify.com/album/7tNwmMdHCQAHCThUbkd652) | 2:58 |
 | 50 | [Kisi Se Pyar Ho Jaye](https://open.spotify.com/track/2RIFyeYTPMHesJsWPW2Z8v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Gourov\-Roshin](https://open.spotify.com/artist/65nLHsd1qvpjrzK4pGbEpC), [Rajesh Roshan](https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 4:10 |
 
-Snapshot ID: `aHjh/QAAAAB/Zihs1hJ02Uq/+er3Ca1v`
+Snapshot ID: `AAAAAKm2flLsuDKjO0fFBZW9k9JjkmUn`

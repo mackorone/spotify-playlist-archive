@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,010 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,047 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 99 | [A Usted](https://open.spotify.com/track/5k3IIxkZbvGoWdEPhw6Z2L) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [En Transito](https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ) | 3:13 |
 | 100 | [Tiramisu de Limon](https://open.spotify.com/track/2RWQo5F0iGGSluBZyaOyxc) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Tiramisu de Limon](https://open.spotify.com/album/33N9DXjW7WSxskbx4FMeRQ) | 4:11 |
 
-Snapshot ID: `aGT6CgAAAADlDtKwKMtdH048lM0FgIDe`
+Snapshot ID: `AAAAALay3nkfmIWgCPNywfR2Vfdf90dR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat! Cover: laurie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,036 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,038 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 48 | [TUKTUK](https://open.spotify.com/track/6rxyCz0kF55sboellENzq3) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK), [Nemazalány](https://open.spotify.com/artist/474u1cnCRF41ym7ZNBddcc) | [TUKTUK](https://open.spotify.com/album/3Letpc0U8APdF4wfi7PkKG) | 3:00 |
 | 49 | [Ki viszi át a szerelmet?](https://open.spotify.com/track/3gb8sFSaUhrLSJToATIJzX) | [Hegedűs Bori](https://open.spotify.com/artist/09OYVqClUT8Hec0wQdIp5F), [Tempfli Erik](https://open.spotify.com/artist/4jy7SetDUhLUyvuAK0dlNL) | [Megtörtént dolgok háza](https://open.spotify.com/album/2lIQrLFsAwxuqiSTZHoLf8) | 2:24 |
 
-Snapshot ID: `aJJ+9wAAAABLQ6OWyeO1I1Lkz4Ziv4JL`
+Snapshot ID: `AAAAAO7t9/zeImQRmNylPowaf4/vUSm4`

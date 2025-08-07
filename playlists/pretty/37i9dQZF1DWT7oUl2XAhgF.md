@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Hermanos Gutiérrez x Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,143 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,228 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Nobody But You](https://open.spotify.com/track/6Oao4bGYFGXppmlI0cjIiS) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Nobody But You](https://open.spotify.com/album/64vGv9opFtK75WRyjPRFnP) | 2:15 |
 | 100 | [This Could Last Forever](https://open.spotify.com/track/4QvXMdjbpYKw86TDFFmXlI) | [The Sextones](https://open.spotify.com/artist/3cXcKlLqfzaqFq80D7RCWu) | [Love Can't Be Borrowed](https://open.spotify.com/album/4lVwQRcEyiifhaQRhyv0w0) | 3:57 |
 
-Snapshot ID: `aIw72wAAAADD9+lIQyHPM9R8dyvey+q3`
+Snapshot ID: `AAAAABxYjzeFclPM1xRs0dBRGorns4bv`

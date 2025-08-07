@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm9cUUN5OOs.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Michaela Coel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,566 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,567 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm9cUUN5OOs.md) - [plain]
 | 49 | [liquor](https://open.spotify.com/track/2ITSMmMciu1oRxuGoLL7EG) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 1:13 |
 | 50 | [Pamela Lee](https://open.spotify.com/track/6dcGejsXB92GeHXFK8thlX) | [Millie Go Lightly](https://open.spotify.com/artist/3eSQPLy8hktGQTGSVB51lD) | [Pamela Lee](https://open.spotify.com/album/2woQTsY0Ps2ynlt0mZhEA4) | 3:17 |
 
-Snapshot ID: `Zr19QAAAAABeKtbwixTSZ3CQwdWqZs+G`
+Snapshot ID: `AAAAANxULKQM0gIY3RIe6xzP47nsb7MS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Chappell Roan, GIMS x La Mano 1.9 et Jul au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,115 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,091 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 81 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 |
 | 82 | [Last Few Parties](https://open.spotify.com/track/55wfUUF4RMvbZg98dSl9oH) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [You Wanna Fade? \(Deluxe Edition\)](https://open.spotify.com/album/3DN44dRh3BSu0pEYSLoSuG) | 2:40 |
 
-Snapshot ID: `aIwDlQAAAACxscBp8ktJAUMXpK+RHZJU`
+Snapshot ID: `AAAAAFQhJaSNnc+6ufDM/vnWNQMJKSCx`

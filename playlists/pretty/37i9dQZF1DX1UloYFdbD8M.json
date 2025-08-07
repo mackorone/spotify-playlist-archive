@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Sushin Shyam",
-  "num_followers": 36320,
+  "num_followers": 36333,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIynWwAAAADssaep5wHttU9I1iDVtAtR",
+  "snapshot_id": "AAAAAIefRTO2gPBa6DstSZY9e9KBvTan",
   "tracks": [
     {
       "added_at": "2025-08-01 11:39:07",
@@ -87,6 +87,26 @@
       "duration_ms": 182562,
       "name": "Thirinjin",
       "url": "https://open.spotify.com/track/2TxrGGH6GEnt0MTsR9Xslw"
+    },
+    {
+      "added_at": "2025-08-06 04:53:23",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0PK5jkjXKLiMS7U2fmWft0"
+      },
+      "artists": [
+        {
+          "name": "DJSHA",
+          "url": "https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu"
+        },
+        {
+          "name": "DeXterDuke",
+          "url": "https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa"
+        }
+      ],
+      "duration_ms": 182129,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj"
     },
     {
       "added_at": "2025-08-01 11:29:14",
@@ -795,26 +815,6 @@
       "duration_ms": 172456,
       "name": "Veyil",
       "url": "https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC"
-    },
-    {
-      "added_at": "2025-06-16 11:11:48",
-      "album": {
-        "name": "Maut",
-        "url": "https://open.spotify.com/album/1lIxgM4kvISw0QhRhqXuvP"
-      },
-      "artists": [
-        {
-          "name": "Amal R Vp",
-          "url": "https://open.spotify.com/artist/0MnFFZZSySNrGopyFPWad5"
-        },
-        {
-          "name": "Musicaholic",
-          "url": "https://open.spotify.com/artist/248iJr8broW390N2E72Fyd"
-        }
-      ],
-      "duration_ms": 242465,
-      "name": "Maut",
-      "url": "https://open.spotify.com/track/7iCOtipsMA7HYwe4s8RWpG"
     },
     {
       "added_at": "2025-04-21 06:32:47",

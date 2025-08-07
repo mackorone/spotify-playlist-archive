@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,214 songs - 12 day 3 hr 41 min
+5,217 songs - 12 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3071,6 +3071,7 @@
 | [My Soul](https://open.spotify.com/track/0wuMM8q47H0HaBZMSbf8M1) | [Blacksmith](https://open.spotify.com/artist/3eSCq2mHL5JuADXu2vEAs5), [Aisha B](https://open.spotify.com/artist/4p5X8jpu45NP6yanPGhM0H) | [My Soul](https://open.spotify.com/album/17vSk7Vngg4NtmmhIVlvjr) | 3:19 | 2024-11-01 | 2024-11-13 |
 | [My Sweet Lord](https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Eric Clapton: Life In 12 Bars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cfUT6PId9Jnjar3ftQ3Bk) | 4:40 | 2021-07-11 | 2024-04-21 |
 | [My Type](https://open.spotify.com/track/1jrGYEJhRqQuugrjUNcNuV) | [Tre Moore](https://open.spotify.com/artist/45q9gZcmGChvO1UXvLWWBL) | [My Type](https://open.spotify.com/album/01MJhC8HFQAZAf37EsyBqT) | 2:10 | 2024-08-24 | 2024-09-18 |
+| [My Wave](https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd) | [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [My Wave](https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7) | 2:30 | 2025-08-06 |  |
 | [My Wonder](https://open.spotify.com/track/2aak38gnzNNuJnrd1AACrI) | [Alejandra O'Leary](https://open.spotify.com/artist/3y4khrJjdxXrnhBvfqAVn6) | [Everest](https://open.spotify.com/album/1yFHruHeMll9KYvrMeS3Ev) | 5:06 | 2025-07-09 | 2025-07-21 |
 | [MYM](https://open.spotify.com/track/0pbq8UdSJYBMVhTQPsM1CR) | [Trilla da Vinci](https://open.spotify.com/artist/0ot3tViQujUGlIKjd31NQU) | [MYM](https://open.spotify.com/album/3Tccb3fdj1hckLvHG9iYCA) | 2:53 | 2022-09-02 | 2022-09-18 |
 | [Mystery's Golden](https://open.spotify.com/track/7fIRIp4tW1vK5q0jq9fHz8) | [Ross Livermore](https://open.spotify.com/artist/3NnWvFrTYmolzV1athoz8g) | [Mystery's Golden](https://open.spotify.com/album/1Lb6SwZEf25ZbYOPjH1ayn) | 4:01 | 2024-11-08 | 2024-12-10 |
@@ -3165,6 +3166,7 @@
 | [NO MORE CAMERAS](https://open.spotify.com/track/2FPWZhKih3iNdP3fGT7xLs) | [Journey Skye](https://open.spotify.com/artist/4PbiDCknc3z9dHtTJEkaO7) | [WATER](https://open.spotify.com/album/22aOnnRCY7OKuL91YrmL01) | 2:46 | 2024-09-13 | 2024-09-24 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-05-21 | 2025-06-08 |
 | [No Pressure](https://open.spotify.com/track/5AVGyPtW9EKhRvar2ZP925) | [Sultans Court](https://open.spotify.com/artist/1Oq0fBU6CVhqp4JicuSWuZ) | [No Pressure](https://open.spotify.com/album/29XdfK4qlUbEnCXFiKVVju) | 3:54 | 2023-12-08 | 2023-12-30 |
+| [No Reasons](https://open.spotify.com/track/1kmlIJygcqW1aF9MJjeX1R) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [No Reasons](https://open.spotify.com/album/2bVoVb8qDjCVQCzm2JAPYL) | 3:38 | 2025-08-06 |  |
 | [No Regrets](https://open.spotify.com/track/74yGylFcKKnVJVhbifhPLW) | [Becca Swan](https://open.spotify.com/artist/0Ys8Mr5x5RwYnw4DpmXXUC) | [No Regrets](https://open.spotify.com/album/5xwwYUoqtCHkOYGgZEykvx) | 3:17 | 2024-08-23 | 2024-09-03 |
 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2024-04-27 | 2024-05-14 |
 | [No Room In Hell](https://open.spotify.com/track/6hRMQCCeVY21p8SRziPnhq) | [Lew Apollo](https://open.spotify.com/artist/1iclNC8eAt6q968DYNCmTY) | [No Room In Hell](https://open.spotify.com/album/2HgZpI04vlSBkSIogRYlqM) | 2:51 | 2025-05-16 | 2025-06-14 |
@@ -3499,6 +3501,7 @@
 | [Piña Colada \(Instrumental\)](https://open.spotify.com/track/70ohvxDajvfgG6WJZNugGv) | [Petrichor](https://open.spotify.com/artist/4CHoqO65i96zDV4M18BYlm) | [Piña Colada \(Instrumental\)](https://open.spotify.com/album/6YhcsbSNibjrzYI7W9YjVp) | 2:37 | 2022-03-11 | 2022-03-31 |
 | [place card](https://open.spotify.com/track/5IK68GpO5jigQjoEabuiLd) | [Olivia Melfi](https://open.spotify.com/artist/3gaTC5BggXRvAPP6m9JRRw) | [place card](https://open.spotify.com/album/5X4U4bpXB4cjpnzJ358lpH) | 3:19 | 2023-02-26 | 2023-03-20 |
 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 | 2024-06-05 | 2024-06-24 |
+| [Plane Jane](https://open.spotify.com/track/3FNAhcJI3ORxCeCQTAEugN) | [Lexie](https://open.spotify.com/artist/4rxkYdxnD8OLxuwqKiwmw9) | [Plane Jane](https://open.spotify.com/album/3P1EWiXUhIZfeixQd2U1Bl) | 4:12 | 2025-08-06 |  |
 | [PLASTIC CUP](https://open.spotify.com/track/6G6NYQyb6Y1KEJkRYldYkr) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [PLASTIC CUP](https://open.spotify.com/album/3sHlkJENWEBfvBHpbQSOg1) | 3:33 | 2025-06-10 | 2025-06-29 |
 | [Plastic Sea](https://open.spotify.com/track/2UykkJ0sguLc5gHcuTGTdb) | [Julian Maverick](https://open.spotify.com/artist/3OLmtWNjbxHj6ZzNlmeiNb) | [Plastic Sea](https://open.spotify.com/album/31yQdlIgonyZu0cmeheIog) | 4:42 | 2023-03-27 | 2023-04-05 |
 | [Platinum](https://open.spotify.com/track/3VWSUhXqZWMemBR7i0lWYP) | [Jay Watts](https://open.spotify.com/artist/2lGHglX5dA9A4IAw9kjDm6) | [Platinum](https://open.spotify.com/album/5HflEJsBKAVZf56iu37zvr) | 2:32 | 2020-07-05 | 2020-07-28 |

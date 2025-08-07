@@ -12003,6 +12003,24 @@
     },
     {
       "album": {
+        "name": "From a Certain Point of View",
+        "url": "https://open.spotify.com/album/4Wik1trbWw1xr2E0sZVtH7"
+      },
+      "artists": [
+        {
+          "name": "Rocketman",
+          "url": "https://open.spotify.com/artist/4n3vlLgsdMv4OIoLhKU1CN"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184585,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1aNNlMlJDjK6p1U5qZ3DMO"
+    },
+    {
+      "album": {
         "name": "Moonstone",
         "url": "https://open.spotify.com/album/4kcRF7VJVx69pJXecrPDyi"
       },

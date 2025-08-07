@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Audra McDonald in "Gypsy"
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,115 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,120 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 74 | [What I Was Born To Do](https://open.spotify.com/track/76x2S7qF5cw6AuXbuNiehl) | [Bring It On: The Musical \- Original Broadway Cast](https://open.spotify.com/artist/5VbVlOyCYdM5ikZMoz3dRg) | [Bring It On: The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0lni1TITfl755CC5wYA0QO) | 4:53 |
 | 75 | [Annie: Tomorrow](https://open.spotify.com/track/1AXO42HiJSTgPq7KbJAEjp) | [Charles Strouse](https://open.spotify.com/artist/1HO6dUh3pea34OKnmsmjQx), [Andrea McArdle](https://open.spotify.com/artist/74AUP6Y3N7vo7s043wFa0m), [Annie \(Original Broadway Cast\)](https://open.spotify.com/artist/3RreZNGP8ixMXsm1iHabA3), [Peter Howard](https://open.spotify.com/artist/6kSSIddrp6LMEAUfbiacVv) | [Annie \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0T1lQv20NNCoFlZkVHN3SQ) | 2:07 |
 
-Snapshot ID: `aAsI5QAAAAAphmuTDDUjF/Vn6etrmgdf`
+Snapshot ID: `AAAAAGVRPeWK/XLOaRhqK1dsGlrQTADh`

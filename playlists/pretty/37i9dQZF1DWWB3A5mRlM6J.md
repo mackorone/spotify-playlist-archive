@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3A5mRlM6J.md) - [plain]
 
 > Enjoy the Dynamic Duo Seoul concert LIVE SET including the voices of them on stage! \(다이나믹 듀오의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 741 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3A5mRlM6J.md) - [plain]
 | 41 | [Comment \- Johnny](https://open.spotify.com/track/5CeKvuHlFW1XgaXfx6rzos) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Dynamicduo Concert 'In The Long Run' Audio Liner](https://open.spotify.com/album/1EsxvAIsofFSlp3rwDxP1B) | 0:21 |
 | 42 | [Johnny](https://open.spotify.com/track/4OHq2ao4pXmGq9OOuP3lxb) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Johnny](https://open.spotify.com/album/4PGzs8JNNxXkaE3SMpApOm) | 3:54 |
 
-Snapshot ID: `Z24SIgAAAABISYFjpb+9RFft5qu68m62`
+Snapshot ID: `AAAAABgyf5B7KgErpvdOwsjk3CqWraeh`

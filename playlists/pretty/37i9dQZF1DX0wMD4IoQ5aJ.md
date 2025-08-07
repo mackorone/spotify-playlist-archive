@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,569 likes - 218 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,651 likes - 218 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 217 | [new job](https://open.spotify.com/track/0CNDAJO2dkVsIvChFbDZqD) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [new job](https://open.spotify.com/album/6wsIt3yA3Q6XVYZAHql9mk) | 2:07 |
 | 218 | [Meia](https://open.spotify.com/track/1G6EfETRr0lUPuTcJPlBiY) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Meia](https://open.spotify.com/album/2IfD8qk6bCxCuQmtraOZRs) | 2:29 |
 
-Snapshot ID: `aFLPPwAAAAChRYJVLMlDqNO+sCQhJBpI`
+Snapshot ID: `AAAAACqjZwRVV/adT67VSCp8sFc+FuK6`

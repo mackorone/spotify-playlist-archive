@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Brazen Barbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,486 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,540 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Mon Amie](https://open.spotify.com/track/3NbT8a53oZwmL2by5NEtAW) | [mostly sleeping](https://open.spotify.com/artist/0c4hWy19I8yBCVb4dnrm31) | [Mon Amie](https://open.spotify.com/album/1qXVaJwvkQLYTlQziVq3HP) | 3:21 |
 | 100 | [THE ONE](https://open.spotify.com/track/5eHim7vHMIJgOvrvN8f3n6) | [MOKOMOKAI](https://open.spotify.com/artist/6IyLCow3HLUYJJJ12P9WQd) | [PONO!](https://open.spotify.com/album/1eSbfptpdD6A7MOjAH0obv) | 5:04 |
 
-Snapshot ID: `aJIOeQAAAABB7C4OktlydEwt0GYqZT8P`
+Snapshot ID: `AAAAACW3itw4hwn7TEqnNTTJkW+u+LLe`

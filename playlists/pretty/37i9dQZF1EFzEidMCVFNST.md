@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 241 | [Exemplo](https://open.spotify.com/track/3arTCOZ3JP84zaB4v5gMSM) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Confissões de um Apaixonado](https://open.spotify.com/album/4dJWLnArL6r95Li2hBHtu1) | 3:32 |
 | 242 | [Palavras Não Amam \- Ao Vivo](https://open.spotify.com/track/09deR4vwLCYErfYjXoETxj) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom) | [Em Fases \(Ao Vivo\)](https://open.spotify.com/album/20NsobT5lxHSvdbOmi24kF) | 2:42 |
 | 243 | [Solinho Saliente](https://open.spotify.com/track/1d0c0Tph5ZtTaqxMb6FBv9) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Baile da Brisa](https://open.spotify.com/album/5fh9avSAdPcIpYQ9se6pT9) | 2:25 |
-| 244 | [Pá Pá Pá](https://open.spotify.com/track/5HZHl3iDWvUcLuE89ppEMr) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Energia Não Mente](https://open.spotify.com/album/4aNpbMF0mARTvRAeuo0shh) | 2:10 |
-| 245 | [Respeita Nosso Fim](https://open.spotify.com/track/3kWjB7kKX15lfG6gHVQVYJ) | [Ray do Arrocha](https://open.spotify.com/artist/0UwiwtgSxDxDMLMaELRmUV) | [2019](https://open.spotify.com/album/5deGBkx5pWnsBmdjH1zN1J) | 2:49 |
+| 244 | [Respeita Nosso Fim](https://open.spotify.com/track/3kWjB7kKX15lfG6gHVQVYJ) | [Ray do Arrocha](https://open.spotify.com/artist/0UwiwtgSxDxDMLMaELRmUV) | [2019](https://open.spotify.com/album/5deGBkx5pWnsBmdjH1zN1J) | 2:49 |
+| 245 | [Pá Pá Pá](https://open.spotify.com/track/5HZHl3iDWvUcLuE89ppEMr) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Energia Não Mente](https://open.spotify.com/album/4aNpbMF0mARTvRAeuo0shh) | 2:10 |
 | 246 | [TROPIKAL GIM \(Ao Vivo\)](https://open.spotify.com/track/3tRruRhLrhUTBPyk1h1yEU) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:20 |
 | 247 | [Qualquer Sonho](https://open.spotify.com/track/1VfOtiNRmAWlpJznbXb1qW) | [Grupo Tróia](https://open.spotify.com/artist/2QqjqX7rH6dDTpvy7qNhmW) | [Grupo Tróia](https://open.spotify.com/album/3lwiPM46azqxX3yXi8uEdV) | 3:33 |
 | 248 | [Problemão](https://open.spotify.com/track/7aEMh6RVYuLPXjwwU8IQE3) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Baile da Brisa](https://open.spotify.com/album/5fh9avSAdPcIpYQ9se6pT9) | 2:53 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 300 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 301 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `Ab4uCAAAAABIWoihF4R1JxSZeblqj02N`
+Snapshot ID: `Ab4zvAAAAAAlOzZ8+xMZXNfdlisXKzUg`

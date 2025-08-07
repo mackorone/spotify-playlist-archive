@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Budi Doremi
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,838 likes - 103 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,863 likes - 103 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

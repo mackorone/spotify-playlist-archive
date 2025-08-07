@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=Ryxw\-idLS1mm6km64D6KHQ>Sinach</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,628 likes - 100 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,764 likes - 100 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [DUTSEN CETO](https://open.spotify.com/track/5xvWfzNAIzD1StFS1fSJOX) | [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1), [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN) | [DUTSEN CETO](https://open.spotify.com/album/31EoDaDEuTHpKBxzZOgejd) | 4:29 |
 | 100 | [Covenant](https://open.spotify.com/track/2dHsmrbMPq88m3fwVA5Hlk) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [VERSES, Vol\. 2](https://open.spotify.com/album/0JF6vL0sJeAERjLlwpdLY8) | 8:49 |
 
-Snapshot ID: `aI4DEQAAAABIyW0duzlPzkWUBNAn7Ln/`
+Snapshot ID: `AAAAAGqETYSo6kA8C0ypISDPBjfeZy1/`

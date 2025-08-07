@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,159 likes - 73 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,160 likes - 73 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 72 | [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 |
 | 73 | [C'est La Vie](https://open.spotify.com/track/7J5zrmSVeayUtEr8VMDljA) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [C'est La Vie](https://open.spotify.com/album/18sNNLd89IAKHL7T707yyk) | 2:48 |
 
-Snapshot ID: `aIvngAAAAADgXeGvZ/ia+wMinlBrExul`
+Snapshot ID: `AAAAAAOoNEMw76AC7X1mQFukm8IhziFx`

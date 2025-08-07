@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WvunxF0tu8.md) - [plain]
 | 7 | [Talking Movies With Wesley Morris, Sean Fennessey, and Cameron Crowe \(first appearance!\)](https://open.spotify.com/episode/3gpYVsNGqfxBsBHcfSpYow) | [The Bill Simmons Podcast](https://open.spotify.com/show/07SjDmKb9iliEzpNcN2xGD) | [The Bill Simmons Podcast](https://open.spotify.com/album/07SjDmKb9iliEzpNcN2xGD) | 2:24:33 |
 | 8 | [NFC Guesses, a Jets Benching, Thanksgiving Picks, and Mike Birbiglia’s First Appearance \| With Ben Solak and Peter Schrager](https://open.spotify.com/episode/3serMjaAgOmCTdjHUOju6A) | [The Bill Simmons Podcast](https://open.spotify.com/show/07SjDmKb9iliEzpNcN2xGD) | [The Bill Simmons Podcast](https://open.spotify.com/album/07SjDmKb9iliEzpNcN2xGD) | 2:00:48 |
 
-Snapshot ID: `ZIxaXwAAAACJjZlgauStuu984nWLVMam`
+Snapshot ID: `AAAAAKplh1LqNRl4eRJO6fXgBRl5L+c/`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,387 songs - 5 day 5 hr 50 min
+2,388 songs - 5 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-12-14 | 2025-01-26 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-01-12 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-07-01 | 2021-10-31 |
-| [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 | 2025-05-17 |  |
+| [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 | 2025-05-17 | 2025-08-07 |
 | [Badman Trip](https://open.spotify.com/track/72sNoilzbclWcY1eRVAaJr) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:11 | 2021-11-14 | 2021-11-19 |
 | [Bah Ouais](https://open.spotify.com/track/7hPuSCBhCq0NEhZ6PPIS3y) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 3:21 | 2024-09-14 | 2024-09-22 |
 | [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 | 2024-07-23 | 2025-01-12 |
@@ -2176,6 +2176,7 @@
 | [TOUCHÉ](https://open.spotify.com/track/35M3SV65wTPKwFbgVKFfyE) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/044Ci0Qsezoif2RJKTBc9p) | 2:53 | 2025-04-23 | 2025-07-22 |
 | [Toujours +](https://open.spotify.com/track/5jceHfkyTOUMFmcZaxfV8t) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 2:21 | 2022-10-01 | 2022-10-03 |
 | [Toujours la même](https://open.spotify.com/track/6fu1FCLI1Rz39PCezBa6Zi) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:56 | 2023-03-04 | 2023-03-06 |
+| [Tour du monde](https://open.spotify.com/track/5dnM53F6iHQZbyu8k5HUSg) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Africa Jungle Part.1](https://open.spotify.com/album/3CEQfO8lftbOCvj5khGddm) | 2:51 | 2025-08-06 |  |
 | [Tous les jours](https://open.spotify.com/track/3AcobHbeLi6HEnh3UNYgjV) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:50 | 2023-01-28 | 2023-01-30 |
 | [Tout en Gucci](https://open.spotify.com/track/0i5GJckWb9uCZU4jcGoBca) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 3 \(Réédition\)](https://open.spotify.com/album/2NU2ajd63dfXOzKrvoMS3G) | 3:47 | 2021-03-27\* | 2021-07-11 |
 | [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 | 2024-06-03 | 2024-06-16 |

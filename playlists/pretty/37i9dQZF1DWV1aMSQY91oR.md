@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: YG & Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,251 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,272 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Get Loud](https://open.spotify.com/track/6gfmAqk0WzJUuKPFSJ7Rfm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Memblem](https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI), [Melo Griffith](https://open.spotify.com/artist/6tEy95ozMYnWq0Kmurirzk) | [Get Loud](https://open.spotify.com/album/05r8XCitLF2Iz3EpyRMrAj) | 2:08 |
 | 50 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 
-Snapshot ID: `aIxA6wAAAACcprB3XJ+OamQszsAyBxiu`
+Snapshot ID: `AAAAAFlxAP2JjcG9QIxt/axK5+khHaWr`

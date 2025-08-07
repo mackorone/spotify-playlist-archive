@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Kwaku DMC
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,669 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,688 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
 | 50 | [ISHOWSLIME](https://open.spotify.com/track/5Z9Ykm3nBlE5aRWEhY0eD5) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [ISHOWSLIME](https://open.spotify.com/album/2SBgt9ehUfaIJof7h9oLzz) | 2:25 |
 
-Snapshot ID: `aIwD4wAAAABi8ixVnqBq1nvFMgEE5R3L`
+Snapshot ID: `AAAAAGlA6F7uv4nmGJefBpi9vLSb1b/D`

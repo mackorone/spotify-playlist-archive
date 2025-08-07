@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain]
 
 > Music from "Solo Leveling"! ©Solo Leveling Animation Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,502 likes - 44 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,546 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain]
 | 43 | [\[Solo\-Leveling\]PianoSolo4](https://open.spotify.com/track/1aywZrJKAD2Ma15GDvuvsh) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Season2 \-Arise from the Shadow\- Original Soundtrack](https://open.spotify.com/album/1RiSRSE9wGtGUxPaH9LZ5X) | 2:38 |
 | 44 | [\[Solo\-Leveling\]PianoSolo5](https://open.spotify.com/track/2GfUFdSrkUjs2om67ynU3R) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Season2 \-Arise from the Shadow\- Original Soundtrack](https://open.spotify.com/album/1RiSRSE9wGtGUxPaH9LZ5X) | 2:31 |
 
-Snapshot ID: `aAfpCAAAAACDt281/3kSmOQiXlO1WzSN`
+Snapshot ID: `AAAAALwrsuP9Lh/s5NLyqzNote2pEyNd`

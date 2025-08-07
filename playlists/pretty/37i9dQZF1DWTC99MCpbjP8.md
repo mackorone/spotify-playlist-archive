@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,358 likes - 160 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,605 likes - 160 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 159 | [Zenith](https://open.spotify.com/track/4JpAOAqjjv9GFrbASIOGLa) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Zenith & Stillness in Waiting](https://open.spotify.com/album/1Lk8IRtw6vxcFfBa0FvOyE) | 3:35 |
 | 160 | [Infinite](https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Infinite](https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0) | 2:26 |
 
-Snapshot ID: `aJIN6QAAAAACyhPFECxqT75m7+WhsAWT`
+Snapshot ID: `AAAAACP7gsn2OkQ8ymcsdSoMQS+04ESd`

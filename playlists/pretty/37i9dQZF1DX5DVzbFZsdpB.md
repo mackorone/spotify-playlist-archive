@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 9 | [We're Dehumanising Ourselves: Gender Essentialism, Mormon Trad Wives and 'Girl' Culture](https://open.spotify.com/episode/3ESlvJUFxWO2FAEfbTRSMr) | [From The Diving Board](https://open.spotify.com/show/3x5s7DATP1LXAndFl8rt4i) | [From The Diving Board](https://open.spotify.com/album/3x5s7DATP1LXAndFl8rt4i) | 37:56 |
 | 10 | [The Relatable to Luxury Influencer Pipeline](https://open.spotify.com/episode/0L5S0MiVG4TMZ1aK1dxetV) | [From The Diving Board](https://open.spotify.com/show/3x5s7DATP1LXAndFl8rt4i) | [From The Diving Board](https://open.spotify.com/album/3x5s7DATP1LXAndFl8rt4i) | 25:29 |
 
-Snapshot ID: `aIq7jQAAAAAIPgtQMiQrwOfXa1/0GPfV`
+Snapshot ID: `AAAAACKntkge5+5VfzPkip+miHwk5u1L`

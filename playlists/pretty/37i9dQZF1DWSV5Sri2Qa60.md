@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Pebbledash
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,368 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,358 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Pirouette](https://open.spotify.com/track/7uj5bFfCFpP3bXNcHPtcJQ) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Pirouette](https://open.spotify.com/album/0ZSz3vLHAgBenyEI3SZEdD) | 4:06 |
 | 50 | [Stuck](https://open.spotify.com/track/0Xw6rMmiaOr0CWTJGQJIJr) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Stuck](https://open.spotify.com/album/7zvnJfzs5OaYCm7B7IOWCF) | 4:06 |
 
-Snapshot ID: `aHlyoQAAAABQuLKWJkcVnCmio/+cY49R`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

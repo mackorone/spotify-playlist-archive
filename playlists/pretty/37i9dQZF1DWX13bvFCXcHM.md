@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX13bvFCXcHM.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! \(아티스트의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,747 likes - 31 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,752 likes - 31 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX13bvFCXcHM.md) - [plain]
 | 30 | [Our Own Summer](https://open.spotify.com/track/7hbCAq2LgAezWtJbfXv6Bs) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8) | 5:08 |
 | 31 | [Ment 5 \(Day 3 ending\)](https://open.spotify.com/track/4nm9ivPpxFjTqHSxrkZf8m) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [The Black Skirts Concert \[SONGS TO BRING YOU HOME\]](https://open.spotify.com/album/6xr9sCKjBmqE5vnm8B2GWr) | 1:07 |
 
-Snapshot ID: `Z8hnEQAAAACQLLQ5zEYePqYyI2Dap4c8`
+Snapshot ID: `AAAAAF/eoxMvQoVy1wCY/GZ7MTfJFLZh`

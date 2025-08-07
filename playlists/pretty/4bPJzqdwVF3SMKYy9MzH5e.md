@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,202 songs - 4 day 22 hr 0 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,205 songs - 4 day 22 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1899,7 +1899,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1889 | [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [So What If I'm A Freak](https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ) | 2:26 |
 | 1890 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 |
 | 1891 | [Fire Alarm \(feat\. Snow Strippers\)](https://open.spotify.com/track/02Mqx9HzVRyfdCUpPNR6N3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:05 |
-| 1892 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 |
+| 1892 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [Aphøtic](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 |
 | 1893 | [O'lord! I Have My Doubts](https://open.spotify.com/track/5hWa8yLWGRjkBQDekWVElJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
 | 1894 | [Get With U](https://open.spotify.com/track/4JHCLFKkuvNMb67DYuAjUU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Get With U](https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI) | 1:58 |
 | 1895 | [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 |
@@ -2210,5 +2210,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2200 | [Before Every Load](https://open.spotify.com/track/6lKxR1j4093K49grbtC9Ir) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [BUCKSHOT ROULETTE](https://open.spotify.com/album/7fPcdqIB6qZNsDPeYiEg4Y) | 2:41 |
 | 2201 | [SG\-177](https://open.spotify.com/track/21Jlw6dn72ni5vGq5ejatL) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [SG\-177](https://open.spotify.com/album/1ehg4ms9bq8wxPeNWOUDjC) | 2:48 |
 | 2202 | [Bump 9](https://open.spotify.com/track/3R70HmrqOGs7CL0T5KFcWp) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [Tango Circuit](https://open.spotify.com/album/6o0klrmJedxW8Ro3oviacJ) | 2:57 |
+| 2203 | [Krasaki](https://open.spotify.com/track/39v0ztlkkQcFP7DiC7bNap) | [Dimi Darko](https://open.spotify.com/artist/73y3LenX8VOJvPkIPUscJ9) | [Krasaki](https://open.spotify.com/album/0eqg0fMIm5yqVxpILmelM0) | 3:40 |
+| 2204 | [FREAKYGIRL](https://open.spotify.com/track/1sscAD9ROdWJxAdWhfZbTZ) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [FREAKYGIRL](https://open.spotify.com/album/5utT3ttXCihfhH2LyE813r) | 2:46 |
+| 2205 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 |
 
-Snapshot ID: `AAAEhDLN2asyuGs+Sllr0VPuc5dmnleg`
+Snapshot ID: `AAAEiWBGuAmIm4Vg7O1iyysdbBo+uEW6`

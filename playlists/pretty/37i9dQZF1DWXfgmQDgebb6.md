@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,427 likes - 9 songs - 44 min 28 sec
+[Spotify](https://open.spotify.com/user/spotify) - 11,407 likes - 9 songs - 44 min 28 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 8 | [Desert Eagle](https://open.spotify.com/track/0haCeyoW7lP7PNRu3RnSZZ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3VfI9ZwIJSL6xBJ6LuT3Sx) | 5:09 |
 | 9 | [Speakeasy Live feat\. Silica Gel \- CLOSING](https://open.spotify.com/episode/3O2acHo8dRkfPiHx1h1xXJ) | [Speakeasy Live](https://open.spotify.com/show/3K5MA73EUjLWWa2qoDlgs5) | [Speakeasy Live](https://open.spotify.com/album/3K5MA73EUjLWWa2qoDlgs5) | 1:33 |
 
-Snapshot ID: `aItBhAAAAACEnD9gvNV/iAsN18dt9B7M`
+Snapshot ID: `AAAAANMBmuWi+ls+YKyilpRmHtHj1vsI`

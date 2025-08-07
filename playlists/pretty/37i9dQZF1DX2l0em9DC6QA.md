@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l0em9DC6QA.md) - [plain]
 
 > anti\-romance, curated by Alice Oseman\. The conflicting feelings of joy and grief experienced when coming to terms with my asexual and aromantic identity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,895 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,894 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l0em9DC6QA.md) - [plain]
 | 29 | [The Beach II](https://open.spotify.com/track/1Ut8FTGmfaGXsUrc8jIQW1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:39 |
 | 30 | [Nobody Really Cares If You Don't Go to the Party](https://open.spotify.com/track/3UkoT8HGhrlYpmwaLw83EX) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/4xRrnbv5WmQp6CJXksbF1t) | 2:46 |
 
-Snapshot ID: `ZnSgHAAAAABLJJlzYLcHNsH6f7gyMuoG`
+Snapshot ID: `AAAAAKmwJVTI2iLpZwDPpyAUXhZ62R0B`

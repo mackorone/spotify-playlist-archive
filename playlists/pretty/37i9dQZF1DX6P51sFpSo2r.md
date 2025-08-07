@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,172 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,332 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 69 | [Mordecai](https://open.spotify.com/track/2Fui3xJLasH473qnBa2T6C) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Silent Circus](https://open.spotify.com/album/1rmiMSKXg6o8F1UVBdhQpN) | 5:47 |
 | 70 | [Lies Of Serpents, A River Of Tears](https://open.spotify.com/track/0rZafkLnrcAFbVTrMo2NIl) | [Zao](https://open.spotify.com/artist/2vqfIznyoJDjhrbNAueQ6s) | [Where Blood And Fire Bring Rest](https://open.spotify.com/album/2cl5dUYMZOeIAJXjzKpvj5) | 2:39 |
 
-Snapshot ID: `ZoOzogAAAAAKRQ5WdHTMaLNNJGiKX2LX`
+Snapshot ID: `AAAAAGoOC/oVW8TjWyApTVtXrjVds6F3`

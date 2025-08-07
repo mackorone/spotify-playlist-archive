@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,314 likes - 112 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,298 likes - 112 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 111 | [AYWA](https://open.spotify.com/track/1dWAYiEBEZNfhTc7yQz8AM) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h) | [AYWA](https://open.spotify.com/album/6q6Es7j8AyZXubmzurovKM) | 2:18 |
 | 112 | [En sista gång](https://open.spotify.com/track/59gjiR00mvfLrGRwFLhxCo) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [En sista gång](https://open.spotify.com/album/68oSNCwaTxD7Sarr9dXblG) | 2:25 |
 
-Snapshot ID: `aJDazAAAAAAtY3OoC/1+9Iq8pHbz0fQd`
+Snapshot ID: `AAAAANjJCLuHjOKtc4g5BqQoeT9XYuP3`

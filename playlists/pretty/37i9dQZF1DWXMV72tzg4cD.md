@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMV72tzg4cD.md) - [plain]
 | 74 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
 | 75 | [ENERGI](https://open.spotify.com/track/4Gcj3KFQs8D6xnq2qaF1av) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/28EmDTnxJEZPHL6f2aUo1x) | 3:13 |
 
-Snapshot ID: `Z1BHxAAAAAAeKV103fJyZxv6uuWNDY6P`
+Snapshot ID: `AAAAAKVjJz6BZX0Z2ANWEsN/xkpn9mr9`

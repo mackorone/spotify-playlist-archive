@@ -4,7 +4,7 @@
 
 > 
 
-2,226 songs - 4 day 23 hr 31 min
+2,229 songs - 4 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Freaking Out the Neighborhood](https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 2:53 | 2021-08-05 |  |
 | [FREAKOUT](https://open.spotify.com/track/67sc8RomM2gwAwXVVZBKKL) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [FREAKOUT](https://open.spotify.com/album/3CA429bFNjzjr9KwM1RuoA) | 2:26 | 2022-02-04 |  |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-08-05 |  |
+| [FREAKYGIRL](https://open.spotify.com/track/1sscAD9ROdWJxAdWhfZbTZ) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [FREAKYGIRL](https://open.spotify.com/album/5utT3ttXCihfhH2LyE813r) | 2:46 | 2025-08-06 |  |
 | [Free](https://open.spotify.com/track/5o6GnHeA8voabKhVBT8Og3) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Only The Beginning](https://open.spotify.com/album/6z1qeT7vI9YUsCHqufGWJy) | 2:52 | 2021-08-05 |  |
 | [Freight Yard](https://open.spotify.com/track/12IZSRtnjulqIUX3Sad4gG) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 2:27 | 2022-12-25 |  |
 | [French Girl](https://open.spotify.com/track/72Hh1GP6yxzD8XlVlMdfz9) | [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [French Girl](https://open.spotify.com/album/4N8sHmZLrlfaYVyVL0GeL4) | 1:26 | 2024-03-25 |  |
@@ -1105,6 +1106,7 @@
 | [KMS](https://open.spotify.com/track/0CmR4NDzyLtAFWs14bTp10) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 2:40 | 2021-08-05 |  |
 | [Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:49 | 2023-02-25 |  |
 | [Korea](https://open.spotify.com/track/2rqQUmFckbAmGNXCcAwJ7E) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/57KFwKnC0ZjaIQGnhE7ops) | 3:23 | 2022-02-18 |  |
+| [Krasaki](https://open.spotify.com/track/39v0ztlkkQcFP7DiC7bNap) | [Dimi Darko](https://open.spotify.com/artist/73y3LenX8VOJvPkIPUscJ9) | [Krasaki](https://open.spotify.com/album/0eqg0fMIm5yqVxpILmelM0) | 3:40 | 2025-08-06 |  |
 | [Kream \(feat\. Tyga\)](https://open.spotify.com/track/5mu1uv8RmzDkF8foePK5qa) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Survive The Summer](https://open.spotify.com/album/4jzYKkhMfaEFxDRevZqDdK) | 2:46 | 2021-08-05 |  |
 | [Krystle \- URL Cyber Palace Mix](https://open.spotify.com/track/4kJHxSrzUA9qmYGU6fDHk3) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:36 | 2022-06-02 |  |
 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-08-05 |  |
@@ -1112,6 +1114,7 @@
 | [La Mamá de la Mamá](https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:39 | 2024-10-24 |  |
 | [LA MuDANZA](https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:33 | 2025-01-10 |  |
 | [La Que Me Gusta](https://open.spotify.com/track/59HBsP5zIuEzDsrY9bB2NQ) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Repeat After Me](https://open.spotify.com/album/47E8vMHuQF9PlXtac1uVW3) | 3:59 | 2021-08-05 |  |
+| [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 | 2025-08-06 |  |
 | [La Verdolaga](https://open.spotify.com/track/5PL7k9QH7Kj7B4527dHvon) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga](https://open.spotify.com/album/6NC1xi5hipWfyrwkq3fe4r) | 2:30 | 2025-04-29 |  |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2024-06-29 |  |
 | [Lady Love](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/0wC7LND4olfhUHZK9HVLN5) | 2:54 | 2025-06-19 | 2025-06-22 |
@@ -1915,7 +1918,7 @@
 | [tension](https://open.spotify.com/track/01kclZe2YxCS39ykf4Wpzd) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [tension](https://open.spotify.com/album/4UKvA0W2eTUphnKu0TRRSo) | 2:10 | 2024-07-20 |  |
 | [Territorial Pissings](https://open.spotify.com/track/4zZh3CwOCWGjxxfXNocAOe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 2:22 | 2021-08-05 |  |
 | [text me back](https://open.spotify.com/track/0WdMRbjB45q2Rl7FTZ5Q5n) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [VIRTUAL DEATH 9 5](https://open.spotify.com/album/3wgQAnJoHQ7BfEZsH2mTQD) | 1:07 | 2022-02-04 |  |
-| [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 | 2024-05-14 |  |
+| [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [Aphøtic](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 | 2024-05-14 |  |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-08-05 |  |
 | [Thank You for the Venom](https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:41 | 2021-08-05 |  |
 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 | 2022-09-18 |  |

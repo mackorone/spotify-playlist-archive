@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 
 > Dance remixes of popular songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,142 likes - 160 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,571 likes - 160 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 | 159 | [Llorando Se Fue \(Lambada\)](https://open.spotify.com/track/5xKjvOO3TX8A9UsurpAOb2) | [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Shemenzo](https://open.spotify.com/artist/25fXb5qv0GFehqD82VA87j), [Phany](https://open.spotify.com/artist/3YkS0v0VJDuBzu4P9gziyC), [Chempy](https://open.spotify.com/artist/1HY2LGhVBAD6IUBSMJFt3R) | [Llorando Se Fue \(Lambada\)](https://open.spotify.com/album/2rxu5xiwVmkLPhTmkV0jqW) | 3:08 |
 | 160 | [Shivers \(feat\. Sam Rendina\)](https://open.spotify.com/track/29Ck3QVMprwhElUjqJUCKr) | [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [Brøder](https://open.spotify.com/artist/7DBx4maFkuoaBd7w7tTsQR), [DEBO](https://open.spotify.com/artist/3EznjIn5ZWWsgVtljYDd7Y), [Sam Rendina](https://open.spotify.com/artist/2vTsgwtZQXNvWuDNB5dtIK) | [Shivers \(Feat\. Sam Rendina\)](https://open.spotify.com/album/50m0njzQ4jYx8UmbHy7sTX) | 2:43 |
 
-Snapshot ID: `aHA39gAAAACaUaFomB0z5gv9LtqydVpY`
+Snapshot ID: `AAAAAKUfujw7AOxEieM8TxdMlwWD6o7r`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,140 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,214 likes - 77 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 | 76 | [Better Alone](https://open.spotify.com/track/7AIeIxvnN0LoKvyevsfUZj) | [Brayden Dunbar](https://open.spotify.com/artist/718jt24mHnTl76rE6T5sSp) | [Better Alone](https://open.spotify.com/album/0q2U9ju7gbpGSIetIo8Xs5) | 3:04 |
 | 77 | [Good To Me](https://open.spotify.com/track/6hxk4O3pxR1L9tKkj4BbYn) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Good To Me](https://open.spotify.com/album/31pumQiCZG4iIWbBPSgn1R) | 2:17 |
 
-Snapshot ID: `ZdZVjQAAAACahtFArldDNOI597xWgqfh`
+Snapshot ID: `AAAAADtBWDST4QlVEN7QS5UOVmhd9C8z`

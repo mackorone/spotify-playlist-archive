@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: NO TIME FOR SILENCE\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,036 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,035 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 99 | [hit me up \(hmu\)](https://open.spotify.com/track/4OI5cMmtPP2hs98JaLpCgC) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [hit me up \(hmu\)](https://open.spotify.com/album/6LqxmLp1WQQz5OAuA48ng9) | 2:46 |
 | 100 | [Aku Bodoh](https://open.spotify.com/track/1qYaW3kfOO7LLmXYF3soBc) | [Gretchene Quirina](https://open.spotify.com/artist/3VnYhB6dvJbz0VhKRP6cUd) | [Aku Bodoh](https://open.spotify.com/album/0Mg3sPaEMPCvfZe6QLe4qS) | 4:07 |
 
-Snapshot ID: `aIucvwAAAADrCLFMa/hcQ+empF5DgN1G`
+Snapshot ID: `AAAAAFS6V9/70rNCv2AABVEV+JgP5HyV`

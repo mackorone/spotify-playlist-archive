@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ziproom
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,965 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,970 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [DREAMIN' BOI ISSUE Pt.2](https://open.spotify.com/track/1ytbxItZUYiba4KfHgmaCJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [DREAMIN' BOI ISSUE Pt.2](https://open.spotify.com/album/12Ih90Oy0zPcqmL1xLr8bj) | 2:12 |
 | 100 | [LIFE TAPE](https://open.spotify.com/track/28eCDLLlJwphyrcDJZ5W03) | [LOM](https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT) | [LIFE TAPE](https://open.spotify.com/album/3E9hVlm9oUFpv4tGKDLqjS) | 3:17 |
 
-Snapshot ID: `aJIciwAAAACv2A+DP37N5HpuU/yRg1RC`
+Snapshot ID: `AAAAAPzTsUphCKFEmu8s11Ha9tAGeopv`

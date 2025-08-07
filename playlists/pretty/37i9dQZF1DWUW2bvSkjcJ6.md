@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Chappell Roan, Amo, Lune, Felix Jaehn und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,794 likes - 74 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,720 likes - 74 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 73 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 |
 | 74 | [Different Sorts](https://open.spotify.com/track/0XXTLG5NfNcFHPOJoSTcAb) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [36](https://open.spotify.com/artist/7DGmBOT6629EbsQOqINEqJ) | [Different Sorts](https://open.spotify.com/album/6rcsSrEC4ugxOLargkI7wQ) | 2:19 |
 
-Snapshot ID: `aIyQ8QAAAAAu4ZolGytyng+BNSlUQ/06`
+Snapshot ID: `AAAAABnPIskbcvTdh+dHnsKnZR4RlNmm`

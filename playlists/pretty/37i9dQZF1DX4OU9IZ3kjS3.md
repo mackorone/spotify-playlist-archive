@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OU9IZ3kjS3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 632 likes - 110 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 631 likes - 110 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OU9IZ3kjS3.md) - [plain]
 | 109 | [A Bedtime Story](https://open.spotify.com/track/0UOpkXGucnf0EXTjdzd62M) | [Relaxing Guitar Group](https://open.spotify.com/artist/15nn82tXBkwGVFJWgmSMzi) | [Relaxing Guitar Originals](https://open.spotify.com/album/4KGo9LeLkwobSLEB4Oo0Qd) | 3:44 |
 | 110 | [Softly](https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Softly](https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin) | 2:25 |
 
-Snapshot ID: `ZQGg7wAAAABfzsLzJRwqyU9Vf9mUKwOu`
+Snapshot ID: `AAAAAOEeuxbbsXoHPCP8eTqjwesyuMzk`

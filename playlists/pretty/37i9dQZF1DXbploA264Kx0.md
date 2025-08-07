@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mukio \(張牧喬\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,493 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,500 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
 | 50 | [Wrong Time, Right Pain](https://open.spotify.com/track/4INMYnl4Bq0Eu1tJ1MWawA) | [OHAN](https://open.spotify.com/artist/4Z5HJS9e9zr2DWHaNGMJX4) | [Wrong Time, Right Pain](https://open.spotify.com/album/4w2EjB12Ib3SZq3Fq5AYP5) | 4:10 |
 
-Snapshot ID: `aIuTFQAAAAAJIsjffykcCuBh1gizeCkB`
+Snapshot ID: `AAAAAJussC8lLeE8GkcrOYpPIKRGvKUV`

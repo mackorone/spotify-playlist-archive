@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 187428,
+  "num_followers": 187471,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZohOOwAAAABH86hZcZFkuWU2l98nJY6Y",
+  "snapshot_id": "AAAAAMIzA81XqaUJ7bH8rKur5qvJxkza",
   "tracks": [
     {
       "added_at": "2024-07-05 19:49:15",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Phosphorescent Harvest",
-        "url": "https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL"
-      },
-      "artists": [
-        {
-          "name": "Chris Robinson Brotherhood",
-          "url": "https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A"
-        }
-      ],
-      "duration_ms": 307573,
-      "name": "About a Stranger",
-      "url": "https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Just Like Me",
         "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 184270,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Phosphorescent Harvest",
+        "url": "https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL"
+      },
+      "artists": [
+        {
+          "name": "Chris Robinson Brotherhood",
+          "url": "https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A"
+        }
+      ],
+      "duration_ms": 307573,
+      "name": "About a Stranger",
+      "url": "https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "More Of The Same",
-      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Phase Zero",
         "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
       },
       "artists": [
         {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
         }
       ],
-      "duration_ms": 258800,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
+      "duration_ms": 248791,
+      "name": "More Of The Same",
+      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -847,6 +831,22 @@
       "duration_ms": 192027,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
+      },
+      "artists": [
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
     },
     {
       "added_at": "2024-07-05 19:49:15",

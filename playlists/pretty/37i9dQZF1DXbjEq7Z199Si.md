@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain]
 
 > Everyone deserves a chance to fly\. Listen to the music from and inspired by Wicked, co\-curated by Cynthia Erivo and Ariana Grande.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,191 likes - 31 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,232 likes - 31 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain]
 | 30 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
 | 31 | [Fly Like A Bird](https://open.spotify.com/track/7FE5kIgUX01HdQQyg1M26n) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:53 |
 
-Snapshot ID: `aHxqEAAAAADBUVyUnKJAfb8Shmc/2ega`
+Snapshot ID: `AAAAAEbOBNloVVIrgYndvCOC4K0Oae7X`

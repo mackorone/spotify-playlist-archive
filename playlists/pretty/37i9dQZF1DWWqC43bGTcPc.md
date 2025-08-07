@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 張遠
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,692 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,742 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [封鎖線 \- 電影《山忌黃衣小飛俠》片尾曲](https://open.spotify.com/track/19qfZRL0wSiEXLcttvg5pm) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [封鎖線 \- 電影《山忌黃衣小飛俠》片尾曲](https://open.spotify.com/album/0FtgPWglWqnWIS9XalJZDK) | 3:58 |
 | 50 | [你就像陽光 Like Sunshine](https://open.spotify.com/track/6R9mB26hCbX8rhiNv8bRIo) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [你就像陽光 Like Sunshine](https://open.spotify.com/album/6YikJDUZdUsSbPzK9qLgmO) | 3:16 |
 
-Snapshot ID: `aJDZHgAAAABalS4+xL2aUq3bsdGaaGx6`
+Snapshot ID: `AAAAAF7upzvuSSfviDWBXY6xDHXdhTX2`

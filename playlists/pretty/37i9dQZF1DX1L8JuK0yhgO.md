@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,143 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,145 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Cotton Candy Blvd](https://open.spotify.com/track/32fEvXFGD0OKJlRJ8Q9mzr) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Cotton Candy Blvd](https://open.spotify.com/album/0CHhHnWNR8zfryYVqiQDLI) | 3:12 |
 | 70 | [Confession](https://open.spotify.com/track/5QxUnrd2UBLG8mCA9d7Vmu) | [jasontheween](https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB) | [Confession](https://open.spotify.com/album/7laAyhTYTxJDY44OCThyda) | 2:37 |
 
-Snapshot ID: `aJADjwAAAABjkkLNuKN6fkFdCRxp57IG`
+Snapshot ID: `AAAAANO+wGq8ZO/so2aAlavzBFRoF18S`

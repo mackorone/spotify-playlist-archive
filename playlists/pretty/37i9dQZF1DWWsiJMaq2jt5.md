@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6Em3ZrtfeNlVv8kyJcHcZt">Yana Couto</a>, <a href="spotify:artist:5O11auA9UW7ZBACNBMBsBu">OS.SO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,017 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,047 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [1:50](https://open.spotify.com/track/3PzFwg4zuxiwD9BkZIrCnb) | [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6), [Patryk Banach](https://open.spotify.com/artist/7nfIem0wrLFT4hO5Q5s6EL) | [Lanquidities](https://open.spotify.com/album/06xICI8lmluFmgk8hSb8xu) | 1:52 |
 | 50 | [Kalejdoskop](https://open.spotify.com/track/5C9Yq4br1IG9vzF6WZslEb) | [seeme](https://open.spotify.com/artist/3A8UssjsCCvAI7bpQkd1VR) | [Kalejdoskop](https://open.spotify.com/album/22V62e7FbzjvnWSuV1PMfn) | 3:05 |
 
-Snapshot ID: `aJJ+9wAAAABJ9tKVGOFnSNVg1cPDJ4Ag`
+Snapshot ID: `AAAAAFWM5AqJb/07RxMPgrPpUcjdzIzl`

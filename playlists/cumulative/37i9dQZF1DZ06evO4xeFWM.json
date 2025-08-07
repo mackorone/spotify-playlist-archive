@@ -927,6 +927,28 @@
     },
     {
       "album": {
+        "name": "Machines Will Never Learn To Make Mistakes Like Me",
+        "url": "https://open.spotify.com/album/6d6HF2SPQTKPfNd7pqUPbS"
+      },
+      "artists": [
+        {
+          "name": "Will Varley",
+          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199506,
+      "name": "Home Before The World Ends",
+      "url": "https://open.spotify.com/track/0bW61j9D0JRflFGclIpqlC"
+    },
+    {
+      "album": {
         "name": "Home Before The World Ends",
         "url": "https://open.spotify.com/album/53SZYASReMx3CIFrlGa2wy"
       },
@@ -1970,7 +1992,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 240660,
       "name": "The Waves",
       "url": "https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G"

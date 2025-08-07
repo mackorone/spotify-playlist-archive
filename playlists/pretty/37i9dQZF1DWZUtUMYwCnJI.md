@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 
 > Enjoy the world of “Fire Force”! ©大久保篤・講談社／特殊消防隊動画広報第参課
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,237 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,241 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 | 61 | [灼熱ディザスター](https://open.spotify.com/track/2EipPyWWVV6ExSgR4uAWXt) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:07 |
 | 62 | [焦熱レクイエム](https://open.spotify.com/track/0c5o92AI9vplbS1oyffiRq) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [炎炎ノ音楽隊〜TVアニメ「炎炎ノ消防隊」オリジナルサウンドトラック〜](https://open.spotify.com/album/6YtOFm8JiH4lqWOGBY0fJC) | 2:58 |
 
-Snapshot ID: `Z+/0EQAAAAA9iwbplQrQOy5Wqd3NMEJ3`
+Snapshot ID: `AAAAANsF+O6JUhvGiXe81QEoxILRTwCP`

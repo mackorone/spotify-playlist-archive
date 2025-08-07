@@ -2063,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0PK5jkjXKLiMS7U2fmWft0"
+      },
+      "artists": [
+        {
+          "name": "DJSHA",
+          "url": "https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu"
+        },
+        {
+          "name": "DeXterDuke",
+          "url": "https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182129,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj"
+    },
+    {
+      "album": {
         "name": "Gopa Trance",
         "url": "https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe"
       },
@@ -4030,7 +4052,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 242465,
       "name": "Maut",
       "url": "https://open.spotify.com/track/7iCOtipsMA7HYwe4s8RWpG"

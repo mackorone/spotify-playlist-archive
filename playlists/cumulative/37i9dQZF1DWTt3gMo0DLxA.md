@@ -2,7 +2,7 @@
 
 ### [Trending Now Telugu](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
-> Trending songs from Tollywood! <br/>Cover: HIT 3
+> Trending songs from Tollywood! <br/>Cover: Athadu
 
 218 songs - 14 hr 20 min
 

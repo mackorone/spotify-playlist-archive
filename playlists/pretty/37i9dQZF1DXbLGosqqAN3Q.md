@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLGosqqAN3Q.md) - [plain]
 
 > Music From "Genesis of Aquarion"!\(C\)2004 河森正治・サテライト/Project AQUARION
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,774 likes - 46 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,771 likes - 46 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLGosqqAN3Q.md) - [plain]
 | 45 | [First love Final love](https://open.spotify.com/track/7k3ijRhL6TdiNvnf3mmWAB) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 4:13 |
 | 46 | [リーナのタンポポ](https://open.spotify.com/track/0vKhCi8BCHU0XJSx7s2j8q) | [Hiromi Sato](https://open.spotify.com/artist/7CXhT5Gvb8r8Kla2qXka6v) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 3:21 |
 
-Snapshot ID: `aBELAQAAAAD5M1/WtG+FLmxjzq+xyPFn`
+Snapshot ID: `AAAAAH3XQ08WDkXFc5SVCe3lAI4y5gsb`

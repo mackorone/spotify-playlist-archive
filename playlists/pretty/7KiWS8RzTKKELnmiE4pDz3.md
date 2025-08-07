@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 275 songs - 15 hr 10 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 280 songs - 15 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,5 +283,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 273 | [Sneaky "B"](https://open.spotify.com/track/0tnOqAPvtKcmj3GE7Iyc58) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Sneaky "B"](https://open.spotify.com/album/5CJnXpMnstOEdvRWIGOdjf) | 2:38 |
 | 274 | [Yoppenheimer](https://open.spotify.com/track/59xdYjVILhhafdiPHBpRda) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Yoppenheimer](https://open.spotify.com/album/1eUhZBzrbVNVkP0UE1r5bB) | 2:15 |
 | 275 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
+| 276 | [REDRAG](https://open.spotify.com/track/4JPaDF0pN3JPColaLaDbTF) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:46 |
+| 277 | [SOUL\-FLY](https://open.spotify.com/track/4JEEXcszp3GldmXm0dhk60) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:56 |
+| 278 | [FACET!ME](https://open.spotify.com/track/0lZ4QMio1QUV6an6gaKpt6) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:02 |
+| 279 | [PC5](https://open.spotify.com/track/6i8v5yhol3QkMSnUJJvL8b) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:18 |
+| 280 | [SHOPPING BAGS \(with Destroy Lonely\)](https://open.spotify.com/track/6HStf7721bXOr2zx4nHh08) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:25 |
 
-Snapshot ID: `AAAe3MeXLOSZYhqR78uTEfX9w+eI/IrQ`
+Snapshot ID: `AAAe4Yut9+7P6FYyVf8S1aVv+8NnF8Ha`

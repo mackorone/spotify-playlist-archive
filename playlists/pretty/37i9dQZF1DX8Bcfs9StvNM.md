@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 
 > Spotify×サザンのムードプレイリストシリーズ第3弾。切なさの中にも希望が光る、至高の「せつなソング」を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,546 likes - 45 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,553 likes - 45 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 | 44 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 45 | [心を込めて花束を \[2024 Remaster\]](https://open.spotify.com/track/0d4QSrsOM7DxDM2u2cetlQ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love \[2024 Remaster\]](https://open.spotify.com/album/4c50Se1s2bydmHsVjaRMX0) | 4:09 |
 
-Snapshot ID: `Z169cAAAAABHpLnZltjSZ8b55WOol5S6`
+Snapshot ID: `AAAAACRLe4KJ0b9efAReVtzwG9MR84KE`

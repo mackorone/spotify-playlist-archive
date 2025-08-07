@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,235 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,313 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 74 | [Baby Strange \(Alternate Mix\) \[Live at Wembley 1972\]](https://open.spotify.com/track/0EQfV3tozqwFDg2cyrZAiX) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Baby Strange \(Alternate Mix\) \(Live at Wembley 1972\)](https://open.spotify.com/album/0z27xzqf8LCZKpweS8UDpH) | 5:21 |
 | 75 | [In Every Dream Home A Heartache](https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [For Your Pleasure](https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29) | 5:29 |
 
-Snapshot ID: `Zow5YgAAAAASITCBJWRG2Ati69SmzVlm`
+Snapshot ID: `AAAAAJ7K675n+wPBsSs3ldip0ZlY8usV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqkyNSQUvSz.md) - [plain]
 
 > A podcast playlist where women of all experiences share the stories that made them who they are.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298 likes - 8 songs - 39 min 18 sec
+[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 8 songs - 39 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqkyNSQUvSz.md) - [plain]
 | 7 | [With Love, Olivia Noel](https://open.spotify.com/episode/7fSttfsaxD1EMKS6Ip0lHI) | [With Love, A Storyteller](https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y) | [With Love, A Storyteller](https://open.spotify.com/album/1ciHAutJ8BfgqgdWDgQI7y) | 5:06 |
 | 8 | [With Love, Juleyka Lantigua](https://open.spotify.com/episode/13YlrH9nTUiHw8LndchA7R) | [With Love, A Storyteller](https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y) | [With Love, A Storyteller](https://open.spotify.com/album/1ciHAutJ8BfgqgdWDgQI7y) | 4:29 |
 
-Snapshot ID: `ZIsRlwAAAABBQCX9V3ZwT6REzzMMC98m`
+Snapshot ID: `AAAAAHG28mPkIhdDV/cJ7joV/oXzaiL8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 
 > Celebramos las voces extraordinarias del siglo XX, con Raphael en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,854 likes - 79 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,063 likes - 79 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 78 | [Te Llevo Bajo Mi Piel](https://open.spotify.com/track/6hObbRRXsy6SCsJVDGFZfE) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Te Llevo Bajo Mi Piel](https://open.spotify.com/album/5sM0abfPqNow3wD7piEbDA) | 3:34 |
 | 79 | [Pequena y Fragil](https://open.spotify.com/track/66cURA7Ngk7rkrQ5hI46kL) | [Sabú](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [15 Originales](https://open.spotify.com/album/3oWuzkgyLf8EjSfTAt5Heg) | 4:07 |
 
-Snapshot ID: `Z8XN3QAAAAD+cPRRbV3BnxCFwQqc4+08`
+Snapshot ID: `AAAAABr1xu0htG1nfBfn8lVzAFsMMgos`

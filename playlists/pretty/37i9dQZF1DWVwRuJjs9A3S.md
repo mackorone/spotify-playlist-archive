@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Hayley Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,841 likes - 139 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,863 likes - 139 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

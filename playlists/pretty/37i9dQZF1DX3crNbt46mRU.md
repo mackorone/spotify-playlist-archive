@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Chappell Roan, GIMS, Felix Jaehn, Lune and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,629 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,627 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 83 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 |
 | 84 | [Different Sorts](https://open.spotify.com/track/0XXTLG5NfNcFHPOJoSTcAb) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [36](https://open.spotify.com/artist/7DGmBOT6629EbsQOqINEqJ) | [Different Sorts](https://open.spotify.com/album/6rcsSrEC4ugxOLargkI7wQ) | 2:19 |
 
-Snapshot ID: `aIwDlQAAAABnrCZa5HtefKVrsR5p0TW7`
+Snapshot ID: `AAAAALC8v4p+gG5HY8p9vxZsYmpJJ0zR`

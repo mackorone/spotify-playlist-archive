@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Gentle Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,065 likes - 83 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,067 likes - 83 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 82 | [Friendly](https://open.spotify.com/track/2n32nkj7uMHUCzIsw33oyw) | [Clarissa](https://open.spotify.com/artist/3oAJM6I0Y8tzFLhyWO5sn1) | [Friendly](https://open.spotify.com/album/1pqS23q82w2Lbt5ZM07XyL) | 3:23 |
 | 83 | [all or nothing](https://open.spotify.com/track/7IZDvSY6RjnNYsSGPV3QwV) | [Zachary](https://open.spotify.com/artist/0crgkY846uAuJxxmB7n57p) | [all or nothing](https://open.spotify.com/album/7HDuF2h3GouJg9bULrE4sN) | 3:08 |
 
-Snapshot ID: `aIuTGQAAAAAFTV/O5Iju9K3Vjwtp4yc4`
+Snapshot ID: `AAAAAAjdFbfxCkLX/jIg/TOOhvRUEKv2`

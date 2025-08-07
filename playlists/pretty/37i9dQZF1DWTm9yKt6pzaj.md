@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9yKt6pzaj.md) - [plain]
 
 > Le meilleur de la playlist Top of the Rock en 2024\. Photo : Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,491 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,493 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9yKt6pzaj.md) - [plain]
 | 49 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
 | 50 | [Horns](https://open.spotify.com/track/0b3EiGpz4epW3iBRD7Q4hX) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Veil](https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz) | 3:26 |
 
-Snapshot ID: `Z1BIAAAAAAC5zVg6P+NlEWCt4rMiZdMZ`
+Snapshot ID: `AAAAAEP7VGots+HI11R08lHv/ObtFjwj`

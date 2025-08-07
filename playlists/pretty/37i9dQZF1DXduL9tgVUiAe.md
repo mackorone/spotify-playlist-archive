@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduL9tgVUiAe.md) - [plain]
 
 > A new hero takes shape\. Listen to the music from and inspired by Nimona, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,878 likes - 29 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,890 likes - 29 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduL9tgVUiAe.md) - [plain]
 | 28 | [Gloreth's Theme](https://open.spotify.com/track/1iM4M7idpri4BSgc8JbfIm) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Nimona \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS) | 2:58 |
 | 29 | [Ballister's Theme](https://open.spotify.com/track/1xWpOXJPmIgdgcfb0c15ez) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Nimona \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS) | 2:34 |
 
-Snapshot ID: `ZK3brAAAAACDIhx2hDgVszs/RjtwFj2M`
+Snapshot ID: `AAAAAKQ39LLTv259HBu4JVwOEyhR7FIp`

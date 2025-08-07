@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,028 likes - 116 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,218 likes - 116 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 115 | [Future Eve](https://open.spotify.com/track/5B26nnZsdXY3KheV1oxo2M) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望](https://open.spotify.com/album/1KRWNkaUdxDoEVgdUXfa76) | 3:52 |
 | 116 | [\#１ナルトーク 竹内順子（ナルト）×杉山紀彰（サスケ）](https://open.spotify.com/episode/1OEAkFXZ1sdKMBojKiyOpm) | [アニメ『NARUTO\-ナルト\-』２０周年記念　ナルトーク](https://open.spotify.com/show/6kmg0LPYG2AzwZSbdB4HLJ) | [アニメ『NARUTO\-ナルト\-』２０周年記念　ナルトーク](https://open.spotify.com/album/6kmg0LPYG2AzwZSbdB4HLJ) | 32:18 |
 
-Snapshot ID: `Z5bZ7gAAAACy44p/er2Wp73kT61kzjxX`
+Snapshot ID: `AAAAAHw60gkErngOmQPbyOz+EOFXa3Xo`

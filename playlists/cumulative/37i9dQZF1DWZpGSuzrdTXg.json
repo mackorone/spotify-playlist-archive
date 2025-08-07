@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox"
+      },
+      "artists": [
+        {
+          "name": "GOODWIN",
+          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv"
+    },
+    {
+      "album": {
         "name": "a woman to you",
         "url": "https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki"
       },
@@ -748,7 +766,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"

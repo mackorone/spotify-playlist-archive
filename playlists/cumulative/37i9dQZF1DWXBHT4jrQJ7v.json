@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Berceuse in D-Flat Major, Op. 57",
+        "url": "https://open.spotify.com/album/4DivI1dZOa7WfhdwNBYxmb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268266,
+      "name": "Berceuse in D-Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/03rTshJnAuh5YxvXrHGw5V"
+    },
+    {
+      "album": {
         "name": "Inside Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
@@ -152,6 +174,28 @@
       "duration_ms": 168760,
       "name": "Bundle of Joy",
       "url": "https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz"
+    },
+    {
+      "album": {
+        "name": "Pachelbel: Canon in D Major, P. 37/1 (Arr. Coates & Lawson for Harp)",
+        "url": "https://open.spotify.com/album/6EPyc1L35hClQ9gHDv22cx"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255061,
+      "name": "Canon in D Major, P. 37/1 (Arr. Coates & Lawson for Harp)",
+      "url": "https://open.spotify.com/track/1DWoBGJYcPhsXKGRtvSuWV"
     },
     {
       "album": {
@@ -853,6 +897,46 @@
     },
     {
       "album": {
+        "name": "Lisa L\u00e2n (Arr. Huws for Harp)",
+        "url": "https://open.spotify.com/album/1k8SsRwgXOxrH4W45eDpv9"
+      },
+      "artists": [
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122286,
+      "name": "Lisa L\u00e2n (Arr. Huws for Harp)",
+      "url": "https://open.spotify.com/track/53DrPPynaJwQyz4EZiI4aM"
+    },
+    {
+      "album": {
+        "name": "Liszt: Liebestraum",
+        "url": "https://open.spotify.com/album/4YTRRG8LEJs7jYIFK8RC3e"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272120,
+      "name": "Liszt: Liebestr\u00e4ume, S. 541: No. 3 in A-Flat Major, Oh Lieb, so lang du lieben kannst",
+      "url": "https://open.spotify.com/track/1lsoLwWEBShib552HKgr2y"
+    },
+    {
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
       },
@@ -1489,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonata No. 29 \"Hammerklavier\"; An die ferne Geliebte (Arr. Liszt)",
+        "url": "https://open.spotify.com/album/5apkyGtm23mbUibaDvxSwI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nobuyuki Tsujii",
+          "url": "https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290106,
+      "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/29r77wROzIQ9N6MSbmhbdh"
+    },
+    {
+      "album": {
         "name": "Beethoven - Path\u00e9tique, Moonlight, Appassionata",
         "url": "https://open.spotify.com/album/3Asg24t5pSCI32m8gJDaYE"
       },
@@ -1504,7 +1610,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 312986,
       "name": "Piano Sonata No. 8 in C minor, Op. 13 -\"Path\u00e9tique\": 2. Adagio cantabile",
       "url": "https://open.spotify.com/track/5M9gjnm5JQMtrOjd3nW0TJ"
@@ -1637,6 +1743,54 @@
     },
     {
       "album": {
+        "name": "Rusalka, Op. 114, Act I: Song to the Moon",
+        "url": "https://open.spotify.com/album/57x1kJ3KcbP8pD0JuSUDuT"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        },
+        {
+          "name": "Martin Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF"
+        },
+        {
+          "name": "Swedish Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303986,
+      "name": "Rusalka, Op. 114, Act I: Song to the Moon",
+      "url": "https://open.spotify.com/track/61prTpoXlFCGLf4cwJBnNI"
+    },
+    {
+      "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/0nsMqcbKn8Bl2nMi1JXkFL"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "Send An Arrow",
+      "url": "https://open.spotify.com/track/1UyBU9CbprCLSwkmZDkPyl"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: Serenade for Strings - Grieg: Holberg Suite - Mozart: Eine kleine Nachtmusik",
         "url": "https://open.spotify.com/album/6bB2g7YWY6IjetZBzRsWfE"
       },
@@ -1726,6 +1880,28 @@
       "duration_ms": 377586,
       "name": "Suite bergamasque, L. 75: III. Clair de lune",
       "url": "https://open.spotify.com/track/5Y7UsOX0taLav9kZ5FayIs"
+    },
+    {
+      "album": {
+        "name": "Summer Fantasy (From \u201cJustice Online\u201d)",
+        "url": "https://open.spotify.com/album/2egmNxgYnLxHaHrNXgzMo2"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        },
+        {
+          "name": "Shanghai Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "Summer Fantasy - From \u201cJustice Online\u201d",
+      "url": "https://open.spotify.com/track/2pKV2fkNDcCyy7u0oHumAI"
     },
     {
       "album": {
@@ -2076,6 +2252,28 @@
       "duration_ms": 139306,
       "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
       "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier, Book 2 \u2014 Lasser: 12 Preludes for Solo Piano \"The Art of Memory\"",
+        "url": "https://open.spotify.com/album/5OeSmsh4gYbQIrapxFkEpf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Anton Mejias",
+          "url": "https://open.spotify.com/artist/6WhS10QsBrYwBVi7Di1wiG"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103299,
+      "name": "The Well-Tempered Clavier, Book 2: Prelude No. 3 in C-Sharp Major, BWV 872/1",
+      "url": "https://open.spotify.com/track/3QvIplaMTP1uuIGgcgasOF"
     },
     {
       "album": {

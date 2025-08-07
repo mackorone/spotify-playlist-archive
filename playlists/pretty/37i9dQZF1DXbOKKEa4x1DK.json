@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 17256,
+  "num_followers": 17274,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvMuqgAAAAAmPztU0a9vLGlNcqG4tOpG",
+  "snapshot_id": "AAAAAGI2Bkf5Gz9eQyK+YVz/0FkDRdfF",
   "tracks": [
     {
       "added_at": "2024-09-24 21:27:06",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Noches de Fantas\u00eda",
-        "url": "https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa"
-      },
-      "artists": [
-        {
-          "name": "Joseph Fonseca",
-          "url": "https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0"
-        }
-      ],
-      "duration_ms": 266626,
-      "name": "Noches de Fantas\u00eda",
-      "url": "https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "La Fiesta Esta Buena",
         "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 247379,
       "name": "La Fotografia",
       "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Noches de Fantas\u00eda",
+        "url": "https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa"
+      },
+      "artists": [
+        {
+          "name": "Joseph Fonseca",
+          "url": "https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "Noches de Fantas\u00eda",
+      "url": "https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh"
     },
     {
       "added_at": "2024-09-24 21:27:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOBXdhaClhb.md) - [plain]
 
 > Listen to the soundtracks of My Lovely Sam Soon 2024\. \(내 이름은 김삼순 2024의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 764 likes - 14 songs - 52 min 32 sec
+[Spotify](https://open.spotify.com/user/spotify) - 765 likes - 14 songs - 52 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOBXdhaClhb.md) - [plain]
 | 13 | [Butterfly](https://open.spotify.com/track/3DTzQL4D6jE4BcwRCiKPCf) | [Loveholics](https://open.spotify.com/artist/68GXqr2rC0yIbkTA8uc7HV) | [Butterfly](https://open.spotify.com/album/4yvdJKrzYltedq1oZ9DWp0) | 3:50 |
 | 14 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 
-Snapshot ID: `ZuPGfgAAAAC8SvUv+d1BYOFh7NXCz18o`
+Snapshot ID: `AAAAANXXu/xCxcHGIlGt+9h2KiIlEs+L`

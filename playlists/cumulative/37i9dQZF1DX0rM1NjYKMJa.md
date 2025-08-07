@@ -2,7 +2,7 @@
 
 ### [Carnival Sounds](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> Carnival prep for wherever you are\. Cover: Full Blown, Yung Bredda
+> Carnival prep for wherever you are.
 
 466 songs - 1 day 1 hr 5 min
 

@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Ana Wel Amar",
+        "url": "https://open.spotify.com/album/3OFebAR7SW8jFbBSHwd0oA"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274208,
+      "name": "Ana Wel Amar",
+      "url": "https://open.spotify.com/track/3ugRZ02LY4JuNeISmv4bv3"
+    },
+    {
+      "album": {
         "name": "Ana Zaaley",
         "url": "https://open.spotify.com/album/3ZQagMTgeXBzQ9gySyr0Tg"
       },
@@ -4388,7 +4406,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 242189,
       "name": "Dah Begad",
       "url": "https://open.spotify.com/track/0nZv9W4mTGwohVo7Nl8Fws"

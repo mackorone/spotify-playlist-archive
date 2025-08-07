@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2025\. Cover: Zae
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,321 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,325 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 57 | [Trash](https://open.spotify.com/track/2eNd3TxM4dTBbVXPaiaOhm) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Trash](https://open.spotify.com/album/5OLrKVbEIEC1XLpgXhnCaq) | 2:20 |
 | 58 | [Mailap](https://open.spotify.com/track/19qY0adCmXoYTRfZoA0P2f) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Mailap](https://open.spotify.com/album/2B0dFSFQiQYxQPVrNHzyIV) | 3:08 |
 
-Snapshot ID: `aIwRkgAAAACFlWHLyztVj9hsgFoo3fHz`
+Snapshot ID: `AAAAAED9ehbq6NwM/HtwPwNLmDRW0P1b`

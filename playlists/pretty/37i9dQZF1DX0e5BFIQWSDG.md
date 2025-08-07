@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Trannos
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,252 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,345 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [TA EXW PANW MOU](https://open.spotify.com/track/6c0Mv6NHqLAJQ2mZxiVjGB) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [DIFFERENT STUFF](https://open.spotify.com/album/3KzN1Kj4vp0y027ub4CwQT) | 2:08 |
 | 50 | [DEMON II](https://open.spotify.com/track/1Dq9yztl0OSwtNMIytx1xP) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [VICE CITY](https://open.spotify.com/album/1icTqcbOlU00sFNbEKNI0G) | 3:12 |
 
-Snapshot ID: `aJG5LAAAAABHIBZ+PTEFTBF2Ox7LRcmz`
+Snapshot ID: `AAAAAJCBAxBiHCfmq1e9gE7cQttmLN5G`

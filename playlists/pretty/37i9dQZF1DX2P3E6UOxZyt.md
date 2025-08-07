@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 游宇潼 \(Eileen Yo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,352 likes - 36 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,353 likes - 36 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 35 | [你到底在選擇什麼](https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [你到底在選擇什麼](https://open.spotify.com/album/1rjvwp6Fbsik62WVAGsBFw) | 4:13 |
 | 36 | [夏夜晚風](https://open.spotify.com/track/4aQXWu7kALDYTWQ2EyLZZE) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [當我不敢說 Weak Messages Create Bad Situations](https://open.spotify.com/album/24u8isVPiNJslYePcm5ozW) | 3:13 |
 
-Snapshot ID: `aIuTFQAAAACMJFjFSpfArAicF9Fkq4V3`
+Snapshot ID: `AAAAAJMGAVOKY5IEZ4jZ7VZrT8vsF4ag`

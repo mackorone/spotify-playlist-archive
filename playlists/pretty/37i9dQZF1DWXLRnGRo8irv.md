@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [WALKMAN](https://open.spotify.com/track/6Y8iqKIk4LckcPQV5lohVU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA II](https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx) | 4:12 |
 | 50 | [Break\-up Amazing](https://open.spotify.com/track/1j9wB5XyBznDSGzJeURO5m) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA II](https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx) | 3:55 |
 
-Snapshot ID: `aF4XcQAAAAAzB/6EjBKZ6mbA0F4CtHph`
+Snapshot ID: `AAAAAO3O8jkqbm/H2T+Xycea4OoymnlO`

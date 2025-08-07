@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3260,
+  "num_followers": 3262,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZaVr9AAAAADVA6+NcTNCHMiOmrR5b9lH",
+  "snapshot_id": "AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY",
   "tracks": [
     {
       "added_at": "2023-11-23 11:08:33",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "NO GOZO",
+        "url": "https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J"
+      },
+      "artists": [
+        {
+          "name": "La Valentina",
+          "url": "https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq"
+        }
+      ],
+      "duration_ms": 138962,
+      "name": "NO GOZO",
+      "url": "https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "HYPNOSE",
         "url": "https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 262000,
       "name": "Kini Dub",
       "url": "https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "NO GOZO",
-        "url": "https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J"
-      },
-      "artists": [
-        {
-          "name": "La Valentina",
-          "url": "https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq"
-        }
-      ],
-      "duration_ms": 138962,
-      "name": "NO GOZO",
-      "url": "https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST"
     },
     {
-      "added_at": "2024-01-15 17:31:32",
-      "album": {
-        "name": "Otak\u00e9",
-        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
-      },
-      "artists": [
-        {
-          "name": "Makoto San",
-          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
-        }
-      ],
-      "duration_ms": 393146,
-      "name": "Otak\u00e9",
-      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
-    },
-    {
       "added_at": "2023-11-23 11:08:33",
       "album": {
         "name": "Nouveau Genre",
@@ -575,6 +559,22 @@
       "duration_ms": 267293,
       "name": "Noise",
       "url": "https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5"
+    },
+    {
+      "added_at": "2024-01-15 17:31:32",
+      "album": {
+        "name": "Otak\u00e9",
+        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
+      },
+      "artists": [
+        {
+          "name": "Makoto San",
+          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "Otak\u00e9",
+      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
     },
     {
       "added_at": "2023-11-23 11:08:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,668 likes - 53 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,670 likes - 53 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 52 | [秘密の扉から会いにきて](https://open.spotify.com/track/6MDuCmSdP00j47oEavVBwR) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [秘密の扉から会いにきて](https://open.spotify.com/album/2NfnOSntG6tB7nuFbfDksB) | 3:36 |
 | 53 | [永遠無惨](https://open.spotify.com/track/3MWMvlodomBHhf4Z0XXHnU) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC), [死蝋月比古](https://open.spotify.com/artist/1VEoMFfkGwx0HB3kHsLMNk) | [永遠無惨](https://open.spotify.com/album/4OPK0HjPbloz9bmIVUw5yp) | 5:33 |
 
-Snapshot ID: `Z0g++QAAAAClAIK5AYH/nxhsjwb6xvIC`
+Snapshot ID: `AAAAACU5I08zGPtjVBrPBW8ji+mBfVHO`

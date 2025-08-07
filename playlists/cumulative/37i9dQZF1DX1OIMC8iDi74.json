@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Break My Soul",
+        "url": "https://open.spotify.com/album/3MJTxxjNgii7GOdtfZKzkf"
+      },
+      "artists": [
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        },
+        {
+          "name": "Teneki",
+          "url": "https://open.spotify.com/artist/2HKXQdbsT8X5uFLsAVtMG4"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Break My Soul",
+      "url": "https://open.spotify.com/track/6HOkf3WIbI0DbCzngerQ2l"
+    },
+    {
+      "album": {
         "name": "Danger Days (The Remixes)",
         "url": "https://open.spotify.com/album/7mPmXPYUBtYQ4wAGUUR57t"
       },
@@ -7572,7 +7594,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 160551,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
@@ -8320,6 +8342,24 @@
       "duration_ms": 208279,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/6dGm7Nbq7TCho3U8jew0HG"
+    },
+    {
+      "album": {
+        "name": "LOSE YOURSELF",
+        "url": "https://open.spotify.com/album/16F8h09SzhLCFLC1rBWOJt"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "LOSE YOURSELF",
+      "url": "https://open.spotify.com/track/5vFQLe2rxYj0N3fOXIxErQ"
     },
     {
       "album": {
@@ -11760,7 +11800,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 161142,
       "name": "SAVE U",
       "url": "https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA"

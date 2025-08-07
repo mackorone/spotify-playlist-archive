@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Christian Bautista, Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,873 likes - 140 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,872 likes - 140 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 139 | [Can We Be Friends Again?](https://open.spotify.com/track/0c3beEhARvqtTRwKFskjX3) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Can We Be Friends Again?](https://open.spotify.com/album/7ILkOWv9uelFdP2Ncv2BfU) | 3:53 |
 | 140 | [Kembali](https://open.spotify.com/track/212IXh4olT2VzhkTkR941u) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 4:42 |
 
-Snapshot ID: `aIxJ5QAAAADnFpk4BhWwIndRUL2pjZwt`
+Snapshot ID: `AAAAALboqfq3El/9rQa86HoVvk7QYx4A`

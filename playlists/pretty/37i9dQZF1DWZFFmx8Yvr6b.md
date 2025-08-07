@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFFmx8Yvr6b.md) - [plain]
 
 > On en avait bien besoin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,603 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,606 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFFmx8Yvr6b.md) - [plain]
 | 49 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 |
 | 50 | [Sugar Hill \- Roisto Remix](https://open.spotify.com/track/4mPa2hYYzVACNKBJCcbgaY) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [Sugar Hill \(Roisto Remix\)](https://open.spotify.com/album/60UTuv8Qx9koLLSIme158o) | 4:24 |
 
-Snapshot ID: `ZWdeCwAAAACk/HBFuJi/Berj20D8m2bw`
+Snapshot ID: `AAAAADGWPNhOHMA+/rQFOqKoIfaralsY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving feelings\. Cover: CHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,219 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,212 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 99 | [Flowers](https://open.spotify.com/track/3t7x5bRvTM57CqhPdstJHv) | [Rabiaa](https://open.spotify.com/artist/0SXrdaViozHWtGAAy8UI3s), [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Flowers](https://open.spotify.com/album/0zrL41M8eSdDtMFaROdtrT) | 3:11 |
 | 100 | [CAN U HANDLE](https://open.spotify.com/track/4a8C86D8b6Oh0ciWGIz7D2) | [Janice Fierce](https://open.spotify.com/artist/1XawxWRplTvDLEK8TzgWbJ), [Badboygoodvibes](https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3) | [CAN U HANDLE](https://open.spotify.com/album/6WfOOEczRA5eNScBTfl1b6) | 3:26 |
 
-Snapshot ID: `aJEtaQAAAABO00hePgj/ERW17CmambE7`
+Snapshot ID: `AAAAAEX5qGclZ/qcVIZMrbLvRSaP756v`

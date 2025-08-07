@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Check out all of these artists and more performing live in Nashville at the CMA Fest 2025! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,782 likes - 73 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,779 likes - 73 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 72 | [funny girl](https://open.spotify.com/track/50WEeFyytDmU2RhcsUNkrv) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [funny girl](https://open.spotify.com/album/7wl5M6KO2zF0g06Il8xmi3) | 3:18 |
 | 73 | [Nothin' To Wear](https://open.spotify.com/track/6kNb8J6J0bTNK0WA3GcmHq) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Nothin' To Wear](https://open.spotify.com/album/3doQD854zZJkCwYKaJseXL) | 2:53 |
 
-Snapshot ID: `Z+SB+wAAAABzJFH0Pk9OptU0JYiYQ/e1`
+Snapshot ID: `AAAAAPs5xQ7Wm0NAiEKOh9LAzGSVYepj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,418 likes - 271 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,438 likes - 271 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 270 | [Badbye Goodbye](https://open.spotify.com/track/6bI5nqX8BhWMk9AhTrUXnh) | [Bellemule](https://open.spotify.com/artist/3qHNZZTUee8CsSsCzcpTwP), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [DOK](https://open.spotify.com/album/5CfijvhPHh0En1EvJFPKql) | 3:16 |
 | 271 | [心斎橋エイリアン](https://open.spotify.com/track/1xDmXHMiR556cChLgMZ5Bl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [虎丸笑万\(CV:Lico\)](https://open.spotify.com/artist/0vsKwg9qupfYuYgYoX7igD), [飴村音凛\(CV:Noa\)](https://open.spotify.com/artist/0lFXZD9gGS5IzBWv1KZhf6), [東海林桃々子\(CV:Mone\)](https://open.spotify.com/artist/10ItJwGJ85nKGk1LfHtCMh) | [心斎橋エイリアン](https://open.spotify.com/album/4oNVbwgMw0QDHF0Zvau84W) | 3:10 |
 
-Snapshot ID: `aG1MkwAAAAD5sBIL/WjiDdUHst6EbOSg`
+Snapshot ID: `AAAAAI2O0ozF4iBrNmlI0ZWwCmad4IUY`

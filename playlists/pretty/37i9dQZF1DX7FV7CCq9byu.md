@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,033 likes - 113 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,045 likes - 113 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 112 | [WHEN A GIRL CRIES](https://open.spotify.com/track/1BvoyAEN3HjaLmaMVa8lel) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/3y62OSh5mxYZXFrJ3SWujS) | 3:18 |
 | 113 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 
-Snapshot ID: `aJCy5AAAAACUBHl9R+a2aofJEKX6c7rO`
+Snapshot ID: `AAAAAJLd7z5rxV42ktzOai/tg7iMlhAl`

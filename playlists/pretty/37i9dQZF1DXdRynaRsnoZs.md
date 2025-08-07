@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,400 likes - 67 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,399 likes - 67 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 66 | [We Three Kings \- Instrumental](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Hooked On Lullabies](https://open.spotify.com/artist/1kLnOX9PeUNRmvUMAbmBGc) | [Christmas Lullabies, Vol\. 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
 | 67 | [The First Noel](https://open.spotify.com/track/2ijFTJ7XHAbD9sgcVfPy5w) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [The First Noel](https://open.spotify.com/album/66Q3ybskRWvQHk1BMNfsM6) | 1:55 |
 
-Snapshot ID: `Z7WVsgAAAACBvbVHgu6p4wQhgEIcah3b`
+Snapshot ID: `AAAAAE7R2BVgbhPSEyVWJb5CGm+82rvY`

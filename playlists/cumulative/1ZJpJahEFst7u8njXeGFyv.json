@@ -1299,6 +1299,32 @@
     },
     {
       "album": {
+        "name": "An Irish Blessing",
+        "url": "https://open.spotify.com/album/1XWsibwp7A9tcgCHOq6X3X"
+      },
+      "artists": [
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        },
+        {
+          "name": "Sophia Membery",
+          "url": "https://open.spotify.com/artist/4HZTH0hcr5ioXuYK8d39G2"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "An Irish Blessing",
+      "url": "https://open.spotify.com/track/2eLuK0SJvJkGPztMl7QhTm"
+    },
+    {
+      "album": {
         "name": "Andante festivo",
         "url": "https://open.spotify.com/album/4SN9n2KhyXHyObvZPUF2sU"
       },
@@ -1706,6 +1732,28 @@
       "duration_ms": 256746,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/10Gq29WYwHlK1hJ6zXiaMu"
+    },
+    {
+      "album": {
+        "name": "Bach: Cello Suite No. 2 in D Minor, BWV 1008: I. Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/5EXbcOZdtjCIYsBX1wLkby"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269426,
+      "name": "Bach: Cello Suite No. 2 in D Minor, BWV 1008: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/3oXgDnhVSSNEwWCdobzliC"
     },
     {
       "album": {
@@ -8778,6 +8826,24 @@
       "duration_ms": 213644,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z"
+    },
+    {
+      "album": {
+        "name": "Urban Impressionism (Piano Solo)",
+        "url": "https://open.spotify.com/album/1D7adxmkVk1Hk3ABqy5EXU"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208758,
+      "name": "Mon Coeur, B\u00e9ton Brut (Piano Solo)",
+      "url": "https://open.spotify.com/track/45XAKnP6yOCFmx9UPeCrSV"
     },
     {
       "album": {

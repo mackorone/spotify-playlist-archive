@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3341,
+  "num_followers": 3342,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI/4AAAAAADUgC63fB2VXt9ToLW9cpGX",
+  "snapshot_id": "aJFJgAAAAAAzUup5lHi8ArQR8SF2kF1c",
   "tracks": [
     {
       "added_at": null,
@@ -44,7 +44,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/1BX0orhjFpGQCbSNtHUpyO"
+      "duration_ms": 321306,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
     },
     {
       "added_at": null,
@@ -108,7 +108,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 321306,
-      "name": "Play Dead",
-      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/1BX0orhjFpGQCbSNtHUpyO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Waze & LEO2745 entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,475 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,491 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Cuki Paradise](https://open.spotify.com/track/57xRuxkedeDWV1OviJNwga) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Página cinzenta](https://open.spotify.com/album/7aemIH6CSfaqRcKiTaPkzP) | 2:11 |
 | 70 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 |
 
-Snapshot ID: `aIv1fQAAAABmuifLm9zz0E0G9qn7QCYq`
+Snapshot ID: `AAAAAPCEqHGVPEHbF3WXoKj1TdiDidzH`

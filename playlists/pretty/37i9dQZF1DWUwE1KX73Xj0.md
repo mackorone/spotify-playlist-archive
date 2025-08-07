@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwE1KX73Xj0.md) - [plain]
 
 > Listen to the soundtracks of CONNECTION\. \(커넥션의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,376 likes - 16 songs - 57 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,377 likes - 16 songs - 57 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwE1KX73Xj0.md) - [plain]
 | 15 | [The Day \(Inst.\)](https://open.spotify.com/track/28vX3bipeK4KV1UAMS1KCk) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Connection OST Part.1](https://open.spotify.com/album/0QR7uFlRLRG8uOVniEpIRO) | 2:54 |
 | 16 | [Wind Blows \(Inst.\)](https://open.spotify.com/track/2epKtSSYLoH72LmbQONX2v) | [Jeun Mido](https://open.spotify.com/artist/0UB7SNfPb0D62Xt6N0zxsp) | [Connection OST Part.2](https://open.spotify.com/album/421kAWV6AvgPq3uxbho4VH) | 4:03 |
 
-Snapshot ID: `Zl/lXAAAAAD87WK645sfV1jPE4Fbf6Wx`
+Snapshot ID: `AAAAAEUp0o1uw8D12GnhkMz/QPfk2La+`

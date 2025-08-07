@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > Il meglio dei brani che la Gen Z ha amato quest'anno! 🌊 Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,916 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,922 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 | 49 | [LA VITA NON UCCIDE](https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LA VITA NON UCCIDE](https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg) | 3:11 |
 | 50 | [PARIGI IN MOTORINO](https://open.spotify.com/track/2LufZncOUh94FKHwkan3Yt) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PARIGI IN MOTORINO](https://open.spotify.com/album/41D6cZ7PJJWZ3X6mZU02c5) | 2:22 |
 
-Snapshot ID: `Z1BIjQAAAAD6OElwEIDkdxhnuixhIEto`
+Snapshot ID: `AAAAAKpl+SuCiYpyeantaztffSr5Ehck`

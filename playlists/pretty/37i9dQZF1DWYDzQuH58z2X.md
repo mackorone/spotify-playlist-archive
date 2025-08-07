@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYDzQuH58z2X.md) - [plain]
 
 > Enjoy the NCT DREAM TOUR \[THE DREAM SHOW 4 : DREAM THE FUTURE\] LIVE SET including the voices of them on stage! \(엔시티 드림의 무대 멘트와 목소리가 포함된 \[THE DREAM SHOW 4 : DREAM THE FUTURE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,268 likes - 38 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,283 likes - 38 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYDzQuH58z2X.md) - [plain]
 | 37 | [Go! DREAM THE FUTURE](https://open.spotify.com/track/6IJB3qMYlRmNt5q5IvUgIy) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [2025 NCT DREAM TOUR \[THE DREAM SHOW 4 : DREAM THE FUTURE\]](https://open.spotify.com/album/7jH8jSNX3Wo32lHutgcURr) | 2:06 |
 | 38 | [Heavenly](https://open.spotify.com/track/5rwjMLBy2NA0PxmGTXsvQD) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 2:43 |
 
-Snapshot ID: `aII2JQAAAAB0GY0d39aRDyoH3WvyRquk`
+Snapshot ID: `AAAAAAfjQmGgKRwH73u+ny9AeNfMCbwN`

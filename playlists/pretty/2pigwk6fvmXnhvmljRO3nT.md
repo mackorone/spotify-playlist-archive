@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,496 songs - 19 day 10 hr 38 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,502 songs - 19 day 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7504,5 +7504,11 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7494 | [still love me? \(My Sweden Laundry \#2\)](https://open.spotify.com/track/0yTFx0iWAbm2yAKcrIXe7O) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [still love me? \(My Sweden Laundry \#2\)](https://open.spotify.com/album/6AfXs8y1KSRATouzb4vdf0) | 2:50 |
 | 7495 | [내생에 봄날은...](https://open.spotify.com/track/7p5vCCJi48DHb3X4sFFZnu) | [CAN](https://open.spotify.com/artist/2c1h7Xz5KxOeVuwfz8HTGQ) | [Can With Piano](https://open.spotify.com/album/3YiTiVLwE5I7zLGYpD8JYB) | 4:02 |
 | 7496 | [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 |
+| 7497 | [New Youth](https://open.spotify.com/track/5fXIzJRkr08Oo57zY2sXQo) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/0fDeHCMCA3UZ1s2dKSawFQ) | 4:49 |
+| 7498 | [Flaming Hot Cheetos](https://open.spotify.com/track/7iKcCH5vpjZgCJRNm7yD3L) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/7r4hiK0374MEgTiD5KRDMS) | 2:03 |
+| 7499 | [Paul](https://open.spotify.com/track/34I9xTKNDIOYqqfT43h3Mv) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:30 |
+| 7500 | [If I Am With You](https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:26 |
+| 7501 | [うららかな調べ\(2012 Version\)](https://open.spotify.com/track/19sUxgxFZNrxH5ZCftMQm1) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:52 |
+| 7502 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 
-Snapshot ID: `AAAIFPygTk/TAmBdffPqnusUzUWO73j+`
+Snapshot ID: `AAAIGnySGsn1WUyOWX0bmoWwdLgRZMWB`

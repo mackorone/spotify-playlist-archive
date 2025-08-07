@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-277 songs - 22 hr 8 min
+278 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 | 2022-08-12 |  |
 | [Everytime \- Girls of the Internet Remix](https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Everytime \(Girls of the Internet Remix\)](https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P) | 3:41 | 2023-09-29 | 2025-01-23 |
 | [Excuse Me](https://open.spotify.com/track/7hfZPlr9i0f2jhrZmUyxq0) | [Hemi](https://open.spotify.com/artist/4NjZwAzXGEQsyVJ7kCg9Qp) | [Excuse Me](https://open.spotify.com/album/3jJBC5pFbIpcLtgi4JHe9l) | 7:32 | 2021-12-17 | 2022-07-23 |
-| [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 | 2022-09-02 |  |
+| [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 | 2022-09-02 | 2025-08-07 |
 | [Exposures \- Black Loops Remix](https://open.spotify.com/track/0pAR6SsGoFvdoaOyFm8pjl) | [Teleseen](https://open.spotify.com/artist/23HzjH9sNQRU0fFfiaocH1), [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Exposures EP](https://open.spotify.com/album/3fmvpHHA7Al79eItjMyaHs) | 7:00 | 2022-03-25 | 2022-04-21 |
 | [Faded \- Sandunes Remix](https://open.spotify.com/track/330YzcDouOmiahaJah92Bd) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn) | [Faded \(Sandunes Remix\) \(feat\. Jordan Rakei\)](https://open.spotify.com/album/5X1FLjENnnSwkP0Vc3WYBX) | 3:48 | 2021-12-17 | 2022-05-12 |
 | [Fall In Love](https://open.spotify.com/track/39MX1i8UtVwYa99k1VfZsp) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Fall In Love](https://open.spotify.com/album/5iup1pzVHKxaIArnwIAYiV) | 5:49 | 2022-09-02 | 2022-09-19 |
@@ -219,6 +219,7 @@
 | [SEX IS GOOD BUT HAVE U EVER](https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Movement](https://open.spotify.com/album/76UMqatl6klSIhmOmd7UNx) | 2:26 | 2022-04-22 | 2022-11-21 |
 | [Sexy Dance](https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [Sexy Dance](https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN) | 4:10 | 2022-12-29 | 2023-03-10 |
 | [Shallow Waters](https://open.spotify.com/track/1l8oVb7DDpCTubrKchdRgl) | [Ams](https://open.spotify.com/artist/7zJyf7OS6Vw8gyrphYLyt7) | [Shallow Waters](https://open.spotify.com/album/5uCELkdK05EwUsPrAzdJh4) | 6:42 | 2023-09-08 | 2023-10-02 |
+| [Shy \- Aguava Remix](https://open.spotify.com/track/7d79740Liavq38J1JDXkCz) | [PIANIKA](https://open.spotify.com/artist/6ESkBVPwRTv9Tn9WyrNoQC), [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Shy \(Aguava Remix\)](https://open.spotify.com/album/72Dk90mT6aqQh0Q4qTonkZ) | 3:21 | 2025-07-25 |  |
 | [Signals](https://open.spotify.com/track/733FlhpmdWPp9YRbGkqvrq) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Signals EP](https://open.spotify.com/album/1BDRViteUf8jflNGqrW08c) | 5:24 | 2021-12-17 | 2022-05-24 |
 | [Simetric](https://open.spotify.com/track/48ut6j0loWCy7vJEc32VNG) | [Mihai Popoviciu](https://open.spotify.com/artist/0NkrYKqkzWI0pilb6ko9uM) | [Simetric](https://open.spotify.com/album/6C3tdBPKxnTEOKrjHM6JQF) | 6:37 | 2022-03-25 | 2022-04-01 |
 | [SOMA](https://open.spotify.com/track/2XpYV3u9TyH5xILSMIC7IJ) | [Asa 808](https://open.spotify.com/artist/2clnQoRMSrsLAHktJx8SHR) | [SOMA](https://open.spotify.com/album/7L3bPL8G4KlolCW6bM8mo7) | 3:28 | 2023-03-10 | 2023-04-29 |

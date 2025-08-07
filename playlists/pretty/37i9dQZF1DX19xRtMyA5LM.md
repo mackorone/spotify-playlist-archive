@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Esko & Jack
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,867 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,853 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Trendsetter](https://open.spotify.com/track/1hEc7w72T66QCtN6AbVa2R) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trendsetter](https://open.spotify.com/album/4NufF0Z58ZQYF7S61NO6LI) | 2:42 |
 | 60 | [Badman Stories](https://open.spotify.com/track/2N4tITKqBDP1Mh5dw2hGTM) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Badman Stories](https://open.spotify.com/album/6Xjj2b97hKVkKSq6drhyFq) | 2:21 |
 
-Snapshot ID: `aJEtZwAAAAA7y/PG8z5H7JwDOBBzgX+/`
+Snapshot ID: `AAAAABuMLmItcmeRrx0aH+v2OmTsPab8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Q2UwX5yOxC.md) - [plain]
 
 > Music From "The Promised Neverland".
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,839 likes - 62 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,855 likes - 62 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Q2UwX5yOxC.md) - [plain]
 | 61 | [The Promised Neverland Main Theme2](https://open.spotify.com/track/0VVzdnKik9G3IF5v07gMNH) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season 1＆2 \(Original Soundtrack\)](https://open.spotify.com/album/3fCjHyUJTNyvTb0ivXRw35) | 5:58 |
 | 62 | [The Promised Neverland \(Epf solo Version\)](https://open.spotify.com/track/4GJRhnX3k6qKkJexHZRIZx) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season 1＆2 \(Original Soundtrack\)](https://open.spotify.com/album/3fCjHyUJTNyvTb0ivXRw35) | 2:28 |
 
-Snapshot ID: `Z9ARlgAAAAA3ZmyE/tN0u7mbfXvUJfU4`
+Snapshot ID: `AAAAAIKTjub4BmI27rDhmJouEL1OXuo8`

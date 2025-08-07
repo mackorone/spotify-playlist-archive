@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 
 > Tous les classiques du rap français dans une seule playlist ! Photo : 113
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,819 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,862 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 | 59 | [J'fais mon job à plein temps](https://open.spotify.com/track/29f6hufsY5ULe3NGXZhzBs) | [Busta Flex](https://open.spotify.com/artist/1eDFNPc0Y0eMbG03c89Dmw) | [Busta Flex](https://open.spotify.com/album/12RyBpjExz7BVRKQaEoGJv) | 4:00 |
 | 60 | [J'rap pour les mino\(rités\)](https://open.spotify.com/track/3nbUqqOW1TeQEETHwLz9n7) | [Les Sages Poètes de la rue](https://open.spotify.com/artist/5cHEMXrGvrs8I6iYWNwTkh) | [Jusqu'à l'amour](https://open.spotify.com/album/1mfWdq0QxYT9t5PJweMmgR) | 3:39 |
 
-Snapshot ID: `Z/j6KwAAAAAcI1vnMRcJwv8/xv3bbo91`
+Snapshot ID: `AAAAACpKxJcesrVNfeHrny4lr8JEUJQG`

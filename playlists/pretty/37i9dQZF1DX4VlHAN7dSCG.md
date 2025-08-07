@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 脆樂團 \(Crispy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,387 likes - 81 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,390 likes - 81 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 80 | [如月](https://open.spotify.com/track/27Fjgz9y4VPfuAWLfob6nM) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [如月](https://open.spotify.com/album/2vw9lZRZ6AlBy7i0OyZ2ow) | 4:36 |
 | 81 | [Don't Love Me! \(feat\. I Mean Us\)](https://open.spotify.com/track/2KeVyyc99Tppp8Ad1Cm2ph) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Don't Love Me! \(feat\. I Mean Us\)](https://open.spotify.com/album/7F8ATHmFJnPTKyXXiuUXEA) | 3:04 |
 
-Snapshot ID: `aIuTFgAAAAC/iZMXhTeao74CNEnZxUsw`
+Snapshot ID: `AAAAADnMlVdl66Og2/kjpUhTvokCs/LH`

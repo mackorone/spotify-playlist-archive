@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 86 | [24K Magic](https://open.spotify.com/track/6HpVFV5zHmyS4hesAOsLmc) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB) | 2:56 |
 | 87 | [Chacun sa route \(feat\. Vitaa\)](https://open.spotify.com/track/3NWfbUKqJRaJXUukxoSDhd) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Forever United](https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ) | 2:44 |
 
-Snapshot ID: `ZsNTjgAAAAChvAhczYlLGrfc+tdlMTDn`
+Snapshot ID: `AAAAAO/1WsZelcye7Y1i5t8lpBvz9sDx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,107 likes - 104 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,109 likes - 104 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 103 | [ナイス！ライス！スマイル！](https://open.spotify.com/track/0PMcPmVEG7d6qUNawJ5LC7) | [本気でお米作り隊](https://open.spotify.com/artist/42SmQU0oIVJhUpJM2fBdzy) | [ナイス！ライス！スマイル！](https://open.spotify.com/album/3em0CCyMaXYruR2Lh1gLVb) | 3:25 |
 | 104 | [推しクラまんじゅう](https://open.spotify.com/track/6QOEgrgWl0KCPl7Fx0B0S4) | [太陽と踊れ](https://open.spotify.com/artist/1hY81WpVnXQG3qDdGNA3Ya) | [推しクラまんじゅう](https://open.spotify.com/album/2h6fq90puoUhBfglXqebne) | 3:53 |
 
-Snapshot ID: `aIwsQAAAAAD31F8I4VwwnAOcU3MnGwo4`
+Snapshot ID: `AAAAAJXeGAGr8fA+kwrEv9IEcSFaX0fE`

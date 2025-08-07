@@ -4,7 +4,7 @@
 
 > 
 
-1,124 songs - 2 day 8 hr 32 min
+1,129 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 | 2024-12-15 |  |
 | [F.F.](https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:10 | 2022-09-10 | 2023-05-09 |
 | [Faceshot](https://open.spotify.com/track/5R2pz8i4k4bvRAqiIFXzKz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:55 | 2024-11-16 |  |
+| [FACET!ME](https://open.spotify.com/track/0lZ4QMio1QUV6an6gaKpt6) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:02 | 2025-08-06 |  |
 | [FadaPhilippe](https://open.spotify.com/track/5UY1FDxfCPoM6sushUpSh9) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [FALLEN RAVEN](https://open.spotify.com/album/2KBhWSNNxOF2Ve94KvhlZy) | 2:46 | 2025-05-16 |  |
 | [Fake\_0pps](https://open.spotify.com/track/68QWCdMKUq5JxN1R4Hj9BP) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 3:15 | 2022-09-30 | 2023-08-28 |
 | [Familia](https://open.spotify.com/track/2OM0MeY7mPIRbs8SCzRdTH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:34 | 2024-02-21 | 2024-04-24 |
@@ -748,6 +749,7 @@
 | [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 | 2023-10-03 | 2024-04-24 |
 | [Party Girlz](https://open.spotify.com/track/6LQvGtDpDMTnn3zWOBQzOx) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:12 | 2023-01-20 | 2023-04-12 |
 | [Patience \(feat\. Don Toliver\)](https://open.spotify.com/track/05grSYrVwYw58YMOdJceyz) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:22 | 2023-07-12 | 2023-12-14 |
+| [PC5](https://open.spotify.com/track/6i8v5yhol3QkMSnUJJvL8b) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:18 | 2025-08-06 |  |
 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 | 2025-04-30 | 2025-05-21 |
 | [Pedestrian](https://open.spotify.com/track/30YhyUmaegqSxsBICCeVzY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:45 | 2023-08-28 | 2024-03-05 |
 | [Peg](https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 3:57 | 2025-06-06 |  |
@@ -815,6 +817,7 @@
 | [Red](https://open.spotify.com/track/4aE16KOYo13oEzVuZK1x0i) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:16 | 2022-07-28 | 2023-12-14 |
 | [Red](https://open.spotify.com/track/2kNKfDA8HxuJCYQl8EraYn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:14 | 2023-01-06 | 2024-03-05 |
 | [RedEye](https://open.spotify.com/track/5e4hrLwyAC0Qe1t0PgNz1k) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:25 | 2022-05-08 | 2023-05-09 |
+| [REDRAG](https://open.spotify.com/track/4JPaDF0pN3JPColaLaDbTF) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:46 | 2025-08-06 |  |
 | [Regrets](https://open.spotify.com/track/2G5VfBhThZMgDXHBh6EHah) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 4:32 | 2022-09-20 | 2023-05-09 |
 | [Rehhab](https://open.spotify.com/track/3hadAXHFtkJzzu5qs9ZYb2) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix \(FLXTRA\)](https://open.spotify.com/album/0KLk3N51EO7CG7d9MdQ2XE) | 1:53 | 2024-02-16 | 2024-04-24 |
 | [Relationship \(feat\. Future\)](https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:35 | 2024-08-14 | 2025-05-21 |
@@ -878,6 +881,7 @@
 | [She’s The One](https://open.spotify.com/track/6bfJggd4HFdzHzvZLQ5EDX) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:08 | 2022-08-23 |  |
 | [Shiest Talk \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/6FyYMbtmEgQDCgy9mYrOX8) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:03 | 2022-10-15 | 2023-12-14 |
 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 | 2022-10-31 | 2025-05-21 |
+| [SHOPPING BAGS \(with Destroy Lonely\)](https://open.spotify.com/track/6HStf7721bXOr2zx4nHh08) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:25 | 2025-08-06 |  |
 | [Shotz to Tha Double Glock](https://open.spotify.com/track/2vdOqUsfp9PAOHumYZhh3l) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 4:42 | 2024-12-15 | 2025-05-21 |
 | [Sic' em](https://open.spotify.com/track/5X5P92Bj4GOxnbBYpiBjcz) | [Squish](https://open.spotify.com/artist/7KuC3LimM4OgSpZa72PF51) | [Sic&\#039; em](https://open.spotify.com/album/0NzAJbElXRr0qRofnkOllO) | 2:08 | 2023-04-05 | 2023-05-09 |
 | [Sick of Slime](https://open.spotify.com/track/4BWqc7XhJPFkbCvfDcAdYl) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:19 | 2023-02-05 | 2023-05-09 |
@@ -912,6 +916,7 @@
 | [SOS](https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR) | 3:21 | 2024-04-27 | 2024-11-06 |
 | [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 | 2025-07-28 |  |
 | [Soul Doubt](https://open.spotify.com/track/1i0r2mb2SaHFjphF1dtizV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(III\)](https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD) | 2:00 | 2024-07-30 | 2024-11-06 |
+| [SOUL\-FLY](https://open.spotify.com/track/4JEEXcszp3GldmXm0dhk60) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:56 | 2025-08-06 |  |
 | [Sour Mango](https://open.spotify.com/track/6N5TKOIuVz6THKWrjK1neQ) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3QjaxGp6wfwMiZbYdIeOUO) | 4:19 | 2024-04-23 | 2024-11-06 |
 | [Southside](https://open.spotify.com/track/5lf3ajySox32qFvGEf2TFM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:53 | 2023-04-17 | 2023-12-14 |
 | [Space Cowboy](https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:26 | 2025-05-01 |  |

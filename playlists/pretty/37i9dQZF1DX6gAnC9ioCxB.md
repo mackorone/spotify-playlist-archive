@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gAnC9ioCxB.md) - [plain]
 
 > Get inspired by these stories and conversations around self\-improvement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,437 likes - 19 songs - 2 day 0 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,435 likes - 19 songs - 2 day 0 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gAnC9ioCxB.md) - [plain]
 | 18 | [\#606 \- Randall Carlson](https://open.spotify.com/episode/0Sfwu85dxXHsz9VLoDTnie) | [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) | [The Joe Rogan Experience](https://open.spotify.com/album/4rOoJ6Egrf8K2IrywzwOMk) | 3:00:56 |
 | 19 | [\#543 \- Sam Harris](https://open.spotify.com/episode/5aWHFm05DR7YCMs9Y2u4eF) | [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) | [The Joe Rogan Experience](https://open.spotify.com/album/4rOoJ6Egrf8K2IrywzwOMk) | 2:52:57 |
 
-Snapshot ID: `ZfNfvgAAAAAsMISq/WqMQzMINEtGbdoS`
+Snapshot ID: `AAAAAIuPlB9VBclmn2LTMTI1Iw0XI67C`

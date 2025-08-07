@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Thug Slime
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,168 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,165 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [PARANOÓ](https://open.spotify.com/track/71Wpk4WMKsYXni1bKi1CsD) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow) | [PARANOÓ](https://open.spotify.com/album/095rtat4UlMpWphQtm90MN) | 3:06 |
 | 60 | [P.O.S.](https://open.spotify.com/track/0VzLi4og9pVyuoo4jfjkWw) | [Marzi](https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq), [GMBeaTz](https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz) | [P.O.S.](https://open.spotify.com/album/2Shh4sMBBv3Uq5Klg9n2xd) | 2:21 |
 
-Snapshot ID: `aIvZZQAAAAClT+hxWbgbDlL9lJewqHfy`
+Snapshot ID: `AAAAAFzc4WvYcH/NKO/vE9bupzmBqNQZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,957 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,963 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Kaledu Hode Nannali](https://open.spotify.com/track/5Tvh0OcPJfmn19sFZmm0Ai) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Ramya Bhat Abhyankar](https://open.spotify.com/artist/0wqiIwWvYsOAcZdtJLMFO8) | [Kaledu Hode Nannali](https://open.spotify.com/album/4P9IGbUta2mbtLDwxBIsKR) | 5:23 |
 | 75 | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/track/5PEoCLYUefE52UMOCVQI8j) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Vicky Sakleshpur](https://open.spotify.com/artist/2yMbXfTch6OjYV8U5KWOZ4) | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/album/3UxggTNHDvkfMM3jCDEM9z) | 4:21 |
 
-Snapshot ID: `aIdgFQAAAABsiELHryrAz2z+grHs3qC8`
+Snapshot ID: `AAAAAMPTejQddyw/r+1cW3OjvRfA/+fr`

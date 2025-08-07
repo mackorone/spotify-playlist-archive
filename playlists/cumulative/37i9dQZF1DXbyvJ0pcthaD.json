@@ -5,6 +5,68 @@
   "tracks": [
     {
       "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
+        "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134297,
+      "name": "Agnes - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/2w1iPITQJQfdzK1mr4ZO2W"
+    },
+    {
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "album": {
+        "name": "Eric Carmen",
+        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430000,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
+    },
+    {
+      "album": {
         "name": "Famous Arias and Duets: Verdi, Mozart, and Puccini",
         "url": "https://open.spotify.com/album/5xMNb7LpbNr1kPhcv4xfjN"
       },
@@ -28,10 +90,100 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 295106,
       "name": "Andrea Ch\u00e9nier, Andrea Chenier, Act III: La mamma morta",
       "url": "https://open.spotify.com/track/0i0XoLRtl0Ece1XTTXalwZ"
+    },
+    {
+      "album": {
+        "name": "Cinema Classics, Vol. 11",
+        "url": "https://open.spotify.com/album/6hafDvy6SyNMm0c3STcVLF"
+      },
+      "artists": [
+        {
+          "name": "Umberto Giordano",
+          "url": "https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj"
+        },
+        {
+          "name": "Lila Larinova",
+          "url": "https://open.spotify.com/artist/0VCsEU7pBDeEiEha4eDTml"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Johannes Wildner",
+          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295106,
+      "name": "Andrea Ch\u00e9nier, Andrea Chenier, Act III: La mamma morta",
+      "url": "https://open.spotify.com/track/3P4e1dv3d6YKza0Oizok6r"
+    },
+    {
+      "album": {
+        "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        },
+        {
+          "name": "Catherine Zeta-Jones",
+          "url": "https://open.spotify.com/artist/5i4JbHYkeCa702YXS68RGf"
+        },
+        {
+          "name": "Billie Piper",
+          "url": "https://open.spotify.com/artist/3RjnAn8EWb7zaLlGWVxQeP"
+        },
+        {
+          "name": "Bobby Studley",
+          "url": "https://open.spotify.com/artist/1TsT3aFQoH4MNqUr9bjQmx"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "Bad Moon Rising - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/3osgFGQCpFrT7FEdxMVPfq"
+    },
+    {
+      "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
+        "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118712,
+      "name": "Banquet of Discontent - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/2fpd6JFXFdP2b4cxpG9z43"
     },
     {
       "album": {
@@ -46,7 +198,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 184159,
       "name": "Blood",
       "url": "https://open.spotify.com/track/1DI9n01NfIKnl5b90zhI2l"
@@ -64,7 +216,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 184159,
       "name": "Blood",
       "url": "https://open.spotify.com/track/2KgUfq542PMh2oImJz7W7T"
@@ -86,6 +238,24 @@
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
+        "name": "Pedro Vargas En El Carnegie Hall",
+        "url": "https://open.spotify.com/album/5jvBrYHrtUggTCPNMdtvnt"
+      },
+      "artists": [
+        {
+          "name": "Pedro Vargas",
+          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/2neFW5nfgUrRxonX7oW8Fr"
     },
     {
       "album": {
@@ -116,6 +286,50 @@
       "duration_ms": 293106,
       "name": "Cello Concerto in E Minor, Op. 85: III. Adagio",
       "url": "https://open.spotify.com/track/1H8N7ONl0vFj3gJiAe0h36"
+    },
+    {
+      "album": {
+        "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        },
+        {
+          "name": "Jacob Braun",
+          "url": "https://open.spotify.com/artist/4kFBJ84mI0ey3dDGdR0jW3"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141603,
+      "name": "Dance Of The Knights - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/1qi26sCtEUCpfc0BqbFXPZ"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "album": {
@@ -173,6 +387,24 @@
     },
     {
       "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256173,
+      "name": "Dream Weaver",
+      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
+    },
+    {
+      "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
       },
@@ -191,6 +423,42 @@
     },
     {
       "album": {
+        "name": "The Evil One",
+        "url": "https://open.spotify.com/album/3fptm5vPoS16Lrtoego6So"
+      },
+      "artists": [
+        {
+          "name": "Roky Erickson",
+          "url": "https://open.spotify.com/artist/7hCsRnXtcbez8msLPfjbkz"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "I Walked with a Zombie",
+      "url": "https://open.spotify.com/track/7ANKoVHVdkIsDEKMMMEys9"
+    },
+    {
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "album": {
         "name": "Quiet at the Kitchen Door",
         "url": "https://open.spotify.com/album/5zQuH90HZTS3polThsRVG7"
       },
@@ -202,7 +470,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 438700,
       "name": "If I Be Wrong",
       "url": "https://open.spotify.com/track/2wwko1N7dVjpsHt5Ca9be3"
@@ -220,7 +488,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 438700,
       "name": "If I Be Wrong",
       "url": "https://open.spotify.com/track/4iFoLIJGlMzrKRHkmEb3Co"
@@ -285,6 +553,54 @@
     },
     {
       "album": {
+        "name": "Sixpence None The Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "album": {
+        "name": "Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/54Yw9d8evQ0dalTZzuOjH7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Matos Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/0pyYSOk66qIOr6zlInQSxi"
+        },
+        {
+          "name": "Roberto Alagna",
+          "url": "https://open.spotify.com/artist/2AyySZZK01JT6ZSYZ2CWgf"
+        },
+        {
+          "name": "Yvan Cassar",
+          "url": "https://open.spotify.com/artist/12KuAqCu5BfvDqTQqKIKJR"
+        },
+        {
+          "name": "Paris Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1CcervemeKz5cr6AHcj03b"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "La Cumparsita",
+      "url": "https://open.spotify.com/track/0uY9Y3eWgwZWrRueIVzaEg"
+    },
+    {
+      "album": {
         "name": "Las 30 grandes de Chavela Vargas",
         "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
@@ -300,6 +616,90 @@
       "duration_ms": 511333,
       "name": "La llorona",
       "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
+    },
+    {
+      "album": {
+        "name": "Losing My Religion (For Cello and Piano)",
+        "url": "https://open.spotify.com/album/33p27AUxcySo7Wo4bTf5jX"
+      },
+      "artists": [
+        {
+          "name": "GnuS Cello",
+          "url": "https://open.spotify.com/artist/0FxBxEpva3SXFb9a8Nb6sh"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224554,
+      "name": "Losing My Religion - For Cello and Piano",
+      "url": "https://open.spotify.com/track/1rYYOms7d4BXXWG9cKnJD0"
+    },
+    {
+      "album": {
+        "name": "Best Loved Melodies",
+        "url": "https://open.spotify.com/album/2P1yIVMnwTLyVcVTlphNod"
+      },
+      "artists": [
+        {
+          "name": "The Lennon Sisters",
+          "url": "https://open.spotify.com/artist/6FQRjLSuGHEAdioKxIGBdZ"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151173,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/7BZZUAOGqScBb9wciuBHa7"
+    },
+    {
+      "album": {
+        "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        },
+        {
+          "name": "Catherine Zeta-Jones",
+          "url": "https://open.spotify.com/artist/5i4JbHYkeCa702YXS68RGf"
+        },
+        {
+          "name": "Esin Aydingoz",
+          "url": "https://open.spotify.com/artist/0ekDpHXgQKW9W4k3ZboKhT"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48367,
+      "name": "Nevermore Alma Mater - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/4I8u89gSwA1MQGdgoaI7V6"
+    },
+    {
+      "album": {
+        "name": "First and Last and Always",
+        "url": "https://open.spotify.com/album/2wOuYERNvxVipFb2JlwvwA"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "No Time to Cry",
+      "url": "https://open.spotify.com/track/6t4CUeOPf6Ys5Adxnq1LaR"
     },
     {
       "album": {
@@ -393,6 +793,50 @@
     },
     {
       "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
+        "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72389,
+      "name": "Return To Nevermore - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/1HF04uqv5vSe8drRMO83TT"
+    },
+    {
+      "album": {
+        "name": "Vertigo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1TbuwdZdsSuvfrL6YKozgU"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308200,
+      "name": "Scene D'Amour",
+      "url": "https://open.spotify.com/track/2Yr3ZqmT6Au2SrUZyLEw8i"
+    },
+    {
+      "album": {
         "name": "Blonde Redhead",
         "url": "https://open.spotify.com/album/4oQTioeIg4j1jMyhUvX6tp"
       },
@@ -426,6 +870,32 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
+        "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170580,
+      "name": "Tale of the Skull Tree - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/7ue9yrTvWLlJnT1G5S9fYU"
     },
     {
       "album": {
@@ -509,6 +979,42 @@
     },
     {
       "album": {
+        "name": "Pink Funky",
+        "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214087,
+      "name": "Um Oh Ah Yeh",
+      "url": "https://open.spotify.com/track/0icGgAiUx5b0amQLycmGUr"
+    },
+    {
+      "album": {
+        "name": "Mi Mundo Raro",
+        "url": "https://open.spotify.com/album/1UqVcJTezlukIQHuYPGuNu"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198191,
+      "name": "Un Mundo Raro",
+      "url": "https://open.spotify.com/track/3iBfze0P2wwMZxSbvi2Mr7"
+    },
+    {
+      "album": {
         "name": "Wednesday (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
       },
@@ -527,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Kinks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133933,
+      "name": "You Really Got Me",
+      "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
+    },
+    {
+      "album": {
         "name": "Treat Her Strangely",
         "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
       },
@@ -542,6 +1066,32 @@
       "duration_ms": 205786,
       "name": "Your Love Is It Real?",
       "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
+    },
+    {
+      "album": {
+        "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        },
+        {
+          "name": "Christian Almiron",
+          "url": "https://open.spotify.com/artist/4NlXWXY8H25aVWM7oIfr6d"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144195,
+      "name": "Zombie - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/066b8lHH03cSlTFES2jMre"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbyvJ0pcthaD"

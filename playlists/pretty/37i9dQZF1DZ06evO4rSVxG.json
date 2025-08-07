@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15157,
+  "num_followers": 15159,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI/4AAAAAACDRLRykei/eipLDvmq4vXX",
+  "snapshot_id": "aJFJgAAAAACLQMk2C+FwpntsBBMVel+r",
   "tracks": [
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 337000,
-      "name": "For The Love Of You",
-      "url": "https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj"
+      "duration_ms": 342266,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 342266,
-      "name": "Baby Doll",
-      "url": "https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp"
+      "duration_ms": 337000,
+      "name": "For The Love Of You",
+      "url": "https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj"
     },
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "More than Flowers",
-        "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
+        "name": "It's a Beautiful Thing",
+        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
       },
       "artists": [
-        {
-          "name": "Iam Astro",
-          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 187052,
-      "name": "More than Flowers",
-      "url": "https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV"
+      "duration_ms": 257790,
+      "name": "It's a Beautiful Thing - Sly Mix",
+      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's a Beautiful Thing",
-        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
+        "name": "More than Flowers",
+        "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
       },
       "artists": [
+        {
+          "name": "Iam Astro",
+          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
+        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 257790,
-      "name": "It's a Beautiful Thing - Sly Mix",
-      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
+      "duration_ms": 187052,
+      "name": "More than Flowers",
+      "url": "https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV"
     },
     {
       "added_at": null,

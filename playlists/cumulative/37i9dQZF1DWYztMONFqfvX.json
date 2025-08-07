@@ -1069,6 +1069,32 @@
     },
     {
       "album": {
+        "name": "Dhul Gaye",
+        "url": "https://open.spotify.com/album/7GcG3nvo4i9t0RMB9s5zp1"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Arjuna Harjai",
+          "url": "https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN"
+        },
+        {
+          "name": "Surabhi Dashputra",
+          "url": "https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Dhul Gaye",
+      "url": "https://open.spotify.com/track/3TXjNRh2C9ybqG2ZYDrgh5"
+    },
+    {
+      "album": {
         "name": "Dhun (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
       },
@@ -2718,7 +2744,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 305613,
       "name": "Phir Le Aya Dil - Reprise",
       "url": "https://open.spotify.com/track/7fpWJr5shT90KiCHXKHxch"

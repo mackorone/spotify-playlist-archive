@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcv6uiiM3OQq.md) - [plain]
 
 > Enjoy the Jay Park  WORLD TOUR \[Serenades & Body Rolls\] LIVE SET including the voices of them on stage! \(박재범의 무대 멘트와 목소리가 포함된 \[Serenades & Body Rolls\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,934 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,940 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcv6uiiM3OQq.md) - [plain]
 | 43 | [Stage Comment 10](https://open.spotify.com/track/31vCDyaGpPq4uSwKZJE2wW) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park WORLD TOUR \[Serenades & Body Rolls\] In Seoul Audio liners](https://open.spotify.com/album/08P6XCRonSyklQXhEBfE35) | 1:01 |
 | 44 | [MOMMAE \(Feat\. Ugly Duck\)](https://open.spotify.com/track/3MuGoW19i72vekvJoeAIxl) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [MOMMAE](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) | 3:24 |
 
-Snapshot ID: `aEfbLQAAAAB0cPTHcv/xbyY4A/rzY1Gi`
+Snapshot ID: `AAAAAPcOLUHbKCXYCIpuwNkL3doApZD1`

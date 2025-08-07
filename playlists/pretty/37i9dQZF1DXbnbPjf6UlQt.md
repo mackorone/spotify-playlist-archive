@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnbPjf6UlQt.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 20 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 20 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnbPjf6UlQt.md) - [plain]
 | 19 | [Love in the Milky Way Cafe](https://open.spotify.com/track/66d19CSx5ru7mAzvwJ3JtF) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1.0](https://open.spotify.com/album/12ubeUaBlWdb0cWZfmvtj2) | 2:52 |
 | 20 | [Phonecert](https://open.spotify.com/track/5Sh2pJT3VWTvkQOXPAaRiC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [4.0](https://open.spotify.com/album/67hiKxAR8TrMNt3YopULAL) | 3:17 |
 
-Snapshot ID: `aIwttQAAAADUj0+VQkT69ncxr8oKTsk6`
+Snapshot ID: `AAAAAEe6Z/BmnZnp+LLxUaZqU0/wXmS4`

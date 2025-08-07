@@ -1,12 +1,12 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 103308,
+  "num_followers": 103304,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIvfZAAAAAANK+f4c1kY3lpfta+vMfbq",
+  "snapshot_id": "AAAAAFvS2+0NHjTLtVURmJ/kgm2BW207",
   "tracks": [
     {
       "added_at": "2025-07-31 21:25:56",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
+        "name": "Deadpan Love",
+        "url": "https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 151913,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Deadpan Love",
-        "url": "https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 151913,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 173203,
       "name": "New Me",
       "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
-        "name": "glhf<3",
-        "url": "https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "glhf<3",
-      "url": "https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
+        "name": "glhf<3",
+        "url": "https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "glhf<3",
+      "url": "https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
         "name": "N.F.A. DEMOS",
         "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Heart of Gold",
-        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 171607,
-      "name": "Heart of Gold",
-      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -851,6 +835,22 @@
       "duration_ms": 267688,
       "name": "Run Right Into It",
       "url": "https://open.spotify.com/track/55wXV7znDMz0w58jtOSWFa"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-01-22 20:21:19",
       "album": {
-        "name": "Welcome To The Night Sky",
-        "url": "https://open.spotify.com/album/0vz1SlNzlwZ4Qyes30dXFL"
-      },
-      "artists": [
-        {
-          "name": "Wintersleep",
-          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Weighty Ghost",
-      "url": "https://open.spotify.com/track/1kVEX9FBvKC8531ALTrNfl"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
       },
@@ -949,6 +933,22 @@
       "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
     },
     {
+      "added_at": "2025-07-24 18:02:42",
+      "album": {
+        "name": "Hard Lines",
+        "url": "https://open.spotify.com/album/444N7dy2PWMg8I7uI6PM2x"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 188032,
+      "name": "Hard Lines",
+      "url": "https://open.spotify.com/track/2MmVtejhstTIqHLMhRsv8i"
+    },
+    {
       "added_at": "2025-07-31 21:25:56",
       "album": {
         "name": "Church of Better Daze",
@@ -965,20 +965,36 @@
       "url": "https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo"
     },
     {
-      "added_at": "2025-07-24 18:02:42",
+      "added_at": "2025-01-22 20:21:19",
       "album": {
-        "name": "Hard Lines",
-        "url": "https://open.spotify.com/album/444N7dy2PWMg8I7uI6PM2x"
+        "name": "Welcome To The Night Sky",
+        "url": "https://open.spotify.com/album/0vz1SlNzlwZ4Qyes30dXFL"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Wintersleep",
+          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
         }
       ],
-      "duration_ms": 188032,
-      "name": "Hard Lines",
-      "url": "https://open.spotify.com/track/2MmVtejhstTIqHLMhRsv8i"
+      "duration_ms": 218973,
+      "name": "Weighty Ghost",
+      "url": "https://open.spotify.com/track/1kVEX9FBvKC8531ALTrNfl"
+    },
+    {
+      "added_at": "2025-01-22 20:21:19",
+      "album": {
+        "name": "Stay Wild",
+        "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "Stay Wild",
+      "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
     },
     {
       "added_at": "2025-01-22 20:21:19",
@@ -999,22 +1015,6 @@
       "duration_ms": 166600,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
-    },
-    {
-      "added_at": "2025-01-22 20:21:19",
-      "album": {
-        "name": "Stay Wild",
-        "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Stay Wild",
-      "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
     },
     {
       "added_at": "2025-01-22 20:21:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtpyV5uajsB.md) - [plain]
 
 > Listen to the soundtracks of Family By Choice\. \(조립식 가족의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,533 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,544 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtpyV5uajsB.md) - [plain]
 | 58 | [Linger On](https://open.spotify.com/track/7e256LLur2qADLXIJbsMEK) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Linger On](https://open.spotify.com/album/4pGKlXNo6TKQame8hMFZI7) | 3:49 |
 | 59 | [Us in Those Days \- Instrumental](https://open.spotify.com/track/2HiR51CAg8MATaPWBt7w2b) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Family by Choice \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0fN94YJdwIdnyL4X5Y0Wk9) | 3:55 |
 
-Snapshot ID: `Z1qhcwAAAAA9WQT1wZUf7455680T63Cu`
+Snapshot ID: `AAAAAEFRrQCZG1WLMOP1zMpf7OsIkgBy`

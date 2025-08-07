@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,754 likes - 90 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,744 likes - 90 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 89 | [Down To Love Town](https://open.spotify.com/track/4x6kLSbZF1bD2zu2txVr3S) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Down To Love Town](https://open.spotify.com/album/5zTnPz8PXskieTuViEnKj8) | 5:59 |
 | 90 | [Love Hangover](https://open.spotify.com/track/4poc2NX2Ap8MnZjOtoiGir) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross](https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk) | 7:48 |
 
-Snapshot ID: `aHi8FAAAAAC+sAA/Do0fZLSm3i6VNaGO`
+Snapshot ID: `AAAAAEU/wQA6/6Ujl/FzeK28zLsmHITb`

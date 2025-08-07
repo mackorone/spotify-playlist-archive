@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 99 | [とまり木](https://open.spotify.com/track/0u9NfvZhBJOx0mD1dBp28O) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [小林幸子全曲集 2017](https://open.spotify.com/album/6qbTjzj9A6o6d79tHdi2iJ) | 3:29 |
 | 100 | [おまえとふたり](https://open.spotify.com/track/76wg1Gh8EHbICKCQoHKXLW) | [Hiroshi Itsuki](https://open.spotify.com/artist/19UvGbujplb8Ra8xV5yeds) | [ベストセレクションⅢ（1971\-1994）～おまえとふたり～](https://open.spotify.com/album/3kzvwLED2Dx7GW9BOCMNqs) | 3:27 |
 
-Snapshot ID: `ZsqCAwAAAADH8oDTAZv9vqULJioOFe9m`
+Snapshot ID: `AAAAABK1IcUc7Gjx8gtTBMjFU6yhO935`

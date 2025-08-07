@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español, con Palo Domado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,483 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,490 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 44 | [Vulnerables](https://open.spotify.com/track/2gac1fUGyTRa95XWnAgiow) | [Missa Sinfonia](https://open.spotify.com/artist/7Ip8SqItaKjJtgtKUNCShb) | [Vulnerables](https://open.spotify.com/album/3FH14EFJqflhM5TWrL6aqk) | 3:28 |
 | 45 | [50town](https://open.spotify.com/track/3ioHppCrvq9F4v7XHIsCoo) | [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz) | [50town](https://open.spotify.com/album/5l2e4MbK3HVMSucA58waQr) | 3:28 |
 | 46 | [Ahora Que Te Has Ido De Mi](https://open.spotify.com/track/4ecBZpNj0OfGYNZRXoat84) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Ahora Que Te Has Ido De Mi](https://open.spotify.com/album/3wYoMF8ApliUTOYP6hInAH) | 3:39 |
-| 47 | [Mosqueteros \- En Español](https://open.spotify.com/track/663A9Myl42m3wRCN6ISUlf) | [dArtagnan](https://open.spotify.com/artist/7Lj8CmxeAuJ2c2I6YxA6AJ), [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu), [Rafa Blas](https://open.spotify.com/artist/5b9U4EtpsTNyJ0sn3v6ptO) | [Mosqueteros \- En Español](https://open.spotify.com/album/2RWPqTcalpeqz3jBo9L3hs) | 3:13 |
+| 47 | [Mosqueteros \- En Español](https://open.spotify.com/track/663A9Myl42m3wRCN6ISUlf) | [dArtagnan](https://open.spotify.com/artist/7Lj8CmxeAuJ2c2I6YxA6AJ), [Mägo de Oz](https://open.spotify.com/artist/7z42Rmc2Z2EMufIhkogIL4), [Rafa Blas](https://open.spotify.com/artist/5b9U4EtpsTNyJ0sn3v6ptO) | [Mosqueteros \- En Español](https://open.spotify.com/album/2RWPqTcalpeqz3jBo9L3hs) | 3:13 |
 | 48 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/4Cm7RD603oQOB9vPZm92xx) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/0ysQ9rMzgChnl3Qn2Ofmbu) | 3:15 |
 | 49 | [Le conté a mi psicólogo de vos](https://open.spotify.com/track/0peDKddtxstiRwgEJBRN7o) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [Le conté a mi psicólogo de vos](https://open.spotify.com/album/7CGx8wKrOGJ8wKIe6FF1Mc) | 3:25 |
 | 50 | [For Your Love](https://open.spotify.com/track/49768PixpSxavruNoPHzdf) | [Johnny Nasty Boots](https://open.spotify.com/artist/4ZdTJ5fUA3yjAbkK8rvVod) | [For Your Love](https://open.spotify.com/album/05mW6JhQ0QgpDtnBonTpul) | 4:05 |

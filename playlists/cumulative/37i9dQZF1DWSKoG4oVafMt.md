@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,108 songs - 2 day 11 hr 42 min
+1,109 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Half Love](https://open.spotify.com/track/2QnxW3fdMpm9I9sJr5LmOw) | [Harman Sohi](https://open.spotify.com/artist/122Lfw8OKRD099oLm11Xds) | [Half Love](https://open.spotify.com/album/6nl3hlsx1ezU6iA7Zt2tga) | 3:44 | 2022-09-05 | 2022-12-16 |
 | [Hanju](https://open.spotify.com/track/2aJUxU4mqja75w650L6Ehi) | [Tarz Veer](https://open.spotify.com/artist/1LxN23cB8CKomJGdKPPSB5), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Hizar](https://open.spotify.com/album/30kPXKh9CAkJ3OEQFVOHgN) | 3:11 | 2022-08-31 | 2022-12-16 |
 | [Happiness](https://open.spotify.com/track/2oF26rDiQG5tQy0ZSjyiEd) | [Gavvy Sidhu](https://open.spotify.com/artist/7kTTYdWPURJPh2B3MtUN1x) | [Happiness](https://open.spotify.com/album/35iOol9c8kn3WQ1syrga2u) | 2:47 | 2022-02-04 | 2022-02-12 |
-| [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/1DRxgeCPD8uIgKMtFb3Egz) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2025-02-13 |  |
+| [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/1DRxgeCPD8uIgKMtFb3Egz) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2025-02-13 | 2025-08-07 |
 | [Hasse](https://open.spotify.com/track/3IIYoXpH47gR0nqJxJyxQr) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [MAJESTIC](https://open.spotify.com/album/4lZ9HpPoT0IvoMRkVH76FQ) | 2:11 | 2024-09-25 | 2025-01-14 |
 | [Hassna](https://open.spotify.com/track/1giF83Kz38yffC6gJoPesz) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Hassna](https://open.spotify.com/album/2wMQtCkhjjWyHCNchnWdta) | 2:32 | 2022-07-19 | 2022-08-18 |
 | [Haule Haule \(From "Tabaah"\)](https://open.spotify.com/track/1MznXUfKywMbhpRYziwU8j) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Haule Haule \(From "Tabaah"\)](https://open.spotify.com/album/09xIiHka6nQG9NjEqMdoWn) | 3:35 | 2024-09-18 | 2024-10-01 |
@@ -1097,6 +1097,7 @@
 | [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 | 2022-09-21 |  |
 | [Yaad \- From The Album "ikigai"](https://open.spotify.com/track/24fcOo0Mif4IoYAMx3bFp4) | [Harman Mann](https://open.spotify.com/artist/1XcqQJdOdlJjwNVKRMHUWu), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [Yaad](https://open.spotify.com/album/2BwQgV96oAfQv9o8IJeLp6) | 2:26 | 2022-02-04 | 2022-02-12 |
 | [Yaad Karogi](https://open.spotify.com/track/3o81S19Lv9VDFC0nSbdsY8) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Simran Kaur](https://open.spotify.com/artist/3ZBhVsCWljAG7ommW5sPRW) | [I Am Zack Knight](https://open.spotify.com/album/5lySBRzqQIXmTZlz7jlJlC) | 3:01 | 2022-09-15 | 2022-12-16 |
+| [Yaar Bawara \(From "Raunak"\)](https://open.spotify.com/track/6Ns79GWBJVRjzaBpTdKCVb) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Jaidev Kumar](https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Yaar Bawara \(From "Raunak"\)](https://open.spotify.com/album/4UqfZntJTYM62fr06ZXwe7) | 2:29 | 2025-08-06 |  |
 | [Yaar Mera](https://open.spotify.com/track/6Fx5FyrlseqiL7L8ddY6iG) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Yaar Mera](https://open.spotify.com/album/2DVosjSDtVTKdyuJgoWloD) | 3:07 | 2022-02-11 | 2022-04-06 |
 | [Yaar Milya](https://open.spotify.com/track/7GMBkNtGEyMRD3fNYvI2Al) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Yaar Milya](https://open.spotify.com/album/1YcIYbcLWBCYsiYezUVTCu) | 3:05 | 2022-09-15 | 2022-12-16 |
 | [Yaar Razi](https://open.spotify.com/track/4jCY1d4d16OJTPD793Zf0K) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Yaar Razi](https://open.spotify.com/album/6xijSCqyV5BBEb09kTDmwd) | 3:35 | 2022-04-04 | 2022-04-29 |

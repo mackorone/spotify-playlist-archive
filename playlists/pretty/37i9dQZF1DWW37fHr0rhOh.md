@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Gaither Vocal Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,042 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,047 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 49 | [Goodness and Mercy \(feat\. Todd Smith\)](https://open.spotify.com/track/2jU3vCrlb4hirmjq8DnAjn) | [Lee Park Worship](https://open.spotify.com/artist/2gqep75ws6SMcHFl45cghA), [Shane Dunlap](https://open.spotify.com/artist/4bp86PmlkB4udKMBveIOlX), [Todd Smith](https://open.spotify.com/artist/3ByH7rh6XDnP76d5Traoxy) | [Goodness and Mercy \(feat\. Todd Smith\)](https://open.spotify.com/album/3BsifoJiIJfv12TfDxSjkA) | 3:42 |
 | 50 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 |
 
-Snapshot ID: `aHEJCAAAAAAsgJEhz7FOGgVJ7rFqf3e0`
+Snapshot ID: `AAAAAKxUknUDEIwZYDOYwkjalXm3D0Yl`

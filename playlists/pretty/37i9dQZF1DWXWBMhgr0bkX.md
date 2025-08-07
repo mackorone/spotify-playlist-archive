@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > The next pop crop 💐 feat\. fliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,853 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,858 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 74 | [Hey Hi Hello](https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Hey Hi Hello](https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p) | 3:09 |
 | 75 | [Love Myself](https://open.spotify.com/track/5DknQJJ8T6Td0z4CpfOrXH) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Love Myself](https://open.spotify.com/album/6pvlr3NJMw3iG35zRpINhX) | 3:21 |
 
-Snapshot ID: `aIv1fAAAAAAEWrdC7Wkkpuw/BSdCRV/v`
+Snapshot ID: `AAAAALxDZUfYWlqpfGNdFnNWJJPo5PN9`

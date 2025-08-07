@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 244072,
+  "num_followers": 244105,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpO4VAAAAADBtQEepEBDHXPnrbkYtK1x",
+  "snapshot_id": "AAAAAAoTQSDi64SiLuA5zbnRetUO3q9V",
   "tracks": [
     {
       "added_at": "2024-07-14 11:36:52",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
+      },
+      "artists": [
+        {
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Little Girl of Mine",
+      "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
         "name": "Doo Wop Classics Vol. 1",
         "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Little Girl of Mine",
-      "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
     },
     {
       "added_at": "2024-07-14 11:36:52",

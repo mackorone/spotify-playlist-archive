@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,559 songs - 8 day 1 hr 26 min
+3,560 songs - 8 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2941,6 +2941,7 @@
 | [Summer Nights](https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Summer Nights](https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql) | 2:42 | 2025-07-01 | 2025-07-05 |
 | [Summer of '99](https://open.spotify.com/track/2jEpmhYTYByGsFhpkWBEm8) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Summer of ‘99](https://open.spotify.com/album/5r8KHlK7EuR5C77Aimvg00) | 3:48 | 2024-08-08 | 2024-08-16 |
 | [Summer of Love](https://open.spotify.com/track/7AgxXHoq45JDAnvTEj2tQ4) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Summer of Love](https://open.spotify.com/album/5nwFxRbZEZ6V4pMBDmBy31) | 2:03 | 2024-07-19 | 2024-07-27 |
+| [Summer Sinners](https://open.spotify.com/track/36jWOtVRbVKXlGnUDMukso) | [House Of Bas](https://open.spotify.com/artist/4Mw7FGoM1V8AXXqkeJcfid) | [Summer Sinner's](https://open.spotify.com/album/02VhZ0g3dtBJNb66weJet7) | 6:15 | 2025-08-06 |  |
 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 | 2024-06-20 | 2024-06-29 |
 | [Sun Comes Up](https://open.spotify.com/track/1blTO8R2KZCocDdquldlIh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Sun Comes Up](https://open.spotify.com/album/3pPKqAo24C6P9KeXZrXvB2) | 2:21 | 2024-05-24 | 2024-06-01 |
 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 | 2025-01-17 | 2025-01-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,137 likes - 46 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,145 likes - 46 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 45 | [สุขสันต์วันเกิด \(Happybirthday\)](https://open.spotify.com/track/5CSVcRzUmYOVVYoTiIT3vT) | [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [สุขสันต์วันเกิด \(Happybirthday\)](https://open.spotify.com/album/6Mq2QvmBKurSz2bL5ZB7tI) | 3:33 |
 | 46 | [ตัวละครเอก](https://open.spotify.com/track/5YpgjlPpTBBvxgWJcpnVkV) | [Hunsick](https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv) | [ตัวละครเอก](https://open.spotify.com/album/5QNlha1lCPOsdZ1jf7yw1n) | 3:29 |
 
-Snapshot ID: `aGgPjgAAAAAYGtJNmPKTSUbciHZCPUxM`
+Snapshot ID: `AAAAALnE7k1ZjtOKVC1TcwiTGpwQUfst`

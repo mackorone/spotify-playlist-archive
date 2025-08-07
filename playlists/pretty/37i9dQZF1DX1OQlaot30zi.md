@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Latrelle, 22simba, Sad e KIID, Abby 6ix e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,083 likes - 121 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,082 likes - 121 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 44 | [TIC TAC TOE \(feat\. Low\-Red\)](https://open.spotify.com/track/3WygvwOYzE75B7FtnAjead) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [BIG FRRR](https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL) | 2:00 |
 | 45 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 |
 | 46 | [DOLCE COME IL MIELE \(feat\. SETTEMBRE\)](https://open.spotify.com/track/1ZyldS65EilAjdyHbEgnVr) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [LDO](https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z), [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [GRANDE ANIMA](https://open.spotify.com/album/2WF5JxZ1sTKj4lV3Wpirma) | 3:12 |
-| 47 | [MOMO DESIGN](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 |
+| 47 | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 |
 | 48 | [Lupare \(feat\. IvanBi\)](https://open.spotify.com/track/2sLyF6Upnl1DR8mNBRk0yK) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [PNTWINS](https://open.spotify.com/album/43jNfQrxWhj6m0Yms8PJDn) | 3:14 |
 | 49 | [Eco](https://open.spotify.com/track/23R4KWD5ZHKY9yBcwEAHHn) | [Stef 5k](https://open.spotify.com/artist/0KmrWcgpXXda7k3urHvzbh) | [Eco](https://open.spotify.com/album/2UniW9JgSHKCc0GpwbSgD9) | 2:04 |
 | 50 | [STALKER \(feat\. Dani Faiv\)](https://open.spotify.com/track/798WTms9uKEpmZftdCcqdo) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [STALKER \(feat\. Dani Faiv\)](https://open.spotify.com/album/7mzodHfi59RHpoHlId8nbU) | 2:45 |

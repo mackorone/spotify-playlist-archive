@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 
 > La playlist ufficiale del rap show di Netflix, la nuova stagione è uscita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,355 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,358 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 | 54 | [Cemento](https://open.spotify.com/track/6PLNbmHieqtpPOvsIyPlFf) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BRAVA GENTE](https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51) | 2:22 |
 | 55 | [4:20 \(feat\. Gemitaiz & Madman\)](https://open.spotify.com/track/0si5nZXflDcqOPradvvHCa) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [V](https://open.spotify.com/album/273DyeVbFoqy2XreWzxyWF) | 3:35 |
 
-Snapshot ID: `Z/2FtQAAAADtkEkjmQJpd9AkFdvhaiGJ`
+Snapshot ID: `AAAAAF2dj4mGBRAZtMzzrGx/ZXL2gRwi`

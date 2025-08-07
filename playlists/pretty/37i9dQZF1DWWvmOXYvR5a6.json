@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON(\uae40\ud558\uc628))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 220741,
+  "num_followers": 220762,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJBxLgAAAABdZHdyfaTlXmhFsvp7IYHj",
+  "snapshot_id": "AAAAACIwsbVwMYQ+zmyQfyuxQR70Nwwk",
   "tracks": [
     {
       "added_at": "2025-08-04 08:37:02",
@@ -435,26 +435,6 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
-        "name": "Bucket List",
-        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "Joker (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
-    },
-    {
-      "added_at": "2025-08-04 08:37:02",
-      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 220681,
       "name": "Limousine (Feat. MINO) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
+    },
+    {
+      "added_at": "2025-08-04 08:37:02",
+      "album": {
+        "name": "Bucket List",
+        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Joker (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
     },
     {
       "added_at": "2025-08-04 08:37:02",
@@ -715,22 +715,22 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
-        "name": "Don't go (feat. ASH ISLAND)",
-        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "Jambino",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
         }
       ],
-      "duration_ms": 157773,
-      "name": "Don't go (feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
+      "duration_ms": 193493,
+      "name": "ADHD (feat. Jambino)",
+      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
     },
     {
       "added_at": "2025-08-04 08:37:02",
@@ -755,22 +755,22 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+        "name": "Don't go (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         },
         {
-          "name": "Jambino",
-          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 193493,
-      "name": "ADHD (feat. Jambino)",
-      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
+      "duration_ms": 157773,
+      "name": "Don't go (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
     },
     {
       "added_at": "2025-08-04 08:37:02",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
+        "name": "UNSTEADY",
+        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I BE LIKE (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "added_at": "2025-08-04 08:37:02",
+      "album": {
         "name": "Double-sidedness",
         "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
-    },
-    {
-      "added_at": "2025-08-04 08:37:02",
-      "album": {
-        "name": "UNSTEADY",
-        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I BE LIKE (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
     },
     {
       "added_at": "2025-08-04 08:37:02",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Trade",
+      "url": "https://open.spotify.com/track/2YpSa1Jtz5j2i0CuVzb0A2"
+    },
+    {
+      "added_at": "2025-08-04 08:37:02",
+      "album": {
         "name": "TOYSTORY3",
         "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA"
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
       },
       "artists": [
         {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Trade",
-      "url": "https://open.spotify.com/track/2YpSa1Jtz5j2i0CuVzb0A2"
+      "duration_ms": 112965,
+      "name": "maybe baby",
+      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
     },
     {
       "added_at": "2025-08-04 08:37:02",
@@ -1315,22 +1331,6 @@
       "duration_ms": 166026,
       "name": "Breezy~ (feat. BIG Naughty & Kid Milli)",
       "url": "https://open.spotify.com/track/2lJmi3TMCA28VbvXID8HIM"
-    },
-    {
-      "added_at": "2025-08-04 08:37:02",
-      "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 112965,
-      "name": "maybe baby",
-      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
     },
     {
       "added_at": "2025-08-04 08:37:02",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Run away",
-      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
-    },
-    {
-      "added_at": "2025-08-04 08:37:02",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 195459,
       "name": "One More Night (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/1kZwWtijucTV6LRUrGn51f"
+    },
+    {
+      "added_at": "2025-08-04 08:37:02",
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Run away",
+      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
     },
     {
       "added_at": "2025-08-04 08:37:02",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
+        "name": "\ubbf8\uc6cc\ubbf8\uc6cc",
+        "url": "https://open.spotify.com/album/3Z8nre7uQyLXZPieySyjYP"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "\ubbf8\uc6cc\ubbf8\uc6cc",
+      "url": "https://open.spotify.com/track/3Qrk2n9heBxrDNRThqg1Sh"
+    },
+    {
+      "added_at": "2025-08-04 08:37:02",
+      "album": {
         "name": "House of Girls, Episode 3",
         "url": "https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 163859,
       "name": "Kiss Like This",
       "url": "https://open.spotify.com/track/5I0IPEUldhAB9vd1waw3rF"
-    },
-    {
-      "added_at": "2025-08-04 08:37:02",
-      "album": {
-        "name": "\ubbf8\uc6cc\ubbf8\uc6cc",
-        "url": "https://open.spotify.com/album/3Z8nre7uQyLXZPieySyjYP"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "\ubbf8\uc6cc\ubbf8\uc6cc",
-      "url": "https://open.spotify.com/track/3Qrk2n9heBxrDNRThqg1Sh"
     },
     {
       "added_at": "2025-08-04 08:37:02",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2025-08-04 08:37:02",
       "album": {
-        "name": "House of Girls, Episode 3",
-        "url": "https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJOO",
-          "url": "https://open.spotify.com/artist/1nLn5ZeWUlNQuxva3WZGfp"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 185039,
-      "name": "Not Available",
-      "url": "https://open.spotify.com/track/3QKGvdqjBGpzTTMBCBIwtm"
-    },
-    {
-      "added_at": "2025-08-04 08:37:02",
-      "album": {
         "name": "LATELY",
         "url": "https://open.spotify.com/album/5TWPlHZkZ55l3zBaSrtSRk"
       },
@@ -1995,6 +1975,22 @@
       "duration_ms": 231613,
       "name": "LATELY (Feat. Hoody)",
       "url": "https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a"
+    },
+    {
+      "added_at": "2025-08-04 08:37:02",
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 168175,
+      "name": "put my hoodie on",
+      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

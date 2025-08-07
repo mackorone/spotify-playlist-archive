@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,204 likes - 450 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,248 likes - 450 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 449 | [monica](https://open.spotify.com/track/70LVWyb9Z0oJrlPtYekQ48) | [Joongle](https://open.spotify.com/artist/5NChOzODHzPYNB4iho8Zcy) | [monica](https://open.spotify.com/album/4KOzxqeAafQ5lcJvrUMreY) | 2:00 |
 | 450 | [Pilot](https://open.spotify.com/track/62oHDKM3OgMcnw7Q9Fyq5M) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE) | [Pilot](https://open.spotify.com/album/6RD7OxSnBJGi3hCuYlEsTu) | 1:22 |
 
-Snapshot ID: `ZytsJAAAAAD2J47u959mmahTScWbedeN`
+Snapshot ID: `AAAAALvEMsMScVx4pei2NijOsxwSqrWG`

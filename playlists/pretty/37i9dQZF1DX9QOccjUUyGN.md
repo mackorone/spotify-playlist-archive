@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Arthurzim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,007 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,999 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 39 | [Zero Zero](https://open.spotify.com/track/0FnWtGORbAVaJ6VMfRuymK) | [Brenu](https://open.spotify.com/artist/5MiTkJ4H1ELFFLNSU149Uv), [Relikia](https://open.spotify.com/artist/6W87gpXtGPtbgQer83mS2J), [Subsolo](https://open.spotify.com/artist/68u9LcXws8gMwc6BoPyJtm), [LEON PX](https://open.spotify.com/artist/4x6FtbtAEHbc2Tm5P8aDBD) | [Mixtape 2025'S](https://open.spotify.com/album/1Pi2QHOml84wIC7ADjfW4Z) | 3:16 |
 | 40 | [Guiada de Boiadeiro](https://open.spotify.com/track/2XUWkaURuH0EKWkRpe99X9) | [Afro Samurai](https://open.spotify.com/artist/7pLFfd6WJC25eliPolvKcO) | [Guiada de Boiadeiro](https://open.spotify.com/album/1E9SadqIKRUpfK1sAtmEey) | 2:12 |
 
-Snapshot ID: `aF8/FwAAAAAN1T8nQVZppHRCuEzgMpy0`
+Snapshot ID: `AAAAANBr2PXg/zoV2/5Fl3mac5YLC/tG`

@@ -1,29 +1,13 @@
 {
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: TTSSFU",
-  "num_followers": 165188,
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: sleepazoid",
+  "num_followers": 165242,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJDsHQAAAAD1FLdtPXWBImQIXZoZwV1Z",
+  "snapshot_id": "AAAAANwtiaDv2EnTDN2qzsYblz6o0cVH",
   "tracks": [
-    {
-      "added_at": "2025-07-23 16:00:16",
-      "album": {
-        "name": "Call U Back",
-        "url": "https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It"
-      },
-      "artists": [
-        {
-          "name": "TTSSFU",
-          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Call U Back",
-      "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
-    },
     {
       "added_at": "2025-08-04 17:20:23",
       "album": {
@@ -43,6 +27,54 @@
     {
       "added_at": "2025-07-23 16:00:16",
       "album": {
+        "name": "Call U Back",
+        "url": "https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Call U Back",
+      "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Very Human Features",
+        "url": "https://open.spotify.com/album/2YQIflzFSMojRZXfDexMtQ"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "duration_ms": 159906,
+      "name": "Jealous Boy",
+      "url": "https://open.spotify.com/track/6n0NZmREI4EC0W8Mdnq6P7"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Sick Little Star",
+        "url": "https://open.spotify.com/album/3umP8vNIgKsUniEkFb2At8"
+      },
+      "artists": [
+        {
+          "name": "Noelle Sucks",
+          "url": "https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Sick Little Star",
+      "url": "https://open.spotify.com/track/1uWpK1MUeMEKA77lyZM4tG"
+    },
+    {
+      "added_at": "2025-07-23 16:00:16",
+      "album": {
         "name": "Hard Part's Over",
         "url": "https://open.spotify.com/album/5k3JMyhKjzKQtiU70OBYsD"
       },
@@ -55,6 +87,166 @@
       "duration_ms": 192103,
       "name": "Hard Part's Over",
       "url": "https://open.spotify.com/track/6tHtGAhmEpUV8jSJ9yQEtW"
+    },
+    {
+      "added_at": "2025-07-02 19:01:06",
+      "album": {
+        "name": "resala - \u0631\u0633\u0627\u0644\u0629",
+        "url": "https://open.spotify.com/album/5ZJYMMCaVOE0uJQy4thJKi"
+      },
+      "artists": [
+        {
+          "name": "nabeel - \u0646\u0628\u064a\u0644",
+          "url": "https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "resala - \u0631\u0633\u0627\u0644\u0629",
+      "url": "https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l"
+    },
+    {
+      "added_at": "2025-07-23 16:00:16",
+      "album": {
+        "name": "Leona Street",
+        "url": "https://open.spotify.com/album/5c2Yrdb5pHBkMFZbXBmP7q"
+      },
+      "artists": [
+        {
+          "name": "Pool Kids",
+          "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f"
+        }
+      ],
+      "duration_ms": 207065,
+      "name": "Leona Street",
+      "url": "https://open.spotify.com/track/3EPo3rq2oJNggi6QMzKKv4"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Beauty Fades, Pain Lasts Forever",
+        "url": "https://open.spotify.com/album/3tprJR7i3lu0eDawksmMP9"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Heartbreak Cafe",
+      "url": "https://open.spotify.com/track/4oDlG2mHN9JdwrMxEktoui"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Guppy",
+        "url": "https://open.spotify.com/album/25os0Uy6AmPFvzXFdJJgT1"
+      },
+      "artists": [
+        {
+          "name": "Sweet Tooth",
+          "url": "https://open.spotify.com/artist/2W8y7m3yZUesovmYDPAfnw"
+        }
+      ],
+      "duration_ms": 162226,
+      "name": "Guppy",
+      "url": "https://open.spotify.com/track/6OAYvModmNIVDkkMSK7zgq"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Golden Caravan",
+        "url": "https://open.spotify.com/album/6hiAggJSuaoZ1SHed2RTv4"
+      },
+      "artists": [
+        {
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/34upB8IqyABdrepfzgO1T7"
+        }
+      ],
+      "duration_ms": 196222,
+      "name": "Ink Blot",
+      "url": "https://open.spotify.com/track/5vohFv2FZ5hMisx2AlZB5G"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "bus stop",
+        "url": "https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit"
+      },
+      "artists": [
+        {
+          "name": "The Empty Threats",
+          "url": "https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "bus stop",
+      "url": "https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "If I'm Being Honest",
+        "url": "https://open.spotify.com/album/4U9dNIj8njh8tY0tRaCDcg"
+      },
+      "artists": [
+        {
+          "name": "Colatura",
+          "url": "https://open.spotify.com/artist/281DMYRccJJg8BXz1TIZF5"
+        }
+      ],
+      "duration_ms": 169808,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/6fpa8Y9ZZUsshzgzNdh5iY"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Burt Cokaine",
+        "url": "https://open.spotify.com/album/3pwEY5YyP9qvY2dZc77RpB"
+      },
+      "artists": [
+        {
+          "name": "slow quit",
+          "url": "https://open.spotify.com/artist/1SkSkfRB5Gp0xgXWQV1hdf"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Burt Cokaine",
+      "url": "https://open.spotify.com/track/690OyMzBeF4PFHcTnGylod"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Love Is a Dog from Hell",
+        "url": "https://open.spotify.com/album/7oQuEArYh1zZC6trPbmDbt"
+      },
+      "artists": [
+        {
+          "name": "forty winks",
+          "url": "https://open.spotify.com/artist/0jpSfOVe0Lec1vz5VjQH7S"
+        }
+      ],
+      "duration_ms": 140907,
+      "name": "commie bf",
+      "url": "https://open.spotify.com/track/6VzVGLayXIMDwvlsHjfRlc"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Tequila & Lime",
+        "url": "https://open.spotify.com/album/7gHcbyZlxI40kwItJyhuqL"
+      },
+      "artists": [
+        {
+          "name": "Weston Loney",
+          "url": "https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt"
+        }
+      ],
+      "duration_ms": 246465,
+      "name": "Tequila & Lime",
+      "url": "https://open.spotify.com/track/1eP7tGuqG9lMoEy6kruc9G"
     },
     {
       "added_at": "2025-07-23 16:00:16",
@@ -73,20 +265,52 @@
       "url": "https://open.spotify.com/track/1N4P7tykakt4sFdBF6CUzK"
     },
     {
-      "added_at": "2025-07-23 16:00:16",
+      "added_at": "2025-08-06 16:00:06",
       "album": {
-        "name": "Leona Street",
-        "url": "https://open.spotify.com/album/5c2Yrdb5pHBkMFZbXBmP7q"
+        "name": "Find Me The Same",
+        "url": "https://open.spotify.com/album/40I3bfQkT2U7M8jKqjXKAg"
       },
       "artists": [
         {
-          "name": "Pool Kids",
-          "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f"
+          "name": "Carrington",
+          "url": "https://open.spotify.com/artist/5mvcgdNeuhejCDagY49qGd"
         }
       ],
-      "duration_ms": 207065,
-      "name": "Leona Street",
-      "url": "https://open.spotify.com/track/3EPo3rq2oJNggi6QMzKKv4"
+      "duration_ms": 98181,
+      "name": "Find Me The Same",
+      "url": "https://open.spotify.com/track/4dtgajmbFwvj7M8XSM7gTz"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Dead Rock",
+        "url": "https://open.spotify.com/album/0QEVxMlGr8BmO6gr3Xcd3d"
+      },
+      "artists": [
+        {
+          "name": "best dressed ghost",
+          "url": "https://open.spotify.com/artist/3Rh1YnnvbwePqsU1NPZhPy"
+        }
+      ],
+      "duration_ms": 167584,
+      "name": "Sports Make Me Cry",
+      "url": "https://open.spotify.com/track/6s9dfL9sRdb9LQF5EC5E44"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "scapegoat",
+        "url": "https://open.spotify.com/album/22Hf29mwqbiZqMMQaxzRmQ"
+      },
+      "artists": [
+        {
+          "name": "B Murph",
+          "url": "https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ"
+        }
+      ],
+      "duration_ms": 123485,
+      "name": "code blue",
+      "url": "https://open.spotify.com/track/7wZ7tGoqw04ViI5hITe2rK"
     },
     {
       "added_at": "2025-07-23 16:00:16",
@@ -151,22 +375,6 @@
       "duration_ms": 203480,
       "name": "The Reason I Could Sleep Forever",
       "url": "https://open.spotify.com/track/6ddxAinJdZYfcZGBeUDMhs"
-    },
-    {
-      "added_at": "2025-07-02 19:01:06",
-      "album": {
-        "name": "resala - \u0631\u0633\u0627\u0644\u0629",
-        "url": "https://open.spotify.com/album/5ZJYMMCaVOE0uJQy4thJKi"
-      },
-      "artists": [
-        {
-          "name": "nabeel - \u0646\u0628\u064a\u0644",
-          "url": "https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "resala - \u0631\u0633\u0627\u0644\u0629",
-      "url": "https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l"
     },
     {
       "added_at": "2025-07-23 16:00:16",
@@ -1899,70 +2107,6 @@
       "duration_ms": 149781,
       "name": "Eyesight",
       "url": "https://open.spotify.com/track/0sfKK8BCtC1wOmnkrPWX67"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "The Waltz / Mr. Useless",
-        "url": "https://open.spotify.com/album/7b180unVw1iq2BkuPJEVqF"
-      },
-      "artists": [
-        {
-          "name": "The Thing",
-          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
-        }
-      ],
-      "duration_ms": 251797,
-      "name": "The Waltz",
-      "url": "https://open.spotify.com/track/5s7QhCnxFuHCSZE7PAzVoL"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL"
-      },
-      "artists": [
-        {
-          "name": "Fool Nelson",
-          "url": "https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp"
-        }
-      ],
-      "duration_ms": 208938,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7FBf6jRk4YidWpfabv9bsz"
-      },
-      "artists": [
-        {
-          "name": "Cdubz",
-          "url": "https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5V4qVStqE0NMxuQJPuqI60"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "The Death Of Edwina Morrow",
-        "url": "https://open.spotify.com/album/4u9g3d6tioYC83A4jcUL1f"
-      },
-      "artists": [
-        {
-          "name": "Max Madly",
-          "url": "https://open.spotify.com/artist/6feiG5vBlLmBTU0cfJ16zv"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "The Death Of Edwina Morrow",
-      "url": "https://open.spotify.com/track/2SyzF0o3PPJ7ArEdrJDFyn"
     }
   ],
   "unique_name": "Fresh Finds Rock",

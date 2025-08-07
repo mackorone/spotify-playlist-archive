@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Największe polskie przeboje w 2024 według naszej redakcji\. Cover: Sylwia Grzeszczak
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,598 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,613 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 | 49 | [Tyrka](https://open.spotify.com/track/5m1mhgEkvqDFjLjTykf26Q) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Tyrka](https://open.spotify.com/album/0k9WosObJjA7aw6mjXMfDT) | 2:06 |
 | 50 | [Zagrajmy](https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:16 |
 
-Snapshot ID: `Z1BHxAAAAABAiYjRcwI1e2XFbfOUM0Bc`
+Snapshot ID: `AAAAAAjREdCozX8HbJmQT1C+ASATBc9Q`

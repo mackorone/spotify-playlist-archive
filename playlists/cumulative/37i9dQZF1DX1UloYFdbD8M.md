@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-386 songs - 1 day 0 hr 18 min
+387 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Frog Murali](https://open.spotify.com/track/6JEvCK6iMo6SMfOyvKvzXl) | [Lprockzs](https://open.spotify.com/artist/1ajN4tqQNNgKXVndkGGr82) | [Frog Murali](https://open.spotify.com/album/5i7BCSvsUj9NSahfs9sKhI) | 5:16 | 2025-08-01 |  |
 | [Garudan](https://open.spotify.com/track/318OnS3kkEgC8PIY9oWbFz) | [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Garudan](https://open.spotify.com/album/66GY7yGX2gE7qEYCywJfpF) | 2:17 | 2025-03-17 | 2025-05-10 |
 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 | 2023-08-30 | 2025-01-14 |
+| [Gold](https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa) | [Gold](https://open.spotify.com/album/0PK5jkjXKLiMS7U2fmWft0) | 3:02 | 2025-08-06 |  |
 | [Gopa Trance](https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Gopa Trance](https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe) | 2:42 | 2023-09-29 | 2024-02-19 |
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 | 2024-02-19 |
 | [Gulab Jamun](https://open.spotify.com/track/2zlllmweB5NqNGv06OEguE) | [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0) | [Gulab Jamun](https://open.spotify.com/album/0y82u4WJxCP9qrZbcCK4wB) | 2:06 | 2025-07-07 |  |
@@ -197,7 +198,7 @@
 | [MANGALAM](https://open.spotify.com/track/3vncUpj0365hkip0iGZRJl) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [MANGALAM](https://open.spotify.com/album/5EUCfEjwcEvqjsHjPWlJ3q) | 3:20 | 2025-01-10 | 2025-06-17 |
 | [Marap](https://open.spotify.com/track/66aRgKCtqQFWLSGeFKgWQt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Marap](https://open.spotify.com/album/5AOF1Y9vmK21GyQk9qhmuu) | 3:46 | 2023-07-28 | 2024-07-16 |
 | [Mask](https://open.spotify.com/track/5CvX5VrwOR9Xw1zWebmSs2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mask](https://open.spotify.com/album/6ip2H9sVgwTG3u8s9ru1dP) | 3:20 | 2024-08-30 | 2025-07-05 |
-| [Maut](https://open.spotify.com/track/7iCOtipsMA7HYwe4s8RWpG) | [Amal R Vp](https://open.spotify.com/artist/0MnFFZZSySNrGopyFPWad5), [Musicaholic](https://open.spotify.com/artist/248iJr8broW390N2E72Fyd) | [Maut](https://open.spotify.com/album/1lIxgM4kvISw0QhRhqXuvP) | 4:02 | 2025-06-16 |  |
+| [Maut](https://open.spotify.com/track/7iCOtipsMA7HYwe4s8RWpG) | [Amal R Vp](https://open.spotify.com/artist/0MnFFZZSySNrGopyFPWad5), [Musicaholic](https://open.spotify.com/artist/248iJr8broW390N2E72Fyd) | [Maut](https://open.spotify.com/album/1lIxgM4kvISw0QhRhqXuvP) | 4:02 | 2025-06-16 | 2025-08-07 |
 | [Mayathe](https://open.spotify.com/track/6EyYDqDJnoCmAwWBpYRMKE) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [Mayathe](https://open.spotify.com/album/79q8Ugegn7tkGxGqNeYmhv) | 2:26 | 2024-07-16 | 2025-02-11 |
 | [Mazha](https://open.spotify.com/track/0utq0RvHLW5pd062106sSz) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [K Santhosh](https://open.spotify.com/artist/75n3hVy4nSg0WWFbWOqCnJ), [Prats Nair](https://open.spotify.com/artist/4X0mjRFe10wgDe2bRFgY3w) | [Mazha](https://open.spotify.com/album/2FHWcvey1zk7dIVX9KV9Kz) | 1:41 | 2025-07-15 |  |
 | [Mazha](https://open.spotify.com/track/6FQlgBbteed9kBiZIHfYuk) | [Rohit Matt](https://open.spotify.com/artist/2NxaBdfeHXKhnl7fBoJBOC), [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T) | [Mazha](https://open.spotify.com/album/0duNv6aeYqZA46xqHLwH4G) | 3:51 | 2023-10-10 | 2024-03-09 |

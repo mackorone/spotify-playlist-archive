@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 
 > Our editor’s picks for the biggest songs from The Rock List in 2024\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,988 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,989 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 | 74 | [Come And See](https://open.spotify.com/track/2XGRM9Z3mg71Gsq5saAtbP) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 5:27 |
 | 75 | [Iconic](https://open.spotify.com/track/21WBLBnlfaelcFQz0Qvegw) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Iconic](https://open.spotify.com/album/4XCUSQq5jRc6B8E6tR7SaZ) | 2:26 |
 
-Snapshot ID: `Z1GAzgAAAABuo8WvAdV3uw+KtnbblARc`
+Snapshot ID: `AAAAAITywC9c0RY2iOyeOcPYn0/wcH86`

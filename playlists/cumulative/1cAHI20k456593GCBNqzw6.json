@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-15",
-  "description": "An eclectic mix of new and old music frequently updated  by Danger Mouse.  ",
+  "description": "An eclectic mix of new and old music frequently updated  by Danger Mouse.",
   "name": "Danger Mouse Jukebox",
   "tracks": [
     {
@@ -3804,6 +3804,28 @@
       "duration_ms": 174333,
       "name": "Win Or Lose",
       "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/0UHPrq8smwU1HbupSKaYHe"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/2y000ADqI2YYr9uIPzm4PM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,067 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,151 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 77 | [Silence Of Love](https://open.spotify.com/track/4oqrBk9A3WoouuMTDKGERh) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Silence Of Love](https://open.spotify.com/album/00UQmxp15bECetcjau5hTO) | 4:10 |
 | 78 | [Richer](https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Richer](https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi) | 2:57 |
 | 79 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
-| 80 | [NOBODY // ME](https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [NOBODY // ME](https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4) | 3:35 |
-| 81 | [Blindside](https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Blindside](https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk) | 2:54 |
+| 80 | [Blindside](https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Blindside](https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk) | 2:54 |
+| 81 | [NOBODY // ME](https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [NOBODY // ME](https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4) | 3:35 |
 | 82 | [DESI TRILL \(Remix\)](https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X), [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW) | [DESI TRILL \(Remix\)](https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4) | 2:40 |
 | 83 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 |
 | 84 | [What Type Of Girl Am I?](https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 2:33 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 113 | [Juanita](https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Juanita](https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9) | 3:46 |
 | 114 | [En Forma](https://open.spotify.com/track/27FDuXQ7CFYMyFQ29kgz5E) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [En Forma](https://open.spotify.com/album/4oVr846yv4H94fHCHahAjd) | 3:48 |
 
-Snapshot ID: `ZxLIWQAAAAD/fH2psEFRC1s9ARG8w2qh`
+Snapshot ID: `AAAAAFHMmtuw2afnq3QSLl6mNVYPDhhZ`

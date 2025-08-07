@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Dream Coming True",
+        "url": "https://open.spotify.com/album/5kQhJWjOHWZ22toTEApo5K"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184001,
+      "name": "A Dream Coming True",
+      "url": "https://open.spotify.com/track/0WSxeGJ84Z3hIlpI9J0AXP"
+    },
+    {
+      "album": {
         "name": "A Free Spirit (Nature)",
         "url": "https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q"
       },
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 136250,
       "name": "Morning Calm",
       "url": "https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C"

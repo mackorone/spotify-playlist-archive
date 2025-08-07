@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,515 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,548 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 56 | [runningaway](https://open.spotify.com/track/1u7B4DA9iof3dVpczTDTEp) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [runningaway](https://open.spotify.com/album/06Ab4bR1rLy2BiCwBWZPrH) | 3:15 |
 | 57 | [Onomono](https://open.spotify.com/track/2HEJngNEwvIreCsitsTwOO) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Dubbygotbars](https://open.spotify.com/artist/7l3HFxD14P1PnqFsANx3QJ) | [Onomono](https://open.spotify.com/album/5E9zNgdNJDVdm8PaNC91Ca) | 2:12 |
 | 58 | [RXGER CLUB!](https://open.spotify.com/track/070MMFHFOporxz7AusZYbW) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXGER CLUB!](https://open.spotify.com/album/4dLlTs0ou1AnGy2WblV0Bk) | 2:43 |
-| 59 | [I WANNA KNOW \(feat\. TIMID.\)](https://open.spotify.com/track/1Qojg9hbmTkmaDltZMR02b) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [I WANNA KNOW \(feat\. TIMID.\)](https://open.spotify.com/album/2ZHbCd0ynGuiB8fzzr9tGk) | 2:27 |
+| 59 | [I WANNA KNOW](https://open.spotify.com/track/1Qojg9hbmTkmaDltZMR02b) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [I WANNA KNOW](https://open.spotify.com/album/2ZHbCd0ynGuiB8fzzr9tGk) | 2:27 |
 | 60 | [EARTHQUAKE](https://open.spotify.com/track/5LHd02ccyYe90VI9lHhDDN) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PAID!NFULL](https://open.spotify.com/artist/7B37NUWYcRkxnAc0YO84ue) | [EARTHQUAKE](https://open.spotify.com/album/2du1PXwCvH3VsVRU1EAvIR) | 2:53 |
 | 61 | [Levity](https://open.spotify.com/track/3tghcsSswAYbDNb6zGmyVw) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Psyuri](https://open.spotify.com/artist/1sVcH2QZWGjqsNxyJ9EyBb) | [Levity](https://open.spotify.com/album/6WrK7cLohU7vs79TQkS5BX) | 6:07 |
 | 62 | [Hyperreal](https://open.spotify.com/track/0WEF1dQnKn5FhR1cHUrpzs) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Hyperreal](https://open.spotify.com/album/0krxfwCjdfwStPOD3cMOg2) | 2:53 |

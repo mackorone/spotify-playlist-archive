@@ -942,7 +942,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 164568,
       "name": "38 (feat. RRARI DAL TACCO, Artie 5ive)",
       "url": "https://open.spotify.com/track/2KK5IaJLPoQADUmLPME9so"
@@ -13334,7 +13334,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 185503,
       "name": "Destri",
       "url": "https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59"
@@ -36509,6 +36509,28 @@
     },
     {
       "album": {
+        "name": "OH MA",
+        "url": "https://open.spotify.com/album/1BjNwysLqaHy252RUVsLjA"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "OH MA",
+      "url": "https://open.spotify.com/track/1uymk7hJ8fAi75Jxh79h63"
+    },
+    {
+      "album": {
         "name": "Tropico Del Capricorno",
         "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
       },
@@ -43552,7 +43574,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 180137,
       "name": "Scarabocchi",
       "url": "https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO"

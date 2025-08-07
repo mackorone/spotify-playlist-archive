@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Im Envy in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,975 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,012 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 11 | [GAMBINO](https://open.spotify.com/track/4lml3kYiuBppXCVtSA7SuY) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [GAMBINO](https://open.spotify.com/album/3hmMoSZxe1ev9gDhqXmg2N) | 1:56 |
 | 12 | [FLOW LACOSTE](https://open.spotify.com/track/2KPjsuO3olYhmtXs9doqnK) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [Tremezio](https://open.spotify.com/artist/02abHMifVy7w6c885Shskd) | [FLOW LACOSTE](https://open.spotify.com/album/3g90o8oZzDtb2xwr9N0jMZ) | 1:54 |
 | 13 | [PARENTE](https://open.spotify.com/track/4M1YXSjzb3HHndhd9dUVSF) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [PARENTE](https://open.spotify.com/album/4NfWT7DZf5pOnglQ77sYFC) | 2:22 |
-| 14 | [MOMO DESIGN](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 |
+| 14 | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 |
 | 15 | [FERRARI \(from "Uonderbois"\)](https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 2:43 |
 | 16 | [Lupare \(feat\. IvanBi\)](https://open.spotify.com/track/2sLyF6Upnl1DR8mNBRk0yK) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [PNTWINS](https://open.spotify.com/album/43jNfQrxWhj6m0Yms8PJDn) | 3:14 |
 | 17 | [MEA CRR \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Geolier\)](https://open.spotify.com/track/1kgbsnrzXeTjVV9iolP8sa) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [WE THE SQUAD Vol.2](https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 79 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 |
 | 80 | [CHICANA](https://open.spotify.com/track/7pNEXv5vLbkuryfXJkexp4) | [Scissione](https://open.spotify.com/artist/3XDzXmZ07l0WjSNQ3jzokX), [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [CHICANA](https://open.spotify.com/album/6BAJM2BvhM12nECOsHnUSR) | 2:29 |
 
-Snapshot ID: `aIvnqwAAAAANQ+66Z3bGq1ODstCR8uZg`
+Snapshot ID: `AAAAAKnb+UGLTKV6jyfSW9N7j15Jgx6n`

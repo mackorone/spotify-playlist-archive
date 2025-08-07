@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 
 > Podcast che devi avere sul tuo RADAR: BenNaNa Podcast, Casi Umani, EST RADIO, Mitologia Gettata, Pianeta B12
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,677 likes - 5 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 5 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,4 +14,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 | 4 | [Coronide e il corvo bianco](https://open.spotify.com/episode/6ejIcXDtDRpXNY55R8X0e6) | [Mitologia Gettata 2](https://open.spotify.com/show/5TO2ilgqW2IDL5g60mttiI) | [Mitologia Gettata 2](https://open.spotify.com/album/5TO2ilgqW2IDL5g60mttiI) | 13:50 |
 | 5 | [Ep\. 48 \- Dieta: il Grande Inganno con Franco Berrino e Natalia Gera \| Pianeta B12](https://open.spotify.com/episode/44Zp8MgayxZSCQydQIjDHW) | [PIANETA B12](https://open.spotify.com/show/6ato4Pxlc1zadiTjOW2PrT) | [PIANETA B12](https://open.spotify.com/album/6ato4Pxlc1zadiTjOW2PrT) | 1:15:51 |
 
-Snapshot ID: `aDcF1QAAAAA+Pv1Ysj3KddK5MrNHmuBy`
+Snapshot ID: `AAAAAOgr1Fo7wk5Z3zShOIyxWZwdPzz1`

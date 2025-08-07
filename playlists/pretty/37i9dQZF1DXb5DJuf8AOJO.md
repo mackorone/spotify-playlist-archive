@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Lift our voices to Him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,543 likes - 104 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,564 likes - 104 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 103 | [Aleluyang Pampaskuwa](https://open.spotify.com/track/346HkaxudMPFYNcmJThVhl) | [Rev\. Fr\. Joselito Jopson](https://open.spotify.com/artist/0Lhgi4Gh2975Ge0KMP724A), [Richelle Linang](https://open.spotify.com/artist/2Jy16GV3oXnFB7MbdbGW59), [Daniel Catalan of Our Lady of the Poor Parish Music Ministry](https://open.spotify.com/artist/01jO6b6Q4B4KDCl6K8XN0G) | [Salmo Serye, Vol\. 2 \(Responsorial Psalms For Lenten Season\)](https://open.spotify.com/album/1hchvNFeYUDbKQ6XeNOTBf) | 3:51 |
 | 104 | [Be Joyful Mary](https://open.spotify.com/track/5y46vaKWtJlLW4AnYAz43T) | [Paulines Choir](https://open.spotify.com/artist/1zlFa2ZMLDA8Hqotxdi4fS) | [Angelus](https://open.spotify.com/album/4MfBAxD5SYCgs1PpNVZOTh) | 2:24 |
 
-Snapshot ID: `aAW3UQAAAADF6MNEKTAUsDTW3kGHad7Q`
+Snapshot ID: `AAAAAAHT7si5PTfJTzbb9uRIqqydwPRQ`

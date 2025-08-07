@@ -1,13 +1,61 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Polami Roko",
-  "num_followers": 251419,
+  "num_followers": 251476,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJdHY9lAQUHGwUvl7X0xNKlepkY2",
+  "snapshot_id": "AAAAAN3qr2BcyWnXeLmGDXX8A5d7MwZB",
   "tracks": [
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Sea legs",
+        "url": "https://open.spotify.com/album/528sMokkwTtXyGuY3fHLQb"
+      },
+      "artists": [
+        {
+          "name": "Ety",
+          "url": "https://open.spotify.com/artist/7zg58K7mLgYIztHHUFWOTL"
+        }
+      ],
+      "duration_ms": 219926,
+      "name": "Sun soaked",
+      "url": "https://open.spotify.com/track/0EBrkqSAj0VHLxJgmPDc3j"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Upper Mezzanine",
+        "url": "https://open.spotify.com/album/5ojQXf3OcDCowE2qwpdgO4"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "duration_ms": 240872,
+      "name": "Moneyman",
+      "url": "https://open.spotify.com/track/0LfQP8yZq7O6YsGtiL4g7r"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/1h0kymvYAK3TSZyFHztqtX"
+      },
+      "artists": [
+        {
+          "name": "Acopia",
+          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg"
+    },
     {
       "added_at": "2025-07-23 16:00:16",
       "album": {
@@ -23,6 +71,198 @@
       "duration_ms": 144545,
       "name": "bug",
       "url": "https://open.spotify.com/track/7jPhUp1P0AcX3pQA3N5jI7"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/4XzSfv4h0NS37BPqD30WMH"
+      },
+      "artists": [
+        {
+          "name": "Addison Dean",
+          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
+        }
+      ],
+      "duration_ms": 138556,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/4F5UOHjI3VLGXPVYKtMCCu"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "KISSING",
+        "url": "https://open.spotify.com/album/3iq0etP6pfeOTWyUck4Uza"
+      },
+      "artists": [
+        {
+          "name": "Gordon's Grandson",
+          "url": "https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9"
+        }
+      ],
+      "duration_ms": 134638,
+      "name": "KISSING",
+      "url": "https://open.spotify.com/track/4xDfKNdpywLn63gY6C95Xf"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Are you blushing?",
+        "url": "https://open.spotify.com/album/3Q95hG0z7W9RcdQQCGMg5F"
+      },
+      "artists": [
+        {
+          "name": "Horsepower",
+          "url": "https://open.spotify.com/artist/1ERf6Gecr1VWPzibnPJt1Y"
+        }
+      ],
+      "duration_ms": 156151,
+      "name": "Are you blushing?",
+      "url": "https://open.spotify.com/track/5sUvIpRrr51qCeAetCJ7x4"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Waldo",
+        "url": "https://open.spotify.com/album/7bZVLwO7D3pBTgRXkhtjtH"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 174966,
+      "name": "Waldo",
+      "url": "https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/4veYBkRhf3hAlgPEKgLFjn"
+      },
+      "artists": [
+        {
+          "name": "Perfect World",
+          "url": "https://open.spotify.com/artist/14xYy0L9zR5K7Us8xqHb23"
+        }
+      ],
+      "duration_ms": 163252,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/2fmGoz8IXDO1GcqeYCeAby"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Mollie",
+        "url": "https://open.spotify.com/album/5WvCFacXNXmLHh9mGUhrFr"
+      },
+      "artists": [
+        {
+          "name": "Seake",
+          "url": "https://open.spotify.com/artist/48xBtJbm3zvVDbMDXMJhHL"
+        }
+      ],
+      "duration_ms": 248589,
+      "name": "Mollie",
+      "url": "https://open.spotify.com/track/5x5lIcQUrZxiWp2nbZij6U"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Ally",
+        "url": "https://open.spotify.com/album/4RgvMvkalFTKk6kHt9RWLn"
+      },
+      "artists": [
+        {
+          "name": "isobel",
+          "url": "https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx"
+        }
+      ],
+      "duration_ms": 150893,
+      "name": "Ally",
+      "url": "https://open.spotify.com/track/5oXOmATQCSEUsSXvTJQL5q"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Strangest Feeling",
+        "url": "https://open.spotify.com/album/44zbW7zV0l7NdDxNuNYm44"
+      },
+      "artists": [
+        {
+          "name": "Bonniesongs",
+          "url": "https://open.spotify.com/artist/4l0pF7b69t1iGNbwfFZOKd"
+        }
+      ],
+      "duration_ms": 335300,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/38zziSlxEPY3LCeJNANB3v"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Cellophane",
+        "url": "https://open.spotify.com/album/4p0prNHJ5JXA5yxqJ4KWvF"
+      },
+      "artists": [
+        {
+          "name": "Alice Ruby",
+          "url": "https://open.spotify.com/artist/6ludlcGmna0R3dqg12fyJc"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Cellophane",
+      "url": "https://open.spotify.com/track/386yIHsOaCUWLlk7bzAxZH"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Can't Thank You Enough",
+        "url": "https://open.spotify.com/album/68H4VJRurcGNKin36Zt4Qg"
+      },
+      "artists": [
+        {
+          "name": "Creative Writing",
+          "url": "https://open.spotify.com/artist/4Sfo6fx6HtWfbdroFZHiXz"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Can't Thank You Enough",
+      "url": "https://open.spotify.com/track/7E48Io3GNay3N7PpFO7cQP"
+    },
+    {
+      "added_at": "2025-07-02 04:00:05",
+      "album": {
+        "name": "By Clairvoyance",
+        "url": "https://open.spotify.com/album/3lalFrJg1073NbOJ8aJimn"
+      },
+      "artists": [
+        {
+          "name": "Polami Roko",
+          "url": "https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr"
+        }
+      ],
+      "duration_ms": 142283,
+      "name": "Data Definition Language",
+      "url": "https://open.spotify.com/track/79pr1NNrH2hAZLyzP5cHhw"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/2NsKr5bTbQ86j4KoQoyQUI"
+      },
+      "artists": [
+        {
+          "name": "Pulgas",
+          "url": "https://open.spotify.com/artist/678eTDE8mK7hPHlKEYdpl3"
+        }
+      ],
+      "duration_ms": 227861,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0vVu527GhV5ErchJY0luWN"
     },
     {
       "added_at": "2025-07-23 16:00:16",
@@ -57,22 +297,6 @@
       "url": "https://open.spotify.com/track/4kR1H437UieRbDAcz2s8IP"
     },
     {
-      "added_at": "2025-07-02 04:00:05",
-      "album": {
-        "name": "By Clairvoyance",
-        "url": "https://open.spotify.com/album/3lalFrJg1073NbOJ8aJimn"
-      },
-      "artists": [
-        {
-          "name": "Polami Roko",
-          "url": "https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr"
-        }
-      ],
-      "duration_ms": 142283,
-      "name": "Data Definition Language",
-      "url": "https://open.spotify.com/track/79pr1NNrH2hAZLyzP5cHhw"
-    },
-    {
       "added_at": "2025-07-23 16:00:16",
       "album": {
         "name": "Call U Back",
@@ -87,6 +311,70 @@
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Strange Romance",
+        "url": "https://open.spotify.com/album/5SkwK5kfVl8L1M1fj1gEZl"
+      },
+      "artists": [
+        {
+          "name": "Selve",
+          "url": "https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL"
+        }
+      ],
+      "duration_ms": 191597,
+      "name": "Strange Romance",
+      "url": "https://open.spotify.com/track/11immKCgPMjtsHmRUvfC71"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Misfire",
+        "url": "https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Misfire",
+      "url": "https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/0AofK57NoJ2R9BJDKUFRld"
+      },
+      "artists": [
+        {
+          "name": "Blankenberge",
+          "url": "https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm"
+        }
+      ],
+      "duration_ms": 251557,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0oPtxhUmQ2VzBqI1w258j8"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Bronco Buster",
+        "url": "https://open.spotify.com/album/1OQpstD7dSG1Vvf6eRnanE"
+      },
+      "artists": [
+        {
+          "name": "Whitmer Thomas",
+          "url": "https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1"
+        }
+      ],
+      "duration_ms": 147009,
+      "name": "Bronco Buster",
+      "url": "https://open.spotify.com/track/3yHzzbIjPrpwfNQZt4OMm2"
     },
     {
       "added_at": "2025-07-16 16:00:05",

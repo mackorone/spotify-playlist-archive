@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,777 likes - 195 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,846 likes - 195 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 194 | [Chazzed](https://open.spotify.com/track/2h8saMMTJWqD01ZKzkLqdi) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Longings](https://open.spotify.com/album/304bggytiHFgGxQr93ftkm) | 2:17 |
 | 195 | [Feelin' 2D](https://open.spotify.com/track/0MPqiieMX7ou7Kk8p2FPpi) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Feelin' 2D](https://open.spotify.com/album/5nNhJ58mzIEmukHfubpwX2) | 2:20 |
 
-Snapshot ID: `aIw71QAAAAA4FNuq4e3PEVQeLT1H5Kmp`
+Snapshot ID: `AAAAAPVnJQ7vQRJE/SNGvyw52UzTeNZM`

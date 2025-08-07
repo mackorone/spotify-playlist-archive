@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 
 > Топ українських поп пісень у 2024 році\. Обкладинка: KOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,991 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,002 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 | 49 | [Поряд](https://open.spotify.com/track/5nAMYW4HpNqENqjuQdCIDY) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [Поряд](https://open.spotify.com/album/4FaDAYJif3eUWZDoP0nHcB) | 2:38 |
 | 50 | [Два перстені](https://open.spotify.com/track/42qGXPilFIyMysGv9eJ6PP) | [Pianoboy](https://open.spotify.com/artist/1ppxFH3BBfEBFTAo4sj7KJ) | [Re: Yaremchuk](https://open.spotify.com/album/5ARaGhcf7Onbb6HMdEqzAh) | 2:57 |
 
-Snapshot ID: `Z1BHxAAAAADeqv+NHU+tBfjO6cnxm9b+`
+Snapshot ID: `AAAAANhCb6pmOAGvwj2fVGeewndsMmZq`

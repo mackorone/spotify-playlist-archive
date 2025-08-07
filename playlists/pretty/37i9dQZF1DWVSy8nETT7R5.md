@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSy8nETT7R5.md) - [plain]
 
 > Listen to the soundtracks of Resident Playbook\. \(언젠가는 슬기로울 전공의 생활의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,779 likes - 32 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,781 likes - 32 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSy8nETT7R5.md) - [plain]
 | 31 | [After Party](https://open.spotify.com/track/23tKQpnDJLCiVXmxzXEUJ9) | [Cbarrgs](https://open.spotify.com/artist/4qRI7BqjuKH3ulYQrEYnLa), [urbanation](https://open.spotify.com/artist/3zTaD5i9DS26yJ1mdCFOGO) | [Let Me Know \- EP](https://open.spotify.com/album/3wDkPuDlhkfWWe5HLhWOeZ) | 2:52 |
 | 32 | [Last Dance](https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:26 |
 
-Snapshot ID: `aC/kuwAAAAAHLBKf6vgWaQQifmfB+c4a`
+Snapshot ID: `AAAAAML6HLog1h6mhx6YGRMDzkDwkXeG`

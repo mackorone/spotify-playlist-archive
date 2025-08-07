@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un'estate non proprio felice \(naska in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,062 likes - 115 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,060 likes - 115 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 114 | [Luce del sole](https://open.spotify.com/track/1QenuCKa0kiEc7JqxeP3G1) | [Hoomor](https://open.spotify.com/artist/4cNN5QXGRFL9VBGGpO85O8) | [Luce del sole](https://open.spotify.com/album/6Cp7BJoyy2OzhxLuUuPS12) | 3:05 |
 | 115 | [DOVREI PENSARTI DI MENO](https://open.spotify.com/track/3tTD1nKTy076dyk3TmKXsF) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Dnvr](https://open.spotify.com/artist/1n0CqqaVfCYalfX1VOr940), [Millennial](https://open.spotify.com/artist/6IeiG3dUTyqpU20rwTMinL) | [DOVREI PENSARTI DI MENO](https://open.spotify.com/album/34xh9DBDRrco9CxKAMQlo5) | 2:32 |
 
-Snapshot ID: `aIvnrAAAAACA/cAHrjNVoG4f6o5ptp5e`
+Snapshot ID: `AAAAAJ4jQLAIQ26TRpORD7AsbW+Ai+me`

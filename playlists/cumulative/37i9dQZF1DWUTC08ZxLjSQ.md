@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-437 songs - 23 hr 17 min
+439 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Ahla Fatra](https://open.spotify.com/track/3B7k93zvmcv1Hpp12mp8i7) | [Tiara](https://open.spotify.com/artist/309yiZvAiPiOfeVlP6xtzV) | [Ahla Fatra](https://open.spotify.com/album/7eskDINZek9yKt5pwJlPq0) | 2:58 | 2025-07-15 |  |
 | [Ahlam](https://open.spotify.com/track/46xNCDOr1yFxZTziG3jpnR) | [Maryam Turkey](https://open.spotify.com/artist/6ozaRZ7avFAylAHplxjKMz) | [Ahlam](https://open.spotify.com/album/0IdAijBo8fni2idQ5IrWVB) | 4:00 | 2024-11-06 | 2025-05-29 |
 | [AISHA](https://open.spotify.com/track/2lOUDx7ExAuaxGYozG2wIv) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [AISHA](https://open.spotify.com/album/5v4XC2R8vRSPhJsfOhUQZk) | 2:52 | 2023-08-01 | 2023-09-13 |
-| [Akher el tare2](https://open.spotify.com/track/6tDFnR8ild5koi5iJjYFUE) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [Akher el tare2](https://open.spotify.com/album/50hMtiBEFfIhPcsJ7LCps7) | 1:30 | 2024-11-26 |  |
+| [Akher el tare2](https://open.spotify.com/track/6tDFnR8ild5koi5iJjYFUE) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [Akher el tare2](https://open.spotify.com/album/50hMtiBEFfIhPcsJ7LCps7) | 1:30 | 2024-11-26 | 2025-08-07 |
 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 | 2025-02-10 |  |
 | [al qamar wa ana \- القمر وأنا](https://open.spotify.com/track/7IBgneXOSQVaWPBMejtHbd) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [najoom \- نجوم](https://open.spotify.com/album/7eyDLB0KpI8AorehIWg1Oa) | 4:02 | 2024-11-06 | 2025-06-18 |
 | [Ala Wain](https://open.spotify.com/track/5VKc8PPiqkei1pIsBYTCTs) | [Majaz](https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H) | [Ala Wain](https://open.spotify.com/album/4WUgYuFGOsueuMDqjVnbxi) | 3:37 | 2024-04-30 | 2024-08-14 |
@@ -312,6 +312,7 @@
 | [Quick Flex](https://open.spotify.com/track/4Xsgdr7McooFSUUGoYvU9g) | [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D), [Gra](https://open.spotify.com/artist/4QFDQS3cWdDXIZRaXFvW5B), [Chasey the Illest](https://open.spotify.com/artist/42kTgzgcQLKru8mxK04VLa) | [Quick Flex](https://open.spotify.com/album/3I5pQO3UYPpQZO3xrRox9e) | 3:52 | 2024-02-20 | 2024-07-10 |
 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 | 2023-05-09 | 2023-07-19 |
 | [Rather Try](https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Rather Try](https://open.spotify.com/album/14CEaWYYQN7bEqnYu21syi) | 2:37 | 2023-08-01 | 2024-05-01 |
+| [RAW.](https://open.spotify.com/track/1HCVrcQcxDf7zBdviW0GuH) | [LOCO.](https://open.spotify.com/artist/68vnFjXn3omf0eIRqqfUED), [Lordie the Goat](https://open.spotify.com/artist/3gIR2RoLWyl8mbV1b3U8YK) | [SUPERLOCO 2](https://open.spotify.com/album/5L3eW3AySJvXIcNeB75IAb) | 2:48 | 2025-08-06 |  |
 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 | 2023-05-17 | 2024-01-17 |
 | [Report to me](https://open.spotify.com/track/4syYPLHQ9VwcEAu3BKIx2v) | [FIGŪREZ](https://open.spotify.com/artist/5Yz17zWo8Kqau4oOkiiQD8), [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [Report to me](https://open.spotify.com/album/4MlUIh6YfD4E9mzd7K6ahh) | 1:54 | 2023-07-05 | 2023-09-07 |
 | [Revenge](https://open.spotify.com/track/5uuCn3kSNvbog2DKc8m9En) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Revenge](https://open.spotify.com/album/2hNO1BNJazh2NcggpWr5yg) | 2:53 | 2025-02-10 |  |
@@ -322,7 +323,7 @@
 | [Sana](https://open.spotify.com/track/3tGvGTzLKSj4gritfFAYYh) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Sana](https://open.spotify.com/album/4OY6ClZ57h5wcMsMW5AP0x) | 2:49 | 2024-01-16 | 2024-06-27 |
 | [SAR LAZM HA2OM](https://open.spotify.com/track/0WrQGw9hRfKIrod78ba5IG) | [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy) | [FSH TRBAY](https://open.spotify.com/album/4g8juDbXKtUVbei8qxK07z) | 1:23 | 2024-09-11 | 2025-02-11 |
 | [Sawt El Aleb](https://open.spotify.com/track/5RMIlXSlKaQn4v4KLLO68Z) | [Lamar Mireb](https://open.spotify.com/artist/2obL3K3NMz5yFYcqdU2A5Z) | [Sawt El Aleb](https://open.spotify.com/album/65uxLg1sz6E9ZIomWT5auS) | 3:48 | 2023-05-24 | 2024-01-17 |
-| [Scandalous](https://open.spotify.com/track/5BummJzZBmXNJuBhXKczxB) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp), [Salim B](https://open.spotify.com/artist/3tFLmb0PpdE1gcx5yC8r2A) | [Scandalous](https://open.spotify.com/album/2IiMPuz9nT42E9MC7rEoyj) | 2:49 | 2024-11-26 |  |
+| [Scandalous](https://open.spotify.com/track/5BummJzZBmXNJuBhXKczxB) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp), [Salim B](https://open.spotify.com/artist/3tFLmb0PpdE1gcx5yC8r2A) | [Scandalous](https://open.spotify.com/album/2IiMPuz9nT42E9MC7rEoyj) | 2:49 | 2024-11-26 | 2025-08-07 |
 | [Scorsese](https://open.spotify.com/track/750DwBev1112r16elo8Mom) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Scorsese](https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla) | 3:10 | 2023-05-02 | 2023-09-07 |
 | [Seboni Nayem](https://open.spotify.com/track/309PcbE6Ve1UiPmtrhqoeq) | [ZOHUD](https://open.spotify.com/artist/0HR4ZnnXwIRjOMYz0UP68D) | [Seboni Nayem](https://open.spotify.com/album/5S5Sm9rWMVLgtghPbTuwKQ) | 3:25 | 2023-07-05 | 2024-02-21 |
 | [Self Love ///](https://open.spotify.com/track/5sUuqMLhZA7TzoqyVCaz5h) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Self Love ///](https://open.spotify.com/album/2qbhjnZgeJGJavfiqhDNnE) | 2:20 | 2022-09-20 | 2022-09-28 |
@@ -415,6 +416,7 @@
 | [ça ira mieux](https://open.spotify.com/track/0S6Aanrei1yPQ2cOadDg9E) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [ça ira mieux](https://open.spotify.com/album/3xKmJfhleJoPmardRq4bWq) | 2:04 | 2024-06-26 | 2024-09-12 |
 | [ادي الايام](https://open.spotify.com/track/0LfqSLdayU8s012yBYILY5) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [ادي الايام](https://open.spotify.com/album/6otvAKsCYxckhbe3bHJWpa) | 3:19 | 2025-06-22 | 2025-06-25 |
 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 | 2024-01-16 | 2024-06-27 |
+| [القناع \(THE MASK\)](https://open.spotify.com/track/5mMP2k6GgsnRchvZM0jfDj) | [Al9ine](https://open.spotify.com/artist/0La66xyJsTyYMmXvh4ZW2o) | [القناع \(THE MASK\)](https://open.spotify.com/album/40H4BmmB4isI4Ow5FfEA02) | 2:25 | 2025-08-06 |  |
 | [الورود](https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [الورود](https://open.spotify.com/album/5lHlJTXmNbWAnk8D9kqDgO) | 2:22 | 2023-03-01 | 2023-03-14 |
 | [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 | 2023-03-07 | 2023-03-15 |
 | [انا بعيد](https://open.spotify.com/track/7MaHcIjcqR7lGxmZDXAhDO) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [انا بعيد](https://open.spotify.com/album/4THTNtqBn0ux8S5GBBTDLg) | 3:34 | 2023-03-07 | 2023-05-24 |

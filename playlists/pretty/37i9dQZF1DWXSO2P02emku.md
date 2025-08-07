@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > qué me importan las noches de junio, la luna de octubre o cualquier primavera x Código FN
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,641 likes - 37 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,628 likes - 37 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 36 | [AfroLOVA'](https://open.spotify.com/track/6Pw74Nz0wZvGQIu3ccRUeX) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 23'](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:20 |
 | 37 | [El Malo](https://open.spotify.com/track/3QP2OWRHJigUelVT6BPbeB) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Corridos En Código](https://open.spotify.com/album/1FIGxgFVretC2yAZ1pHKWO) | 3:49 |
 
-Snapshot ID: `aFSkggAAAAA1fbgbvsoIWWl0oxLQf//y`
+Snapshot ID: `AAAAABA/HZ0fOMwbXidlWX4iE3JtueIM`

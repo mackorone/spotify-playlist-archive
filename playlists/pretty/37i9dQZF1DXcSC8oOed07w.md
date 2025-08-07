@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 
 > Editor's picks:  The best R&B songs of 2024\.  Cover: Muni Long, Bryson Tiller, and Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,919 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,922 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 | 74 | [Free Fallin'](https://open.spotify.com/track/4hmmx1yd7U5LKmU8jkrzuV) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Free Fallin'](https://open.spotify.com/album/3JQ4zns5D1DTCoAgmjjweC) | 2:17 |
 | 75 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 |
 
-Snapshot ID: `Z1CLtwAAAACHv1oFf2JRgwqlYmmZ070V`
+Snapshot ID: `AAAAAMWi1xnFQW9kEWGG1QcPZkWEGVWz`

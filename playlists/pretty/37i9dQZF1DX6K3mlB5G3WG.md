@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Rauw Alejandro e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,709 likes - 126 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,703 likes - 126 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 125 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
 | 126 | [Tell The Truth](https://open.spotify.com/track/5CXimT3KUlqOdFYMiKiJCW) | [ALPHA](https://open.spotify.com/artist/3AZijE39lhD56DGWziVtQG), [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Tell The Truth](https://open.spotify.com/album/5NLc5qJy20jrAUzHn4x9us) | 3:38 |
 
-Snapshot ID: `aIwD5QAAAADwjKbEtjQ72YucKyO18wm2`
+Snapshot ID: `AAAAANiojtNFjK7TRlaN6X4PBL9Um/i3`

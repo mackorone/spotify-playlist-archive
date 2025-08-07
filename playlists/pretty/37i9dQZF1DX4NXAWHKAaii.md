@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,237 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,252 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 | 49 | [Mtna \- Caiiro Remix](https://open.spotify.com/track/3EzoA0Df1lWtUfH3oQSmO1) | [Juan Soul](https://open.spotify.com/artist/1x2NSv0cluaH397VPX0Pfz), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Mtna EP](https://open.spotify.com/album/0s1BUEvb0ox4v0e2GCEd8H) | 7:07 |
 | 50 | [Tropicana](https://open.spotify.com/track/157jn2YkxNcPZcG2dZZJz8) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana](https://open.spotify.com/album/3AJMgWuKwAUHvG0eJpaWDC) | 3:51 |
 
-Snapshot ID: `Z240ewAAAAAFUGcNfnM+FmtoIBhBiiC4`
+Snapshot ID: `AAAAAFKjpCugYCuGy6FySftUleuO6zrs`

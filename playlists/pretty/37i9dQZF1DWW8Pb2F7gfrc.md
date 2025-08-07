@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 
 > Enjoy the Asian Pop Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 아시안 팝 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,371 likes - 432 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,372 likes - 432 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,9 +157,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 147 | [Semua Orang Pernah Sakit Hati](https://open.spotify.com/track/0lAwrV80YlQCGeqPtMIQjB) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Selamat Datang di Ujung Dunia](https://open.spotify.com/album/1I30JEs4UfRnYz0pzkKJpg) | 3:20 |
 | 148 | [狂った手](https://open.spotify.com/track/6ryvo7tqUKz010Iy4ISVWv) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Sway](https://open.spotify.com/album/1JNUJFzL4rVRcCD9EhezeH) | 3:18 |
 | 149 | [蓋なしの彼](https://open.spotify.com/track/7MzKmI0Ep4dFRfTeQ9RtpZ) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Sway](https://open.spotify.com/album/1JNUJFzL4rVRcCD9EhezeH) | 3:50 |
-| 150 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 |
+| 150 | [ゲームオーバー \- Single Version](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 |
 | 151 | [群れになって](https://open.spotify.com/track/1GI920rk6zTNABuARvUn0z) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Ampersands](https://open.spotify.com/album/7MEXEZjjGIXTLRul5JEA4x) | 4:15 |
-| 152 | [まだ早い果物](https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [まだ早い果物](https://open.spotify.com/album/20nMIY4kVjmrehAzij4ed0) | 4:49 |
+| 152 | [まだ早い果物 \- Single Version](https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [まだ早い果物](https://open.spotify.com/album/20nMIY4kVjmrehAzij4ed0) | 4:49 |
 | 153 | [不確か](https://open.spotify.com/track/0ZTqtT7h4SnLUg291iojC4) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Ampersands](https://open.spotify.com/album/7MEXEZjjGIXTLRul5JEA4x) | 5:25 |
 | 154 | [昼間から夜](https://open.spotify.com/track/1x5HafUXAfDRxBEWkI1Fhh) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Ampersands](https://open.spotify.com/album/7MEXEZjjGIXTLRul5JEA4x) | 4:07 |
 | 155 | [Paranoia](https://open.spotify.com/track/1AYw31TCs2ETj0FjuKMpP4) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [満ち汐のロマンス](https://open.spotify.com/album/1TSaZBuIEjztbe7ZYpd40s) | 4:41 |
@@ -441,4 +441,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 431 | [GAE PAHN](https://open.spotify.com/track/0O3DRtT2OQDERbqe0mKj7i) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [BUSAN](https://open.spotify.com/album/4Nof0eZ0r9LU06CjVPuV51) | 2:46 |
 | 432 | [Oh Jick Jick Jin](https://open.spotify.com/track/5gjQwmysVWfKvhRMtuqfQT) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [Oh Jick Jick Jin](https://open.spotify.com/album/2MnzsNb3NyyixTG4ZtifqG) | 3:00 |
 
-Snapshot ID: `aGs4OwAAAACSyrru3uGVyP/6LAU5iMnf`
+Snapshot ID: `AAAAAFyLAO2iTlQVsGGAQ64ijCEYB4Xe`

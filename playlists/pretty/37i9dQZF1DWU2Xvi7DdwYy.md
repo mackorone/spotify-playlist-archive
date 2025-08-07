@@ -14,4 +14,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2Xvi7DdwYy.md) - [plain]
 | 4 | [Breaking Through Bubbles with Marisa Franco](https://open.spotify.com/episode/3k8meEfRHakVxvArgl3YdY) | [Sunstorm with Alicia Garza & Ai\-jen Poo](https://open.spotify.com/show/3ficXmbxwUAvq3CEcBgLKo) | [Sunstorm with Alicia Garza & Ai\-jen Poo](https://open.spotify.com/album/3ficXmbxwUAvq3CEcBgLKo) | 23:50 |
 | 5 | [Ep\. 63: Warren 'Oak' Felder](https://open.spotify.com/episode/2IdBK4yP3SBA2Ut0pu1qjW) | [And The Writer Is...with Ross Golan](https://open.spotify.com/show/26gzyiPD2ix1VaO1fHDKCk) | [And The Writer Is...with Ross Golan](https://open.spotify.com/album/26gzyiPD2ix1VaO1fHDKCk) | 1:01:49 |
 
-Snapshot ID: `ZIxUYwAAAAD7mV3hyZH394RbkiBwu/e0`
+Snapshot ID: `AAAAAJM/YjyLC9cit/UU0mHzp/ISp7of`

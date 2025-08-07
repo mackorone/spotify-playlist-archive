@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-403 songs - 18 hr 6 min
+404 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 | 2022-05-13 | 2024-04-06 |
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 | 2023-06-23 |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-05-13 | 2024-04-20 |
+| [Fireflies](https://open.spotify.com/track/2D5hOoRVyJ4xH0RIgA1zdV) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Fireflies](https://open.spotify.com/album/76DkXVXBRZytK2M86SMOSe) | 2:25 | 2025-08-06 |  |
 | [Fireside Advice](https://open.spotify.com/track/7iTdFFyKwyyXilahbjI7y2) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Fireside Advice](https://open.spotify.com/album/27H173Ifhecw83QcLkdreV) | 3:03 | 2022-05-13 | 2024-12-18 |
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-05-13 | 2024-04-06 |
 | [Forgotten Promises](https://open.spotify.com/track/0w0RedAq8WsbthP2BLFJkr) | [Giacomo Manaia](https://open.spotify.com/artist/4t76e9ebvylDIUTLrXriVk) | [Forgotten Promises](https://open.spotify.com/album/2CUNI5DLIIFEzugW8zqQcY) | 3:09 | 2022-05-13 | 2023-03-31 |

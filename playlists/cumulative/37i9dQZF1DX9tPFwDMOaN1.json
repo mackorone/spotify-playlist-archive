@@ -2493,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "DANCING ALONE",
+        "url": "https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198876,
+      "name": "DANCING ALONE",
+      "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/6ufSIMU4eAQjkI37l8ecoO"
       },
@@ -9102,7 +9120,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 167000,
       "name": "Ridin\u2032 (Prod. THE HUB)",
       "url": "https://open.spotify.com/track/4bGMm3NwFM8q8YC3Y6VLOE"

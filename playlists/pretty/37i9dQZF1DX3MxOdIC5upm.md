@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MxOdIC5upm.md) - [plain]
 
 > Welcome to "high" society\. Listen to the music from Guy Ritchie's The Gentlemen, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,880 likes - 23 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,888 likes - 23 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MxOdIC5upm.md) - [plain]
 | 22 | [I Won't Let You Down](https://open.spotify.com/track/7AlJWH45s6NgsfgsKxWOIM) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 4:04 |
 | 23 | [Count Your Blessings](https://open.spotify.com/track/4MhiJksUFBPCFZ1CgnOmV0) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Mattiel](https://open.spotify.com/album/3CnqFKF88ev5INXzVEYmlE) | 3:16 |
 
-Snapshot ID: `Zel0AAAAAABerisdjrycE6BcYq0V3jFD`
+Snapshot ID: `AAAAALr0ouyYssiPENy26AliRDNXyWBv`

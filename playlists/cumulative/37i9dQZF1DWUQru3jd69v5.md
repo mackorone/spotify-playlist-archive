@@ -4,7 +4,7 @@
 
 > 22simba in cover della playlist con il futuro del rap italiano 📈
 
-1,957 songs - 3 day 11 hr 12 min
+1,959 songs - 3 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [ATE \- Why Do You Hate?](https://open.spotify.com/track/53bHvb5mbJe4NfMSmGlG6o) | [Doll Kill](https://open.spotify.com/artist/0JOadOTQ5hTC6EYCmKDAsX) | [ATE \(Why Do You Hate?\)](https://open.spotify.com/album/6cFCVOqNc9JcpB4lf0NiF8) | 1:57 | 2025-07-03 | 2025-07-18 |
 | [Attimi](https://open.spotify.com/track/5oZ1UQqXAFsvUgYNQGs2I8) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [Attimi](https://open.spotify.com/album/6m8vAIVU1BttTt6e09Vrax) | 1:57 | 2024-02-22 | 2024-03-08 |
 | [ATTIMO](https://open.spotify.com/track/01nHhpyMvqwrOaObKtGwRz) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [ATTIMO](https://open.spotify.com/album/0nlhPomopFpYGyEkUUzjNj) | 2:46 | 2023-10-26 | 2023-11-17 |
+| [Audemars](https://open.spotify.com/track/2NUOdmLPgHzpUrRJAm7K5s) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [Audemars](https://open.spotify.com/album/4CUHtEsTCmXgG0Y3k9oBmA) | 2:24 | 2025-08-06 |  |
 | [AVEVO RAGIONE](https://open.spotify.com/track/1iGgK8BRLotvfNETSl1B9r) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [AVEVO RAGIONE](https://open.spotify.com/album/5BNk4uyD6UL0d7ex2OeZHo) | 2:51 | 2024-04-18 | 2024-05-24 |
 | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp) | 2:19 | 2024-08-01 | 2024-11-29 |
 | [AWE](https://open.spotify.com/track/4TLyvOHhzatoBhpvZocUBB) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [AWE](https://open.spotify.com/album/1bYzrn7FHLLh20WTatmTzm) | 2:18 | 2022-06-23 | 2022-07-15 |
@@ -404,6 +405,7 @@
 | [COCCO \(feat\. Touchè, 8blevrai\)](https://open.spotify.com/track/0dal7CKBaE8gFFKAz5OpKj) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 3:15 | 2022-12-15 | 2023-04-07 |
 | [COCO \(feat\. Frezza\)](https://open.spotify.com/track/0Ii2R9SawfnxkhNtUI5d7s) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [COCO \(feat\. Frezza\)](https://open.spotify.com/album/6cFTdq80CJtMxJSoXm760u) | 2:49 | 2024-07-11 | 2024-09-27 |
 | [COCOCHANEL](https://open.spotify.com/track/6wDwxm0gHrcyCWvJ3Fb4WQ) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Wairaki](https://open.spotify.com/artist/7IB3VckCEheDZlvQxCDLvr) | [COCOCHANEL](https://open.spotify.com/album/5UeF1dnrz8PClXmAzD7KE4) | 2:56 | 2022-06-09 | 2022-07-16 |
+| [Cognac](https://open.spotify.com/track/67Q1q8qimE7qPaGehMqih8) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S) | [Cognac](https://open.spotify.com/album/5nCMpBVzwTqBa3oRt4JZee) | 2:12 | 2025-08-06 |  |
 | [COLLANE](https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [COLLANE](https://open.spotify.com/album/1P8Xp6rAlMzJGYGhdNKzjl) | 2:33 | 2023-02-02 | 2023-03-16 |
 | [Collane d'odio](https://open.spotify.com/track/6Fs35Gxkip6FfkHbEQSdoF) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Collane d'odio](https://open.spotify.com/album/4pmc5Yx8IR0IHiFbp2o7UR) | 2:30 | 2023-04-06 | 2023-04-21 |
 | [Colpa Mia](https://open.spotify.com/track/1O9UvXAnPwFXSccCqB9K2R) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Colpa Mia](https://open.spotify.com/album/14hWXI41p18S5cmcOwMPHM) | 2:10 | 2025-04-17 | 2025-05-16 |
@@ -1130,7 +1132,7 @@
 | [MOISE KEAN](https://open.spotify.com/track/38NU5s6KSn5lUfnh8QUpyn) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/4i3XpfOVIsVyI5ANiyiKRR) | 3:15 | 2025-05-27 | 2025-06-17 |
 | [Molly](https://open.spotify.com/track/1oHPxuDHRpBrtVrVyrHAQ4) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Molly](https://open.spotify.com/album/71U89HHqx5ETCYvi4kKPcl) | 2:19 | 2024-06-06 | 2024-06-21 |
 | [MOLLY ROSA](https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [WE 2FLY](https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2) | 2:19 | 2024-08-01 | 2024-10-25 |
-| [MOMO DESIGN](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 | 2025-07-24 |  |
+| [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN \(feat\. Im Envy\)](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 | 2025-07-24 |  |
 | [MON AMI](https://open.spotify.com/track/41MriyKRwP0eMriWsmId52) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MON AMI](https://open.spotify.com/album/1NYxqkXQJULTM3qSMkwHyh) | 2:22 | 2024-10-24 | 2024-11-15 |
 | [MON BAE](https://open.spotify.com/track/4iFdrfGByFjbdUqgnvKcDd) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif) | [MON BAE](https://open.spotify.com/album/2SQBkwQaZhYLrYNZ1onKZn) | 2:35 | 2024-04-18 | 2024-05-24 |
 | [Mon Papa](https://open.spotify.com/track/04xS99ysaLVID7GRAmo1bp) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Mon Papa](https://open.spotify.com/album/6O4dj0wb0pjJirm5hd6Xbu) | 2:13 | 2023-07-06 | 2023-07-28 |

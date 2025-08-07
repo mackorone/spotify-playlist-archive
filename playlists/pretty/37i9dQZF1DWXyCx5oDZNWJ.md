@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,284 likes - 40 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,281 likes - 40 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 39 | [Good Hood](https://open.spotify.com/track/0QuXAWW6ZUWzjLSo4agkzM) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI), [Jhojho](https://open.spotify.com/artist/17a3EtrBd0MdaZ609KMIHR) | [Good Hood EP](https://open.spotify.com/album/0tS33xVQ4ksAesy4wvhukw) | 3:28 |
 | 40 | [I Remember You A Dancer](https://open.spotify.com/track/1elDxfWBV5ETXElujTfK2H) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [I Remember You A Dancer](https://open.spotify.com/album/2eSeWJYlji0aOZF0zXjnpw) | 4:00 |
 
-Snapshot ID: `aBS5lQAAAAAmMDc45qWjm705GpXBhQYW`
+Snapshot ID: `AAAAAAKplI+FtvwJCP/q9+smdhB0Iu/C`

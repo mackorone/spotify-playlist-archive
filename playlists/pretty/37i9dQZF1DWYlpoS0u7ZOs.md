@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: BEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,365 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,366 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 84 | [Figure It Out](https://open.spotify.com/track/3wf1Y5esLh48E0QOwaPp8j) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Figure It Out](https://open.spotify.com/album/12ZKL2ZNMtNyqwGBDSLony) | 2:51 |
 | 85 | [Infinity Peaking](https://open.spotify.com/track/7KqCRSIvcQoVI37ZRzaZqm) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Infinity Peaking](https://open.spotify.com/album/0YabSp9pMWmiGywTKXtQDK) | 5:41 |
 
-Snapshot ID: `aELVJwAAAAAUipHMnf/fDpqACQyZGPZI`
+Snapshot ID: `AAAAALIX9hLYrYBvKvTTIg4os1eXoyij`

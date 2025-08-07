@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzxICEYRu0h.md) - [plain]
 | 17 | [Charlita de: HOST, ¿la película más aterradora de todos los tiempos?](https://open.spotify.com/episode/5vjLvquPTaoPvfYJuLStVu) | [Sin Permiso](https://open.spotify.com/show/0dHa3E4qx7kG3gdAmYYHPn) | [Sin Permiso](https://open.spotify.com/album/0dHa3E4qx7kG3gdAmYYHPn) | 16:04 |
 | 18 | [86.\- El Diablo](https://open.spotify.com/episode/0XAmPTdkHOWgRD0xPpuNyz) | [Creepychantas](https://open.spotify.com/show/2F9BKTn4tXzOlia9EHWv6D) | [Creepychantas](https://open.spotify.com/album/2F9BKTn4tXzOlia9EHWv6D) | 1:44:07 |
 
-Snapshot ID: `ZIsSigAAAACa1gsPprfjoZM4KZniYGb1`
+Snapshot ID: `AAAAAHDFU/zDCZNnCEe+lHhp34iZx/i3`

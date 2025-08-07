@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,041 songs - 2 day 10 hr 24 min
+1,042 songs - 2 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Money](https://open.spotify.com/track/7MorE45c2IBxEgksN84Fl2) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Money](https://open.spotify.com/album/2II1KH1QTYVhSLdfubOaVV) | 3:07 | 2025-01-16 | 2025-04-11 |
 | [Money Moves](https://open.spotify.com/track/3suSF65zOkTbdxe4Rqq4fl) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [Clique / Money Moves](https://open.spotify.com/album/0e6cA2frdBLzNMXHqGRjvX) | 2:43 | 2023-11-01 | 2024-02-15 |
 | [Monster](https://open.spotify.com/track/1qhfJLtwPoXN34TbQJegeA) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Monster](https://open.spotify.com/album/4wfYav7zgRz4hZMqP1t2O0) | 3:04 | 2022-09-15 | 2022-11-12 |
+| [Moonlight](https://open.spotify.com/track/1aNNlMlJDjK6p1U5qZ3DMO) | [Rocketman](https://open.spotify.com/artist/4n3vlLgsdMv4OIoLhKU1CN) | [From a Certain Point of View](https://open.spotify.com/album/4Wik1trbWw1xr2E0sZVtH7) | 3:04 | 2025-08-06 |  |
 | [Moonstone](https://open.spotify.com/track/2QWxkFKhi9YUtrQmf9JHxU) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Moonstone](https://open.spotify.com/album/4kcRF7VJVx69pJXecrPDyi) | 3:20 | 2023-03-14 | 2023-06-08 |
 | [More Than This](https://open.spotify.com/track/7JKzCzNua4DT4lBMPrchUI) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [More Than This](https://open.spotify.com/album/0RrkXtaPZqAAJnU4fGZ4Y8) | 3:37 | 2023-01-06 | 2023-03-22 |
 | [More To Give \- VIP](https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Rise & Fall \(VIPs\)](https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx) | 3:03 | 2022-01-25 | 2022-04-05 |

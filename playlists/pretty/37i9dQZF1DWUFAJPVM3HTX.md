@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY?si=ViEr\_9SrQauIoyTiB9n2rQ"> Greek</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,903 likes - 410 songs - 20 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,961 likes - 410 songs - 20 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -419,4 +419,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 409 | [Let Me Grow](https://open.spotify.com/track/6mK6k4NlOD6res9zS4u0cp) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [Let Me Grow](https://open.spotify.com/album/14O5OciGC6vcuE6h17l3aC) | 3:35 |
 | 410 | [September](https://open.spotify.com/track/1OC7RsmwnawzA8tZpL5kFQ) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [September](https://open.spotify.com/album/3eFOUZZGqMdcVX4sPEFAih) | 4:04 |
 
-Snapshot ID: `aJJ3GgAAAADmT5rdHItEI98h+5UYluDO`
+Snapshot ID: `AAAAAE21y9O77Q/ThU83fZZDmveKCb8X`

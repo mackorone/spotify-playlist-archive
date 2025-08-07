@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Rezz
 
-844 songs - 1 day 21 hr 50 min
+845 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Fire Again \- Dabin Remix](https://open.spotify.com/track/6GJy7B0rZdy2PhWCp2jJpc) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Fire Again \(Dabin Remix\)](https://open.spotify.com/album/6VcgKd8N1eGmiaiWYi2rsf) | 3:10 | 2022-09-16 | 2022-10-08 |
 | [Fired Up \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/2mousixdXA889XtIUb2Qfh) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Fired Up \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/4CygDgkQ7CQ62hcjc9JohI) | 2:22 | 2024-08-30 | 2024-10-07 |
 | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd) | 3:57 | 2022-02-18 | 2022-07-23 |
-| [Flex](https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Flex](https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm) | 3:32 | 2025-02-28 |  |
+| [Flex](https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Flex](https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm) | 3:32 | 2025-02-28 | 2025-08-07 |
 | [Flexin](https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Flexin](https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn) | 2:15 | 2022-01-14 | 2022-04-16 |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-13 | 2024-03-09 |
 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 | 2024-03-08 |  |
@@ -835,6 +835,7 @@
 | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk) | 3:26 | 2023-05-19 | 2025-07-19 |
 | [Work That](https://open.spotify.com/track/1ZvhgcnGpISg32eK7JadSe) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Work That](https://open.spotify.com/album/1Lm3v0jBatwrndrI7vkV6F) | 2:24 | 2022-09-16 | 2022-12-17 |
 | [WTF](https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [House Call](https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA) | [WTF](https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E) | 2:18 | 2022-06-24 | 2022-09-24 |
+| [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 | 2025-08-01 |  |
 | [Wu Tang](https://open.spotify.com/track/5JB0vGxI5YFs0UW6N08VTS) | [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Wu Tang](https://open.spotify.com/album/3FJOODvRzwdFIic4XGSFzN) | 2:31 | 2024-03-29 | 2024-04-04 |
 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 | 2025-05-16 |  |
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2023-06-05 | 2024-04-14 |

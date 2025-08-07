@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,604 likes - 110 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,600 likes - 110 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 109 | [Antifaz](https://open.spotify.com/track/58sfWnDD2m6v9jj3Bfkrfx) | [Mike Amigorena](https://open.spotify.com/artist/5u3Tm9K02qnBGQ5QZjU2LA) | [El increíble cool](https://open.spotify.com/album/711mtlJlzuMoyMjU10JXpf) | 3:12 |
 | 110 | [Bórrame el Dolor ☆](https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6), [Supernova](https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq) | [Bórrame el Dolor ☆](https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW) | 3:43 |
 
-Snapshot ID: `aILzSwAAAACA9SNCTJtojWEm7X/2GAcS`
+Snapshot ID: `AAAAAJdcPcDq1Ihg47OVwiNqwePTPIel`

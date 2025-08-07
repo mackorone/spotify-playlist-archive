@@ -14,4 +14,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGquR9lelQD.md) - [plain]
 | 4 | [Starter Episode: Shame of Being Gay](https://open.spotify.com/episode/3BkiHk6FrGJJ2uOuDDhGwy) | [Unshaming](https://open.spotify.com/show/0tUihHXJLcYyyYxqP9UW2Z) | [Unshaming](https://open.spotify.com/album/0tUihHXJLcYyyYxqP9UW2Z) | 30:09 |
 | 5 | [Shame of Growing Up Low Income](https://open.spotify.com/episode/0zHVJL1WxICR6KphwatkZu) | [Unshaming](https://open.spotify.com/show/0tUihHXJLcYyyYxqP9UW2Z) | [Unshaming](https://open.spotify.com/album/0tUihHXJLcYyyYxqP9UW2Z) | 33:49 |
 
-Snapshot ID: `ZIxU1QAAAADvLXi4yz1kEy54NjQgRdO+`
+Snapshot ID: `AAAAAGXlSMQkCB5n/xu3HE718e8nwhKk`

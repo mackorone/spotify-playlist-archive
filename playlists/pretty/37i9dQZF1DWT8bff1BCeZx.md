@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,937 likes - 151 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,946 likes - 151 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 150 | [CHILD OF GOD](https://open.spotify.com/track/01kkDeb3etCfFzvf4AqoJq) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [CHILD OF GOD](https://open.spotify.com/album/4xR6DeIKUvnm0vtjxEq0Z7) | 2:31 |
 | 151 | [MUNGU](https://open.spotify.com/track/3lCAJvpiv7PB5F9SOwxA66) | [Mungu Feni](https://open.spotify.com/artist/06p4Cdi7MKjMEhHSEcHxVv), [Pastor Wilson Bugembe](https://open.spotify.com/artist/4AO9uBcZTJbn4EhaZlL8gX) | [MUNGU](https://open.spotify.com/album/4c1QdF27ng6rfdPmiTnw5y) | 3:14 |
 
-Snapshot ID: `aI4DKgAAAADmPiOwvvUxmWtYtjHvUHBb`
+Snapshot ID: `AAAAAD4hdCOmkfstOlqFaFY1LlU9nxj1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. Majo Rivas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,384 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,375 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [BBYOSEQESTASPENSANDO](https://open.spotify.com/track/3EvVWuqkOsSXR64SsIlyMu) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [BBYOSEQESTASPENSANDO](https://open.spotify.com/album/2zK3Lk2CBACz7s5U60cGJA) | 3:47 |
 | 50 | [visión ☆](https://open.spotify.com/track/2XEdYZ4ZZL0ceranFbYuoU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [visión ☆](https://open.spotify.com/album/48wKfW97OOSd6ZcfFbw3hB) | 3:14 |
 
-Snapshot ID: `aIO/WgAAAADjgJ7rEB150MxV0NUBZdKY`
+Snapshot ID: `AAAAAA0V3JCXrwt+gwVI1+voFfpWFABa`

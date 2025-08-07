@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Lydia Jazmine
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,390 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,408 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 65 | [Hear My Voice](https://open.spotify.com/track/7MLfFJqkurN7OCdzvrDg8o) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Hear My Voice](https://open.spotify.com/album/5delMUtBzP4fopPU2iwu49) | 2:31 |
 | 66 | [Dont Stop](https://open.spotify.com/track/4BrTG5dJHOFGEpANOGCI0V) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0), [King Toppa](https://open.spotify.com/artist/0R70tgeUv5WB6GWxAUawO3), [Reality Mad One](https://open.spotify.com/artist/6kAhgCLMecwu98Ab3NiFou) | [Dont Stop](https://open.spotify.com/album/1wdoRBNMnnn9M44KTWhylc) | 2:07 |
 
-Snapshot ID: `aIwD4QAAAABAWM+rsVgBUzCw+q5i9+BU`
+Snapshot ID: `AAAAAOzbgCgMlF8q5zLslQJihAXYjanu`

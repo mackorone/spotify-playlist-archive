@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 32182,
+  "num_followers": 32194,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIioHQAAAAAidy9157U5UoH+fBRoskLG",
+  "snapshot_id": "AAAAAONWNMVnsD6TwJGSD20ZB9+IsoOu",
   "tracks": [
     {
       "added_at": "2025-07-29 10:53:17",
@@ -311,18 +311,22 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
-        "name": "Angar Bhangar Nay Rr - Single",
-        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
+        "name": "Angaat Aalaya - Zombivli",
+        "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
       },
       "artists": [
         {
-          "name": "Madhur Milind Shinde",
-          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
+          "name": "Rohan Pradhan",
+          "url": "https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce"
+        },
+        {
+          "name": "Rohan Rohan",
+          "url": "https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE"
         }
       ],
-      "duration_ms": 217253,
-      "name": "Angaar Bhangar Nai Rr",
-      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
+      "duration_ms": 226008,
+      "name": "Angaat Aalaya",
+      "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
     },
     {
       "added_at": "2025-07-29 10:53:17",
@@ -347,22 +351,18 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
-        "name": "Angaat Aalaya - Zombivli",
-        "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
+        "name": "Angar Bhangar Nay Rr - Single",
+        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
       },
       "artists": [
         {
-          "name": "Rohan Pradhan",
-          "url": "https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce"
-        },
-        {
-          "name": "Rohan Rohan",
-          "url": "https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE"
+          "name": "Madhur Milind Shinde",
+          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
         }
       ],
-      "duration_ms": 226008,
-      "name": "Angaat Aalaya",
-      "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
+      "duration_ms": 217253,
+      "name": "Angaar Bhangar Nai Rr",
+      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
     },
     {
       "added_at": "2025-07-29 10:53:17",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
+        "name": "Chandramukhi",
+        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 315653,
+      "name": "Chandra (Featuring. Shreya Ghoshal)",
+      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
+    },
+    {
+      "added_at": "2025-07-29 10:53:17",
+      "album": {
         "name": "Meri Madhubala",
         "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
       },
@@ -679,26 +699,6 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
-        "name": "Chandramukhi",
-        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Chandra (Featuring. Shreya Ghoshal)",
-      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
-    },
-    {
-      "added_at": "2025-07-29 10:53:17",
-      "album": {
         "name": "Lagan",
         "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
       },
@@ -711,6 +711,30 @@
       "duration_ms": 246671,
       "name": "Payee Fufata",
       "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
+    },
+    {
+      "added_at": "2025-07-29 10:53:17",
+      "album": {
+        "name": "Maharashtra Shaheer",
+        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 223831,
+      "name": "Baharla Ha Madhumas",
+      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
     },
     {
       "added_at": "2025-07-29 10:53:17",
@@ -763,30 +787,6 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
-        "name": "Maharashtra Shaheer",
-        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 223831,
-      "name": "Baharla Ha Madhumas",
-      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
-    },
-    {
-      "added_at": "2025-07-29 10:53:17",
-      "album": {
         "name": "Ishkkachi Nauka - Single",
         "url": "https://open.spotify.com/album/5w0D78j35PmXTQeEqUfNXI"
       },
@@ -803,6 +803,34 @@
       "duration_ms": 245000,
       "name": "Ishkkachi Nauka",
       "url": "https://open.spotify.com/track/2m03aJi8s6pE0LIVtICt1o"
+    },
+    {
+      "added_at": "2025-07-29 10:53:17",
+      "album": {
+        "name": "Maharashtra Shaheer",
+        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Jayesh Khare",
+          "url": "https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U"
+        },
+        {
+          "name": "Mayur Sukale",
+          "url": "https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 304001,
+      "name": "Gau Nako Kisna",
+      "url": "https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M"
     },
     {
       "added_at": "2025-07-29 10:53:17",
@@ -847,26 +875,6 @@
       "duration_ms": 294545,
       "name": "Aapli Yaari (feat. Adarsh Shinde & Sonali Sonawane)",
       "url": "https://open.spotify.com/track/0P7QtX3D8lw9Ws8zy1SaTn"
-    },
-    {
-      "added_at": "2025-07-29 10:53:17",
-      "album": {
-        "name": "Galavar Khali - Single",
-        "url": "https://open.spotify.com/album/4RH0XzRqLlC3GHDNGrL9SY"
-      },
-      "artists": [
-        {
-          "name": "Swapnil Bandodkar",
-          "url": "https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy"
-        },
-        {
-          "name": "Philip Larsen",
-          "url": "https://open.spotify.com/artist/36HGWVjzOS2QP0sv1d4cws"
-        }
-      ],
-      "duration_ms": 311752,
-      "name": "Galavar Khali - Remix",
-      "url": "https://open.spotify.com/track/6vaP1f4kGH0Pp7PYrg3IFb"
     }
   ],
   "unique_name": "Marathi Workout",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > lá em cima feito Ret com a habilidade do Alee e a auto estima do Ye / Foto: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,550,205 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550,262 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TUDO DE NOVO](https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [CAOS DLX](https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM) | 3:45 |
+| 1 | [TUDO DE NOVO](https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [CAOS DLX](https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM) | 3:45 |
 | 2 | [MÉNAGE](https://open.spotify.com/track/26h6K2Gt901Sny78SU4kJS) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [F\*\*K SONGS](https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi) | 2:33 |
 | 3 | [Grama Verde](https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:56 |
 | 4 | [Artista Genérico](https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:30 |

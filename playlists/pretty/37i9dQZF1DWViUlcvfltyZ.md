@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Umarell \(e una bicicletta ¯\\\_\(ツ\)\_/¯ \) in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,251 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,243 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Non ho più sangue per te](https://open.spotify.com/track/13CRRDcmr1NivSs4dG5izX) | [Gardenia](https://open.spotify.com/artist/5N8nI9X3kxma1F7KV6AMFx), [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [Non ho più sangue per te](https://open.spotify.com/album/3t59zpqiH1n5EIj7Q3fTso) | 3:48 |
 | 100 | [ogni tanto fa un gesto chiaro](https://open.spotify.com/track/517bF2a83xOmG6iKItY7bJ) | [LENORE](https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT) | [ogni tanto fa un gesto chiaro](https://open.spotify.com/album/5k8pKG9krxD9Ijd4rJ56Zx) | 2:17 |
 
-Snapshot ID: `aJG9twAAAADT4TIVhiql1YKYlFIPGpBn`
+Snapshot ID: `AAAAAH481iYBHZWe9qnIwQk7YGWCNGj/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요\. \(커버: 다이나믹 듀오\) My Most Precious Side \- Listen to the song while thinking of your family\. \(Cover: Dynamic Duo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,456 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,453 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 99 | [아버지](https://open.spotify.com/track/7rTdW07B0EVBXztwo6GryQ) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [나는 가수다 경연 15\-2\. 내게 특별한 사람의 추천곡](https://open.spotify.com/album/4mvWk0HQ87eLop2UzOa0Ce) | 5:48 |
 | 100 | [Like My Father](https://open.spotify.com/track/5HJFNbxeL3tZK8LEicvjSk) | [Jung Chan Woo](https://open.spotify.com/artist/6odgFMXCTGCqia4uVkDfpm) | [Like My Father](https://open.spotify.com/album/4oZPPDZkkYdFyF8KzhFSxE) | 4:11 |
 
-Snapshot ID: `aGZBoQAAAABNRVVv5eVOc5gy2t1tn2AL`
+Snapshot ID: `AAAAAKtbnouYwZUYHJPc/op6EUl3nRRP`

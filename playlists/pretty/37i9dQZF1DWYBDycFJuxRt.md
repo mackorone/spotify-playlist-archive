@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/339703">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/339857">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,706 likes - 77 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,710 likes - 78 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,34 +56,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 46 | [Pink Skies \(feat\. MONKEY MAJIK\)](https://open.spotify.com/track/5Dzxxih74D7FpKZkUKs4dY) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Pink Skies](https://open.spotify.com/album/7qJuVMBfguj8awcikTOUk2) | 3:08 |
 | 47 | [I've](https://open.spotify.com/track/57BQ3n3vnYgBnljelbldxx) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [I've](https://open.spotify.com/album/6irQ8MLqExckzBsv5UcKIF) | 3:23 |
 | 48 | [ai my me](https://open.spotify.com/track/7oNQCiXscpx3kLi7phm6FY) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [ai my me](https://open.spotify.com/album/78QhM9T4whKfPhPYPPdJk0) | 3:44 |
-| 49 | [Pipopapo](https://open.spotify.com/track/7icFpD8GiXTcjjpnAv6A2S) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [Pipopapo / Furupparty!](https://open.spotify.com/album/5LRsd0EUzSil2N2q3YFMT4) | 4:14 |
-| 50 | [Iinasai](https://open.spotify.com/track/6JM4BHMLnSmqTxwnCXZyj7) | [yuri](https://open.spotify.com/artist/5wPk5S4evPJCbmEQdkVCBJ) | [Iinasai](https://open.spotify.com/album/7wq0XNePg1OxeY9VMqXQia) | 1:26 |
-| 51 | [KAGOME](https://open.spotify.com/track/4asoMm5Lk3A3ai7yYJPnPC) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [KAGOME](https://open.spotify.com/album/2OKwNI1axUSxj325LGtKDr) | 3:11 |
-| 52 | [シューゲイザー](https://open.spotify.com/track/41hMCSimbU98XWTbMoAdaJ) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [シューゲイザー](https://open.spotify.com/album/49mKKkWn89QXffmVZpoICd) | 3:04 |
-| 53 | [ノーネーム](https://open.spotify.com/track/2U1sVvB3Cqec47iKoY0Sjx) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [ノーネーム](https://open.spotify.com/album/5hpiHlsq8Mo03ucKneAHOU) | 2:58 |
-| 54 | [渚のメイキャップ](https://open.spotify.com/track/3OjkDeEMBQ3mbekiU6t6G5) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [渚のメイキャップ](https://open.spotify.com/album/2pGiekkohXyNFVhrf3Ikue) | 3:50 |
-| 55 | [不完全な僕の声と君の完璧なダンス](https://open.spotify.com/track/3iASdDwztv8An2kHTVCUME) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [不完全な僕の声と君の完璧なダンス](https://open.spotify.com/album/73UJZj4EcVKqqiFZZDqQu1) | 3:14 |
-| 56 | [Your Morning Glory](https://open.spotify.com/track/5MaNQ9TgyGUG0kyQS0GEVW) | [paris match](https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof) | [Le 13e](https://open.spotify.com/album/7pqqEEsRT0fc1xQ2arEyDh) | 4:52 |
-| 57 | [変身](https://open.spotify.com/track/0AhymlO0IQqgcg2BYrcmkm) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [変身](https://open.spotify.com/album/5gqI3HU2VjrdDv5N7aZuPV) | 2:41 |
-| 58 | [いつも隣で](https://open.spotify.com/track/1XsHrA5ivHWYn68UNb9cFK) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [いつも隣で](https://open.spotify.com/album/7o2DHL1U5lSLkvbjzaL3MC) | 4:00 |
-| 59 | [すばらしいせかい](https://open.spotify.com/track/0JfFHx7GqaI1rtnw677cBa) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv), [YOSUKE from SPYAIR](https://open.spotify.com/artist/4auQxWsYcnbVfwsOqMezcJ) | [すばらしいせかい](https://open.spotify.com/album/2eLvOhHNts9Qc25UEHVawP) | 4:02 |
-| 60 | [ネクター](https://open.spotify.com/track/7ig7fRNBuzwNGn8jywVOJh) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ネクター](https://open.spotify.com/album/0404tGxFdMyByTV8IqMOVp) | 4:08 |
-| 61 | [Hard Protein](https://open.spotify.com/track/3VYmXaI1B3808PEcl1oNDZ) | [Peach Nap](https://open.spotify.com/artist/5vlTDNHSDZWBzNVnkq28w6) | [One Peach](https://open.spotify.com/album/0VSKddM8sSMIR4yViyF8BJ) | 3:07 |
-| 62 | [Swallowtail](https://open.spotify.com/track/5jLqiXa2Y8HoavMVscnW3O) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB) | [Swallowtail](https://open.spotify.com/album/7MTArxr2vpo59UHszFoh0k) | 3:54 |
-| 63 | [HEART OF RAINBOW](https://open.spotify.com/track/50jdcFXj7F6ON8soSZPDiL) | [THE ALFEE](https://open.spotify.com/artist/04bitarCLkcC3GVESLDZgY) | [HEART OF RAINBOW](https://open.spotify.com/album/1pNVlGgJ16l6DwrZs2yNPS) | 5:28 |
-| 64 | [別れません私から消えませんあなたから](https://open.spotify.com/track/7k9oNIvFB5oytGmvsSZNl8) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [55 BLACK](https://open.spotify.com/album/2pM5yCGNYtczF14HtkbbRo) | 4:22 |
-| 65 | [Unrequited Love](https://open.spotify.com/track/0E03Hf26lg9iqzMfKxAP1w) | [尾崎匠海 & 藤牧京介 \(INI\)](https://open.spotify.com/artist/58hh4nX6h5RwyACsHTcIpn) | [Unrequited Love / プロポーズ](https://open.spotify.com/album/0TGurfPoKBiRsqvvdLs9Qj) | 4:02 |
-| 66 | [Step to the Moon](https://open.spotify.com/track/5tBOkOApw1w9KLWfQh7TeH) | [Takanori Iwata](https://open.spotify.com/artist/2cD2ndst4zaoaoNldSXhMH) | [TORICO](https://open.spotify.com/album/7pkNrXdvaWhiYfGmzOGMJB) | 3:05 |
-| 67 | [Stay or Go prod\. by ☆Taku Takahashi](https://open.spotify.com/track/1jQY2YqrAtWaWUXfVUnUfJ) | [片寄涼太](https://open.spotify.com/artist/6RexcbImnLm1O83WNPzZV2) | [Bouquet](https://open.spotify.com/album/5FuCaYiudigUr5GPliqAV9) | 3:32 |
-| 68 | [EVER EVER GREEN](https://open.spotify.com/track/2i5N7CSqhsAC2qd2OCYAa9) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [BABiES AGAiN](https://open.spotify.com/album/0hQoQprYCFBT19OQgKEfdQ) | 3:24 |
-| 69 | [常夜灯](https://open.spotify.com/track/26s4Ayyl7aiIiXhhZ5npLL) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [常夜灯](https://open.spotify.com/album/7Lu0HGGlITeUhDYW6To6pm) | 3:43 |
-| 70 | [運命論](https://open.spotify.com/track/0eP6SVHeDmQ6ihRprBEARX) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [運命論](https://open.spotify.com/album/5Cb6royNzyBSQlQLY45ojR) | 3:41 |
-| 71 | [rip\-off](https://open.spotify.com/track/0RPZPRlxpBvZkvgkwlhwU2) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [rip\-off](https://open.spotify.com/album/04KGhwvshqelIYZVFjNP4Y) | 3:51 |
-| 72 | [In YOURS](https://open.spotify.com/track/1hTg19ZUwYAiyDbT0ook40) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [In YOURS](https://open.spotify.com/album/5qXPXY5dE7mnlMif5k7xDw) | 4:37 |
-| 73 | [echoes of fading girl](https://open.spotify.com/track/1hfQ5DyTYhgudSZ7lbQP5Q) | [揺れるは幽霊](https://open.spotify.com/artist/70047sK1o9JHFzaj6tyg5Y) | [echoes of fading girl](https://open.spotify.com/album/7vl5WnSGQlnQbbK3iZxQNm) | 4:39 |
-| 74 | [アンリッシュ](https://open.spotify.com/track/2iHSo3ecKj9ereo7nNPdCI) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [アンリッシュ](https://open.spotify.com/album/3khhdrW3s4UysQUX840aHM) | 5:08 |
-| 75 | [Echo](https://open.spotify.com/track/4ErpMug3IL59t0RNlZpJHZ) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [GOODTIMES](https://open.spotify.com/album/24Xie0R7HhGmlgLTmgTYBe) | 2:59 |
-| 76 | [Mermaid \-Never Ending Summer\-](https://open.spotify.com/track/2aiNYWnLBkF8qgHKzQTkgt) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Mermaid \-Never Ending Summer\-](https://open.spotify.com/album/3dPFmKqZk8zE2tQLwPIW0l) | 3:36 |
-| 77 | [Alone Together](https://open.spotify.com/track/2SfaNmVySgqWhegRciNlFX) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Alone Together](https://open.spotify.com/album/3fong1iWBskKEDCMIhEasq) | 6:02 |
+| 49 | [DANCING ALONE](https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5) | 3:18 |
+| 50 | [Pipopapo](https://open.spotify.com/track/7icFpD8GiXTcjjpnAv6A2S) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [Pipopapo / Furupparty!](https://open.spotify.com/album/5LRsd0EUzSil2N2q3YFMT4) | 4:14 |
+| 51 | [Iinasai](https://open.spotify.com/track/6JM4BHMLnSmqTxwnCXZyj7) | [yuri](https://open.spotify.com/artist/5wPk5S4evPJCbmEQdkVCBJ) | [Iinasai](https://open.spotify.com/album/7wq0XNePg1OxeY9VMqXQia) | 1:26 |
+| 52 | [KAGOME](https://open.spotify.com/track/4asoMm5Lk3A3ai7yYJPnPC) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [KAGOME](https://open.spotify.com/album/2OKwNI1axUSxj325LGtKDr) | 3:11 |
+| 53 | [シューゲイザー](https://open.spotify.com/track/41hMCSimbU98XWTbMoAdaJ) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [シューゲイザー](https://open.spotify.com/album/49mKKkWn89QXffmVZpoICd) | 3:04 |
+| 54 | [ノーネーム](https://open.spotify.com/track/2U1sVvB3Cqec47iKoY0Sjx) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [ノーネーム](https://open.spotify.com/album/5hpiHlsq8Mo03ucKneAHOU) | 2:58 |
+| 55 | [渚のメイキャップ](https://open.spotify.com/track/3OjkDeEMBQ3mbekiU6t6G5) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [渚のメイキャップ](https://open.spotify.com/album/2pGiekkohXyNFVhrf3Ikue) | 3:50 |
+| 56 | [不完全な僕の声と君の完璧なダンス](https://open.spotify.com/track/3iASdDwztv8An2kHTVCUME) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [不完全な僕の声と君の完璧なダンス](https://open.spotify.com/album/73UJZj4EcVKqqiFZZDqQu1) | 3:14 |
+| 57 | [Your Morning Glory](https://open.spotify.com/track/5MaNQ9TgyGUG0kyQS0GEVW) | [paris match](https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof) | [Le 13e](https://open.spotify.com/album/7pqqEEsRT0fc1xQ2arEyDh) | 4:52 |
+| 58 | [変身](https://open.spotify.com/track/0AhymlO0IQqgcg2BYrcmkm) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [変身](https://open.spotify.com/album/5gqI3HU2VjrdDv5N7aZuPV) | 2:41 |
+| 59 | [いつも隣で](https://open.spotify.com/track/1XsHrA5ivHWYn68UNb9cFK) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [いつも隣で](https://open.spotify.com/album/7o2DHL1U5lSLkvbjzaL3MC) | 4:00 |
+| 60 | [すばらしいせかい](https://open.spotify.com/track/0JfFHx7GqaI1rtnw677cBa) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv), [YOSUKE from SPYAIR](https://open.spotify.com/artist/4auQxWsYcnbVfwsOqMezcJ) | [すばらしいせかい](https://open.spotify.com/album/2eLvOhHNts9Qc25UEHVawP) | 4:02 |
+| 61 | [ネクター](https://open.spotify.com/track/7ig7fRNBuzwNGn8jywVOJh) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ネクター](https://open.spotify.com/album/0404tGxFdMyByTV8IqMOVp) | 4:08 |
+| 62 | [Hard Protein](https://open.spotify.com/track/3VYmXaI1B3808PEcl1oNDZ) | [Peach Nap](https://open.spotify.com/artist/5vlTDNHSDZWBzNVnkq28w6) | [One Peach](https://open.spotify.com/album/0VSKddM8sSMIR4yViyF8BJ) | 3:07 |
+| 63 | [Swallowtail](https://open.spotify.com/track/5jLqiXa2Y8HoavMVscnW3O) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB) | [Swallowtail](https://open.spotify.com/album/7MTArxr2vpo59UHszFoh0k) | 3:54 |
+| 64 | [HEART OF RAINBOW](https://open.spotify.com/track/50jdcFXj7F6ON8soSZPDiL) | [THE ALFEE](https://open.spotify.com/artist/04bitarCLkcC3GVESLDZgY) | [HEART OF RAINBOW](https://open.spotify.com/album/1pNVlGgJ16l6DwrZs2yNPS) | 5:28 |
+| 65 | [別れません私から消えませんあなたから](https://open.spotify.com/track/7k9oNIvFB5oytGmvsSZNl8) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [55 BLACK](https://open.spotify.com/album/2pM5yCGNYtczF14HtkbbRo) | 4:22 |
+| 66 | [Unrequited Love](https://open.spotify.com/track/0E03Hf26lg9iqzMfKxAP1w) | [尾崎匠海 & 藤牧京介 \(INI\)](https://open.spotify.com/artist/58hh4nX6h5RwyACsHTcIpn) | [Unrequited Love / プロポーズ](https://open.spotify.com/album/0TGurfPoKBiRsqvvdLs9Qj) | 4:02 |
+| 67 | [Step to the Moon](https://open.spotify.com/track/5tBOkOApw1w9KLWfQh7TeH) | [Takanori Iwata](https://open.spotify.com/artist/2cD2ndst4zaoaoNldSXhMH) | [TORICO](https://open.spotify.com/album/7pkNrXdvaWhiYfGmzOGMJB) | 3:05 |
+| 68 | [Stay or Go prod\. by ☆Taku Takahashi](https://open.spotify.com/track/1jQY2YqrAtWaWUXfVUnUfJ) | [片寄涼太](https://open.spotify.com/artist/6RexcbImnLm1O83WNPzZV2) | [Bouquet](https://open.spotify.com/album/5FuCaYiudigUr5GPliqAV9) | 3:32 |
+| 69 | [EVER EVER GREEN](https://open.spotify.com/track/2i5N7CSqhsAC2qd2OCYAa9) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [BABiES AGAiN](https://open.spotify.com/album/0hQoQprYCFBT19OQgKEfdQ) | 3:24 |
+| 70 | [常夜灯](https://open.spotify.com/track/26s4Ayyl7aiIiXhhZ5npLL) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [常夜灯](https://open.spotify.com/album/7Lu0HGGlITeUhDYW6To6pm) | 3:43 |
+| 71 | [運命論](https://open.spotify.com/track/0eP6SVHeDmQ6ihRprBEARX) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [運命論](https://open.spotify.com/album/5Cb6royNzyBSQlQLY45ojR) | 3:41 |
+| 72 | [rip\-off](https://open.spotify.com/track/0RPZPRlxpBvZkvgkwlhwU2) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [rip\-off](https://open.spotify.com/album/04KGhwvshqelIYZVFjNP4Y) | 3:51 |
+| 73 | [In YOURS](https://open.spotify.com/track/1hTg19ZUwYAiyDbT0ook40) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [In YOURS](https://open.spotify.com/album/5qXPXY5dE7mnlMif5k7xDw) | 4:37 |
+| 74 | [echoes of fading girl](https://open.spotify.com/track/1hfQ5DyTYhgudSZ7lbQP5Q) | [揺れるは幽霊](https://open.spotify.com/artist/70047sK1o9JHFzaj6tyg5Y) | [echoes of fading girl](https://open.spotify.com/album/7vl5WnSGQlnQbbK3iZxQNm) | 4:39 |
+| 75 | [アンリッシュ](https://open.spotify.com/track/2iHSo3ecKj9ereo7nNPdCI) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [アンリッシュ](https://open.spotify.com/album/3khhdrW3s4UysQUX840aHM) | 5:08 |
+| 76 | [Echo](https://open.spotify.com/track/4ErpMug3IL59t0RNlZpJHZ) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [GOODTIMES](https://open.spotify.com/album/24Xie0R7HhGmlgLTmgTYBe) | 2:59 |
+| 77 | [Mermaid \-Never Ending Summer\-](https://open.spotify.com/track/2aiNYWnLBkF8qgHKzQTkgt) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Mermaid \-Never Ending Summer\-](https://open.spotify.com/album/3dPFmKqZk8zE2tQLwPIW0l) | 3:36 |
+| 78 | [Alone Together](https://open.spotify.com/track/2SfaNmVySgqWhegRciNlFX) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Alone Together](https://open.spotify.com/album/3fong1iWBskKEDCMIhEasq) | 6:02 |
 
-Snapshot ID: `aJK04wAAAADcMP/qZaItnT4WE+8ie7N6`
+Snapshot ID: `AAAAAB63ak1u8CmBhFSCO3tgLHkg/sNZ`

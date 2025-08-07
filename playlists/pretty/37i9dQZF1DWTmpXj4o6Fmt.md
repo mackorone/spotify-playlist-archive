@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 
 > go back in time and \(re\) discover these gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,379 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,402 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 | 49 | [No Necesito](https://open.spotify.com/track/63YC9RjXLS1TKPyi4uqBUJ) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [La Pipa De La Paz](https://open.spotify.com/album/5fpkDKTxLSbDKUXz6FtKmK) | 3:44 |
 | 50 | [Buscando la Manera](https://open.spotify.com/track/0aopcVm94e8BPN9bBUydnn) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:58 |
 
-Snapshot ID: `Zy5nugAAAAAcVR3OFTLe6U49Xn83lzcz`
+Snapshot ID: `AAAAAL0n/3xsVJ3k6nyGdcSDodlTAwVi`

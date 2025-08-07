@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,219 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,228 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 49 | [1977](https://open.spotify.com/track/2Lqtrj7Y4Ukp6t7l1Rgyo1) | [T.A.M](https://open.spotify.com/artist/3jB6Ro7xfG5qlRgNGiMfDg) | [Teoria Del Ritmo](https://open.spotify.com/album/5RtjbyNYOuz8TjpIy9EZnL) | 6:26 |
 | 50 | [Hit It](https://open.spotify.com/track/1qRtNHUlLtgbNlqgY3UoDv) | [Mezer The Architect](https://open.spotify.com/artist/6CE5TdStRhP2z3F5aRjvFb) | [ASW Various Artists 3](https://open.spotify.com/album/7IvhzvezVHRTnImUACaJ3g) | 4:35 |
 
-Snapshot ID: `Z5z4yQAAAABpACwPScL4XW0ZWRbyXwic`
+Snapshot ID: `AAAAAKYliA/+3txe3FM0BlyVjihuYeEU`

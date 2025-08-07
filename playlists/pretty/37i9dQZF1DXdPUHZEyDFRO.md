@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPUHZEyDFRO.md) - [plain]
 
 > Listen to the soundtracks of Perfect Family\. \(완벽한 가족의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,389 likes - 76 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,394 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPUHZEyDFRO.md) - [plain]
 | 75 | [To Heaven \- Instrumental](https://open.spotify.com/track/0eizp0wKlhJ4at9t0PVGXi) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Perfect Family \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2JwnPxoyZmKK9dosgekTAc) | 3:17 |
 | 76 | [I am firefly \- Instrumental](https://open.spotify.com/track/2iMBccgeOadS9umDA3z6Te) | [Kim Ho Jeong](https://open.spotify.com/artist/26RogiediR08e49bNars1L) | [Perfect Family \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4vOyPmN7K04LeLBMMdwRJS) | 3:40 |
 
-Snapshot ID: `ZwS//wAAAADZQ54vRIcD43R+2HfFjD0v`
+Snapshot ID: `AAAAAAPlydMaQhUfEryGuCeV7zMzE5/i`

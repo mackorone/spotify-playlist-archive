@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,979 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,980 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 4 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 |
 | 5 | [C h v o r v i R i d a g](https://open.spotify.com/track/4Ys990zG55m3szny0pwaZu) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [R d u s t a d i g h e r 4 m i g](https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl) | 2:32 |
 | 6 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 |
-| 7 | [M.O.B.](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B.](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
+| 7 | [M.O.B](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
 | 8 | [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 |
 | 9 | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/track/2jBvbnYDmG01ocNv1AZhHM) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/album/7FG45mLhsw5ejuaCg6Folx) | 2:10 |
 | 10 | [Solrige Dage](https://open.spotify.com/track/06lB0pKFVgJbiiPiPHk2J8) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Solrige Dage](https://open.spotify.com/album/00h0m8cnd3ac4c0Gy9R3ul) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 49 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 |
 | 50 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 |
 
-Snapshot ID: `aIvngQAAAADVQNMjg8pf5qBWcrCgtzdO`
+Snapshot ID: `AAAAAONuLfTq8D861FmGjHvwmw1a9NdK`

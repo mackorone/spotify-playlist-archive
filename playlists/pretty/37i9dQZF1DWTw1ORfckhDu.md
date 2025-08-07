@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,987 likes - 61 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,988 likes - 61 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 60 | [Uskomatonta](https://open.spotify.com/track/3ajar8Cv1tGYyEk9mxP4g8) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [Uskomatonta](https://open.spotify.com/album/1u2oVoEVwKYbBgq4NzgHbl) | 2:45 |
 | 61 | [Jin & jang](https://open.spotify.com/track/2Q0bLknz24WfkG6HY9z5gQ) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Jin & jang](https://open.spotify.com/album/2ZIyHmD90qxesvUTazUs0K) | 2:38 |
 
-Snapshot ID: `aIvZYwAAAADA6gWRF49ml/sRuh1rdEIi`
+Snapshot ID: `AAAAAM4LjOAJsZD+1qdtVcBZioRKAd3Z`

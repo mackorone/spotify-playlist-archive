@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7YskCND7g.md) - [plain]
 
 > Some of Ruby Ibarra's favorite podcast interviews of Filipina\-American women creatives who are not only excelling in their respective crafts, but are also uplifting their communities and redefining what it means to be Filipina\-American\. These wide array of podcasts include activist and journalist Maria Ressa, chef Nicole Ponseca, author and emcee Rocky Rivera, and filmmakers Ramona Diaz, Isabel Sandoval, and Michele Josue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 4 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 4 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,4 +13,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7YskCND7g.md) - [plain]
 | 3 | [S2E10: Amazing Asian Women \(Part 4\) with Michele Josue](https://open.spotify.com/episode/0ecXiscD1T5Zn4g0rnEarM) | [Kiss My Mike](https://open.spotify.com/show/4XD5gPK3JEBtdUSeLrpeIi) | [Kiss My Mike](https://open.spotify.com/album/4XD5gPK3JEBtdUSeLrpeIi) | 35:26 |
 | 4 | [\#HoldTheLine: Maria Ressa interviews 'A Thousand Cuts' director Ramona Diaz](https://open.spotify.com/episode/6wP0mr1Evud0fjrCPe4B4U) | [Hold The Line with Maria Ressa](https://open.spotify.com/show/4zgcK3ubsf9rB3I7xtArhM) | [Hold The Line with Maria Ressa](https://open.spotify.com/album/4zgcK3ubsf9rB3I7xtArhM) | 29:54 |
 
-Snapshot ID: `ZIsRSgAAAAADlplcnq4zk+GodA9RC1cQ`
+Snapshot ID: `AAAAAKwp0RU6yq5OYdVgMXw86E1/SGd5`

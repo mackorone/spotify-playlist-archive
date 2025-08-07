@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-834 songs - 2 day 11 hr 13 min
+835 songs - 2 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Kryé Mwen](https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Soleil Kréyol](https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah) | 5:01 | 2021-10-06 |  |
 | [Kudaushe](https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Kudaushe Matimba](https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt) | [Kolaba](https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW) | 3:58 | 2024-07-04 |  |
 | [Kulun Mankwaleshi](https://open.spotify.com/track/1IcJMglWLxYd9JGAJ9Kqvf) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Kulun Mankwaleshi](https://open.spotify.com/album/4BrhtEr3Vh43XyD1HGN4gL) | 7:47 | 2021-10-06 | 2022-07-15 |
+| [Kung\-Fu Poly](https://open.spotify.com/track/5gmOhpIDlh0YslKrKuCcnI) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Kung\-Fu Poly](https://open.spotify.com/album/6y8mqYxZf6dRGcL7DwGWxB) | 4:44 | 2025-07-25 |  |
 | [Kwatamaja \- Pete Herbert Remix](https://open.spotify.com/track/6TvCiVsXAl4hIHMDsNavCA) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT), [Pete Herbert](https://open.spotify.com/artist/1hySxd3wcF1XRQXyYSEblQ) | [Kwatamaja \(Pete Herbert Remix\)](https://open.spotify.com/album/4LdvbKgCDyImJzvaekSbfY) | 5:53 | 2024-04-09 | 2024-05-09 |
 | [L'origine du Monde \- iZem Remix](https://open.spotify.com/track/1gfWtL0rEJwEJwyfaInfgu) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [iZem Remixes](https://open.spotify.com/album/7w4HYQplaz3uezp8tUm9hf) | 4:32 | 2021-10-06 | 2024-05-02 |
 | [L.A\. Night](https://open.spotify.com/track/5t3qH3xZNxTscMT0adF8hF) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [L.A\. Night](https://open.spotify.com/album/6MEdamjFV17MAGzlcV8zDF) | 5:23 | 2021-10-06 | 2022-04-21 |
@@ -461,7 +462,7 @@
 | [Maktoub Aleina](https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:07 | 2022-01-14 | 2023-08-08 |
 | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/track/0GlDM1s0mLBrnV3BcF59EW) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/album/4PUXReU8jUWCkcge6pQKtk) | 4:07 | 2022-01-14 | 2022-07-21 |
 | [Maledetta Quella Notte](https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Maledetta Quella Notte](https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym) | 3:50 | 2023-10-20 | 2025-05-10 |
-| [Malìa](https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Malìa](https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu) | 3:48 | 2023-06-02 |  |
+| [Malìa](https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Malìa](https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu) | 3:48 | 2023-06-02 | 2025-08-07 |
 | [Mam Yinne Wa](https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [Mam Yinne Wa](https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T) | 3:55 | 2021-10-06 |  |
 | [Mama \- Déni\-Shain & Mister Francky Remix](https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [Déni\-Shain](https://open.spotify.com/artist/2I3JncUKUZx2s0SqB4PcKr), [Mister Francky](https://open.spotify.com/artist/4kXQgX9t5ijlfWnybY6SW5) | [Mama](https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv) | 5:04 | 2021-10-06 |  |
 | [Mama Yo Mama Yo](https://open.spotify.com/track/4G2MhGFZCBq7Ojm7CSko9O) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Backslider](https://open.spotify.com/album/2cQEpr2WQBUtjgGaXcMy3B) | 4:43 | 2023-06-19 | 2023-10-25 |

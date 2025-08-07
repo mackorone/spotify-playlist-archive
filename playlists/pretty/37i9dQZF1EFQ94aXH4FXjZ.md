@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,531 likes - 106 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,19 +102,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 92 | [Silver \(The Hunger\)](https://open.spotify.com/track/6iUe3sTIMgdX8BTAoLieP4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 8:19 |
 | 93 | [Bad Love Story](https://open.spotify.com/track/354AkmAGVxobS8L3p5pErE) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:34 |
 | 94 | [Rocket to Stardom](https://open.spotify.com/track/5UgycYx6YgscHOG7ZbtO9E) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:35 |
-| 95 | [Easter Island](https://open.spotify.com/track/30nsh9vrxFqSA2uQlB0mYm) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:40 |
-| 96 | [The Fighter](https://open.spotify.com/track/3LlGTtxRZ9yLgGGJa5wspC) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:40 |
-| 97 | [The Stranger I Love](https://open.spotify.com/track/1jRKdDM8Znd6jqOp1fTAuf) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 4:10 |
-| 98 | [Risky Bizness](https://open.spotify.com/track/5VdN8XMPD7jge9PdFKdoPs) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 2:33 |
-| 99 | [Forever In Your Love](https://open.spotify.com/track/2w1LDmKTm5O5Kczjrf7W9i) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:15 |
-| 100 | [Spooky Lady's Revenge](https://open.spotify.com/track/3Qwgjl3z2jnlwpbxmOQmck) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:48 |
-| 101 | [Lay Me Down and Love the World Away](https://open.spotify.com/track/1WR4O0dabcwveNq63kykmd) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Cedar Creek Sessions](https://open.spotify.com/album/1LPhChpi7Eo9givHrTaAOo) | 3:40 |
-| 102 | [Telefonni dabel](https://open.spotify.com/track/5gUcwrXB7V2KbfUJtShaXM) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:01 |
-| 103 | [Help Me Make It](https://open.spotify.com/track/2NvsKWkqYFpEg7N2JVcjb5) | [Kenny Paul](https://open.spotify.com/artist/6bVc40vdNj6a6uWptoFXGM) | [Come by the Hills](https://open.spotify.com/album/7lASXCqphDpkuR4rcEtUFg) | 2:58 |
-| 104 | [Eu e Bobby Mcgee](https://open.spotify.com/track/5siWcJfUUuHobmsXjzi66u) | [André Gardel](https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG), [Samantha Jones](https://open.spotify.com/artist/48fXp6kSGjIr8s10EyqlZW) | [Na Palavra](https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G) | 4:10 |
-| 105 | [Cyrano](https://open.spotify.com/track/6grvN3lNCObZ1GtJxfhIjv) | [Josef Laufer](https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT) | [Josef Laufer '74](https://open.spotify.com/album/79PbbPBO9Cg8DOpaekVSJz) | 2:24 |
-| 106 | [The Same Old Song](https://open.spotify.com/track/4bDP6yjgZuvfvIXGDMAHfg) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rock & Roll Resurrection](https://open.spotify.com/album/2MPTdx3MVCkLwP66Y2q5LB) | 3:00 |
-| 107 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
-| 108 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
+| 95 | [The Fighter](https://open.spotify.com/track/3LlGTtxRZ9yLgGGJa5wspC) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:40 |
+| 96 | [The Stranger I Love](https://open.spotify.com/track/1jRKdDM8Znd6jqOp1fTAuf) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 4:10 |
+| 97 | [Risky Bizness](https://open.spotify.com/track/5VdN8XMPD7jge9PdFKdoPs) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 2:33 |
+| 98 | [Forever In Your Love](https://open.spotify.com/track/2w1LDmKTm5O5Kczjrf7W9i) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:15 |
+| 99 | [Spooky Lady's Revenge](https://open.spotify.com/track/3Qwgjl3z2jnlwpbxmOQmck) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:48 |
+| 100 | [Telefonni dabel](https://open.spotify.com/track/5gUcwrXB7V2KbfUJtShaXM) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:01 |
+| 101 | [Help Me Make It](https://open.spotify.com/track/2NvsKWkqYFpEg7N2JVcjb5) | [Kenny Paul](https://open.spotify.com/artist/6bVc40vdNj6a6uWptoFXGM) | [Come by the Hills](https://open.spotify.com/album/7lASXCqphDpkuR4rcEtUFg) | 2:58 |
+| 102 | [Eu e Bobby Mcgee](https://open.spotify.com/track/5siWcJfUUuHobmsXjzi66u) | [André Gardel](https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG), [Samantha Jones](https://open.spotify.com/artist/48fXp6kSGjIr8s10EyqlZW) | [Na Palavra](https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G) | 4:10 |
+| 103 | [Cyrano](https://open.spotify.com/track/6grvN3lNCObZ1GtJxfhIjv) | [Josef Laufer](https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT) | [Josef Laufer '74](https://open.spotify.com/album/79PbbPBO9Cg8DOpaekVSJz) | 2:24 |
+| 104 | [The Same Old Song](https://open.spotify.com/track/4bDP6yjgZuvfvIXGDMAHfg) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rock & Roll Resurrection](https://open.spotify.com/album/2MPTdx3MVCkLwP66Y2q5LB) | 3:00 |
+| 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
+| 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `Ab4t/gAAAAAKP1cJyLxtVSmQGWwApp5U`
+Snapshot ID: `Ab4zngAAAAAgaPgAF0V8dUTxBuVly93f`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,718 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,699 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 32 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 |
 | 33 | [Meteoro \- Ao Vivo](https://open.spotify.com/track/5JFpJWJIkEl97NgLgpo4pF) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Ao Vivo](https://open.spotify.com/album/16TISVZjZU8Y3A0rxpCJgr) | 3:36 |
 | 34 | [Temporal](https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN) | [Art Popular](https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA) | [Temporal \(Audio\)](https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX) | 4:35 |
-| 35 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
-| 36 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
+| 35 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
+| 36 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
 | 37 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 |
 | 38 | [Cilada](https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe) | [Não Quero Saber de Ti Ti Ti](https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2) | 3:43 |
 | 39 | [Eu Quero Tchu Eu Quero Tcha](https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG) | [Eu Quero Tchu Eu Quero Tcha \- Single](https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt) | 2:39 |
 | 40 | [Show das Poderosas](https://open.spotify.com/track/28aUFtkMnJaqNQkLHR0weV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:30 |
-| 41 | [Inaraí](https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k) | [Katinguelê](https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu) | [Katinguelê Na Área](https://open.spotify.com/album/6be252ruiK8KktdALdpNvq) | 3:54 |
-| 42 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 |
+| 41 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 |
+| 42 | [Inaraí](https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k) | [Katinguelê](https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu) | [Katinguelê Na Área](https://open.spotify.com/album/6be252ruiK8KktdALdpNvq) | 3:54 |
 | 43 | [Contatinho \- Ao Vivo](https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Contatinho \(Ao Vivo\)](https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA) | 2:53 |
 | 44 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 45 | [Marrom Bombom](https://open.spotify.com/track/6JvZyTg7LGjDw0v3LvXjub) | [Os Morenos](https://open.spotify.com/artist/153Lu5Zmx36hPnRpaHV0zq) | [Os Morenos](https://open.spotify.com/album/53p7DyRzgGkMf9pdc1jnm0) | 3:35 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 83 | [Dança Kuduro \(Danza Kuduro\)](https://open.spotify.com/track/1BITq5Ix3YscJwGz4ukFeI) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5), [Daddy Kall](https://open.spotify.com/artist/09arlDI3xSFC0nXfxtvtB3) | [Dança Kuduro \(Danza Kuduro\)](https://open.spotify.com/album/563XIhSRXSaF7yR6yskZTC) | 3:19 |
 | 84 | [Posto 24h \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [A Origem \(Ao Vivo\)](https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn) | 2:33 |
 | 85 | [Lepo Lepo](https://open.spotify.com/track/466nusIUJceQ5qiuugLuYf) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Arena Pop 2014](https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS) | 3:17 |
-| 86 | [Paredão Metralhadora](https://open.spotify.com/track/5daPObs4UbM8ZGecl0NIVz) | [Vingadora](https://open.spotify.com/artist/7mP8fPbxbcw0iLEO47t2lM) | [Vem Ne Mim](https://open.spotify.com/album/2MFpkPwvZn1UEoPy6niXJg) | 2:39 |
-| 87 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
+| 86 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
+| 87 | [Paredão Metralhadora](https://open.spotify.com/track/5daPObs4UbM8ZGecl0NIVz) | [Vingadora](https://open.spotify.com/artist/7mP8fPbxbcw0iLEO47t2lM) | [Vem Ne Mim](https://open.spotify.com/album/2MFpkPwvZn1UEoPy6niXJg) | 2:39 |
 | 88 | [Várias Novinhas](https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Várias Novinhas](https://open.spotify.com/album/7AfIAazku7hdzBpyufm7Gx) | 2:19 |
 | 89 | [Bara Bara](https://open.spotify.com/track/2sy6pIiHstUzImrkUXB1K6) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/6wEkHIUHNb1kZiV2nCnVoh) | 2:49 |
 | 90 | [Telegrama](https://open.spotify.com/track/0hDGrqlzFtt73WkNIKMDA8) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Valeu Exalta!](https://open.spotify.com/album/6VOMUqy6aAwy0L2ISPGrIJ) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Beijo Geladinho](https://open.spotify.com/track/6rbkRZKovJISNCd5cZtOMP) | [Negritude Junior](https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F) | [Deixa Acontecer](https://open.spotify.com/album/3cgTdUaIlwRnMiUa6o8GlS) | 3:06 |
 | 100 | [Era Eu \- Ao Vivo](https://open.spotify.com/track/1uPNuCe6RcroKOe7Zauh6P) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Era Eu \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/6V12s0wi5ymZOlh6YJEMMg) | 2:53 |
 
-Snapshot ID: `ZIsTCgAAAAAmH8tKTQ5FyESnbv/Vzz2K`
+Snapshot ID: `AAAAAGh0VLojio9j2ik0+REL4l/Z4Rq2`

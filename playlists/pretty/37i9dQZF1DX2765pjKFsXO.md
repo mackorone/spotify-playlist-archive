@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 
 > Największe polskie alternatywne kawałki w 2024 według naszej redakcji\. Cover: Daria ze Śląska
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,182 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,187 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 | 49 | [Rzeka](https://open.spotify.com/track/6q71ueOim8LDoQtg5iZLZd) | [Meek, Oh Why?](https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT), [BIESY](https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr) | [Wszystko w swoim czasie](https://open.spotify.com/album/7qGVkSKMJ4PCOCyA9PJZWn) | 2:29 |
 | 50 | [Niebo dziś płacze inaczej](https://open.spotify.com/track/7cMI9hfwLZGBffC1biOc0N) | [ARS LATRANS Orchestra](https://open.spotify.com/artist/1LzVOPgsaVzyFmXDqIPOCT), [Szałaśny](https://open.spotify.com/artist/0oqCt2yAXbpdcXLY066wcs), [radek.baranovsky](https://open.spotify.com/artist/15yqOjT21W03wGgIdhXWud), [waterbody](https://open.spotify.com/artist/3KuudbK2QPuIFChpr6tCGb), [Marcin Włodarczyk](https://open.spotify.com/artist/0k88fG2YKrYZgGc0GGzoId), [koko die](https://open.spotify.com/artist/4HDEP8WcSLYVg1Q4Rg1R5M) | [Noir](https://open.spotify.com/album/7GqfiFH8jPrSpqi2tBFD82) | 3:28 |
 
-Snapshot ID: `Z1BHxAAAAADkC7dKwOmJDr/QiPKmJJOh`
+Snapshot ID: `AAAAADxsLvz7va2nqNLxtgcZb02XhBiv`

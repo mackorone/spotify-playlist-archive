@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,022 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,037 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 49 | [Nightgroove](https://open.spotify.com/track/2r44gm6XHGvCbrxu8sPgLA) | [Alessandro Basile](https://open.spotify.com/artist/4LEf1cpM2Jm5FAeNsQATQC), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Nightgroove](https://open.spotify.com/album/3yhzYaUiO0tc5EsB7yvaWJ) | 4:12 |
 | 50 | [Heavy On My Mind feat\. SKYE \- Radio Edit](https://open.spotify.com/track/45C7A63DA4PMshgKYtCHxB) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Skye](https://open.spotify.com/artist/5e8LRy323xeJh0sGtifjGn) | [Heavy On My Mind feat\. SKYE](https://open.spotify.com/album/1MrykMJXH1JnBTDEFsYFgk) | 2:57 |
 
-Snapshot ID: `aJBs+AAAAAA0yaDnprAEa8r25QNZqEKC`
+Snapshot ID: `AAAAAHCMzgbpf0pBVS8MSjuxIm0GaeD+`

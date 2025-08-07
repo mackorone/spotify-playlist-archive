@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xiCqpG6Bic.md) - [plain]
 
 > Music From "CARDCAPTOR SAKURA"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,578 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,588 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xiCqpG6Bic.md) - [plain]
 | 79 | [ここに来て](https://open.spotify.com/track/0HceZEcX4GIS4deRTKeIOg) | [大道寺知世\(岩男潤子\)](https://open.spotify.com/artist/5VqujNiGPdqw8UDKwObavs) | [カードキャプターさくら　ソングコレクション 1999.4～2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 3:04 |
 | 80 | [西風の帰り道](https://open.spotify.com/track/1WXq3HniVVrBdxfS0ecT4r) | [木之本桜\(丹下桜\)](https://open.spotify.com/artist/6liwXiGD3UQCbDutnWMS44) | [カードキャプターさくら　ソングコレクション 1999.4～2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 4:22 |
 
-Snapshot ID: `Z5PNlwAAAADHIRL1rRoSYbDg6mf9jMwU`
+Snapshot ID: `AAAAAMjL1Z/7WVbwJmzx+i0PjFq+o79X`

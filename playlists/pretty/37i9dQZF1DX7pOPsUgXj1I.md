@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pOPsUgXj1I.md) - [plain]
 
 > Escute a trilha sonora da primeira e segunda temporadas de "Sintonia", uma série Netflix x KondZilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,032 likes - 27 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,031 likes - 27 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pOPsUgXj1I.md) - [plain]
 | 26 | [Beat Sacana](https://open.spotify.com/track/2rxrIptT04cA6HcjSoDHvg) | [NGKS](https://open.spotify.com/artist/2MaeMS3jwobqFX4oX0GQED) | [Beat Sacana](https://open.spotify.com/album/4ojA2q22Pi1gcHDybvNM4j) | 2:32 |
 | 27 | [Novinha do Bailão](https://open.spotify.com/track/1N2hHBtZQYs74oYkwkgkVm) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK) | [Novinha do Bailão](https://open.spotify.com/album/7wObbanq0YmOy1PVOujMUA) | 3:17 |
 
-Snapshot ID: `ZblPmgAAAAA8ORNUt6TNWBszO3Ijb0fZ`
+Snapshot ID: `AAAAAFLkgrPabE806UdpfgPtFt95BanH`

@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-250 songs - 14 hr 44 min
+251 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-05-23 | 2022-07-28 |
 | [Daydreaming](https://open.spotify.com/track/1hOahzGzbUO28mcIfHWhOE) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:22 | 2022-05-23 | 2022-07-29 |
 | [Dayoff \(Feat\. Hawoong, Donutman\)](https://open.spotify.com/track/1bTyV3e0x0H5uPxww4oNT6) | [WavyCake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [MINDWAVE](https://open.spotify.com/album/48YHug0G2KH2pN3hl2FcYt) | 3:34 | 2022-05-23 | 2022-07-27 |
-| [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2024-11-29 |  |
+| [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2024-11-29 | 2025-08-07 |
 | [Don't Worry \(prod\. Jflow\)](https://open.spotify.com/track/3Dboahq6vbELGlh4SvI4xH) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [W.O.L.F](https://open.spotify.com/album/2kDDEktmAY3EZCYmGwnF1o) | 4:21 | 2022-06-03 | 2022-07-22 |
 | [Don′t do That](https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 2:15 | 2024-07-02 |  |
 | [dot](https://open.spotify.com/track/1UdVq1sK4CCUyANAftBg7p) | [Tuifu](https://open.spotify.com/artist/3Xv6OHY9QmNHflRXw3fwQx) | [dot](https://open.spotify.com/album/0WuSQaQIAt8Tr4f9TVrZuk) | 3:41 | 2022-05-23 | 2022-07-27 |
@@ -103,6 +103,7 @@
 | [Homebody](https://open.spotify.com/track/608tsLkHT3wD4VOjvby5ru) | [Authentic](https://open.spotify.com/artist/5HK3BrKsgLVa3XYwPKwfu8), [Bassagong](https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs) | [CLICHE](https://open.spotify.com/album/64ecQuiMbt2TrdvxcwHoGZ) | 3:15 | 2022-06-03 | 2022-07-20 |
 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 | 2023-01-03 |  |
 | [HUG 2021 \(feat\. Im Soo\)](https://open.spotify.com/track/4TRMjJKY9OLJGzacgBbaY4) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [Im Soo](https://open.spotify.com/artist/6fprh9M0YJWsTYBlvbfcwn) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:07 | 2022-06-03 | 2022-07-24 |
+| [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 | 2025-04-09 |  |
 | [I don't wanna be your hero](https://open.spotify.com/track/0cgMaaaOwqcpkPhknIOQcr) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [I don't wanna be your hero](https://open.spotify.com/album/2SJ4aGleIw90KGxk0ymaw9) | 2:40 | 2024-11-29 | 2025-02-03 |
 | [I Hated Myself \(Tablo's Word\)](https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:15 | 2022-06-03 | 2024-07-03 |
 | [I Love You](https://open.spotify.com/track/3GsK0adohjQ5XTShGXSK42) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Upgrade Ⅳ](https://open.spotify.com/album/2yljIHgtOZCQJMJOXQZjQd) | 2:32 | 2022-06-03 | 2022-07-21 |

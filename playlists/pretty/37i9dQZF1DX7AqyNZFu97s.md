@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Summer Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,392 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,406 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Vertigo](https://open.spotify.com/track/1UU3wCJome0WhkgwIQTCp2) | [Harrison Mayo](https://open.spotify.com/artist/5l3mrIeezdKhgV9Cww51FA) | [Vertigo](https://open.spotify.com/album/6RLQLPXZed4VUotxStZYCU) | 2:52 |
 | 100 | [On The Coast](https://open.spotify.com/track/0dE2o1ZZvswAvoywY3RnTy) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [On The Coast](https://open.spotify.com/album/5Dd07rwzgphPnX5gAR7m1E) | 3:49 |
 
-Snapshot ID: `aJKNEQAAAADIVRgV9BY46xiHTZNwjt4O`
+Snapshot ID: `AAAAAMsZLA38eoas20wOA/UJCTGNjQ7L`

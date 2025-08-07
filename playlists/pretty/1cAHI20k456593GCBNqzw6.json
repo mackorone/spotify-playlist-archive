@@ -1,13 +1,33 @@
 {
-  "description": "An eclectic mix of new and old music frequently updated  by Danger Mouse.  ",
-  "num_followers": 80886,
+  "description": "An eclectic mix of new and old music frequently updated  by Danger Mouse.",
+  "num_followers": 80893,
   "original_name": "Danger Mouse Jukebox",
   "owner": {
     "name": "Danger Mouse",
     "url": "https://open.spotify.com/user/dangermouse_official"
   },
-  "snapshot_id": "AAAHaxL+BEOR77CPQ6muYCIQ768FWXDp",
+  "snapshot_id": "AAAHbnwWNt54MdAmYB9sXFZ/jmbU6M85",
   "tracks": [
+    {
+      "added_at": "2025-08-06 16:59:01",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/0UHPrq8smwU1HbupSKaYHe"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/2y000ADqI2YYr9uIPzm4PM"
+    },
     {
       "added_at": "2024-12-12 08:23:24",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,805 likes - 92 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,844 likes - 92 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 91 | [Never No More \- LP Instrumental](https://open.spotify.com/track/05f3dpp0vjZ39X5ALbnFOC) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'Til Infinity \(The Remixes\)](https://open.spotify.com/album/2G5p3c3YO8l63QfGKSxzBx) | 3:41 |
 | 92 | [Meteora](https://open.spotify.com/track/40TYtRpNh71p9XOZGuZMKG) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Meteora](https://open.spotify.com/album/5V4S34m3yD3KGoiTEzrKmu) | 2:18 |
 
-Snapshot ID: `aIgyAwAAAADq0gjMgoD7nBkPvaOJlgV7`
+Snapshot ID: `AAAAAHXm32waV/8jqsmGBc4UCEyW+OkZ`

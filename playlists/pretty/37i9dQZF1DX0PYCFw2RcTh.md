@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 | 9 | [15\. Dragan Dragkrok \(Gästas av Börje Bappelsin\)](https://open.spotify.com/episode/1DP8eyBSZcGVtyf12TlZsj) | [Västgötapodden](https://open.spotify.com/show/1k3IeHzNvafsM4pq5fFmHs) | [Västgötapodden](https://open.spotify.com/album/1k3IeHzNvafsM4pq5fFmHs) | 45:12 |
 | 10 | [23\. Dårhus & Ost](https://open.spotify.com/episode/3kXPOus2ky41Fgym3pkRkG) | [Västgötapodden](https://open.spotify.com/show/1k3IeHzNvafsM4pq5fFmHs) | [Västgötapodden](https://open.spotify.com/album/1k3IeHzNvafsM4pq5fFmHs) | 46:06 |
 
-Snapshot ID: `Z0mcswAAAAC1k1D1T2d4RVYcZqEjG2IR`
+Snapshot ID: `AAAAABDm0T5L+kGPDVJM9vspC4gfU2Dd`

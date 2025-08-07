@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UuzUke94Zy.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! \(가수들의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 439 likes - 23 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 23 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UuzUke94Zy.md) - [plain]
 | 22 | [SEED](https://open.spotify.com/track/6PCVA9thJoTOHsUQXnBgv0) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Drowsiness of DOEK](https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy) | 3:34 |
 | 23 | [Ment 5](https://open.spotify.com/track/72NGENWmtIGy7ejLvGyuc6) | [MEETING ROOM 002](https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb) | [MEETING ROOM 002](https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY) | 0:21 |
 
-Snapshot ID: `aJIclgAAAABdt1xeqO186/DFY1s7keRh`
+Snapshot ID: `AAAAABSvbw1mT21Mtb4rhJ3vQIQVLOgY`

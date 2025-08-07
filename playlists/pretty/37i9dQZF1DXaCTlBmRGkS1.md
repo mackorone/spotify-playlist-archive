@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain]
 | 68 | [Judgement Syndrome](https://open.spotify.com/track/6zw7RIJiHSmsUErLdWBsCr) | [East Of Eden](https://open.spotify.com/artist/3lvaevDiFzsr9cUrMV8HYn) | [Judgement Syndrome](https://open.spotify.com/album/6POeHBYCHMiTdptSzpEnUZ) | 3:43 |
 | 69 | [チキンisうまい！](https://open.spotify.com/track/6eaJUYZHqB3xnchfCoPY5f) | [かずき山盛り](https://open.spotify.com/artist/3wzWXrDWCw5xTrINkYkhTH) | [チキンisうまい！](https://open.spotify.com/album/1TIP71PUKjBWYMeoaFswiE) | 2:32 |
 
-Snapshot ID: `ZkjA3AAAAAARJnEPC8b2WqxIKtfItqQL`
+Snapshot ID: `AAAAADhwDUHl1czbn7aysdvT7pKBGm66`

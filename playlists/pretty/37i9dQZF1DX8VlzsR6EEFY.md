@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Grupo Firme & Carolina Ross en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,522 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,623 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 79 | [Khé? \(En Vivo\)](https://open.spotify.com/track/5zHqAZs7o12EZVBT5vlNXA) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Posada Bohemia \(En Vivo\)](https://open.spotify.com/album/0oVBiU0FneyJNq4ZjYnQbU) | 3:17 |
 | 80 | [¿Qué Puedes Perder? \(En Vivo\)](https://open.spotify.com/track/4XC08iW7MDM7zEyctHTWSM) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Haciendo Caminito \(En Vivo\)](https://open.spotify.com/album/3Ne5dpgjKBICSbDHyUnEb9) | 2:58 |
 
-Snapshot ID: `aHpfWwAAAACB5Fsyoqe4j9g9tDi9dCUg`
+Snapshot ID: `AAAAABJhQDLGWh2yayManTccqPbLDjZz`

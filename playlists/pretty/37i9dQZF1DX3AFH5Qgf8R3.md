@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AFH5Qgf8R3.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! / 歌手たちの舞台コメントや声を含むコンサートLIVE SETをお楽しみください！/ 가수들의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,968 likes - 84 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,967 likes - 84 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AFH5Qgf8R3.md) - [plain]
 | 83 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 |
 | 84 | [눈,코,입 \(Eyes, Nose, Lips\)](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:49 |
 
-Snapshot ID: `aA3KlwAAAABx5swJbNWum28seMJ5PA8O`
+Snapshot ID: `AAAAAKrlmfa/dDPgrJ9vsBFeDSIGQZAI`

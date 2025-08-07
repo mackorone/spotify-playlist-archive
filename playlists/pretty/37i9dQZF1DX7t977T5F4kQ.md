@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:Samini
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,080 likes - 81 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,090 likes - 81 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 80 | [Control](https://open.spotify.com/track/4urzJM1eMsfhZw1wpQEcNR) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Three Times of Peter](https://open.spotify.com/album/14bu8IbUpsWxBnQwKx4hvb) | 4:04 |
 | 81 | [PROBLEM](https://open.spotify.com/track/4IIGJVSF111kujLOqb0bgQ) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [PROBLEM](https://open.spotify.com/album/5Ak0B9sbAdYAtvNQr1to1a) | 2:54 |
 
-Snapshot ID: `aIwD4wAAAABIDw3y8iPb32n4mPPOvGDF`
+Snapshot ID: `AAAAAJhKTZBoJRlDWRlcKvUNiRRoRCF1`

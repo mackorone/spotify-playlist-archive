@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Kiesha Alvaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,259 likes - 132 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,257 likes - 132 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 131 | [lovesick \- with Indira](https://open.spotify.com/track/0WIL3Z7RbBesVLMyiScb1u) | [Berly](https://open.spotify.com/artist/6U9EnTzy0ihpx4mgs9mfud), [Indira](https://open.spotify.com/artist/4QKZ9zkLQKItIDOQ2UdttF) | [lovesick \(with Indira\)](https://open.spotify.com/album/7BaR05vLS8T2V1fe7I3erR) | 2:29 |
 | 132 | [only us tonight](https://open.spotify.com/track/0zStg9YMWWNqOdhCWeMDIR) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [only us tonight](https://open.spotify.com/album/1yJbMkMWhMWWfCsV4gBy06) | 3:12 |
 
-Snapshot ID: `aIxK+gAAAAD5UmrHKk+wC/O6mrmDi1Fh`
+Snapshot ID: `AAAAAAb6hxsj1nnTdBmoFAlY33vHgzBb`

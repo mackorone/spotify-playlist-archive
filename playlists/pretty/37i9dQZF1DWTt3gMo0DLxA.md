@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 ### [Trending Now Telugu](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
-> Trending songs from Tollywood! <br/>Cover: HIT 3
+> Trending songs from Tollywood! <br/>Cover: Athadu
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,412 likes - 53 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,865 likes - 53 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 52 | [Neeti Mullai \(Bit\)](https://open.spotify.com/track/29ffQxBUZLJdN3kiPndB9n) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Varsham](https://open.spotify.com/album/7h1jWklU81GDvg0N02TiH7) | 1:21 |
 | 53 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `AAAAALU3gTTOmDdhJnotYFpK18rQ2aOs`
+Snapshot ID: `AAAAAG6ThggcSKZdSucR4IQMEhpdAvsi`

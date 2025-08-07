@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GJszcm4a2J.md) - [plain]
 
 > Listen to the soundtracks of The First Night With the Duke\. \(남주의 첫날밤을 가져버렸다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,299 likes - 26 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,318 likes - 26 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GJszcm4a2J.md) - [plain]
 | 25 | [Blossoming Love](https://open.spotify.com/track/0cOKNumnX8Kn5oxmqgC5KY) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Blossoming Love](https://open.spotify.com/album/2KpFvc37KVafapfQwsZRWr) | 2:57 |
 | 26 | [I'll Dive Into You](https://open.spotify.com/track/0pW5RBMnYGwauZPaCUDEpr) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [I'll Dive Into You \(Villain with a Crush X LUCY\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/4HoMc6WE07BWSZCxVdaFyl) | 3:10 |
 
-Snapshot ID: `aGyJwQAAAADgzAa5412Oez8knlEgWPTX`
+Snapshot ID: `AAAAAOf925nTkVU+wjZ+ux4damQyGdaB`

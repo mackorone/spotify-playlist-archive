@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,572 likes - 23 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,579 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 22 | [ألمح لك](https://open.spotify.com/track/3NKkS7QOGTOSLD6B5aMi9r) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [ألمح لك](https://open.spotify.com/album/0QQUrE9rkF9TWSsK4zapDZ) | 2:52 |
 | 23 | [أول حب](https://open.spotify.com/track/534RVKGLxnWrjIYSKZKtOA) | [Bashar AlShatti](https://open.spotify.com/artist/6fqcvzx5yorkIOK2HwL9hU) | [بشار الشطي ٢٠٢٥](https://open.spotify.com/album/2r0N6tR20cIbndXE6TjTxo) | 3:45 |
 
-Snapshot ID: `aHdN7AAAAAAU9K27XDSNuARoBJ03XLRV`
+Snapshot ID: `AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J`

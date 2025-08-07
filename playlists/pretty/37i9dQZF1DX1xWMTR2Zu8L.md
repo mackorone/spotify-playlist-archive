@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,326 likes - 134 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,328 likes - 134 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 8 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/4WPX9cFGIOQ3yJR9izAI7Q) | [J\. Fred Coots](https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8) | [White Christmas \- A Christmas Festival](https://open.spotify.com/album/6yzjErG9plP2b6b62R6yvn) | 2:36 |
 | 9 | [Christmas at Hogwarts](https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:55 |
 | 10 | [Gumption](https://open.spotify.com/track/207Bvb5saweIULXphE94Y8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:45 |
-| 11 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/6cbnkujtCzLCoyOtOyhO74) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:06 |
-| 12 | [The Nutcracker Suite](https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Nutcracker and the Four Realms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY) | 3:59 |
+| 11 | [The Nutcracker Suite](https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Nutcracker and the Four Realms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY) | 3:59 |
+| 12 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/6cbnkujtCzLCoyOtOyhO74) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:06 |
 | 13 | [A Christmas Carol Main Title](https://open.spotify.com/track/1swBDEKTSMyTbhNc3KVwSZ) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [A Christmas Carol](https://open.spotify.com/album/35N2paA3Tb44f0a3beEU3V) | 4:21 |
 | 14 | [Entry into the Great Hall and the Banquet](https://open.spotify.com/track/0UDSwgomgI5bK1x1eYeBez) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:42 |
 | 15 | [A Change Of The Heart \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/0EQBihbgI3NIIvoUBwVDg5) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 3:44 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 133 | [Snow Scene](https://open.spotify.com/track/7aX3yA8NGtHqo7TjLYFdg4) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Father Of The Bride \(Music From The Motion Picture\)](https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa) | 1:32 |
 | 134 | [Antarctica](https://open.spotify.com/track/77DzKSTUqfrIxc1Y776aHB) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Penguins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lnDyf5b6lGAlBfAU2ak4k) | 0:49 |
 
-Snapshot ID: `AAAAAPFzomX+C2E6tHvEm2TzbJmnOItg`
+Snapshot ID: `AAAAAEpG+OB3loAzaSRfU+pIuUBkKCTW`

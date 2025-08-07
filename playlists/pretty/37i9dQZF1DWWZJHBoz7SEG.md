@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Algo bello pal camello con lo más cool de la semana en compañía de Chino Pacas y Neton Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,064 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,159 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 73 | [Last Few Parties](https://open.spotify.com/track/55wfUUF4RMvbZg98dSl9oH) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [You Wanna Fade? \(Deluxe Edition\)](https://open.spotify.com/album/3DN44dRh3BSu0pEYSLoSuG) | 2:40 |
 | 74 | [Tú Nunca Lo Sabras](https://open.spotify.com/track/2N11YipbkcRe2c35ddvmVa) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Tú Nunca Lo Sabras](https://open.spotify.com/album/1wYEKrqkdJ4n0wYPRoANNM) | 3:10 |
 
-Snapshot ID: `aIxYAAAAAABf1CrCqqMEdtOcCoVLKaZG`
+Snapshot ID: `AAAAAL0ZLy51P9MyxoU/daDBwYF4r6/J`

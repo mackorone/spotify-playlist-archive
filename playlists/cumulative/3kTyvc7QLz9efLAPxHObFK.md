@@ -4,7 +4,7 @@
 
 > 
 
-2,443 songs - 5 day 7 hr 49 min
+2,445 songs - 5 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2068,6 +2068,7 @@
 | [Test of Time](https://open.spotify.com/track/3aFE9oSnFhVbtZjFfGo7Zx) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [Brad Pickle](https://open.spotify.com/artist/68gLUBZH8yVdoHyikVPX0m), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [Pickled Pig EP](https://open.spotify.com/album/2Ft7t7tVsQZ18ETGOptrxa) | 3:23 | 2024-11-22 |  |
 | [Th3 Futur3](https://open.spotify.com/track/5v2OTwYsxDsMcWzpxtaY4v) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Th3 Futur3](https://open.spotify.com/album/7oLPuFQvUpGCUbZiS5mjdL) | 3:28 | 2023-10-20 |  |
 | [Thank You \(Hardstyle Mix\)](https://open.spotify.com/track/0nxzxVry3Dtc8bKg4kckez) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Pulsar](https://open.spotify.com/artist/5tmXZZoksgHRk1uLumsGCo) | [Thank You \(Hardstyle Mix\)](https://open.spotify.com/album/5BzrKhPS9ZVIUEbsrlRoHu) | 2:49 | 2024-03-08 |  |
+| [That Night](https://open.spotify.com/track/7o3JiOwUxzKiOqVU4L9zgt) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH), [Brisk](https://open.spotify.com/artist/67es8ZtGIcV80XDLwlQkU3), [Kayliana](https://open.spotify.com/artist/3G6siqYCWmO40U16g4GG3j) | [That Night](https://open.spotify.com/album/5r9Kq43nQvmznqK21GwFBh) | 3:00 | 2025-08-06 |  |
 | [That Rhythm](https://open.spotify.com/track/0sk9NP0jvr0sAe810KxfWt) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB) | [That Rhythm](https://open.spotify.com/album/0AQpg04jfbUk9HFH1XlPuD) | 3:19 | 2025-02-01 |  |
 | [That's The Way](https://open.spotify.com/track/6ZnS0eLtJLTY0oThMTCAii) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Drop The Bass](https://open.spotify.com/album/04Q0lTXiPIEG7xV7WPROvF) | 2:02 | 2023-11-02 |  |
 | [The Afterparty](https://open.spotify.com/track/6poxxWXqL5QT643VNn22Ad) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [The Afterparty](https://open.spotify.com/album/5DJFYkeZx4b9iC26W5iphL) | 2:52 | 2023-11-26 |  |
@@ -2344,6 +2345,7 @@
 | [WE OWN THE SOUND](https://open.spotify.com/track/3xtAtW9f59WMXHHSdUVWe1) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [WE OWN THE SOUND](https://open.spotify.com/album/0HdXopXqkNJjU3Gjx9I1SU) | 2:34 | 2025-05-13 |  |
 | [We Want A Moshpit](https://open.spotify.com/track/7o4ecEt8W4YlwNclHpuUgt) | [Hollow](https://open.spotify.com/artist/39z1fY2k7pqtv63oZUIO1M) | [We Want A Moshpit](https://open.spotify.com/album/4OIjcd5lek5K7Dzj8gGepW) | 2:46 | 2025-06-01 |  |
 | [We Will Rise](https://open.spotify.com/track/4GMvxtkxpfCOupmyH9kA8E) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Doris](https://open.spotify.com/artist/6GMuNB7yEleCIuMyk0qskf) | [We Will Rise](https://open.spotify.com/album/0ozpy9yeRaNSe8XPX4xhd6) | 3:12 | 2023-09-01 |  |
+| [We're Back](https://open.spotify.com/track/2ZV6Y1lSdLoMiMbLdncLpE) | [The Twins Artcore](https://open.spotify.com/artist/3MjXGUDYLeHQ7oaYBymcp7) | [Fucking Hardcore \#12 \- World Resistance](https://open.spotify.com/album/1FfcPJqFtefuCESQqPIV74) | 5:47 | 2025-08-06 |  |
 | [We've Got The Power](https://open.spotify.com/track/72XbgtND1cgn6E7evSDne4) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [CODA](https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP) | [We've Got The Power](https://open.spotify.com/album/0D0OSi3k9jmKqvvkKMW03X) | 3:25 | 2024-09-28 |  |
 | [WEEKEND](https://open.spotify.com/track/3RIHeko0AomqwG0capWJkT) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [WEEKEND](https://open.spotify.com/album/74yxOLteYsb8zILT9XVSfI) | 2:31 | 2024-08-02 |  |
 | [Weekend Offenders](https://open.spotify.com/track/7go0JqxmkRFZoQxvmnjHun) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Samynator](https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw) | [Weekend Offenders](https://open.spotify.com/album/6samftYEZmAZ7MYcY6hqUx) | 2:35 | 2024-03-08 |  |

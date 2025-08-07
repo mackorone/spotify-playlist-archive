@@ -5257,6 +5257,24 @@
     },
     {
       "album": {
+        "name": "Focus More On Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg"
+      },
+      "artists": [
+        {
+          "name": "Dee Mula",
+          "url": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149163,
+      "name": "Blow My High",
+      "url": "https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -8634,7 +8652,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -21374,7 +21392,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 158557,
       "name": "LEICHE",
       "url": "https://open.spotify.com/track/57LcZJJp24heY1V9kOpmag"
@@ -21472,10 +21490,32 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 144596,
       "name": "Let Him Go",
       "url": "https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk"
+    },
+    {
+      "album": {
+        "name": "Let Him Go",
+        "url": "https://open.spotify.com/album/2gRxC6SCftpuOL16AcTmsI"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144596,
+      "name": "Let Him Go",
+      "url": "https://open.spotify.com/track/7fvDXNMwfIDnvhTyMDROOp"
     },
     {
       "album": {
@@ -25392,7 +25432,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 164545,
       "name": "monster",
       "url": "https://open.spotify.com/track/1cnJs7kHhnmrwxi7V3rQOw"
@@ -29930,7 +29970,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-27",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
@@ -29952,7 +29992,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -35356,7 +35396,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -37140,6 +37180,28 @@
       "duration_ms": 250019,
       "name": "The Glen",
       "url": "https://open.spotify.com/track/0ZIxdZXPHnjUT3PdBKRziQ"
+    },
+    {
+      "album": {
+        "name": "The Glen (HYPERTECHNO)",
+        "url": "https://open.spotify.com/album/2OaOYGyA75CfTvf966hQDI"
+      },
+      "artists": [
+        {
+          "name": "Kakis",
+          "url": "https://open.spotify.com/artist/1neQ1JjUxgMLwR0U0zevUv"
+        },
+        {
+          "name": "HTMW",
+          "url": "https://open.spotify.com/artist/6UCatebaKG4l5atR0fhnJy"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "The Glen - HYPERTECHNO",
+      "url": "https://open.spotify.com/track/7Mvd7oqqZagUtWq7ytx4HF"
     },
     {
       "album": {

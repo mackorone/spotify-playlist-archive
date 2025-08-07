@@ -181,28 +181,6 @@
     },
     {
       "album": {
-        "name": "Cradle",
-        "url": "https://open.spotify.com/album/0p4mhb5pDWZsHk0pkmV1Az"
-      },
-      "artists": [
-        {
-          "name": "Mushi-P",
-          "url": "https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "date_added": "2025-05-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 271666,
-      "name": "Alien Probe (feat. Hatsune Miku)",
-      "url": "https://open.spotify.com/track/6f2wZ4c5rjZ9TEk1ExMTNf"
-    },
-    {
-      "album": {
         "name": "AYAFUYA",
         "url": "https://open.spotify.com/album/2PNOI2IEILddT9tKNRaUyD"
       },
@@ -1722,6 +1700,28 @@
       "duration_ms": 67272,
       "name": "\u3044\u3044\u306d\u304f\u308c\u308b\u541b\u304c\u597d\u304d (feat. \u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/4cGIeiYyeyjfCx2YbZEkPl"
+    },
+    {
+      "album": {
+        "name": "\u3086\u308a\u304b\u3054",
+        "url": "https://open.spotify.com/album/0p4mhb5pDWZsHk0pkmV1Az"
+      },
+      "artists": [
+        {
+          "name": "Mushi-P",
+          "url": "https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "\u3046\u3061\u3085\u3046\u3058\u3093\u63a2\u67fb\u6a5f(feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6f2wZ4c5rjZ9TEk1ExMTNf"
     },
     {
       "album": {

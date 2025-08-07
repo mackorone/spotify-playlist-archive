@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kXmLEOGDbL.md) - [plain]
 
 > Retrouvez toutes les chansons du dessin animé culte
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,158 likes - 23 songs - 51 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,166 likes - 23 songs - 51 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kXmLEOGDbL.md) - [plain]
 | 22 | [L'opéra des grenouilles](https://open.spotify.com/track/0TC1qwRqNyfiqMOR8tjY1j) | [Ricet Barrier](https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg), [Alain Cocagne](https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI), [Annie Colette](https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78), [Sébastien Gardet](https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG), [Christine Mure d’Alexis](https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G), [Augustin Viatte](https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3), [Vanina Vinitzki](https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL) | [Les chansons des Barbapapa](https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4) | 3:02 |
 | 23 | [Voici venir les Babapapa \(générique\)](https://open.spotify.com/track/1XjA2UDq32zm3a2cI963xE) | [Ricet Barrier](https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg), [Marina Vinitzki](https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN), [Vanina Vinitzki](https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL), [Valia Vinitzki](https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc), [Barbara Boutet](https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4), [Alex Legrand](https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh), [Morvan Salez](https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL), [Noël Lopez](https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb), [Paul Vaguelsy](https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd) | [Les chansons des Barbapapa](https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4) | 0:31 |
 
-Snapshot ID: `ZIsNJgAAAACJ0/LLtMZ6PoYD3I8qIQ6k`
+Snapshot ID: `AAAAALZm+HB3M2/u87Qm1vSr8LEolB7H`

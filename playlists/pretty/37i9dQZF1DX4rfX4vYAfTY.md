@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rfX4vYAfTY.md) - [plain]
 
 > Enjoy the BOYNEXTDOOR world tour \[KNOCK ON Vol.1\] LIVE SET including the voices of them on stage! \(보이넥스트도어의 무대 멘트와 목소리가 포함된 \[KNOCK ON Vol.1\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,767 likes - 25 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,780 likes - 25 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rfX4vYAfTY.md) - [plain]
 | 24 | [Ending Ment](https://open.spotify.com/track/22E4JY6EGlLkJNUrypJI2A) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [BOYNEXTDOOR TOUR KNOCK ON Vol.1 \- Audio Liner](https://open.spotify.com/album/7mpbZ3ZEhDtEpPP5yOPHTS) | 1:27 |
 | 25 | [So let's go see the stars](https://open.spotify.com/track/7x9s9KVpMOrQ2z2fzOGo8z) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 3:22 |
 
-Snapshot ID: `Z2oxkAAAAAD8m95xh67Kkjv5dzAV4fvw`
+Snapshot ID: `AAAAABqzO8M8ImkGCnmHDz3k+XwXU1hv`

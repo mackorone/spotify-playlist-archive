@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-118 songs - 7 hr 30 min
+119 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Deep Green Moss](https://open.spotify.com/track/42ZrUDiodCYlmOqjgFtgeL) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/1cKukZ9Xf3PP2E4pxz82xd) | 2:18 | 2024-03-06 | 2024-04-19 |
 | [Deep Green Moss](https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/4q83V4R8vbdJOhLgbOOPCT) | 2:18 | 2023-09-01 |  |
 | [Dos Cruces](https://open.spotify.com/track/40yYzeImyqUkNcz0Fh7bVj) | [Chico García](https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK) | [Guitarra Española \- Pasion Latina Vol.3 \(Spanish Guitar \- Latin Passion\)](https://open.spotify.com/album/1vzaRM0Jm4sHyAuqZCNx6e) | 2:52 | 2023-09-01 |  |
+| [Dos Guitarras](https://open.spotify.com/track/4UjQ5fG1YrscY9Q6FmQnIf) | [Minos Gold](https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL) | [Dos Guitarras](https://open.spotify.com/album/55mPNeVnlH2BQSSCzJLXu2) | 2:16 | 2025-08-06 |  |
 | [Dust In The Wind](https://open.spotify.com/track/4f3SRf6hsznSu41rTYJF8Y) | [Flamenco Guitar Masters](https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn) | [Flamenco Guitar Classics](https://open.spotify.com/album/2NN0ktOwwRa05rYdXG5Jzh) | 3:22 | 2023-09-01 | 2024-02-05 |
 | [Dust in the Wind](https://open.spotify.com/track/0CrYxqgUeDqKB4CWMRiGJG) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/2Ky0XoCjZXxzMsPNQxaWrj) | 3:20 | 2024-02-01 | 2024-04-19 |
 | [Dust in the Wind](https://open.spotify.com/track/5krgMALvJ9nXdJ5BF5blFN) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/7GWMKie2BiYP0oQ1ScNFGD) | 3:20 | 2024-04-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Fitasha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,224 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,226 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 39 | [Mis días raros](https://open.spotify.com/track/7E5my0zqP6OD4xYfoXn9cK) | [Elem](https://open.spotify.com/artist/4Ld1TuG5yea5RoYMLBNOVT) | [Mis días raros](https://open.spotify.com/album/3gy5oRLtBN3OWmx1mT7ZkP) | 2:56 |
 | 40 | [Brrrrasil](https://open.spotify.com/track/5p0exHlQ4E6CaHur8OHidN) | [Tomate mature](https://open.spotify.com/artist/06He1OH8vET1FciGCjJlBo) | [FRESCO VERANO](https://open.spotify.com/album/6bYpHY04JRiwbGqXD7hPvl) | 4:43 |
 
-Snapshot ID: `aJJ+9gAAAACJFGfRxxjYKuC5LTPrxAZ4`
+Snapshot ID: `AAAAAPA+QYcS6NMDu553Uy02VKP3cDuu`

@@ -4,7 +4,7 @@
 
 > This is Marco Polo\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 4 min
+129 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Quarter Water Kids](https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU) | [Solo For Dolo](https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Self Titled](https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv) | 3:10 | 2023-12-13 |  |
 | [Rap Shit](https://open.spotify.com/track/7qwh8F8XrjJg9WKIuFBE2T) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 2:38 | 2023-12-13 | 2025-01-15 |
 | [Relax](https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 4:01 | 2023-12-13 |  |
-| [Reloaded \(Intro\)](https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 1:34 | 2023-12-13 |  |
+| [Reloaded \(Intro\)](https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 1:34 | 2023-12-13 | 2025-08-07 |
 | [Rollin'](https://open.spotify.com/track/3Zgr0XyuDt3Doyyh3OjYsE) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Juju](https://open.spotify.com/artist/5Ht98v6dH1MjdQDxiid4KK), [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 4:07 | 2025-06-25 | 2025-07-05 |
 | [Scarborough \(Skit\)](https://open.spotify.com/track/5u8MpxTz3ZLbkW5Q9mPOKW) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Richmond Hill](https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V) | 0:33 | 2024-01-27 | 2024-02-18 |
 | [Scarborough \(Skit\)](https://open.spotify.com/track/7CBXZnoXUcvCkKX9xytpFB) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Richmond Hill \(Deluxe\)](https://open.spotify.com/album/7JtfLXwpLU5iJjUl9hnGih) | 0:33 | 2025-07-14 | 2025-08-02 |
@@ -134,6 +134,7 @@
 | [Wish They Could Be](https://open.spotify.com/track/35EsLVJuOpVUAzfXXFmUXY) | [Young Cord](https://open.spotify.com/artist/4GsLwjyt4SV4Tvle1zTtdU), [Young Boss](https://open.spotify.com/artist/4S9JHkwPHHcx0H7AVNHspz), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Da Connect](https://open.spotify.com/album/0EdTUAAnThfFVBkZ4Y79G3) | 3:34 | 2024-04-04 | 2024-04-07 |
 | [Więzień Własnych Granic](https://open.spotify.com/track/1L525mhtifli4X9LroMYLx) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:51 | 2025-02-03 |  |
 | [Wrong One](https://open.spotify.com/track/40H22sFbazRwISu76U1qh0) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Wordsworth](https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 3:41 | 2023-12-13 |  |
+| [Yada Yada](https://open.spotify.com/track/4ogCOpVUZoxStUv6YEF3il) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Baker's Dozen: Marco Polo](https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt) | 2:54 | 2025-08-07 |  |
 | [You & I](https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 3:10 | 2023-12-13 | 2025-07-04 |
 | [Żywy lub Martwy](https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:59 | 2024-07-23 |  |
 

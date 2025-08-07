@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: ILLENIUM, Norma Jean Martine
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,904 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,902 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 99 | [Make Luv](https://open.spotify.com/track/5bEyOobplcoZlaXapxhPzt) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Pawl](https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232) | [Make Luv](https://open.spotify.com/album/07ptUmOyhn6EJzonbxJXAg) | 2:15 |
 | 100 | [Take Me There](https://open.spotify.com/track/6GawHodtswPRCxYWzlVJX5) | [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Take Me There](https://open.spotify.com/album/5lfpJ5Bcr3FGq9jhmbarUn) | 2:57 |
 
-Snapshot ID: `aIyTeAAAAAAKhadMaK92tho5R4lAbHDz`
+Snapshot ID: `AAAAAPd7rQVhEKFArq/fkPdruPfY8p9Q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Höre dir jetzt die Deutschrap Songs des Jahres an\. Cover: Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,910 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,930 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 74 | [Hayat](https://open.spotify.com/track/2nxqny7u02Uqz7Jn7uXLiV) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [Hayat](https://open.spotify.com/album/5HOJEYuAK3HQn7E5ckijIT) | 2:46 |
 | 75 | [Eredivisie](https://open.spotify.com/track/1IaZUglHDN0kO6yhuyYta2) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Eredivisie](https://open.spotify.com/album/5MMyBEmIbKkJEEvo9pv4RW) | 2:33 |
 
-Snapshot ID: `Z1BHxAAAAAD7ZDMylNwt/Htjsgw6vN6N`
+Snapshot ID: `AAAAAO4PpRl8Gyhx7JFfstFZjGqJCI0M`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,466 likes - 150 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,478 likes - 150 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 149 | [Bedroom Blues](https://open.spotify.com/track/4t3Z814iGT0URcS0ngMEFk) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Bedroom Blues](https://open.spotify.com/album/1LQtGwotUfxdGcvaUckfhx) | 2:07 |
 | 150 | [chimenea](https://open.spotify.com/track/0gapXTrrUdFXk8707pDVBB) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [chimenea](https://open.spotify.com/album/6Fu7WKoTfwFKNX6dn3UPV4) | 1:54 |
 
-Snapshot ID: `aHpYxgAAAACQW2eFqk8MR3Dr/wA5pLyy`
+Snapshot ID: `AAAAACDG1DwlUXVOlX4CA1ScRaYZBlPd`

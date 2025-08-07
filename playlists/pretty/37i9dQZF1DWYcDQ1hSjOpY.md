@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062,750 likes - 306 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,856 likes - 306 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 305 | [Deep Under](https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Deep Under](https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0) | 2:29 |
 | 306 | [Clear Vision](https://open.spotify.com/track/5fHoLjHv4OsgamqQhCTOFs) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Clear Vision](https://open.spotify.com/album/60R0uxPAd6sXf6BofDvLLO) | 2:15 |
 
-Snapshot ID: `aIIFDAAAAABLm601D+MKGqWZ8v2JIs2t`
+Snapshot ID: `AAAAAIwVlxmL8Hh29tTgbRMDT2OmFnpx`

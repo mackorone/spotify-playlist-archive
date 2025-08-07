@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,315 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,423 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 |
 | 40 | [77 degrés](https://open.spotify.com/track/7Iy0X7n91jP85snf4c8C4R) | [77 degrés](https://open.spotify.com/artist/4OkNhj7zVwnB3p57DR2SVN), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [77 degrés](https://open.spotify.com/album/6zbMjUDhtmgx3UJSL54ZYA) | 4:07 |
 
-Snapshot ID: `aF6VxgAAAAAz5J0Vny92WqEw9E3DDpEU`
+Snapshot ID: `AAAAAGV3axFX57+sEHS2A5V0Zl59lIG5`

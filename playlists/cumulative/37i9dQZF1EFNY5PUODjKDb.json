@@ -1101,8 +1101,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "John Eifion",
+        "url": "https://open.spotify.com/album/474VpcnLdO0xFm2E3mFKoo"
       },
       "artists": [
         {
@@ -7202,6 +7202,24 @@
       "duration_ms": 318145,
       "name": "La Muerte de Judas",
       "url": "https://open.spotify.com/track/33joKHBcCUF1fZq1xuSKhe"
+    },
+    {
+      "album": {
+        "name": "Jesucristo Superstar",
+        "url": "https://open.spotify.com/album/4hOZsnQgblAQzJRnDrgN8S"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424000,
+      "name": "La Ultima Cena",
+      "url": "https://open.spotify.com/track/2M1QfgEGrx2ZWpST7po30X"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,048 likes - 46 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,057 likes - 46 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 45 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
 | 46 | [Diamant](https://open.spotify.com/track/2IeytsvuYh5NWRJLaLTbJg) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Diamant](https://open.spotify.com/album/1MdxlV8Y6QHS3erPnE3ze8) | 2:35 |
 
-Snapshot ID: `aJJcRAAAAAAABp5LEF2FtWcOcI4fDePa`
+Snapshot ID: `AAAAAH8wW9F7NlYZ7vvMkWj7zkzCcRNY`

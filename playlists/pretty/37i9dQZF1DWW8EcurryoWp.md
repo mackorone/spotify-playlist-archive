@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Soda Blonde
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,490 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,491 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 | 79 | [Kilanova Horizon](https://open.spotify.com/track/6KDSxUrvroOumG9XvAzPrd) | [Luna Motif](https://open.spotify.com/artist/72RZQEW8b04412JotqI9Nx) | [Kilanova Horizon](https://open.spotify.com/album/4to3MRaVBH84yfK3d9tUTI) | 2:59 |
 | 80 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 |
 
-Snapshot ID: `Z1LlegAAAABtMXRY+pej/Ge+sWL8wrHy`
+Snapshot ID: `AAAAACy3j7o8lJMN6ERTNNYWx0K78u7Q`

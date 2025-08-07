@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Bausa!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,212 likes - 106 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,216 likes - 106 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 21 | [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 |
 | 22 | [37\-VEIEN](https://open.spotify.com/track/6gkl0Qmu475jqpQ9cfbsbd) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [37\-VEIEN](https://open.spotify.com/album/6LeYK7ExGUA0lV920Z7ha9) | 2:12 |
 | 23 | [Is It a Crime](https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Is It a Crime](https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci) | 3:01 |
-| 24 | [M.O.B.](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B.](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
+| 24 | [M.O.B](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
 | 25 | [Sanctuary](https://open.spotify.com/track/15cMhcxJnC8oUireSkKbrP) | [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [Sanctuary](https://open.spotify.com/album/1Az4ZOoqLL9UV6JeH9kUWW) | 2:13 |
 | 26 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 |
 | 27 | [chasing for your love](https://open.spotify.com/track/78cntQQPWupxTJIfsGsarD) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [chasing for your love](https://open.spotify.com/album/1YZ0BnVfqQcALUv7A8lFlk) | 2:27 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 105 | [Let them be](https://open.spotify.com/track/5RMf7DHsnRyHKMcd2nuIK2) | [Elvic Kongolo](https://open.spotify.com/artist/0IsOtNddzfQdIzRzbumT4q) | [Let them be](https://open.spotify.com/album/5Rw7JA52Xg6LKW3HzLv7EV) | 4:48 |
 | 106 | [Evig lover girl](https://open.spotify.com/track/5NSOqQj1hhuxj6biZx06h9) | [Ingrid Holm Andersen](https://open.spotify.com/artist/3Jc2p3WO7tmqXvymKkcTxS) | [Evig lover girl](https://open.spotify.com/album/7lNhLIJwzUshfOUSxXvLjQ) | 3:15 |
 
-Snapshot ID: `aIyO/wAAAAClAHfKN8RwPZ5jfS99yXBG`
+Snapshot ID: `AAAAAFw5E3CIc/FeqpqJFeLEi8nEJGrY`

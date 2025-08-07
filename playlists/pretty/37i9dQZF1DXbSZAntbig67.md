@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,660 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,659 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/7rYC3pa1w04szXDCCOpbsd) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Party](https://open.spotify.com/album/5zia3CV55WrS5QwEHWvFcY) | 4:39 |
 | 108 | [Aires De Navidad](https://open.spotify.com/track/3q07EDAXOMoQ4SSf5NRkVn) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 3:43 |
 
-Snapshot ID: `ZIsP4gAAAAAHNKEQrcNzkxEl9BQ083SX`
+Snapshot ID: `AAAAABVvM3sRPnaOqMTaVbh4yOGFfhtr`

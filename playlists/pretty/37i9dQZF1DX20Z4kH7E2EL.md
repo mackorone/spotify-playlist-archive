@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,071 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,070 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Forest Fire](https://open.spotify.com/track/70ndkfWxk64eP2rVcJ74B2) | [H:dn](https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH), [Tom Kha](https://open.spotify.com/artist/7Jx4jOIIdp8GeoR2sA32fY) | [Forest Fire](https://open.spotify.com/album/7lUz61183J00UsCqc0K0Fo) | 2:25 |
 | 80 | [ОТПУСКАЮ](https://open.spotify.com/track/41QK467PzA0fgHZ3De1zsK) | [CREAM SODA](https://open.spotify.com/artist/0QTO0QZDjoyXxRtIgAU4GY) | [ОТПУСКАЮ](https://open.spotify.com/album/1RcUvWfSczWV5NpyQbPH2K) | 3:10 |
 
-Snapshot ID: `aIzWcQAAAAC20A1H4NVWeNlKa2Skl0ls`
+Snapshot ID: `AAAAAP53onOeoVkbfZ4oTZh23DFZpARW`

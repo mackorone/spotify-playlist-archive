@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Sama Thakore",
+  "description": "The best new music by independent artists and labels in India. Cover - Abeer Chopra",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 242725,
       "name": "Aage Tu Chale",
       "url": "https://open.spotify.com/track/5SjQbNK4ChmOSpqnUdfbZq"
@@ -464,6 +464,28 @@
       "duration_ms": 293760,
       "name": "Aakhri Manzil",
       "url": "https://open.spotify.com/track/1WoswTeeU1sYPT6Ryub1sR"
+    },
+    {
+      "album": {
+        "name": "Aan Baan",
+        "url": "https://open.spotify.com/album/0WjHJZqInHSNBjVGBN5WXq"
+      },
+      "artists": [
+        {
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
+        },
+        {
+          "name": "Rutuja Lad",
+          "url": "https://open.spotify.com/artist/6dcj7PFzG1ybNHHJyMUS3m"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "Aan Baan",
+      "url": "https://open.spotify.com/track/0vbuZoirhPmK8NyJIGuvwQ"
     },
     {
       "album": {
@@ -3637,6 +3659,28 @@
     },
     {
       "album": {
+        "name": "Bheeg Jaane De",
+        "url": "https://open.spotify.com/album/4ppifZmBunqaukNDVRIuXV"
+      },
+      "artists": [
+        {
+          "name": "Mrignain",
+          "url": "https://open.spotify.com/artist/5irjJQ2ubwgewTQmvPflLG"
+        },
+        {
+          "name": "Piyush Shankar",
+          "url": "https://open.spotify.com/artist/1BhuOVR89HEuGLypGbQJ7l"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222727,
+      "name": "Bheeg Jaane De",
+      "url": "https://open.spotify.com/track/6RdDejcCcDr5pl7aDQNGL1"
+    },
+    {
+      "album": {
         "name": "Bheeg Jaayein",
         "url": "https://open.spotify.com/album/0wtyiKgkAK9C7Dp4Z7vPIE"
       },
@@ -3744,7 +3788,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 227727,
       "name": "Bhor Panchhi",
       "url": "https://open.spotify.com/track/2XtJTEGJzb58IOVHOGLobE"
@@ -3770,7 +3814,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 244000,
       "name": "Bhul Na Jaana",
       "url": "https://open.spotify.com/track/0wFns369LXvtWbawB4I1q5"
@@ -8525,6 +8569,24 @@
     },
     {
       "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/3R2CTnXhZ8SVBrdoYcaqnC"
+      },
+      "artists": [
+        {
+          "name": "Bending Waves",
+          "url": "https://open.spotify.com/artist/2jBXghyyJF8aN7j6jfNd8b"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216447,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/0ruN9eaJD2gBW7rSkNECVB"
+    },
+    {
+      "album": {
         "name": "Fight on Acoustic",
         "url": "https://open.spotify.com/album/4vXljp9sMEqnzdvy4aGpMx"
       },
@@ -8920,7 +8982,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 195483,
       "name": "Found Her",
       "url": "https://open.spotify.com/track/3gl1q8l386iTvSinXtA0OX"
@@ -10313,6 +10375,24 @@
     },
     {
       "album": {
+        "name": "Hearts Like Rolling Stone",
+        "url": "https://open.spotify.com/album/4A1LGMBku19BHtdYYcvqHa"
+      },
+      "artists": [
+        {
+          "name": "Hanu Dixit",
+          "url": "https://open.spotify.com/artist/07gFC10uxiHKauD9MYFHT5"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Hearts Like Rolling Stone",
+      "url": "https://open.spotify.com/track/6rp21rPJOGxOxa1yRgSy2F"
+    },
+    {
+      "album": {
         "name": "Heeriye",
         "url": "https://open.spotify.com/album/680KENCtLqsml1P5OI7kCG"
       },
@@ -11478,6 +11558,24 @@
       "duration_ms": 233071,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3CdCfx4SMgshMvajt6uZEZ"
+    },
+    {
+      "album": {
+        "name": "I Was a Mistake",
+        "url": "https://open.spotify.com/album/1Xb0c0xILrumW9VojO3Pob"
+      },
+      "artists": [
+        {
+          "name": "Zephyrtone",
+          "url": "https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160011,
+      "name": "I Was a Mistake",
+      "url": "https://open.spotify.com/track/6vk2qtHHpMya0SKomIDrEh"
     },
     {
       "album": {
@@ -14916,7 +15014,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 218882,
       "name": "Kaise Kahun",
       "url": "https://open.spotify.com/track/1DLjYfDBS2bwdpcUyb2sHq"
@@ -15314,7 +15412,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 149927,
       "name": "Kehndi Hai",
       "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
@@ -19325,6 +19423,28 @@
     },
     {
       "album": {
+        "name": "Me & Her",
+        "url": "https://open.spotify.com/album/1I9TzbyJO7EvxwJpPsDMIK"
+      },
+      "artists": [
+        {
+          "name": "Dipayon",
+          "url": "https://open.spotify.com/artist/5z8grV7iQOVrl6df7ZRPep"
+        },
+        {
+          "name": "Rooh",
+          "url": "https://open.spotify.com/artist/6CoSN7t1ndmQBydGC4TkZT"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243998,
+      "name": "Me & Her",
+      "url": "https://open.spotify.com/track/5pB4dijTfOLxXZ6BSQF4Mt"
+    },
+    {
+      "album": {
         "name": "Me Aur Tum Ek Dhun",
         "url": "https://open.spotify.com/album/0Micnnzypv64582jJpHbOQ"
       },
@@ -20468,7 +20588,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 276718,
       "name": "Mujhse Kabhi To Puch Le",
       "url": "https://open.spotify.com/track/0PXfmamS6kGlALfyDssRAP"
@@ -22552,7 +22672,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 146921,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/4puMwTpllRA56a8TtQEpjd"
@@ -26306,7 +26426,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 167606,
       "name": "Sapno Ki Baarish",
       "url": "https://open.spotify.com/track/5iwDRDMYvots5xNNllWtDE"
@@ -26438,6 +26558,32 @@
       "duration_ms": 271200,
       "name": "Sau Aasman",
       "url": "https://open.spotify.com/track/1VpSjyeMCYu01wU4FfpdBk"
+    },
+    {
+      "album": {
+        "name": "Sau Baaton Ki",
+        "url": "https://open.spotify.com/album/2e6X9n2Ae5YXDqr5yZqP6v"
+      },
+      "artists": [
+        {
+          "name": "Abeer Chopra",
+          "url": "https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF"
+        },
+        {
+          "name": "Sage",
+          "url": "https://open.spotify.com/artist/2FdypzkzEtMQYVNcLFttXi"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203966,
+      "name": "Sau Baaton Ki",
+      "url": "https://open.spotify.com/track/3A9Kc7QLypZF8jpiRKUWpL"
     },
     {
       "album": {
@@ -28380,6 +28526,28 @@
       "duration_ms": 256571,
       "name": "Sunshine on the Street",
       "url": "https://open.spotify.com/track/2i9RJNKfewyJ5dJZAWQKul"
+    },
+    {
+      "album": {
+        "name": "Sunwai",
+        "url": "https://open.spotify.com/album/70QKEf80oVwKfa4i35lKVD"
+      },
+      "artists": [
+        {
+          "name": "Shivam Vashisht",
+          "url": "https://open.spotify.com/artist/3gyUpopsFDSJ5Cg9N7dJoy"
+        },
+        {
+          "name": "Sshiv",
+          "url": "https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171660,
+      "name": "Sunwai",
+      "url": "https://open.spotify.com/track/46EvL80ajiAI55TBFoZPzP"
     },
     {
       "album": {
@@ -32340,6 +32508,24 @@
       "duration_ms": 212210,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/6gAp429V9wo3s8p0i8M1eU"
+    },
+    {
+      "album": {
+        "name": "What If I Fly?",
+        "url": "https://open.spotify.com/album/0gFfDcJdEQAyL5Wbb7zTLC"
+      },
+      "artists": [
+        {
+          "name": "Darshit Nayak",
+          "url": "https://open.spotify.com/artist/2LAasBaHv5hP9CNYcAw3Th"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201422,
+      "name": "What If I Fly?",
+      "url": "https://open.spotify.com/track/7BptjcTzpdGugMWpWz5UeL"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Easykid en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,534 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,527 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [YUMMi ‹𝟹](https://open.spotify.com/track/6AAXDBDExlkCAdJAZiOCfL) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [YUMMi ‹𝟹](https://open.spotify.com/album/105S0cR3xG70Z9xb5c4kZ0) | 2:33 |
 | 2 | [Tu Mirada X\-X](https://open.spotify.com/track/0rVTodSaidGf0LwWBpoAlB) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [HALÉ](https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii), [Waidrian](https://open.spotify.com/artist/2KHMDED0sL5iU8WLUS3OFj) | [Tu Mirada X\-X](https://open.spotify.com/album/7skUMporZZxfNjpiNPRrFC) | 3:53 |
-| 3 | [HDLV](https://open.spotify.com/track/5qhqwKEdmGlMkbaL4OW1yM) | [Poker Man](https://open.spotify.com/artist/55VBseRCGPnNJIp23Jembz), [Dark Hollywood](https://open.spotify.com/artist/2ilPTU4xAAZlJRBgQUMRZa), [Winnie Wey](https://open.spotify.com/artist/6DtEQPtyIkPlnDcuEtDXat) | [HDLV](https://open.spotify.com/album/0SDZe0HMiw2rhI8jtPeKJp) | 2:42 |
+| 3 | [HDLV](https://open.spotify.com/track/5qhqwKEdmGlMkbaL4OW1yM) | [Poker Man](https://open.spotify.com/artist/55VBseRCGPnNJIp23Jembz), [Dark Hollywood](https://open.spotify.com/artist/2ilPTU4xAAZlJRBgQUMRZa), [Winnie Wey!](https://open.spotify.com/artist/1nLg6gDxjMxnL9FkOpTCLo) | [HDLV](https://open.spotify.com/album/0SDZe0HMiw2rhI8jtPeKJp) | 2:42 |
 | 4 | [paranormal](https://open.spotify.com/track/5sNJ4okiWlOOYP4I66Qhuv) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares+](https://open.spotify.com/album/7vS5TDQ9oUakyWAtBqlldL) | 2:55 |
 | 5 | [WIF](https://open.spotify.com/track/0zZs0uMGHqjPk9Wt2vhwBK) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [Ab1xd.mp3](https://open.spotify.com/artist/5figENKgII1lqutHDUpkgS) | [WIF](https://open.spotify.com/album/5H0UCABpYoXl49EN7skROl) | 1:40 |
 | 6 | [Infierno](https://open.spotify.com/track/2jUxuPuBw3egtZXSOOQrCw) | [Jendel](https://open.spotify.com/artist/7CMHybr1N6jq7bNG7aHbIw), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv), [Durba](https://open.spotify.com/artist/0tCLPpNikU0e6Tje2gH518) | [Infierno](https://open.spotify.com/album/31XaCrKxXMg7vJ0sZaavJI) | 1:56 |

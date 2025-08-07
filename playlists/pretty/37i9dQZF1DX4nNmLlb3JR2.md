@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,606 likes - 160 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,660 likes - 160 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 159 | [californication](https://open.spotify.com/track/4tGyu6JEpbpYGCmwijRYOt) | [kent mills](https://open.spotify.com/artist/7622kFOP9UZ4bl6DN87EIZ) | [californication](https://open.spotify.com/album/2Dvz9vSWLxEBd2eO6uldcU) | 2:07 |
 | 160 | [what was i made for](https://open.spotify.com/track/7ztVb1wBTjjkSJSg8cgmMA) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [what was i made for](https://open.spotify.com/album/3KhgQIQDqinlfOFK3ruHa8) | 3:34 |
 
-Snapshot ID: `Z3/VEQAAAADHenNONvJ/9OuANwIf3y1r`
+Snapshot ID: `AAAAAIYXE4nxW+6jko/eBZz8BNzr7qPu`

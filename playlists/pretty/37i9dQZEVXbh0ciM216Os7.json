@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADMn7SMxmpCbOGEZg2z1s9L",
+  "snapshot_id": "AAAAAAAAAABzZRPwkl8sXjq6BO+d67Yt",
   "tracks": [
     {
       "added_at": "2025-08-01 04:00:00",
@@ -83,6 +83,26 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
+        "name": "Head On Swivel",
+        "url": "https://open.spotify.com/album/6pCZ5PKVR7emIMYKzr6qGS"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 163834,
+      "name": "Payback Is A Bitch (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/5ncdJMzIJrUrH2JTVL73Dd"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/7v9yB3BnZdvZrgyeCEUJFm"
       },
@@ -103,7 +123,7 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "NO TRUST (with Snoop Dogg)",
+        "name": "NO TRUST",
         "url": "https://open.spotify.com/album/1O0ziOxAl1DSZTF9JFPigI"
       },
       "artists": [
@@ -117,44 +137,8 @@
         }
       ],
       "duration_ms": 154447,
-      "name": "NO TRUST - with Snoop Dogg",
+      "name": "NO TRUST",
       "url": "https://open.spotify.com/track/2bPqQy1jrs0Gpd75tMCgaK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Kangaroos",
-        "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 106511,
-      "name": "Kangaroos",
-      "url": "https://open.spotify.com/track/7EVpTQzh5RGEzuqh1Ewr2u"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Head On Swivel",
-        "url": "https://open.spotify.com/album/6pCZ5PKVR7emIMYKzr6qGS"
-      },
-      "artists": [
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 153516,
-      "name": "Let's Go (feat. Wiz Khalifa)",
-      "url": "https://open.spotify.com/track/7xCHPhRSF5SZIjwQHg01Qa"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -175,26 +159,18 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/7evaZcQOosRHFINTmM4ElR"
+        "name": "Kangaroos",
+        "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
       },
       "artists": [
         {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
-        },
-        {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
-        },
-        {
-          "name": "E.V.G",
-          "url": "https://open.spotify.com/artist/24nKkGrmRvfoYXkCmcIRy0"
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
         }
       ],
-      "duration_ms": 137396,
-      "name": "Crimson",
-      "url": "https://open.spotify.com/track/5nkJnnRGh0QTbsmfbYBymU"
+      "duration_ms": 106511,
+      "name": "Kangaroos",
+      "url": "https://open.spotify.com/track/7EVpTQzh5RGEzuqh1Ewr2u"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -227,6 +203,30 @@
       "duration_ms": 162253,
       "name": "Lecture",
       "url": "https://open.spotify.com/track/7ETx46LypHNUH9UHTfMUvy"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/7evaZcQOosRHFINTmM4ElR"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        },
+        {
+          "name": "E.V.G",
+          "url": "https://open.spotify.com/artist/24nKkGrmRvfoYXkCmcIRy0"
+        }
+      ],
+      "duration_ms": 137396,
+      "name": "Crimson",
+      "url": "https://open.spotify.com/track/5nkJnnRGh0QTbsmfbYBymU"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -291,38 +291,6 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "my mind is a mountain",
-        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 170941,
-      "name": "my mind is a mountain",
-      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv"
       },
@@ -339,18 +307,50 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "What Did I Miss?",
-        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+        "name": "Catch Me Outside 2",
+        "url": "https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
         }
       ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+      "duration_ms": 126315,
+      "name": "Catch Me Outside 2",
+      "url": "https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "The Emperor's New Clothes",
-        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
-      },
-      "artists": [
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 144201,
-      "name": "Bear Hill",
-      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
         "name": "Friends Forever",
         "url": "https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 170727,
       "name": "Friends Forever",
       "url": "https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "The Emperor's New Clothes",
+        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 144201,
+      "name": "Bear Hill",
+      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -499,6 +499,22 @@
       "duration_ms": 128576,
       "name": "Go Head Testify",
       "url": "https://open.spotify.com/track/13p6tEOo9jYWn3bbxNs6RS"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "I'll Be Around",
+        "url": "https://open.spotify.com/album/19FgcQw8fRGL25HZsKYmZP"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 220407,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/5TEbPy96mbPIH31c3XMWBK"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -547,22 +563,6 @@
       "duration_ms": 143255,
       "name": "Dingue - MARQUISE Remix",
       "url": "https://open.spotify.com/track/7JdECRrMW00rvsdxY8ZoAr"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "I'll Be Around",
-        "url": "https://open.spotify.com/album/19FgcQw8fRGL25HZsKYmZP"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 220407,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/5TEbPy96mbPIH31c3XMWBK"
     },
     {
       "added_at": "2025-08-01 04:00:00",

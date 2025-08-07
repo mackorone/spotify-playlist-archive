@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,417,574 likes - 200 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,417,665 likes - 200 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 199 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 |
 | 200 | [Calm Euphoria](https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k) | [Alunni](https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz) | [Calm Euphoria](https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF) | 2:24 |
 
-Snapshot ID: `aIw70wAAAAA91XXtBodJHajXHrZiTIZR`
+Snapshot ID: `AAAAAN2m7N3cAOQo09g+TVP28NV5tmvu`

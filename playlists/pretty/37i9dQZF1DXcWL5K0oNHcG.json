@@ -1,13 +1,33 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE. Artwork: Joy Yamusangie.",
-  "num_followers": 238261,
+  "num_followers": 238289,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKQY53fA0xgHV59tk9AxI3QlGp+D",
+  "snapshot_id": "AAAAAM2+GcIk6BOiS31S1FaXRYOdba5h",
   "tracks": [
+    {
+      "added_at": "2025-08-06 15:46:55",
+      "album": {
+        "name": "Asleep Above Creatures",
+        "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
+      },
+      "artists": [
+        {
+          "name": "Misaki Umei",
+          "url": "https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO"
+        },
+        {
+          "name": "Antonio Loureiro",
+          "url": "https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD"
+        }
+      ],
+      "duration_ms": 291040,
+      "name": "Go around in circles",
+      "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
+    },
     {
       "added_at": "2025-07-09 04:00:06",
       "album": {

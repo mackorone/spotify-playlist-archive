@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Cooee
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,379 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,381 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Anpuru Maau Kutjpa](https://open.spotify.com/track/30kdrlGU6xawmZDVqaZatn) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Anpuru Maau Kutjpa](https://open.spotify.com/album/3hb2qk3h5CnM9D6U2mO29V) | 3:00 |
 | 50 | [They Are Coming](https://open.spotify.com/track/6v4cNQouw1uYO52GDhoxAs) | [Kankawa Nagarra](https://open.spotify.com/artist/5oZyZWOfXAHTnFUBxcym5n) | [Wirlmarni](https://open.spotify.com/album/0esWC9cTzu8HseoFqJk4nu) | 1:32 |
 
-Snapshot ID: `aJABmgAAAACdh1xVAcUJHG08DkS6HAnq`
+Snapshot ID: `AAAAACZt5zvhLqlRsrTX2Tdg70GF5ObR`

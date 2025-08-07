@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's original video series OUTSIDE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008 likes - 23 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,011 likes - 23 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 | 22 | [Burn \(Spotify OUTSIDE Version\) \- Live from Nashville](https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [OUTSIDE](https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz) | 3:25 |
 | 23 | [Still In Shocc \(Spotify OUTSIDE Version\) \- Live from Watts, CA](https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/0RG860dF0cxd5ODJOYJlOX) | 2:35 |
 
-Snapshot ID: `aJCqDgAAAAAbceEM4cWAlKNvVhVrdECZ`
+Snapshot ID: `AAAAAMQ3nEPHN7kD21fWPgDhcaECkDZW`

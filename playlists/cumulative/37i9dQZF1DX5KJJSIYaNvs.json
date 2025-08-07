@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Simran Choudhary",
+  "description": "Listen to women at full volume. Cover - Kaushiki Chakraborty",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -3305,6 +3305,28 @@
     },
     {
       "album": {
+        "name": "Ek Baar Phir",
+        "url": "https://open.spotify.com/album/6BuWVwQ9YbWlumt1YNGWmn"
+      },
+      "artists": [
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195189,
+      "name": "Ek Baar Phir",
+      "url": "https://open.spotify.com/track/2hyUlyhFb4qO5Gfl97taPg"
+    },
+    {
+      "album": {
         "name": "Ek Khwaab",
         "url": "https://open.spotify.com/album/2OV5h8oUYjIPrYBaG9RgFv"
       },
@@ -5252,7 +5274,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 196359,
       "name": "Kaindiyaan",
       "url": "https://open.spotify.com/track/5xpp3sE0zi5akk2kTA2Swo"

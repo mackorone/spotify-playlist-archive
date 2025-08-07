@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Tasché, Kurt Darren, FATMAN,  Riana Nel, Arno Jordaan en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,567 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,589 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 99 | [Vat jou goed](https://open.spotify.com/track/5GDfQCcEycV0GxzBYTZbKb) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Vat jou goed](https://open.spotify.com/album/2RmHIiEAVvv642baa2WYQN) | 3:23 |
 | 100 | [Blokfluit](https://open.spotify.com/track/18OT3vzdcxD569umTGxRVf) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Blokfluit](https://open.spotify.com/album/6eaGqyM4W25arX7CSOmVqP) | 2:42 |
 
-Snapshot ID: `aIvnfgAAAABFkaCyzmQPgXSLnFmgl6LR`
+Snapshot ID: `AAAAAALM4aWriWLQ5Lg3Icf8Gr/VR+aG`

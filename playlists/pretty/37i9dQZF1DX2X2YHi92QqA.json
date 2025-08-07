@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf3b\ud83c\udfd5\ufe0f\ud83c\udfde\ufe0f\ud83c\udfca\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udf05\ud83c\udf37\u26f0\ufe0f\ud83d\udeb4\ud83c\udffc\u200d\u2642\ufe0f\ud83c\udf7a\ud83c\udf33",
-  "num_followers": 36914,
+  "num_followers": 36920,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJBxNgAAAAB20+0nY6Dt35eLWN0UjArS",
+  "snapshot_id": "AAAAAOTWOjXveOVFGyHLUVgWe3Sn3Dg0",
   "tracks": [
     {
       "added_at": "2025-08-04 08:37:10",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
-        "url": "https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv"
-      },
-      "artists": [
-        {
-          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
-          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
-      "url": "https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay"
-    },
-    {
-      "added_at": "2025-08-04 08:37:10",
-      "album": {
         "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
         "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 166500,
       "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
+    },
+    {
+      "added_at": "2025-08-04 08:37:10",
+      "album": {
+        "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
+        "url": "https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
+      "url": "https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay"
     },
     {
       "added_at": "2025-08-04 08:37:10",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
-        "url": "https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl"
-      },
-      "artists": [
-        {
-          "name": "Grohotsky",
-          "url": "https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi"
-        }
-      ],
-      "duration_ms": 213992,
-      "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
-      "url": "https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d"
-    },
-    {
-      "added_at": "2025-08-04 08:37:10",
-      "album": {
         "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
         "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 218928,
       "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
       "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
+    },
+    {
+      "added_at": "2025-08-04 08:37:10",
+      "album": {
+        "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
+        "url": "https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl"
+      },
+      "artists": [
+        {
+          "name": "Grohotsky",
+          "url": "https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi"
+        }
+      ],
+      "duration_ms": 213992,
+      "name": "\u0411\u0443\u0434\u044c \u0437\u0456 \u043c\u043d\u043e\u044e",
+      "url": "https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d"
     },
     {
       "added_at": "2025-08-04 08:37:10",

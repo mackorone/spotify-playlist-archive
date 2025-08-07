@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z?si=umUOIuWqQTadX43Ikkp\_Sw">FOLA</a> & <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=YpyM9WIqRJChjJYvJTgbUA">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,846 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,853 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 59 | [BIG AKA FOR AKA KAI](https://open.spotify.com/track/32SmA8eihx2SOspUQMjtjG) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [BIG AKA FOR AKA KAI](https://open.spotify.com/album/5TWPV4bMh4z0RrIuZGWCHj) | 4:03 |
 | 60 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
 
-Snapshot ID: `aIxfzgAAAAB4Rsrk/thG4qD+vPrVvBdM`
+Snapshot ID: `AAAAAC5iIsh4mZXmGLNEjM4xUbM18Gg7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by JP 47, Karan aujla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,579 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,585 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Modern Street](https://open.spotify.com/track/4KJJ0IE7gRhJ5slD6EPC88) | [Taabir Aulakh](https://open.spotify.com/artist/1LxRy5PBBXvfn7dOPm6Sdb) | [Modern Street](https://open.spotify.com/album/2vOeEUIi2UpTVOBVNZ9iZQ) | 2:33 |
 | 75 | [Rab Rakha](https://open.spotify.com/track/4SK3x4tswl9vrDk2GwqbD2) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Rab Rakha](https://open.spotify.com/album/7gT7hDB1U8yFCKIcnn7CIZ) | 2:54 |
 
-Snapshot ID: `aIyjSAAAAAAzG7O6j2fypWHzgYS0aS3M`
+Snapshot ID: `AAAAAH8WPdo9vt2PDZh0MxK2cwEZd30a`

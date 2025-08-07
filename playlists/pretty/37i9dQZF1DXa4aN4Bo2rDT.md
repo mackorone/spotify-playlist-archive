@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4aN4Bo2rDT.md) - [plain]
 
 > A soothing selection of music from Pokémon Sleep! ©Pokémon/Nintendo/CR/GF
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,149 likes - 20 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,322 likes - 20 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4aN4Bo2rDT.md) - [plain]
 | 19 | [ラピスラズリ湖畔（夜）](https://open.spotify.com/track/56mfAxYWB4gn7Oli7E2L3v) | [Pokémon Sleep](https://open.spotify.com/artist/65As9pJfcWHUl7Rpp4T476), [景山将太](https://open.spotify.com/artist/1Yyx41KWDE5iDL5I4T8wZ0) | [Pokémon Sleep](https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH) | 4:05 |
 | 20 | [グッドスリープデー](https://open.spotify.com/track/0qBpDIbGDpjTJw2A0O2Uyq) | [Pokémon Sleep](https://open.spotify.com/artist/65As9pJfcWHUl7Rpp4T476), [景山将太](https://open.spotify.com/artist/1Yyx41KWDE5iDL5I4T8wZ0) | [Pokémon Sleep](https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH) | 4:45 |
 
-Snapshot ID: `Z5O9yAAAAACkf8hootnHW9UgEw4HhxMZ`
+Snapshot ID: `AAAAAG7zl5+YEB4Bg9O1/KWYpDEj0FwI`

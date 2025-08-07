@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDiwzsFdvXP.md) - [plain]
 | 8 | [Chronicling centuries of black cookbooks, Toni Tipton\-Martin brings these recipes to the page in Jubilee](https://open.spotify.com/episode/48PMfPMV8iVgqKGJ6OUBpl) | [Salt & Spine](https://open.spotify.com/show/1UfofPPEAGqPxviLm0sfWN) | [Salt & Spine](https://open.spotify.com/album/1UfofPPEAGqPxviLm0sfWN) | 51:59 |
 | 9 | [Episode 65: Michael W\. Twitty on Culinary History and More](https://open.spotify.com/episode/57eGYcwnqG3TEM2UfZuON7) | [A Hungry Society](https://open.spotify.com/show/3XwaXfuQ9jCUpWCILCWbYr) | [A Hungry Society](https://open.spotify.com/album/3XwaXfuQ9jCUpWCILCWbYr) | 53:02 |
 
-Snapshot ID: `ZIsM6gAAAAD1G6knsk8PWCjrImPvUQkj`
+Snapshot ID: `AAAAACAt4yS/pl7f1VPqtDdwKEsdRhWF`

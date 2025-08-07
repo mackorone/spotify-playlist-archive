@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【全セットリスト公開】5月10日\(土\)\~11日\(日\)に開催された「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストのセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,337 likes - 333 songs - 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,336 likes - 333 songs - 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 332 | [on my own way](https://open.spotify.com/track/1qZgUQJPeMNuaJoQzk5iz3) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [on my own way](https://open.spotify.com/album/20hSpkw0ZrWfUChApIeJXs) | 2:29 |
 | 333 | [カモメ](https://open.spotify.com/track/3Nsq3LxwkV285ZpJcm0UZl) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [broken ep](https://open.spotify.com/album/5u2UfKH9NBojUpIyqXdMMw) | 1:59 |
 
-Snapshot ID: `aCHdGAAAAABdQMYl0SmvdTS+cLNqcf8k`
+Snapshot ID: `AAAAANUIk+tkHDR+of5q5cwF4h2vfJEu`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Nkosazana Daughter, Will Linley, Rema, Thakzin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,003 likes - 84 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,057 likes - 84 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Emsakazweni \(feat\. Nobuhle & Essa Kay\)](https://open.spotify.com/track/6Dbaj3hgnH7hjVJv7gYUTR) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Emsakazweni \(feat\. Nobuhle & Essa Kay\)](https://open.spotify.com/album/720wWzLE46STvV9tIgUDpA) | 6:30 |
 | 2 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |
 | 3 | [First Love](https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [First Love](https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l) | 3:41 |
-| 4 | [Basela \(feat\. Ceehle & Sims Noreng\)](https://open.spotify.com/track/6UoD8zeyngDss1J5ZOJd7l) | [DJ Tshegu](https://open.spotify.com/artist/6ei1fCxL5TGjFKBj1B8KgM), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Ceehle](https://open.spotify.com/artist/1xPvIl3BD7HNtL3Q00FJLB), [Sims Noreng](https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE) | [Basela \(feat\. Ceehle & Sims Noreng\)](https://open.spotify.com/album/5hceuw65YVOObZ3B2Omt7o) | 6:16 |
+| 4 | [Basela \(feat\. Ceehle & Sims Noreng\)](https://open.spotify.com/track/6UoD8zeyngDss1J5ZOJd7l) | [DJ Tshegu](https://open.spotify.com/artist/6ei1fCxL5TGjFKBj1B8KgM), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Ceehle](https://open.spotify.com/artist/1xPvIl3BD7HNtL3Q00FJLB), [Sims Noreng](https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE) | [Basela \(feat\. Ceehle & Sims Noreng\)](https://open.spotify.com/album/5hceuw65YVOObZ3B2Omt7o) | 6:17 |
 | 5 | [Wild West \(feat\. Cowboii & Scotts Maphuma\)](https://open.spotify.com/track/323GkdZE9ur1VYGX755ukN) | [Novatron](https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s), [Rasca D'djy](https://open.spotify.com/artist/4S1SaUUBVGBJmUY6xG0ruu), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [Wild West \(feat\. Cowboii & Scotts Maphuma\)](https://open.spotify.com/album/31zCNLS1BgWism8iyr7vCy) | 6:21 |
 | 6 | [Bozza Mthathe](https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Bozza Mthathe / Release & Sustain](https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC) | 6:24 |
 | 7 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 83 | [Khuluma \(feat\. Allicaltune Drum Roll\)](https://open.spotify.com/track/4duNEXsYfucb07YMFhH17U) | [Ntate Lesiba](https://open.spotify.com/artist/6dOhvtaOSosUpTmqqVgncm), [Allicaltune Drum Roll](https://open.spotify.com/artist/2DDxFFfEIhPigJDgWE33HS) | [Kgotla](https://open.spotify.com/album/3p9RsZQCVg5IkJqbF5eVgJ) | 3:34 |
 | 84 | [Uthando](https://open.spotify.com/track/4WmrUjGkpczctWQpz3iYWv) | [Thabiso Thabethe](https://open.spotify.com/artist/5b6sXvOGkQaAhJIe7EbJfU), [Tshepiso Thabethe](https://open.spotify.com/artist/5Xdaj0DCdDaIGUyT7w95sG) | [Uthando](https://open.spotify.com/album/1Pg29XFI3NXp3LN5PmjfAe) | 2:53 |
 
-Snapshot ID: `aIwrBAAAAACB+F083nrbcOg6d805S4lS`
+Snapshot ID: `AAAAAPJiXmURePeuj8pqyvWY6Zn8qdEH`

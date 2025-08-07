@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: nobigdyl\. & KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,247 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,279 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 54 | [TBH](https://open.spotify.com/track/78UENIHzoxWF75JO1R5xRu) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [TBH](https://open.spotify.com/album/6JQJHr8cvixFtuTNJ3IhwP) | 2:01 |
 | 55 | [Passing Through \| Make It Home Medley \(for ESPYS\)](https://open.spotify.com/track/7Be8qqCCDA4OqFLypQJIkC) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [David Michael Wyatt](https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX) | [Passing Through \| Make It Home Medley \(for ESPYS\)](https://open.spotify.com/album/1mgBvdZ9kbjsv6fId4QXq6) | 2:12 |
 
-Snapshot ID: `aJFFbwAAAABPrzCIEw+Kftrz41ll8Z3p`
+Snapshot ID: `AAAAAMkfI5+k9uV+w5Y0z+PiaHHXXXC/`

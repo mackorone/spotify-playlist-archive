@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 
 > Lo mejor del año  del mundo indie y alternativo, como Arde Bogotá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,185 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,198 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 | 49 | [Ressaca a sa platja](https://open.spotify.com/track/6TMsPIBih5mb6phJiRZ4ee) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Nostàlgia Airlines](https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV) | 2:56 |
 | 50 | [Ni una sola palabra](https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Ni una sola palabra](https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g) | 3:31 |
 
-Snapshot ID: `Z1BHxAAAAACq+c+OGQ+zjL20gNgy4DCL`
+Snapshot ID: `AAAAADkDEiAyNyjPxS26G249T9shU4v2`

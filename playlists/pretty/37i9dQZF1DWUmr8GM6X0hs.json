@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 100473,
+  "num_followers": 100499,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnsDLwAAAAAIapDKeDxrUG6FJ7SFPxv/",
+  "snapshot_id": "AAAAAByBsMdo6Zs7ZjjpqnrvGrrNcogr",
   "tracks": [
     {
       "added_at": "2024-06-25 17:49:34",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Inolvidable (Boleros)",
-        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
+        "name": "Esencial Ana y Victor",
+        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
       },
       "artists": [
         {
-          "name": "Betty Missiego",
-          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Ma\u00f1anas de Carnaval",
-      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
+      "duration_ms": 185240,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Esencial Ana y Victor",
-        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
+        "name": "Inolvidable (Boleros)",
+        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
       },
       "artists": [
         {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+          "name": "Betty Missiego",
+          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
         }
       ],
-      "duration_ms": 185240,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
+      "duration_ms": 215000,
+      "name": "Ma\u00f1anas de Carnaval",
+      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Brillantes - Eydie Gorme Y Los Panchos",
+        "url": "https://open.spotify.com/album/2x0Uc0vEeVPsX1z80i3VcO"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5aJW8qYYA4acvy7HBaIQV8"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "30 Mejores: Alci Acosta",
         "url": "https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 201000,
       "name": "Me Dices Que Te Vas",
       "url": "https://open.spotify.com/track/3OYTcBibQjitxy8hMeMTTn"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Brillantes - Eydie Gorme Y Los Panchos",
-        "url": "https://open.spotify.com/album/2x0Uc0vEeVPsX1z80i3VcO"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5aJW8qYYA4acvy7HBaIQV8"
     }
   ],
   "unique_name": "Boleros en Casa",

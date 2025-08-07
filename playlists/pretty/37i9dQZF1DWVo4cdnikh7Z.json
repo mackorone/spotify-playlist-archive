@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Madharaasi",
-  "num_followers": 715924,
+  "num_followers": 715966,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJBJUwAAAAByY7nz21oopjP9JqqLx+QA",
+  "snapshot_id": "AAAAAPaWDHWAlOjTnmVXtjmXLG8KlIwM",
   "tracks": [
     {
       "added_at": "2025-07-31 13:51:13",
@@ -457,6 +457,30 @@
       "url": "https://open.spotify.com/track/6eUb78GnMFT9g50pfn2nsj"
     },
     {
+      "added_at": "2025-08-06 12:52:24",
+      "album": {
+        "name": "Mercury Pookkalaai (From \"Madhupriyan\")",
+        "url": "https://open.spotify.com/album/5kih4xUCf4py1sdDJ0yCHt"
+      },
+      "artists": [
+        {
+          "name": "MS Mani",
+          "url": "https://open.spotify.com/artist/5yYpfdlCp4mxRLZbiMl1z7"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Mohanramkumar P",
+          "url": "https://open.spotify.com/artist/3Fns2vKu1LksmNxn4Mk8dk"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mercury Pookkalaai (From \" Madhupriyan\")",
+      "url": "https://open.spotify.com/track/700H1CUzdoHdpyuW8S8pyj"
+    },
+    {
       "added_at": "2025-07-25 06:40:09",
       "album": {
         "name": "Baimaa Keedhu (From \"Pei Kathai\")",
@@ -479,6 +503,30 @@
       "duration_ms": 169507,
       "name": "Baimaa Keedhu (From \"Pei Kathai\")",
       "url": "https://open.spotify.com/track/3Vem0fas35WUQ82DJr0SAz"
+    },
+    {
+      "added_at": "2025-08-06 12:56:31",
+      "album": {
+        "name": "Sotta Sotta Nanaiyuthu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0WHgtsvIrzx6xDEPuJaZ3U"
+      },
+      "artists": [
+        {
+          "name": "Renjith Unni",
+          "url": "https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA"
+        },
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        },
+        {
+          "name": "Neha Venugopal",
+          "url": "https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Mandhira Kannaley",
+      "url": "https://open.spotify.com/track/0hA0urn4eu3LdFkiNWeTPA"
     },
     {
       "added_at": "2025-07-25 06:42:36",
@@ -915,6 +963,26 @@
       "duration_ms": 206666,
       "name": "Vibe Irukku Baby (From \"Mirai\") [Tamil]",
       "url": "https://open.spotify.com/track/64w8s3bJ8c6tclBRYid4Rp"
+    },
+    {
+      "added_at": "2025-08-06 12:56:31",
+      "album": {
+        "name": "Sotta Sotta Nanaiyuthu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0WHgtsvIrzx6xDEPuJaZ3U"
+      },
+      "artists": [
+        {
+          "name": "Renjith Unni",
+          "url": "https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA"
+        },
+        {
+          "name": "Vaishnav Girish",
+          "url": "https://open.spotify.com/artist/758c48T3L8Elbtant7jBz6"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Uyirae",
+      "url": "https://open.spotify.com/track/2V8Ma2DHRLbwJnOaU7Tx0p"
     },
     {
       "added_at": "2025-07-14 06:20:08",

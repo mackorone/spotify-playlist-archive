@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Fine jazz for a fine day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,535 likes - 64 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,534 likes - 64 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 63 | [Etcetera](https://open.spotify.com/track/3yDVPtfr96s8koUUrGaoav) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [Etcetera](https://open.spotify.com/album/1gmCdyyhDpumpqVXCwoxxx) | 4:39 |
 | 64 | [Fire Dance](https://open.spotify.com/track/5wu0WAanUwCjZEtoUhmDw4) | [Zola Marcelle](https://open.spotify.com/artist/3iH8OyEQJ0blsRGvuvcNWk), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Becoming](https://open.spotify.com/album/2CwrNyexGp0XsNTuxFrRue) | 4:53 |
 
-Snapshot ID: `Zqy+5wAAAABfmexXLvzCmNCPELWzt9KV`
+Snapshot ID: `AAAAADcqQPMZNbDe6ys6HmfaA5b5GnHq`

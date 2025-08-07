@@ -1,13 +1,61 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Cleo Reed",
-  "num_followers": 93000,
+  "num_followers": 93046,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJDs4AAAAADSlB0jl8THDPv2Hhr9Pg7q",
+  "snapshot_id": "AAAAAJE3nmCmEBlgTb/iO/B0CZmMPjKK",
   "tracks": [
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/0E7HseDbyAc6I0St0WmxP9"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 247688,
+      "name": "Garbage",
+      "url": "https://open.spotify.com/track/0kMokYvb4xyex2ExX5JaYp"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Horses Run",
+        "url": "https://open.spotify.com/album/0e5JHJao5JWVlOzkK3M1NR"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Horses Run",
+      "url": "https://open.spotify.com/track/75WCo9dLWJ88R0rXnXuqeu"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/1yDJ8lo9mcpE8KUrqH3yeK"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "duration_ms": 274740,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/59YZkbSocDVNS5VIizm8m7"
+    },
     {
       "added_at": "2025-07-23 16:54:54",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Waldo",
+        "url": "https://open.spotify.com/album/7bZVLwO7D3pBTgRXkhtjtH"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 174966,
+      "name": "Waldo",
+      "url": "https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Good Game",
+        "url": "https://open.spotify.com/album/3hAi8jMZcfpvmqnbV1yvNx"
+      },
+      "artists": [
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "duration_ms": 200423,
+      "name": "Good Game",
+      "url": "https://open.spotify.com/track/1uC6yl3BVOOyieOooYDeq7"
     },
     {
       "added_at": "2025-07-23 16:54:54",
@@ -41,20 +121,20 @@
       "url": "https://open.spotify.com/track/4MD6izirfGgKzISrvAQToR"
     },
     {
-      "added_at": "2025-07-23 16:54:54",
+      "added_at": "2025-08-06 16:00:06",
       "album": {
-        "name": "Cuntry",
-        "url": "https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB"
+        "name": "Good Clean Fun",
+        "url": "https://open.spotify.com/album/72sqWPMB00ypBYQRl29xWT"
       },
       "artists": [
         {
-          "name": "Cleo Reed",
-          "url": "https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 496296,
-      "name": "Salt n' Lime",
-      "url": "https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD"
+      "duration_ms": 253960,
+      "name": "Good Clean Fun",
+      "url": "https://open.spotify.com/track/5eUiD49zNFX6IopFVntDwI"
     },
     {
       "added_at": "2025-07-23 16:54:54",
@@ -77,6 +157,134 @@
       "url": "https://open.spotify.com/track/7rRXZr2yNxk4HTIIdPfkRe"
     },
     {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "live off the land",
+        "url": "https://open.spotify.com/album/444VuIfDL9JL0EHKSis0OK"
+      },
+      "artists": [
+        {
+          "name": "Dwara",
+          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
+        }
+      ],
+      "duration_ms": 155482,
+      "name": "live off the land",
+      "url": "https://open.spotify.com/track/4uVkqL4mPRquRdFSQjx6rp"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/33CsAqd5Lvz958yn1qHqTN"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/7DbWHATHLVZrYbPlCDR8wJ"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/1Z1JVA6UNNKRpp00E5HRvE"
+      },
+      "artists": [
+        {
+          "name": "Callie Rose",
+          "url": "https://open.spotify.com/artist/73Ect6tRgpv8MyLDZdRwlx"
+        }
+      ],
+      "duration_ms": 204531,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/18RUjd9EaYiNXDiECPLEux"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "You Took Them Out On Me",
+        "url": "https://open.spotify.com/album/62Jw1fLpRYSYKMWdNeTCHU"
+      },
+      "artists": [
+        {
+          "name": "Sophia Viggiano",
+          "url": "https://open.spotify.com/artist/0Ay1JH0rXbKhoIfu2GXMyx"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "You Took Them Out On Me",
+      "url": "https://open.spotify.com/track/6gbvMfkAzHVYSm2S6bmNCW"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Any Better",
+        "url": "https://open.spotify.com/album/29AxANEhm9rcdb8fM6semp"
+      },
+      "artists": [
+        {
+          "name": "Dring",
+          "url": "https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt"
+        }
+      ],
+      "duration_ms": 165470,
+      "name": "Any Better",
+      "url": "https://open.spotify.com/track/3caXHCeMrBN1FQOkNjiFGs"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Strangers In Line",
+        "url": "https://open.spotify.com/album/2xDinZfwNHEqipnx1eicpY"
+      },
+      "artists": [
+        {
+          "name": "Mika James",
+          "url": "https://open.spotify.com/artist/5FwQLbdP9LLN75qt4oBNPO"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Strangers In Line",
+      "url": "https://open.spotify.com/track/2l7HI1DP7lIbFFcqthuX6R"
+    },
+    {
+      "added_at": "2025-07-23 16:54:54",
+      "album": {
+        "name": "Cuntry",
+        "url": "https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB"
+      },
+      "artists": [
+        {
+          "name": "Cleo Reed",
+          "url": "https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi"
+        }
+      ],
+      "duration_ms": 496296,
+      "name": "Salt n' Lime",
+      "url": "https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Hatchet Man",
+        "url": "https://open.spotify.com/album/2ASqkRSoZW4b8THhGcYM5v"
+      },
+      "artists": [
+        {
+          "name": "Marissa Nadler",
+          "url": "https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ"
+        }
+      ],
+      "duration_ms": 269681,
+      "name": "Hatchet Man",
+      "url": "https://open.spotify.com/track/6fqDCm4PEZTpbEjFKPsM3p"
+    },
+    {
       "added_at": "2025-07-23 16:54:54",
       "album": {
         "name": "doctors orders",
@@ -91,6 +299,22 @@
       "duration_ms": 201706,
       "name": "doctors orders",
       "url": "https://open.spotify.com/track/5LdGiYABaflNldSFRzx4jq"
+    },
+    {
+      "added_at": "2025-08-06 16:00:06",
+      "album": {
+        "name": "Teasel",
+        "url": "https://open.spotify.com/album/5PEcNKayw0yvd3hDvP9Ec4"
+      },
+      "artists": [
+        {
+          "name": "Early Fern",
+          "url": "https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE"
+        }
+      ],
+      "duration_ms": 250404,
+      "name": "Teasel",
+      "url": "https://open.spotify.com/track/13Q4aVvIzi0upZ4MK9CTGo"
     },
     {
       "added_at": "2025-07-16 16:00:05",
@@ -1887,246 +2111,6 @@
       "duration_ms": 249609,
       "name": "Cathode Ray",
       "url": "https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Map // Creature Skin",
-        "url": "https://open.spotify.com/album/5QbJqqzsFQV2B7JW8ZHwHr"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Creature Skin",
-      "url": "https://open.spotify.com/track/3uuewLm16NAXIWWu1yy9jq"
-    },
-    {
-      "added_at": "2025-05-14 14:51:34",
-      "album": {
-        "name": "I'm Losing It",
-        "url": "https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL"
-      },
-      "artists": [
-        {
-          "name": "Chartreuse",
-          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
-        }
-      ],
-      "duration_ms": 186058,
-      "name": "I'm Losing It",
-      "url": "https://open.spotify.com/track/3OKvp0AJfu0BzRP9fIvKGf"
-    },
-    {
-      "added_at": "2025-05-14 14:51:34",
-      "album": {
-        "name": "when i look in her eyes",
-        "url": "https://open.spotify.com/album/194q4PmzbjIrJUcRKXjieo"
-      },
-      "artists": [
-        {
-          "name": "frances mistry",
-          "url": "https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "when i look in her eyes",
-      "url": "https://open.spotify.com/track/2ynnKkcv2EJNN6EKjO43ER"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "My Own Way",
-        "url": "https://open.spotify.com/album/1jIbjP05d4jWf9sOOn5Msj"
-      },
-      "artists": [
-        {
-          "name": "Emily Hines",
-          "url": "https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "My Own Way",
-      "url": "https://open.spotify.com/track/62JiKXcJGR4D7CyCOezyLn"
-    },
-    {
-      "added_at": "2025-05-21 04:00:25",
-      "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/41PeMllILU3ersYRvWmLp8"
-      },
-      "artists": [
-        {
-          "name": "phin",
-          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
-        }
-      ],
-      "duration_ms": 183655,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/106Dycnmmllhx8knNXpltf"
-    },
-    {
-      "added_at": "2025-05-21 20:34:43",
-      "album": {
-        "name": "Dog At Your Doorstep",
-        "url": "https://open.spotify.com/album/0IZpsdlRBodNdkYwUxJrhS"
-      },
-      "artists": [
-        {
-          "name": "Conall Cafferty",
-          "url": "https://open.spotify.com/artist/6d1qaR3dUpxiSxOJVVwGMc"
-        }
-      ],
-      "duration_ms": 249018,
-      "name": "Dog At Your Doorstep",
-      "url": "https://open.spotify.com/track/23zSzJcfhhZS89A1DIyXlG"
-    },
-    {
-      "added_at": "2025-05-21 04:00:25",
-      "album": {
-        "name": "great machine",
-        "url": "https://open.spotify.com/album/3ciJsmck6YdC51skoehlzp"
-      },
-      "artists": [
-        {
-          "name": "earth 2 tiffany",
-          "url": "https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi"
-        }
-      ],
-      "duration_ms": 150265,
-      "name": "great machine",
-      "url": "https://open.spotify.com/track/5PJfT4Lwi6ExZChqP0FKzp"
-    },
-    {
-      "added_at": "2025-05-14 14:51:34",
-      "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/78jgutZ3TZ0Itz5ucLKJPi"
-      },
-      "artists": [
-        {
-          "name": "The Maes",
-          "url": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Hannah",
-      "url": "https://open.spotify.com/track/5Tc9wMf2VS3z0F4hojHXwM"
-    },
-    {
-      "added_at": "2025-05-21 04:00:25",
-      "album": {
-        "name": "Bathing in the Stone",
-        "url": "https://open.spotify.com/album/3uNr9hJZ5A6jp8kQsCyglU"
-      },
-      "artists": [
-        {
-          "name": "Mazozma",
-          "url": "https://open.spotify.com/artist/4yeihKr8j60dRJ6rBuke4W"
-        }
-      ],
-      "duration_ms": 323320,
-      "name": "Can I Get a Ride",
-      "url": "https://open.spotify.com/track/6nNMGXtoIAqmRZDssdXdaU"
-    },
-    {
-      "added_at": "2025-05-14 14:51:34",
-      "album": {
-        "name": "Goodbye Long Winter Shadow",
-        "url": "https://open.spotify.com/album/5mMarOUHH8TEXzDSqYhh6P"
-      },
-      "artists": [
-        {
-          "name": "Maia Friedman",
-          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
-        }
-      ],
-      "duration_ms": 97281,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/7iiDlypzoJkOPNnCJaGSJn"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2r0czxUBgmwvs2sLWzVMH0"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Pasterfield",
-          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
-        }
-      ],
-      "duration_ms": 182366,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/0B0rHMbgUbay5ewNxHEMyw"
-    },
-    {
-      "added_at": "2025-05-21 04:00:25",
-      "album": {
-        "name": "Experiments",
-        "url": "https://open.spotify.com/album/7dy6lYRkLZuDZXRp1TesX2"
-      },
-      "artists": [
-        {
-          "name": "Wilby",
-          "url": "https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT"
-        }
-      ],
-      "duration_ms": 263519,
-      "name": "Experiments",
-      "url": "https://open.spotify.com/track/4txD0JmEqTQvWT8qVWn2u2"
-    },
-    {
-      "added_at": "2025-05-21 04:00:25",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5VQYRmhw33XinEhFdxpshF"
-      },
-      "artists": [
-        {
-          "name": "Jules Paymer",
-          "url": "https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/3o1dBeb1tiv1QZEGoTTvYt"
-    },
-    {
-      "added_at": "2025-05-07 04:00:36",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/4OUuAZUw7uXRbxfxRk6ab5"
-      },
-      "artists": [
-        {
-          "name": "Chris Wallace",
-          "url": "https://open.spotify.com/artist/4uvONBnmpTsvWRG0eEh87r"
-        }
-      ],
-      "duration_ms": 162529,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/2MRbM2lCVSZD8n5OMhHLTQ"
-    },
-    {
-      "added_at": "2025-05-21 04:00:25",
-      "album": {
-        "name": "New Number",
-        "url": "https://open.spotify.com/album/4R6lg2DhqASfXBXJp1h6ox"
-      },
-      "artists": [
-        {
-          "name": "Sianon",
-          "url": "https://open.spotify.com/artist/4ZGKNVN3vAyIWr5lsQFVxZ"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "New Number",
-      "url": "https://open.spotify.com/track/69VlydpqC3ZOntX3sf2Izs"
     }
   ],
   "unique_name": "Fresh Finds Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,566 likes - 117 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,563 likes - 117 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 | 116 | [Slow Show](https://open.spotify.com/track/6vmvNj64lOYWs3Vs4vZbgv) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pG7mDkQhia2OyGE6fbkmJ) | 4:08 |
 | 117 | [Kids](https://open.spotify.com/track/5ydndwOte7G6LQKbP8Suvb) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Kids](https://open.spotify.com/album/06oxOFFYnj4Pv5pLhIklm8) | 3:05 |
 
-Snapshot ID: `aHgg4QAAAAAS7MvEZowlNzTwOTwe+NVZ`
+Snapshot ID: `AAAAAG4d0xwwIxivjUhlKivbmqvCi/Fe`

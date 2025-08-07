@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain]
 
 > Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,126 likes - 29 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,140 likes - 29 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain]
 | 28 | [Decision](https://open.spotify.com/track/6Ht9jO1iw6pJuIfWYjqNDK) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:37 |
 | 29 | [SHINSEKAIより](https://open.spotify.com/track/53ykDpqYivf63Xk6WL0J3r) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 3:34 |
 
-Snapshot ID: `Z/U8tgAAAACQGWeTMeMknPfy4nToZoXU`
+Snapshot ID: `AAAAACiQvd4gREnBGXx5r+JraC7c3kwI`

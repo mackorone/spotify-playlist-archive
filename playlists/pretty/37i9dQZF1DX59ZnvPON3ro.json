@@ -1,0 +1,502 @@
+{
+  "description": "The music from Someone Great on Netflix!",
+  "num_followers": 31918,
+  "original_name": "Someone Great",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "AAAAAMsIqAx/O4WKoCUFl+5t04qaQ+Wy",
+  "tracks": [
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Someone Great",
+        "url": "https://open.spotify.com/album/2Tm7IAYVnTQyGUgMXoD2dl"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Robinson",
+          "url": "https://open.spotify.com/artist/1VU8R7KvvCVUBQ5byuOkbu"
+        }
+      ],
+      "duration_ms": 31500,
+      "name": "Perfect Fit",
+      "url": "https://open.spotify.com/track/1AFSoJhwquPyqROIKBUBbQ"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/2NBHJXmeASMfyf8jwKY5Y0"
+      },
+      "artists": [
+        {
+          "name": "Saint Cava",
+          "url": "https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW"
+        }
+      ],
+      "duration_ms": 196030,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7hfgzxvcd8mKImN7Goast8"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Someone Great",
+        "url": "https://open.spotify.com/album/2Tm7IAYVnTQyGUgMXoD2dl"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Robinson",
+          "url": "https://open.spotify.com/artist/1VU8R7KvvCVUBQ5byuOkbu"
+        }
+      ],
+      "duration_ms": 18750,
+      "name": "Listen While Writing",
+      "url": "https://open.spotify.com/track/3gq7HCoBu7tDVorZkuLSVs"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Someone Great",
+        "url": "https://open.spotify.com/album/2Tm7IAYVnTQyGUgMXoD2dl"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Robinson",
+          "url": "https://open.spotify.com/artist/1VU8R7KvvCVUBQ5byuOkbu"
+        }
+      ],
+      "duration_ms": 22374,
+      "name": "First Track",
+      "url": "https://open.spotify.com/track/5a3vAzynHwM4yXUmeJje0z"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Truth Hurts",
+        "url": "https://open.spotify.com/album/2L3ODMVHArfJGWglDH9ktx"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 173325,
+      "name": "Truth Hurts",
+      "url": "https://open.spotify.com/track/5Qel1sTrU4LM8HlJSPT2jd"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 127666,
+      "name": "Mansard Roof",
+      "url": "https://open.spotify.com/track/1f1yeiwuYTE8uUK3azgIX1"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Caer",
+        "url": "https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        },
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205442,
+      "name": "Saturdays (feat. HAIM)",
+      "url": "https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Superorganism",
+        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "duration_ms": 184986,
+      "name": "Everybody Wants To Be Famous",
+      "url": "https://open.spotify.com/track/4BVFVaa1fDo20Ud1q5Gd2N"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Someone Great",
+        "url": "https://open.spotify.com/album/2Tm7IAYVnTQyGUgMXoD2dl"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Robinson",
+          "url": "https://open.spotify.com/artist/1VU8R7KvvCVUBQ5byuOkbu"
+        }
+      ],
+      "duration_ms": 22374,
+      "name": "Well Known vs. Not Well Known",
+      "url": "https://open.spotify.com/track/3yVtWxn5xLcxBhN8nS3kqA"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "When My Heart Felt Volcanic",
+        "url": "https://open.spotify.com/album/2lsQE89fPFInz2J62K6waw"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 203646,
+      "name": "Fake Nice",
+      "url": "https://open.spotify.com/track/1OEIsjH8IxGMxu8AZEZKCe"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "The Perils",
+        "url": "https://open.spotify.com/album/3kiBmjGQmkvyF9lJcktv29"
+      },
+      "artists": [
+        {
+          "name": "Old Man Saxon",
+          "url": "https://open.spotify.com/artist/1D0ulc9Z5jJV7Gtuw7t33U"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "The Perils",
+      "url": "https://open.spotify.com/track/4eAPrbLRlJQ9QbOGSqbWgY"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "Charcoal Baby",
+      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Someone Great",
+        "url": "https://open.spotify.com/album/2Tm7IAYVnTQyGUgMXoD2dl"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Robinson",
+          "url": "https://open.spotify.com/artist/1VU8R7KvvCVUBQ5byuOkbu"
+        }
+      ],
+      "duration_ms": 23000,
+      "name": "Female Musicians",
+      "url": "https://open.spotify.com/track/4vdxg304aX5GJJ3hOXtYiS"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "James - EP",
+        "url": "https://open.spotify.com/album/22WzfbmjrjHrZzuc0P6ikh"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Should I",
+      "url": "https://open.spotify.com/track/0uHMjAuFXBuNavUG1TSezu"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "Your Best American Girl",
+      "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "La Bella Mafia",
+        "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "The Jump Off",
+      "url": "https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "3rd Ward Bounce",
+        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 185890,
+      "name": "Karaoke (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Someone Great",
+        "url": "https://open.spotify.com/album/2Tm7IAYVnTQyGUgMXoD2dl"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Robinson",
+          "url": "https://open.spotify.com/artist/1VU8R7KvvCVUBQ5byuOkbu"
+        }
+      ],
+      "duration_ms": 23000,
+      "name": "Neon Classic",
+      "url": "https://open.spotify.com/track/26GE42TUYNX8lNfaeeZSir"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Kiddo",
+        "url": "https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "Great One",
+      "url": "https://open.spotify.com/track/1rm9z2o1PgcJHIYL6nx0VG"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Reasons Not To Die (Demo)",
+        "url": "https://open.spotify.com/album/36or9o1BqL1T0EB68L301W"
+      },
+      "artists": [
+        {
+          "name": "Ryn Weaver",
+          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
+        }
+      ],
+      "duration_ms": 220629,
+      "name": "Reasons Not To Die - Demo",
+      "url": "https://open.spotify.com/track/2Uws5LNuLkvf9aR14UM3x2"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 297268,
+      "name": "Missing U",
+      "url": "https://open.spotify.com/track/5mE2RcGPPbE4gNoLB6FYPf"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Don't Kill My Vibe - EP",
+        "url": "https://open.spotify.com/album/0oNBsmqlY0PBPGhJiRwUQY"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/413N9GI94jlsgWzZ4V4mSZ"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Do You Think About Me",
+        "url": "https://open.spotify.com/album/3kJeWNodvgWODx9f87vKfo"
+      },
+      "artists": [
+        {
+          "name": "Captain Cuts",
+          "url": "https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk"
+        },
+        {
+          "name": "Zook\u00ebper",
+          "url": "https://open.spotify.com/artist/2XvV82x6Qs0W3GBTkBSjPI"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 216393,
+      "name": "Do You Think About Me",
+      "url": "https://open.spotify.com/track/6wR3zbFumY6hfNgN6xtrBI"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 188323,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
+      },
+      "artists": [
+        {
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Call on Me - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "Someone Great",
+        "url": "https://open.spotify.com/album/2Tm7IAYVnTQyGUgMXoD2dl"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Robinson",
+          "url": "https://open.spotify.com/artist/1VU8R7KvvCVUBQ5byuOkbu"
+        }
+      ],
+      "duration_ms": 23330,
+      "name": "Clearance",
+      "url": "https://open.spotify.com/track/1qWldD4J8eEFrAQ1QmW0ls"
+    },
+    {
+      "added_at": "2019-04-19 11:34:42",
+      "album": {
+        "name": "The Essential UGK",
+        "url": "https://open.spotify.com/album/4lWWlBbKuWBk7xgKEkevSg"
+      },
+      "artists": [
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        },
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
+      "url": "https://open.spotify.com/track/2bQdgtO42TfS37YWupeMrr"
+    }
+  ],
+  "unique_name": "Someone Great",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX59ZnvPON3ro"
+}

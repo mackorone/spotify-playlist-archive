@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,937 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,940 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 79 | [Fata Morgana](https://open.spotify.com/track/1OJNUEqrNlQqiBywcol8dZ) | [Wytchings](https://open.spotify.com/artist/08wkL5BJixMdK3uk6GQ1ay) | [Fata Morgana](https://open.spotify.com/album/4P0Svos3rBkH5RCYOpzlt9) | 6:05 |
 | 80 | [Fountain Chorus, Pt\. 2](https://open.spotify.com/track/1Zu4cmV2IhuSYpw1td0xS3) | [Harrison Rae](https://open.spotify.com/artist/0SQl5I6aPuCZ8aEKGhHNpJ) | [Fountain Chorus, Pt\. 2](https://open.spotify.com/album/3ivR96Tfvi8BnIXaYz6UJB) | 4:27 |
 
-Snapshot ID: `ZWiHUAAAAABsKfUbZxRTdFtpwnNx/M9D`
+Snapshot ID: `AAAAAIBxbDozy/Oo0pJ80garJYFZQYyu`

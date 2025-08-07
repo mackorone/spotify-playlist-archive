@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Rachael & Vilray
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,291 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,319 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Pendulum](https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable](https://open.spotify.com/album/4WA2EdR41dqzbluBGjIGEt) | 2:49 |
 | 100 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 |
 
-Snapshot ID: `aIw+zAAAAAAgzrbKltXx5amlViXlqvf2`
+Snapshot ID: `AAAAANVmmFX6yAp5ZcUv9SjonuB4xJoi`

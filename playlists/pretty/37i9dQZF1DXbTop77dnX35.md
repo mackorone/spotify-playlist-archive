@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema,  Tiwa Savage, D'Banj and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,367 likes - 63 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,426 likes - 63 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 62 | [Darlin' \(feat\. Sean Paul & Brodie\)](https://open.spotify.com/track/3nzc4SgSCinAI09fpGaHxT) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Darlin' \(feat\. Sean Paul & Brodie\)](https://open.spotify.com/album/0ixEaoNaJMDniffs0HfMpt) | 2:34 |
 | 63 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 |
 
-Snapshot ID: `aIxflAAAAAB7aYwhIuy3wcdE0nuazr5h`
+Snapshot ID: `AAAAAKoun5v+Va7mSCD4sGbz4YquPFQD`

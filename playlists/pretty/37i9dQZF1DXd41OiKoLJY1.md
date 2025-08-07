@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  ONSE Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,324 likes - 199 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,332 likes - 199 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 198 | [Naa Ra Ko Diri](https://open.spotify.com/track/0AcwikNN1PAUw0fIPjoMzM) | [Jake Baranda](https://open.spotify.com/artist/6DFbXywEn6v02nRMh02Op6) | [Naa Ra Ko Diri](https://open.spotify.com/album/54t31VlK8OjvNKiRX8DE8u) | 2:12 |
 | 199 | [OH MAMACITA!](https://open.spotify.com/track/5REKSZBGdVncqSpTjFzhRD) | [Ferny](https://open.spotify.com/artist/0c2o962KhSDjbr8doBqOcC) | [OH MAMACITA!](https://open.spotify.com/album/4ot1aOqKro2N7gHxoiHQ1P) | 3:44 |
 
-Snapshot ID: `aIuTGAAAAABUhXbVvZo5c3Yk01R/B9RN`
+Snapshot ID: `AAAAAOLCIO7iamHoy6UKMXaE8flPROlJ`

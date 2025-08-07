@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,815,845 likes - 160 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,815,774 likes - 160 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 159 | [Touch Down](https://open.spotify.com/track/2uzIS6p8CEijqeZllZHzlU) | [Wimmel](https://open.spotify.com/artist/0RhOCgBChCEWoFoiyvlcYy) | [Touch Down](https://open.spotify.com/album/5DoDVWtLm4Ih5I3xbltkLs) | 2:23 |
 | 160 | [fall deeply](https://open.spotify.com/track/43SiqHE5XFhQxAwcVOZi6v) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [fall deeply](https://open.spotify.com/album/1svuLX2RUD1PBzLzIVwHj5) | 2:48 |
 
-Snapshot ID: `aII/+wAAAAAe2bdp/N2Of1e71TIR+bQt`
+Snapshot ID: `AAAAABAvCfLJWt6IRRs3tXc8lAmNidCc`

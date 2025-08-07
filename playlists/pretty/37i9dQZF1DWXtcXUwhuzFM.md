@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat Joe L, Sexmane, Jami Faltin, Chappell Roan ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,446 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,443 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 85 | [Bonfire](https://open.spotify.com/track/5nCW0qfLAhLaLXJmOSmr4Y) | [NACKA](https://open.spotify.com/artist/0uXzZBJnZvXmc2V5Adov4q) | [Bonfire](https://open.spotify.com/album/0HnshRYtPGzJsiBmJsMh9M) | 2:30 |
 | 86 | [Beautiful Odyssey](https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Beautiful Odyssey](https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb) | 2:50 |
 | 87 | [KEEPIN IT PRETTY](https://open.spotify.com/track/2xTPywmuxaj9GFOe7EMXc3) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a), [Manda Malina](https://open.spotify.com/artist/4qjfNTFY3hqd68NDa5AGwx), [Ilana Glazer](https://open.spotify.com/artist/6mZjhlZ1Q64hIBn5LbI5K3) | [KEEPIN IT PRETTY](https://open.spotify.com/album/0VWCtsqs3JYcNfeGnLYaDf) | 3:30 |
-| 88 | [M.O.B.](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B.](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
+| 88 | [M.O.B](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
 | 89 | [Last Few Parties](https://open.spotify.com/track/55wfUUF4RMvbZg98dSl9oH) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [You Wanna Fade? \(Deluxe Edition\)](https://open.spotify.com/album/3DN44dRh3BSu0pEYSLoSuG) | 2:40 |
 | 90 | [California Love](https://open.spotify.com/track/7EAtkR8y8sT4jEx3SOsznv) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [California Love](https://open.spotify.com/album/0wQm88iHgpEIZ3pNChByEf) | 2:19 |
 | 91 | [MIND GAMES](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [MIND GAMES](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 99 | [Like I Do](https://open.spotify.com/track/4sccgnpKkKON1YSMplLVvY) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Like I Do](https://open.spotify.com/album/0x9ilAJRBn839RmtX7LqcE) | 2:13 |
 | 100 | [Pretty Girls](https://open.spotify.com/track/3AUpTpz3K8o54wxCHnTgDz) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Pretty Girls](https://open.spotify.com/album/6Rd08XZvsepsY6RqZ3cEyy) | 2:26 |
 
-Snapshot ID: `aI3z9wAAAAA0+Sg+naRwsqNLXTGsfHTG`
+Snapshot ID: `AAAAANLEXSN1RQ7GGyOmo0LbuttQ/mAf`

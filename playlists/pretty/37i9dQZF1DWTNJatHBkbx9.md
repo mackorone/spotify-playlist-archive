@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover:Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,004 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,011 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 59 | [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 |
 | 60 | [Pot Of Gold](https://open.spotify.com/track/24aPq6ylt4RAjjIMkt7jUy) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [Pot Of Gold](https://open.spotify.com/album/2QFJa4Sjbu9rSFrVPGF5lC) | 3:24 |
 
-Snapshot ID: `aIwD4wAAAAAvIYV8X/AWbruK5+J4oo2m`
+Snapshot ID: `AAAAAJDTm1aQ/arijyDS+qen2RQ05Ac2`

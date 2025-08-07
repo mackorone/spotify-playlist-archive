@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,894,949 likes - 84 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,894,429 likes - 84 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

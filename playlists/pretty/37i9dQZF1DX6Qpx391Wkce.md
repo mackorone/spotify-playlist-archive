@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,003 likes - 64 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,015 likes - 64 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 63 | [Friction](https://open.spotify.com/track/6lWjP9oojE3u4P3Acpkesf) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Flug](https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m) | [Magma EP](https://open.spotify.com/album/6u9AjW7jugh02So5qxPrcZ) | 6:27 |
 | 64 | [Break Night \(The Mardi Gras Mix\)](https://open.spotify.com/track/5wjkcqSBnatDQjoggovBrO) | [The Mole People](https://open.spotify.com/artist/0Q2uG3App7RQkfBSt7f2lt) | [Break Night](https://open.spotify.com/album/4k0Sm7yG4yKx7wD0jAX1Ve) | 13:01 |
 
-Snapshot ID: `aHp4oAAAAAAqVd1tikmJKQg2hqkDrJcM`
+Snapshot ID: `AAAAAAPudtNrwJvoyygoAjnrnmtetWnO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,039 likes - 139 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,066 likes - 139 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 16 | [Kwechiri](https://open.spotify.com/track/5IVsnrFCDaMLWh8VdlFLJ7) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Kwechiri](https://open.spotify.com/album/4ASycUKDxU8xOuDcZYlaTB) | 2:36 |
 | 17 | [Big Things](https://open.spotify.com/track/02Vg4F3nXYqdNRr8DqQLtL) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Big Things](https://open.spotify.com/album/5GOTrUvWfFzsDUjMUDXIhL) | 2:20 |
 | 18 | [OH MY GOD](https://open.spotify.com/track/6QQhpDzhLjUPPCDbmG5OQj) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Tay Nay](https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i) | [OH MY GOD](https://open.spotify.com/album/3jA7bdqXtQEOD2n9do3jsE) | 2:40 |
-| 19 | [Case](https://open.spotify.com/track/7pNwawEu8kYP8HoBNwH0vP) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Mjay Godswill](https://open.spotify.com/artist/4MWIFlhrOAl9XnnRtWM1M0) | [Case](https://open.spotify.com/album/4QLDCFbBOskI8fjO9jkUKy) | 2:50 |
+| 19 | [Case](https://open.spotify.com/track/7pNwawEu8kYP8HoBNwH0vP) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [MJay Godswill](https://open.spotify.com/artist/1bR3jjsG9xFNIwajp3VAHx) | [Case](https://open.spotify.com/album/4QLDCFbBOskI8fjO9jkUKy) | 2:50 |
 | 20 | [Look To Me](https://open.spotify.com/track/1VFaJ2a2yVPbjTAkDBxSdn) | [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Look To Me](https://open.spotify.com/album/2VEonLO0sutdBL8cDtLjOZ) | 3:21 |
 | 21 | [Follow](https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg) | [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT), [Gwamba](https://open.spotify.com/artist/6hROVnzmmEdJChCcpQRBQx), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [20 Somethxngs](https://open.spotify.com/album/4NHCHM9FOIFf0um2ZDTBDi) | 4:29 |
 | 22 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 138 | [Radical](https://open.spotify.com/track/73x1RKOULcFwHI4fXEVJPu) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Radical](https://open.spotify.com/album/1qH7PKSm7heJPJVtl89bIc) | 2:40 |
 | 139 | [Doing Of The Lord](https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Doing Of The Lord](https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD) | 4:19 |
 
-Snapshot ID: `aI4XIwAAAAADEMgOMNYbfGrFapiAd6kk`
+Snapshot ID: `AAAAAAUWtw7ftrtc6L2BdPiIEZMAQ9VA`

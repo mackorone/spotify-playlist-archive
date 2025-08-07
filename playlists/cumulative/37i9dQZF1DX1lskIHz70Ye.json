@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Dos Guitarras",
+        "url": "https://open.spotify.com/album/55mPNeVnlH2BQSSCzJLXu2"
+      },
+      "artists": [
+        {
+          "name": "Minos Gold",
+          "url": "https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136167,
+      "name": "Dos Guitarras",
+      "url": "https://open.spotify.com/track/4UjQ5fG1YrscY9Q6FmQnIf"
+    },
+    {
+      "album": {
         "name": "Drei Intermezzi, Op. 117: I. Andante moderato",
         "url": "https://open.spotify.com/album/31M8OK3WgX3VrNCmijGZMk"
       },

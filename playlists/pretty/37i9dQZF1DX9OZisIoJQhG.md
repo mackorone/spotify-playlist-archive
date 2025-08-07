@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,943 likes - 67 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,996 likes - 67 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 66 | [Violin Concerto in D Major: II\. Adagio](https://open.spotify.com/track/40EnGSgqCBuIe3zoHBUWMr) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Zefira Valova](https://open.spotify.com/artist/56hpaB3bb4ydN9TTTlcWX4), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Saint\-Georges: Violin Concerto in D Major](https://open.spotify.com/album/5Ec2ImbUEUaBlqxIKGD8vN) | 4:28 |
 | 67 | [Prayer for Peace](https://open.spotify.com/track/5VskXEGqvTljHxO8jcrZEZ) | [Gerard Cousins](https://open.spotify.com/artist/3WKXj3RFryJ1fOr8jrj58V) | [Prayer for Peace](https://open.spotify.com/album/3pShmYSpdSSwoYG2MF8KnO) | 1:13 |
 
-Snapshot ID: `Z8GKBwAAAABJxl6S8GaDu/amWtph0Kwm`
+Snapshot ID: `AAAAAPkY93qzCDRSLiXYlyDcE/gbJF1G`

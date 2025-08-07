@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap e a música urbana em 2024\. Foto: Plutonio
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,984 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,986 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [META \(SHWAY\)](https://open.spotify.com/track/1ywaAmGNVF06QNvRAeh8em) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Chaylan](https://open.spotify.com/artist/4eoWvEa1Lac4l4HzPSBre8) | [Cold Summers & Warm Winters](https://open.spotify.com/album/7fb2oMxjdcSVTK2G5v6OqM) | 3:12 |
 | 50 | [Chinatown](https://open.spotify.com/track/3Zs9Pkk2uL5C0tOX6W4Imz) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Chinatown](https://open.spotify.com/album/4up4Vi3jQs5irVmBR5jQbI) | 3:08 |
 
-Snapshot ID: `Z1BHxAAAAABnLwdWGH+tq0sfK0N1XtHm`
+Snapshot ID: `AAAAAApHQFSnVmnGP1aUJrH2Q6c7o5oa`

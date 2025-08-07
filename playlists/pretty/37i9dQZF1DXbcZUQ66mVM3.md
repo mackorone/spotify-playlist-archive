@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcZUQ66mVM3.md) - [plain]
 
 > Zing mee met al je favoriete Disney hits uit films als Vaiana 2, Encanto, Frozen en nog veel meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,269 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,317 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcZUQ66mVM3.md) - [plain]
 | 69 | [Ik Ben Onderweg \- Van "Brother Bear"/Originele Nederlandstalige Soundtrack](https://open.spotify.com/track/2USR9dk3Myt43PtI8p81jr) | [Jonas Benjamin Schmølker Hornehøj](https://open.spotify.com/artist/4kurkFunZXukmzruvsN7Sn), [Bert Heerink](https://open.spotify.com/artist/4gEdE8kPyZOo2Y3kjL4oIm), [Edward Reekers](https://open.spotify.com/artist/5AwVAWVXT4RIomC30omOC9) | [Disney’s Grootste Hits \(2 Vol.\)](https://open.spotify.com/album/3qupydRp7NpEpRtqxQrFkZ) | 3:39 |
 | 70 | [Vergeet me niet \(Ernesto de la Cruz\)](https://open.spotify.com/track/4exyZcVmcTcD8cvtLLQcYt) | [Wiebe\-Pier Cnossen](https://open.spotify.com/artist/4XLu4NohpI74Mdx2c8dynE) | [Coco \(Originele Nederlandstalige Soundtrack\)](https://open.spotify.com/album/1FZNYAgIL2ykW8TBx3Z5iB) | 1:49 |
 
-Snapshot ID: `aC2NjAAAAAC21/TeN5M03U4Uft0Bev8T`
+Snapshot ID: `AAAAAD+DgYSPCmSw2h8xkOtFpXnoJJQL`

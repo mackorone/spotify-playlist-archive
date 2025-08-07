@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-486 songs - 1 day 7 hr 30 min
+487 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Apologize](https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 3:04 | 2024-01-29 |  |
 | [Armani \(feat\. Yazz\)](https://open.spotify.com/track/2eZ13b4AChKz2eYytbsqd6) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Yazz](https://open.spotify.com/artist/1K8bWL1GnTW0b51YZOEANS) | [Empire: The Complete Season 1](https://open.spotify.com/album/3v2uuSLEPbCXLtZxVrGKcd) | 1:44 | 2024-01-29 |  |
 | [Around the Clock \(feat\. Charlamagne Tha God\)](https://open.spotify.com/track/3awXDgFmuBQ3dyCUqv0nxV) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Around the Clock \(feat\. Charlamagne Tha God\)](https://open.spotify.com/album/5tTFK76rxvStEfwKPelrSQ) | 3:51 | 2024-01-29 |  |
+| [Artista Genérico](https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:30 | 2025-08-06 |  |
 | [As Hope And Promise Fade \- Recorded Live At Queen Elizabeth Theatre, Toronto, ON on April 20, 2011](https://open.spotify.com/track/4GK7xxa3QlzibpRXAEbxrP) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Songbook](https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc) | 3:47 | 2024-01-29 |  |
 | [Aww Shit](https://open.spotify.com/track/5ZbxLTcXHDHqPn0LeiNIeY) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [Still Here](https://open.spotify.com/album/0lFSH2AaRHccpUpJD7E0V1) | 2:09 | 2024-01-29 |  |
 | [Ayo Technology](https://open.spotify.com/track/6kfQDanT6Buh4Wu73ghbav) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Curtis](https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm) | 4:07 | 2024-01-29 |  |

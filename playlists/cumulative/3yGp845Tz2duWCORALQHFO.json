@@ -63103,6 +63103,24 @@
     },
     {
       "album": {
+        "name": "Summer Sinner's",
+        "url": "https://open.spotify.com/album/02VhZ0g3dtBJNb66weJet7"
+      },
+      "artists": [
+        {
+          "name": "House Of Bas",
+          "url": "https://open.spotify.com/artist/4Mw7FGoM1V8AXXqkeJcfid"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375119,
+      "name": "Summer Sinners",
+      "url": "https://open.spotify.com/track/36jWOtVRbVKXlGnUDMukso"
+    },
+    {
+      "album": {
         "name": "Summer's Back",
         "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > Some heists, like some love stories, are irresistible\. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,302 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,348 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 70 | [Days Like This](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Days Like This](https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL) | 3:17 |
 | 71 | [Centro Di Gravità Permanente \- Remastered](https://open.spotify.com/track/5DlMR554Db6jiWPRWe95al) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [La Voce Del Padrone \(2008 Remastered Edition\)](https://open.spotify.com/album/4lQ6HXCRFlyicu5EXpck1m) | 3:59 |
 | 72 | [All you Need to Know](https://open.spotify.com/track/4xihysEKBYwugkpWeJgS6W) | [Howe Gelb](https://open.spotify.com/artist/2oAKV8mT3NB1hZbGbGcdYB) | [Further Standards](https://open.spotify.com/album/29T30GTricZoyuunKfKM5y) | 3:43 |
-| 73 | [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 |
+| 73 | [Amado mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 |
 | 74 | [Suspiros de España \- Pasodoble](https://open.spotify.com/track/6BigVQt0dYzoEjHLTLk83W) | [Real Orquesta Sinfonica De Sevilla](https://open.spotify.com/artist/4fAkGj5c8n7tfc5rYeFOD6) | [Suspiros de España \(Pasodobles\)](https://open.spotify.com/album/3icVxFCY1RbYvSQk5aCON0) | 4:06 |
 | 75 | [Fuego](https://open.spotify.com/track/5g4ysKgg6wXnolLqkL3J1S) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Blow Up](https://open.spotify.com/album/3aeeG2HTc5r2AH1O364798) | 4:38 |
 | 76 | [La Palloza](https://open.spotify.com/track/0yUoTyOsLsMdkPejOoIIr5) | [La Fanfarria del Capitán](https://open.spotify.com/artist/3RtwbiB9DVyibUaEZo6ZYu) | [La Giravida](https://open.spotify.com/album/2k55copetYbBobaDbKTlNz) | 3:27 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:5qK8WYVzvkaBcoe4CDfuyY\">KUNTARI</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 190384,
+  "num_followers": 190400,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIpkpwAAAADFeFgReHmM84AJfRK1hVpE",
+  "snapshot_id": "AAAAAOkgu1Zz09mVZa1YiaxTdFy06ySO",
   "tracks": [
     {
       "added_at": "2025-07-30 18:29:59",
@@ -131,18 +131,18 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Hymnal",
-        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
+        "name": "Remsc\u00e9la",
+        "url": "https://open.spotify.com/album/1cRGZJ3uHgg7Hav6SY10jX"
       },
       "artists": [
         {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+          "name": "Milkweed",
+          "url": "https://open.spotify.com/artist/2n8wLKXfDnrSoZ9hKffIVW"
         }
       ],
-      "duration_ms": 330410,
-      "name": "Ending",
-      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
+      "duration_ms": 201375,
+      "name": "How Conchobor was Begotten",
+      "url": "https://open.spotify.com/track/7EX6x6SUSu0sv6Soc2Z4dR"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -163,18 +163,18 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Remsc\u00e9la",
-        "url": "https://open.spotify.com/album/1cRGZJ3uHgg7Hav6SY10jX"
+        "name": "Hymnal",
+        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
       },
       "artists": [
         {
-          "name": "Milkweed",
-          "url": "https://open.spotify.com/artist/2n8wLKXfDnrSoZ9hKffIVW"
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
         }
       ],
-      "duration_ms": 201375,
-      "name": "How Conchobor was Begotten",
-      "url": "https://open.spotify.com/track/7EX6x6SUSu0sv6Soc2Z4dR"
+      "duration_ms": 330410,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "\u0101fa",
-        "url": "https://open.spotify.com/album/2jGtiClgEUtx2cxlDgsHiQ"
-      },
-      "artists": [
-        {
-          "name": "15 15",
-          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
-        }
-      ],
-      "duration_ms": 210326,
-      "name": "\u0101fa",
-      "url": "https://open.spotify.com/track/40otVc50P4HW1QwpubR6i6"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Belly Up",
         "url": "https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 174959,
       "name": "You Leave Me Breathless",
       "url": "https://open.spotify.com/track/27L3epE6bPso0M1B3BTeZj"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "\u0101fa",
+        "url": "https://open.spotify.com/album/2jGtiClgEUtx2cxlDgsHiQ"
+      },
+      "artists": [
+        {
+          "name": "15 15",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "duration_ms": 210326,
+      "name": "\u0101fa",
+      "url": "https://open.spotify.com/track/40otVc50P4HW1QwpubR6i6"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "Corrosiv",
+        "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
+      },
+      "artists": [
+        {
+          "name": "Orchestroll",
+          "url": "https://open.spotify.com/artist/3fOsjG8YJ9MRntC4hcNybb"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Here Used To Be A Star",
+      "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "Clandestine",
         "url": "https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 156000,
       "name": "new links",
       "url": "https://open.spotify.com/track/2MFXIYR10k8fUumqanMSLI"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "Corrosiv",
-        "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
-      },
-      "artists": [
-        {
-          "name": "Orchestroll",
-          "url": "https://open.spotify.com/artist/3fOsjG8YJ9MRntC4hcNybb"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Here Used To Be A Star",
-      "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": ",,, as long as i long to memorise your sky ,,,",
-        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
-      },
-      "artists": [
-        {
-          "name": "elijah jamal asani",
-          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "~~~littleriverhypothesis\u2022\u2022",
-      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
         "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 342463,
       "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
       "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": ",,, as long as i long to memorise your sky ,,,",
+        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
+      },
+      "artists": [
+        {
+          "name": "elijah jamal asani",
+          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "~~~littleriverhypothesis\u2022\u2022",
+      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Harsh & Exciting",
-        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
-      },
-      "artists": [
-        {
-          "name": "Moonrisers",
-          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
-        }
-      ],
-      "duration_ms": 301606,
-      "name": "Circle Of The Seasons",
-      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Frog Raag",
         "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
       },
@@ -775,18 +759,34 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Pythagoras",
-        "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
+        "name": "Harsh & Exciting",
+        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
       },
       "artists": [
         {
-          "name": "Pyramids",
-          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
+          "name": "Moonrisers",
+          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
         }
       ],
-      "duration_ms": 314500,
-      "name": "Pretty Pigs",
-      "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
+      "duration_ms": 301606,
+      "name": "Circle Of The Seasons",
+      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Harmony of Irrelevant Facts",
+        "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Harmony of Irrelevant Facts",
+      "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -811,34 +811,18 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Harmony of Irrelevant Facts",
-        "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
+        "name": "Pythagoras",
+        "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
       },
       "artists": [
         {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+          "name": "Pyramids",
+          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Harmony of Irrelevant Facts",
-      "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "A Room With A Door That Closes",
-        "url": "https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV"
-      },
-      "artists": [
-        {
-          "name": "Maiya Blaney",
-          "url": "https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl"
-        }
-      ],
-      "duration_ms": 143733,
-      "name": "Fumbled",
-      "url": "https://open.spotify.com/track/47UiRv5ieyeywP8O44K0xp"
+      "duration_ms": 314500,
+      "name": "Pretty Pigs",
+      "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -855,6 +839,22 @@
       "duration_ms": 343545,
       "name": "I am here now",
       "url": "https://open.spotify.com/track/6Bar5d1K7Rd2w2lB7FRaXd"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "A Room With A Door That Closes",
+        "url": "https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV"
+      },
+      "artists": [
+        {
+          "name": "Maiya Blaney",
+          "url": "https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl"
+        }
+      ],
+      "duration_ms": 143733,
+      "name": "Fumbled",
+      "url": "https://open.spotify.com/track/47UiRv5ieyeywP8O44K0xp"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "sound for people's spaces",
+        "url": "https://open.spotify.com/album/0uja4DPzq4bfeJ43HXrH23"
+      },
+      "artists": [
+        {
+          "name": "Drew Seele",
+          "url": "https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "a new object found dirt in my left eye but i keep looking",
+      "url": "https://open.spotify.com/track/6O0vGPbpPJCILp8gT9GNgE"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "Too Close to Call",
         "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 278630,
       "name": "Too Close to Call",
       "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
-      },
-      "artists": [
-        {
-          "name": "Zutzut",
-          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
-        }
-      ],
-      "duration_ms": 216287,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
+      },
+      "artists": [
+        {
+          "name": "Zutzut",
+          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
+        }
+      ],
+      "duration_ms": 216287,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "Rememberer",
         "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 208917,
       "name": "King of England",
       "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "sound for people's spaces",
-        "url": "https://open.spotify.com/album/0uja4DPzq4bfeJ43HXrH23"
-      },
-      "artists": [
-        {
-          "name": "Drew Seele",
-          "url": "https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "a new object found dirt in my left eye but i keep looking",
-      "url": "https://open.spotify.com/track/6O0vGPbpPJCILp8gT9GNgE"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Thinking about you",
-        "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
-      },
-      "artists": [
-        {
-          "name": "EXUM",
-          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
-        },
-        {
-          "name": "Maxi",
-          "url": "https://open.spotify.com/artist/2MWn1cRYRIhMXTe6U2LPQC"
-        }
-      ],
-      "duration_ms": 196340,
-      "name": "Thinking about you",
-      "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "METAMORFOSI (VOL. 2)",
         "url": "https://open.spotify.com/album/4bxrctZ1SWwRNZMJNqIVL0"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 183803,
       "name": "FIM DO MUNDO (feat. Mia Badgyal)",
       "url": "https://open.spotify.com/track/1Mr4jJlL2s7wtLJoDa44CW"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Thinking about you",
+        "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        },
+        {
+          "name": "Maxi",
+          "url": "https://open.spotify.com/artist/2MWn1cRYRIhMXTe6U2LPQC"
+        }
+      ],
+      "duration_ms": 196340,
+      "name": "Thinking about you",
+      "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Activate Cities",
-        "url": "https://open.spotify.com/album/5rt0xcpHthjEtdha0silGG"
-      },
-      "artists": [
-        {
-          "name": "NSDOS",
-          "url": "https://open.spotify.com/artist/0MGkczyIO62gO9EUxGs5vC"
-        }
-      ],
-      "duration_ms": 475309,
-      "name": "Predisparadis",
-      "url": "https://open.spotify.com/track/1CBzfrWW56xJwsZeRLAB6l"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "R\u00f8j\u00f8 Latid\u00f8",
         "url": "https://open.spotify.com/album/1OoB3m7Gv5yqZEWYAXQ979"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 211500,
       "name": "R\u00f8j\u00f8 Latid\u00f8",
       "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Activate Cities",
+        "url": "https://open.spotify.com/album/5rt0xcpHthjEtdha0silGG"
+      },
+      "artists": [
+        {
+          "name": "NSDOS",
+          "url": "https://open.spotify.com/artist/0MGkczyIO62gO9EUxGs5vC"
+        }
+      ],
+      "duration_ms": 475309,
+      "name": "Predisparadis",
+      "url": "https://open.spotify.com/track/1CBzfrWW56xJwsZeRLAB6l"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "Oasi Estesa",
+        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
+      },
+      "artists": [
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+        }
+      ],
+      "duration_ms": 272137,
+      "name": "GITA IN TRAM",
+      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "Cero",
         "url": "https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 255104,
       "name": "Ventoscuro Pt. 2",
       "url": "https://open.spotify.com/track/3PYWpNpxlbeD7eKyTXtk9m"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "Oasi Estesa",
-        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
-      },
-      "artists": [
-        {
-          "name": "Indianizer",
-          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
-        }
-      ],
-      "duration_ms": 272137,
-      "name": "GITA IN TRAM",
-      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1611,42 +1611,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "STARK PHENOMENA",
-        "url": "https://open.spotify.com/album/23cFIcU9O7traX8CiRJuif"
-      },
-      "artists": [
-        {
-          "name": "HxH",
-          "url": "https://open.spotify.com/artist/3RyGZmwI5ddTMW1OojjIgY"
-        },
-        {
-          "name": "Ayorinde E. Peebles",
-          "url": "https://open.spotify.com/artist/5TnHrMvW0SebaAl6UE8Gq0"
-        }
-      ],
-      "duration_ms": 444000,
-      "name": "Pyrex Vision",
-      "url": "https://open.spotify.com/track/3aiBUd8fzOc60XUPxGpm4u"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "12\u00b0C",
-        "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 273564,
-      "name": "12\u00b0C",
-      "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Ethos",
         "url": "https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y"
       },
@@ -1683,6 +1647,42 @@
       "duration_ms": 378000,
       "name": "B#G T##E S########Y 2",
       "url": "https://open.spotify.com/track/6gMUT7M1xxND6vy5tUDDkY"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "STARK PHENOMENA",
+        "url": "https://open.spotify.com/album/23cFIcU9O7traX8CiRJuif"
+      },
+      "artists": [
+        {
+          "name": "HxH",
+          "url": "https://open.spotify.com/artist/3RyGZmwI5ddTMW1OojjIgY"
+        },
+        {
+          "name": "Ayorinde E. Peebles",
+          "url": "https://open.spotify.com/artist/5TnHrMvW0SebaAl6UE8Gq0"
+        }
+      ],
+      "duration_ms": 444000,
+      "name": "Pyrex Vision",
+      "url": "https://open.spotify.com/track/3aiBUd8fzOc60XUPxGpm4u"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "12\u00b0C",
+        "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 273564,
+      "name": "12\u00b0C",
+      "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
     },
     {
       "added_at": "2025-07-30 18:29:59",

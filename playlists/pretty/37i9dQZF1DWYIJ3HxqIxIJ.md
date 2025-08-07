@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Meet our new RADAR artist DON WEST and other local artists you need to watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,997 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,001 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 49 | [BACK IN THE DAY](https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BACK IN THE DAY](https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP) | 2:48 |
 | 50 | [Burna](https://open.spotify.com/track/6SzRVOjeTqor9jBVZ2PP6W) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Burna](https://open.spotify.com/album/2dg79UazOgFcM51vfwEKKW) | 2:33 |
 
-Snapshot ID: `aG33WAAAAAAO5siJeZLl2TSt0N8HI314`
+Snapshot ID: `AAAAAGOGMH0bYmn6EGinkBvBwt/PVZSJ`

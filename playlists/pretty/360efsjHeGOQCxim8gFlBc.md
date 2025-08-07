@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 496 likes - 300 songs - 12 hr 28 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 496 likes - 299 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -306,7 +306,6 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 296 | [Secret Island Story \(Piano\)](https://open.spotify.com/track/4zyPQPc9nEcJsCw1dQu1mR) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 2:09 |
 | 297 | [Seal Pup](https://open.spotify.com/track/49xXvlToTyxaibYs6rJ25V) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Sea Ranch](https://open.spotify.com/album/6SVRWMgiR5uio8RpVZCLJi) | 2:33 |
 | 298 | [Improv 6](https://open.spotify.com/track/4rdhv6ukBMLOlf8vBry9hS) | [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Improv 6](https://open.spotify.com/album/3citQN7d1uid8nYyZne9er) | 1:38 |
-| 299 | [Hotline Bling](https://open.spotify.com/track/6zNoaA3PJA7BImBRMTgi2b) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Hotline Bling \(Remixes\)](https://open.spotify.com/album/1GAR8k5C71yn3RfLSsxmmt) | 3:02 |
-| 300 | [raindrops](https://open.spotify.com/track/6LFt83kO2UpsmzRlNBw3uM) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [raindrops](https://open.spotify.com/album/7D0dlYz2XBjxINaBVrCzF2) | 2:04 |
+| 299 | [raindrops](https://open.spotify.com/track/6LFt83kO2UpsmzRlNBw3uM) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [raindrops](https://open.spotify.com/album/7D0dlYz2XBjxINaBVrCzF2) | 2:04 |
 
-Snapshot ID: `AAAG22VfefTk4/4DSXrePLPg3wbLDn5z`
+Snapshot ID: `AAAG3ISgi8B9JG5Wafw7FTAAzlD4bKGx`

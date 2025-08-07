@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCNKk6DONWJ.md) - [plain]
 
 > Featuring all your favourite songs from The Archies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,706 likes - 17 songs - 41 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,709 likes - 17 songs - 41 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCNKk6DONWJ.md) - [plain]
 | 16 | [Sunoh \- Reprise](https://open.spotify.com/track/3iRKf1eAQk6I7ncGH98UN7) | [Shillong Chamber Choir](https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [The Islanders](https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i) | [The Archies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i) | 3:07 |
 | 17 | [Wolly Bully](https://open.spotify.com/track/44ueiWFAgKNJ3QpoNkdAT7) | [The Top Club Band](https://open.spotify.com/artist/2dzDJPysSdkI3ZBsw2oeJo) | [Radio Hits 60's](https://open.spotify.com/album/4GTB3bSsXrwVXr7BraGrIb) | 3:31 |
 
-Snapshot ID: `ZW8QuQAAAABbBsa8TcPSwQacT9N+6yMt`
+Snapshot ID: `AAAAAMcc42/50npBSficMYd8T4Pu98QD`

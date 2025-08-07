@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,574 likes - 123 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,572 likes - 123 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 122 | [Hanging Tree \- Original Mix](https://open.spotify.com/track/7n0cOjwadpms08yfGEeyOQ) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Hanging Tree](https://open.spotify.com/album/58oNJQhG4TvKk49KcE8yHg) | 6:11 |
 | 123 | [Acid Walk \- Original Mix](https://open.spotify.com/track/0mLMAvbFQnqKCvcsRGMMEl) | [Kovaxx](https://open.spotify.com/artist/01BmtVvAGpM9bXMT8AVZxC) | [Acid Walk EP](https://open.spotify.com/album/5YkiRVx3IPhfru82ZWVTJw) | 5:39 |
 
-Snapshot ID: `aJCS3gAAAAD5zI2So6XrITOYdpemZnim`
+Snapshot ID: `AAAAAAPPdW5Juh5upgFaIe2la17pi+Yn`

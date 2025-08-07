@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,130 likes - 128 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,134 likes - 128 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 45 | [Tu farai](https://open.spotify.com/track/3RfpzELsGR6t6xj0VFOBST) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Studio Uno](https://open.spotify.com/album/4kOeOxOX8Jr1wCgEQr7M3C) | 2:28 |
 | 46 | [La gatta](https://open.spotify.com/track/1f08sBI8nFXyQIU6FmOxSn) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Una Sera Con Gino Paoli](https://open.spotify.com/album/1Ye4Fpcso9kRhVV7ameMAj) | 2:23 |
 | 47 | [La domenica](https://open.spotify.com/track/09CKkApA7REinpVtObxxPx) | [Cocki Mazzetti](https://open.spotify.com/artist/5ICPjbsXGVJCd45oUnoXMg) | [La domenica](https://open.spotify.com/album/69iedSd3OhKwXdOVNqFx2K) | 2:47 |
-| 48 | [Una Notte a Napoli](https://open.spotify.com/track/492eazXZUX6HQsmpmEGp0I) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang on Little Tomato](https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8) | 4:45 |
+| 48 | [Una notte a Napoli](https://open.spotify.com/track/492eazXZUX6HQsmpmEGp0I) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang on Little Tomato](https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8) | 4:45 |
 | 49 | [Figli Delle Stelle \- Remastered 2017](https://open.spotify.com/track/4wECg73vCUg8N5RE8jXmEP) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Figli Delle Stelle](https://open.spotify.com/album/6ojyOCzVzawnKXpdJl7Jan) | 4:36 |
 | 50 | [Ninna Nanna](https://open.spotify.com/track/7rkyR63fTB9oicQDMO74Up) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A) | [Splendor in the Grass](https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF) | 4:42 |
 | 51 | [Cu ti lu dissi](https://open.spotify.com/track/2VVHjRD5JApwd1GR7myZvd) | [Rosa Balistreri](https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF) | [Rosa canta e cunta \- Rari e Inediti](https://open.spotify.com/album/4mzXCmayoJVfDtHmmFkni8) | 2:10 |

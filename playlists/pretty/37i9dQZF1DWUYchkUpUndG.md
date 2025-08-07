@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Sunmisola Agbebi and Ada Ehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,659 likes - 102 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,678 likes - 102 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 25 | [Wassup With You](https://open.spotify.com/track/1cXeYd3QiBm9vyUYnB36ph) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Wassup With You](https://open.spotify.com/album/3tdu6XYFfP2B3CBMlkqr2w) | 2:32 |
 | 26 | [Radical for Jesus](https://open.spotify.com/track/7FsjqcvezLOeKRza3YLEfL) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Radical for Jesus](https://open.spotify.com/album/2xa6oSpyhIzuxQOxTkNjBK) | 4:27 |
 | 27 | [Give Thanks Unto The Lord](https://open.spotify.com/track/7JVpX1BCzI3Ig9SuOcg82p) | [Anne Ugobor](https://open.spotify.com/artist/7bbZeeQWovS6GYPGyNTJsg), [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [Give Thanks Unto The Lord](https://open.spotify.com/album/36xB8fJANh3raVzyFJqYGR) | 3:47 |
-| 28 | [Case](https://open.spotify.com/track/7pNwawEu8kYP8HoBNwH0vP) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Mjay Godswill](https://open.spotify.com/artist/4MWIFlhrOAl9XnnRtWM1M0) | [Case](https://open.spotify.com/album/4QLDCFbBOskI8fjO9jkUKy) | 2:50 |
+| 28 | [Case](https://open.spotify.com/track/7pNwawEu8kYP8HoBNwH0vP) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [MJay Godswill](https://open.spotify.com/artist/1bR3jjsG9xFNIwajp3VAHx) | [Case](https://open.spotify.com/album/4QLDCFbBOskI8fjO9jkUKy) | 2:50 |
 | 29 | [KINGDOM II](https://open.spotify.com/track/4xM6J5xPIlpicpF8lUtuyY) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Trenches Man](https://open.spotify.com/artist/4RqMgE1wtKcbcV7n6t5zPa) | [KINGDOM II](https://open.spotify.com/album/2zDry1DsuiNcEnc7VA1Mxm) | 1:36 |
 | 30 | [Jesus We Lift Up Your Name \- Cover](https://open.spotify.com/track/7D9LnQ8LPE4dTZfqCOgVjK) | [Shola Aliogo](https://open.spotify.com/artist/5flFoFrCfbZ1e0EzD5EePR), [Arowoshola](https://open.spotify.com/artist/33NnhKPGcuw9CHQOEOVYoR) | [Jesus We Lift Up Your Name \(Cover\)](https://open.spotify.com/album/4XekSB3wupu8zFXqZSbGcG) | 2:20 |
 | 31 | [Dwelling](https://open.spotify.com/track/5e6hVYwGX6a2HlAiI5dwME) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Christianah Babatunde](https://open.spotify.com/artist/4rUh0noUDQGmnXybPs60sf), [Oge Johnson](https://open.spotify.com/artist/259GSjNALg8uV9pFIpvNcr), [Izuchi Bismark](https://open.spotify.com/artist/401IybVVndkNlesgzJuSDb), [Pretty Peace](https://open.spotify.com/artist/08dcTTh3atwUACfZJ0L8nZ), [Chukwuebuka Ohams](https://open.spotify.com/artist/4Sq6xA5XKjZHcq6lZBE4UY) | [Dwelling](https://open.spotify.com/album/1Q5ot4fjzXc93NZFpKB7eV) | 5:12 |

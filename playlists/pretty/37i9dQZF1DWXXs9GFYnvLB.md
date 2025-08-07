@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,438,399 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,438,406 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 74 | [Amen For The Weekend](https://open.spotify.com/track/6n95Js3BFd0ZRtggQTxS00) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Amen For The Weekend](https://open.spotify.com/album/1L1XwefPhYYJ9c8cYlfREb) | 2:59 |
 | 75 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 
-Snapshot ID: `aJGB3AAAAADA8wDgWV+l5LpCWtBj3MmG`
+Snapshot ID: `AAAAAA1z9seWrita2Np+VgHATmzGEdxJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > C'è qualcosa di grande tra noi e Coez quest'estate ♥‿♥
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,837 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,825 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 69 | [VIENNARÌ](https://open.spotify.com/track/4jiplAN9NaGsapfWZED45b) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [VIENNARÌ](https://open.spotify.com/album/5pnwiqz4zlZOJkLPwOWxIT) | 3:28 |
 | 70 | [les jeux sont faits](https://open.spotify.com/track/5tdo8VT5g0VglkQBH58Xox) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Schegge](https://open.spotify.com/album/5ahpkPnZf2ZeuDjIenuPri) | 3:22 |
 
-Snapshot ID: `aJDD2wAAAAAuAhegfyRN0CTTGB6VSEWR`
+Snapshot ID: `AAAAAIIDcbIR4vHKss1j112KsppLT1PE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo: Larusso
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,641 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,729 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 49 | [Paris a le Blues](https://open.spotify.com/track/2fJy6kGyMOusAwdzTmxIN3) | [Mad In Paris](https://open.spotify.com/artist/3fsoaS1PLh7xYiJsVb7QR0) | [Mad In Paris](https://open.spotify.com/album/6FGWuEYu8CKh6CQgrB6aoA) | 4:51 |
 | 50 | [Balance\-toi \- Radio Version](https://open.spotify.com/track/6ZfrnowxbITds4rttdhEje) | [Réciprok](https://open.spotify.com/artist/6bp3RLqgKEQTWPbqws84X5) | [Il y a des jours comme ça...](https://open.spotify.com/album/0r2GeqQOV5AU1oHYwz65Xd) | 3:30 |
 
-Snapshot ID: `aGQDFwAAAAAFvDtJI7VOvw6dAO9jfSGu`
+Snapshot ID: `AAAAAIs9oNcvixuJomt6t97yzcVlLdRU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 
 > Spotifyで人気のソニックシリーズ楽曲を収録したオフィシャルプレイリスト！/Official playlist of popular Sonic series songs on Spotify!  \(C\)SEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,116 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,133 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 | 54 | [Live & Learn \- Live](https://open.spotify.com/track/0qVOs1V7tgk0z0TZNzn8GN) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL), [FILMharmonic Orchestra, Prague](https://open.spotify.com/artist/5wWxVeUfHDUXotmcddtzvF) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw) | 4:50 |
 | 55 | [One Way Dream](https://open.spotify.com/track/5joiLm4EOZrFo0SfoE3BpA) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Nathan Sharp](https://open.spotify.com/artist/1X5diIf3QYBCTauZYgbzEi) | [Sonic Frontiers Original Soundtrack Stillness & Motion](https://open.spotify.com/album/3rzNkB4JHEnWmuXC6G98IS) | 5:18 |
 
-Snapshot ID: `Z2rULQAAAAC3WhoNYOu7FM05UgdEHrIg`
+Snapshot ID: `AAAAALx7+8VSy+c4zh98i4HsO9bcmx2X`

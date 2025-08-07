@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,422 likes - 220 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,585 likes - 220 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 219 | [MYSA](https://open.spotify.com/track/69ylUPLusue7f4Q1fyiEdr) | [Anitek](https://open.spotify.com/artist/0Idi5CuVXznxRkxzdUtdcQ) | [MYSA](https://open.spotify.com/album/5JJ4qtCv1tbWT1cp6jWac6) | 2:30 |
 | 220 | [Selftalk](https://open.spotify.com/track/71YmQje7LJWXIFG9oH9MGG) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Selftalk](https://open.spotify.com/album/2Y7hpLJbrE4vUNdf338pNZ) | 3:01 |
 
-Snapshot ID: `aGfZKQAAAACYPaj0OGbo6tY69Ly42zWF`
+Snapshot ID: `AAAAAEHhrcNaOm8xdCMBn9aspu8jLH4G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 900 songs - 2 day 8 hr 14 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 901 songs - 2 day 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -908,5 +908,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 898 | [catching my tears](https://open.spotify.com/track/3Vqyx6twD6N0V9TafhwP4x) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [catching my tears](https://open.spotify.com/album/2u94rUNHDcOZZM9rmYsn6H) | 1:42 |
 | 899 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
 | 900 | [Say It Ain't So](https://open.spotify.com/track/56MEbUIvvfEEkLIl51wxGD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 4:18 |
+| 901 | [PiRATE DAYS](https://open.spotify.com/track/70R0DnWrspawLLrOr00loI) | [JuanLargo Tha Six6](https://open.spotify.com/artist/18Th9xcQZKSqDFvdA8YITY) | [PiRATE DAYS](https://open.spotify.com/album/0PmTvzAFgftzIFJrSiylED) | 3:43 |
 
-Snapshot ID: `AAAHL1xadqilmtbElJvwVOMJTsZQtmnD`
+Snapshot ID: `AAAHMIgONVIXWw3m7nLOyHGObGIoFtdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,241 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,258 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 49 | [Requiem](https://open.spotify.com/track/6AWUWCMEF31w9e0yvGiFBl) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Heaven Is For Warriors EP](https://open.spotify.com/album/0foqG98xclmbCe33QsRMll) | 3:40 |
 | 50 | [Born Again \(Babylonia\) feat\. Widemode](https://open.spotify.com/track/6MziWtIveg3XEYr2VVyW0i) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH), [Widemode](https://open.spotify.com/artist/1oB55C2OgosjV7fLfhNoMS) | [Born Again \(Babylonia\) feat\. Widemode](https://open.spotify.com/album/7zKOmzXqKcDNlHGpE1DnQ1) | 2:17 |
 
-Snapshot ID: `aFVS6AAAAADSCWHfWspLrfBSNzL/EbO/`
+Snapshot ID: `AAAAAGjDmRkWiNiQ1nphskgfNtCFJBPm`

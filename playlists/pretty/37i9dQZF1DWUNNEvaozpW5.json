@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como el G-5.",
-  "num_followers": 599891,
+  "num_followers": 599877,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIoE+AAAAABnaBUc1psSb2y9Dgv287kx",
+  "snapshot_id": "AAAAAFaPz+lG17QIN0KUfTnL3fvnSFby",
   "tracks": [
     {
       "added_at": "2025-07-30 11:41:27",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-07-30 11:41:27",
       "album": {
-        "name": "Me has invitado a bailar",
-        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Me has invitado a bailar",
-      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
-    },
-    {
-      "added_at": "2025-07-30 11:41:27",
-      "album": {
         "name": "Voy A Pasarmelo Bien",
         "url": "https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 235080,
       "name": "Voy a pas\u00e1rmelo bien",
       "url": "https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS"
+    },
+    {
+      "added_at": "2025-07-30 11:41:27",
+      "album": {
+        "name": "Me has invitado a bailar",
+        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Me has invitado a bailar",
+      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
     },
     {
       "added_at": "2025-07-30 11:41:27",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-07-30 11:41:27",
       "album": {
-        "name": "Todos Los D\u00edas Sale El Sol",
-        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
+        "name": "El Mar No Cesa- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
       "artists": [
         {
-          "name": "Bongo Botrako",
-          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 146337,
-      "name": "Todos los d\u00edas sale el sol",
-      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
+      "duration_ms": 241280,
+      "name": "Mar adentro",
+      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
     },
     {
       "added_at": "2025-07-30 11:41:27",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-07-30 11:41:27",
       "album": {
-        "name": "El Mar No Cesa- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
+        "name": "Todos Los D\u00edas Sale El Sol",
+        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "Bongo Botrako",
+          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
         }
       ],
-      "duration_ms": 241280,
-      "name": "Mar adentro",
-      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
+      "duration_ms": 146337,
+      "name": "Todos los d\u00edas sale el sol",
+      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
       "added_at": "2025-07-30 11:41:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-07-30 11:41:27",
       "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
-    },
-    {
-      "added_at": "2025-07-30 11:41:27",
-      "album": {
         "name": "Jugar Al Gua",
         "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
+    },
+    {
+      "added_at": "2025-07-30 11:41:27",
+      "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2025-07-30 11:41:27",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-07-30 11:41:27",
       "album": {
+        "name": "Insurreccion (En Directo)",
+        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Insurreccion (En Directo)",
+      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
+    },
+    {
+      "added_at": "2025-07-30 11:41:27",
+      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
-    },
-    {
-      "added_at": "2025-07-30 11:41:27",
-      "album": {
-        "name": "Insurreccion (En Directo)",
-        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Insurreccion (En Directo)",
-      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
     },
     {
       "added_at": "2025-07-30 11:41:27",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2025-07-30 11:41:27",
       "album": {
-        "name": "Solitud",
-        "url": "https://open.spotify.com/album/5cjZ3dixljUXaAOB00aZ9m"
-      },
-      "artists": [
-        {
-          "name": "Carlos Escobedo",
-          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
-        }
-      ],
-      "duration_ms": 228708,
-      "name": "Solitud",
-      "url": "https://open.spotify.com/track/17ZiNld8bR0sVmdsJkDM9H"
-    },
-    {
-      "added_at": "2025-07-30 11:41:27",
-      "album": {
         "name": "Un Palo Al Agua (20 Grandes Canciones)",
         "url": "https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 273880,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW"
+    },
+    {
+      "added_at": "2025-07-30 11:41:27",
+      "album": {
+        "name": "Solitud",
+        "url": "https://open.spotify.com/album/5cjZ3dixljUXaAOB00aZ9m"
+      },
+      "artists": [
+        {
+          "name": "Carlos Escobedo",
+          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
+        }
+      ],
+      "duration_ms": 228708,
+      "name": "Solitud",
+      "url": "https://open.spotify.com/track/17ZiNld8bR0sVmdsJkDM9H"
     },
     {
       "added_at": "2025-07-30 11:41:27",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2025-07-30 11:41:27",
       "album": {
-        "name": "Terciopelo azul",
-        "url": "https://open.spotify.com/album/2BSn1C8HzPQ3ZlIVT0Nf4K"
-      },
-      "artists": [
-        {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "Terciopelo azul",
-      "url": "https://open.spotify.com/track/3wuDAI5DRe90ydZxXnWNrD"
-    },
-    {
-      "added_at": "2025-07-30 11:41:27",
-      "album": {
         "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
         "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 329491,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
+    },
+    {
+      "added_at": "2025-07-30 11:41:27",
+      "album": {
+        "name": "Terciopelo azul",
+        "url": "https://open.spotify.com/album/2BSn1C8HzPQ3ZlIVT0Nf4K"
+      },
+      "artists": [
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "Terciopelo azul",
+      "url": "https://open.spotify.com/track/3wuDAI5DRe90ydZxXnWNrD"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

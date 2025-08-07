@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 먼데이키즈 & 이이경\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 이창섭\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,839 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,834 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
-| 2 | [Destiny \(2025\)](https://open.spotify.com/track/0LLd9oghk9adWYmou7YQnV) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Lee Yi Kyung](https://open.spotify.com/artist/3VNRGqfUpv4TSkcJjnt9qd) | [Monday Kiz's Footprints Vol.1 With Lee Yi Kyung](https://open.spotify.com/album/6tdMpoiWbTxx6otgWj2bmF) | 4:18 |
-| 3 | [Smile for me](https://open.spotify.com/track/2ZFRL45ycB99L5UwGvEEIL) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [My lovely journey OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/4Jgg8BX4ATQjWNLEKZvxVJ) | 3:53 |
-| 4 | [Healing](https://open.spotify.com/track/3jXvQPiwLDtgA1JdhhMYLV) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Healing](https://open.spotify.com/album/5RioRsDCuLZA1FJ274ZvEA) | 3:49 |
-| 5 | [you like soybean paste stew](https://open.spotify.com/track/6Nb3tcEeduTm4Mj4W7RHFR) | [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX), [LEE YEEUN](https://open.spotify.com/artist/4yltNNj8uZnhQNh9XyGlwD) | [you like soybean paste stew](https://open.spotify.com/album/18P5LZMrPmubahl46oMUVR) | 4:17 |
-| 6 | [That Place, That Time](https://open.spotify.com/track/28gPEWljSTeHY2ik3csMe2) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [That Place, That Time](https://open.spotify.com/album/6IZo5gnNBiuJXweQOIC08M) | 3:43 |
+| 2 | [That Place, That Time](https://open.spotify.com/track/28gPEWljSTeHY2ik3csMe2) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [That Place, That Time](https://open.spotify.com/album/6IZo5gnNBiuJXweQOIC08M) | 3:43 |
+| 3 | [Destiny \(2025\)](https://open.spotify.com/track/0LLd9oghk9adWYmou7YQnV) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Lee Yi Kyung](https://open.spotify.com/artist/3VNRGqfUpv4TSkcJjnt9qd) | [Monday Kiz's Footprints Vol.1 With Lee Yi Kyung](https://open.spotify.com/album/6tdMpoiWbTxx6otgWj2bmF) | 4:18 |
+| 4 | [you like soybean paste stew](https://open.spotify.com/track/6Nb3tcEeduTm4Mj4W7RHFR) | [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX), [LEE YEEUN](https://open.spotify.com/artist/4yltNNj8uZnhQNh9XyGlwD) | [you like soybean paste stew](https://open.spotify.com/album/18P5LZMrPmubahl46oMUVR) | 4:17 |
+| 5 | [Smile for me](https://open.spotify.com/track/2ZFRL45ycB99L5UwGvEEIL) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [My lovely journey OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/4Jgg8BX4ATQjWNLEKZvxVJ) | 3:53 |
+| 6 | [Healing](https://open.spotify.com/track/3jXvQPiwLDtgA1JdhhMYLV) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Healing](https://open.spotify.com/album/5RioRsDCuLZA1FJ274ZvEA) | 3:49 |
 | 7 | [Goodbye in gold](https://open.spotify.com/track/7DDPlbJZZYGo9Z50R4mwNQ) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [Goodbye in gold](https://open.spotify.com/album/7vKZ7yUoCbJCjNZqeCclWl) | 4:01 |
 | 8 | [Take My Hand](https://open.spotify.com/track/1lvcsObmN9xiD3AtDLfROo) | [Son E Ji U\(Son Seung yeon,Lee Ye joon,Ji Se hee,U Sung eun\)](https://open.spotify.com/artist/2b0J5M0DnvBq0UcqpU0wBv) | [Take My Hand](https://open.spotify.com/album/2RsiFm71wIdvLj7rwWYRoD) | 3:44 |
 | 9 | [Midnight Dream](https://open.spotify.com/track/2qtAI8NFuO6BpeKH31hRMB) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Midnight Dream](https://open.spotify.com/album/5HgMcSAn98UphBdKWG94Pi) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
 | 100 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 |
 
-Snapshot ID: `aJAMCQAAAAAw6OzkNNURH9JOTu8kvNpK`
+Snapshot ID: `AAAAAFZPtLe/4Rvh/j0dxcZPJBzJwJqc`

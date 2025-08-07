@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:5iBttWnzPiDq6pJ4NIfc2d">ej stachu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,587 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,595 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Stan lekki](https://open.spotify.com/track/5f8B3QVYcF0jfngZ5nz6uT) | [Kuba Deka](https://open.spotify.com/artist/2KbQqkw5Va1x3wE4PYdym7) | [Stan lekki](https://open.spotify.com/album/0R0wvN8yJMM3YTjNOHn5UJ) | 2:44 |
 | 100 | [Historia prawdziwa](https://open.spotify.com/track/3mzUOCOwUbOjnUwHcIIJDv) | [CZEMOO](https://open.spotify.com/artist/1nRzlFlBPI18mR46Ig0Ns7) | [Historia prawdziwa](https://open.spotify.com/album/7hAETPuRIo90mYKLvfBTlj) | 3:24 |
 
-Snapshot ID: `aJJ+9gAAAABOCFMK6mj9gHRZl7X/fjFB`
+Snapshot ID: `AAAAAHL8gXB6ZD+81rV+Z4YU5Tbcg5A/`

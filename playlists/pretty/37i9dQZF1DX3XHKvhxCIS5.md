@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain]
 
 > Our editor’s picks of the freshest music from Ireland in 2024\. Cover: KNEECAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,638 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,635 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain]
 | 74 | [Daisy](https://open.spotify.com/track/2TxreYevEng0mYbQ3QAfXP) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Daisy](https://open.spotify.com/album/5he4YExXfEiSXxGpTPOjsw) | 3:01 |
 | 75 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 |
 
-Snapshot ID: `Z1GPlAAAAACWy0Pxmkxf1JDjbylRUHmf`
+Snapshot ID: `AAAAAOOUA0NAcfHXzPzh6OpASna9zqs2`

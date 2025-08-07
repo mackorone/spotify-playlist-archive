@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fcukers
 
-343 songs - 21 hr 23 min
+344 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [In The Dark](https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [In The Dark](https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl) | 4:18 | 2024-08-15 | 2025-05-09 |
 | [IN YOUR EYES](https://open.spotify.com/track/0UTTnRPIlgoJEq9D7i6gW6) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [IN YOUR EYES](https://open.spotify.com/album/4f9lLOAQsQIH9JwanNAV24) | 3:16 | 2024-07-03 | 2025-04-05 |
 | [Is This Where It Ends](https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq) | 4:02 | 2021-10-28 | 2024-03-01 |
-| [It Feels Much Better](https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU) | 3:01 | 2025-07-03 |  |
+| [It Feels Much Better](https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU) | 3:01 | 2025-07-03 | 2025-08-07 |
 | [It's Over \- Edit](https://open.spotify.com/track/1RLeNp25m5qaGCtF97p5r1) | [Extra Credit](https://open.spotify.com/artist/0eBplsuM9uqqqXMjn2ZsoA) | [It's Over](https://open.spotify.com/album/0q9YXpClk2bSqJYgAryoQJ) | 4:16 | 2021-10-28 | 2024-03-02 |
 | [Jini](https://open.spotify.com/track/4Pmg2EBOWFZVvi3zFs3SC3) | [Justin Faust](https://open.spotify.com/artist/3txM1X4je9gqlxE9IKqVsl) | [Jini](https://open.spotify.com/album/2blDmIqLlzYOP6F2JRL0Ze) | 4:20 | 2021-10-28 | 2024-03-29 |
 | [Journey \(feat\. Mysie\)](https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Journey \(feat\. Mysie\)](https://open.spotify.com/album/7ctNCieIMcJdrHIgdLmJKW) | 5:00 | 2024-02-02 | 2024-10-25 |
@@ -255,6 +255,7 @@
 | [Roller Coaster](https://open.spotify.com/track/6xwGsyTxtrClNf1hN8idvg) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Roller Coaster](https://open.spotify.com/album/6runm41hpgMzMSzA6S7u5a) | 3:00 | 2024-05-24 | 2025-02-14 |
 | [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-10 |  |
 | [Rufufus \- Sylvan Esso Remix](https://open.spotify.com/track/6mS5UKJZo37hlMjru7qkfP) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 4:07 | 2021-10-28 | 2024-04-12 |
+| [Running](https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Running](https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM) | 3:09 | 2025-08-01 |  |
 | [Rush \(Missing Out On Me\)](https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Purient](https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh) | [Rush \(Missing Out On Me\)](https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg) | 2:24 | 2025-05-08 |  |
 | [Sad Banger](https://open.spotify.com/track/7pG8VRvjTokuiQDB37UTzw) | [Hifi Sean & David McAlmont](https://open.spotify.com/artist/5OplKsl1JcvQa766yZrSbB), [Hifi Sean](https://open.spotify.com/artist/4r3RNyF5sHrEh1ds9mTr3o), [David McAlmont](https://open.spotify.com/artist/0gESIlqqih6ExRqNxMJ1wE) | [Sad Banger](https://open.spotify.com/album/2BndK14UHFtrZtZWRCVITp) | 2:54 | 2024-04-12 | 2025-02-14 |
 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 | 2024-03-22 | 2025-01-17 |

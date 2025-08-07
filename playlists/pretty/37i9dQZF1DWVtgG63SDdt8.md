@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,321 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,432 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 26 | [Nothing Is Over](https://open.spotify.com/track/16JITzWPFUMY1uNgFIPmxc) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexandra Osteen](https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda) | [Nothing Is Over](https://open.spotify.com/album/3eFnq8loN5U5hUtJTSSy4E) | 4:24 |
 | 27 | [STEADY HANDS](https://open.spotify.com/track/05wUeTZB3eB4g17LrWJixt) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [STEADY HANDS](https://open.spotify.com/album/6cb3lLCEsvPTf2opmvgOwH) | 3:53 |
 | 28 | [Swing Wide \- Live](https://open.spotify.com/track/4Ffb55JzVxvHyXbwRPNlOa) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL) | [Swing Wide \(Live\)](https://open.spotify.com/album/3INtOnUwU0r1N2rBu3ZOyk) | 4:43 |
-| 29 | [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/7JLZZvJFCTOtmoAkT4Keic) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 |
+| 29 | [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/6zMKXgzvuhDvGQC0G2tBfQ) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 |
 | 30 | [One Thing](https://open.spotify.com/track/3Kjhi6eQFZjuvg6F8qBdAa) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [One Thing](https://open.spotify.com/album/7w6vBxuTQbzzAGnxkvU7iT) | 4:14 |
 | 31 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
 | 32 | [The Exchange \- Live](https://open.spotify.com/track/4fHGGCkRIjDtmxcrt3bm2V) | [Demarcus Kelly](https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf) | [The Exchange \(Live\)](https://open.spotify.com/album/6gpHSIVFQr9dR8TzenUK2E) | 6:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [WHY](https://open.spotify.com/track/5FyapNabN0qbFYTkrEKmsi) | [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW), [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot), [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp) | [The Rose Era](https://open.spotify.com/album/00SwpAGnOUIfdh9ZPvdqTL) | 3:28 |
 | 100 | [Rain of Your Love](https://open.spotify.com/track/7LiaePCWFMtu4Thx29GHGq) | [Maria Hilman](https://open.spotify.com/artist/6zM3emeiYDQ8sdoOA72Hc7) | [Rain of Your Love](https://open.spotify.com/album/6MY1NpLdseGhU0Jh8857nS) | 2:57 |
 
-Snapshot ID: `aIywgwAAAAB+GZH675lb4Gy+p+Gt1IP+`
+Snapshot ID: `AAAAAOoikW8jLhwVr+7xyRb5Wuv5oN0A`

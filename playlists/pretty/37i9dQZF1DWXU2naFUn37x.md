@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Sadturs e KIID in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,163 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,228 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Mentalità Nobel \(feat\. Kassimi, Yunes LaGrintaa\)](https://open.spotify.com/track/4nlygMnV22xdfGqDxaGuTy) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [DIASPO MIXTAPE](https://open.spotify.com/album/2b8CGzwKJ52QiRNJ1wmMb7) | 2:25 |
 | 50 | [Bevendo Fumando](https://open.spotify.com/track/22RkrLiuGv7YGHLl9qTQ3b) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Bevendo Fumando](https://open.spotify.com/album/2tHziGnrc0Fqge0bXQHclo) | 2:12 |
 
-Snapshot ID: `aIvnsQAAAAA9achV+++npBSF86RvQczy`
+Snapshot ID: `AAAAAB/GFFj3j1WBUk26BchzULrYzA0B`

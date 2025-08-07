@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 
 > Il meglio dell'indie italiano nel 2024, secondo i nostri Editor! Cover: Pinguini Tattici Nucleari
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,287 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,291 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 | 49 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 |
 | 50 | [Burrone](https://open.spotify.com/track/1NaD3BZ3iokShwJjmRAvFz) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Burrone](https://open.spotify.com/album/4JyFlh34wPSfiPDJVrYAmf) | 3:02 |
 
-Snapshot ID: `Z1BHxAAAAABT54DteWvOIqEzrsuaGzfW`
+Snapshot ID: `AAAAAGl5+1l+p2r7qQ8+dUP7nen5UDQl`

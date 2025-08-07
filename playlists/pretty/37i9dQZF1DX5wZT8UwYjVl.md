@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wZT8UwYjVl.md) - [plain]
 
 > A classic musical reimagined \- listen to the music from West Side Story, only in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,901 likes - 22 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,900 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wZT8UwYjVl.md) - [plain]
 | 21 | [End Credits](https://open.spotify.com/track/6wSLWZELUevZPdHZXGusy2) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi) | 9:03 |
 | 22 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 |
 
-Snapshot ID: `ZIsQ6QAAAAAYgbGDgs7SPuGLDvpitAMa`
+Snapshot ID: `AAAAALCMnuOK7obWl79wmw565rmHJFVK`

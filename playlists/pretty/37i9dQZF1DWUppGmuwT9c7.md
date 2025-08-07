@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,767 likes - 106 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,037 likes - 106 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 105 | [Aan Alle Mooie Meiden](https://open.spotify.com/track/6x4A4DTWHBK2w7GSAiqVbD) | [Willem Barth](https://open.spotify.com/artist/1thOlcNMXFKvfW0n9ACI52) | [Doe Het Goed](https://open.spotify.com/album/4ZJoyXr0vVitn4DN3yUHQC) | 3:29 |
 | 106 | [Trompetisto](https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Trompetisto](https://open.spotify.com/album/6gsOgcotCeVJsqqQVZ0Qdb) | 2:20 |
 
-Snapshot ID: `aHV96gAAAACx/ZqOiFiakvX4qRjku0P2`
+Snapshot ID: `AAAAAP93vZXJxWzzSCs0Hfckq4KF7p9k`

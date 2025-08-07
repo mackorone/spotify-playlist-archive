@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QGRbOBzabD.md) - [plain]
 
 > Music from Nishio Ishin Anime project based on his popular light novels.（C）西尾維新／講談社・アニプレックス・シャフト
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,521 likes - 41 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,530 likes - 41 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QGRbOBzabD.md) - [plain]
 | 40 | [perfect slumbers](https://open.spotify.com/track/4Y2tmOicKcC4iTm2FscAXQ) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [歌物語 Special Edition](https://open.spotify.com/album/1oP65KKl98hRSjJvpKeFmQ) | 4:27 |
 | 41 | [white lies](https://open.spotify.com/track/7IC4AU7doXNuOBuLJK55MW) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [歌物語 Special Edition](https://open.spotify.com/album/1oP65KKl98hRSjJvpKeFmQ) | 3:24 |
 
-Snapshot ID: `Z/U8OAAAAADsNuDNTJyDHZ6ZskOwAPyk`
+Snapshot ID: `AAAAAMABcCUsIXPGJvNqoMJpIyBR0PLv`

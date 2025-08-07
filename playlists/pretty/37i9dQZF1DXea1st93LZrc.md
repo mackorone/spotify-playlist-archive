@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2024\. Εξώφυλλο: TOQUEL, RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,333 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,340 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 49 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
 | 50 | [Blue Jeans](https://open.spotify.com/track/2xECffLm4IErZBCjg0dLoX) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [Melow](https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61) | [Blue Jeans](https://open.spotify.com/album/4Mjz9hFOY7Tasjfah32Ax1) | 3:45 |
 
-Snapshot ID: `Z1CLTAAAAAAdOZ5TON9JsYnfnYRImOBe`
+Snapshot ID: `AAAAAL9juK1EJhFXBS073vk1fEdEGJdL`

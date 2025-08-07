@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Tenors In Chaos
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,327 likes - 70 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,330 likes - 70 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 69 | [Rippling](https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:03 |
 | 70 | [New Frontiers](https://open.spotify.com/track/7yyY7WqlhVyGRnHsFEnTbc) | [Matti Klein](https://open.spotify.com/artist/3Qjg6tAcCchhbDqSbcatr3) | [New Frontiers](https://open.spotify.com/album/23SF41OwlqlIRvoy9GCBXq) | 4:08 |
 
-Snapshot ID: `aIuFCgAAAABepiCOB2EQKZBtx175H34V`
+Snapshot ID: `AAAAAEBn1/GJZvBP/e9hfXeWpnJ/xCtz`

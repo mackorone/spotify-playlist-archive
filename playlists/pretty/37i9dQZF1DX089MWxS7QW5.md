@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Yoon Da Hye\(윤다혜\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,564 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,584 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 48 | [See through \(Feat\. Michelle\)](https://open.spotify.com/track/7mvrsDEEEvR7sRapkxsjDg) | [gani](https://open.spotify.com/artist/4ZslxGFMt5d6axpVivGwZr), [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [See through \(Feat\. Michelle\)](https://open.spotify.com/album/6cunlL6umFfwNoHhSJQWJz) | 2:48 |
 | 49 | [Hills & Valleys](https://open.spotify.com/track/13DbxYzAMAWTVvk2ia1dq9) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [Hills & Valleys](https://open.spotify.com/album/1TVqoxEkZtvsRDFPQRGV5Q) | 3:29 |
 
-Snapshot ID: `aJGP4QAAAACftQuiGWsYqLQnIjhcWDFC`
+Snapshot ID: `AAAAAM7tN06BIQjc6aiuH71FnVDcSyjZ`

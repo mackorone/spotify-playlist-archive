@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Daun Jatuh, Grace Kaitlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,696 likes - 115 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,703 likes - 115 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 114 | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/track/2Jis7HJrGnlRdW1whjEZwv) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/album/7DitYwaNCH5O4BeaqdtVvK) | 4:18 |
 | 115 | [Tak Berakhir Sama](https://open.spotify.com/track/5NXaiP4tRDJzHWydzRHwQ3) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Tak Berakhir Sama](https://open.spotify.com/album/40x1sWxBNDkUmvYIFdLsCX) | 3:50 |
 
-Snapshot ID: `aIxJ5QAAAAD9iVfUJWEjCZQEHnvdPjXy`
+Snapshot ID: `AAAAANkPS7T3hEUCb8mv0faTZq/MWKiq`

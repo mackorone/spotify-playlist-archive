@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,734 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,732 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 45 | [12 de Junho](https://open.spotify.com/track/3vFK2T4ygQHos5deK4HYME) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 3:10 |
 | 46 | [LUA CHEIA](https://open.spotify.com/track/5falImgCHCRJr8HlJ6rqmJ) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [MOVEDIÇA](https://open.spotify.com/album/3Oc9BjpHMpy6vYe0gdbMZt) | 2:50 |
 
-Snapshot ID: `aGSgygAAAAADWRPq6nLZ3NrQcZVCwMTn`
+Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

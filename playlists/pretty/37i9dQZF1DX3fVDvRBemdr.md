@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Jeffrey Heesen
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,617 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,625 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 89 | [Plekje In Mijn Hart](https://open.spotify.com/track/64cxYuAQ4kDRLZb0YOrtsv) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH), [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh) | [Plekje In Mijn Hart](https://open.spotify.com/album/782FzCuKy3CcNjm5PtkjIi) | 3:00 |
 | 90 | [Overal 'n Feestje](https://open.spotify.com/track/2SVH9uThkw8Qkxfrkl8GMB) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Overal 'n Feestje](https://open.spotify.com/album/01K2WzpyOCBHaOZ6r08zT8) | 2:55 |
 
-Snapshot ID: `aJEtaAAAAAC5Wc2JKR55Qer1qsnMdNH3`
+Snapshot ID: `AAAAADTHNMpIFl7KeA//fx0rC8N37fO8`

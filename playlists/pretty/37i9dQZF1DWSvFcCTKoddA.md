@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 26 | [J'emménage avec Monsieur de Brauer](https://open.spotify.com/episode/7qGa1yqTIp02WqL8E7MTO8) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 27:11 |
 | 27 | [Pierre Delahousse \- "Je mangeais la fourchette en bois"](https://open.spotify.com/episode/1XQxu8J4s6svFGWilzPPNH) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 59:21 |
 
-Snapshot ID: `Z6odSwAAAADKVSTnhaoi64SrPT+G8Pqa`
+Snapshot ID: `AAAAAGCXCfh+H8sxJoKh2v5Im+mhRC0k`

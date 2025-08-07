@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,345 likes - 53 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,354 likes - 53 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 52 | [Achievement 3](https://open.spotify.com/track/2wiZS58qQCMAtf66IHDrXj) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [Compilation One](https://open.spotify.com/album/16tsQvb1JrMpyiLXQMVBqC) | 5:41 |
 | 53 | [Pace Chemistry](https://open.spotify.com/track/33olisitkJSIsGypRWmDVL) | [PVNV](https://open.spotify.com/artist/0bHUeo6y8JR9GwawQRsYMA) | [Various Artists](https://open.spotify.com/album/52gGWRpHNjEuVBwBgcD63s) | 6:45 |
 
-Snapshot ID: `Z23gCAAAAADCnTQFQ2jlSNxVlZS4cYGo`
+Snapshot ID: `AAAAACulxYy9aymLhL2FIq0+SAOv/mTU`

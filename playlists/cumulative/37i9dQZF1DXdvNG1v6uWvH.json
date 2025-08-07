@@ -50861,6 +50861,24 @@
     },
     {
       "album": {
+        "name": "Guinness",
+        "url": "https://open.spotify.com/album/5c8ZIRrCpsMJlz6B1v5sWa"
+      },
+      "artists": [
+        {
+          "name": "Lewis Fitzgerald",
+          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163725,
+      "name": "Guinness",
+      "url": "https://open.spotify.com/track/69wHfWFQD8Mkbwj4nrtyMI"
+    },
+    {
+      "album": {
         "name": "Gulli\u00f0 mitt",
         "url": "https://open.spotify.com/album/7FxWdXMAefI1f2OnEFDjw5"
       },
@@ -78777,7 +78795,7 @@
     },
     {
       "album": {
-        "name": "M.O.B.",
+        "name": "M.O.B",
         "url": "https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC"
       },
       "artists": [
@@ -78794,7 +78812,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140366,
-      "name": "M.O.B.",
+      "name": "M.O.B",
       "url": "https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK"
     },
     {
@@ -83870,7 +83888,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 141058,
       "name": "More",
       "url": "https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj"

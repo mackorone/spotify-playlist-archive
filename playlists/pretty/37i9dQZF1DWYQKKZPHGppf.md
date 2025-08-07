@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Il meglio dell'urban italiano nel 2024, secondo i nostri Editor! Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,507 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,535 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 49 | [Vecchio stampo & West Coast](https://open.spotify.com/track/3PPbAPR5IljfWZmHACBPAY) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/3OVnR5nA6PctoA8zxlayUH) | 3:03 |
 | 50 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
 
-Snapshot ID: `Z1BHxAAAAAAdMEWWHXSkrsLfu7qHpE8P`
+Snapshot ID: `AAAAAFIieOvLQLou/bdNVd1ITyUFMeet`

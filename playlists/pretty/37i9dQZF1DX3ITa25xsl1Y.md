@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITa25xsl1Y.md) - [plain]
 
 > This is METTE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,448 likes - 11 songs - 33 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,449 likes - 11 songs - 33 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITa25xsl1Y.md) - [plain]
 | 10 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
 | 11 | [MAMA'S EYES \- Louis La Roche Remix](https://open.spotify.com/track/1npNiB7O50R6Nkhz57KaRY) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Mama's Eyes \(The Remixes 2.0\)](https://open.spotify.com/album/3a8akjQCorL9I4V1sEQNmV) | 3:36 |
 
-Snapshot ID: `Zn44ZAAAAAC0+yKu2WYCq8Z0WKvNMePF`
+Snapshot ID: `AAAAABtFRtClV2N3McsZuTPB+8x89Rah`

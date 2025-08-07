@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : RnBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,335 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,346 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Mini Moi](https://open.spotify.com/track/77lEiVLxXAwof70K4ohabm) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Reine \(Deluxe\)](https://open.spotify.com/album/5ysyXw3W6VgSCCHxGPjlnm) | 2:24 |
 | 40 | [CLASSY THUG](https://open.spotify.com/track/6gm9mJiTarQUa7QFPUNLuV) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [CLASSY THUG](https://open.spotify.com/album/10U4ORJ07tYBBXllneubQc) | 2:44 |
 
-Snapshot ID: `aIKs/QAAAABkaPDN/0yBbW7W5urV8OCU`
+Snapshot ID: `AAAAAHjISGQ0fQ9jXXc5BIZTf9Ucx3+e`

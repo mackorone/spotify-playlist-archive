@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,895 likes - 120 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,897 likes - 120 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 119 | [為靠近而遠離](https://open.spotify.com/track/3alC6rjIGZAr1xL94VBJkE) | [Jeff Chang](https://open.spotify.com/artist/2dw80Uni5l7wd9zZFn7Ltu) | [為靠近而遠離](https://open.spotify.com/album/5zhy7kTZBGjRHCH245TOkE) | 5:03 |
 | 120 | [做一個惜情軟心的人](https://open.spotify.com/track/3m6IzuqkNDoYSTb8yWlDOj) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [做一個惜情軟心的人](https://open.spotify.com/album/6QWYwGvZd3p9zqgQtDaFxl) | 4:25 |
 
-Snapshot ID: `aI/cxwAAAAC9Opj4DHWMj+pyRAuaUyBw`
+Snapshot ID: `AAAAABfy+UDNdkCNceou50BC6Xz4qkcu`

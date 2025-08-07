@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBmDFaZzh30.md) - [plain]
 
 > Exclusive playlist by the author of "Tokyo Ghoul" © I/S © I/S,TGPC © I/S,TGRPC
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,717 likes - 36 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,756 likes - 36 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBmDFaZzh30.md) - [plain]
 | 35 | [Stronger](https://open.spotify.com/track/3utsJdhRUrJA8avrOawi8D) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:42 |
 | 36 | [泡色の街](https://open.spotify.com/track/5s7r7zvux5JvKiNhGE7F1q) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [ルームシック・ガールズエスケープ](https://open.spotify.com/album/0rWQFgwsZLqO9RKJCok0KG) | 6:12 |
 
-Snapshot ID: `Z5PC0QAAAADKp4eXMYFN84YrH37XCF6L`
+Snapshot ID: `AAAAAEqwUtTfhHUUHmCTJQUgEEdIBeHG`

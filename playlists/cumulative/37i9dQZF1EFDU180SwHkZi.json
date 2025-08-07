@@ -656,6 +656,24 @@
     {
       "album": {
         "name": "HEARTBREAK ON THE DANCE FLOOR",
+        "url": "https://open.spotify.com/album/6bSs5sjgeXM4SaoqFZkdn9"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Arora",
+          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136229,
+      "name": "Expensive On Me",
+      "url": "https://open.spotify.com/track/3vvwCxeE0jsAJSd7G1eyCF"
+    },
+    {
+      "album": {
+        "name": "HEARTBREAK ON THE DANCE FLOOR",
         "url": "https://open.spotify.com/album/4xeB3CxmN8wCAIQGAh9XC0"
       },
       "artists": [
@@ -666,7 +684,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 136229,
       "name": "Expensive On Me",
       "url": "https://open.spotify.com/track/4OOvL85V0OSRvu7iYjYjPl"
@@ -1192,10 +1210,28 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-07",
       "duration_ms": 173888,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/1qdkVTgazayHGwEFyOvDpl"
+    },
+    {
+      "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/06QXwmHqY1zRtSnniqyMgv"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Arora",
+          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/2cUOj7bq5aGHEpuDa4dgQ6"
     },
     {
       "album": {

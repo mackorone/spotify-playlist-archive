@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125114,
+  "num_followers": 125111,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUcBeIVZYzym2cC0klq7zrm07NlvN9",
+  "snapshot_id": "AAAUcSEmXOclFrk1qIj+4hsoxP55Sma6",
   "tracks": [
+    {
+      "added_at": "2025-08-06 14:41:14",
+      "album": {
+        "name": "From a Certain Point of View",
+        "url": "https://open.spotify.com/album/4Wik1trbWw1xr2E0sZVtH7"
+      },
+      "artists": [
+        {
+          "name": "Rocketman",
+          "url": "https://open.spotify.com/artist/4n3vlLgsdMv4OIoLhKU1CN"
+        }
+      ],
+      "duration_ms": 184585,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1aNNlMlJDjK6p1U5qZ3DMO"
+    },
     {
       "added_at": "2025-08-05 14:44:18",
       "album": {

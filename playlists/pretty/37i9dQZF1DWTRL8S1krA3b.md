@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,864 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,865 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 98 | [Merry Married Christmas](https://open.spotify.com/track/0JHDZuiXqm0fTbKfd89Qvy) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Merry Married Christmas](https://open.spotify.com/album/09eHJ6n2lcPWnJMnHkY8VK) | 3:04 |
 | 99 | [Glow](https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Christmas Record](https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD) | 3:21 |
 
-Snapshot ID: `Z2B7jgAAAACpSbxmUwbc5Z+eBsvJF4s3`
+Snapshot ID: `AAAAAA1w+jm9PgG4F3Tx5sKVcbK76gvc`

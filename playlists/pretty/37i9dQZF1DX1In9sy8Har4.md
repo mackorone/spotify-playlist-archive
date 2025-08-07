@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain]
 
 > The Official Snabba Cash Playlist\. Season 2 out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,799 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,803 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain]
 | 19 | [PEDIGREE](https://open.spotify.com/track/5ZoxbOd8nxtvzti0Ao7zSC) | [BENNETT](https://open.spotify.com/artist/0SiKXP7Ak60VxFUEcLFz8R) | [OCH DU HETER?](https://open.spotify.com/album/7CRGuS2wu8jgln4U3MRobe) | 3:24 |
 | 20 | [GANGSTER](https://open.spotify.com/track/6Wv079faQo140DbgBt0M3z) | [Lilla Namo](https://open.spotify.com/artist/2DsNd8GBB1y1J0XMq0nT6s) | [QUEENS](https://open.spotify.com/album/6VlXFys7aE3UOesOrd6SPf) | 3:03 |
 
-Snapshot ID: `ZIsTYwAAAACX4oXqqKzU/1F1wJpx7T44`
+Snapshot ID: `AAAAAE9L/S3RhpcC3xxZvP/kQJg+suwD`

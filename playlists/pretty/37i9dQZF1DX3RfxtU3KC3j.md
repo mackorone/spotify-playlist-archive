@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Mavi Gri
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,991 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,978 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 | 75 | [Kaybettim Yirmilerimde](https://open.spotify.com/track/2NbgiffvZvNdUa9ul5lM9s) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Kaybettim Yirmilerimde](https://open.spotify.com/album/51QMEOoRKIKVVptlOtjhZc) | 3:50 |
 
-Snapshot ID: `aIvZYQAAAABMrTPJhZ7qwr+OLo2E32Gg`
+Snapshot ID: `AAAAAEVgmuB4PeequIGwg59OKHld1sOg`

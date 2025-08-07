@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTsdpx69Vjw.md) - [plain]
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 18 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 18 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTsdpx69Vjw.md) - [plain]
 | 17 | [Ironside \- Theme From "Ironside"](https://open.spotify.com/track/30RmekD1dSy913wZnryc1h) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Smackwater Jack](https://open.spotify.com/album/7s9qCF31WJcVQf8okNTBAl) | 3:53 |
 | 18 | [Love To Love You Baby](https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Love To Love You Baby](https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy) | 16:48 |
 
-Snapshot ID: `ZIsSCQAAAAA6vueUcnwaIPlSsUwnvOFQ`
+Snapshot ID: `AAAAAEGanXAADFma8b71urtuBlObCXq5`

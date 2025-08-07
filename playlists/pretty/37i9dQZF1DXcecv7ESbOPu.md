@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Chappell Roan, Hooja, Peg Parnevik och Demi Lovato med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,967 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,964 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 69 | [South Of Sanity](https://open.spotify.com/track/0pwAGmv0r5LeEWaIIAK384) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [South Of Sanity](https://open.spotify.com/album/6NVclGrBOx2UG9z8pDIJGd) | 3:40 |
 | 70 | [When My Time Has Come](https://open.spotify.com/track/4Lt7iW01UFlL6uezuiQXkK) | [Marlene Oak](https://open.spotify.com/artist/6lkyBHzdF3MZmPZNJb5UCV) | [When My Time Has Come](https://open.spotify.com/album/6LBHBsEtTvWR3Tp5c0k9E3) | 4:03 |
 | 71 | [born to love you](https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [born to love you](https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio) | 3:38 |
-| 72 | [M.O.B.](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B.](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
+| 72 | [M.O.B](https://open.spotify.com/track/0i0Ac0l8h5adNlF3h06mlK) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Pedram](https://open.spotify.com/artist/2W71oTm8VuClACBLzFG95B) | [M.O.B](https://open.spotify.com/album/6yDFd9LUGGyyfUp0YMT5VC) | 2:20 |
 | 73 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
 | 74 | [The Ranja In Me](https://open.spotify.com/track/2dfRKLG5F6fD11USoIBlot) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [The Hungry Turban](https://open.spotify.com/artist/1sQ5t0f0yJJ0Y7jXsfcrvr) | [The Ranja In Me](https://open.spotify.com/album/7wbVP0GLtpOkq0YLRPRG1D) | 3:16 |
 | 75 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 100 | [Freedom](https://open.spotify.com/track/4iASwEBoRvT7vF0v58n8Qj) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Freedom](https://open.spotify.com/album/75bZcmEoh0IMVP2E63TQQs) | 2:32 |
 | 101 | [Don't Look Down](https://open.spotify.com/track/060VALM3GBwYuLva2Kg4r9) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Don't Look Down](https://open.spotify.com/album/09vETzLYeQ2RxuOOWYpkeY) | 3:25 |
 
-Snapshot ID: `aIyO9AAAAAAr5rqOAlNpVbm3Nf2aEi99`
+Snapshot ID: `AAAAAOmOqVBpxfLHXh/PzoTzmJ0vChkr`

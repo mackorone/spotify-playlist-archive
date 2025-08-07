@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 288359,
+  "num_followers": 288461,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aI/4AAAAAACe96v/T+O01ij0uKPDV7SB",
+  "snapshot_id": "aJFJgAAAAADUeFvacGxUavUzUpDdfUIE",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danzando Con Demonios",
-        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 205007,
-      "name": "Cuchillo en la Yugular",
-      "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No S\u00e9 Que Pas\u00f3",
         "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 216058,
       "name": "No S\u00e9 Que Pas\u00f3",
       "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danzando Con Demonios",
+        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 205007,
+      "name": "Cuchillo en la Yugular",
+      "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Compatible Contigo",
-      "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 190066,
       "name": "Mirada Triste",
       "url": "https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Compatible Contigo",
+      "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
     },
     {
       "added_at": null,

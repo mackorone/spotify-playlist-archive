@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr?si=ZJLPcxPiRQuXwhBde\-K\-9g">Campmasters</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,619 likes - 60 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,656 likes - 60 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 59 | [Yonkinto](https://open.spotify.com/track/3m8UOWi5h7gg9Lv9CuT8v4) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Minollar](https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K) | [Yonkinto](https://open.spotify.com/album/19tpw7WwMqsZpKzjuwbuFA) | 4:05 |
 | 60 | [Kwandonga Ziyaduma](https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Tronics Land Series 2](https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I) | 7:15 |
 
-Snapshot ID: `aIvnhQAAAABTFDzv5tkdYfkEDkp6hCeH`
+Snapshot ID: `AAAAAHbHB7/FcqAZ2tjPXZnKxSW6XTwV`

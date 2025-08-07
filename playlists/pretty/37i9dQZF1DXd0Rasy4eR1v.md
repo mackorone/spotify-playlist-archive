@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Omar Mukhtar
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,558 likes - 63 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,560 likes - 63 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 62 | [Wanderlust](https://open.spotify.com/track/0HVzY1Jxy3rpCHrf622vyU) | [Amna Askari](https://open.spotify.com/artist/1APOwzQ3mP56pRkFIueZbh) | [Wanderlust](https://open.spotify.com/album/2MvayR0I7OOHaP8jBbgxxE) | 2:11 |
 | 63 | [Rooth Gaya](https://open.spotify.com/track/3bmTIzl2qNOlLiia1WNMZc) | [Belaal](https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2) | [Rooth Gaya](https://open.spotify.com/album/3qtn0iZYpVuxl5SesjwGB3) | 3:40 |
 
-Snapshot ID: `aIyTKQAAAAAUcW8ZQiPTxkhsktZ/jjJm`
+Snapshot ID: `AAAAAJns8gB4D1uRMA5LnCUxS6Lu3UUH`

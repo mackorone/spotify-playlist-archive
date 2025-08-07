@@ -1,12 +1,12 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 102054,
+  "num_followers": 102113,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHDGtQAAAACaZVimFlfY5MPOP5FKVmmg",
+  "snapshot_id": "AAAAAG7np9MvaMq5sQ5PXCwv6Azl+NS6",
   "tracks": [
     {
       "added_at": "2025-07-11 08:09:25",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "The African Gentleman",
+        "url": "https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 220505,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 257959,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "The African Gentleman",
-        "url": "https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 220505,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Imizwa",
-        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
-      },
-      "artists": [
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
-        }
-      ],
-      "duration_ms": 260488,
-      "name": "Eyami",
-      "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 227460,
       "name": "Let Me Love You Now",
       "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Imizwa",
+        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "duration_ms": 260488,
+      "name": "Eyami",
+      "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 244615,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "FOU DE TOi",
-        "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
-      },
-      "artists": [
-        {
-          "name": "ELEMENT Ele\u00e9eH",
-          "url": "https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU"
-        },
-        {
-          "name": "Ross Kana",
-          "url": "https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE"
-        },
-        {
-          "name": "Bruce Melodie",
-          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
-        }
-      ],
-      "duration_ms": 237812,
-      "name": "FOU DE TOi",
-      "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Sawa Sawa",
         "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
       },
@@ -1783,6 +1759,30 @@
       "duration_ms": 180000,
       "name": "More Of You",
       "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "FOU DE TOi",
+        "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
+      },
+      "artists": [
+        {
+          "name": "ELEMENT Ele\u00e9eH",
+          "url": "https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU"
+        },
+        {
+          "name": "Ross Kana",
+          "url": "https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE"
+        },
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "duration_ms": 237812,
+      "name": "FOU DE TOi",
+      "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
     },
     {
       "added_at": "2025-07-11 08:09:25",

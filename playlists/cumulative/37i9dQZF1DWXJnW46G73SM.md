@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: احمد سعد و روبي
 
-1,554 songs - 3 day 14 hr 44 min
+1,555 songs - 3 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hesham El Gakh](https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK) | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1) | 3:06 | 2023-03-14 | 2023-05-12 |
 | [Ana Roht Minnak](https://open.spotify.com/track/1rPbqAS7xqPrP66daAl0F6) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ana Roht Minnak](https://open.spotify.com/album/4xiu6m1dJJJkMA8swxn8Ig) | 4:03 | 2021-12-23 | 2021-12-30 |
 | [ANA WE DELLY](https://open.spotify.com/track/7ivLqeRG4QQ4xkEqSJDjaG) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [ANA WE DELLY](https://open.spotify.com/album/6LqTtEzhzInVZfiqqhKG0X) | 4:10 | 2023-08-30 | 2023-12-15 |
+| [Ana Wel Amar](https://open.spotify.com/track/3ugRZ02LY4JuNeISmv4bv3) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana Wel Amar](https://open.spotify.com/album/3OFebAR7SW8jFbBSHwd0oA) | 4:34 | 2025-08-06 |  |
 | [Ana Zaaley](https://open.spotify.com/track/6xEKHNsrF6WS7brxCrG8Qg) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Fakharany](https://open.spotify.com/artist/73817y8suKDLnuLrUTRrp2) | [Ana Zaaley](https://open.spotify.com/album/3ZQagMTgeXBzQ9gySyr0Tg) | 4:01 | 2021-12-23 | 2022-03-04 |
 | [Ansaki](https://open.spotify.com/track/5nep0JPqcQV9EbIWqv4Aba) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Ansaki](https://open.spotify.com/album/4hDnBI2XR7oHt9XZYseSi7) | 2:25 | 2024-09-19 | 2024-11-22 |
 | [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 | 2024-02-09 | 2024-03-15 |
@@ -240,7 +241,7 @@
 | [Dab Hab](https://open.spotify.com/track/0uuM8tzZJGxAwRJ69rKJk4) | [Haitham Nabil](https://open.spotify.com/artist/3OFNnk9OMpPvJ0qnb6v66W) | [Dab Hab](https://open.spotify.com/album/5MHMaDPGzFcZmwv8XIv7El) | 4:38 | 2024-01-07 | 2024-02-09 |
 | [Daba](https://open.spotify.com/track/1AHgdckG3CWOHiMfHqZMxL) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [Belal Nawasra](https://open.spotify.com/artist/5wO2spB3cekp1Jc155hgAk) | [Leily Nahar](https://open.spotify.com/album/6UPzkUTvaVbjGtbUrtIAUZ) | 3:07 | 2025-05-08 | 2025-06-27 |
 | [Daghdagha](https://open.spotify.com/track/6Wz8i5kN8XCNSCflz6cXk7) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Daghdagha](https://open.spotify.com/album/4y2axhAvecdq2BGYnNRS7r) | 3:01 | 2023-08-01 | 2023-09-21 |
-| [Dah Begad](https://open.spotify.com/track/0nZv9W4mTGwohVo7Nl8Fws) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Dah Begad](https://open.spotify.com/album/7bX5FZzeHFMCexHRMBbTet) | 4:02 | 2025-06-19 |  |
+| [Dah Begad](https://open.spotify.com/track/0nZv9W4mTGwohVo7Nl8Fws) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Dah Begad](https://open.spotify.com/album/7bX5FZzeHFMCexHRMBbTet) | 4:02 | 2025-06-19 | 2025-08-07 |
 | [Dalla3 Wetdalla3](https://open.spotify.com/track/5ciTsQ0b2wsoEPrDY2MjWJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dalla3 Wetdalla3](https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6) | 4:06 | 2022-05-03 | 2022-08-11 |
 | [Dalma W Nour](https://open.spotify.com/track/6f5HYlVuweUALqQLE1Toyx) | [Amira Adeeb](https://open.spotify.com/artist/04JuXvm8MDLVe845QWe137) | [Dalma W Nour](https://open.spotify.com/album/7zMGATlD56CsqoPiUdqQQm) | 2:32 | 2024-10-18 | 2024-12-20 |
 | [Dalmaa](https://open.spotify.com/track/1earbnSWzUIxE2wSTD1Z5R) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:44 | 2025-07-30 |  |

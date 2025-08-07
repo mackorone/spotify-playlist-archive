@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,798 likes - 107 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,992 likes - 107 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 106 | [Pay the price](https://open.spotify.com/track/1Z6BuZkYjqHj9YeQBvU6f6) | [Sitarana](https://open.spotify.com/artist/1lg0s0LnjjmgY7iDqkhEBZ) | [Pay the price](https://open.spotify.com/album/5tFEebdhTha8pnnMkqh5mC) | 2:12 |
 | 107 | [Orange Crush](https://open.spotify.com/track/6oyq0dO8TRMJlSV1UrUW0o) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Elway](https://open.spotify.com/album/02EZpBqivdZyL5feXvH0bg) | 2:42 |
 
-Snapshot ID: `aIJA0QAAAABi81yJA6y7nS4Vyjb6E+Wh`
+Snapshot ID: `AAAAABjGwsQAA7TSmRLjL3KBApVxYvxK`

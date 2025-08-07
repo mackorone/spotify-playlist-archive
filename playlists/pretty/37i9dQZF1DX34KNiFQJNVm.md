@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem KayBlack, Lauana Prado, Demi Lovato, Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,128,896 likes - 91 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,128,756 likes - 91 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 9 | [Fogo na Cidade](https://open.spotify.com/track/16wJDBxuYze6hxLDAvGdn7) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Maurin](https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI), [Gigant](https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O) | [Liberdade \(Deluxe\)](https://open.spotify.com/album/72UAM9YXaUyl4iT8crtq2p) | 3:13 |
 | 10 | [Garoto de Programa \- Ao Vivo](https://open.spotify.com/track/1mTlRBxxiiPiQA71MIEPJ4) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Pagonejo Bão \- Vol\. 03 \(Ao Vivo\)](https://open.spotify.com/album/0R93CzxhYLobzpuTkn7pxt) | 3:42 |
 | 11 | [Amor de Vitrine](https://open.spotify.com/track/78zixIPc0uibyItzx1v6by) | [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Amor de Vitrine](https://open.spotify.com/album/36nN4o6QAZkrzSboDgf4JJ) | 2:20 |
-| 12 | [Quando A Gente Ama](https://open.spotify.com/track/3zRi5fwacbCfymUmAFwAz1) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Ruan](https://open.spotify.com/artist/33MVRJrMdHFizJTVk4SZDw) | [Quando A Gente Ama](https://open.spotify.com/album/1fFYb2LNzpi4JSHbydL5KP) | 3:07 |
+| 12 | [Quando A Gente Ama](https://open.spotify.com/track/3zRi5fwacbCfymUmAFwAz1) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Ruan](https://open.spotify.com/artist/33MVRJrMdHFizJTVk4SZDw), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Quando A Gente Ama](https://open.spotify.com/album/1fFYb2LNzpi4JSHbydL5KP) | 3:07 |
 | 13 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 14 | [O Cerrado Ameaçado](https://open.spotify.com/track/2B85LGfNTiciXPqPOWLTxT) | [Alexandre Carlo](https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Carlos Rennó](https://open.spotify.com/artist/2m8XHsrOz6LKYW3vzKDZlV), [César Lacerda](https://open.spotify.com/artist/5l962QqiKtDWXYqjbpJ3qZ) | [O Cerrado Ameaçado](https://open.spotify.com/album/2QCNnuBZwklhLN8SoSOfrt) | 4:18 |
 | 15 | [Deus Tem Mais Ocupação](https://open.spotify.com/track/4OJKBnqOwri6pO81SGT3Hg) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Deus Tem Mais Ocupação](https://open.spotify.com/album/0mw771d8GZlmx1zSDwKaeB) | 2:56 |

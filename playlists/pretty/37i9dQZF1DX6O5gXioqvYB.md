@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: ELASI
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,994 likes - 109 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,997 likes - 109 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 108 | [Vecchia scuola](https://open.spotify.com/track/6uAHNlbU9YuQBIeRUspzfT) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET EXPLORER](https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp) | 3:18 |
 | 109 | [Pessima idea](https://open.spotify.com/track/30oTjdtoeNQij5M0jvwgjj) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Pessima idea](https://open.spotify.com/album/3uqNVsVWGubzwr5HsKs1hF) | 3:03 |
 
-Snapshot ID: `aIvnrQAAAAC6x5J5mSPQaCqtW2Ft0mwU`
+Snapshot ID: `AAAAACAC/VdbyMY19rp+w3clWLKWJwmR`

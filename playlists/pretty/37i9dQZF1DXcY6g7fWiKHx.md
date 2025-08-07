@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,824 likes - 291 songs - 1 day 0 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,832 likes - 291 songs - 1 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 290 | [Lazer Worshippers Theme \- Original Mix 1993](https://open.spotify.com/track/5lqHp4xfPw24L5gkjsKVcJ) | [Damon Wild](https://open.spotify.com/artist/1Ca2mQbNaKYrz62PT8sRq5), [Lazer Worshippers](https://open.spotify.com/artist/2ia39fgJrxOIjSREF3EGBk), [Tim Taylor \(Missile Records\)](https://open.spotify.com/artist/3SDO9vtI8lg2xandf0TP30) | [Lazer Worshippers Theme](https://open.spotify.com/album/0ZGMiPJ6BUavRi2RBG2WIu) | 10:01 |
 | 291 | [Fujisun](https://open.spotify.com/track/7fNCRIxW9ufuwhysJ9HjY6) | [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Håll Om Mig](https://open.spotify.com/album/7JVFZvHAOvy8j59zXBe2ox) | 6:09 |
 
-Snapshot ID: `aEFP0gAAAABVEVt9qYudOTXAXLUSjIvv`
+Snapshot ID: `AAAAANy0/N2QVMz7DjYBB7OTzlDOSa7G`

@@ -1,12 +1,12 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Druhh e Drehh",
-  "num_followers": 133262,
+  "num_followers": 133277,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHF/bQAAAAAQB7Jt5AMjdtqIL+A8wAkk",
+  "snapshot_id": "AAAAAHv/IhmZqeGkJ+aW2O7jeJpw6ZsR",
   "tracks": [
     {
       "added_at": "2025-07-11 21:17:33",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-07-11 21:17:33",
       "album": {
-        "name": "RIP DE FACHADA",
-        "url": "https://open.spotify.com/album/7ztnfQyc6hn5ekDQjBewM6"
-      },
-      "artists": [
-        {
-          "name": "P.L.K",
-          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
-        },
-        {
-          "name": "Vignoli",
-          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
-        }
-      ],
-      "duration_ms": 148615,
-      "name": "FOI NUM BAILE DO TREZE",
-      "url": "https://open.spotify.com/track/7zblwlyeFM7tG4omTHTQu7"
-    },
-    {
-      "added_at": "2025-07-11 21:17:33",
-      "album": {
         "name": "From Rio",
         "url": "https://open.spotify.com/album/4MD3dhPh3euRMO8nPFuFLB"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 151384,
       "name": "From Rio",
       "url": "https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV"
+    },
+    {
+      "added_at": "2025-07-11 21:17:33",
+      "album": {
+        "name": "RIP DE FACHADA",
+        "url": "https://open.spotify.com/album/7ztnfQyc6hn5ekDQjBewM6"
+      },
+      "artists": [
+        {
+          "name": "P.L.K",
+          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
+        },
+        {
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        }
+      ],
+      "duration_ms": 148615,
+      "name": "FOI NUM BAILE DO TREZE",
+      "url": "https://open.spotify.com/track/7zblwlyeFM7tG4omTHTQu7"
     },
     {
       "added_at": "2025-07-11 21:17:33",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2025-07-11 21:17:33",
       "album": {
-        "name": "Akilla On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/1pR1h8zOGtfbar68dHbWxL"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Akilla",
-          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
-        },
-        {
-          "name": "Chris Helv",
-          "url": "https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3"
-        }
-      ],
-      "duration_ms": 111118,
-      "name": "Akilla On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/74ufXZKMlPBqIVp7N444Nf"
-    },
-    {
-      "added_at": "2025-07-11 21:17:33",
-      "album": {
         "name": "Vou Nessa",
         "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 226875,
       "name": "Vou Nessa",
       "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
+    },
+    {
+      "added_at": "2025-07-11 21:17:33",
+      "album": {
+        "name": "Akilla On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/1pR1h8zOGtfbar68dHbWxL"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Akilla",
+          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
+        },
+        {
+          "name": "Chris Helv",
+          "url": "https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3"
+        }
+      ],
+      "duration_ms": 111118,
+      "name": "Akilla On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/74ufXZKMlPBqIVp7N444Nf"
     },
     {
       "added_at": "2025-07-11 21:17:33",

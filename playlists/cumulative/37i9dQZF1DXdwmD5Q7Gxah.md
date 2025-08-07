@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: boylife
 
-3,473 songs - 7 day 21 hr 39 min
+3,474 songs - 7 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2881,6 +2881,7 @@
 | [summer's scorch](https://open.spotify.com/track/7GPixB0TmbVFLIPgWrgdvM) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [summer's scorch](https://open.spotify.com/album/7yKYH2ydvNc8TwDRTXCVYf) | 2:55 | 2025-06-02 |  |
 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 | 2019-07-30\* | 2020-04-20 |
 | [Sun Bleached Flies](https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:36 | 2023-03-10 | 2023-04-01 |
+| [Sun soaked](https://open.spotify.com/track/0EBrkqSAj0VHLxJgmPDc3j) | [Ety](https://open.spotify.com/artist/7zg58K7mLgYIztHHUFWOTL) | [Sea legs](https://open.spotify.com/album/528sMokkwTtXyGuY3fHLQb) | 3:39 | 2025-08-06 |  |
 | [Sunday](https://open.spotify.com/track/6J4j1D9tlijsOJfPyZaXi4) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Sunday](https://open.spotify.com/album/2OWLVQCp8XfvcbpIlyqk7W) | 2:35 | 2020-05-08 | 2020-12-04 |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2019-07-30\* | 2020-07-29 |
 | [Sunday Morning](https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sunday Morning](https://open.spotify.com/album/5wZufLuyvuv9n7pBhUT6ai) | 2:26 | 2024-08-14 | 2024-10-30 |

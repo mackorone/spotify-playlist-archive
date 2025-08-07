@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 
 > Gospel songs you grew up listening to
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,192 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,197 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 59 | [Pale Pale](https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9) | [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Pale Pale](https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl) | 3:30 |
 | 60 | [My Call](https://open.spotify.com/track/6N8vrHGAl1FXgA5EYclP4z) | [M O G](https://open.spotify.com/artist/7jmlYHg2tjQ7SweaSFwvl5), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7) | [Go Let Him Go](https://open.spotify.com/album/5P1iuvCDjoU5444LHpL8p0) | 4:08 |
 
-Snapshot ID: `ZerioQAAAACUzHY/QPijWPhn2bl/txIS`
+Snapshot ID: `AAAAAFtEMrwiHzsAGrqRUe160XnIwSiY`

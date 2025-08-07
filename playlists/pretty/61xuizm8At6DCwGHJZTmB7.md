@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,207 likes - 118 songs - 10 hr 28 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,211 likes - 118 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 33 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 |
 | 34 | [Can't Help But Worship](https://open.spotify.com/track/6XRe5vA4YrjznAAv9UW75Q) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Sound Of Heaven](https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9) | 4:45 |
 | 35 | [Who Else](https://open.spotify.com/track/0dsfLqH0drcuOXjTBqsHJU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Who Else](https://open.spotify.com/album/6AX5qyyK9YVldRkZzGCKLo) | 5:15 |
-| 36 | [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/7JLZZvJFCTOtmoAkT4Keic) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 |
+| 36 | [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/6zMKXgzvuhDvGQC0G2tBfQ) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 |
 | 37 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
 | 38 | [Desperate \- Studio](https://open.spotify.com/track/09sSn60F2fLYrfPz0Xs4C9) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Desperate](https://open.spotify.com/album/1Jo60eMZvIK1tlh9KrIyUH) | 4:08 |
 | 39 | [KING OF ALL THE NATIONS \- ACOUSTIC LIVE](https://open.spotify.com/track/3rkPp6G7shvPlaedplYGf3) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [KING OF ALL THE NATIONS \(WORLD VERSIONS\)](https://open.spotify.com/album/10gGPMfdllUXpfehLFNTQr) | 4:42 |

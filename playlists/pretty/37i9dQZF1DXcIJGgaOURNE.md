@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,781 likes - 136 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,779 likes - 136 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 135 | [Melt!](https://open.spotify.com/track/1f4cKwcKfNiLbQr8x2tZ3C) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 3:34 |
 | 136 | [6 A.M.](https://open.spotify.com/track/4oiMLvhZYMov0BjrTU2jyK) | [DJ HMC](https://open.spotify.com/artist/3LpUervcOFfZjMgeXIabZN) | [6 A.M\. / Maurader](https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d) | 5:19 |
 
-Snapshot ID: `aIiU6QAAAADrXUOsG62qEqwtym8Zwmxv`
+Snapshot ID: `AAAAAP6yA5fiSO8Azda6Xrorria+mDvU`

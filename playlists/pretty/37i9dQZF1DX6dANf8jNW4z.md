@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Luz Casal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,069 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,070 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 48 | [ángeles 333](https://open.spotify.com/track/0mwEkPcnm4WpmKplTIeNje) | [Reyes Santa](https://open.spotify.com/artist/3FfaTnYztr2YPiQeLSnGLg) | [ángeles 333](https://open.spotify.com/album/41QadAnx9f7u0A8ZTdOmEJ) | 2:31 |
 | 49 | [SÁBANAS NUEVAS](https://open.spotify.com/track/3PukVcA19tvKWAMoDz2mmo) | [Pd: Soy Cris](https://open.spotify.com/artist/2CYQu8SOzZxxGoPp7YkOAQ) | [SÁBANAS NUEVAS](https://open.spotify.com/album/0AyJUFLZO7PGI5nnt2ZELM) | 3:20 |
 
-Snapshot ID: `aJJ+9wAAAABCrE3PF7dPuWnJSlNMgk4v`
+Snapshot ID: `AAAAAAM5K1fPOU0DUmFKo1GOiDjkIXSQ`

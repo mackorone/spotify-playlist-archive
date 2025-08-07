@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO?si=fqM7FOF0TyGe\_Q8OgNmSqA">Walter Chilambo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,223 likes - 101 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,242 likes - 101 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 100 | [For Me](https://open.spotify.com/track/0JuQugiqRPorEn8jQ7cc5W) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [For Me](https://open.spotify.com/album/4fcHzgzwobDMPvshp3U7oR) | 3:48 |
 | 101 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
 
-Snapshot ID: `aIwD3gAAAAD7t7j2QhhT2DlrXWwL2eaE`
+Snapshot ID: `AAAAAMXLgSPZXZ+bVR2ZNTnsPcYS50ZI`

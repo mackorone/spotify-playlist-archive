@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hORqX76RNk.md) - [plain]
 
 > 😭💔 Surullisia biisejä, joiden avulla selvisimme vuonna 2023 läpi kyynelten ja särkyneiden sydänten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 960 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hORqX76RNk.md) - [plain]
 | 49 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
 | 50 | [Seuraavassa elämässä](https://open.spotify.com/track/1hbUAI1nftaeGUMrcGFYkW) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Seuraavassa elämässä](https://open.spotify.com/album/2zlQatXqYrlQmaLf4jEKPb) | 2:56 |
 
-Snapshot ID: `ZWcrvAAAAADjq0D3x/0wT4AwHgpFWs92`
+Snapshot ID: `AAAAAIOiYItacG2hwHqADpfhpuyVjkJD`

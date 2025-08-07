@@ -1,12 +1,12 @@
 {
   "description": "The women whose music and influence rock our world. Cover: The Warning",
-  "num_followers": 770750,
+  "num_followers": 770744,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aAuklwAAAAD2FA8KfUjsH8K0Le/i1O63",
+  "snapshot_id": "AAAAABvTBAbKJgMMTV/NyE0EInNymw7I",
   "tracks": [
     {
       "added_at": "2025-04-25 15:04:55",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "Under the Pink",
-        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Cornflake Girl",
-      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "Pretenders",
         "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 185960,
       "name": "Brass in Pocket - 2006 Remaster",
       "url": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "Under the Pink",
+        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Cornflake Girl",
+      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "GREED",
-        "url": "https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u"
-      },
-      "artists": [
-        {
-          "name": "Royale Lynn",
-          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
-        }
-      ],
-      "duration_ms": 170835,
-      "name": "GREED",
-      "url": "https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "TEETHSUCKER (YEA3x)",
         "url": "https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 138666,
       "name": "TEETHSUCKER (YEA3x)",
       "url": "https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "GREED",
+        "url": "https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u"
+      },
+      "artists": [
+        {
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
+        }
+      ],
+      "duration_ms": 170835,
+      "name": "GREED",
+      "url": "https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx"
     },
     {
       "added_at": "2025-04-25 15:04:55",

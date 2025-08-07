@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 
 > Beautiful bansuri flute and sitar from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,488 likes - 87 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,563 likes - 87 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 86 | [Love Is the Cure](https://open.spotify.com/track/6uCrly7EIwoSLbfg9m4jEl) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Gift of Love](https://open.spotify.com/album/5U3YRKw8YVOjw6Rl6N2O6m) | 6:24 |
 | 87 | [Puriya Dhanashri](https://open.spotify.com/track/4sLPOn5JQyXvdmFxk7M877) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 3](https://open.spotify.com/album/38BIm4DMyHnJhj4c0tjumL) | 2:19 |
 
-Snapshot ID: `aIJC/AAAAABFO7ZL8NELisuPo6Zhtubi`
+Snapshot ID: `AAAAAH6ytkxOqEjk2dUzm5rtNgKjpvTa`

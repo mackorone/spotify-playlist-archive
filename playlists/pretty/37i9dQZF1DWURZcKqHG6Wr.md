@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURZcKqHG6Wr.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:13dTrWNNrnZ3AkgNyQNKP5">The Linda Lindas'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,576 likes - 30 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,583 likes - 30 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURZcKqHG6Wr.md) - [plain]
 | 29 | [Hand Grenade](https://open.spotify.com/track/4iPw0nNFPiYKY02oQhGTEz) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Mommy](https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay) | 2:57 |
 | 30 | [Blastard](https://open.spotify.com/track/3bThibFH5QSYn0kNAz4rQK) | [Trap Girl](https://open.spotify.com/artist/2UuSKo0C1B38wFjH51r38N) | [The Black Market](https://open.spotify.com/album/2NlUT89tKqIYqdRJT1DoYt) | 2:07 |
 
-Snapshot ID: `Zv9oQAAAAAB5UM3DV8xWilV/9xJ5SOjd`
+Snapshot ID: `AAAAAII+LYjU9i9PKZ9JOueeL0y8zxTm`
