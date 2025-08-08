@@ -1,4 +1,4 @@
-## Playlists \(8722\)
+## Playlists \(8723\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7186,6 +7186,7 @@
 - [Throwback Party](/playlists/pretty/37i9dQZF1DX7F6T2n2fegs.md)
 - [Throwback R&B](/playlists/pretty/37i9dQZF1DX9zR5aXbFFRA.md)
 - [Throwback Thursday](/playlists/pretty/37i9dQZF1DWWwaxRea1LWS.md)
+- [Throwback Thursday \(2\)](/playlists/pretty/37i9dQZF1DWXF8Nf1uycDZ.md)
 - [Throwback Thursday AU & NZ](/playlists/pretty/37i9dQZF1DWYLUQ5WYaArq.md)
 - [Throwback Workout](/playlists/pretty/37i9dQZF1DX8CwbNGNKurt.md)
 - [Thunderstorms](/playlists/pretty/37i9dQZF1DWXKbJeFbii64.md)
