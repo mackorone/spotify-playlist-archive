@@ -2,7 +2,7 @@
 
 ### [Modus Mio](https://open.spotify.com/playlist/37i9dQZF1DX36edUJpD76c)
 
-> Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Shindy, BILLA JOE
+> Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Jazeek
 
 64 songs - 2 hr 49 min
 

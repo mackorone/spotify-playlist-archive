@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14091,
+  "num_followers": 14099,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABfTdv1Heed3NovxOTg4+st",
+  "snapshot_id": "aJKbAAAAAABZUaJ6i8KP62z+oFn/+8fv",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mozart: The Violin Sonatas",
+        "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Sonata For Piano And Violin In F, \"f\u00fcr Anf\u00e4nger\", K.547: 1. Andantino cantabile",
+      "url": "https://open.spotify.com/track/3HHMTWhzDELaqXVK6fhib1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cinema Serenade",
         "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },
@@ -535,30 +559,6 @@
       "duration_ms": 224200,
       "name": "Il Postino: Theme",
       "url": "https://open.spotify.com/track/7EDqH1x26SNDcdXAIBgCyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mozart: The Violin Sonatas",
-        "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "Sonata For Piano And Violin In F, \"f\u00fcr Anf\u00e4nger\", K.547: 1. Andantino cantabile",
-      "url": "https://open.spotify.com/track/3HHMTWhzDELaqXVK6fhib1"
     },
     {
       "added_at": null,
@@ -603,6 +603,34 @@
       "duration_ms": 946800,
       "name": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: V. Chaconne",
       "url": "https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
+        "url": "https://open.spotify.com/album/3WaRty51Aje7wvZxP4nsLd"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
+      "url": "https://open.spotify.com/track/08kjFJ0LhWKmICdkYChBou"
     },
     {
       "added_at": null,
@@ -655,34 +683,6 @@
       "duration_ms": 416733,
       "name": "Halvorsen: Passacaglia for Violin and Viola (After Handel's Keyboard Suite, HWV 432)",
       "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
-        "url": "https://open.spotify.com/album/3WaRty51Aje7wvZxP4nsLd"
-      },
-      "artists": [
-        {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Orchestre de Paris",
-          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
-      "url": "https://open.spotify.com/track/08kjFJ0LhWKmICdkYChBou"
     },
     {
       "added_at": null,
@@ -827,26 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 316426,
-      "name": "Remembrances",
-      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
+      "duration_ms": 86106,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
+      "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
     },
     {
       "added_at": null,
@@ -875,22 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 86106,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 16 in G Minor",
-      "url": "https://open.spotify.com/track/52biJNbmbzCVyN8o0lbImY"
+      "duration_ms": 316426,
+      "name": "Remembrances",
+      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
     },
     {
       "added_at": null,
@@ -923,26 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 280133,
-      "name": "Jewish Town (Krakow Ghetto, Winter '41)",
-      "url": "https://open.spotify.com/track/0uiSdYiuy2mogCULkoAmcp"
+      "duration_ms": 144133,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
+      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
     },
     {
       "added_at": null,
@@ -971,22 +967,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 144133,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
-      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
+      "duration_ms": 280133,
+      "name": "Jewish Town (Krakow Ghetto, Winter '41)",
+      "url": "https://open.spotify.com/track/0uiSdYiuy2mogCULkoAmcp"
     },
     {
       "added_at": null,
@@ -1019,38 +1019,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cinema Serenade",
-        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
+        "name": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
+        "url": "https://open.spotify.com/album/3WaRty51Aje7wvZxP4nsLd"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Rod Temperton",
-          "url": "https://open.spotify.com/artist/0HXtkeTuIrpcFWhWgZ8jNn"
-        },
-        {
-          "name": "Jeremy Lubbock",
-          "url": "https://open.spotify.com/artist/6baj3i3ryWLqnpgot0XKT8"
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
         },
         {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
         }
       ],
-      "duration_ms": 269026,
-      "name": "The Color Purple: Main Title",
-      "url": "https://open.spotify.com/track/3MsOo0SIZYib9mfalJvKSc"
+      "duration_ms": 374000,
+      "name": "Symphonie espagnole, Op. 21: III. Intermezzo. Allegretto non troppo",
+      "url": "https://open.spotify.com/track/4RvUVDyZVoKPp38lYWbol0"
     },
     {
       "added_at": null,
@@ -1103,30 +1095,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
-        "url": "https://open.spotify.com/album/3WaRty51Aje7wvZxP4nsLd"
+        "name": "Cinema Serenade",
+        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },
       "artists": [
         {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Rod Temperton",
+          "url": "https://open.spotify.com/artist/0HXtkeTuIrpcFWhWgZ8jNn"
+        },
+        {
+          "name": "Jeremy Lubbock",
+          "url": "https://open.spotify.com/artist/6baj3i3ryWLqnpgot0XKT8"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Orchestre de Paris",
-          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
         }
       ],
-      "duration_ms": 374000,
-      "name": "Symphonie espagnole, Op. 21: III. Intermezzo. Allegretto non troppo",
-      "url": "https://open.spotify.com/track/4RvUVDyZVoKPp38lYWbol0"
+      "duration_ms": 269026,
+      "name": "The Color Purple: Main Title",
+      "url": "https://open.spotify.com/track/3MsOo0SIZYib9mfalJvKSc"
     },
     {
       "added_at": null,

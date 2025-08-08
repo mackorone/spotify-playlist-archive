@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1044190,
+  "num_followers": 1044363,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABkCDLK3mXzVI205MlQIJ2J",
+  "snapshot_id": "aJKbAAAAAACZ7g+flcgobQq+ipYnK8bd",
   "tracks": [
     {
       "added_at": null,
@@ -575,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Patroncito",
-        "url": "https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h"
+        "name": "Mis 30 Aniversario (Vol. 3)",
+        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
       },
       "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 184560,
-      "name": "Autor\u00edzame",
-      "url": "https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI"
+      "duration_ms": 201409,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 3)",
-        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
+        "name": "El Patroncito",
+        "url": "https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h"
       },
       "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 201409,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
+      "duration_ms": 184560,
+      "name": "Autor\u00edzame",
+      "url": "https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 195300,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -699,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 195300,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaginaci\u00f3n",
         "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 262800,
       "name": "Imaginaci\u00f3n",
       "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te quiero, te amo",
+        "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Te quiero, te amo",
+      "url": "https://open.spotify.com/track/2MyGz3SRpIRMyrOTpPQIRv"
     },
     {
       "added_at": null,
@@ -767,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te quiero, te amo",
-        "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Te quiero, te amo",
-      "url": "https://open.spotify.com/track/2MyGz3SRpIRMyrOTpPQIRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puede",
+        "url": "https://open.spotify.com/album/1pKrXwqTJy4a71vnxbVc6A"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 202378,
+      "name": "Puede",
+      "url": "https://open.spotify.com/track/776TH7RwOwvwHAFOydiECI"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 212418,
       "name": "\"Vivo\"",
       "url": "https://open.spotify.com/track/46Ddt3qamOYmedJ0t1TgUd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puede",
-        "url": "https://open.spotify.com/album/1pKrXwqTJy4a71vnxbVc6A"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 202378,
-      "name": "Puede",
-      "url": "https://open.spotify.com/track/776TH7RwOwvwHAFOydiECI"
     }
   ],
   "unique_name": "This Is Alfredo Olivas",

@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 36896,
+  "num_followers": 36907,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABlaTs/tYSTLbMV9UINxSQW",
+  "snapshot_id": "aJKbAAAAAACKr3bCKB/bYU+u+45RRbAE",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 282800,
+      "name": "Dry Stick (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -271,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 296520,
       "name": "Born To Play Guitar",
       "url": "https://open.spotify.com/track/7yXuquZiCxTyLXzPnwlqJv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 138506,
-      "name": "First Time I Met The Blues - Single Version",
-      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
     },
     {
       "added_at": null,
@@ -356,13 +340,29 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 282800,
-      "name": "Dry Stick (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
+      "duration_ms": 242280,
+      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 138506,
+      "name": "First Time I Met The Blues - Single Version",
+      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
     },
     {
       "added_at": null,
@@ -383,30 +383,6 @@
       "duration_ms": 279813,
       "name": "What You Gonna Do About Me (feat. Beth Hart)",
       "url": "https://open.spotify.com/track/3aa9lEOjZOn2Om2vdMCR1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somebody (feat. Buddy Guy & Roosevelt Collier)",
-        "url": "https://open.spotify.com/album/5icLCOWWIZiFzHEN5RDavE"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Roosevelt Collier",
-          "url": "https://open.spotify.com/artist/7b10aYN6jh7Dai5c4tshD9"
-        }
-      ],
-      "duration_ms": 239160,
-      "name": "Somebody (feat. Buddy Guy and Roosevelt Collier)",
-      "url": "https://open.spotify.com/track/2qgRPwjxR6PYVr23fwEqTI"
     },
     {
       "added_at": null,
@@ -463,6 +439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somebody (feat. Buddy Guy & Roosevelt Collier)",
+        "url": "https://open.spotify.com/album/5icLCOWWIZiFzHEN5RDavE"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Roosevelt Collier",
+          "url": "https://open.spotify.com/artist/7b10aYN6jh7Dai5c4tshD9"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "Somebody (feat. Buddy Guy and Roosevelt Collier)",
+      "url": "https://open.spotify.com/track/2qgRPwjxR6PYVr23fwEqTI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -475,26 +475,6 @@
       "duration_ms": 152600,
       "name": "Mary Had A Little Lamb",
       "url": "https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Blues Is That (feat. Joe Walsh)",
-        "url": "https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
-        }
-      ],
-      "duration_ms": 263653,
-      "name": "How Blues Is That (feat. Joe Walsh)",
-      "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
     },
     {
       "added_at": null,
@@ -535,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Blues Is That (feat. Joe Walsh)",
+        "url": "https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "How Blues Is That (feat. Joe Walsh)",
+      "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 383200,
       "name": "A Man And The Blues",
       "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "I Go By Feel",
-      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
     },
     {
       "added_at": null,
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+      "duration_ms": 255600,
+      "name": "I Go By Feel",
+      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
     },
     {
       "added_at": null,
@@ -619,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 224280,
-      "name": "One Day Away (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": null,
@@ -651,6 +631,26 @@
       "duration_ms": 68813,
       "name": "Hooker Thing",
       "url": "https://open.spotify.com/track/6ktfWlozfz7MpBC9OVOKm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "One Day Away (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
       "artists": [
         {
@@ -880,13 +880,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Wear You Out (feat. Billy Gibbons)",
-      "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
+      "duration_ms": 296280,
+      "name": "I've Got Dreams To Remember",
+      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
       "artists": [
         {
@@ -916,13 +916,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
         }
       ],
-      "duration_ms": 296280,
-      "name": "I've Got Dreams To Remember",
-      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
+      "duration_ms": 210333,
+      "name": "Wear You Out (feat. Billy Gibbons)",
+      "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
     },
     {
       "added_at": null,

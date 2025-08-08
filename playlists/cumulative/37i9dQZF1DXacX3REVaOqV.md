@@ -4,7 +4,7 @@
 
 > The best in house music
 
-647 songs - 1 day 18 hr 32 min
+648 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Amen](https://open.spotify.com/track/0Sn2weTj8FtwkCoTD29LNf) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU) | [Amen](https://open.spotify.com/album/0NNSo8xg8fQT4dzTW8c9lt) | 2:38 | 2022-04-14 | 2022-07-27 |
 | [Amen \- Funkerman Easy Peasy Remix](https://open.spotify.com/track/6YZb9NVpbR693rF4Zdhac0) | [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU) | [Amen \(Funkerman Easy Peasy Remix\)](https://open.spotify.com/album/1jsJYZr0GbGNdwO5PfnCTI) | 2:58 | 2023-02-16 | 2023-03-03 |
 | [Amor Essencial](https://open.spotify.com/track/03Ly63bYBIXRRi5CRtrMXX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ), [Iara \(BR\)](https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv) | [Amor Essencial EP](https://open.spotify.com/album/1wBROVXVwgjVHIlhPzaefd) | 6:29 | 2023-06-22 | 2023-09-29 |
+| [and it felt like..](https://open.spotify.com/track/4KOhgGKxWz9Cj8XvHDDR3W) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [and it felt like..](https://open.spotify.com/album/3aaaDyEV0juYcVqSV15zYS) | 2:09 | 2025-08-07 |  |
 | [Another One \- Prunk Remix](https://open.spotify.com/track/2J1W4aCIdpbgwESZ48Ymp4) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Another One \(Prunk Remix\)](https://open.spotify.com/album/731B8YYwXo6yIdSTQwf6Lt) | 4:03 | 2025-03-20 |  |
 | [Anybody Out There \- Mike Dunn Back On 63rd & Artesian Remix](https://open.spotify.com/track/2l2OGD5cDQ32hU26JFercz) | [Jungle Wonz](https://open.spotify.com/artist/4ny8n9yM1Eko9j7oe8ZFXS), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Anybody Out There \(Mike Dunn Back On 63rd & Artesian Remix\)](https://open.spotify.com/album/39fWKp3WGJ080N1B7MkU80) | 6:21 | 2024-09-12 | 2024-11-22 |
 | [Aquarius Swing](https://open.spotify.com/track/5DL059fT2EWGJsurcEGlQE) | [Javonntte](https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi) | [Groove Theory](https://open.spotify.com/album/4XpkGSTaEq2dawzcCrqC5j) | 6:13 | 2022-04-14 | 2022-07-29 |
@@ -537,7 +538,7 @@
 | [Stuck On Repeat](https://open.spotify.com/track/0Ib2lnmQqbAzuHNkGtYtNC) | [Beau](https://open.spotify.com/artist/3vwy5NQXFV797LDXh2NxEG) | [Stuck On Repeat](https://open.spotify.com/album/0zDkq6Hpkyd1j3a4pcXomo) | 3:06 | 2022-06-22 | 2024-04-10 |
 | [Stupidisco \(David Penn Remix\)](https://open.spotify.com/track/1yxKIMxQkcq9oBw90osPzw) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Stupidisco \(David Penn Remix\)](https://open.spotify.com/album/3cDQh2oYxcPk9t9iy6g77R) | 3:11 | 2022-04-14 | 2024-04-10 |
 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2022-04-14 | 2024-03-01 |
-| [Summer Ease](https://open.spotify.com/track/7082cXgSPk2BojEMNdYjbn) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Summer Ease EP](https://open.spotify.com/album/0iCXTR5IqJxrMIMVnDdOaI) | 3:55 | 2025-05-15 |  |
+| [Summer Ease](https://open.spotify.com/track/7082cXgSPk2BojEMNdYjbn) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Summer Ease EP](https://open.spotify.com/album/0iCXTR5IqJxrMIMVnDdOaI) | 3:55 | 2025-05-15 | 2025-08-08 |
 | [Sunny Days \(with Dawn Tallman\)](https://open.spotify.com/track/12KVUsP4XTG3iDgzD4SjGu) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Dawn Tallman](https://open.spotify.com/artist/0aCxspxNd9b6qyT8LJTpXW) | [Sunny Days \(with Dawn Tallman\)](https://open.spotify.com/album/4DTbuCQHJsUajJJmNbC4Yc) | 3:49 | 2022-04-14 | 2022-07-20 |
 | [Sunset Jam](https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Sunset Jam](https://open.spotify.com/album/70laYWlNtjTmkZjdZ4A3uM) | 4:41 | 2022-04-20 | 2024-03-21 |
 | [Sunshine](https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:44 | 2022-04-14 | 2023-11-06 |

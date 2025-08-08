@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,367 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,423 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 89 | [Fieles Con Lo Vivido](https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn) | [Ley de Vida](https://open.spotify.com/album/7M5xAE8EbVBcRDX6h4ntXc) | 5:32 |
 | 90 | [Balance](https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:24 |
 | 91 | [Verdugo](https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 2:56 |
-| 92 | [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 |
-| 93 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
+| 92 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
+| 93 | [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 |
 | 94 | [Pruebalo](https://open.spotify.com/track/2V5155hKRLxHceKN6S8V8y) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [Los Veteranos](https://open.spotify.com/album/79xVsg1JPIqvQE0exEly78) | 3:50 |
 | 95 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 |
 | 96 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |

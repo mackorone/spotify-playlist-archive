@@ -2,7 +2,7 @@
 
 ### [90s ALT ROCK](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
-> alt rock \| 90s alternative rock \| 1990s alt rock \| 90s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool
+> alt rock \| alternative rock \| 90s alternative rock \| 1990s alt rock \| 90s hits \| grunge \| 90s rock \| 90s throwbacks \| punk \| nirvana \| alice in chains \| incubus \| radiohead \| pearl jam \| foo fighters \| metallica \| soundgarden \| oasis \| audioslave
 
 253 songs - 17 hr 38 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235147,
+  "num_followers": 235149,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAGv1G5GrTD2p6ClwGk2OpG",
+  "snapshot_id": "aJKbAAAAAADSCnM2aG3zaJk1vUfRf8T3",
   "tracks": [
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar 2",
-        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "Pintando El Amor",
-      "url": "https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuatro Estaciones",
         "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 183880,
       "name": "Ladrones",
       "url": "https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar 2",
+        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "Pintando El Amor",
+      "url": "https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4"
     },
     {
       "added_at": null,

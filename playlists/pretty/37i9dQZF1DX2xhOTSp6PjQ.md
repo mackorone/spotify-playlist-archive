@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC?si=\_LoElR0\-Q3C6RrYnQvpzCg">Navigator Gcwensa</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K?si=yBMDlGZ\-RnaWxyvWgg6krg">Umafikizolo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,865 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,950 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:17 |
+| 1 | [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:18 |
 | 2 | [UNIKHODIMA](https://open.spotify.com/track/1x4yHR7HJ0ZQCQVjXb2Vc8) | [NHLOSO KHWELA](https://open.spotify.com/artist/1PoCttTLXvpmlzQBpVnli7), [Shenge wasehlalankosi](https://open.spotify.com/artist/1HYT018xvnsRBu6QvZmlcS) | [UNIKHODIMA](https://open.spotify.com/album/5QuSNX1DQuEkWkwjwsKrkJ) | 4:25 |
 | 3 | [COME DUZE](https://open.spotify.com/track/0n4FUypXWTfC1pBdc63Kag) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Khotha La \(A Tribute To Mjikjelwa\)](https://open.spotify.com/album/11zqEpEOTNUX5lzw68rZJe) | 4:40 |
 | 4 | [Awsukanini](https://open.spotify.com/track/21lD8ZDP6nbEAUtoSQl032) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K) | [Inja Kabi Lena](https://open.spotify.com/album/4HhLwMC4pyd1GPF3wLb9Ce) | 3:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 79 | [Inja Nodogo](https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inja Nogodo](https://open.spotify.com/album/1i1JkpUl5vILSSLKwsVHAO) | 4:15 |
 | 80 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 |
 
-Snapshot ID: `AAAAACJxWHJmWMxMBkmHe3Vxh5O++6Tt`
+Snapshot ID: `AAAAADbX8/TVEj7ZYxSFzQn5I9ElTdje`

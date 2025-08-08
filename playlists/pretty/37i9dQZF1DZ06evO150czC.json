@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22087,
+  "num_followers": 22090,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABMDQTDBC+kr2B6M7jJr/jY",
+  "snapshot_id": "aJKbAAAAAAD8+Q+0g4nKFta2MhWN8v6l",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC"
-      },
-      "artists": [
-        {
-          "name": "Casa do Oleiro Adora\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 310257,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Deus dos Pequeninos",
         "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
       },
@@ -739,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -748,9 +744,29 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 274274,
-      "name": "Lugar Seguro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC"
+      },
+      "artists": [
+        {
+          "name": "Casa do Oleiro Adora\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 310257,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B"
     },
     {
       "added_at": null,
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
       "artists": [
         {
@@ -784,9 +800,25 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 274274,
+      "name": "Lugar Seguro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
     },
     {
       "added_at": null,
@@ -803,38 +835,6 @@
       "duration_ms": 276456,
       "name": "O Pre\u00e7o Foi de Sangue",
       "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 260342,
-      "name": "Mem\u00f3rias (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele N\u00e3o Muda (Ao Vivo)",
         "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 487671,
       "name": "Ele N\u00e3o Muda - Ao Vivo",
       "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 260342,
+      "name": "Mem\u00f3rias (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
     },
     {
       "added_at": null,

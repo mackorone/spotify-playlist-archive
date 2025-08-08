@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,210 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,364 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,14 +98,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 88 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
 | 89 | [Drifting Out](https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Drifting Out EP](https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh) | 3:39 |
 | 90 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
-| 91 | [Baby No More](https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc) | 2:44 |
-| 92 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
+| 91 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
+| 92 | [Baby No More](https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc) | 2:44 |
 | 93 | [Nowhere](https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Nowhere](https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc) | 3:48 |
 | 94 | [Sundown](https://open.spotify.com/track/76J5USnS7KSKZVwZURVlMI) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC), [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Sundown](https://open.spotify.com/album/3Y4qFR4ZgsG0DpafssdIlH) | 3:53 |
 | 95 | [Love Potion](https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Love Potion](https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH) | 2:46 |
 | 96 | [Black Light](https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT) | [BUMPER](https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [Ryan Galloway](https://open.spotify.com/artist/0NK0Nuqcb2sZGqJ3tWYpyo) | [pop songs 2020](https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF) | 3:27 |
-| 97 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 |
-| 98 | [Ooh La La](https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ooh La La](https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey) | 3:48 |
+| 97 | [Ooh La La](https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ooh La La](https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey) | 3:48 |
+| 98 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 |
 | 99 | [Thornton Heath](https://open.spotify.com/track/6mQHbBihOBli62026NJXje) | [DJ Yoda](https://open.spotify.com/artist/134rP599PLJMjrccfctkmX), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Home Cooking](https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc) | 3:27 |
 | 100 | [Japan](https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Japan](https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh) | 3:18 |
 

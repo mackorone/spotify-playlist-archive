@@ -4,7 +4,7 @@
 
 > al son que la pongamos, la bailamos\. Abelito, una rockola humana.
 
-301 songs - 16 hr 16 min
+304 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Brindo](https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Brindo](https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ) | 3:02 | 2022-03-18 | 2023-07-05 |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2022-03-18 | 2025-08-06 |
 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 | 2022-09-20 | 2025-07-01 |
+| [Callados](https://open.spotify.com/track/4mXxiaroiAGrGwbbAFkRhU) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ninel Conde](https://open.spotify.com/album/4s3cLJ3uFfMydKR4ekp6R7) | 4:26 | 2025-08-07 |  |
 | [Casi Completa](https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:10 | 2024-02-12 | 2025-08-06 |
 | [Cerrando Ciclos](https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:15 | 2022-03-18 | 2024-02-13 |
 | [Ch y la Pizza](https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:16 | 2023-07-04 | 2024-02-13 |
@@ -85,6 +86,7 @@
 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 | 2022-03-18 | 2025-01-13 |
 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 | 2022-03-18 | 2022-07-29 |
 | [El Azul](https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Azul](https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB) | 3:07 | 2023-07-04 | 2024-02-13 |
+| [El Bombón Asesino \- Cumbia Version](https://open.spotify.com/track/72vZcwkJCfK5GrAy7yhSKv) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Lo Más Escuchado De](https://open.spotify.com/album/5BFOfvJGdpOI89r7jBJmht) | 3:10 | 2025-08-07 |  |
 | [El Bueno y el Malo](https://open.spotify.com/track/0sGZWfVTPWIv6qbWZZ7cdT) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 2:56 | 2022-09-20 | 2024-02-13 |
 | [El Chubasco](https://open.spotify.com/track/1b7kfCvnfVtpQgK8A2dusI) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Puros Exitos](https://open.spotify.com/album/1YCdH8G9ELHRzfmpJ7c0pl) | 3:10 | 2025-08-05 |  |
 | [El Colesterol](https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [30 Exitos Inolvidables](https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA) | 2:26 | 2025-08-05 |  |
@@ -146,6 +148,7 @@
 | [La Bolsa Gucci](https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Bolsa Gucci](https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C) | 2:16 | 2023-02-27 | 2023-07-05 |
 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 | 2022-03-18 | 2024-04-19 |
 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 | 2022-03-18 | 2025-08-06 |
+| [La Cortina \(feat\. Ninel Conde\)](https://open.spotify.com/track/4VAKjqENaqPOLOmVhlvEqS) | [Sonora Dinamita De Lucho Argain](https://open.spotify.com/artist/7aG4lVpCQ8zNpue2emCSZ8), [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Entre Amigos](https://open.spotify.com/album/7f99Mfl7ISr6p8kUtcr7W8) | 2:58 | 2025-08-07 |  |
 | [La Cusinela](https://open.spotify.com/track/3wafR8MqQB6Yk0XYDA9k05) | [Huichol Musical](https://open.spotify.com/artist/1gxAFRyAsrlZu5Pty5t5gO) | [Desde México "Sonido Huichol"](https://open.spotify.com/album/6VnlvZ1oTEyLXixqCvsjYd) | 3:21 | 2025-08-05 |  |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-02-12 | 2025-08-06 |
 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 | 2024-02-12 | 2025-08-06 |

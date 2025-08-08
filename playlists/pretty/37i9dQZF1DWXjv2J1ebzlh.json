@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 124408,
+  "num_followers": 124439,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 445426,
-      "name": "El Cuarto de Tula",
-      "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 445426,
+      "name": "El Cuarto de Tula",
+      "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Uptown Top Ranking",
         "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 229160,
       "name": "Uptown Top Ranking - Remastered 2001",
       "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Cumbia Amazonica",
         "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 169600,
       "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
       "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Exporta\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/77jGZCMKllauVI0zSExKFn"
-      },
-      "artists": [
-        {
-          "name": "Os Originais Do Samba",
-          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
-      "url": "https://open.spotify.com/track/3KVDM9shwWEbLsRpimCuTn"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
         "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 191560,
       "name": "Deixa A Gira Girar",
       "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Exporta\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/77jGZCMKllauVI0zSExKFn"
+      },
+      "artists": [
+        {
+          "name": "Os Originais Do Samba",
+          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
+      "url": "https://open.spotify.com/track/3KVDM9shwWEbLsRpimCuTn"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Melodies",
-        "url": "https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU"
-      },
-      "artists": [
-        {
-          "name": "Lord Echo",
-          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
-        },
-        {
-          "name": "Lisa Tomlins",
-          "url": "https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR"
-        }
-      ],
-      "duration_ms": 420720,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/5uWLuFDmMs1r44KFfUwWiA"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "DEIRA",
         "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 163183,
       "name": "Allah Yihmeeki",
       "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Melodies",
+        "url": "https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU"
+      },
+      "artists": [
+        {
+          "name": "Lord Echo",
+          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
+        },
+        {
+          "name": "Lisa Tomlins",
+          "url": "https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR"
+        }
+      ],
+      "duration_ms": 420720,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/5uWLuFDmMs1r44KFfUwWiA"
     },
     {
       "added_at": "2025-03-14 13:51:12",

@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-486 songs - 1 day 2 hr 41 min
+487 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4cCeHTJcKQU9PCuQ2jiYlI) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 1:54 | 2024-12-06 | 2024-12-14 |
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-11-29 | 2024-12-07 |
 | [Pandora](https://open.spotify.com/track/36UkdnNAjc21ZoBJMp2EA6) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 2:36 | 2025-05-09 | 2025-07-26 |
-| [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2025-08-01 |  |
+| [Paranoid \- 2009 Remaster](https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 2:47 | 2025-08-01 |  |
+| [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2025-08-01 | 2025-08-08 |
 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/2wG1mwTiuvqll9YYLMjSaY) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY) | 1:56 | 2025-04-25 | 2025-05-10 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-26 | 2024-05-11 |
 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 | 2025-03-21 | 2025-03-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: LE MOTAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,675 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,673 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 17 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
 | 18 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 |
 | 19 | [Neem Het Dan Terug](https://open.spotify.com/track/4wUlyyKkDIFiqWnAMt9nob) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Neem Het Dan Terug](https://open.spotify.com/album/2IDr4joV1YC6rivjvCACtg) | 2:50 |
-| 20 | [Joanne](https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Joanne](https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr) | 3:27 |
-| 21 | [Krijt](https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Krijt](https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE) | 2:28 |
+| 20 | [Krijt](https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Krijt](https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE) | 2:28 |
+| 21 | [Joanne](https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Joanne](https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr) | 3:27 |
 | 22 | [VOL v2.025](https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [v2.025](https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ) | 3:31 |
 | 23 | [Kubus In Een Ballenbak](https://open.spotify.com/track/6gVbNT8Tqy1OzcnmDJYdcP) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2MRU9IpUwOsXN3n1dfXhFd) | 2:25 |
 | 24 | [h\-e\-l\-p](https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:07 |
 | 25 | [Liefdesliedjes](https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw), [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Liefdesliedjes](https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz) | 2:13 |
 | 26 | [Aerobics](https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Aerobics](https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM) | 2:47 |
 | 27 | [Ik Geloof Dat Wij Iets Delen](https://open.spotify.com/track/5RydxLGNvlzrHfhxUQUoI9) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Geloof Dat Wij Iets Delen](https://open.spotify.com/album/2li4Roi5D0L2W5AhADHfwR) | 2:45 |
-| 28 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
-| 29 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
-| 30 | [WJNMK](https://open.spotify.com/track/7zPY8eLsVIJCE8OK4OGxhg) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [WJNMK](https://open.spotify.com/album/6Z2PlWQWGLk4QsIQQIjcnE) | 2:40 |
+| 28 | [WJNMK](https://open.spotify.com/track/7zPY8eLsVIJCE8OK4OGxhg) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [WJNMK](https://open.spotify.com/album/6Z2PlWQWGLk4QsIQQIjcnE) | 2:40 |
+| 29 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
+| 30 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
 | 31 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
 | 32 | [LEKKER MET DE MEIDEN v2.025](https://open.spotify.com/track/65vKBzAGrgUEaKNaWvl3qY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [LEKKER MET DE MEIDEN v2.025](https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV) | 4:11 |
 | 33 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 42 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 |
 | 43 | [Mannenbaby](https://open.spotify.com/track/5kWFwP8DUlHKW4rCKOvU0n) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mannenbaby](https://open.spotify.com/album/5oFYxSZlGEL5dpqLHMvDPe) | 2:24 |
 | 44 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
-| 45 | [Als Ik Verdwaal](https://open.spotify.com/track/2CO40n2AIdtJb0z4ZSMnHj) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Als Ik Verdwaal](https://open.spotify.com/album/6KUBPnMGDsaTNvdplPKYjb) | 3:43 |
+| 45 | [Haast](https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Haast](https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f) | 3:00 |
 | 46 | [De Tijd](https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Tijd](https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr) | 3:33 |
-| 47 | [Haast](https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Haast](https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f) | 3:00 |
+| 47 | [Als Ik Verdwaal](https://open.spotify.com/track/2CO40n2AIdtJb0z4ZSMnHj) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Als Ik Verdwaal](https://open.spotify.com/album/6KUBPnMGDsaTNvdplPKYjb) | 3:43 |
 | 48 | [Stad Van Glas](https://open.spotify.com/track/7KIghh1w3H3a6W26pD5FlO) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Stad van Glas](https://open.spotify.com/album/1zMs5mM33RFD3j1GZz0UUG) | 3:08 |
 | 49 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
 | 50 | [niet meer zo](https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [niet meer zo](https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV) | 3:34 |

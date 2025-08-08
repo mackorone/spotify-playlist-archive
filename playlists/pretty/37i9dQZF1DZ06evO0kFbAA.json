@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 51465,
+  "num_followers": 51485,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABP3Q4W9je2cDmDmqyFn7P0",
+  "snapshot_id": "aJKbAAAAAADUe8DGkuj/TYLEt5Lf8lSP",
   "tracks": [
     {
       "added_at": null,
@@ -879,6 +879,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Serenade In Blue",
+      "url": "https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251137,
+      "name": "Chega De Saudade",
+      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz With Cal Tjader",
         "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
       },
@@ -899,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Serenade In Blue",
-      "url": "https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz Plays",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 202586,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251137,
-      "name": "Chega De Saudade",
-      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
     },
     {
       "added_at": null,

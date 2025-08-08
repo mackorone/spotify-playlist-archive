@@ -2,7 +2,7 @@
 
 ### [New Music Friday Iceland](https://open.spotify.com/playlist/37i9dQZF1DXdvNG1v6uWvH)
 
-> Loksins New Music Friday! Ný tónlist Of Chapell Roan, Maron Birnir & ELVAR og mörgum fleiri!
+> Loksins New Music Friday! Ný tónlist Of Of Monsters and Men, Laufey & Ed Sheeran og mörgum fleiri!
 
 7,144 songs - 16 day 0 hr 3 min
 

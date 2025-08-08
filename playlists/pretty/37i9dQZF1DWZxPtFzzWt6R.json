@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 100955,
+  "num_followers": 101008,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -58,6 +58,10 @@
         {
           "name": "Banda Som e Louvor",
           "url": "https://open.spotify.com/artist/2MXmyzaX94wBeNmIjsx6Dc"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 354909,
@@ -419,22 +423,6 @@
     {
       "added_at": "2025-08-01 18:59:47",
       "album": {
-        "name": "Viola e Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "O Crente e a Palmeira",
-      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
-    },
-    {
-      "added_at": "2025-08-01 18:59:47",
-      "album": {
         "name": "Deus por Mim",
         "url": "https://open.spotify.com/album/6LlVP6cnz2lHACZkeiHHy3"
       },
@@ -455,6 +443,22 @@
     {
       "added_at": "2025-08-01 18:59:47",
       "album": {
+        "name": "Viola e Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "O Crente e a Palmeira",
+      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
+    },
+    {
+      "added_at": "2025-08-01 18:59:47",
+      "album": {
         "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
       },
@@ -467,22 +471,6 @@
       "duration_ms": 328768,
       "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
       "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
-    },
-    {
-      "added_at": "2025-08-01 18:59:47",
-      "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -503,22 +491,18 @@
     {
       "added_at": "2025-08-01 18:59:47",
       "album": {
-        "name": "Contigo At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
       },
       "artists": [
         {
-          "name": "Elida Rodrigues",
-          "url": "https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ"
-        },
-        {
-          "name": "S\u00e9rgio Lopes",
-          "url": "https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 243714,
-      "name": "Contigo At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -535,6 +519,26 @@
       "duration_ms": 324082,
       "name": "Voc\u00ea \u00c9 Especial - Voz e Viol\u00e3o",
       "url": "https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w"
+    },
+    {
+      "added_at": "2025-08-01 18:59:47",
+      "album": {
+        "name": "Contigo At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
+      },
+      "artists": [
+        {
+          "name": "Elida Rodrigues",
+          "url": "https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ"
+        },
+        {
+          "name": "S\u00e9rgio Lopes",
+          "url": "https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb"
+        }
+      ],
+      "duration_ms": 243714,
+      "name": "Contigo At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -591,22 +595,6 @@
     {
       "added_at": "2025-08-01 18:59:47",
       "album": {
-        "name": "Um Lugar \u00e0 Mesa",
-        "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 240569,
-      "name": "Um Lugar \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
-    },
-    {
-      "added_at": "2025-08-01 18:59:47",
-      "album": {
         "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
         "url": "https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY"
       },
@@ -619,6 +607,22 @@
       "duration_ms": 430816,
       "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
       "url": "https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs"
+    },
+    {
+      "added_at": "2025-08-01 18:59:47",
+      "album": {
+        "name": "Um Lugar \u00e0 Mesa",
+        "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 240569,
+      "name": "Um Lugar \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -643,6 +647,22 @@
     {
       "added_at": "2025-08-01 18:59:47",
       "album": {
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 271166,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
+    },
+    {
+      "added_at": "2025-08-01 18:59:47",
+      "album": {
         "name": "A Esperan\u00e7a Que Restou",
         "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
@@ -659,18 +679,18 @@
     {
       "added_at": "2025-08-01 18:59:47",
       "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
+        "name": "N\u00e3o Abandone A Sua Cruz",
+        "url": "https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ"
       },
       "artists": [
         {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
         }
       ],
-      "duration_ms": 271166,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
+      "duration_ms": 245464,
+      "name": "N\u00e3o Abandone A Sua Cruz",
+      "url": "https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -691,22 +711,6 @@
       "duration_ms": 215099,
       "name": "Mais que Vencedor (feat. Carlos Henrique)",
       "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
-    },
-    {
-      "added_at": "2025-08-01 18:59:47",
-      "album": {
-        "name": "N\u00e3o Abandone A Sua Cruz",
-        "url": "https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 245464,
-      "name": "N\u00e3o Abandone A Sua Cruz",
-      "url": "https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -791,18 +795,22 @@
     {
       "added_at": "2025-08-01 18:59:47",
       "album": {
-        "name": "Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
+        "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
       },
       "artists": [
         {
-          "name": "Lenno Maia",
-          "url": "https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx"
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        },
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
         }
       ],
-      "duration_ms": 277514,
-      "name": "Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
+      "duration_ms": 274261,
+      "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -819,6 +827,22 @@
       "duration_ms": 256450,
       "name": "A Resposta \u00c9 Deus",
       "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2025-08-01 18:59:47",
+      "album": {
+        "name": "Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
+      },
+      "artists": [
+        {
+          "name": "Lenno Maia",
+          "url": "https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx"
+        }
+      ],
+      "duration_ms": 277514,
+      "name": "Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -855,26 +879,6 @@
       "duration_ms": 247449,
       "name": "Arma Forjada",
       "url": "https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG"
-    },
-    {
-      "added_at": "2025-08-01 18:59:47",
-      "album": {
-        "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        },
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 274261,
-      "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
     },
     {
       "added_at": "2025-08-01 18:59:47",
@@ -987,26 +991,6 @@
     {
       "added_at": "2025-08-01 18:59:47",
       "album": {
-        "name": "Valeu a Pena",
-        "url": "https://open.spotify.com/album/6UeGX9eccZu92SKSodWivD"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "\u00c9 Gospel",
-          "url": "https://open.spotify.com/artist/036Kr0P8jlYtMtUAxc1vVZ"
-        }
-      ],
-      "duration_ms": 184483,
-      "name": "Valeu a Pena",
-      "url": "https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT"
-    },
-    {
-      "added_at": "2025-08-01 18:59:47",
-      "album": {
         "name": "Vou Embora pro C\u00e9u",
         "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
       },
@@ -1023,6 +1007,26 @@
       "duration_ms": 214786,
       "name": "Vou Embora pro C\u00e9u",
       "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
+    },
+    {
+      "added_at": "2025-08-01 18:59:47",
+      "album": {
+        "name": "Valeu a Pena",
+        "url": "https://open.spotify.com/album/6UeGX9eccZu92SKSodWivD"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "\u00c9 Gospel",
+          "url": "https://open.spotify.com/artist/036Kr0P8jlYtMtUAxc1vVZ"
+        }
+      ],
+      "duration_ms": 184483,
+      "name": "Valeu a Pena",
+      "url": "https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT"
     },
     {
       "added_at": "2025-08-01 18:59:47",

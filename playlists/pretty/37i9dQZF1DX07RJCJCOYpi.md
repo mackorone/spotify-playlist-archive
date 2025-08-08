@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: RØZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885,408 likes - 103 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,884,920 likes - 103 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

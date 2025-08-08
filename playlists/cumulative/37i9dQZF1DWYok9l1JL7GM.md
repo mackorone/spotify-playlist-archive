@@ -4,7 +4,7 @@
 
 > The south got something to say\. Cover: Gucci Mane
 
-165 songs - 11 hr 50 min
+166 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [John](https://open.spotify.com/track/7HaggpJGAfEgH8wyMLOIPl) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Tha Carter IV \(Deluxe\)](https://open.spotify.com/album/1uuSC0RCJB3dSp8Mb6GflZ) | 4:46 | 2021-08-27 | 2022-02-28 |
 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 | 2021-03-09 |  |
 | [Laffy Taffy](https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ) | [D4L](https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz) | [Down for Life](https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp) | 3:44 | 2021-03-09 |  |
-| [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 | 2022-02-28 |  |
+| [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 | 2022-02-28 | 2025-08-08 |
 | [Left, Right, Left](https://open.spotify.com/track/0vk5b6kj3QISHg4fpRPi6n) | [Drama](https://open.spotify.com/artist/1DMUoszTJYruOq4wfJPLSB) | [Causin' Drama](https://open.spotify.com/album/6gdAZNn7yFmg8FzTwY3q5r) | 3:37 | 2021-08-27 | 2022-07-29 |
 | [Lemonade](https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:06 | 2021-03-09 |  |
 | [Let's Go \(feat\. Twista & Lil' Jon\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 | 2022-02-28 |  |
@@ -165,6 +165,7 @@
 | [Welcome to Atlanta \(feat\. Ludacris\)](https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Instructions \(Explicit Version\)](https://open.spotify.com/album/3ssplToLM7k3pX7wCyMSht) | 3:20 | 2021-03-09 | 2022-03-01 |
 | [What a Job](https://open.spotify.com/track/1QpMNpzkMxchOeYOn9RbNJ) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi) | [Waitin' to Inhale](https://open.spotify.com/album/5txiu4iRX3AeHxuKqXyFna) | 5:32 | 2021-08-27 | 2022-01-19 |
 | [What Happened To That Boy](https://open.spotify.com/track/20Sp7dNLM3NjIu3TInDqjq) | [Baby](https://open.spotify.com/artist/7E1r06wbRiF2soZtFoc62z), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Birdman](https://open.spotify.com/album/2HVXysSEGyC2qGCU165DNN) | 4:18 | 2021-08-27 | 2022-07-15 |
+| [What U Gon' Do](https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crunk Juice](https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV) | 5:20 | 2024-12-06 |  |
 | [What You Know](https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 4:34 | 2021-03-09 |  |
 | [What's Your Fantasy \(Featuring Shawna\)](https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Back For The First Time](https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV) | 4:35 | 2021-08-27 |  |
 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 | 2021-03-09 | 2023-02-08 |

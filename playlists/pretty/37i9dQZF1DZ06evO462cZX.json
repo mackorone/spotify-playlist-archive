@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44055,
+  "num_followers": 44064,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABgO1piWMyUTwUqnMj146Le",
+  "snapshot_id": "aJKbAAAAAACpjHOmFkbAwALK5IyLBCO/",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168753,
+      "name": "Yee",
+      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 200454,
       "name": "Derecha la Flecha",
       "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168753,
-      "name": "Yee",
-      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Like You (feat. Lost Boy)",
         "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 165000,
       "name": "Nobody Like You (feat. Lost Boy)",
       "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
-      },
-      "artists": [
-        {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -803,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
+      },
+      "artists": [
+        {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 220800,
       "name": "Que Es Eso (feat. Young Eiby)",
       "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 192000,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 172115,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflect",
-        "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Dear Sara",
-          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
-        }
-      ],
-      "duration_ms": 189797,
-      "name": "You Are Not Alone (feat. Dear Sara)",
-      "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The Funk Drops",
         "url": "https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 238125,
       "name": "When The Funk Drops",
       "url": "https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reflect",
+        "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Dear Sara",
+          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
+        }
+      ],
+      "duration_ms": 189797,
+      "name": "You Are Not Alone (feat. Dear Sara)",
+      "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"
     },
     {
       "added_at": null,

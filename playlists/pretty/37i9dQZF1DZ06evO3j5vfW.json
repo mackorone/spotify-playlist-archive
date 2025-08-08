@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72293,
+  "num_followers": 72296,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACnEgLj1bdF+nJzD0WW+Oox",
+  "snapshot_id": "aJKbAAAAAAAwVhHYAiLULEwrnAEoxHOV",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toulouse (Bobby Anthony Vocal Mix)",
+        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Toulouse - Bobby Anthony Vocal Mix",
+      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be There",
         "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 224516,
       "name": "Be There",
       "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toulouse (Bobby Anthony Vocal Mix)",
-        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Toulouse - Bobby Anthony Vocal Mix",
-      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
     },
     {
       "added_at": null,
@@ -951,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 201904,
       "name": "Sign",
       "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-84 songs - 3 hr 23 min
+85 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [DNA](https://open.spotify.com/track/5OHvfgN01RehNXl84nT9Pa) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:08 | 2022-09-25 | 2024-01-22 |
 | [DNA \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 2:08 | 2024-01-21 | 2024-10-25 |
 | [Eight Seconds](https://open.spotify.com/track/4zyomJpB6fgmXZ6A79721l) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 1:32 | 2022-09-24 |  |
-| [Exit Row](https://open.spotify.com/track/0gUiVIie3uU4zKNwtjSmZE) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:16 | 2022-09-18 | 2022-10-12 |
+| [Exit Row](https://open.spotify.com/track/0gUiVIie3uU4zKNwtjSmZE) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:16 | 2022-09-18 |  |
 | [Face Ghost](https://open.spotify.com/track/6W6I5rGZstGt35nJvRpWK2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 2:20 | 2022-10-09 |  |
 | [Feign](https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:48 | 2022-09-16 |  |
 | [Finalist](https://open.spotify.com/track/3KMhGE83v4bJWRMCk7FGI3) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:13 | 2024-10-13 | 2024-12-29 |
@@ -75,7 +75,8 @@
 | [Praise / Love \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/2Zy9QUlZ3i0biDhQXtM9pg) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 1:01 | 2024-01-20 | 2024-11-01 |
 | [Rapture](https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:11 | 2022-09-16 |  |
 | [Reminders](https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:03 | 2022-09-16 |  |
-| [Savoring](https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:56 | 2022-09-16 |  |
+| [Savoring](https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:56 | 2022-09-16 | 2025-08-08 |
+| [Savoring \- BBC Live Version](https://open.spotify.com/track/3IUnbH0HPS7BqBkDPBfuDm) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Live On BBC Radio 1: Vol 4](https://open.spotify.com/album/0RS4Bwd7DbaV9MZIuv1TYZ) | 3:03 | 2025-08-08 |  |
 | [Skyscraper](https://open.spotify.com/track/3Ni6RhAIjbaDvkHep6Afnr) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:53 | 2022-09-16 | 2022-10-12 |
 | [Social Caterpillar](https://open.spotify.com/track/3ST2MhuSUaSbDv9G4edwDU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:03 | 2022-10-05 | 2024-11-19 |
 | [Social Caterpillar \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/3OpGupuQpODzL7hszQZkJv) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 3:03 | 2024-01-20 | 2024-01-22 |

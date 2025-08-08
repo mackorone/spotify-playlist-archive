@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: JOLIN
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus, Jeryl Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,672 likes - 76 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,673 likes - 76 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 75 | [過了幾天 \- 合唱版](https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天 \(合唱版\)](https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa) | 4:55 |
 | 76 | [我爱你但是我要回家](https://open.spotify.com/track/1zLpybgzhdG6KzgG9sRAwE) | [ET](https://open.spotify.com/artist/6L8uYIuAWEDljh6LxP5jMm), [Happer](https://open.spotify.com/artist/6Ljp6ps4Nt9w0WJA8jSTdc), [无面小生](https://open.spotify.com/artist/2Yftm8We3xQFKhndUtuXUr), [口古口古](https://open.spotify.com/artist/6XRGKV1jyYJ5wTJ5S7hxeh) | [我爱你但是我要回家](https://open.spotify.com/album/6MqJXDfjN3dpfS2hH5FeKF) | 3:14 |
 
-Snapshot ID: `AAAAAP0Kk0o0NwiwKfos78ASMHYGUrf3`
+Snapshot ID: `AAAAAEgKhb8G8sOAiSd/T1IxrvhXn44E`

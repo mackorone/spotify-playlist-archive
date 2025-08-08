@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah, Avolia
+> Dendang Dangdut teratas\. Cover: Gunawan
 
-257 songs - 20 hr 23 min
+258 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Lagi Syantik](https://open.spotify.com/track/2whJ6VW0y0EGhp1XYElDCp) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/5DIDVNHJvI0dc2HxgjxBzF) | 3:49 | 2021-08-23 | 2024-09-07 |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-08-23 | 2024-02-16 |
 | [Lebaran Bersama](https://open.spotify.com/track/024MRDt7PtZBM5VIZZTOR1) | [Selfi Nafilah](https://open.spotify.com/artist/2F2mHioIXqRHN1P21llg9d) | [Lebaran Bersama](https://open.spotify.com/album/3KvAuBjmJdCxO7dbrY0F0c) | 3:50 | 2025-03-20 |  |
-| [Lumpur Dan Berlian](https://open.spotify.com/track/1FC12nTDCjIomyOpAbN7Yy) | [Fida AP](https://open.spotify.com/artist/7zDNHkEE2pDK8qxM3DgjoK), [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Lumpur Dan Berlian](https://open.spotify.com/album/2EfELScnQu5NNCo4dlfZEm) | 6:05 | 2025-01-09 |  |
+| [Lumpur Dan Berlian](https://open.spotify.com/track/1FC12nTDCjIomyOpAbN7Yy) | [Fida AP](https://open.spotify.com/artist/7zDNHkEE2pDK8qxM3DgjoK), [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Lumpur Dan Berlian](https://open.spotify.com/album/2EfELScnQu5NNCo4dlfZEm) | 6:05 | 2025-01-09 | 2025-08-08 |
 | [Madu Merah \- Cover](https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Madu Merah \(Cover\)](https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo) | 4:18 | 2023-08-03 |  |
 | [Malam Tanpa Bintang](https://open.spotify.com/track/7JEszQM1r9RfIFg6kniFQs) | [Roni Pasla](https://open.spotify.com/artist/1KnmVYEsRWps2jJTdn6OHO) | [Malam Tanpa Bintang](https://open.spotify.com/album/4s2mz0O9b03YfqNHiL73s0) | 4:04 | 2025-07-24 |  |
 | [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 | 2024-02-09 |
@@ -246,6 +246,7 @@
 | [Terbuai Asmara](https://open.spotify.com/track/6OvS9FpU0AhP5Z1TdTuo8J) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Terbuai Asmara](https://open.spotify.com/album/22PIY9l1gFVrTIiTp3h5L9) | 4:52 | 2024-02-22 |  |
 | [Terbuai Cinta Palsu \- Live Ska Reggae](https://open.spotify.com/track/3zb04SuRpCGf9U45hcaDdZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu \(Live Ska Reggae\)](https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ) | 4:58 | 2023-02-02 | 2023-11-04 |
 | [Terdiam Sepi](https://open.spotify.com/track/0o6Pfgqbq7kQBd1uYpf6Ds) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Terdiam Sepi](https://open.spotify.com/album/5NEDhtZJZg1QhcloFWRPhc) | 4:39 | 2021-08-23 | 2024-03-23 |
+| [Terjebak Rasa Nyaman](https://open.spotify.com/track/6VPLyz4gVZbWSMq4aWCqke) | [Gunawan](https://open.spotify.com/artist/5MZr7EDPHUoy3vWUs2R88o) | [Terjebak Rasa Nyaman](https://open.spotify.com/album/0gCRdlz8hMTr0L0NpUTnnq) | 4:55 | 2025-08-07 |  |
 | [Terkesan](https://open.spotify.com/track/3luAGhDWJJ00VxuVVX364j) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Terkesan](https://open.spotify.com/album/5KjuTPMCZzBhFo6l7TjVnF) | 5:25 | 2023-10-26 |  |
 | [Terlanjur Basah](https://open.spotify.com/track/6Y7TsvGPPaBspwNW6rBLmL) | [Keanu Angelo](https://open.spotify.com/artist/1DvOWGQTWHp14tU8aqHg20), [Anya Geraldine](https://open.spotify.com/artist/25Voe2ivdhVWeyFwHg53K9) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:07 | 2025-05-01 |  |
 | [Terlatih Mendua](https://open.spotify.com/track/4CoJITHrQuiXCJj9GGGDZ2) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Terlatih Mendua](https://open.spotify.com/album/3qYfwrestUHdHxs4uQKEct) | 4:57 | 2025-06-26 |  |

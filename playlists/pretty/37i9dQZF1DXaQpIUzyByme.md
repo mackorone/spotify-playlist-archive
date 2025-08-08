@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,982 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,993 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 60 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
 | 61 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 |
 | 62 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 |
-| 63 | [Daar Gaat Ze](https://open.spotify.com/track/7kMPC3vgXk3o9xUP3GWAJ0) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Clouseau30](https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ) | 3:47 |
-| 64 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Het Beste Uit De Q Music Top 500 Van Het Foute Uur](https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt) | 4:28 |
+| 63 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Het Beste Uit De Q Music Top 500 Van Het Foute Uur](https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt) | 4:28 |
+| 64 | [Daar Gaat Ze](https://open.spotify.com/track/7kMPC3vgXk3o9xUP3GWAJ0) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Clouseau30](https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ) | 3:47 |
 | 65 | [Banger Hart \- Radio Mix](https://open.spotify.com/track/7wXI1Z6evrwG5ujxmeo57c) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K), [Ellert Driessen](https://open.spotify.com/artist/7qd0FFy6IEMv634lendv01) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:21 |
-| 66 | [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 |
+| 66 | ['k Heb Je Lief](https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP) | 4:44 |
 | 67 | [Droomland](https://open.spotify.com/track/3hiURl5d4M3ihHWW8ZdvPS) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:28 |
 | 68 | [Liefdesliedjes](https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP) | [De Jazzpolitie](https://open.spotify.com/artist/1nOTwY0FfKdXCBQiuQILbG) | [Liefdesliedjes](https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7) | 4:44 |
 | 69 | [V.V.T.](https://open.spotify.com/track/32PR7yBDk99gKE1ihEcKQB) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Hemel & Aarde](https://open.spotify.com/album/0Jgb5SBxUJOPRRL0H6SNMz) | 4:54 |

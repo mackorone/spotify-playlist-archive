@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-388 songs - 16 hr 42 min
+390 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [CHECK](https://open.spotify.com/track/2xVSw3PoyrVPWXbiWf0oqx) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [CHECK](https://open.spotify.com/album/1hd3Qp6u1bJ0K7cNH938tb) | 1:54 | 2025-03-06 | 2025-06-13 |
 | [Chicagenhagen](https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:33 | 2024-06-20 | 2025-04-18 |
 | [Chocola](https://open.spotify.com/track/0ZtqiH3Law79itqfAzHApC) | [Sleiman](https://open.spotify.com/artist/2HTE5rhkzmNb4IiGrop13q), [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P) | [Chocola](https://open.spotify.com/album/6OEqU0UOYKlqn099nLP1oM) | 2:12 | 2023-11-10 | 2024-04-26 |
+| [Christopher Nolan](https://open.spotify.com/track/1grqsdlUGsZTWZtCWkFwlc) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK) | [Christopher Nolan](https://open.spotify.com/album/1c5G0v0IQRGziB4LpatXyx) | 2:43 | 2025-08-07 |  |
 | [CHU CHU CHA](https://open.spotify.com/track/3EfyNPxKn8PmM6ivb29yvf) | [NS Gang](https://open.spotify.com/artist/7dqU1R2GEszJk2C0ScnwQW) | [CHU CHU CHA](https://open.spotify.com/album/7pxcGrZXxHn8ihWZKcrHHZ) | 2:30 | 2025-04-24 | 2025-05-30 |
 | [Cinema](https://open.spotify.com/track/0uvfJzdcz7rKBlDshVco6M) | [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Cinema](https://open.spotify.com/album/5mtaGoCppxoFcyZ7B02wiV) | 2:54 | 2024-12-05 | 2025-04-18 |
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-10-03 |  |
@@ -151,7 +152,7 @@
 | [Frank Lucas](https://open.spotify.com/track/17Tn91cG7Dz0Fl78p6MRU5) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Frank Lucas](https://open.spotify.com/album/3hn4BBea2cZzLHRZzwdmv9) | 2:13 | 2025-05-29 |  |
 | [Fundamentalt \(feat\. KESI\)](https://open.spotify.com/track/4P7QKDFvuqcCJhUMEzX06Z) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Det Gyldne Snit](https://open.spotify.com/album/3vyD0ISit04iXRKGjfnqP3) | 2:27 | 2024-10-24 | 2025-04-18 |
 | [Fungerer](https://open.spotify.com/track/35pRKsTd60JHRRl1GH2W5i) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [Fungerer](https://open.spotify.com/album/4qSZPlNs2Jh7eib2Geb7AR) | 2:56 | 2024-06-27 | 2025-01-17 |
-| [Født En Kriminel](https://open.spotify.com/track/2RDO7Rb5uJ38IVgRLfd4iS) | [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [Født En Kriminel](https://open.spotify.com/album/0d2wYftG7KGy6TEHAJJjA4) | 2:32 | 2025-07-10 |  |
+| [Født En Kriminel](https://open.spotify.com/track/2RDO7Rb5uJ38IVgRLfd4iS) | [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [Født En Kriminel](https://open.spotify.com/album/0d2wYftG7KGy6TEHAJJjA4) | 2:32 | 2025-07-10 | 2025-08-08 |
 | [Følelser \(feat\. Jamaika\)](https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:29 | 2024-02-15 | 2024-10-04 |
 | [FØRSTE MØDE](https://open.spotify.com/track/2wsrfdApbrHB5OlPdwJqyz) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [FØRSTE MØDE](https://open.spotify.com/album/4wXmOKjr5zYQqktDAQyHKe) | 2:49 | 2023-10-12 | 2023-11-11 |
 | [Geek'd](https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Geek'd](https://open.spotify.com/album/5qrwsMYXQ8F7AOCYh2jCzT) | 2:34 | 2025-05-15 | 2025-06-06 |
@@ -362,6 +363,7 @@
 | [Tsamina](https://open.spotify.com/track/0qBSIf8Ic0SYCYvGozlqKB) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Tsamina](https://open.spotify.com/album/4xElpKHXJv700nJ3eTwQPN) | 3:42 | 2024-02-08 | 2024-04-05 |
 | [Tudo Bem \(feat\. Gilli\)](https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:10 | 2023-09-21 | 2023-12-14 |
 | [TUR](https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [TUR](https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY) | 2:13 | 2024-09-05 | 2025-02-28 |
+| [TWIN \(feat\. Noah Carter\)](https://open.spotify.com/track/05hqLU2iwcnnDTafxCWXKb) | [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [WILLO](https://open.spotify.com/album/4VsTEyWQnqy1185nBAe2OV) | 2:11 | 2025-08-07 |  |
 | [Tyngdekraft](https://open.spotify.com/track/4nCRvkSXJBJ6vdIO52HIqa) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [Tyngdekraft](https://open.spotify.com/album/3ffwxtrr0EThRigHNcVynp) | 2:31 | 2025-06-12 | 2025-07-11 |
 | [U\-vending](https://open.spotify.com/track/3DPZCTa94K2A68GAevOqsI) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [U\-vending](https://open.spotify.com/album/7xwLK7e8YAeFYXwUoqv8Dy) | 2:26 | 2024-02-08 | 2024-03-08 |
 | [Ud Af Hovedet \(feat\. ICEKIID\)](https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:43 | 2024-02-01 | 2024-10-04 |
@@ -377,7 +379,7 @@
 | [Vamos A La Playa](https://open.spotify.com/track/2PDXHHYidd0ZD87O1I9PXD) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Vamos A La Playa](https://open.spotify.com/album/2rkp2HixxVLzgMioiStkIe) | 2:30 | 2025-06-19 |  |
 | [VAN CLEEF](https://open.spotify.com/track/4I74Dshx4uU5g0GQ8FZxxe) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [VAN CLEEF](https://open.spotify.com/album/7inkiWgYZCgM7J7S5xeHsC) | 1:58 | 2025-06-26 |  |
 | [Varm](https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Varm](https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD) | 3:01 | 2024-01-16 | 2024-03-08 |
-| [Vejen Hjem Til Dig](https://open.spotify.com/track/53lXPicp2LuvmWcH5KoQfW) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Vejen Hjem Til Dig](https://open.spotify.com/album/3QkI3gLeecBzmxK9gMUvUe) | 2:15 | 2025-07-10 |  |
+| [Vejen Hjem Til Dig](https://open.spotify.com/track/53lXPicp2LuvmWcH5KoQfW) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Vejen Hjem Til Dig](https://open.spotify.com/album/3QkI3gLeecBzmxK9gMUvUe) | 2:15 | 2025-07-10 | 2025-08-08 |
 | [VEND OM](https://open.spotify.com/track/3v18HYLfMVttHbUEfOwbMb) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [VEND OM](https://open.spotify.com/album/27ztKpAJgGgqF7db7syLIs) | 3:30 | 2024-06-06 | 2025-01-10 |
 | [VERDEN RUNDT](https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:23 | 2024-05-23 | 2025-01-10 |
 | [Vi Har Den](https://open.spotify.com/track/3tXwiFvdhXg9EtfQhXX9y6) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Vi Har Den](https://open.spotify.com/album/5bX6c44hmKpf0RCuKYBTK4) | 2:15 | 2024-02-22 | 2024-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VdAVvrITvr.md) - [plain]
 
 > Danyel Smith, host of "Black Girl Songbook" and Bay Area native, curates episodes around the influence of Black women, celebrates the brilliance of Whitney Houston, and highlights West Coast culture\. These featured episodes will bring you joy, truth, and unlimited vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 4 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 4 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

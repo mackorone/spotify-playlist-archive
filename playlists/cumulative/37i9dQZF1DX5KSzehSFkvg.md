@@ -4,7 +4,7 @@
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-191 songs - 10 hr 19 min
+192 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bla Bla](https://open.spotify.com/track/0Akq9wCVJUY8RCtQyHeTnP) | [RAYS](https://open.spotify.com/artist/71S3b5lQHZQgtsQHGyoj52) | [Bla Bla](https://open.spotify.com/album/4sLhWrsPAoHfVDirPN5UMj) | 3:18 | 2024-01-03 | 2024-02-06 |
 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 | 2024-07-09 |  |
 | [BSAHTEK](https://open.spotify.com/track/3S117nKz6nzHwxLaRUzgIs) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [BSAHTEK](https://open.spotify.com/album/5qUERP0af1GNga709GfBzc) | 3:04 | 2024-09-07 |  |
-| [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-05-17 |  |
+| [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-05-17 | 2025-08-08 |
 | [CABARET](https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CABARET](https://open.spotify.com/album/4jv4SeF1W29Sae15O0JC3P) | 3:16 | 2024-09-11 |  |
 | [Calma](https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Calma](https://open.spotify.com/album/71QAMPU0A2r9fVPFIXBjbu) | 4:14 | 2023-07-07 | 2024-02-25 |
 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 | 2023-07-07 | 2023-12-01 |
@@ -162,6 +162,7 @@
 | [Rouhani](https://open.spotify.com/track/2417U3M1EmTIU34xpBEfA0) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Rouhani](https://open.spotify.com/album/0557ejgFhXB7KOb4K2ryt0) | 3:01 | 2023-07-07 | 2024-08-17 |
 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 | 2024-01-25 | 2025-07-15 |
 | [RWINI](https://open.spotify.com/track/4KtR6eHxOOQ3cE8ZwVeYS9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [RWINI](https://open.spotify.com/album/3G0HZxflIGREjKgKHGcOh3) | 4:01 | 2025-05-15 |  |
+| [Sarini](https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Sarini](https://open.spotify.com/album/2IwrMNUgldFJy5kcqY43xA) | 2:50 | 2025-08-07 |  |
 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 | 2023-07-07 | 2024-04-08 |
 | [Seddit Lbibane](https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Seddit Lbibane](https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt) | 3:08 | 2023-07-07 | 2024-01-26 |
 | [Sharara](https://open.spotify.com/track/5ZYEXWjn0u2W0r9KxjgOjJ) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [Sharara](https://open.spotify.com/album/4g58khCt50ohrpG1G10fzR) | 2:41 | 2023-08-10 | 2023-12-22 |

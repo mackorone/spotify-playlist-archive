@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAADUjG7V6hHbMrmDc/L21II",
+  "snapshot_id": "aJKbAAAAAADAKhcDLJUaaxSaeuOn4+Bu",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Romeo y Julieta",
+        "url": "https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Don Zares",
+          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
+        }
+      ],
+      "duration_ms": 152464,
+      "name": "Romeo y Julieta",
+      "url": "https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Bombastic",
         "url": "https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 178474,
       "name": "Plastic Bombastic",
       "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Romeo y Julieta",
-        "url": "https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Don Zares",
-          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
-        }
-      ],
-      "duration_ms": 152464,
-      "name": "Romeo y Julieta",
-      "url": "https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1"
     },
     {
       "added_at": null,
@@ -523,6 +523,26 @@
       "duration_ms": 172000,
       "name": "Richie Rich - En Vivo",
       "url": "https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do\u00f1a Soledad",
+        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
     },
     {
       "added_at": null,
@@ -623,26 +643,6 @@
       "duration_ms": 118826,
       "name": "Bien Pilas - En Vivo",
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do\u00f1a Soledad",
-        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Brillo de Mis Ojos",
+        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 212672,
+      "name": "El Brillo de Mis Ojos",
+      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Vago",
         "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 177050,
       "name": "El Vago",
       "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Brillo de Mis Ojos",
-        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 212672,
-      "name": "El Brillo de Mis Ojos",
-      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jaimito El De California",
-        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 151018,
-      "name": "Jaimito El De California",
-      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jaimito El De California",
+        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 151018,
+      "name": "Jaimito El De California",
+      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde CLN Tololoche Edition",
         "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
       },
@@ -951,26 +951,6 @@
       "duration_ms": 110256,
       "name": "RZR Rojo - En Vivo",
       "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Faramaya",
-        "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
-      },
-      "artists": [
-        {
-          "name": "Ely Rosario",
-          "url": "https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 144303,
-      "name": "Sin Faramaya",
-      "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
     },
     {
       "added_at": null,
@@ -991,6 +971,26 @@
       "duration_ms": 183360,
       "name": "Pa Que Hablen De Verdad",
       "url": "https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Faramaya",
+        "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
+      },
+      "artists": [
+        {
+          "name": "Ely Rosario",
+          "url": "https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 144303,
+      "name": "Sin Faramaya",
+      "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
     }
   ],
   "unique_name": "This Is Alex Favela",

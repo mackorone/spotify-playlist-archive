@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,795 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,800 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 43 | [Fear](https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Show Me the Money 4 Episode 5](https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr) | 4:09 |
 | 44 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 |
 | 45 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
-| 46 | [Shawty \(feat\. Coogie\)](https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [쿠기 \(Coogie\)](https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:48 |
-| 47 | [Trip](https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hannah](https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q) | [Trip](https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj) | 3:53 |
-| 48 | [HANGANG](https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [HANGANG](https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg) | 3:20 |
+| 46 | [Trip](https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hannah](https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q) | [Trip](https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj) | 3:53 |
+| 47 | [Shawty \(feat\. Coogie\)](https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [쿠기 \(Coogie\)](https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:48 |
+| 48 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 |
 | 49 | [Oscar](https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H1GHR : BLUE TAPE](https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ) | 3:08 |
-| 50 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 |
+| 50 | [HANGANG](https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [HANGANG](https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg) | 3:20 |
 
 Snapshot ID: `AAAAACEkx2MOoEG9JjWeZ3K70QdyyH9/`

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 114942,
+  "num_followers": 114964,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAYYW5nLGhI40T9Md1+JS5u",
+  "snapshot_id": "aJKbAAAAAADfXfmaYeKpZ38UVgo5m7L5",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pato Nada",
+        "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Jando Cartagena",
+          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
+        }
+      ],
+      "duration_ms": 164989,
+      "name": "El Pato Nada",
+      "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 145600,
       "name": "El Se\u00f1or De La Monta\u00f1a",
       "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pato Nada",
-        "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Jando Cartagena",
-          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
-        }
-      ],
-      "duration_ms": 164989,
-      "name": "El Pato Nada",
-      "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vago Y Loko",
-        "url": "https://open.spotify.com/album/7Fq8GU7jHLGH7bQqzL7Snw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178112,
-      "name": "Vago Y Loko",
-      "url": "https://open.spotify.com/track/00AtEOAXrOWJxu7vjHZeQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ley del Mayo",
         "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 154409,
-      "name": "El Me\u00f1o",
-      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor No Es Para Todos",
         "url": "https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 142341,
       "name": "El Amor No Es Para Todos",
       "url": "https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 154409,
+      "name": "El Me\u00f1o",
+      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vago Y Loko",
+        "url": "https://open.spotify.com/album/7Fq8GU7jHLGH7bQqzL7Snw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178112,
+      "name": "Vago Y Loko",
+      "url": "https://open.spotify.com/track/00AtEOAXrOWJxu7vjHZeQs"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Kehlani",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Odeal",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 216223,
       "name": "10AM",
       "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 168768,
       "name": "Cards With Yourself",
       "url": "https://open.spotify.com/track/2ao0XPwhF8OrcQz7Lhp6Mv"
@@ -4027,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "DON MAI",
+        "url": "https://open.spotify.com/album/5xEXf6wy8Bj3h6dgLD567Q"
+      },
+      "artists": [
+        {
+          "name": "Kenya Fujita",
+          "url": "https://open.spotify.com/artist/4QrvjmMlCOF9jmEJzSv7EC"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157187,
+      "name": "DON MAI",
+      "url": "https://open.spotify.com/track/2kgYIh3ZCrGY4uA1FZqVW5"
+    },
+    {
+      "album": {
         "name": "Don't Answer",
         "url": "https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6"
       },
@@ -4934,7 +4952,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 245581,
       "name": "Flowers and Butterfly",
       "url": "https://open.spotify.com/track/0TnZDDsrZJHf05NMM6YkJW"
@@ -5236,7 +5254,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 223179,
       "name": "Fragility (feat. Sala \uff06 ZIN)",
       "url": "https://open.spotify.com/track/1ENeYswoLMQGO4lJf5nTxr"
@@ -8489,6 +8507,28 @@
     },
     {
       "album": {
+        "name": "BLACK STAR",
+        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218117,
+      "name": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
+      "url": "https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk"
+    },
+    {
+      "album": {
         "name": "COMING HOME",
         "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
       },
@@ -9904,6 +9944,24 @@
       "duration_ms": 199440,
       "name": "Main One (feat. Tyga)",
       "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
+    },
+    {
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
       "album": {
@@ -13168,6 +13226,24 @@
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214884,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
     },
     {
       "album": {
@@ -17251,6 +17327,28 @@
     },
     {
       "album": {
+        "name": "Tick Tock Boombap (feat. MIYACHI)",
+        "url": "https://open.spotify.com/album/68Q8bcgNiK0tJyo3Bl1PJI"
+      },
+      "artists": [
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L"
+        },
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Tick Tock Boombap (feat. MIYACHI)",
+      "url": "https://open.spotify.com/track/2QdKoX4tifghGz03c7f5xc"
+    },
+    {
+      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3YruoMPMJ5NAfaEbuTe6QU"
       },
@@ -17514,7 +17612,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 174757,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4wKbEMBUtKM2p5ZoUxCsNt"

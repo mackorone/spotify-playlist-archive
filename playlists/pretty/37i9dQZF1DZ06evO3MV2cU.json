@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 139137,
+  "num_followers": 139141,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAM8DX5Zdu+9b0FTZpLhfVk",
+  "snapshot_id": "aJKbAAAAAADz5+yoKuUsF28GJ7BMvDH6",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 278013,
-      "name": "I Lift My Hands",
-      "url": "https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 326960,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 278013,
+      "name": "I Lift My Hands",
+      "url": "https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV"
     },
     {
       "added_at": null,
@@ -703,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Forever (Instrumental)",
-        "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
       },
       "artists": [
         {
-          "name": "The Maker & The Instrument",
-          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 480193,
-      "name": "Holy Forever - Instrumental",
-      "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
+      "duration_ms": 328160,
+      "name": "Our God - Live",
+      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
     },
     {
       "added_at": null,
@@ -739,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
+        "name": "Holy Forever (Instrumental)",
+        "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "The Maker & The Instrument",
+          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
         },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 328160,
-      "name": "Our God - Live",
-      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
+      "duration_ms": 480193,
+      "name": "Holy Forever - Instrumental",
+      "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
     },
     {
       "added_at": null,

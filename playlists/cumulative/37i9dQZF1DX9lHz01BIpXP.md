@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: 21 Promo & Pengii
 
-225 songs - 11 hr 24 min
+226 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/track/5S50YUkum96QOyjy08EFF9) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/album/6AeXo59JDG0JoJOppnOJxw) | 3:12 | 2022-09-08 | 2023-07-14 |
 | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/track/0gWseyvxR8h0bAf1YjPBru) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Justin Vega](https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU) | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/album/1vqDxxjiPE1WfbSF8wfPsa) | 2:58 | 2022-09-08 | 2023-12-08 |
 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 | 2024-04-05 |  |
-| [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 | 2025-05-02 |  |
+| [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 | 2025-05-02 | 2025-08-08 |
 | [Draadsitters](https://open.spotify.com/track/68xtHJkWSdnKz1TP59Fk3D) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Twinn](https://open.spotify.com/artist/5Kf4aQK9jLLoRx6gNClM8O) | [Draadsitters](https://open.spotify.com/album/5tvO4CqQZEGQbGK7N4MQvd) | 2:25 | 2024-09-06 | 2024-10-24 |
 | [Dubbel of Niks](https://open.spotify.com/track/7fnEBmFyCoqJKtDyLBCd4s) | [RoYal King](https://open.spotify.com/artist/25ebsUtKejuWF9RW98C81q), [Wanie](https://open.spotify.com/artist/6Foq05rhSXH00XxLrvt6yn) | [Dubbel of Niks](https://open.spotify.com/album/4XpDHOUerLd2EokLmdAhO8) | 3:18 | 2023-07-20 | 2023-10-07 |
 | [Dubble G's](https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Dubble G's](https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH) | 2:19 | 2024-12-19 | 2025-06-28 |
@@ -104,6 +104,7 @@
 | [Hou Jou Leka](https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [Hou Jou Leka](https://open.spotify.com/album/4VSqBELCwNITeYYx2uPfx0) | 4:23 | 2022-09-08 | 2023-09-29 |
 | [Hou Jou Man Dop](https://open.spotify.com/track/77f9qpCn1u53KwSQYIO4zK) | [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam), [Irshaad Ally](https://open.spotify.com/artist/3oBGG9N0i0jS5rcvNZP80k), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Hou Jou Man Dop](https://open.spotify.com/album/1jFkerCNl3QQ2FtYNQx0qr) | 3:49 | 2022-09-08 | 2023-03-31 |
 | [Hou Vas](https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [Illrow](https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7) | [Hou Vas](https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU) | 3:06 | 2023-12-14 | 2024-09-09 |
+| [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 | 2025-08-07 |  |
 | [In My Lane](https://open.spotify.com/track/4PnB9tvlZk5SMgfEaLKp6P) | [Donnie](https://open.spotify.com/artist/30ouShJoiM39l7QLMhdcIr) | [In My Lane](https://open.spotify.com/album/78fpO6X3VUEycgY83nzGHa) | 1:30 | 2025-07-31 |  |
 | [Innie Boland](https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7) | [Middelvinger](https://open.spotify.com/artist/76vCMjsvbkeG5cUXMU1jBG), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Innie Boland](https://open.spotify.com/album/10sJICqQGgC9KQPie2It2w) | 4:15 | 2022-09-08 | 2023-09-01 |
 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 | 2022-09-08 | 2025-06-04 |

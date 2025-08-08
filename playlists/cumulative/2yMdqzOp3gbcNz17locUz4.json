@@ -797,6 +797,32 @@
     },
     {
       "album": {
+        "name": "save the world",
+        "url": "https://open.spotify.com/album/11483W3CdWdNelyLQy61F0"
+      },
+      "artists": [
+        {
+          "name": "robin's ghost",
+          "url": "https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G"
+        },
+        {
+          "name": "krwyn",
+          "url": "https://open.spotify.com/artist/1amkng7Rw5XiSnZ43yo55j"
+        },
+        {
+          "name": "ilysm",
+          "url": "https://open.spotify.com/artist/4C50lCjGzvP8PqaZ2G3qf8"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169639,
+      "name": "dizzzzy",
+      "url": "https://open.spotify.com/track/5kiIj9D1XgmDke1vdopgMm"
+    },
+    {
+      "album": {
         "name": "Keychain",
         "url": "https://open.spotify.com/album/0YTa3pfGMUMjqtlfC3tp8I"
       },
@@ -2883,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Nine Skies",
+        "url": "https://open.spotify.com/album/13tJtHGdeqRFkbrsHoSf2j"
+      },
+      "artists": [
+        {
+          "name": "ninasdfghjkl",
+          "url": "https://open.spotify.com/artist/18VdHLKMG5Op7LnqQZ0DvD"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Now Listen Up Buster",
+      "url": "https://open.spotify.com/track/1lYOX0sIlOHZQVgfbjXxPW"
+    },
+    {
+      "album": {
         "name": "Open Me (Thru Stunted Waves; Hold Me in Morning Hues)",
         "url": "https://open.spotify.com/album/1g8rxL9F5i5LpG1su4b6mA"
       },
@@ -3058,7 +3102,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 225880,
       "name": "Plea for a Dogman",
       "url": "https://open.spotify.com/track/5G7Y14QDFGuIukUPiAtX2l"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,122 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,167 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 44 | [Apaguei Pra Todos \- Ao Vivo](https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:18 |
 | 45 | [Cantada Boba \- Ao Vivo](https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 3:03 |
 | 46 | [Olha pra Cara de Quem Te...](https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Olha pra Cara de Quem Te...](https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41) | 2:00 |
-| 47 | [MONTAGEM BAILÃO](https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh) | [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko), [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [MONTAGEM BAILÃO](https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ) | 1:43 |
+| 47 | [MONTAGEM BAILÃO](https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh) | [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [MONTAGEM BAILÃO](https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ) | 1:43 |
 | 48 | [Camisola e Fio \- Ao Vivo](https://open.spotify.com/track/3wBaigHNAAsg2MnXIfNRSu) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Camisola e Fio \(Ao Vivo\)](https://open.spotify.com/album/03j75YwOH5gakK4JE1Aeh1) | 3:00 |
 | 49 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 50 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
 
-Snapshot ID: `MCbMKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MCgdqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

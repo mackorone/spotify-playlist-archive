@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2470963,
+  "num_followers": 2471258,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Senaryo",
-        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
-    },
-    {
-      "added_at": "2025-07-30 07:44:40",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 241185,
       "name": "Uhaw (Tayong Lahat)",
       "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+    },
+    {
+      "added_at": "2025-07-30 07:44:40",
+      "album": {
+        "name": "Senaryo",
+        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
       "added_at": "2025-07-30 07:44:40",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 267680,
-      "name": "Same Ground",
-      "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
-    },
-    {
-      "added_at": "2025-07-30 07:44:40",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2025-07-30 07:44:40",
+      "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 267680,
+      "name": "Same Ground",
+      "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
     },
     {
       "added_at": "2025-07-30 07:44:40",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Ngayong Gabi",
-        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
+        "name": "Sinta",
+        "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
       },
       "artists": [
         {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 267456,
-      "name": "Ngayong Gabi",
-      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
+      "duration_ms": 316683,
+      "name": "Sinta",
+      "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
     }
   ],
   "unique_name": "OPM Favorites",

@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Dogs In Heaven",
+        "url": "https://open.spotify.com/album/3bhQKuDSclCvuunld6lR4g"
+      },
+      "artists": [
+        {
+          "name": "Silver Gore",
+          "url": "https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128733,
+      "name": "Dogs In Heaven",
+      "url": "https://open.spotify.com/track/14aI471gbVhilXXhaV5vww"
+    },
+    {
+      "album": {
         "name": "Anna Calls From The Arctic",
         "url": "https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva"
       },
@@ -12546,7 +12564,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 270205,
       "name": "Total euphoria",
       "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"

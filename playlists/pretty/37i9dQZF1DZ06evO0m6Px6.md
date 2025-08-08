@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 324 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 25 | [Once Upon A Time](https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Once Upon A Time](https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX) | 3:39 |
 | 26 | [Wavestation](https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:44 |
 | 27 | [Right Hook](https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:15 |
-| 28 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
-| 29 | [New Harrison Again](https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Tasty Raps, Vol\. 1](https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn) | 2:32 |
+| 28 | [New Harrison Again](https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Tasty Raps, Vol\. 1](https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn) | 2:32 |
+| 29 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
 | 30 | [Next Blue](https://open.spotify.com/track/6DmJLgV5oEEPwvWPq7R5XS) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 3:08 |
 | 31 | [Checkpoint Titanium](https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:44 |
 | 32 | [How Can It Be \(feat\. Maddee\)](https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 39 | [It's Okay, I Promise](https://open.spotify.com/track/6zApq99qzcylaUENzFkSk8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:57 |
 | 40 | [She's Strong \(feat\. Maddee\)](https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:42 |
 
-Snapshot ID: `aJFJgAAAAAAleT5jNuZDPh6rmhEYmubv`
+Snapshot ID: `aJKbAAAAAABldYE6dTHCYlfsiqqqLru2`

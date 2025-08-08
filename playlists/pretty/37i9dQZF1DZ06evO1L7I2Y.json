@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3410,
+  "num_followers": 3413,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAHMkpwCkz4YDePgPMXD24f",
+  "snapshot_id": "aJKbAAAAAADSaD2gLaaHyu4i4vdHUOgr",
   "tracks": [
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Chefe",
-        "url": "https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Mo Parada",
-      "url": "https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 199860,
       "name": "Fases",
       "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Chefe",
+        "url": "https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 140220,
+      "name": "Mo Parada",
+      "url": "https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63"
     },
     {
       "added_at": null,

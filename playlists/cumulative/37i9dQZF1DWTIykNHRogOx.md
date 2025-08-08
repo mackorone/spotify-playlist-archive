@@ -4,7 +4,7 @@
 
 > Les  meilleures nouveautés de la chanson française\. Photo: Tessa B.
 
-203 songs - 11 hr 12 min
+204 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 | 2024-06-27 | 2024-10-18 |
 | [FVL](https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [FVL](https://open.spotify.com/album/05BrGpbesMwG2ObSrejFQQ) | 3:45 | 2024-06-27 | 2024-10-04 |
 | [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 | 2025-04-17 |  |
+| [Grand\-mère](https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Grand\-mère](https://open.spotify.com/album/5h32dU86HS9BxewTJGpULm) | 3:58 | 2025-08-07 |  |
 | [Göttingen](https://open.spotify.com/track/0HaDRiZRxQxOeFyPravR5E) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Göttingen](https://open.spotify.com/album/5OKx6hoqVE0gygiOIjVsKS) | 3:09 | 2024-06-27 | 2024-11-22 |
 | [Hauteurs](https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0) | [Blondino](https://open.spotify.com/artist/4FtBAD2tZ7yl3Dap7L34d8) | [Hauteurs](https://open.spotify.com/album/2a09u0udJDsrcjkSMhGndq) | 3:20 | 2024-07-18 | 2024-11-15 |
 | [Homme \(feat\. Barbara Pravi, Camille, Clou, Emily Loizeau, La Chica, Laura Cahen, Nach, Poppy Fusée & L \(Raphaële Lannadère\)\)](https://open.spotify.com/track/3QIZPNupFHSvcOPx0Q41XM) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN), [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09), [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F), [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT), [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Ce qui nous lie](https://open.spotify.com/album/5YHJckjmhPlW6RiVDHminK) | 3:47 | 2024-08-29 | 2025-01-10 |
@@ -99,7 +100,7 @@
 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 | 2024-06-27 | 2024-08-30 |
 | [La vague](https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO) | [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [L'essence vagabonde](https://open.spotify.com/album/0HGBzlMjWbzrdtbs9ktYv9) | 3:32 | 2024-06-27 | 2024-08-23 |
 | [Laisse couler](https://open.spotify.com/track/3x4kQexQGMdT0T1IFxwdyv) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Laisse couler](https://open.spotify.com/album/4omSbwBIdouiHCGBliOInR) | 4:34 | 2025-02-27 | 2025-05-16 |
-| [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 | 2025-04-03 |  |
+| [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 | 2025-04-03 | 2025-08-08 |
 | [Le cœur qui bat](https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Le cœur qui bat \(Bande originale du film\)](https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz) | 2:38 | 2024-09-19 | 2025-01-31 |
 | [Le fil](https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Âge Fleuve](https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP) | 3:02 | 2025-03-20 | 2025-08-01 |
 | [Le Grand Sommeil](https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Le Grand Sommeil](https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR) | 3:04 | 2024-06-27 | 2025-01-10 |

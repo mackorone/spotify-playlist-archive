@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 791,
+  "num_followers": 802,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADv3aLt1PXKfhb6HRuPh14O",
+  "snapshot_id": "aJKbAAAAAADlJlbof/EsXSh/9vnTtV6h",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 185869,
-      "name": "CUANDO HABLES CON \u00c9L",
-      "url": "https://open.spotify.com/track/3HwOh611McmotNJOLEb66y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 185869,
+      "name": "CUANDO HABLES CON \u00c9L",
+      "url": "https://open.spotify.com/track/3HwOh611McmotNJOLEb66y"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Vas A Quedarte",
+      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -123,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
       },
       "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 226213,
-      "name": "Vas A Quedarte",
-      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
+      "duration_ms": 144950,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1"
     },
     {
       "added_at": null,
@@ -195,46 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akureyri",
-        "url": "https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Akureyri",
-      "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babylon Club",
-        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 144950,
-      "name": "Anoche",
-      "url": "https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -255,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+        "name": "Akureyri",
+        "url": "https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN"
       },
       "artists": [
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 220137,
-      "name": "CONEXI\u00d3N PS\u00cdQUICA",
-      "url": "https://open.spotify.com/track/6rWIHEedAYET828v7QY22S"
+      "duration_ms": 194400,
+      "name": "Akureyri",
+      "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
     },
     {
       "added_at": null,
@@ -291,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
       "artists": [
         {
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 155645,
-      "name": "SI NO VAS A VOLVER",
-      "url": "https://open.spotify.com/track/7es67JIZ333OB30dYfjfal"
+      "duration_ms": 220137,
+      "name": "CONEXI\u00d3N PS\u00cdQUICA",
+      "url": "https://open.spotify.com/track/6rWIHEedAYET828v7QY22S"
     },
     {
       "added_at": null,
@@ -327,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
       "artists": [
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 180000,
-      "name": "DUELE UN MONT\u00d3N DESPEDIRME DE TI",
-      "url": "https://open.spotify.com/track/0WLpPLoGEfUe2UBtvqWb9D"
+      "duration_ms": 155645,
+      "name": "SI NO VAS A VOLVER",
+      "url": "https://open.spotify.com/track/7es67JIZ333OB30dYfjfal"
     },
     {
       "added_at": null,
@@ -363,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "4TO 23",
-        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
       "artists": [
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 168320,
-      "name": "4TO 23",
-      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
+      "duration_ms": 180000,
+      "name": "DUELE UN MONT\u00d3N DESPEDIRME DE TI",
+      "url": "https://open.spotify.com/track/0WLpPLoGEfUe2UBtvqWb9D"
     },
     {
       "added_at": null,
@@ -391,6 +375,42 @@
       "duration_ms": 167920,
       "name": "24 Rosas",
       "url": "https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4TO 23",
+        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "4TO 23",
+      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "CORAZ\u00d3N SIN VIDA",
+      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
     },
     {
       "added_at": null,
@@ -415,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
       "artists": [
         {
@@ -424,13 +444,13 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 181200,
-      "name": "CORAZ\u00d3N SIN VIDA",
-      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
     },
     {
       "added_at": null,
@@ -459,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
       "artists": [
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 159360,
-      "name": "miamor",
-      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
+      "duration_ms": 210726,
+      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
+      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 210726,
-      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
-      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
+      "duration_ms": 158826,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
     },
     {
       "added_at": null,
@@ -535,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
       "artists": [
         {
@@ -544,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 158826,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
+      "duration_ms": 213179,
+      "name": "11 RAZONES",
+      "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
       "duration_ms": 125080,
       "name": "En El Coche",
       "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 213179,
-      "name": "11 RAZONES",
-      "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
     },
     {
       "added_at": null,

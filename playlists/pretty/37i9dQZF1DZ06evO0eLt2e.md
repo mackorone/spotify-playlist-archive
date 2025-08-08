@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,896 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,897 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 37 | [Folsom Prison Blues \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 3:39 |
 | 38 | [Angels Love Bad Men](https://open.spotify.com/track/4erMZWKJDVPko0AQtWD5ZR) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 3:32 |
 | 39 | [Good Morning John](https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 2:50 |
-| 40 | [The Lonely Night \- Reprise Version](https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Reprise](https://open.spotify.com/album/1bqeVjo54gj4BjjOH8dC97) | 5:42 |
-| 41 | [Please Don't Tell Me How the Story Ends](https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 2:37 |
+| 40 | [Please Don't Tell Me How the Story Ends](https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 2:37 |
+| 41 | [The Lonely Night \- Reprise Version](https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Reprise](https://open.spotify.com/album/1bqeVjo54gj4BjjOH8dC97) | 5:42 |
 | 42 | [Eye of the Storm \(with Willie Nelson\)](https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:15 |
 | 43 | [From Here to Forever](https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 3:32 |
 | 44 | [I'd Rather Be Sorry](https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Breakaway](https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 49 | [From Here To The Moon and Back](https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jeremy Jordan](https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR) | [Joyful Noise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9) | 4:24 |
 | 50 | [The Best Of All Possible Worlds](https://open.spotify.com/track/1CM0IOUM1zYaX4ECXAPQZl) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 2:59 |
 
-Snapshot ID: `aJFJgAAAAADdAoQaL/Go3mItmSvMIOxy`
+Snapshot ID: `aJKbAAAAAACXl4dW8JN/+Od9MnWBUIMB`

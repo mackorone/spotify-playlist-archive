@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Trinix au top des bangers dance/electro du moment !",
+  "description": "BLACKPINK au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -90,6 +90,28 @@
       "duration_ms": 151190,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/0hh94JJOOvvgugZUWWQxcr"
+    },
+    {
+      "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
     },
     {
       "album": {
@@ -1566,7 +1588,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 154139,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"

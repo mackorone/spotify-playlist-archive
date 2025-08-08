@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,326 songs - 2 day 20 hr 25 min
+1,329 songs - 2 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-03-06 | 2021-06-05 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-29 | 2021-03-06 |
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-03-27 | 2021-06-05 |
+| [All My Friends Are Models](https://open.spotify.com/track/34b6933wH4nOqZGMq3EOMX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [All My Friends Are Models](https://open.spotify.com/album/5cbN5Z8hTuRVzVDuzJWyCv) | 4:13 | 2025-08-08 |  |
 | [All My Friends Are Stoned](https://open.spotify.com/track/7BL33HmuFQien4olebugdj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now \- EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:39 | 2020-10-30 | 2021-04-03 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-03-05 |
 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-09-08 | 2025-01-11 |
@@ -401,6 +402,7 @@
 | [FMRN](https://open.spotify.com/track/08hB2ERJV6A1Ntu3OHgzjh) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/4jfJVKmrG63Cp8DPYDOHCD) | 2:02 | 2021-07-04 | 2021-09-11 |
 | [Fold](https://open.spotify.com/track/325sNEWNzA8q5XvQpX8CxI) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Fold](https://open.spotify.com/album/6Hta8XMZvDB2Tv2DvGFiva) | 2:55 | 2023-10-06 | 2023-12-16 |
 | [Food for Thought!](https://open.spotify.com/track/7kqND83w6pGMFLJk9FGEKG) | [Graham Maude](https://open.spotify.com/artist/6FVfuomyRl6eTey7gmnWbb) | [Food for Thought!](https://open.spotify.com/album/2I6eaGVOnYptpQYhrtAAoH) | 4:06 | 2021-07-04 | 2021-08-21 |
+| [Fool](https://open.spotify.com/track/1QfM6VflLcrdCrUesQNRaY) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Fool](https://open.spotify.com/album/7w4tCZWvp0OAjIL10rZBpA) | 4:03 | 2025-08-08 |  |
 | [For Me](https://open.spotify.com/track/5p7CXqeafsP4Q83zyWo2Fc) | [Yung Trip](https://open.spotify.com/artist/3juBA3263XAXLwN9ZisLll) | [For Me](https://open.spotify.com/album/51bfRLjJwKpcREYP0nWdDD) | 3:30 | 2024-03-01 | 2025-04-26 |
 | [for sale 2 own](https://open.spotify.com/track/2OgwHWIvzwoMANPqIrvYSS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [for sale 2 own](https://open.spotify.com/album/4bQY42D7Egu7z85iNg2pz3) | 2:39 | 2025-07-25 |  |
 | [For The Good](https://open.spotify.com/track/32wNxsULE8I9Fd8aU0o7JW) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [For The Good](https://open.spotify.com/album/0RjCuHSyUalAewW06tJbCH) | 0:53 | 2022-05-27 | 2023-08-26 |
@@ -1307,6 +1309,7 @@
 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:51 | 2021-04-10 | 2021-04-24 |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2020-11-14 | 2020-12-07 |
 | [you can't stay mad at me](https://open.spotify.com/track/2xYVyHIRMmA6dVqSrn3ReA) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [you can't stay mad at me](https://open.spotify.com/album/1VTGmkgwWYNJjsI0fxiYdO) | 2:16 | 2022-01-14 | 2022-04-02 |
+| [You Didn't Have To Go](https://open.spotify.com/track/2gpnjIKGRvyYjRwsIZyO9Q) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When A Thought Grows Wings \(Reimagined\)](https://open.spotify.com/album/4tWCxM8FtanL2u31UhZ1rz) | 3:18 | 2025-08-08 |  |
 | [You Don’t Know Me Yet](https://open.spotify.com/track/5iZuZah6zg3CRQzQGi51Vf) | [Alyssa Baker](https://open.spotify.com/artist/6B69HCFm8HCDgGzeAwy1K9) | [You Don’t Know Me Yet](https://open.spotify.com/album/1flU6YH5h4mdG2b8rkoOtw) | 3:20 | 2020-11-28 | 2021-03-27 |
 | [You Feel Like Depression](https://open.spotify.com/track/4iUHwOJQDcTEkMyo5DLuOD) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [You Feel Like Depression](https://open.spotify.com/album/0vtthYcFLEdqBsbCo8tCFM) | 2:50 | 2022-02-04 | 2022-04-16 |
 | [You Got The Part](https://open.spotify.com/track/2wG3vRFT68jYXaXZ9kB6qM) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [You Got The Part](https://open.spotify.com/album/5rPdSuEALEZAj2DmyCneop) | 3:03 | 2021-09-25 | 2021-12-18 |

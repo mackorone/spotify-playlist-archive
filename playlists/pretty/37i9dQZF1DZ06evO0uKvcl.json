@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 30351,
+  "num_followers": 30358,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADcNLKnjmm+SgdSc7Q1XIZk",
+  "snapshot_id": "aJKbAAAAAAB+AhTmOrI+csDRw7CtV9Wq",
   "tracks": [
     {
       "added_at": null,
@@ -304,21 +304,13 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        },
-        {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 182276,
-      "name": "What A Woman",
-      "url": "https://open.spotify.com/track/0RA2ZUg2D4zakY3QE2fEUH"
+      "duration_ms": 223946,
+      "name": "Rockin' Daddy",
+      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
     },
     {
       "added_at": null,
@@ -384,37 +376,37 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 223946,
-      "name": "Rockin' Daddy",
-      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
+      "duration_ms": 182276,
+      "name": "What A Woman",
+      "url": "https://open.spotify.com/track/0RA2ZUg2D4zakY3QE2fEUH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Super Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
       "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 394173,
-      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
-      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+      "duration_ms": 167853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
     },
     {
       "added_at": null,
@@ -451,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 154973,
       "name": "Down In The Bottom - Single Version",
       "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Super Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 394173,
+      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
+      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
     },
     {
       "added_at": null,

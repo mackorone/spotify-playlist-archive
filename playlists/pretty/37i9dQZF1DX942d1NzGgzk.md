@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B in the UK\. Cover: Nolais
+> The latest of R&B in the UK\. Cover: yaemulli
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,643 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,678 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 99 | [Sorry for Me](https://open.spotify.com/track/0YLOAFElqNxIl1YxerXBQu) | [Sunkissed Child](https://open.spotify.com/artist/61hgmGkN3BNk2umSvUZBBw) | [Sorry for Me](https://open.spotify.com/album/2iDGaGsNMSdtenLxFAz542) | 3:56 |
 | 100 | [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 |
 
-Snapshot ID: `AAAAAFLRwe2zqrLAwgDPh0KwmVuFAitc`
+Snapshot ID: `AAAAAJw4PxiSjcfjZTj7uf5lx2I5FjFa`

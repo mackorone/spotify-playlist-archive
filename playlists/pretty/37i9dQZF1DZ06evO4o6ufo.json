@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 85822,
+  "num_followers": 85888,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABatR4nTgRvogRXavo2wgk8",
+  "snapshot_id": "aJKbAAAAAAAk/258shUd0BITPCVypw+j",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Nivel C",
-          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "El 27 (En Vivo)",
-      "url": "https://open.spotify.com/track/5MHRP8hSluWqUor7WpzzOL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De la Estancia a Cosala",
         "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 139853,
       "name": "De la Estancia a Cosala",
       "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Nivel C",
+          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "El 27 (En Vivo)",
+      "url": "https://open.spotify.com/track/5MHRP8hSluWqUor7WpzzOL"
     },
     {
       "added_at": null,

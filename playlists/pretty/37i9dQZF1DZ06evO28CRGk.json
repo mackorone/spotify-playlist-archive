@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACWPykejkMtfDmTAJOK7GUs",
+  "snapshot_id": "aJKbAAAAAAAY0gXoD8SCKDYx7AnT+qYd",
   "tracks": [
     {
       "added_at": null,
@@ -194,19 +194,11 @@
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Stricklin",
-          "url": "https://open.spotify.com/artist/0JCPpCYxezQzwzncFeuw9p"
-        },
-        {
-          "name": "Speech",
-          "url": "https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt"
         }
       ],
-      "duration_ms": 184178,
-      "name": "Life Music",
-      "url": "https://open.spotify.com/track/3NMkJp7TjOXSj04Mx1Qi4V"
+      "duration_ms": 178031,
+      "name": "Brooklyn Heights",
+      "url": "https://open.spotify.com/track/3RRh8g2tpQESZQO2LrzsA1"
     },
     {
       "added_at": null,
@@ -306,11 +298,15 @@
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Pav Bundy",
+          "url": "https://open.spotify.com/artist/2wPjPKxuic6mP4qJ5Yvljl"
         }
       ],
-      "duration_ms": 178031,
-      "name": "Brooklyn Heights",
-      "url": "https://open.spotify.com/track/3RRh8g2tpQESZQO2LrzsA1"
+      "duration_ms": 195055,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/46alQ7Ry32UqtgCqHgz43h"
     },
     {
       "added_at": null,
@@ -404,13 +400,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Pav Bundy",
-          "url": "https://open.spotify.com/artist/2wPjPKxuic6mP4qJ5Yvljl"
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
         }
       ],
-      "duration_ms": 195055,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/46alQ7Ry32UqtgCqHgz43h"
+      "duration_ms": 228941,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/66IPN1gl52DYp4KpbxOcZ6"
     },
     {
       "added_at": null,
@@ -512,13 +508,17 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Stricklin",
+          "url": "https://open.spotify.com/artist/0JCPpCYxezQzwzncFeuw9p"
+        },
+        {
+          "name": "Speech",
+          "url": "https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt"
         }
       ],
-      "duration_ms": 228941,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/66IPN1gl52DYp4KpbxOcZ6"
+      "duration_ms": 184178,
+      "name": "Life Music",
+      "url": "https://open.spotify.com/track/3NMkJp7TjOXSj04Mx1Qi4V"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MP On The MP: The Beat Tape Vol. 3",
+        "url": "https://open.spotify.com/album/1hSrrsdr7BqgV8ub21IFcQ"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Scat Hard",
+      "url": "https://open.spotify.com/track/2oxmOcry9kGMGuIDUgn9Kt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G.U.R.U.",
         "url": "https://open.spotify.com/album/2zGzjKOL0cjNipoqjXRaLg"
       },
@@ -643,30 +659,6 @@
       "duration_ms": 268164,
       "name": "G.U.R.U.",
       "url": "https://open.spotify.com/track/1lCCn7sRZQSPzHZP8tNzd7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Cadillac Dale",
-          "url": "https://open.spotify.com/artist/1fvTYEmcCWxMIXPgrq4sIs"
-        }
-      ],
-      "duration_ms": 248377,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/0BJ4Dc2FIEuY3O2KGqx6Fo"
     },
     {
       "added_at": null,
@@ -695,18 +687,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MP On The MP: The Beat Tape Vol. 3",
-        "url": "https://open.spotify.com/album/1hSrrsdr7BqgV8ub21IFcQ"
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
       "artists": [
         {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Cadillac Dale",
+          "url": "https://open.spotify.com/artist/1fvTYEmcCWxMIXPgrq4sIs"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Scat Hard",
-      "url": "https://open.spotify.com/track/2oxmOcry9kGMGuIDUgn9Kt"
+      "duration_ms": 248377,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/0BJ4Dc2FIEuY3O2KGqx6Fo"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 228824,
-      "name": "Miejmy To za Sob\u0105",
-      "url": "https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Run",
         "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
       },
@@ -863,42 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Dozen: Marco Polo",
-        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 161092,
-      "name": "The Rub",
-      "url": "https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Wordsworth",
-          "url": "https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Wrong One",
-      "url": "https://open.spotify.com/track/40H22sFbazRwISu76U1qh0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -915,26 +859,6 @@
       "duration_ms": 206854,
       "name": "Ho\u0142d Blok\u00f3w Absolwentom",
       "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Run",
-        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
-      },
-      "artists": [
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "The Return",
-      "url": "https://open.spotify.com/track/1Jp6sQP4tGLMpqTlHjUVE4"
     },
     {
       "added_at": null,
@@ -964,13 +888,29 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+          "name": "Wordsworth",
+          "url": "https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD"
         }
       ],
-      "duration_ms": 236626,
-      "name": "War",
-      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
+      "duration_ms": 221266,
+      "name": "Wrong One",
+      "url": "https://open.spotify.com/track/40H22sFbazRwISu76U1qh0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baker's Dozen: Marco Polo",
+        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 161092,
+      "name": "The Rub",
+      "url": "https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj"
     },
     {
       "added_at": null,
@@ -988,25 +928,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 231755,
-      "name": "Wi\u0119zie\u0144 W\u0142asnych Granic",
-      "url": "https://open.spotify.com/track/1L525mhtifli4X9LroMYLx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baker's Dozen: Marco Polo",
-        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 157559,
-      "name": "Ps And Qs Remix",
-      "url": "https://open.spotify.com/track/574HJOb30didWVbDIbE1KD"
+      "duration_ms": 228824,
+      "name": "Miejmy To za Sob\u0105",
+      "url": "https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM"
     },
     {
       "added_at": null,
@@ -1031,6 +955,98 @@
       "duration_ms": 204866,
       "name": "Double Barrel",
       "url": "https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "War",
+      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+      },
+      "artists": [
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 215315,
+      "name": "The Return",
+      "url": "https://open.spotify.com/track/1Jp6sQP4tGLMpqTlHjUVE4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 231755,
+      "name": "Wi\u0119zie\u0144 W\u0142asnych Granic",
+      "url": "https://open.spotify.com/track/1L525mhtifli4X9LroMYLx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Universe",
+        "url": "https://open.spotify.com/album/32cj6HXBrzQ6odHAQKMXrt"
+      },
+      "artists": [
+        {
+          "name": "Non Phixion",
+          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
+        },
+        {
+          "name": "ILL BILL",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        },
+        {
+          "name": "Lord Goat",
+          "url": "https://open.spotify.com/artist/1jEQ9dVjupKqchhxVIkHyD"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 160954,
+      "name": "Strange Universe (Marco Polo Remix)",
+      "url": "https://open.spotify.com/track/5tuI2aNbzHNtW48rLbLqT9"
     },
     {
       "added_at": null,
@@ -1071,6 +1087,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+      },
+      "artists": [
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 94463,
+      "name": "Reloaded (Intro)",
+      "url": "https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -1084,57 +1120,29 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 239393,
-      "name": "\u017bywy lub Martwy",
-      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
+      "duration_ms": 150786,
+      "name": "What Is The Question",
+      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Dozen: Marco Polo",
-        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
+        "name": "Double Barrel",
+        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
       },
       "artists": [
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
         }
       ],
-      "duration_ms": 174856,
-      "name": "Yada Yada",
-      "url": "https://open.spotify.com/track/4ogCOpVUZoxStUv6YEF3il"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Universe",
-        "url": "https://open.spotify.com/album/32cj6HXBrzQ6odHAQKMXrt"
-      },
-      "artists": [
-        {
-          "name": "Non Phixion",
-          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
-        },
-        {
-          "name": "ILL BILL",
-          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
-        },
-        {
-          "name": "Lord Goat",
-          "url": "https://open.spotify.com/artist/1jEQ9dVjupKqchhxVIkHyD"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 160954,
-      "name": "Strange Universe (Marco Polo Remix)",
-      "url": "https://open.spotify.com/track/5tuI2aNbzHNtW48rLbLqT9"
+      "duration_ms": 180506,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48"
     },
     {
       "added_at": null,

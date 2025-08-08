@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Ayra Starr
 
-1,097 songs - 2 day 8 hr 50 min
+1,098 songs - 2 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,7 +949,7 @@
 | [THAT!](https://open.spotify.com/track/4rCXAvkAHDA9exT4ghvsKi) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:19 | 2025-02-21 | 2025-05-10 |
 | [That's My Baby](https://open.spotify.com/track/1OvDmcFzppabpUGoXKVOhM) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [That’s My Baby](https://open.spotify.com/album/6DLGyKDjaWzC2vG4nXgDQX) | 3:33 | 2025-05-23 | 2025-06-07 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-15 | 2024-06-22 |
-| [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 | 2024-06-21 |  |
+| [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 | 2024-06-21 | 2025-08-08 |
 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-05-19 | 2023-07-01 |
 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-11 |  |
 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 | 2023-07-21 | 2024-03-30 |
@@ -1089,6 +1089,7 @@
 | [Wrong Hands](https://open.spotify.com/track/7lP071DicbJJgF3VU8vCkw) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Wrong Hands](https://open.spotify.com/album/4v5bS7FUVnI04SH8JIZOh5) | 3:09 | 2023-06-09 | 2023-07-01 |
 | [Wrong Way \(Remix\) \[feat\. Baby Tate\]](https://open.spotify.com/track/3pc2kn6ni9AsB7ZfoKUvHH) | [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Wrong Way \(Remix\) \[feat\. Baby Tate\]](https://open.spotify.com/album/182Nr8zqQ7AwtSDt24lhAu) | 3:13 | 2022-03-18 | 2022-05-14 |
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-09-22 | 2024-11-02 |
+| [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/track/3WLhxGa2HGPcXbmK3NYmm8) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/album/1VdyHDwu9mPQrC7bViLABV) | 2:18 | 2025-07-25 |  |
 | [X](https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [X](https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt) | 1:33 | 2024-05-24 | 2024-06-22 |
 | [X n The City](https://open.spotify.com/track/13ABknW77eZ7up9s4tsRzh) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [X n The City](https://open.spotify.com/album/4Rn1PI71FTHWXKSbK3B9CY) | 2:28 | 2025-05-02 | 2025-08-02 |
 | [X\-Rated \(feat\. Benny The Butcher\)](https://open.spotify.com/track/4XI8zeiBGduh5rABkvBn5Y) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:51 | 2023-08-18 | 2023-09-23 |

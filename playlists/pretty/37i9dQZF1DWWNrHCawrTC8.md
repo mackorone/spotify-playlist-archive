@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNrHCawrTC8.md) - [plain]
 
 > revisit one of hip\-hop's most of exciting eras
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,602 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,675 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

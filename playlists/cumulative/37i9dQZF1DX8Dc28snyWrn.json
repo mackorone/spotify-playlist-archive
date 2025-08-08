@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1RO9csUg4Bkpb5xSGReQZs"
+      },
+      "artists": [
+        {
+          "name": "Michael Sanzone",
+          "url": "https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192208,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3dFghmP0JgZf7W6RcweLoq"
+    },
+    {
+      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -942,10 +960,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 156600,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
+    },
+    {
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161787,
+      "name": "Oh Child",
+      "url": "https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk"
     },
     {
       "album": {
@@ -1302,7 +1338,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"

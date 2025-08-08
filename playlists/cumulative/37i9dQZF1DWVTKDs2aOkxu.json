@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Hayley Williams ",
+  "description": "The best indie music of the moment. Cover: Ethel Cain",
   "name": "The Indie List",
   "tracks": [
     {
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "The County Star",
+        "url": "https://open.spotify.com/album/23RRb0vru4foWhYYOXVS2x"
+      },
+      "artists": [
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214008,
+      "name": "A Cowboy Song",
+      "url": "https://open.spotify.com/track/1Z1atcQC1tQK2bjK17qXXl"
+    },
+    {
+      "album": {
         "name": "A Cowboy Song",
         "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
       },
@@ -416,7 +434,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 286764,
       "name": "Aerodynamic",
       "url": "https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 288818,
       "name": "All Night All Day",
       "url": "https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 124733,
       "name": "Alright Alright Alright",
       "url": "https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm"
@@ -913,6 +931,24 @@
     },
     {
       "album": {
+        "name": "The New Eve Is Rising",
+        "url": "https://open.spotify.com/album/3Eg0fxQ3UrmFeYwZsMfSqH"
+      },
+      "artists": [
+        {
+          "name": "The New Eves",
+          "url": "https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Astrolabe",
+      "url": "https://open.spotify.com/track/3XaSqO4M7fSLpmqTwyVwEP"
+    },
+    {
+      "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
@@ -964,6 +1000,24 @@
       "duration_ms": 250537,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/13vRJ8LDVH73EFLuZXz8co"
+    },
+    {
+      "album": {
+        "name": "Baby Spoon",
+        "url": "https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180803,
+      "name": "Baby Spoon",
+      "url": "https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl"
     },
     {
       "album": {
@@ -1547,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "bone",
+        "url": "https://open.spotify.com/album/5CZw1bn4UiEc9aBXVim8kU"
+      },
+      "artists": [
+        {
+          "name": "Trout",
+          "url": "https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217049,
+      "name": "bone",
+      "url": "https://open.spotify.com/track/0BX2Mud9YLFJ8QLXjytGWA"
+    },
+    {
+      "album": {
         "name": "The Love I Showed You Was Yours To Keep",
         "url": "https://open.spotify.com/album/6mk2yI6dHBQSFlkFiuZXAn"
       },
@@ -1886,7 +1958,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 197396,
       "name": "car",
       "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
@@ -3075,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "Drunk Surfer",
+        "url": "https://open.spotify.com/album/5MbQ33JkvmHNKeYbuYB1f8"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234680,
+      "name": "Drunk Surfer",
+      "url": "https://open.spotify.com/track/2OLM7e95IViS4hd26Rc0au"
+    },
+    {
+      "album": {
         "name": "Dudu",
         "url": "https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB"
       },
@@ -3108,6 +3198,24 @@
       "duration_ms": 207312,
       "name": "Dust",
       "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
+    },
+    {
+      "album": {
+        "name": "Willoughby Tucker, I'll Always Love You",
+        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386846,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ"
     },
     {
       "album": {
@@ -3702,7 +3810,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 364800,
       "name": "Fuck Me Eyes",
       "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
@@ -4098,7 +4206,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 243630,
       "name": "Guilty Running",
       "url": "https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf"
@@ -4534,7 +4642,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
@@ -4556,6 +4664,42 @@
       "duration_ms": 190859,
       "name": "House",
       "url": "https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9"
+    },
+    {
+      "album": {
+        "name": "how did they know",
+        "url": "https://open.spotify.com/album/5XQnun6cfXG7S7KmXagM1K"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243176,
+      "name": "how did they know",
+      "url": "https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1"
+    },
+    {
+      "album": {
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240043,
+      "name": "How To Live",
+      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
     },
     {
       "album": {
@@ -5068,7 +5212,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 254897,
       "name": "JIVE",
       "url": "https://open.spotify.com/track/4WJ7z7TqsN06ZXcgfVxCJG"
@@ -5749,6 +5893,24 @@
     },
     {
       "album": {
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
+    },
+    {
+      "album": {
         "name": "kissing under an (almost) full moon",
         "url": "https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ"
       },
@@ -6385,6 +6547,24 @@
     },
     {
       "album": {
+        "name": "QUIT QUIETLY",
+        "url": "https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
       },
@@ -6969,6 +7149,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
+    },
+    {
+      "album": {
         "name": "Orlando in Love",
         "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
       },
@@ -7348,6 +7546,24 @@
       "duration_ms": 229338,
       "name": "Poems",
       "url": "https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW"
+    },
+    {
+      "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269720,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/0oeS0fFJTHZhFwpHLpu1VS"
     },
     {
       "album": {
@@ -8015,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2XZDtVBGje3OFEeuUBBAFG"
+    },
+    {
+      "album": {
         "name": "Sexy Lemon",
         "url": "https://open.spotify.com/album/1MmXaM38gKGg0uj9WX9czP"
       },
@@ -8408,7 +8642,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
@@ -9010,7 +9244,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 280800,
       "name": "Television Love",
       "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
@@ -9310,7 +9544,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 323960,
       "name": "The Jamie Oliver Petrol Station",
       "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"
@@ -9408,7 +9642,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 125186,
       "name": "The Money Song",
       "url": "https://open.spotify.com/track/4ttS3N5CJaCObiwmJqMmF7"
@@ -9506,6 +9740,24 @@
       "duration_ms": 198293,
       "name": "The Things We Say",
       "url": "https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q"
+    },
+    {
+      "album": {
+        "name": "the twins (1969)",
+        "url": "https://open.spotify.com/album/2M9IpHl3QGG69zyg4EfHBe"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172503,
+      "name": "the twins (1969)",
+      "url": "https://open.spotify.com/track/1yYdcfsf7BBfHUMpQiUB4x"
     },
     {
       "album": {
@@ -9938,7 +10190,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 381560,
       "name": "Tomorrow is Perfect",
       "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
@@ -10454,7 +10706,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 196931,
       "name": "we never dated",
       "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
@@ -10490,7 +10742,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 233000,
       "name": "What Do We Ever Really Know?",
       "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
@@ -10602,6 +10854,42 @@
       "duration_ms": 290618,
       "name": "Where To Look",
       "url": "https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I"
+    },
+    {
+      "album": {
+        "name": "Whim",
+        "url": "https://open.spotify.com/album/46t4xOTQjLXWWz1dSyoQ5K"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216889,
+      "name": "Whim",
+      "url": "https://open.spotify.com/track/0DKCfMM4NqA71bEE2syT0R"
+    },
+    {
+      "album": {
+        "name": "The Sofa",
+        "url": "https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269826,
+      "name": "White Horses",
+      "url": "https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe"
     },
     {
       "album": {
@@ -10728,7 +11016,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 221441,
       "name": "Wolf River",
       "url": "https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty"

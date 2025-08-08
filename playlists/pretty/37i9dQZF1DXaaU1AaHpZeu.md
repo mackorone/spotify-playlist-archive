@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 ### [Novedades Indie](https://open.spotify.com/playlist/37i9dQZF1DXaaU1AaHpZeu)
 
-> Nuevos hallazgos de música indie latina, con Oh'laville en portada.
+> Nuevos hallazgos de música indie latina, con day2k en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,525 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,470 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Sobre ti](https://open.spotify.com/track/2jB70RhkcGs277hms0JuHQ) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr), [Anish](https://open.spotify.com/artist/3DW1mYPTqXp0z1saaE6VgZ) | [Sobre ti](https://open.spotify.com/album/46LFeBEJA40wbTOZ9Nvx2H) | 2:59 |
 | 50 | [Salto](https://open.spotify.com/track/4F00zpGzwg5xl4sHdnv4sT) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Salto](https://open.spotify.com/album/53cPtZPUXDd4Vfl3SYjQT3) | 2:14 |
 
-Snapshot ID: `AAAAADV9e+nCezi0zcgavXGI1OeevJza`
+Snapshot ID: `AAAAAGKqg0M1fDrFl/GNqklSLNiQ0f/9`

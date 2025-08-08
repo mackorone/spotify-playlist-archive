@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-367 songs - 20 hr 38 min
+368 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Late \(Again\)](https://open.spotify.com/track/0aj8PtJlkBz7Dbp1Yx0w9f) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/5sXWRGyWQL7kMXbqYl2ltR) | 1:55 | 2022-06-06 | 2022-07-27 |
 | [Late \(Again\)](https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz) | 1:55 | 2023-10-23 | 2024-04-19 |
 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 | 2022-07-25 | 2024-04-19 |
-| [leave before u do](https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [leave before u do](https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh) | 3:02 | 2022-06-06 |  |
+| [leave before u do](https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [leave before u do](https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh) | 3:02 | 2022-06-06 | 2025-08-08 |
 | [Leave You Alone](https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:29 | 2022-07-25 | 2024-04-19 |
 | [Leave You Alone](https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Leave You Alone](https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY) | 3:29 | 2024-09-02 | 2025-01-20 |
 | [Left Me Here](https://open.spotify.com/track/0GYS6aXliGiTT199fCwDPA) | [Pathetic Son](https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm) | [Left Me Here](https://open.spotify.com/album/5kHkh2rrj6R4LRWrwZ4o8o) | 3:17 | 2022-06-06 | 2022-07-29 |
@@ -216,6 +216,7 @@
 | [lucid dreaming](https://open.spotify.com/track/152hTttqi4LSGHUZK5Q0qS) | [kessari](https://open.spotify.com/artist/72Hau0P2ZO2GA1LAXyypFh) | [lucid dreaming](https://open.spotify.com/album/3yt5fkWOIs3IRQqUotKCgi) | 2:52 | 2022-06-06 | 2022-07-28 |
 | [Lucky](https://open.spotify.com/track/6MfrCyIyaYJbcB8FI7khMm) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Lucky](https://open.spotify.com/album/5y1MlBMoNjtPW6NhJepXnX) | 1:30 | 2022-06-06 | 2022-07-29 |
 | [Mad Blunted Jazz](https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA) | 5:12 | 2025-04-21 |  |
+| [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 | 2025-08-07 |  |
 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 | 2022-07-25 | 2024-04-19 |
 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 | 2022-06-06 |  |
 | [Medicate](https://open.spotify.com/track/3tDkSfjREVdnz1pXMUo2jK) | [Gavrielle](https://open.spotify.com/artist/3xgMsxKjHOB6X5cIwUJY0A) | [Medicate](https://open.spotify.com/album/0dMwwd01RnTLQkAll7gPBe) | 3:34 | 2022-06-06 | 2022-07-29 |

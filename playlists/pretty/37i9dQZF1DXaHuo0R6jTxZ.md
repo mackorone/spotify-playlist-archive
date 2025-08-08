@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,555 likes - 40 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,592 likes - 40 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 18 | [Layali El Shouq](https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:51 |
 | 19 | [ياعمرنا](https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ذكريات](https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9) | 4:31 |
 | 20 | [Ah Bahibbak](https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Rouhi](https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr) | 4:13 |
-| 21 | [Wala Wahed](https://open.spotify.com/track/46lLvTPvCHDHKmxb33cSta) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 4:13 |
-| 22 | [Didi](https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [1, 2, 3 Soleils](https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO) | 6:08 |
+| 21 | [Didi](https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [1, 2, 3 Soleils](https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO) | 6:08 |
+| 22 | [Wala Wahed](https://open.spotify.com/track/46lLvTPvCHDHKmxb33cSta) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 4:13 |
 | 23 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
 | 24 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
 | 25 | [Nassam Alayna El Hawa](https://open.spotify.com/track/4d7DrWvGPobIFPRi84gjm0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 4:03 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 33 | [عشان بحبك](https://open.spotify.com/track/218ZPN6u1JxiM8qzHmAzmS) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [عشان باحبك](https://open.spotify.com/album/18A97riBjteV1p5YXfUp1e) | 5:27 |
 | 34 | [فاضل ايه](https://open.spotify.com/track/7gxYjbdGWDKZRi5E1HfScd) | [Talaat Zain](https://open.spotify.com/artist/361np6UFfeQfVBjYoB3cwA) | [تيكي تا](https://open.spotify.com/album/06ViZXDfKo0NcHRtncjwjI) | 4:04 |
 | 35 | [Asheq](https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM) | [Amr Tantawy](https://open.spotify.com/artist/3CGtuA8TxzMGjJ3BSyPII3) | [Ahla Hekaya](https://open.spotify.com/album/0UEaqW4PgIau35th1V7Ahv) | 4:02 |
-| 36 | [Marasil](https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l) | [Ehab Tawfik](https://open.spotify.com/artist/1NNtOzUioS314Gqo961N2U) | [Marasil](https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss) | 5:09 |
-| 37 | [Kawy Kalbak](https://open.spotify.com/track/2OfdMNtqeQGSatCj5GEDUQ) | [Kluda Al Shamali](https://open.spotify.com/artist/12g0lOWG7yLlcKXXCxgKui) | [Pravo Aleek](https://open.spotify.com/album/3oX428wVuCAVUVTnLjrFVB) | 5:16 |
+| 36 | [Kawy Kalbak](https://open.spotify.com/track/2OfdMNtqeQGSatCj5GEDUQ) | [Kluda Al Shamali](https://open.spotify.com/artist/12g0lOWG7yLlcKXXCxgKui) | [Pravo Aleek](https://open.spotify.com/album/3oX428wVuCAVUVTnLjrFVB) | 5:16 |
+| 37 | [Marasil](https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l) | [Ehab Tawfik](https://open.spotify.com/artist/1NNtOzUioS314Gqo961N2U) | [Marasil](https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss) | 5:09 |
 | 38 | [Efred](https://open.spotify.com/track/2G9gFbESJG8K8PmrPrxBDI) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Efred](https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI) | 4:52 |
 | 39 | [عشرة صحاب](https://open.spotify.com/track/4dOP9gDTjUdzoJIYNJd6a7) | [Khaled Ali](https://open.spotify.com/artist/4E83N5TFAiQEQ0OZJPLP9s) | [مهرجان الدلتا](https://open.spotify.com/album/69yuczwq2ZV6xf9n4gDMuf) | 4:28 |
 | 40 | [Ya Tara](https://open.spotify.com/track/2mDZL9UPXkxuQujnuLPoZi) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Yally Mashy](https://open.spotify.com/album/14nSahDkxSak6Boa5dZnVX) | 5:33 |

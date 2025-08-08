@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,195 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,186 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 40 | [No Secrets](https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [No Secrets](https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT) | 3:09 |
 | 41 | [YOU](https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [TWIN FLAME](https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm) | 2:16 |
 | 42 | [A Fair Exchange](https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [A Fair Exchange](https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0) | 2:20 |
-| 43 | [The Only Love We Know](https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/32yofsJDutpcH21hGOLslE) | 4:34 |
-| 44 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 |
+| 43 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 |
+| 44 | [The Only Love We Know](https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/32yofsJDutpcH21hGOLslE) | 4:34 |
 | 45 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 |
 | 46 | [STAR](https://open.spotify.com/track/7IiVKpdCtU1Y5seKBe3Asg) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Star](https://open.spotify.com/album/5ZOCtRyWxSwDY4e0rWPTxi) | 3:22 |
 | 47 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 91 | [ANTICIPATE](https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Cait Harris](https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0) | [ANTICIPATE](https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK) | 2:32 |
 | 92 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 |
 | 93 | [Good Day](https://open.spotify.com/track/6UzeqhR2HzAp71r7FToxaP) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [Zachery V](https://open.spotify.com/artist/4aYcKpn8h3uilaFJ9Lbnqd) | [Good Day](https://open.spotify.com/album/5e62sirP6DFfV8Hx2J5tVP) | 2:48 |
-| 94 | [RICH PEOPLE PROBLEMS](https://open.spotify.com/track/52HmUb7L6Sfe6PsTpXNLYS) | [Kenrae](https://open.spotify.com/artist/3KItEFAeVO2hK3WSSU36Zf) | [RICH PEOPLE PROBLEMS](https://open.spotify.com/album/4ZFwvSZvKUDKkXmlP5s94y) | 3:00 |
-| 95 | [Not Enough](https://open.spotify.com/track/6J3cHBb0hLCsoDnTRU8m7h) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Not Enough](https://open.spotify.com/album/4SuVgQ3GNezJ3tHpbKg0JC) | 2:07 |
+| 94 | [Not Enough](https://open.spotify.com/track/6J3cHBb0hLCsoDnTRU8m7h) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Not Enough](https://open.spotify.com/album/4SuVgQ3GNezJ3tHpbKg0JC) | 2:07 |
+| 95 | [RICH PEOPLE PROBLEMS](https://open.spotify.com/track/52HmUb7L6Sfe6PsTpXNLYS) | [Kenrae](https://open.spotify.com/artist/3KItEFAeVO2hK3WSSU36Zf) | [RICH PEOPLE PROBLEMS](https://open.spotify.com/album/4ZFwvSZvKUDKkXmlP5s94y) | 3:00 |
 | 96 | [Control](https://open.spotify.com/track/049pAILMAf9ZLsESoBTpSV) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Control](https://open.spotify.com/album/7u17k9ZpKOlttpdfR49Hh0) | 2:55 |
 | 97 | [Happier Song](https://open.spotify.com/track/176QZKsUDHCf2Vp8wUZeI9) | [Elodie Jeannette](https://open.spotify.com/artist/1S8dJy0rk4PoWBW59sxNXp), [ATLouis](https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa) | [Happier Song](https://open.spotify.com/album/0Xvx3N7EyvkQCdo41XVk7w) | 2:24 |
-| 98 | [Back Door](https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 2:25 |
-| 99 | [fuck me up](https://open.spotify.com/track/7qL69LAFLrBefDRZJExeCN) | [On The Fence](https://open.spotify.com/artist/1ASJWCVSy6XXLbRIr8cCMw) | [fuck me up](https://open.spotify.com/album/6u2JZWYwuu4WtypJP8Ipob) | 2:21 |
+| 98 | [fuck me up](https://open.spotify.com/track/7qL69LAFLrBefDRZJExeCN) | [On The Fence](https://open.spotify.com/artist/1ASJWCVSy6XXLbRIr8cCMw) | [fuck me up](https://open.spotify.com/album/6u2JZWYwuu4WtypJP8Ipob) | 2:21 |
+| 99 | [Back Door](https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 2:25 |
 | 100 | [Regrets](https://open.spotify.com/track/5lRyRnZUIwVfEgzOyeT7ZV) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [TWENTYFiVE SOUNDSYSTEM](https://open.spotify.com/artist/6TeDTJbTwET9KRACfHnjc7) | [Regrets](https://open.spotify.com/album/19FBgiQpcYHjboNHmQMy5P) | 2:57 |
 
-Snapshot ID: `AAAAAERomHWCzRrwdLi/e0cKgIP/7NYF`
+Snapshot ID: `AAAAALbry5zxSE4u0Dg2trzSImBI5g65`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Simge ve haftanın en iyi çıkışları!
+> cakal, Serdar Ortaç ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,854 likes - 123 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,035 likes - 123 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 122 | [Vurgun](https://open.spotify.com/track/6Tf6xClg6A64PT6skJXsn7) | [Özlem Başar](https://open.spotify.com/artist/3y8fsidx6A7yFSh6Op3dim) | [Vurgun](https://open.spotify.com/album/6L2bKyJuHxW3Iey52zC6AT) | 2:38 |
 | 123 | [Deliler Gibi](https://open.spotify.com/track/3QoTPCHBnN9Zx48yvbGYBd) | [Fırat Uyulur](https://open.spotify.com/artist/4GkYuMQivqQ7rsb4T5cawo) | [Deliler Gibi](https://open.spotify.com/album/28cNF5L2bvyPZaW0XKwbbN) | 4:40 |
 
-Snapshot ID: `AAAAAHwWehBVs1faSIwz+FrFfi77NM/i`
+Snapshot ID: `AAAAADrSFgr/r/ovkX0H4431oq9BK/ik`

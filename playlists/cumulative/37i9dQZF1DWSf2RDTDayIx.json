@@ -979,6 +979,28 @@
     },
     {
       "album": {
+        "name": "Future Renaissance",
+        "url": "https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163834,
+      "name": "Believing In Us",
+      "url": "https://open.spotify.com/track/6WljWthiqncq6ad3FiDM8r"
+    },
+    {
+      "album": {
         "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
         "url": "https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C"
       },
@@ -9792,7 +9814,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 163464,
       "name": "Want You",
       "url": "https://open.spotify.com/track/1GzheMTLU2wPjMvs24o4WZ"

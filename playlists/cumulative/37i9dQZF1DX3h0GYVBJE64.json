@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Battleground (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
+      },
+      "artists": [
+        {
+          "name": "The Wanted",
+          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197935,
+      "name": "Glad You Came",
+      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
+    },
+    {
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
       },
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 227786,
       "name": "She Doesn't Mind",
       "url": "https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8"

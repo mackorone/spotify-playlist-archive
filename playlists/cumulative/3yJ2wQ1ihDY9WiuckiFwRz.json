@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "RUSH.",
+        "url": "https://open.spotify.com/album/6xxcZKAWFVtvFoyEIBpHKi"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241616,
+      "name": "RUSH.",
+      "url": "https://open.spotify.com/track/4uwkafvVxUWQF4tY0szToe"
+    },
+    {
+      "album": {
         "name": "secrets!",
         "url": "https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM"
       },

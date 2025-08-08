@@ -2,7 +2,7 @@
 
 ### [Disney Princess](https://open.spotify.com/playlist/37i9dQZF1DX9fDcF6S4tuJ)
 
-> Listen to all your favorite Disney Princess songs.
+> Embrace your inner Princess with your favorite Disney Princess songs.
 
 67 songs - 3 hr 16 min
 

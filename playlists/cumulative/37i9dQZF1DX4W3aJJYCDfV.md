@@ -2,7 +2,7 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Chappell Roan, Demi Lovato, Rema and more!
+> Brand new music from Glass Animals, Ed Sheeran, Ethel Cain and more!
 
 17,570 songs - 39 day 13 hr 20 min
 

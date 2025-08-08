@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 149135,
+  "num_followers": 149148,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-07-04 03:01:23",
       "album": {
+        "name": "Ao Vivo em SP",
+        "url": "https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Aurora Boreal - Ao Vivo",
+      "url": "https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd"
+    },
+    {
+      "added_at": "2025-07-04 03:01:23",
+      "album": {
         "name": "Rosa Flor (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 199134,
       "name": "Rosa Flor - Ac\u00fastica",
       "url": "https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7"
-    },
-    {
-      "added_at": "2025-07-04 03:01:23",
-      "album": {
-        "name": "Ao Vivo em SP",
-        "url": "https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Aurora Boreal - Ao Vivo",
-      "url": "https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd"
     },
     {
       "added_at": "2025-07-04 03:01:23",

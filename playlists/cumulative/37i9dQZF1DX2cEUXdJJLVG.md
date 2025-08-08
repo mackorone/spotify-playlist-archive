@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-429 songs - 1 day 1 hr 37 min
+430 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Summer Blues](https://open.spotify.com/track/71mrqChmbDeuUARpuT3SdV) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Summer Blues](https://open.spotify.com/album/1G4CR3KeyYRrD16cWpXJF7) | 3:18 | 2022-10-30 | 2022-11-13 |
 | [Summer Nights](https://open.spotify.com/track/3w5Iw9ZZIc9D7pzvFz9La1) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Summer Nights](https://open.spotify.com/album/0tPnCgMixUXYJLa21ZzNux) | 2:51 | 2023-09-21 | 2025-03-14 |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-04-24 |  |
+| [Sunshine](https://open.spotify.com/track/3zRGDePRdS1dwd1IgkfClq) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Sidekick Music](https://open.spotify.com/artist/0TPqwBgpuUgwdmXPk85l0c) | [Sunshine](https://open.spotify.com/album/7vZfAzqBqfNBbpE0ZlwpfA) | 3:08 | 2025-08-07 |  |
 | [Sunshine](https://open.spotify.com/track/7zkRbkeXRq1i8ldQt5Zwsk) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Sunshine](https://open.spotify.com/album/0AVlwvNZRfTBKuSYFWpsHE) | 3:00 | 2025-06-26 |  |
 | [Sunshine](https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Sunshine](https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj) | 3:29 | 2023-03-17 | 2025-03-28 |
 | [Sweet Harmony](https://open.spotify.com/track/5xu8FPfSTx6ntNts4LmHli) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Sweet Harmony](https://open.spotify.com/album/6Vggx6TgQ31vR9BwUPdoIQ) | 3:02 | 2023-02-16 | 2025-03-28 |

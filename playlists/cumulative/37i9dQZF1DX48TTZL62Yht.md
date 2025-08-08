@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Travis Scott
 
-820 songs - 1 day 18 hr 22 min
+821 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-29 | 2025-01-24 |
 | [In The UK](https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [In The UK](https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh) | 3:03 | 2022-12-02 | 2022-12-10 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-01-21 | 2024-01-13 |
-| [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-12-05 |  |
+| [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-12-05 | 2025-08-08 |
 | [Intro \(Hate On Me\)](https://open.spotify.com/track/4s7TIubkdsgdtDEDFEAYVL) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:54 | 2022-01-14 | 2022-06-03 |
 | [Is That Ight?](https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:58 | 2023-05-05 | 2023-10-13 |
 | [iSpy](https://open.spotify.com/track/0WjYgf4qH3B0v0HmW61doL) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [iSpy](https://open.spotify.com/album/55cXOrwWxwycCFL8wbXi6L) | 4:13 | 2022-04-01 | 2022-04-12 |
@@ -809,6 +809,7 @@
 | [Woah](https://open.spotify.com/track/7ovsrGkfcZhLuXPtN4Z2qC) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Woah](https://open.spotify.com/album/3Emj30Utjj4Y94qjvU21gt) | 2:55 | 2022-01-07 | 2022-06-16 |
 | [Wockesha](https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 3:00 | 2022-01-07 | 2024-04-27 |
 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2022-01-07 | 2024-12-12 |
+| [won't stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [won't stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-08-08 |  |
 | [Woodlawn](https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:23 | 2022-04-01 | 2022-04-11 |
 | [World in My Palms](https://open.spotify.com/track/16P74BcksSSwjJqL2D7BGt) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [World in My Palms](https://open.spotify.com/album/6XTAfQ7syOgTdTs5BnHGNW) | 3:14 | 2022-01-07 | 2022-05-06 |
 | [Worst Day](https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Worst Day](https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT) | 3:04 | 2022-04-29 | 2022-06-24 |

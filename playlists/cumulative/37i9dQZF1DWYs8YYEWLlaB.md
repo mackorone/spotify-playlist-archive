@@ -2,9 +2,9 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: BLOK3
+> viral, trend ve yükselenler\.  Kapak: Çağla x Doğu Swag
 
-201 songs - 10 hr 23 min
+202 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Leyla](https://open.spotify.com/track/1yNlQwfPdHQg1ynxfBbk2a) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Boygar](https://open.spotify.com/artist/4PJjx45YgWsvQ8srXC2Txe) | [Daha Derine](https://open.spotify.com/album/6gj3CjEPM2m4tWzLgVURTE) | 3:14 | 2024-07-03 | 2025-02-19 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-11-27 | 2024-12-20 |
 | [Manifest](https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:29 | 2025-06-18 |  |
-| [MARALIM](https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb) | [Maral](https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP) | [MARALIM](https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT) | 2:22 | 2025-05-27 |  |
+| [MARALIM](https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb) | [Maral](https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP) | [MARALIM](https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT) | 2:22 | 2025-05-27 | 2025-08-08 |
 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 | 2025-01-14 | 2025-03-20 |
 | [Maziden](https://open.spotify.com/track/2tXC4HTBn4af2j71rFYW3g) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Maziden](https://open.spotify.com/album/0x5wKymi8vidBrpqWpvWvs) | 2:18 | 2025-03-12 | 2025-03-20 |
 | [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 | 2025-06-30 |  |
@@ -200,6 +200,7 @@
 | [ZAR ZOR](https://open.spotify.com/track/3IcAfhBe6frmou4B6zC8M5) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [DANS](https://open.spotify.com/album/2IoW1Qu0zuMSgzUZyUUZYC) | 3:23 | 2024-07-02 | 2024-07-17 |
 | [Zindan](https://open.spotify.com/track/2WuyMog3qp7VKidUtwBfNk) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Zindan](https://open.spotify.com/album/0lhR4ra0NJ5b51r9jJxGV9) | 2:18 | 2025-07-24 | 2025-07-31 |
 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-17 |  |
+| [ÇOK AĞLADIM](https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [ÇOK AĞLADIM](https://open.spotify.com/album/3xDHI3UPennkKzJsmmtODd) | 1:54 | 2025-08-07 |  |
 | [ÇÖZEMEZLER](https://open.spotify.com/track/300xFtOH49F80uB7BSAsEf) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TEMPO](https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f) | 2:10 | 2024-10-02 | 2024-12-06 |
 | [Çözemezsin](https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Çözemezsin](https://open.spotify.com/album/3hKqpJizdFWWLQKwDKpz8a) | 4:37 | 2025-05-01 | 2025-07-09 |
 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 | 2025-07-01 |  |

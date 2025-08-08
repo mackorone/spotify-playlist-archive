@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  AMORE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,809 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,828 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 35 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 36 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
 | 37 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
-| 38 | [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 |
-| 39 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
+| 38 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
+| 39 | [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 |
 | 40 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 41 | [Full Lace y el Tuck](https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Full Lace y el Tuck](https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw) | 2:53 |
 | 42 | [MANIN](https://open.spotify.com/track/4yNI6PHSp0WBV5iJS4tAfj) | [Euskoprincess](https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Mattin](https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO), [GlorySixVain](https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw) | [TOTOSAKI](https://open.spotify.com/album/5Se7DmKuolG3YN4AE2MD4K) | 2:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 46 | [Gritando Amor](https://open.spotify.com/track/6w8DDYLQJW6PRei3DJbktj) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Luis Miguélez](https://open.spotify.com/artist/4JgdZuefWOh72vRe1WWQMF) | [Gritando Amor](https://open.spotify.com/album/76QEBMEFhoNBb8EWIjiTBY) | 4:18 |
 | 47 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 48 | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi) | 4:34 |
-| 49 | [Bollera](https://open.spotify.com/track/4xHXFX1nXCNGi6pRUKYkub) | [La Mare](https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja), [Roba Estesa](https://open.spotify.com/artist/3VzGOFrX7MDtLe2Wfndgjt), [Xerach](https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW) | [Bollera](https://open.spotify.com/album/7DSL0AxTYtjZf3Y5yHaCIJ) | 2:42 |
+| 49 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
 | 50 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
 
 Snapshot ID: `AAAAAHx/qgjYhZwqAH/7ROrVrhSSwFn7`

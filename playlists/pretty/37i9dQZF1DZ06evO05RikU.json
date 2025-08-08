@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAD2XlCbcwXOtyXSmYLGrtoO",
+  "snapshot_id": "aJKbAAAAAABOuYgd4izwImJ47ChA12rx",
   "tracks": [
     {
       "added_at": null,
@@ -151,30 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MiuMiu",
-        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "MiuMiu",
-      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/6qm3xWNQ0APs9N1KmXAD9B"
       },
@@ -195,6 +171,30 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/5OsYviJJXb8g8uM1K7JiPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MiuMiu",
+        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "MiuMiu",
+      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "coRaZ\u00d3n fR\u00edO",
         "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Let You Go (feat. Sofia Reyes)",
-        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 162537,
-      "name": "Never Let You Go (feat. Sofia Reyes)",
-      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 163872,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Let You Go (feat. Sofia Reyes)",
+        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 162537,
+      "name": "Never Let You Go (feat. Sofia Reyes)",
+      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! babas tutsipop en portada.",
-  "num_followers": 35998,
+  "num_followers": 36004,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210127,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 272386,
       "name": "Zero (Feat. Zaira Jabnell)",
       "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210127,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "El M\u00e9ndigo D\u00eda Del Padre",
         "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 266066,
       "name": "El M\u00e9ndigo D\u00eda Del Padre",
       "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Quito",
-        "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Quito",
-      "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Campeones del Mundo / Rayo de Luz",
         "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 341600,
       "name": "Rayo de Luz",
       "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Quito",
+        "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Quito",
+      "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
         "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Pensamientos Intrusivos",
+        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 163239,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Qu\u00e9 Bien Se Te Ve",
         "url": "https://open.spotify.com/album/1PrHdsonw7QUGrOLmekfsN"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 151747,
       "name": "Qu\u00e9 Bien Se Te Ve",
       "url": "https://open.spotify.com/track/2Qu7k75pTkO1swHgMoHDus"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Pensamientos Intrusivos",
-        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 163239,
-      "name": "Pensamientos Intrusivos",
-      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
     },
     {
       "added_at": "2025-07-04 06:00:11",

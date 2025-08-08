@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Tone Stith",
-  "num_followers": 784230,
+  "num_followers": 784263,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1277,42 +1277,6 @@
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
     },
     {
-      "added_at": "2025-04-25 07:19:25",
-      "album": {
-        "name": "Flower Moon",
-        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "Flower Moon",
-      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
-    },
-    {
-      "added_at": "2025-02-21 07:53:52",
-      "album": {
-        "name": "SUNSET BLACK",
-        "url": "https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6"
-      },
-      "artists": [
-        {
-          "name": "Bren Joy",
-          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
-        }
-      ],
-      "duration_ms": 139177,
-      "name": "WANDERING",
-      "url": "https://open.spotify.com/track/47pDhZQeIJVxVm1yHoYomI"
-    },
-    {
       "added_at": "2024-04-12 04:01:00",
       "album": {
         "name": "Slow Burn",
@@ -1335,6 +1299,22 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
+    },
+    {
+      "added_at": "2025-02-21 07:53:52",
+      "album": {
+        "name": "SUNSET BLACK",
+        "url": "https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "duration_ms": 139177,
+      "name": "WANDERING",
+      "url": "https://open.spotify.com/track/47pDhZQeIJVxVm1yHoYomI"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1367,6 +1347,26 @@
       "duration_ms": 293979,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
+    },
+    {
+      "added_at": "2025-04-25 07:19:25",
+      "album": {
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Flower Moon",
+      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
     },
     {
       "added_at": "2024-06-07 12:35:37",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Here To Stay",
-        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 202139,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
-    },
-    {
       "added_at": "2024-02-16 05:22:30",
       "album": {
         "name": "Let Me Feel Your Charm - Spotify Singles",
@@ -1439,6 +1423,22 @@
       "duration_ms": 162029,
       "name": "Let Me Feel Your Charm - Spotify Singles",
       "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 202139,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1461,24 +1461,20 @@
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
+        "name": "black like you",
+        "url": "https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz"
       },
       "artists": [
         {
-          "name": "Chelan",
-          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
-        },
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
         }
       ],
-      "duration_ms": 224050,
-      "name": "PATTERNS",
-      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
+      "duration_ms": 192964,
+      "name": "black like you",
+      "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
     },
     {
       "added_at": "2025-03-21 05:07:45",
@@ -1501,36 +1497,24 @@
       "url": "https://open.spotify.com/track/2VNxBDZwqkEjUhik7ADY1g"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "black like you",
-        "url": "https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz"
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
       },
       "artists": [
         {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 192964,
-      "name": "black like you",
-      "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
-    },
-    {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
-        "name": "FEEL SOMETHING",
-        "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
-      },
-      "artists": [
+          "name": "Chelan",
+          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
+        },
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
         }
       ],
-      "duration_ms": 152195,
-      "name": "FEEL SOMETHING",
-      "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
+      "duration_ms": 224050,
+      "name": "PATTERNS",
+      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -1567,6 +1551,22 @@
       "duration_ms": 199732,
       "name": "The Love Is Gone",
       "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
+        "name": "FEEL SOMETHING",
+        "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "FEEL SOMETHING",
+      "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
     },
     {
-      "added_at": "2025-07-11 06:58:22",
-      "album": {
-        "name": "4ever",
-        "url": "https://open.spotify.com/album/3C1Y3uwhoEzvOp6DcYTfVw"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/0BAy7sih25RWwMCTtBClyV"
-    },
-    {
       "added_at": "2024-06-14 07:12:33",
       "album": {
         "name": "Why Lawd?",
@@ -1723,6 +1707,22 @@
       "duration_ms": 167894,
       "name": "MoveOn",
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
+    },
+    {
+      "added_at": "2025-07-11 06:58:22",
+      "album": {
+        "name": "4ever",
+        "url": "https://open.spotify.com/album/3C1Y3uwhoEzvOp6DcYTfVw"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/0BAy7sih25RWwMCTtBClyV"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1881,20 +1881,20 @@
       "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
-      "added_at": "2025-01-17 07:25:43",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6"
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
       "artists": [
         {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR"
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2024-05-17 07:14:12",
@@ -1929,6 +1929,22 @@
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
     },
     {
+      "added_at": "2025-01-17 07:25:43",
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR"
+    },
+    {
       "added_at": "2023-05-20 16:10:43",
       "album": {
         "name": "Soul,PRESENT",
@@ -1943,22 +1959,6 @@
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -1977,22 +1977,6 @@
       "url": "https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3"
     },
     {
-      "added_at": "2025-06-06 06:28:23",
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 273132,
-      "name": "More Than Twice",
-      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
-    },
-    {
       "added_at": "2025-03-07 05:51:28",
       "album": {
         "name": "Entries",
@@ -2009,20 +1993,20 @@
       "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
-      "added_at": "2025-05-30 05:12:56",
+      "added_at": "2025-06-06 06:28:23",
       "album": {
-        "name": "The Emancipation Of Mimi (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO"
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 189800,
-      "name": "When I Feel It",
-      "url": "https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME"
+      "duration_ms": 273132,
+      "name": "More Than Twice",
+      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
     },
     {
       "added_at": "2023-09-16 14:17:34",
@@ -2043,6 +2027,22 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "added_at": "2025-05-30 05:12:56",
+      "album": {
+        "name": "The Emancipation Of Mimi (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "When I Feel It",
+      "url": "https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2189,30 +2189,6 @@
       "url": "https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD"
     },
     {
-      "added_at": "2025-06-20 04:00:54",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 141795,
-      "name": "WeMaj (feat. Rapsody)",
-      "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
-    },
-    {
       "added_at": "2024-05-10 05:54:01",
       "album": {
         "name": "Lotus Glow (Deluxe)",
@@ -2253,20 +2229,28 @@
       "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
     },
     {
-      "added_at": "2024-03-01 06:13:32",
+      "added_at": "2025-06-20 04:00:54",
       "album": {
-        "name": "Need Nothing",
-        "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
       },
       "artists": [
         {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         }
       ],
-      "duration_ms": 147825,
-      "name": "Need Nothing",
-      "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
+      "duration_ms": 141795,
+      "name": "WeMaj (feat. Rapsody)",
+      "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
     },
     {
       "added_at": "2024-10-25 07:15:59",
@@ -2285,6 +2269,22 @@
       "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
     },
     {
+      "added_at": "2024-03-01 06:13:32",
+      "album": {
+        "name": "Need Nothing",
+        "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Need Nothing",
+      "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
+    },
+    {
       "added_at": "2024-08-23 06:02:29",
       "album": {
         "name": "Can\u2019t Explain This Love",
@@ -2299,30 +2299,6 @@
       "duration_ms": 181399,
       "name": "Can\u2019t Explain This Love",
       "url": "https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4"
-    },
-    {
-      "added_at": "2025-05-16 04:52:04",
-      "album": {
-        "name": "If I Ain't Got You (Tank's Version)",
-        "url": "https://open.spotify.com/album/4sSNkIjKpaybaY8f01mrOO"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        },
-        {
-          "name": "Amanda Reid",
-          "url": "https://open.spotify.com/artist/7tPx7QpnmFA6zMmC9AD47v"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "If I Ain't Got You (Tank's Version)",
-      "url": "https://open.spotify.com/track/4M8r5a71WLt8qpoWZE4597"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -2349,6 +2325,22 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 178891,
+      "name": "If The Love Goes",
+      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
+    },
+    {
       "added_at": "2025-04-18 05:17:41",
       "album": {
         "name": "The Only Love We Know",
@@ -2365,20 +2357,28 @@
       "url": "https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z"
     },
     {
-      "added_at": "2024-10-18 16:11:48",
+      "added_at": "2025-05-16 04:52:04",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+        "name": "If I Ain't Got You (Tank's Version)",
+        "url": "https://open.spotify.com/album/4sSNkIjKpaybaY8f01mrOO"
       },
       "artists": [
         {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Amanda Reid",
+          "url": "https://open.spotify.com/artist/7tPx7QpnmFA6zMmC9AD47v"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 178891,
-      "name": "If The Love Goes",
-      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
+      "duration_ms": 244089,
+      "name": "If I Ain't Got You (Tank's Version)",
+      "url": "https://open.spotify.com/track/4M8r5a71WLt8qpoWZE4597"
     },
     {
       "added_at": "2025-01-17 07:25:43",
@@ -2473,26 +2473,6 @@
       "url": "https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb"
     },
     {
-      "added_at": "2025-07-11 06:58:22",
-      "album": {
-        "name": "Make It Hot (feat. Eryn Allen Kane) [from \"The Pickup\"]",
-        "url": "https://open.spotify.com/album/7bTreLtLjeZyMt1gePo4y4"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Make It Hot (feat. Eryn Allen Kane) - from \"The Pickup\"",
-      "url": "https://open.spotify.com/track/6xbbXuX8196SAinbEZ3ESn"
-    },
-    {
       "added_at": "2024-08-30 05:27:28",
       "album": {
         "name": "Beautiful Pain",
@@ -2511,6 +2491,26 @@
       "duration_ms": 311038,
       "name": "Bedroom Bully",
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
+    },
+    {
+      "added_at": "2025-07-11 06:58:22",
+      "album": {
+        "name": "Make It Hot (feat. Eryn Allen Kane) [from \"The Pickup\"]",
+        "url": "https://open.spotify.com/album/7bTreLtLjeZyMt1gePo4y4"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Make It Hot (feat. Eryn Allen Kane) - from \"The Pickup\"",
+      "url": "https://open.spotify.com/track/6xbbXuX8196SAinbEZ3ESn"
     },
     {
       "added_at": "2025-07-25 09:47:40",
@@ -2613,6 +2613,22 @@
       "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
     },
     {
+      "added_at": "2025-05-23 04:34:50",
+      "album": {
+        "name": "Who Are You to Me",
+        "url": "https://open.spotify.com/album/41C8aH1UXgXCKrdVpUfFgn"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Who Are You to Me",
+      "url": "https://open.spotify.com/track/0vDqpm5eOCsq0w3SpigtnR"
+    },
+    {
       "added_at": "2025-07-11 06:58:22",
       "album": {
         "name": "It's Me, Not You",
@@ -2631,22 +2647,6 @@
       "duration_ms": 277737,
       "name": "You",
       "url": "https://open.spotify.com/track/32igfdLr4tBqGH2EYAWbUb"
-    },
-    {
-      "added_at": "2025-05-23 04:34:50",
-      "album": {
-        "name": "Who Are You to Me",
-        "url": "https://open.spotify.com/album/41C8aH1UXgXCKrdVpUfFgn"
-      },
-      "artists": [
-        {
-          "name": "threetwenty",
-          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Who Are You to Me",
-      "url": "https://open.spotify.com/track/0vDqpm5eOCsq0w3SpigtnR"
     }
   ],
   "unique_name": "Soul Coffee",

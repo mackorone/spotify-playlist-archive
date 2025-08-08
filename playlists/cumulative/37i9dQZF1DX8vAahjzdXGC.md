@@ -2,7 +2,7 @@
 
 ### [New Music Friday Indonesia](https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC)
 
-> Rilisan baru pekan ini dari Bernadya, JKT48,  Henry Moodie, yung kai, Chappell Roan dan masih banyak lagi dari dalam dan mancanegara
+> Rilisan baru pekan ini dari Ed Sheeran, Laufey, Petra Sihombing dan masih banyak lagi dari dalam dan mancanegara
 
 27,862 songs - 66 day 2 hr 54 min
 

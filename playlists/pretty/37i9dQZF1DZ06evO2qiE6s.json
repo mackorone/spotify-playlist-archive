@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 125620,
+  "num_followers": 125627,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAwSLt/QCD5/VCPdzUTDpFs",
+  "snapshot_id": "aJKbAAAAAABh0ide+r+NE0wgD1ofXv9P",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 185773,
       "name": "Non Dimenticar - Remastered 1998",
       "url": "https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "French Style",
-        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "C'est si bon",
-      "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lush Years",
-        "url": "https://open.spotify.com/album/6kPcePhU1tNPObqUY0yDPQ"
+        "name": "French Style",
+        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
       },
       "artists": [
         {
@@ -588,9 +572,25 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 181426,
-      "name": "Rio Bravo - 1994 Remaster",
-      "url": "https://open.spotify.com/track/5E0zvQknrvTFrmPnrwIoCl"
+      "duration_ms": 172626,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "You Belong To Me - Remastered",
+      "url": "https://open.spotify.com/track/05oFDCPK2YuNm5uBtCmm1B"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
       "duration_ms": 176866,
       "name": "The Naughty Lady Of Shady Lane",
       "url": "https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lush Years",
+        "url": "https://open.spotify.com/album/6kPcePhU1tNPObqUY0yDPQ"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "Rio Bravo - 1994 Remaster",
+      "url": "https://open.spotify.com/track/5E0zvQknrvTFrmPnrwIoCl"
     },
     {
       "added_at": null,
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "You Belong To Me - Remastered",
-      "url": "https://open.spotify.com/track/05oFDCPK2YuNm5uBtCmm1B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country Style",
         "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 159000,
       "name": "Things",
       "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 188626,
       "name": "I've Grown Accustomed to Her Face (feat. Dean Martin)",
       "url": "https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": null,

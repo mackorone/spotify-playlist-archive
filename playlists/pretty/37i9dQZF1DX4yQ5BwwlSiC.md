@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Check out all of these artists and more performing live in Nashville at the CMA Fest 2025! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,779 likes - 73 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,770 likes - 73 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

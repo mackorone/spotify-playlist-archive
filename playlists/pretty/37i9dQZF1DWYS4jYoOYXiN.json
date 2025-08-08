@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 95417,
+  "num_followers": 95476,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Columbia's Boogaloo",
+      "url": "https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Barretto",
         "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 338520,
       "name": "Guarar\u00e9",
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Columbia's Boogaloo",
-      "url": "https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Exitos de Oro (Golden Hits)",
-        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
-      },
-      "artists": [
-        {
-          "name": "Joe Quijano",
-          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
-        }
-      ],
-      "duration_ms": 147236,
-      "name": "En Puerta de Tierra",
-      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Let's Get Down To The Real Nitty Gritty",
         "url": "https://open.spotify.com/album/269lCCNvG2Nc91rXWh2ICp"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 160715,
       "name": "California Sun",
       "url": "https://open.spotify.com/track/6VZZx248WTQ4mligzYLILP"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Exitos de Oro (Golden Hits)",
+        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
+      },
+      "artists": [
+        {
+          "name": "Joe Quijano",
+          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
+        }
+      ],
+      "duration_ms": 147236,
+      "name": "En Puerta de Tierra",
+      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
     },
     {
       "added_at": "2024-07-18 20:57:58",

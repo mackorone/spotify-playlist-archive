@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: CeCe, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,710 likes - 212 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,749 likes - 212 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

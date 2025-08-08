@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 36965,
+  "num_followers": 36985,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAADs047tDIa8H2W6okjeZbo",
+  "snapshot_id": "aJKbAAAAAAA1NKjt3t45bJG0TSgqKDPF",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 108773,
-      "name": "File 13",
-      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
+      "duration_ms": 174133,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 108773,
+      "name": "File 13",
+      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Answer That And Stay Fashionable",
         "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
@@ -571,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI (The Blood Album)",
-        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
       "artists": [
         {
@@ -580,25 +596,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Aurelia",
-      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 102600,
-      "name": "Wake-Up Call",
-      "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
       "duration_ms": 168573,
       "name": "Exsanguination",
       "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing The Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Rabbits Are Roadkill On Rt. 37",
-      "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
     },
     {
       "added_at": null,
@@ -660,9 +644,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 118800,
-      "name": "Perfect Fit",
-      "url": "https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB"
+      "duration_ms": 102600,
+      "name": "Wake-Up Call",
+      "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing The Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Rabbits Are Roadkill On Rt. 37",
+      "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
       "duration_ms": 149906,
       "name": "Narrative Of Soul Against Soul",
       "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -724,25 +708,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 117960,
-      "name": "Cult Status",
-      "url": "https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 93426,
-      "name": "Strength Through Wounding",
-      "url": "https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65"
+      "duration_ms": 118800,
+      "name": "Perfect Fit",
+      "url": "https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB"
     },
     {
       "added_at": null,
@@ -759,6 +727,22 @@
       "duration_ms": 176640,
       "name": "Too Shy To Scream",
       "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 93426,
+      "name": "Strength Through Wounding",
+      "url": "https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65"
     },
     {
       "added_at": null,
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 140240,
-      "name": "This Secret Ninja",
-      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
+      "duration_ms": 117960,
+      "name": "Cult Status",
+      "url": "https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 93706,
       "name": "Three Reasons",
       "url": "https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 140199,
+      "name": "On Your Back",
+      "url": "https://open.spotify.com/track/5b9yz8F5xxHMEmBHflPn11"
     }
   ],
   "unique_name": "This Is AFI",

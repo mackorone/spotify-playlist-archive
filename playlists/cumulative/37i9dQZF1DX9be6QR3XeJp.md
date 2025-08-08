@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Elliot Schooling
+> Discover your new favourite artists from UK&IE\. Cover: Greta Isaac
 
-322 songs - 17 hr 20 min
+323 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Call It What You Like](https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Call It What You Like](https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW) | 2:54 | 2024-07-26 |  |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 |  |
 | [Can you](https://open.spotify.com/track/52VXLQTSzgIGjwFMx3ty3U) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 3:39 | 2022-02-18 |  |
+| [CAR CRASH](https://open.spotify.com/track/5vUQ9itUCoPJolzp2L2SqY) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Dolly Zoom](https://open.spotify.com/album/252UgdVnTPfKwiAKq5KLlx) | 2:21 | 2025-08-07 |  |
 | [Car Park](https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:04 | 2023-08-31 |  |
 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 | 2024-04-05 |  |
 | [Caterpillar](https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Caterpillar](https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6) | 3:37 | 2025-04-24 |  |

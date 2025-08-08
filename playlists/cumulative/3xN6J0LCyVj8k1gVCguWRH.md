@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,217 songs - 12 day 3 hr 51 min
+5,222 songs - 12 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Bella Hadid \(Come to Madrid\)](https://open.spotify.com/track/721Eo2ZnPI4psc1gTM2Zec) | [Arsenium](https://open.spotify.com/artist/6JZgZ5UWuEx5ZMkSWLoY1B), [TYMMA](https://open.spotify.com/artist/7Dx4fr9NzN8VDWleWWTz7m) | [Bella Hadid \(Come to Madrid\)](https://open.spotify.com/album/5nbdUq57ckrXVRTdCyd5Kj) | 2:05 | 2023-06-30 | 2023-07-22 |
 | [Bello](https://open.spotify.com/track/1AfApkGhtPW2rMeiEf2uee) | [Tiancho](https://open.spotify.com/artist/0Qx1jjadmxQoMekTZdIF68) | [Bello](https://open.spotify.com/album/2S6MrTU4GLgQO1TwnfuBIn) | 3:05 | 2024-09-29 | 2025-01-18 |
 | [Belmont Park](https://open.spotify.com/track/4qSDDMj8hSkjSMEybf3jdX) | [Alice Gray](https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1) | [Belmont Park](https://open.spotify.com/album/63ugzV8wka0qYk5oDp4uNe) | 2:54 | 2021-11-13 | 2021-11-28 |
+| [Belong To](https://open.spotify.com/track/0BRaZlgcLYiOQJLIOVQSvN) | [Jonas Aarmo](https://open.spotify.com/artist/1hekQY6PEcNlwEvGj3h7LY) | [Belong To](https://open.spotify.com/album/4gVoiwCZLAuqaJ8AVQ3wIW) | 2:57 | 2025-08-07 |  |
 | [Beloved](https://open.spotify.com/track/4FFKaxX2B2vjinQQXiYTK6) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Full Circle Moments](https://open.spotify.com/album/2bxBCh7CVEpzKxxMLqdmI9) | 2:52 | 2024-01-20 | 2024-02-01 |
 | [Ben a My Pari](https://open.spotify.com/track/5Kwqy2kXlLQgGNPHuArzEy) | [Hevito](https://open.spotify.com/artist/0TbQ4yiYMSIDeDKvvMS3fw) | [Ben a My Pari](https://open.spotify.com/album/5ANNBFt19cqw5TYtQjExRr) | 2:50 | 2024-09-24 | 2024-10-06 |
 | [Benjamin Whishaw Smiled](https://open.spotify.com/track/18epjZgkgjf6qLGFwmHmQe) | [Seán Barna](https://open.spotify.com/artist/3xKcObyMhutFPBsLagOXLG) | [Benjamin Whishaw Smiled](https://open.spotify.com/album/0id0MEWTcAsmgjREsWOry3) | 3:40 | 2023-03-17 | 2023-04-09 |
@@ -649,6 +650,7 @@
 | [Broken Cards](https://open.spotify.com/track/6kcE8IEcbdjVZAtQw2JV31) | [Jake Blaze](https://open.spotify.com/artist/4pOFCotYldEgrmgT5JzJ1e) | [Broken Cards](https://open.spotify.com/album/6jYQXtehAef4yvn6sAu9H4) | 3:51 | 2025-05-14 | 2025-05-26 |
 | [Broken Heart Diamond Ring](https://open.spotify.com/track/6oBllnn0HGgFJH87mUUwj7) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Broken Heart Diamond Ring](https://open.spotify.com/album/6PPeDHupUbrr1HjX3mSOuq) | 2:52 | 2024-11-13 | 2024-11-30 |
 | [broken wïngs](https://open.spotify.com/track/2v4hQFpwsAaww9cdejQEBG) | [BÖBE](https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn) | [poïsoned paradïse](https://open.spotify.com/album/5RMc7t6jHImV8D4jawkgXq) | 3:30 | 2023-02-17 | 2023-03-18 |
+| [Brooklyn Baby](https://open.spotify.com/track/5ZRQsOs28J9L6pwv2WNJRh) | [Don't Believe in Ghosts](https://open.spotify.com/artist/5uLKc9jyRkcyoTNF1JLWe1) | [Brooklyn Baby](https://open.spotify.com/album/6ntm4LThhit6AcJNniegyj) | 2:43 | 2025-08-07 |  |
 | [Brother](https://open.spotify.com/track/3CeEVNbns845IpQLghLTYl) | [Dino Archon](https://open.spotify.com/artist/3aMxKso1iRRt8RBAymCbuP) | [Brother](https://open.spotify.com/album/1ZEEeHlnROsYni65smnt55) | 4:00 | 2024-11-18 | 2024-11-30 |
 | [Brother](https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Factory](https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH) | 3:18 | 2021-12-02 | 2021-12-20 |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2019-09-29\* | 2021-11-19 |
@@ -753,6 +755,7 @@
 | [CAN'T TAKE THIS ANYMORE](https://open.spotify.com/track/5UnpGqoHLsUXIUxBxfnMws) | [Energyneverdiess](https://open.spotify.com/artist/1qzCUj4TYCjLB56OZY6HQj) | [SPLIT 2](https://open.spotify.com/album/2Lftl97zv6UtI2ZbsGra1a) | 3:17 | 2023-01-27 | 2023-02-18 |
 | [Can't Think \(Gave It Away, Pt\. 1\)](https://open.spotify.com/track/0gkIvDEDFtYhPc0CrplxkW) | [The Mercy Stone](https://open.spotify.com/artist/0tGb9I9vsWGTw3PSphK5Si) | [Above the Towers](https://open.spotify.com/album/6TwV0GyrSvSiKtSEWBf13l) | 3:16 | 2020-04-18 | 2020-04-25 |
 | [Can't Wait To See Ya](https://open.spotify.com/track/13NyxhxOJQhlg2dIic5hgr) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Can't Wait To See Ya](https://open.spotify.com/album/2HXys3j2q90cd2i9FTkRMx) | 3:10 | 2021-08-28 | 2021-09-12 |
+| [Candace](https://open.spotify.com/track/4NAui7VkRPsxUrLEfyTunx) | [Alejandro Brooks](https://open.spotify.com/artist/3ipfeuF3OdqWX0tXu3q6ri) | [Candace](https://open.spotify.com/album/49DIayGXOxsLYQTbfjewIz) | 3:13 | 2025-08-07 |  |
 | [candid](https://open.spotify.com/track/6oPXVymb5rwtgJ7DcyimkP) | [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz) | [Candid](https://open.spotify.com/album/12zKlJMUgJIXYD0b4yIH1Z) | 3:54 | 2023-03-10 | 2023-04-03 |
 | [Candles In Your Head](https://open.spotify.com/track/0RwK6sZmUgLRkVWNj44R3P) | [Hudson King](https://open.spotify.com/artist/331dEX85IjdEYqqPO1HrMG) | [Pigeon](https://open.spotify.com/album/0WBw2mv0CICGst1rBaiGxJ) | 8:00 | 2025-01-28 | 2025-02-09 |
 | [Candy](https://open.spotify.com/track/3B71EqCgrKLbTjH5T6aVYg) | [Stefany](https://open.spotify.com/artist/6bfhI8OUv54wrI4BgmjPAU) | [Candy](https://open.spotify.com/album/3dgkgNxN8MH8wFfgSO4TMR) | 1:56 | 2024-08-02 | 2024-08-14 |
@@ -3791,6 +3794,7 @@
 | [Run](https://open.spotify.com/track/4fki4uNG1ThYhYR3Mrhdh1) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Run](https://open.spotify.com/album/4Y9LXj1lAWs4FdmKltAtOk) | 3:55 | 2021-06-08 | 2021-07-08 |
 | [Run & Hide](https://open.spotify.com/track/4tSclwjvzvqrYa0LVxnoNt) | [Stefan Olovsson BrainZapArt](https://open.spotify.com/artist/6lltpKSCWQFsc6nRrFHoNm) | [Run & Hide](https://open.spotify.com/album/4tKW9s8wpqHFqPn3QMxSc4) | 2:58 | 2023-07-01 | 2023-07-21 |
 | [Run It Back](https://open.spotify.com/track/6SeiCfnZnNU5AQbRyhuS7c) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Run It Back](https://open.spotify.com/album/7rrtrAPUSWWuPDeb3QWNNo) | 3:08 | 2023-01-06 | 2023-01-28 |
+| [RUN RUN](https://open.spotify.com/track/77hONi1pxGMX803NZt6sPA) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [RUN RUN](https://open.spotify.com/album/7qM5VUcbg6robHJLaGKdMh) | 2:58 | 2025-08-07 |  |
 | [Run This Town](https://open.spotify.com/track/7cWgRe8WcttntZpo02APvj) | [dEVOLVE](https://open.spotify.com/artist/6kLN4GaYwfWUe0A4cnNS6d) | [Run This Town](https://open.spotify.com/album/3j437642y1aVymhEeGMbp2) | 2:40 | 2021-06-04 | 2021-06-20 |
 | [RUN!](https://open.spotify.com/track/0bM09wrsJLZmxEGDdLctIu) | [Daniyel](https://open.spotify.com/artist/4Zgs72EVDddJE8pa3oGC4L) | [RUN!](https://open.spotify.com/album/4HMQX23bbXdXBP8d1ePpWX) | 2:59 | 2025-04-14 | 2025-05-19 |
 | [runnin away](https://open.spotify.com/track/0hcFi3MlfVYiKrzykJCJET) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Monterey Village](https://open.spotify.com/album/7fi7G2xIoMwv6nR3Ht73rz) | 3:58 | 2022-09-02 | 2022-09-18 |
@@ -4005,7 +4009,7 @@
 | [Siya Saphaza](https://open.spotify.com/track/4WF3nKSa9QFhGmlYywB6C8) | [Luu Nineleven](https://open.spotify.com/artist/3KeANQfpzWH0OS18JMIU28), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Killer Kau](https://open.spotify.com/artist/53ZXQRpE0KfS0GRrgctR4R) | [Umculo wama nothi](https://open.spotify.com/album/1AiZcr0cm5HsD4ft9OYLfq) | 7:34 | 2021-08-13 | 2021-08-28 |
 | [Skeptical](https://open.spotify.com/track/2bTxWZMcOAbpfQRD0anbrc) | [The Active Set](https://open.spotify.com/artist/0WucsHpocbdOmgk4LuRCXO) | [Skeptical](https://open.spotify.com/album/5hHkijxg9HICw15ciAAsEv) | 3:26 | 2025-01-14 | 2025-01-26 |
 | [Skies](https://open.spotify.com/track/5WXwK38Qay3CXF0pG3BOWr) | [Daniel Fin](https://open.spotify.com/artist/6K1DLmkclHEoHMrO1mqb5z) | [Skies](https://open.spotify.com/album/3FNrGC942gQ92OwEWOEaiY) | 3:23 | 2021-12-24 | 2022-01-09 |
-| [Skinny Dipping](https://open.spotify.com/track/5lwsly944rxlv6o2ool4C9) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping](https://open.spotify.com/album/5rohcX0M6cNgydvdgbpChC) | 3:10 | 2025-07-04 |  |
+| [Skinny Dipping](https://open.spotify.com/track/5lwsly944rxlv6o2ool4C9) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping](https://open.spotify.com/album/5rohcX0M6cNgydvdgbpChC) | 3:10 | 2025-07-04 | 2025-08-08 |
 | [Skinny Love](https://open.spotify.com/track/0LTagj5gWcnyvh6TdMLBZ6) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Skinny Love](https://open.spotify.com/album/780xAjKlHtUR6o5qzMUzHc) | 2:51 | 2025-08-01 |  |
 | [Skull Cup](https://open.spotify.com/track/2YfNgAiHIBrYqu8plFclq6) | [Dr\. Apeman](https://open.spotify.com/artist/4QKhseyZBnZgBDGhl2yydH) | [Silk Road](https://open.spotify.com/album/2FJdRWMCsR2jAme7ms9v3a) | 2:25 | 2020-04-14 | 2020-04-22 |
 | [Sky Meets The Water](https://open.spotify.com/track/18d9BbwniBUyWW89NLN69p) | [Rio Sterling](https://open.spotify.com/artist/1Zf0m40qFe3lRQwhknz9yd) | [Sky Meets The Water](https://open.spotify.com/album/50NpwAZUVevndGt0NXf3KX) | 3:56 | 2025-05-15 | 2025-06-01 |
@@ -4178,6 +4182,7 @@
 | [Stay Away](https://open.spotify.com/track/5dOakQSSOOn6r3hxp3Yl4g) | [Rumour](https://open.spotify.com/artist/1HoOm6OAl4F6WNtBYF7fUE) | [Stay Away](https://open.spotify.com/album/3G71nY3tAsKBkoBSAi4ETC) | 2:54 | 2021-04-03 | 2021-04-18 |
 | [Stay For A While](https://open.spotify.com/track/17CLOw2AcXG4czZ6m8lKiZ) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Stay For A While](https://open.spotify.com/album/72RZ0DZsC3fiPiarjGquG0) | 2:53 | 2025-06-30 | 2025-07-24 |
 | [STAY FRIENDS](https://open.spotify.com/track/68nEOP3dEphz3tpd7eXFti) | [Bruklin](https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO) | [STAY FRIENDS](https://open.spotify.com/album/6MtKE4duJODVSVd9AkrtTf) | 2:40 | 2024-07-31 | 2024-08-12 |
+| [STAY GOLD](https://open.spotify.com/track/1mXE2B8JGdxMqr8kjk30Vg) | [Nick Draucker](https://open.spotify.com/artist/2u7ml9yIpo6madKs59WqYC) | [STAY GOLD](https://open.spotify.com/album/3nB2vKgXhCSWRPKx5Ws9rH) | 3:02 | 2025-08-07 |  |
 | [Stay Over](https://open.spotify.com/track/36yIvRSkhRIBpCD3qiRR1T) | [Anassa](https://open.spotify.com/artist/09p3sjSfBEDE6f9WUwEEgf) | [Stay Over](https://open.spotify.com/album/1M5S3aAflyUhHkWV1XOmmQ) | 2:48 | 2023-04-07 | 2023-04-30 |
 | [Stay The Night](https://open.spotify.com/track/2Yq8koklcbpOSVYMOvFWh4) | [Camryn Levert](https://open.spotify.com/artist/2HtNeBOFredlrp4D0LLyLB) | [Stay The Night](https://open.spotify.com/album/5Vkx33EQB76bLFLT56sOJT) | 3:13 | 2024-07-05 | 2024-07-17 |
 | [Stay the Night](https://open.spotify.com/track/4XTc27fFhOXrHgIYDlDRc9) | [Davis & The Love](https://open.spotify.com/artist/2McDkoUAzi43Yzhf6D27wB) | [Stay the Night](https://open.spotify.com/album/78XE8tp5b3cM8S6LJxp7fG) | 3:09 | 2024-10-26 | 2024-11-07 |

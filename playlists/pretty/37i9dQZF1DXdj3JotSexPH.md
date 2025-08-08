@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,184 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,182 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,16 +65,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 55 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 |
 | 56 | [GG Geena](https://open.spotify.com/track/7BCTs4GX9kQ3hvojt5vlLH) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [GG Geena](https://open.spotify.com/album/7Ea8OkBsX5UAw5G2aJ14b4) | 1:59 |
 | 57 | [Hiroshima](https://open.spotify.com/track/50CSLj1uwXwutKGyarD63g) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 1:38 |
-| 58 | [Bekhtisar](https://open.spotify.com/track/0tGbQm1mkA0is0MGnAbodj) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 4:52 |
-| 59 | [FOG](https://open.spotify.com/track/0TaJ7FYnHrlGFK6DR1FxFX) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [FOG](https://open.spotify.com/album/7i8mmO1nVFC5WwV0aoDHwP) | 3:15 |
+| 58 | [FOG](https://open.spotify.com/track/0TaJ7FYnHrlGFK6DR1FxFX) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [FOG](https://open.spotify.com/album/7i8mmO1nVFC5WwV0aoDHwP) | 3:15 |
+| 59 | [Bekhtisar](https://open.spotify.com/track/0tGbQm1mkA0is0MGnAbodj) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 4:52 |
 | 60 | [Lajl Aldar](https://open.spotify.com/track/6Mt9xxJ9RVgvMtN7Qqguv7) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Lajl Aldar](https://open.spotify.com/album/6j0XfhZLiWgfjb4m3x8mYB) | 2:20 |
 | 61 | [FUK SUMN](https://open.spotify.com/track/4eIYnlcgI2chjQBuW1VRr7) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93) | 3:29 |
-| 62 | [SHEDO F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHEDO F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 |
-| 63 | [Ya Zain El Zain](https://open.spotify.com/track/52uNdZCDUCgyVho9CnFun2) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Zain El Zain](https://open.spotify.com/album/3UrneICqeyutuEi8cibtyD) | 3:36 |
-| 64 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
+| 62 | [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 |
+| 63 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
+| 64 | [SHEDO F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHEDO F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 |
 | 65 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
-| 66 | [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 |
-| 67 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
+| 66 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
+| 67 | [Ya Zain El Zain](https://open.spotify.com/track/52uNdZCDUCgyVho9CnFun2) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Zain El Zain](https://open.spotify.com/album/3UrneICqeyutuEi8cibtyD) | 3:36 |
 | 68 | [فويقو](https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD) | [فويقو](https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0) | 2:12 |
 | 69 | [Sheila Sattar](https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh), [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Abdulaziz Al Shehri](https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 1:39 |
 | 70 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 |

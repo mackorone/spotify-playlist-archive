@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19131,
+  "num_followers": 19132,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
         "name": "Sad Boiii",
         "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 166026,
       "name": "Sad Boiii",
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -459,22 +459,18 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Hyperreal (Middle of the Night)",
-        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+        "name": "Cross My Heart and Hope to Die",
+        "url": "https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        },
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Hyperreal (Middle of the Night)",
-      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+      "duration_ms": 194480,
+      "name": "Cross My Heart and Hope to Die",
+      "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -495,18 +491,22 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Cross My Heart and Hope to Die",
-        "url": "https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO"
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
         }
       ],
-      "duration_ms": 194480,
-      "name": "Cross My Heart and Hope to Die",
-      "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO"
+      },
+      "artists": [
+        {
+          "name": "RIIKI REID",
+          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
         "name": "Holding Your Hand",
         "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 152603,
       "name": "Holding Your Hand",
       "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO"
-      },
-      "artists": [
-        {
-          "name": "RIIKI REID",
-          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
         "name": "Chrysalis",
         "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 201480,
       "name": "So Good",
       "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
         }
       ],
-      "duration_ms": 107232,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+      "duration_ms": 145445,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Harmless",
-        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
       },
       "artists": [
         {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
         }
       ],
-      "duration_ms": 145445,
-      "name": "Harmless",
-      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+      "duration_ms": 107232,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
     }
   ],
   "unique_name": "The Local List Aotearoa",

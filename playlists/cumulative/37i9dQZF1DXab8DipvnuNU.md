@@ -4,7 +4,7 @@
 
 > Essential tunes for time with the family.
 
-224 songs - 16 hr 49 min
+225 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [DWYCK](https://open.spotify.com/track/7vcepKD1pjulQvPOkiQmUe) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Nice & Smooth](https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 4:03 | 2023-08-30 | 2023-10-21 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-07-01 | 2023-06-17 |
 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2023-06-16 |  |
-| [Fantasy \(feat\. O.D.B.\)](https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [The Remixes](https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG) | 4:50 | 2020-07-23 |  |
+| [Fantasy \(feat\. O.D.B.\)](https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [The Remixes](https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG) | 4:50 | 2020-07-23 | 2025-08-08 |
 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 | 2020-07-23 | 2025-06-04 |
 | [Find a Way](https://open.spotify.com/track/054hu8JJu9GAtiDaar2pKM) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:23 | 2023-08-30 | 2023-10-21 |
 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 | 2021-07-01 |  |
@@ -169,6 +169,7 @@
 | [Playa Playa](https://open.spotify.com/track/7CxusEnUGQzaHZZVoxurYQ) | [Big Mike](https://open.spotify.com/artist/0nrUyKsdgzlKT6KpTcPhjA) | [Somethin' Serious](https://open.spotify.com/album/3huqsj2zWgtPUyktVpiKTz) | 4:48 | 2023-08-30 | 2023-10-21 |
 | [Po Pimp](https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f) | [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [Picture This](https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG) | 3:54 | 2023-08-30 | 2023-10-21 |
 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 | 2020-07-23 |  |
+| [Portuguese Love](https://open.spotify.com/track/0rEqoKxL9HGRRvtsQygeZn) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [It Must Be Magic](https://open.spotify.com/album/0ROB2BCrsG8kODFK5mxSf8) | 7:49 | 2023-06-16 |  |
 | [Raise Up](https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN) | [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Diary of a Sinner: 1st Entry](https://open.spotify.com/album/5HRSHdifYk7QXStjKB0SJZ) | 4:46 | 2023-08-30 | 2023-10-21 |
 | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/track/5wDeGgYjng63MbfVQyEt0O) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/album/7dQ80mhgZrxgzO0KdJkuBS) | 3:51 | 2021-07-01 | 2023-06-17 |
 | [Redbone](https://open.spotify.com/track/3Bo79uipvzIBiOAG4zJPcm) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [21st Century Funk](https://open.spotify.com/album/770DSqP3I7AwvIcd5pI6Od) | 5:26 | 2021-07-01 | 2022-11-13 |

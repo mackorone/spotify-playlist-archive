@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-578 songs - 1 day 8 hr 55 min
+579 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Kadhal Thenmozhi](https://open.spotify.com/track/4HOlSxEn9hm25gNyWmcQjS) | [Surya Venkat](https://open.spotify.com/artist/0oS6cE82qxeBJ46rWAfFtR), [Sonal Choubisa](https://open.spotify.com/artist/0a1IPTvmnggDJLT4lh12kP), [Pista](https://open.spotify.com/artist/5wOzaJ0pEfOlUKtF4GfRPo) | [Kadhal Thenmozhi](https://open.spotify.com/album/6JCKhZywZ6WS7wvHnVU4Xd) | 3:39 | 2025-04-17 | 2025-06-24 |
 | [Kadhal Thorkum Nerame](https://open.spotify.com/track/0v2L1vxSKgq2jlr6XJ7ieF) | [Chandru M](https://open.spotify.com/artist/5jo2LPSpHPzJETBUokdECR), [Megas Raj S](https://open.spotify.com/artist/1gwDcP6TvWG64xXZe7UOlG) | [Kadhal Thorkum Nerame](https://open.spotify.com/album/6BsSeSmxL81oaNfawnekfz) | 2:36 | 2024-02-14 | 2024-08-24 |
 | [Kadhal Uh?](https://open.spotify.com/track/01BndgNpF4DsLUsWantHH5) | [Nishadhan S](https://open.spotify.com/artist/6h4KOrq9XHWXwZ4KLzViQY), [Keshav Ram](https://open.spotify.com/artist/4ei0xbxMaki87T5fQIANx7), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Kadhal Uh?](https://open.spotify.com/album/4MGeosDYEeF5i3CKmgk2F4) | 4:25 | 2025-02-07 | 2025-06-04 |
+| [Kadhal Vanne](https://open.spotify.com/track/05RPimoruo8rGpAsE0tjy7) | [Nidhin Jo Jacob](https://open.spotify.com/artist/4MLMALTEsKnZaWnM0SbgUJ), [Sreekanth Sasikanth](https://open.spotify.com/artist/3l3KeRtoucqVgftnB1oHSy) | [Kadhal Vanne](https://open.spotify.com/album/3g1fnkfQNKSG2GAncfqBZt) | 2:46 | 2025-08-07 |  |
 | [Kadhal Vizhi](https://open.spotify.com/track/1P0qA4Mp697uuBQsm4J9AJ) | [ChaaiSmokers](https://open.spotify.com/artist/61E6hWD8uFULJv5S35vytj) | [Kadhal Vizhi](https://open.spotify.com/album/2wH6h441uGVIGArtLaERQ9) | 3:06 | 2024-09-30 | 2024-12-06 |
 | [Kadhal You](https://open.spotify.com/track/47cQUeWqy2jT39bS0gP7kG) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [Arun Rathor](https://open.spotify.com/artist/4CBF6drrY0At3ZQVex2Q6M) | [Kadhal You](https://open.spotify.com/album/2ZdDirLnKam2KMAjcsjD9M) | 2:54 | 2024-01-05 | 2024-07-30 |
 | [Kadhale Thonathadi](https://open.spotify.com/track/1YScueapf892eP1seINFrv) | [Abhimanyu](https://open.spotify.com/artist/6AClKP15SXi1bUXgQQHFFZ) | [Kadhale Thonathadi](https://open.spotify.com/album/2h3flI45rDX3D5aopTLT2o) | 3:57 | 2025-04-17 | 2025-07-04 |

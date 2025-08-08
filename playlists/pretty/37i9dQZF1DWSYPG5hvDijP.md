@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Nazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,312 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,324 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 12 | [Industry](https://open.spotify.com/track/736Q0FsMOUe4KZsHPHv9kL) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Time For Myself](https://open.spotify.com/album/12wsGFJITIbjmozKYAJ67C) | 3:02 |
 | 13 | [Contra Flow](https://open.spotify.com/track/2TZpzv7fLX7cMif7RFJWxO) | [Shinogun](https://open.spotify.com/artist/3TYyQaGY4U7XsW7Xe9OoAd), [ATH₹V](https://open.spotify.com/artist/6zlplf0txh3t0OYa3qvxA7), [SD Trojan](https://open.spotify.com/artist/3VDTWeuFLT1vx89QEa6iFE) | [Contra Flow](https://open.spotify.com/album/1s5sPOpUwUzQtJvO4wbQSN) | 3:03 |
 | 14 | [DND](https://open.spotify.com/track/5wgpJmwYY98fKBM8f5pjQT) | [Urban Poet](https://open.spotify.com/artist/5NLpRU1nXHu9TnrqgXPPRM), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [DND](https://open.spotify.com/album/4DB2aMkgBIQPERiInrKZbo) | 2:34 |
-| 15 | [My Talks](https://open.spotify.com/track/1OcLKWoZhy6T8jInZMdkPZ) | [Bawa Buster](https://open.spotify.com/artist/58BdWUHs4KNhUHv7fVxkGg), [Mr\. K](https://open.spotify.com/artist/5QHe78MtCdd1KYvhuTc58a) | [My Talks](https://open.spotify.com/album/2JssLAHf15VstvYEJxuEIj) | 1:34 |
+| 15 | [My Talks](https://open.spotify.com/track/1OcLKWoZhy6T8jInZMdkPZ) | [Bawa Buster](https://open.spotify.com/artist/58BdWUHs4KNhUHv7fVxkGg), [MR.K](https://open.spotify.com/artist/1HoLefmTyT1bhnQnLXbkt5) | [My Talks](https://open.spotify.com/album/2JssLAHf15VstvYEJxuEIj) | 1:34 |
 | 16 | [Change](https://open.spotify.com/track/1xB9ZYJLczMSLOli6B5JfA) | [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx) | [Change](https://open.spotify.com/album/6RhgiXmAgwdvjlUq9juRfI) | 3:36 |
 | 17 | [Fomo](https://open.spotify.com/track/1kO5IO00vN7udEHd2LR8JP) | [Anyme](https://open.spotify.com/artist/3pd9yD26xLo5mHgBHQdIX1), [Nikkisha](https://open.spotify.com/artist/12eSm5heyLSLNyyPRDM0v2), [SRQ](https://open.spotify.com/artist/7FkKkFF7G0At2BYyKRIBSc) | [FOMO](https://open.spotify.com/album/5zP2w2qkBuEGUCdO2lmu7N) | 2:59 |
 | 18 | [Seekha Kya?](https://open.spotify.com/track/37O4r8KPmlI0yhlkXWA10e) | [DHAWAL?](https://open.spotify.com/artist/4uiVo2Xb8h3rLaGyB1i21K), [Shrain](https://open.spotify.com/artist/56Nt6tte4BcBwiUgb7QNIs) | [Seekha Kya?](https://open.spotify.com/album/1McmfMYcrlTXku11bxVUp5) | 3:33 |

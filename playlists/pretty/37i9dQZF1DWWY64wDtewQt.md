@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,468,052 likes - 100 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,473,604 likes - 100 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DIA DELÍCIA](https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/6bKskOvtdva3ul5sCUAiV5) | 1:15 |
 | 2 | [LUNA BALA \- Slowed](https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LUNA BALA](https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz) | 2:04 |
 | 3 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 |
-| 4 | [MONTAGEM BAILÃO](https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh) | [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko), [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [MONTAGEM BAILÃO](https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ) | 1:43 |
+| 4 | [MONTAGEM BAILÃO](https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh) | [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [MONTAGEM BAILÃO](https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ) | 1:43 |
 | 5 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
 | 6 | [MONTAGEM XONADA](https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [DJ Javi26](https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj) | [MONTAGEM XONADA](https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7) | 1:15 |
 | 7 | [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC MAYAH](https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 |

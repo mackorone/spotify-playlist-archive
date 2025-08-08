@@ -213,6 +213,32 @@
     },
     {
       "album": {
+        "name": "Aisi Jannat",
+        "url": "https://open.spotify.com/album/36mS5HTfJfSqvb5sbMQl1g"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286101,
+      "name": "Aisi Jannat",
+      "url": "https://open.spotify.com/track/6f2XotATKktNU7WMJ9RbCf"
+    },
+    {
+      "album": {
         "name": "Aisi Mulaqaat",
         "url": "https://open.spotify.com/album/5tasBagj0tfQQj7Z9t2Qvi"
       },
@@ -246,7 +272,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 258213,
       "name": "Alvida - From \"Aankhon Ki Gustaakhiyan\"",
       "url": "https://open.spotify.com/track/5QhwUlrHVDVxoeYLZGsm3h"
@@ -1679,6 +1705,44 @@
     },
     {
       "album": {
+        "name": "Ishq Bukhaar (From \"Tehran\")",
+        "url": "https://open.spotify.com/album/3WTNT3qXCqh4ytg3aNhvom"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Elnaaz Norouzi",
+          "url": "https://open.spotify.com/artist/59l92FFLwKblV1LHUHYw43"
+        },
+        {
+          "name": "Noziya Karomatullo",
+          "url": "https://open.spotify.com/artist/4cMLibr2lV7dtTpNwonGLM"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187812,
+      "name": "Ishq Bukhaar - From \"Tehran\"",
+      "url": "https://open.spotify.com/track/3MCXs1s8WugM7UiHwSeIK8"
+    },
+    {
+      "album": {
         "name": "Ishq Mera (Feat. Esha Gupta)",
         "url": "https://open.spotify.com/album/5nyfbc7DahN9JT6R2iudhx"
       },
@@ -2480,7 +2544,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 181911,
       "name": "Mila Tujhe - From \"Aap Jaisa Koi\"",
       "url": "https://open.spotify.com/track/7l0XCPhhiM1JeR7kMCkEli"
@@ -2916,6 +2980,24 @@
       "duration_ms": 196395,
       "name": "Preet Re - From \"Dhadak 2\"",
       "url": "https://open.spotify.com/track/5IWLDqsSnQgBjXGiryDtTk"
+    },
+    {
+      "album": {
+        "name": "Pyar Karta Hun",
+        "url": "https://open.spotify.com/album/3rK3ONBSCYWEhkc0RFcWRg"
+      },
+      "artists": [
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207300,
+      "name": "Pyar Karta Hun",
+      "url": "https://open.spotify.com/track/3iQBeo3yasgForuxHz5gla"
     },
     {
       "album": {
@@ -4018,7 +4100,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 318217,
       "name": "Tum Ho Toh (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp"

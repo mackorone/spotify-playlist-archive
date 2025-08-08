@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Solace Out The Door
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,948 likes - 118 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,006 likes - 118 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

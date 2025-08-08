@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 ### [Naik Daun](https://open.spotify.com/playlist/37i9dQZF1DX7sD2LU79ZzQ)
 
-> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Deborah Hanna
+> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Xeva Al Gazel
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,947 likes - 126 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,962 likes - 126 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 125 | [Looking for Love in Wrong Places](https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Looking for Love in Wrong Places](https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp) | 4:05 |
 | 126 | [Seperti Cemara](https://open.spotify.com/track/5c6zSJlr4tHXewLs3s374p) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 3:24 |
 
-Snapshot ID: `AAAAAKTLd6CcEJSFl3QqGjbUqxJwfz2m`
+Snapshot ID: `AAAAAEeDTw4oLFPLitDgUl3eX89hYdhZ`

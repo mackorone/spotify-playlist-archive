@@ -4,7 +4,7 @@
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF?si=acOpl02vSlCqtRwqOxMu3A">Moonlight Afriqa</a>\. Artwork: Isu Kim.
 
-1,361 songs - 2 day 20 hr 9 min
+1,362 songs - 2 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Holy Matrimony](https://open.spotify.com/track/2eX98PAW2CqPzs2oAppzNp) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Holy Matrimony](https://open.spotify.com/album/4sx5zBW2lm99ArwCenBs6W) | 3:28 | 2023-06-05 | 2023-06-28 |
 | [Holy Water](https://open.spotify.com/track/2y1xpaTj1jeARHd3TcuWqk) | [B3du](https://open.spotify.com/artist/78ZuJ5VZRcH9BhXKXZmTzx) | [Holy Water](https://open.spotify.com/album/3NsSzs2fBYneQ2cBtv8GTl) | 2:12 | 2024-07-03 | 2024-08-08 |
 | [HOME](https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Karabo](https://open.spotify.com/artist/2nPtQTbG4YCBrkSftUoiG3) | [FOR YOU, FOREVER](https://open.spotify.com/album/6q8rLOzjZMAGt2M1f4syHl) | 3:22 | 2024-04-03 | 2024-05-02 |
+| [Home](https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Home](https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm) | 3:23 | 2025-08-07 |  |
 | [Honey \(K.I.S.S.I.N.G\)](https://open.spotify.com/track/3BP2NL1f7Q2OjfcfKW8dZx) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [Aurientation](https://open.spotify.com/album/5EiEQlGR045stLX3LSitAi) | 3:44 | 2024-03-06 | 2024-04-03 |
 | [Hope](https://open.spotify.com/track/3P2OZnZ6xpFYI7bWMB28ui) | [Nemisis Loso](https://open.spotify.com/artist/1TFtIpOdyzFIEiuEagyGi4) | [Hope](https://open.spotify.com/album/4PKXI1kFAKNwWgU1P0ruMC) | 3:17 | 2022-09-02 | 2022-10-01 |
 | [House Of Mirrors](https://open.spotify.com/track/0m52oHvaK7uThwe3HkumYY) | [TAYKATRIP](https://open.spotify.com/artist/31I01TL25gP5IiHHh0Xjez) | [House Of Mirrors](https://open.spotify.com/album/5LDVm6ENmcKqoQfWc4YzgK) | 3:28 | 2025-06-19 |  |

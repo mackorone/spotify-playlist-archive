@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: King & Prince
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: EVNNE
 
-669 songs - 1 day 13 hr 0 min
+670 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Stars](https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’ \(Special Edition\)](https://open.spotify.com/album/3UKyosnPDUiTp3mj9bMCLM) | 3:20 | 2024-01-31 | 2024-02-07 |
 | [Steal a Kiss](https://open.spotify.com/track/6km0i4QxDevx8KsN1F3k0H) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Just like 超特急](https://open.spotify.com/album/5vk1IqGTHZ5qJHaTcS8EU5) | 3:03 | 2024-04-16 | 2024-05-29 |
 | [Step by Step](https://open.spotify.com/track/1zLdLI3VhSChUB1vlA4GYG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Step by Step](https://open.spotify.com/album/4YqxNq9s42iBQ30nQsLlJD) | 3:24 | 2025-05-26 | 2025-07-22 |
+| [STEP IT UP](https://open.spotify.com/track/1FCj33CWl1pCJnDZZGpF1y) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [STEP IT UP](https://open.spotify.com/album/3MBiIPA9X5spqqQmnPlDu0) | 2:17 | 2025-08-07 |  |
 | [STEPPIN'](https://open.spotify.com/track/2zIBNnjKTQ0wpNW7369iQw) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [uNi](https://open.spotify.com/album/08xmveHVtLw1t4cb5fx02c) | 3:15 | 2025-03-25 | 2025-05-09 |
 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 | 2025-05-02 | 2025-07-02 |
 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 | 2024-07-09 | 2024-10-16 |

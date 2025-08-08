@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1849039,
+  "num_followers": 1849108,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Jerry Lee's Greatest",
         "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 211533,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "Wake up Little Susie",
-      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 185586,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "Wake up Little Susie",
+      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Magic Of Jo Stafford",
         "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 192560,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Buddy Knox",
-        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Knox",
-          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "Party Doll",
-      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Complete Hank Williams",
         "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 172133,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/2KJOfVTxWkbtRMGByeEQ7V"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Buddy Knox",
+        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+        }
+      ],
+      "duration_ms": 135173,
+      "name": "Party Doll",
+      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Essential Johnny Mathis 3.0",
-        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "It's Not for Me to Say - From the MGM Film \"Lizzie\"",
-      "url": "https://open.spotify.com/track/4g9ZMsnY0xpeG3OR8GRJne"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Get a Job",
         "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
       },
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "The Essential Johnny Mathis 3.0",
+        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "It's Not for Me to Say - From the MGM Film \"Lizzie\"",
+      "url": "https://open.spotify.com/track/4g9ZMsnY0xpeG3OR8GRJne"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Rama Lama Ding Dong EP",
         "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
       },
@@ -1875,22 +1875,6 @@
       "duration_ms": 147720,
       "name": "Rama Lama Ding Dong (Original version 1958)",
       "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Golden Hits Collection",
-        "url": "https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "Walkin' After Midnight",
-      "url": "https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1943,6 +1927,22 @@
       "duration_ms": 151106,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/4kh2S9hRpPvoF9JkwZcYGN"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Golden Hits Collection",
+        "url": "https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 154026,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b"
     },
     {
       "added_at": "2024-09-06 14:23:51",

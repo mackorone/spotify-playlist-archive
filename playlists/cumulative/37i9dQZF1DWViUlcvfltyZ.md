@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 Umarell \(e una bicicletta ¯\\\_\(ツ\)\_/¯ \) in cover
+> Rock, indie e punk dall'Italia 🎸 VAEVA in cover
 
-1,582 songs - 3 day 15 hr 46 min
+1,584 songs - 3 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Artificiali](https://open.spotify.com/track/45HpGvUyfD2sK90RcfbAcV) | [Neoprimitivi](https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne) | [Orgia mistero](https://open.spotify.com/album/1vugdoxJKiesWhn68Rugng) | 5:24 | 2025-03-27 |  |
 | [Artiminime](https://open.spotify.com/track/1wutWLkqvpzL6HkN8pgfJt) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Artiminime](https://open.spotify.com/album/1I9B8WrPUwiNxFXRWBclD5) | 3:25 | 2024-04-18 | 2024-05-03 |
 | [Artistico serale](https://open.spotify.com/track/5EBpMh8KabaQxYITlPd5nc) | [Lo Straniero](https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD) | [Falli a pezzi!](https://open.spotify.com/album/6Y5QkxB88qzpT3njgKH2LF) | 3:43 | 2022-06-30 | 2022-12-02 |
-| [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 |  |
+| [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 | 2025-08-08 |
 | [Assaggio](https://open.spotify.com/track/4AUvDIm0oTHqMHUYry1qbL) | [Alibi](https://open.spotify.com/artist/6vtDqOkppg14GMh5jq7tQv) | [Assaggio](https://open.spotify.com/album/01I4T6NBQ79WQ2Pp4kpFSr) | 3:13 | 2023-01-05 | 2023-02-03 |
 | [Assicurazioni Sanitarie](https://open.spotify.com/track/3E92nl2y48ffjIH9xn8p5y) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Assicurazioni Sanitarie](https://open.spotify.com/album/37qSGuvuboAAMzkGPYzGJe) | 3:37 | 2025-05-22 | 2025-07-11 |
 | [ASSOLO](https://open.spotify.com/track/73mlazOcJ2mD8SdQaYeVGN) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE) | [ASSOLO](https://open.spotify.com/album/723w7XUsnkgzhgbilXylzU) | 2:38 | 2022-05-09 | 2022-05-27 |
@@ -185,6 +185,7 @@
 | [Brescia inferno](https://open.spotify.com/track/6yS1MHKoyUkZJALqJulkDt) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Brescia inferno](https://open.spotify.com/album/4T9tZRxlEp5x36lUmYypr0) | 2:58 | 2024-03-07 | 2024-05-03 |
 | [Briciole](https://open.spotify.com/track/0WsYtbZjsv4oguJtVJvevh) | [Astruso](https://open.spotify.com/artist/3KAdDKm0QZlus9E20UaZlp) | [Guardare](https://open.spotify.com/album/02UAzCAkKXBy44EbmUTEpS) | 2:29 | 2024-02-08 | 2024-03-01 |
 | [Bright Black Hole](https://open.spotify.com/track/3cVTr5LRWm1ypwCUjfWN2t) | [Big Mountain County](https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm) | [Bright Black Hole](https://open.spotify.com/album/1B53G1w8WQBYc18ynX2waG) | 3:20 | 2024-11-14 | 2025-01-03 |
+| [Brilla](https://open.spotify.com/track/69794T4KbrULnP9yLn1nMW) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau) | [Brilla](https://open.spotify.com/album/5PxxsDsiDpxzLdDtJf8YAS) | 2:50 | 2025-08-07 |  |
 | [Broccoletti Goes Punk](https://open.spotify.com/track/1g8YIqdmnPl4B7YXtmWlKk) | [Marchiza](https://open.spotify.com/artist/1dyLjZ261DhTy6Qq2EmNJJ) | [Broccoletti Goes Punk](https://open.spotify.com/album/3NryFAzIjGgs8kWEdK06PR) | 2:39 | 2023-06-08 | 2023-06-30 |
 | [Brucia](https://open.spotify.com/track/43HCIcHLLc6VnoAlrb0P12) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:40 | 2024-10-24 |  |
 | [BRUCIARE](https://open.spotify.com/track/50K3P7uydZGdK2naBJeohX) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [BRUCIARE](https://open.spotify.com/album/4b5KqaR7e6S1q7OfTbZiXV) | 3:18 | 2022-12-15 | 2023-02-17 |
@@ -473,6 +474,7 @@
 | [Fascicolo](https://open.spotify.com/track/4Fcx1JUbfBCJXa1y6NTvvL) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Fascicolo](https://open.spotify.com/album/15HdBdKwZhIzxV6TyOZw6o) | 2:42 | 2024-01-18 | 2024-04-12 |
 | [FATT A ROT](https://open.spotify.com/track/2JHHDgAwZzUOSvssfiGCtA) | [Zack](https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO) | [FATT A ROT](https://open.spotify.com/album/7GWhDLkh4mVZzU9fjw6oct) | 2:23 | 2024-04-25 | 2024-05-17 |
 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 | 2022-06-17 | 2023-06-02 |
+| [Feather on a Glass](https://open.spotify.com/track/7uI3aVIRO2qQRxVJdd3zVG) | [Asymmetric Universe](https://open.spotify.com/artist/7eQvcbsRwRagthh73MJgzo) | [Feather on a Glass](https://open.spotify.com/album/1NCIwPv6j1oFDXOXTLAT2a) | 5:16 | 2025-08-07 |  |
 | [Federico](https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2) | [Oratio](https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn), [RENEE](https://open.spotify.com/artist/3aDh7Ke1Zh28igid7zJhmZ) | [Cinque canzoni](https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug) | 3:43 | 2024-07-11 | 2024-09-13 |
 | [Feel Alright](https://open.spotify.com/track/6Si8KLFhqyJvGwjg3D6gWS) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [Feel Alright](https://open.spotify.com/album/6PNAcCTNYU5LHCeUncMFOf) | 3:20 | 2025-03-27 | 2025-05-30 |
 | [Felice chi non è ancora nato](https://open.spotify.com/track/4zcKPzqv6qR0nROOhrazQz) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Felice chi non è ancora nato](https://open.spotify.com/album/18peU2N8gGnBOuFv2qM99Y) | 3:38 | 2024-09-19 | 2024-11-08 |
@@ -1023,7 +1025,7 @@
 | [Odio cantare](https://open.spotify.com/track/4fUXe5nUnuS2kfFqBxdiBg) | [La Municipàl](https://open.spotify.com/artist/1wQ8rxWLB8fPUHx49l3q5L) | [Odio cantare](https://open.spotify.com/album/6UpP1ZI5035IGbZgBPGKnL) | 3:57 | 2024-05-02 | 2024-06-28 |
 | [OFF MY FACE](https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:29 | 2023-12-14 | 2024-03-01 |
 | [Oggetto di scena](https://open.spotify.com/track/5CYopiVAQFnRLiBan17BbX) | [Chivàla](https://open.spotify.com/artist/2aG1EHtNL5uPbCVPEuzTJH) | [Oggetto di scena](https://open.spotify.com/album/4J7i2Jlyua1B2pAo6yl3Nf) | 4:02 | 2024-10-24 | 2025-01-10 |
-| [ogni tanto fa un gesto chiaro](https://open.spotify.com/track/517bF2a83xOmG6iKItY7bJ) | [LENORE](https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT) | [ogni tanto fa un gesto chiaro](https://open.spotify.com/album/5k8pKG9krxD9Ijd4rJ56Zx) | 2:17 | 2025-06-05 |  |
+| [ogni tanto fa un gesto chiaro](https://open.spotify.com/track/517bF2a83xOmG6iKItY7bJ) | [LENORE](https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT) | [ogni tanto fa un gesto chiaro](https://open.spotify.com/album/5k8pKG9krxD9Ijd4rJ56Zx) | 2:17 | 2025-06-05 | 2025-08-08 |
 | [Oh Feel You](https://open.spotify.com/track/5vYQisDox6lmvSXzHEoIZE) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Soaked and See\-Through](https://open.spotify.com/album/6PADWXOhUfDfXCTanEmfiD) | 4:03 | 2025-05-01 | 2025-06-13 |
 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 | 2022-05-12 | 2022-05-27 |
 | [Okey \(Unsolved\)](https://open.spotify.com/track/2aFLQXjaxK37rG6w4WqM9K) | [PIPYA](https://open.spotify.com/artist/4MopKRVZ6lyknlOml9P0Zz) | [And the Gangband Vol\. I](https://open.spotify.com/album/5d75e3Qi8Nao1CloFB1bgy) | 4:57 | 2024-05-16 | 2024-06-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jigsaw Story, MONICA",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jaonaay",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 233103,
       "name": "I love you a latte",
       "url": "https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 219200,
       "name": "See You Somewhere - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
       "url": "https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX"
@@ -740,6 +740,28 @@
       "duration_ms": 197932,
       "name": "Shall We",
       "url": "https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB"
+    },
+    {
+      "album": {
+        "name": "LAST SUPPER - SIDE B",
+        "url": "https://open.spotify.com/album/7Cwg28QVPHraLvr0Z4mn3h"
+      },
+      "artists": [
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157033,
+      "name": "SHE IS TOTALLY OUT OF MY LEAGUE (feat. Z9)",
+      "url": "https://open.spotify.com/track/2UzdM3S5SrnjLCwQsleGrM"
     },
     {
       "album": {
@@ -1554,7 +1576,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 228000,
       "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e17\u0e35\u0e48\u0e23\u0e2d\u0e1d\u0e19 (spring)",
       "url": "https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi"
@@ -1688,6 +1710,24 @@
       "duration_ms": 196896,
       "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
       "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
+        "url": "https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv"
+      },
+      "artists": [
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
+      "url": "https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1"
     },
     {
       "album": {
@@ -1851,6 +1891,42 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e38\u0e01\u0e01\u0e32\u0e23\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e21\u0e35\u0e09\u0e31\u0e19\u0e04\u0e2d\u0e22\u0e0b\u0e31\u0e1e\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e2a\u0e21\u0e2d",
+        "url": "https://open.spotify.com/album/4w8jrwZXcPv7fol2mFi91A"
+      },
+      "artists": [
+        {
+          "name": "FULL",
+          "url": "https://open.spotify.com/artist/33qb8ygOiyswUe29Dv5FRE"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "\u0e17\u0e38\u0e01\u0e01\u0e32\u0e23\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e21\u0e35\u0e09\u0e31\u0e19\u0e04\u0e2d\u0e22\u0e0b\u0e31\u0e1e\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e2a\u0e21\u0e2d",
+      "url": "https://open.spotify.com/track/4U38O9pdKGcqKwnoo500pg"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e49\u0e32\u0e22\u0e1b\u0e35",
+        "url": "https://open.spotify.com/album/3XkGjScNhOcPSdNal19vVx"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285843,
+      "name": "\u0e17\u0e49\u0e32\u0e22\u0e1b\u0e35",
+      "url": "https://open.spotify.com/track/5XGTehBbNk1y0KrdkI1qsK"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e49\u0e32\u0e22\u0e1b\u0e35 - Single",
         "url": "https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG"
       },
@@ -1862,7 +1938,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 285843,
       "name": "\u0e17\u0e49\u0e32\u0e22\u0e1b\u0e35",
       "url": "https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG"
@@ -1898,7 +1974,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 207387,
       "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
@@ -3250,6 +3326,24 @@
       "duration_ms": 332459,
       "name": "\u0e41\u0e2d\u0e1a\u0e40\u0e01\u0e47\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e43\u0e19\u0e43\u0e08\u0e44\u0e27\u0e49\u0e20\u0e32\u0e22\u0e43\u0e19\u0e41\u0e27\u0e48\u0e19\u0e40\u0e23\u0e22\u0e4c\u0e41\u0e1a\u0e19\u0e2a\u0e35\u0e14\u0e33",
       "url": "https://open.spotify.com/track/6sowsQcSP7ThATfccaEk1S"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e17\u0e31\u0e49\u0e07\u0e43\u0e1a",
+        "url": "https://open.spotify.com/album/6eN1MV5bdmZbuwgUcoTC21"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e25\u0e47\u0e01 \u0e23\u0e31\u0e0a\u0e40\u0e21\u0e28\u0e10\u0e4c",
+          "url": "https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u0e42\u0e25\u0e01\u0e17\u0e31\u0e49\u0e07\u0e43\u0e1a",
+      "url": "https://open.spotify.com/track/0L5mkLRkk05Mfz4Tk0zU70"
     },
     {
       "album": {

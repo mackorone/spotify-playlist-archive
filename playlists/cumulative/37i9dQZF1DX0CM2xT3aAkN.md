@@ -4,7 +4,7 @@
 
 > Relaxing choral and instrumental classical music from the Renaissance era.
 
-115 songs - 8 hr 28 min
+116 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ave verum corpus](https://open.spotify.com/track/3qEdYPoeOb1hdAGk6H3tVR) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Voices of Ascension Chorus](https://open.spotify.com/artist/4AjjMZxILxc83KJAEuwu9j), [Dennis Keene](https://open.spotify.com/artist/16e7cTpnxHfo8KnwinUysN) | [Choral Music \- Palestrina, G\. / Josquin Des Prez / Viadana, L\. / Viadana, L\. / Victoria, T\. / Byrd, W\. \(Beyond Chant Mysteries of the Renaissance\)](https://open.spotify.com/album/3iN0L9TZEq3h6Jk24trWd2) | 4:21 | 2022-07-18 | 2022-07-30 |
 | [Basciami mille volte a 5 voci](https://open.spotify.com/track/5oJJnduRb8r9aSltq0Pkpw) | [Luca Marenzio](https://open.spotify.com/artist/3M0Vsjmhfly4PRGywWmNYX), [Rinaldo Alessandrini](https://open.spotify.com/artist/1CqIIrCkdFMduTzAdIaeZb) | [Marenzio: Madrigali, Libro II](https://open.spotify.com/album/75Hsh9Fuz29nIYkBI7VSqi) | 2:02 | 2017-03-20 | 2022-07-19 |
 | [Byrd: Ave Verum Corpus](https://open.spotify.com/track/7J6b58JOnf4RGGqJmxq0bD) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Peter Phillips](https://open.spotify.com/artist/3Yu1KWrCZ0X79c0BhryYPk), [The Tallis Scholars](https://open.spotify.com/artist/3vENFkiF5PZRluBBtQiwcG) | [The Tallis Scholars Sing William Byrd](https://open.spotify.com/album/5o2Vzb7bgZHzE5sHh2T38o) | 4:10 | 2025-01-10 |  |
+| [Byrd: Pavana Lachrymae \(After Dowland's "Flow My Tears"\)](https://open.spotify.com/track/260JWBv08epfPoeymZvNsV) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Byrd: Pavana Lachrymae \(After Dowland's "Flow My Tears"\)](https://open.spotify.com/album/1o0o3XFftWapBPrQaaSP8D) | 5:13 | 2025-08-07 |  |
 | [Canzonette, Book 1: La fiera vista](https://open.spotify.com/track/6kf3YXPXGYZhtmQvudDupK) | [Claudio Monteverdi](https://open.spotify.com/artist/5iAhVgz6P8Nylxijb0C65v), [Concerto Delle Dame Di Ferrara](https://open.spotify.com/artist/74chbSDVGq6k2GlpDUnoaz), [Sergio Vartolo](https://open.spotify.com/artist/6k9Hw95sRA2iEddXRThBVJ) | [Monteverdi: Canzonette](https://open.spotify.com/album/1Fz9PdbN94qnDHI9ihol5l) | 5:55 | 2016-02-21 | 2022-07-19 |
 | [Christus resurgens](https://open.spotify.com/track/2MS1LzqWFA4DHsW5qsY4QD) | [Peter Philips](https://open.spotify.com/artist/6OWrmsoh7ZSdfgxt5Zs5cp), [Sarum Consort](https://open.spotify.com/artist/11icabivYapIjLmWcqniar), [Andrew Mackay](https://open.spotify.com/artist/6Vj4z5Oz6ptaVECzSLIt9r) | [Philips: Cantiones Sacrae Quinis et Octonibus Vocibus \(Antwerp 1612 & 1613\)](https://open.spotify.com/album/5fIvBSiuNr3GNw4i1Nrjfu) | 3:43 | 2016-02-21 |  |
 | [Come Again, Sweet Love Doth Now Invite](https://open.spotify.com/track/0O53MwxOS57Fa0Bz6UlPyg) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Taracea](https://open.spotify.com/artist/73Y6L7FNuUKv9TB3nWt1w0), [David Mayoral](https://open.spotify.com/artist/7MFGbCerKNeV79mwPju0eK) | [Come Again, Sweet Love Doth Now Invite](https://open.spotify.com/album/7eFanoWLIjHtPJ6VwgPJ32) | 5:12 | 2022-07-18 |  |

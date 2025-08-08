@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Maldito ChatGPT&quot; , Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Rauw Alejandro
 
-904 songs - 2 day 0 hr 7 min
+905 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-01 |  |
 | [Llueve](https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Llueve](https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD) | 4:09 | 2022-05-26 | 2023-05-26 |
 | [Lo Aprendí de Ti](https://open.spotify.com/track/0fip1wGAK0cDuk2gnK6H0E) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Piano y Mujer II](https://open.spotify.com/album/0PlPEqIeW4t3oTa0biWs0C) | 3:50 | 2022-11-25 | 2023-06-02 |
+| [lo que pase](https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase](https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO) | 2:32 | 2025-08-08 |  |
 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Lo Que un Hombre Debería Saber](https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi) | 3:14 | 2022-03-18 | 2023-05-26 |
 | [LO TENGO](https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Lo Tengo](https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU) | 2:47 | 2022-11-28 | 2023-05-26 |
 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:17 | 2022-07-29 |  |

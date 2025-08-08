@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 
 > 528 Hz solfeggio frequencies used by many to activate positive energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,500 likes - 212 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,918 likes - 212 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 | 211 | [Calm Contemplations 528 Hz](https://open.spotify.com/track/74g30V8Gyg9ihti7rurP1v) | [Elnas](https://open.spotify.com/artist/55WeSuvEkyLLgJjDU2zAO0) | [Calm Contemplations 528 Hz](https://open.spotify.com/album/3yTNVKmxfkMA7yyEJPTFdx) | 3:28 |
 | 212 | [Warm Light 528 Hz](https://open.spotify.com/track/0K63aGIdMRvLiODv0Joaxe) | [Mindra](https://open.spotify.com/artist/3YfVff4wWeiUd5Cmbl3VLm) | [Warm Light EP](https://open.spotify.com/album/4nCc1RosiutNoEOx33MWcC) | 2:33 |
 
-Snapshot ID: `AAAAAE9Itv/dBlgaSj5CNzy+80MTZQ7J`
+Snapshot ID: `AAAAAGeMmz6rkX20YKEQackcyhaFTt2E`

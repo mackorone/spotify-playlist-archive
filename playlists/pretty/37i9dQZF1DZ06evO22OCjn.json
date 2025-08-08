@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 321451,
+  "num_followers": 321543,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADv+wNiOUh50e0vyeDdpbBg",
+  "snapshot_id": "aJKbAAAAAADj0gL6mjSqWMRh6LfYLNga",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 245920,
-      "name": "23",
-      "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
       "duration_ms": 159250,
       "name": "Loved By You (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Real Life (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ"
     },
     {
       "added_at": null,
@@ -703,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Want It All",
         "url": "https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj"
       },
@@ -735,6 +699,22 @@
       "duration_ms": 232500,
       "name": "Want It All",
       "url": "https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 223390,
       "name": "On Form",
       "url": "https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Real Life (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
     }
   ],
   "unique_name": "This Is Burna Boy",

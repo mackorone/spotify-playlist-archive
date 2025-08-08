@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,619 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,697 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 36 | [Sunset On The Shore](https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4) | [Android Apartment](https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK) | [DaFuture Is Now](https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s) | 2:51 |
 | 37 | [Hide & Seek](https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Muse](https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH) | 2:44 |
 | 38 | [Ｂｒｅａｋｉｎｇ　Ａｗａｙ](https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [ナイトライフ](https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK) | 3:48 |
-| 39 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
-| 40 | [Crazy Nights](https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N) | [Future Girlfriend Music](https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB) | [Pink Dance EP](https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV) | 2:33 |
-| 41 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
-| 42 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
+| 39 | [Crazy Nights](https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N) | [Future Girlfriend Music](https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB) | [Pink Dance EP](https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV) | 2:33 |
+| 40 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
+| 41 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
+| 42 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
 | 43 | [I Found You \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [I Found You \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb) | 2:32 |
 | 44 | [Niito na Gogosanji \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Night Tempo Presents the Showa Groove](https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR) | 3:58 |
 | 45 | [Static Startup](https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 3:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 95 | [Summer Splash](https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Summer Splash](https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6) | 3:47 |
 | 96 | [Dizzy Dream](https://open.spotify.com/track/05Jt5VDLzONX0wNK7v6B1U) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Dizzy Dream](https://open.spotify.com/album/4g3u7WfYQsbQ5UTCwCgudZ) | 2:50 |
 | 97 | [TIMERIDER 1983](https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 3:08 |
-| 98 | [Wa Ha Ha \(Iden Kai Remix\)](https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e), [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Wa Ha Ha \(Iden Kai Remix\)](https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38) | 2:28 |
-| 99 | [Le Knight Club Is Playing at My House](https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Goodbye Future Funk](https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj) | 3:36 |
+| 98 | [Le Knight Club Is Playing at My House](https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Goodbye Future Funk](https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj) | 3:36 |
+| 99 | [Wa Ha Ha \(Iden Kai Remix\)](https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e), [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Wa Ha Ha \(Iden Kai Remix\)](https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38) | 2:28 |
 | 100 | [I Didn't Know](https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:22 |
 
 Snapshot ID: `AAAAALeEMQ4u4g+tJ+p11F/YOMDp0VtG`

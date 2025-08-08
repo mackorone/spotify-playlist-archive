@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5T3bEdkDNnvnAjPdA5dH6M">ROSALÍA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,419 likes - 72 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,420 likes - 72 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 | 46 | [CAPRICHOSO](https://open.spotify.com/track/3Fm7EFSuLlW8KqWTPIYLZH) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 2:47 |
 | 47 | [Catalina](https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 3:34 |
 | 48 | [SAKURA](https://open.spotify.com/track/15pRGUlhmCxtewBs42ui1N) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:21 |
-| 49 | [Abcdefg](https://open.spotify.com/track/1V32pCGXZMgcmXd5MUMDL1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:05 |
-| 50 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
+| 49 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
+| 50 | [Abcdefg](https://open.spotify.com/track/1V32pCGXZMgcmXd5MUMDL1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:05 |
 | 51 | [MALDICIÓN \- Cap.10: Cordura](https://open.spotify.com/track/5IIXMynH8cxC8is6MaqdF7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:55 |
 | 52 | [NANA \- Cap.9: Concepción](https://open.spotify.com/track/0r6AxesiTSiCyJIIOpVYrv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:17 |
 | 53 | [RENIEGO \- Cap.5: Lamento](https://open.spotify.com/track/5meAAp6VRNKT4cR3CvKkfU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:28 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 | 71 | [Nothing’s Special](https://open.spotify.com/track/42XBr4TCOHEz2SP4vUsBGp) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Magic Oneohtrix Point Never \(Blu\-ray Edition\)](https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy) | 3:32 |
 | 72 | [Mil Razones](https://open.spotify.com/track/21gOeRf8D8rLN4xbkwNgTY) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mil Razones](https://open.spotify.com/album/0IV1SE6tUNzoLDdBSSVBdT) | 2:46 |
 
-Snapshot ID: `Ab4zvAAAAADI+Abt8shm1V0wiSQIVzS0`
+Snapshot ID: `Ab45XAAAAADd4aTY/dZHSm403hZR1mwn`

@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/339857">連動記事</a>をSPICEでチェック!
 
-11,511 songs - 30 day 0 hr 46 min
+11,512 songs - 30 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7036,6 +7036,7 @@
 | [Un Poco Loco](https://open.spotify.com/track/6QGESpJ5Olu3J9EAbdyvED) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Un Poco Loco](https://open.spotify.com/album/11ulHNjlgRjdpi8gASI1XA) | 4:25 | 2024-10-01 | 2024-10-09 |
 | [UN\-APEX](https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [UN\-APEX](https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl) | 4:20 | 2025-01-07 | 2025-01-15 |
 | [Unbalanced Blend](https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Unbalanced Blend](https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz) | 5:19 | 2024-10-09 | 2024-10-16 |
+| [Unbound](https://open.spotify.com/track/5EbiodhQuI6g58AC43RtEu) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Unbound](https://open.spotify.com/album/5tAtAEYw3APBdGHEAfhri7) | 3:42 | 2025-08-06 |  |
 | [UNBREAKABLE](https://open.spotify.com/track/6ADm4DCsnNeNfd2rFQO2iW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [UNBREAKABLE](https://open.spotify.com/album/6CyJ71Q6qKEPmpaIOGEJVu) | 2:51 | 2024-10-22 | 2024-10-30 |
 | [Unbrella](https://open.spotify.com/track/4SbVSywrb6KAFL7bmkRPeQ) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [Unbrella](https://open.spotify.com/album/3PYWpC6fvvPb697usfHK9U) | 2:47 | 2025-03-19 | 2025-03-26 |
 | [Uncertain](https://open.spotify.com/track/6kLHxXiWtwEl5rQjoBf938) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [The Ordinary Road](https://open.spotify.com/album/63MASYAm1P8vyAnSPXYuHL) | 4:26 | 2024-10-29 | 2024-11-06 |

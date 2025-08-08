@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,689 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,676 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 43 | [Better Place \- Tiësto Remix](https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 3:02 |
 | 44 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 |
 | 45 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
-| 46 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 |
-| 47 | [Loco](https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP) | [Nora & Chris](https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg), [Alex Martin](https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c) | [Loco](https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH) | 2:10 |
+| 46 | [Loco](https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP) | [Nora & Chris](https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg), [Alex Martin](https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c) | [Loco](https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH) | 2:10 |
+| 47 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 |
 | 48 | [Shine](https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Shine](https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM) | 2:00 |
 | 49 | [Chasing Cars](https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Chasing Cars](https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU) | 2:51 |
 | 50 | [It's A Hard Knock Life \- Prezioso Remix](https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [It's A Hard Knock Life \(Prezioso Remix\)](https://open.spotify.com/album/6SNomlenerzizegZNU4yoU) | 2:29 |

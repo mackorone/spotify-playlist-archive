@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 143 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 143 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 25 | [Messiah](https://open.spotify.com/track/5yRDS8rO2nWrNxcVcsCPl4) | [M\-Phazes](https://open.spotify.com/artist/4B1CeNsCcLfOvRBJ34UUSX), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Messiah](https://open.spotify.com/album/3oDCT5J0RlH4eGNFX51szn) | 3:43 |
 | 26 | [Godless](https://open.spotify.com/track/1eTL8yocTmire9gpOn2H2g) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:10 |
 | 27 | [Bones](https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw) | [Equinox](https://open.spotify.com/artist/6Q7UV9Oa87GypGTKiuOh6f) | [Bones](https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk) | 2:59 |
-| 28 | [TOXIC PARADISE](https://open.spotify.com/track/336xpOy7PR8gF0zzAXh2mQ) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [TOXIC PARADISE](https://open.spotify.com/album/0r2ZftNO3ZRsZuwquvPP7P) | 3:01 |
-| 29 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
+| 28 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
+| 29 | [TOXIC PARADISE](https://open.spotify.com/track/336xpOy7PR8gF0zzAXh2mQ) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [TOXIC PARADISE](https://open.spotify.com/album/0r2ZftNO3ZRsZuwquvPP7P) | 3:01 |
 | 30 | [Two Sides \(I’m So Gemini\) \- Single Version](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 |
 | 31 | [How Soon](https://open.spotify.com/track/1oG2Ool6Y60sPNsOTjLeeF) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Where Do We Go From Here?](https://open.spotify.com/album/0NnR23e1w5XEVCDaUYXrlP) | 3:10 |
 | 32 | [Sadness](https://open.spotify.com/track/6R4fwYApPpBROATC6gLl10) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Good Cry](https://open.spotify.com/album/4X3qM37B4hEZIHIq5nGsMv) | 2:41 |
@@ -100,14 +100,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 90 | [Scars](https://open.spotify.com/track/2W4WKyY97XlPzUOuj0x2ac) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:40 |
 | 91 | [Fuck Me Up](https://open.spotify.com/track/1VcwifrNRxSIkHtqy13vax) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/32NQLuqP0xjHSjjD9Peb4N) | 3:07 |
 | 92 | [One and Lonely](https://open.spotify.com/track/0br1EHWkZNvoi0KFruBUVX) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [One and Lonely](https://open.spotify.com/album/0yZFcNibtzlDg4r4Molxyk) | 3:04 |
-| 93 | [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 |
-| 94 | [WhatsInIt4Me](https://open.spotify.com/track/6mjnnbzOvYjlKWIlnT6lff) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [WhatsInIt4Me](https://open.spotify.com/album/7xZDLjNaD5tLuQuJKoUvfF) | 2:15 |
+| 93 | [WhatsInIt4Me](https://open.spotify.com/track/6mjnnbzOvYjlKWIlnT6lff) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [WhatsInIt4Me](https://open.spotify.com/album/7xZDLjNaD5tLuQuJKoUvfF) | 2:15 |
+| 94 | [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 |
 | 95 | [Slow Dive \(feat\. Bea Miller\)](https://open.spotify.com/track/0e3lesSPndGuqQbZdwSimE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 3:48 |
 | 96 | [No Better \(From The Netflix Film “Ultraman: Rising”\)](https://open.spotify.com/track/4QppwYvXCur9VbZXKDrFtO) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [No Better \(From The Netflix Film “Ultraman: Rising”\)](https://open.spotify.com/album/7xHzBLtg5kyEa6TRHaEuHZ) | 3:02 |
 | 97 | [Actress](https://open.spotify.com/track/4zgIOCDE23hczp6120IZ5N) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 3:58 |
 | 98 | [Growing Up](https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd) | [LIL TAY](https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3) | [Growing Up](https://open.spotify.com/album/3kC4SEY8Pp64HEhOukYZHm) | 3:53 |
-| 99 | [EMPATHY](https://open.spotify.com/track/7EpON15U12btUd6zamNiR3) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [THE ROAD TO CLOSURE](https://open.spotify.com/album/3YIJtPT5HcicPCTTHzMZWo) | 3:15 |
-| 100 | [DON'T GO](https://open.spotify.com/track/5tUB2wLW8Cm7yovnJMNjNK) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DON'T GO](https://open.spotify.com/album/099NpAg36lYBfjHhlm0cbC) | 2:27 |
+| 99 | [DON'T GO](https://open.spotify.com/track/5tUB2wLW8Cm7yovnJMNjNK) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DON'T GO](https://open.spotify.com/album/099NpAg36lYBfjHhlm0cbC) | 2:27 |
+| 100 | [EMPATHY](https://open.spotify.com/track/7EpON15U12btUd6zamNiR3) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [THE ROAD TO CLOSURE](https://open.spotify.com/album/3YIJtPT5HcicPCTTHzMZWo) | 3:15 |
 | 101 | [Body](https://open.spotify.com/track/5VyjnK3NmjFjSUoG4qbqLy) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:18 |
 | 102 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 |
 | 103 | [我愛](https://open.spotify.com/track/0pm2Rm1YKgBQecvDw6c2Mm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [1212](https://open.spotify.com/album/0VL0WIykCkgOboLrdL8iM8) | 3:46 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 142 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 143 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Ab4zvAAAAADr90P8ZgQZhL3qdssfSx4/`
+Snapshot ID: `Ab45XAAAAACR5nwrLCA7lZ3uh3SORCvY`

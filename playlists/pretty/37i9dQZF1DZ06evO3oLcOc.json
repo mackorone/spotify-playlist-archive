@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 227263,
+  "num_followers": 227284,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAAfIcjhZFOsm6i8n42de+d",
+  "snapshot_id": "aJKbAAAAAAB90Xl+XDWIE3nKJfIz6GoW",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "Kim Kardashian",
-      "url": "https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 254693,
       "name": "Bitches N Marijuana (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "Kim Kardashian",
+      "url": "https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC"
     },
     {
       "added_at": null,

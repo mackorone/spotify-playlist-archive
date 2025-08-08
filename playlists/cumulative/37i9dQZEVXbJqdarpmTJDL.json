@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 217110,
       "name": "Alitiki Agapi",
       "url": "https://open.spotify.com/track/4cevw8iIIMDXzI0XIEnCpv"
@@ -3522,7 +3522,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 274666,
       "name": "Antigonidon",
       "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
@@ -8492,6 +8492,24 @@
       "duration_ms": 195053,
       "name": "Chacha",
       "url": "https://open.spotify.com/track/6Fpi76OfQzByjPqBmp8CT0"
+    },
+    {
+      "album": {
+        "name": "Chalkidiki",
+        "url": "https://open.spotify.com/album/1gHrBl094x0wH6UbVPjgUK"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113814,
+      "name": "Chalkidiki",
+      "url": "https://open.spotify.com/track/3EmR858O6GqY9QCPOowflb"
     },
     {
       "album": {
@@ -14824,7 +14842,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 189333,
       "name": "Fanaria",
       "url": "https://open.spotify.com/track/6lM8wgaCtzod83yWP1BmnK"
@@ -20176,7 +20194,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 168888,
       "name": "ILEGAL",
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
@@ -33385,6 +33403,28 @@
     },
     {
       "album": {
+        "name": "P.O.S.",
+        "url": "https://open.spotify.com/album/2Shh4sMBBv3Uq5Klg9n2xd"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141406,
+      "name": "P.O.S.",
+      "url": "https://open.spotify.com/track/0VzLi4og9pVyuoo4jfjkWw"
+    },
+    {
+      "album": {
         "name": "Padou",
         "url": "https://open.spotify.com/album/0PQUJxFFC8ihijNUuHCY0M"
       },
@@ -33904,6 +33944,10 @@
         {
           "name": "Beyond",
           "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "M\u00e0du",
+          "url": "https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI"
         }
       ],
       "date_added": "2025-08-02",

@@ -2,7 +2,7 @@
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Simge ve haftanın en iyi çıkışları!
+> cakal, Serdar Ortaç ve haftanın en iyi çıkışları!
 
 2,449 songs - 5 day 3 hr 8 min
 

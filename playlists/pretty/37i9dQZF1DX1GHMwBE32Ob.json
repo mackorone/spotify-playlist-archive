@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Rema",
-  "num_followers": 102264,
+  "num_followers": 102395,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
         "name": "Hey Jago",
         "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 125284,
       "name": "Hey Jago",
       "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 322209,
-      "name": "Fuji Vibe",
-      "url": "https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
         "name": "Trenches Luv",
         "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 322209,
+      "name": "Fuji Vibe",
+      "url": "https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 152544,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -647,22 +631,18 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+      "duration_ms": 152544,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -683,6 +663,26 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "Money Moves",
-        "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 163633,
-      "name": "Money Moves",
-      "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
         "name": "For Where?",
         "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 113454,
       "name": "For Where?",
       "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "Money Moves",
+        "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 163633,
+      "name": "Money Moves",
+      "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "Most Wanted",
-      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 239865,
       "name": "Uptown Disco",
       "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
     },
     {
       "added_at": "2025-08-01 00:01:38",

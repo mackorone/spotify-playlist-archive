@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Zo\u00e9",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Appel",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 196779,
       "name": "Boereworsgordyn",
       "url": "https://open.spotify.com/track/38R4Dldpw56RYWRN4lnz7q"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 180000,
       "name": "Brand",
       "url": "https://open.spotify.com/track/0n8AJV8zUCY9NX4z2DMq9z"
@@ -1056,6 +1056,24 @@
       "duration_ms": 179867,
       "name": "Die Afrikaner Maak So",
       "url": "https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk"
+    },
+    {
+      "album": {
+        "name": "Die Boer Hier Binne My",
+        "url": "https://open.spotify.com/album/03CKGxifmhiU610KWRCRBM"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200886,
+      "name": "Die Boer Hier Binne My",
+      "url": "https://open.spotify.com/track/4QEuN7EBs37KQBQBqJuZug"
     },
     {
       "album": {
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 207518,
       "name": "Flippen Nice",
       "url": "https://open.spotify.com/track/531VPEKC0P7nMGylnAmRb3"
@@ -3658,7 +3676,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 201777,
       "name": "Moegdans",
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
@@ -4198,6 +4216,24 @@
       "duration_ms": 196114,
       "name": "Oor te Begin",
       "url": "https://open.spotify.com/track/7fDLyEb8DtTKeKTwu8cmWk"
+    },
+    {
+      "album": {
+        "name": "Oorwurm",
+        "url": "https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Oorwurm",
+      "url": "https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO"
     },
     {
       "album": {

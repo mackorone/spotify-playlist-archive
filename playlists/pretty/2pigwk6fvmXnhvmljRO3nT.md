@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,502 songs - 19 day 10 hr 59 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,504 songs - 19 day 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7510,5 +7510,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7500 | [If I Am With You](https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:26 |
 | 7501 | [うららかな調べ\(2012 Version\)](https://open.spotify.com/track/19sUxgxFZNrxH5ZCftMQm1) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:52 |
 | 7502 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
+| 7503 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 |
+| 7504 | [First Light \- 2018 Remaster](https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:33 |
 
-Snapshot ID: `AAAIGnySGsn1WUyOWX0bmoWwdLgRZMWB`
+Snapshot ID: `AAAIHMfcCEr/GYmD6uyVF1VlhloscSh3`

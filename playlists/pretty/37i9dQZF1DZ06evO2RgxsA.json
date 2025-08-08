@@ -1,29 +1,13 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92044,
+  "num_followers": 92055,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABXPwj3e94xK+O+dO7hxZ02",
+  "snapshot_id": "aJKbAAAAAAB8E8vJtvfsgAV/oCYENJJl",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 150288,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 130266,
       "name": "Linoleum",
       "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "The Separation of Church and Skate",
-      "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
     },
     {
       "added_at": null,
@@ -75,8 +43,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
       "artists": [
         {
@@ -84,9 +52,25 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 129666,
-      "name": "Seeing Double at the Triple Rock",
-      "url": "https://open.spotify.com/track/5QegaMGMY7mORFEBngkFxy"
+      "duration_ms": 189733,
+      "name": "The Separation of Church and Skate",
+      "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Dinosaurs Will Die",
+      "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
     },
     {
       "added_at": null,
@@ -107,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Idiots Are Taking Over",
-      "url": "https://open.spotify.com/track/7DtwSlXsEy9mrsxxQW9Mm8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -139,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pump Up The Valuum",
-        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
       "artists": [
         {
@@ -148,9 +116,25 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Dinosaurs Will Die",
-      "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
+      "duration_ms": 201493,
+      "name": "Idiots Are Taking Over",
+      "url": "https://open.spotify.com/track/7DtwSlXsEy9mrsxxQW9Mm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Seeing Double at the Triple Rock",
+      "url": "https://open.spotify.com/track/5QegaMGMY7mORFEBngkFxy"
     },
     {
       "added_at": null,
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coaster",
-        "url": "https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
       },
       "artists": [
         {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 127853,
-      "name": "We Called It America",
-      "url": "https://open.spotify.com/track/5UkBszllVTOdWs9mKVJSE2"
+      "duration_ms": 150288,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 127853,
+      "name": "We Called It America",
+      "url": "https://open.spotify.com/track/5UkBszllVTOdWs9mKVJSE2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "War on Errorism",
         "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 145466,
       "name": "Franco Un-American",
       "url": "https://open.spotify.com/track/180jsAPdTdsP31LyuYdGan"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 122746,
-      "name": "Cell Out",
-      "url": "https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1"
     },
     {
       "added_at": null,
@@ -315,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Ditch Effort",
-        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
       },
       "artists": [
         {
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 150053,
-      "name": "I Don't Like Me Anymore",
-      "url": "https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT"
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 216146,
-      "name": "72 Hookers",
-      "url": "https://open.spotify.com/track/7d70MVYrP46R4he4Zsvpzo"
+      "duration_ms": 150053,
+      "name": "I Don't Like Me Anymore",
+      "url": "https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/7d70MVYrP46R4he4Zsvpzo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Longest EP",
         "url": "https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 30880,
       "name": "I Wanna Be an Alcoholic",
       "url": "https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 78800,
-      "name": "The Man I Killed",
-      "url": "https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd"
     },
     {
       "added_at": null,
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Philthy Phil Philanthropist",
-      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
+      "duration_ms": 78800,
+      "name": "The Man I Killed",
+      "url": "https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 118000,
       "name": "What's The Matter With Parents Today?",
       "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Philthy Phil Philanthropist",
+      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 94760,
-      "name": "I Believe in Goddess",
-      "url": "https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP"
+      "duration_ms": 48933,
+      "name": "Hobophobic (Scared of Bums)",
+      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
       },
       "artists": [
         {
@@ -772,25 +772,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 48933,
-      "name": "Hobophobic (Scared of Bums)",
-      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Double Album",
-        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 144878,
-      "name": "Darby Crashing Your Party",
-      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
+      "duration_ms": 94760,
+      "name": "I Believe in Goddess",
+      "url": "https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 145466,
       "name": "Take Two Placebos And Call Me Lame",
       "url": "https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 144878,
+      "name": "Darby Crashing Your Party",
+      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
     }
   ],
   "unique_name": "This Is NOFX",

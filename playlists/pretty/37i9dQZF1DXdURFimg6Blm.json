@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1462144,
+  "num_followers": 1462257,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2025-08-01 04:00:36",
       "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
         "name": "Save My Love (with Ellie Goulding & AVAION)",
         "url": "https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
-        "name": "A New Day (feat. Celine Dion)",
-        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 207223,
-      "name": "A New Day (feat. Celine Dion)",
-      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
     },
     {
       "added_at": "2025-08-01 04:00:36",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-08-01 04:00:36",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
         "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
     },
     {
       "added_at": "2025-08-01 04:00:36",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-08-01 04:00:36",
       "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
         "name": "Dior (feat. Chrystal)",
         "url": "https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
-        "name": "A Little Closer",
-        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "A Little Closer",
-      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
       "added_at": "2025-08-01 04:00:36",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2025-08-01 04:00:36",
       "album": {
+        "name": "Control Of Me (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 195291,
+      "name": "Control Of Me (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
         "name": "places to be",
         "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
-        "name": "Control Of Me (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 195291,
-      "name": "Control Of Me (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
     },
     {
       "added_at": "2025-08-01 04:00:36",
@@ -1679,6 +1679,30 @@
       "duration_ms": 198750,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 187298,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
     },
     {
       "added_at": "2025-08-01 04:00:36",
@@ -1775,50 +1799,6 @@
     {
       "added_at": "2025-08-01 04:00:36",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 187298,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
         "name": "Push The Tempo",
         "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 145946,
       "name": "Couldn't Care Less (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2025-08-01 04:00:36",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2025-08-01 04:00:36",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 156126,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 144000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 156126,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
     },
     {
       "added_at": "2025-08-01 04:00:36",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2025-08-01 04:00:36",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/22V3MT04FxMnr8RxzhbIve"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Citadelle",
-          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
-        }
-      ],
-      "duration_ms": 148214,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
         "name": "Rule The World (Everybody)",
         "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/22V3MT04FxMnr8RxzhbIve"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        }
+      ],
+      "duration_ms": 148214,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX"
     },
     {
       "added_at": "2025-08-01 04:00:36",
@@ -2067,26 +2067,6 @@
     {
       "added_at": "2025-08-01 04:00:36",
       "album": {
-        "name": "Dreamin (feat. Daya)",
-        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 171526,
-      "name": "Dreamin (feat. Daya)",
-      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
-    },
-    {
-      "added_at": "2025-08-01 04:00:36",
-      "album": {
         "name": "Dream A Little Dream",
         "url": "https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B"
       },
@@ -2103,6 +2083,26 @@
       "duration_ms": 176666,
       "name": "Dream A Little Dream",
       "url": "https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ"
+    },
+    {
+      "added_at": "2025-08-01 04:00:36",
+      "album": {
+        "name": "Dreamin (feat. Daya)",
+        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 171526,
+      "name": "Dreamin (feat. Daya)",
+      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
     }
   ],
   "unique_name": "Beast Mode Dance",

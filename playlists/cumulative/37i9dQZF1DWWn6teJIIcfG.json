@@ -2059,32 +2059,6 @@
     },
     {
       "album": {
-        "name": "Henry Purcell: Dido's Lament",
-        "url": "https://open.spotify.com/album/5HYTwkC9c2JrNW0WQwicQe"
-      },
-      "artists": [
-        {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "United Strings of Europe",
-          "url": "https://open.spotify.com/artist/06LENZ42CaYKdcxfzaCrul"
-        },
-        {
-          "name": "Julian Azkoul",
-          "url": "https://open.spotify.com/artist/1S66SaZZamHWwVHDaG0SHc"
-        }
-      ],
-      "date_added": "2024-02-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229000,
-      "name": "Dido and Aeneas, Z. 626 (Arr. for String Orchestra by Leopold Stokowski): When I Am Laid in Earth",
-      "url": "https://open.spotify.com/track/1nI9G1fS1JigiuGOYyOnwf"
-    },
-    {
-      "album": {
         "name": "Dreamy",
         "url": "https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze"
       },
@@ -8000,6 +7974,32 @@
       "duration_ms": 264052,
       "name": "We Contain Multitudes \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1eDy2A3euqy3axIdoKgQd5"
+    },
+    {
+      "album": {
+        "name": "Henry Purcell: Dido's Lament",
+        "url": "https://open.spotify.com/album/5HYTwkC9c2JrNW0WQwicQe"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "United Strings of Europe",
+          "url": "https://open.spotify.com/artist/06LENZ42CaYKdcxfzaCrul"
+        },
+        {
+          "name": "Julian Azkoul",
+          "url": "https://open.spotify.com/artist/1S66SaZZamHWwVHDaG0SHc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "When I Am Laid in Earth",
+      "url": "https://open.spotify.com/track/1nI9G1fS1JigiuGOYyOnwf"
     },
     {
       "album": {

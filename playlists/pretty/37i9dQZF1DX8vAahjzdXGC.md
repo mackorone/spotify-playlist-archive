@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 ### [New Music Friday Indonesia](https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC)
 
-> Rilisan baru pekan ini dari Bernadya, JKT48,  Henry Moodie, yung kai, Chappell Roan dan masih banyak lagi dari dalam dan mancanegara
+> Rilisan baru pekan ini dari Ed Sheeran, Laufey, Petra Sihombing dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,805 likes - 95 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,010 likes - 95 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 94 | [O O](https://open.spotify.com/track/6d2bNkJNhEpbLi3TdFWIhp) | [odelia tirza](https://open.spotify.com/artist/7N1Qoaz2IKkCXZMe0HQGrp), [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [O O](https://open.spotify.com/album/6MvZgLV71U3OifdqMrtF24) | 3:26 |
 | 95 | [GRIEF CAKE](https://open.spotify.com/track/35yGcCaxgQ6Rr0enjctMSe) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [grief cake](https://open.spotify.com/album/15qeFNHjbFLptqqnnYqYQg) | 4:06 |
 
-Snapshot ID: `AAAAABWeF41j2zaDClI0Xa4B6zd3UgOe`
+Snapshot ID: `AAAAAFrnblTwoFQDoIUMse1BzFFf+V3E`

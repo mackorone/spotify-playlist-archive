@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,961 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,013 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Come Down](https://open.spotify.com/track/1QsYj5ILdwRstWgCP8LOH0) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Come Down](https://open.spotify.com/album/5FvrHHl0xwpdI7xgaYeaGq) | 3:31 |
 | 2 | [Elevate](https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [FEMME](https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K) | [Elevate](https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO) | 3:24 |
-| 3 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
+| 3 | [Deep Dive](https://open.spotify.com/track/3IwcYrey2FxapZ9SQ0XH3e) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Deep Dive](https://open.spotify.com/album/7fIQhXLW2DREloOU0H0zxz) | 3:16 |
 | 4 | [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 |
 | 5 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
-| 6 | [Deep Dive](https://open.spotify.com/track/3IwcYrey2FxapZ9SQ0XH3e) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Deep Dive](https://open.spotify.com/album/7fIQhXLW2DREloOU0H0zxz) | 3:16 |
+| 6 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
 | 7 | [Over & Done \(feat\. Pip Millett\)](https://open.spotify.com/track/27e5hiyHSRTs7E6SMqSRCn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:47 |
 | 8 | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc) | 3:31 |
 | 9 | [Settle](https://open.spotify.com/track/6pDeV5DiST952oRhDUQghN) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Settle](https://open.spotify.com/album/5jURie0Y721Kke4KXMw5pG) | 4:04 |

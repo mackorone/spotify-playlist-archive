@@ -4,7 +4,7 @@
 
 > Ränta på ränta..\. 💸
 
-555 songs - 1 day 6 hr 41 min
+556 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 | 2022-01-03 | 2023-12-21 |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2022-01-03 | 2024-05-29 |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2022-01-03 | 2024-05-29 |
-| [High Life](https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:21 | 2025-06-27 |  |
+| [High Life](https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:21 | 2025-06-27 | 2025-08-08 |
 | [Higher](https://open.spotify.com/track/0Ks9WC7vbBkzSGsFD6Vtqm) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Higher](https://open.spotify.com/album/1mxUtKn686VKj3RYk59TzU) | 2:59 | 2020-12-31 | 2022-07-25 |
 | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH) | 3:26 | 2021-12-30 | 2022-07-29 |
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2020-12-31 | 2022-11-13 |
@@ -495,6 +495,7 @@
 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 | 2025-06-27 |  |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 | 2020-12-31 | 2024-05-29 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-12-29 | 2024-05-29 |
+| [Toppen](https://open.spotify.com/track/4ripxZ8DvSGD2CZbZOWiRX) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ) | [Toppen](https://open.spotify.com/album/6z6E8ZnuIAUM5Sau85Y3SR) | 2:38 | 2025-08-07 |  |
 | [Tough Love](https://open.spotify.com/track/4XZxalvnG4Yo8YZLuiT1kV) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [Tough Love](https://open.spotify.com/album/7pPkJdlgblZLbv3LqifNKW) | 3:11 | 2020-12-31 | 2022-07-27 |
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2022-01-03 | 2024-04-19 |
 | [Toxic](https://open.spotify.com/track/1dli0Y7MFzKU4zZiJIases) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ) | [Panamera Music](https://open.spotify.com/album/1J8TFV7VlzGJ5sMwbj0zS1) | 2:51 | 2025-06-27 | 2025-07-01 |

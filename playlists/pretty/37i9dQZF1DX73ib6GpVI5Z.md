@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,960 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,966 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 15 | [いくぞ！ばいきんまん](https://open.spotify.com/track/2c9ZqOosc9t7IUoT4URrjv) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’18](https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw) | 2:12 |
 | 16 | [ぼくはクリームパンダ](https://open.spotify.com/track/3pJkh8rlfyGN8GU3asud9c) | [長沢美樹 \(クリームパンダ\)](https://open.spotify.com/artist/02n7FPtNTvFofcKwfkb9aV) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:19 |
 | 17 | [むすんでひらいて](https://open.spotify.com/track/7cSmI0Z6UY22E9RlAp3L0R) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho), [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン ハッピーおたんじょうび 冬生まれのみんなのうた　12月・1月・2月生まれのおともだちへ](https://open.spotify.com/album/5Dpp039N5o4TMTukybi863) | 1:17 |
-| 18 | [Do You Know カツドン？](https://open.spotify.com/track/3aRiNq6y0pPSltzmhHIJOv) | [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:58 |
-| 19 | [ドキンのララバイ](https://open.spotify.com/track/13ti30uTQEkVOwiMpjQl8y) | [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン げんき100ばいソングス ドキンちゃん](https://open.spotify.com/album/5wFdjDwHQqafk2KyhVDcAT) | 3:27 |
+| 18 | [ドキンのララバイ](https://open.spotify.com/track/13ti30uTQEkVOwiMpjQl8y) | [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン げんき100ばいソングス ドキンちゃん](https://open.spotify.com/album/5wFdjDwHQqafk2KyhVDcAT) | 3:27 |
+| 19 | [Do You Know カツドン？](https://open.spotify.com/track/3aRiNq6y0pPSltzmhHIJOv) | [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:58 |
 | 20 | [悪いはすてき](https://open.spotify.com/track/1qVFtQgFx5sGUS1i6EwNIy) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 2:20 |
 | 21 | [やきそばパンマン流れ旅](https://open.spotify.com/track/7CbDgOKol2QhV1OSB2cnne) | [小杉十郎太 \(やきそばパンマン\)](https://open.spotify.com/artist/6rMukQYo4K5VJ7UN1XDtDa) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:08 |
 | 22 | [すすめ！アンパンマン号](https://open.spotify.com/track/05rS7yCJG7G9vnMb6rnWAR) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’18](https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw) | 3:40 |
-| 23 | [生きてるパンをつくろう ～Brand New ver.](https://open.spotify.com/track/2QmuiZyfFn2hC8uUFIFIPQ) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:18 |
-| 24 | [白それは…～しらたまさんのテーマ～](https://open.spotify.com/track/6PWrkrcVwQiKUVvhia7K6S) | [伊倉一恵（しらたまさん\)](https://open.spotify.com/artist/18OrFg3IP7bzUEA0sI4Bdt) | [それいけ！アンパンマン ベストヒット'17](https://open.spotify.com/album/6yVfybmx2U5AqBUSe2NVVa) | 2:34 |
+| 23 | [白それは…～しらたまさんのテーマ～](https://open.spotify.com/track/6PWrkrcVwQiKUVvhia7K6S) | [伊倉一恵（しらたまさん\)](https://open.spotify.com/artist/18OrFg3IP7bzUEA0sI4Bdt) | [それいけ！アンパンマン ベストヒット'17](https://open.spotify.com/album/6yVfybmx2U5AqBUSe2NVVa) | 2:34 |
+| 24 | [生きてるパンをつくろう ～Brand New ver.](https://open.spotify.com/track/2QmuiZyfFn2hC8uUFIFIPQ) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:18 |
 | 25 | [ハヒフヘばいきんまん](https://open.spotify.com/track/4Ny1QQX6pkRYeV047XdLjc) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho), [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG), [Aya Hirano（Coreen）](https://open.spotify.com/artist/6NpTSv6WZrBUiXtUZMUqim) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:14 |
 | 26 | [山育ちかまめしどん](https://open.spotify.com/track/3ZepeGHQBVqRIcnbtQ7VIO) | [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:57 |
 | 27 | [ぼくらはヒーロー](https://open.spotify.com/track/5fjkZffOYnUxszvP5VEwns) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt), [柳沢三千代 \(カレーパンマン\)](https://open.spotify.com/artist/7kelNClypvYqzLtU8rBg5p) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 5:22 |

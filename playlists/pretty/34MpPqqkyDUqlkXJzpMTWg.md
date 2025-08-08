@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > Winter is coming, met muziek van Dean Lewis, Son Mieux, Taylor Swift, Lewis Capaldi &amp; Olivia Rodrigo.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,065 likes - 82 songs - 4 hr 38 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,064 likes - 82 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

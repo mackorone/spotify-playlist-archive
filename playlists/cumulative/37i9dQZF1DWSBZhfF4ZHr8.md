@@ -2,7 +2,7 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo: Gims
+> Les meilleures nouveautés de la variété française\. Photo: Julien Lieb
 
 302 songs - 14 hr 51 min
 

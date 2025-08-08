@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,135 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,148 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 53 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |
 | 54 | [Medley: Árvore do Reggae / Música de Jah / Ame Sua Missão \- Ao Vivo](https://open.spotify.com/track/4bSV38EAZHHv8KdAwFbYt5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo No República do Reggae](https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ) | 4:47 |
 | 55 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
-| 56 | [Rosa Flor \- Acústica](https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Rosa Flor \(Acústica\)](https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S) | 3:19 |
-| 57 | [Aurora Boreal \- Ao Vivo](https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ao Vivo em SP](https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA) | 4:03 |
+| 56 | [Aurora Boreal \- Ao Vivo](https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ao Vivo em SP](https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA) | 4:03 |
+| 57 | [Rosa Flor \- Acústica](https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Rosa Flor \(Acústica\)](https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S) | 3:19 |
 | 58 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
 | 59 | [Odisséia Na Babilônia \- Ao Vivo](https://open.spotify.com/track/0cUr7yd1UjtyPYwybL4fDi) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 4:12 |
 | 60 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/754w4HeOR2R6Si4UmQB8tv) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 4:23 |

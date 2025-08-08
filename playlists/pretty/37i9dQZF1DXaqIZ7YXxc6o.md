@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Sean Paul, Luude, Brodie
+> Your weekly dose of new dance\. Cover: Flight Facilities
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,110 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,124 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Hahaha](https://open.spotify.com/track/6svz6IIeibNaIFLjBOTBUQ) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Hahaha](https://open.spotify.com/album/3QspoumV5tN9SVz2m6DQlj) | 4:18 |
 | 100 | [It Only Hurts](https://open.spotify.com/track/5c2tbNTZCW29dKMMpzjVCR) | [Kaila](https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo) | [It Only Hurts](https://open.spotify.com/album/0X53ROh8YWGdL708Y8SyCR) | 3:30 |
 
-Snapshot ID: `AAAAAEbIefpDl9Z0tmE1s4bfJijGSTZ0`
+Snapshot ID: `AAAAAA01cxWEqnz8RwuiJebNFFzJGNdn`

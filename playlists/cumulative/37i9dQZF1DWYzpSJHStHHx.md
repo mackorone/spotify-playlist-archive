@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 | 2023-07-13 |  |
+| [\(The Ballad of\) Buddy Kid](https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn) | [Prokop](https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2) | [\(The Ballad of\) Buddy Kid](https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93) | 3:59 | 2023-07-13 | 2025-08-08 |
 | [...Anyway](https://open.spotify.com/track/2QDB4p1vU4bMm2PQ1p6lWu) | [Ben Cook](https://open.spotify.com/artist/0oRMmFyViP7UxWZrEcJUYV) | [Bread For Your Broth](https://open.spotify.com/album/3GPwhfmSZSFyZhMTRxYDak) | 3:06 | 2023-07-13 | 2023-07-29 |
 | [809](https://open.spotify.com/track/131EOtvTL1sy5OA8L9pr75) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [We Come In Pieces](https://open.spotify.com/album/5LE4OPOtsxFB5jvXSCf2Yn) | 3:14 | 2021-08-27 | 2022-04-20 |
 | [A.M.](https://open.spotify.com/track/2Y33MDjGDSZt2OLzkS6ZkG) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Hoodratscumbags](https://open.spotify.com/album/4eCYIBxNXxhdB8it5ZHpNo) | 4:03 | 2023-08-18 | 2024-04-19 |
@@ -196,7 +196,7 @@
 | [Lying Through Their Teeth](https://open.spotify.com/track/1fUtTyrHCDELiSoUE2zw7h) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:37 | 2025-02-07 |  |
 | [Magdalene](https://open.spotify.com/track/7MNsTjkgyA32BetybYx742) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:31 | 2023-03-01 | 2023-07-14 |
 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 | 2023-07-13 |  |
-| [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 | 2023-07-13 | 2025-07-13 |
+| [Mammoth Surf](https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Mammoth Surf](https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu) | 2:00 | 2023-07-13 |  |
 | [Marcel](https://open.spotify.com/track/7BttFWHvQk5LCj2yOTDf8E) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Marcel](https://open.spotify.com/album/0rK9HP4j66B4BxH1XRDb3E) | 3:07 | 2021-02-05 | 2022-07-29 |
 | [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 | 2023-07-13 | 2025-05-13 |
 | [Miserlou](https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [King of the Surf Guitar](https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A) | 2:15 | 2022-06-01 | 2022-06-17 |

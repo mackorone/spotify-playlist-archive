@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/0uV7gNXQdzaZA0GjgeUdE6?si=YFHR7crYSIeNUUicOE1Hcw">carter c</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-230 songs - 12 hr 28 min
+232 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [daylight streaks](https://open.spotify.com/track/2JUDd3pQJlCIETNIVJFPc7) | [Parafox](https://open.spotify.com/artist/1vXb2TUiDmbch41sISerpP) | [Untitled Reverse](https://open.spotify.com/album/6acXnJAcdQDIkw8Ol7wpm6) | 4:05 | 2025-05-10 |  |
 | [Dead internet theory](https://open.spotify.com/track/0rnm3k4dDHWwlN8WNLCekV) | [delle](https://open.spotify.com/artist/7BE9ycKGxDTdID7BN4oPcF) | [Dead internet theory](https://open.spotify.com/album/6PfRGxxjZZ6RKcDqatGUyQ) | 2:30 | 2024-08-01 | 2025-01-09 |
 | [diaries of a small town](https://open.spotify.com/track/6maCQUoO6Ld9GwK1fN0NYQ) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [diaries of a small town](https://open.spotify.com/album/1VQNdZ6m27lRsuPXJyiwX7) | 4:03 | 2024-11-12 | 2025-05-11 |
+| [dizzzzy](https://open.spotify.com/track/5kiIj9D1XgmDke1vdopgMm) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [krwyn](https://open.spotify.com/artist/1amkng7Rw5XiSnZ43yo55j), [ilysm](https://open.spotify.com/artist/4C50lCjGzvP8PqaZ2G3qf8) | [save the world](https://open.spotify.com/album/11483W3CdWdNelyLQy61F0) | 2:49 | 2025-08-07 |  |
 | [Dog Ears](https://open.spotify.com/track/0e6I94eva07huDA7Fplb01) | [scuttlefuzz](https://open.spotify.com/artist/4ll5RlLT3paku0bQDJCqlu) | [Keychain](https://open.spotify.com/album/0YTa3pfGMUMjqtlfC3tp8I) | 3:24 | 2024-08-09 | 2025-02-01 |
 | [DOGMONEY](https://open.spotify.com/track/3kOJ0BgyRpYvJTUtbnnCoM) | [chan](https://open.spotify.com/artist/4o2UhlJL4SFgdPx0mswydj), [coyote2](https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX) | [DOGMONEY](https://open.spotify.com/album/1SdAhWX3zR8RecyAWJybxP) | 2:12 | 2025-05-10 | 2025-08-07 |
 | [Dopesick](https://open.spotify.com/track/0DoLl8JJWmPHSRycONamMW) | [emogen33](https://open.spotify.com/artist/0Edca08DHBA2rZhuYmgl5g) | [Guard Dog Graveyard](https://open.spotify.com/album/6ISIvx7h8qAVz2T6d5jE7J) | 2:08 | 2024-08-06 |  |
@@ -161,6 +162,7 @@
 | [NOBODYKNOWS](https://open.spotify.com/track/2681Q9ESPtC5WV40JRGGC8) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [NOBODYKNOWS](https://open.spotify.com/album/5dFmgTO4kx9X78QWhiro0o) | 3:30 | 2025-08-07 |  |
 | [Noise \- Memory Pool](https://open.spotify.com/track/5VjrJ13g4ypdYi0uOHlTJk) | [June LaLonde](https://open.spotify.com/artist/1IU8Y8EUogFf85PtoaikIK) | [Headjack](https://open.spotify.com/album/5xpPrOjFjak4HT7v33FIKm) | 3:45 | 2022-11-21 | 2025-07-30 |
 | [Non\-Binary Ghost](https://open.spotify.com/track/6GD3JEry1xH89ZnX9Tijys) | [Dog Weekend](https://open.spotify.com/artist/1nqT1EKY1ao5WCIsIF1gh5) | [Non\-Binary Ghost](https://open.spotify.com/album/3WIOcp8NpHPkyRUfudgnxT) | 3:19 | 2025-01-31 |  |
+| [Now Listen Up Buster](https://open.spotify.com/track/1lYOX0sIlOHZQVgfbjXxPW) | [ninasdfghjkl](https://open.spotify.com/artist/18VdHLKMG5Op7LnqQZ0DvD) | [Nine Skies](https://open.spotify.com/album/13tJtHGdeqRFkbrsHoSf2j) | 3:15 | 2025-08-07 |  |
 | [Open Me](https://open.spotify.com/track/062Qx4ID0e6VUvwufD16ZB) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH), [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [Open Me \(Thru Stunted Waves; Hold Me in Morning Hues\)](https://open.spotify.com/album/1g8rxL9F5i5LpG1su4b6mA) | 4:09 | 2023-11-30 | 2025-03-01 |
 | [our hearts will break in due time, and the pieces will fall to the floor like shattered glass from my apartment window](https://open.spotify.com/track/6i2RyZhiwaOirFW0sBjEg2) | [lost cats](https://open.spotify.com/artist/0X72jfmVPUyoPlulHjkH6H), [carter c](https://open.spotify.com/artist/0uV7gNXQdzaZA0GjgeUdE6) | [days i will never get back](https://open.spotify.com/album/2CbqNvHU68Ixdim4LtVnQo) | 3:25 | 2025-02-28 | 2025-03-22 |
 | [Outside](https://open.spotify.com/track/0NZYY7pVDk67cx23sqLgjh) | [scuttlefuzz](https://open.spotify.com/artist/4ll5RlLT3paku0bQDJCqlu) | [Ghosts](https://open.spotify.com/album/2RpPntOn2UMMuMeJDJESpt) | 1:56 | 2025-01-31 |  |
@@ -169,7 +171,7 @@
 | [Paperback Nation](https://open.spotify.com/track/4wjkkdnvcn4y6xBqafGFRK) | [Floridian Homicide Unit](https://open.spotify.com/artist/7Jgw535Ddgb0P0TriAPdPw) | [I Love It Here, I Have Everything I Need, and All My Friends Love Me](https://open.spotify.com/album/488NhNmfs0EayMuMyw2vFu) | 2:46 | 2024-11-16 |  |
 | [Part of Me](https://open.spotify.com/track/0zlBu49SUJa0Uw1VoE0OZU) | [Patient Animal](https://open.spotify.com/artist/4aSCigc5So3NtDpFoZTV81) | [Part of Me](https://open.spotify.com/album/0JNPAMFYecA9EpgR3iQplV) | 2:54 | 2024-07-12 |  |
 | [Playwright Metro](https://open.spotify.com/track/6DfrzmR72Cid9nS2Rr2Fcv) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Playwright Metro](https://open.spotify.com/album/0cKSiLGcZv6c1SO4qKpdel) | 3:21 | 2024-08-02 | 2025-03-01 |
-| [Plea for a Dogman](https://open.spotify.com/track/5G7Y14QDFGuIukUPiAtX2l) | [mammalfriend](https://open.spotify.com/artist/1soXXPru4RPo5CvGbvQeA5) | [Eleven Eleven](https://open.spotify.com/album/2F0KDRRVJWc4SOASRj2oKP) | 3:45 | 2024-08-09 |  |
+| [Plea for a Dogman](https://open.spotify.com/track/5G7Y14QDFGuIukUPiAtX2l) | [mammalfriend](https://open.spotify.com/artist/1soXXPru4RPo5CvGbvQeA5) | [Eleven Eleven](https://open.spotify.com/album/2F0KDRRVJWc4SOASRj2oKP) | 3:45 | 2024-08-09 | 2025-08-08 |
 | [Prodigal](https://open.spotify.com/track/0hPZAF9NiQ8Efnu7ycC8Ux) | [DJ Re:Code](https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Prodigal](https://open.spotify.com/album/1PMbIr4XHJGQvafXcB1gwd) | 2:29 | 2024-03-07 | 2025-05-27 |
 | [Prodigal](https://open.spotify.com/track/4jOtjbZeV2WZhdxAmwFnuh) | [DJ Re:Code](https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [ReVertPunk!](https://open.spotify.com/album/5ooloGbiynsO4XzgsLBRyy) | 2:29 | 2025-05-26 |  |
 | [propaganda](https://open.spotify.com/track/4c2U7P58Y95NhISigaUPiv) | [noelleallowed](https://open.spotify.com/artist/41VQFslNLf6YwiRlez03wN) | [Flyhighangel](https://open.spotify.com/album/5KGbbfiuvgqMkEFWyMHeR4) | 1:29 | 2024-07-10 | 2025-03-01 |

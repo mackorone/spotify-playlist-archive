@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABzZRPwkl8sXjq6BO+d67Yt",
+  "snapshot_id": "AAAAAAAAAABLkP+bTufqxCmFbaTH50D6",
   "tracks": [
     {
       "added_at": "2025-08-01 04:00:00",
@@ -47,6 +47,26 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
+        "name": "NO TRUST",
+        "url": "https://open.spotify.com/album/1O0ziOxAl1DSZTF9JFPigI"
+      },
+      "artists": [
+        {
+          "name": "Upstates",
+          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 154447,
+      "name": "NO TRUST",
+      "url": "https://open.spotify.com/track/2bPqQy1jrs0Gpd75tMCgaK"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
         "name": "Rap Kingpin",
         "url": "https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V"
       },
@@ -59,26 +79,6 @@
       "duration_ms": 164084,
       "name": "Rap Kingpin",
       "url": "https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Green Eyed",
-        "url": "https://open.spotify.com/album/1SMd7Io4rw7ojl57RJ8SbQ"
-      },
-      "artists": [
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 193851,
-      "name": "Green Eyed",
-      "url": "https://open.spotify.com/track/5T9e7bt509revOMZj1GqpI"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -103,6 +103,42 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
+        "name": "Green Eyed",
+        "url": "https://open.spotify.com/album/1SMd7Io4rw7ojl57RJ8SbQ"
+      },
+      "artists": [
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 193851,
+      "name": "Green Eyed",
+      "url": "https://open.spotify.com/track/5T9e7bt509revOMZj1GqpI"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "Kangaroos",
+        "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 106511,
+      "name": "Kangaroos",
+      "url": "https://open.spotify.com/track/7EVpTQzh5RGEzuqh1Ewr2u"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/7v9yB3BnZdvZrgyeCEUJFm"
       },
@@ -123,26 +159,6 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "NO TRUST",
-        "url": "https://open.spotify.com/album/1O0ziOxAl1DSZTF9JFPigI"
-      },
-      "artists": [
-        {
-          "name": "Upstates",
-          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 154447,
-      "name": "NO TRUST",
-      "url": "https://open.spotify.com/track/2bPqQy1jrs0Gpd75tMCgaK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
         "name": "Shiny Things",
         "url": "https://open.spotify.com/album/7uBrX85Ovwtor3h7DJmhvO"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 182137,
       "name": "Shiny Things",
       "url": "https://open.spotify.com/track/1C0krz8HosA1CReG6cC1hU"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Kangaroos",
-        "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 106511,
-      "name": "Kangaroos",
-      "url": "https://open.spotify.com/track/7EVpTQzh5RGEzuqh1Ewr2u"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -275,34 +275,50 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "Devil in Disguise",
-        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
       },
       "artists": [
         {
-          "name": "Marino",
-          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 104431,
-      "name": "Devil in Disguise",
-      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv"
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Tell Me What It Is",
-      "url": "https://open.spotify.com/track/5lFf9WQMwthejzRre8ObNf"
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Bitin' List",
+      "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -323,34 +339,18 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
-        "name": "Back in the Saddle",
-        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 212962,
-      "name": "Back in the Saddle",
-      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+      "duration_ms": 202133,
+      "name": "Tell Me What It Is",
+      "url": "https://open.spotify.com/track/5lFf9WQMwthejzRre8ObNf"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
+        "name": "The Emperor's New Clothes",
+        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 144201,
+      "name": "Bear Hill",
+      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
         "name": "BIRDS OF A FEATHER",
         "url": "https://open.spotify.com/album/5Zoit9lES6Q6winfZWlaXF"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 170727,
       "name": "Friends Forever",
       "url": "https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "The Emperor's New Clothes",
-        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
-      },
-      "artists": [
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 144201,
-      "name": "Bear Hill",
-      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
     },
     {
       "added_at": "2025-08-01 04:00:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2025-08-01 04:00:00",
       "album": {
+        "name": "Dingue (MARQUISE Remix)",
+        "url": "https://open.spotify.com/album/5WQFLD1oO8kxf7mcXVfqzz"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        },
+        {
+          "name": "MARQUISE",
+          "url": "https://open.spotify.com/artist/6uMSoKOsBpwjti2bVPfKq7"
+        }
+      ],
+      "duration_ms": 143255,
+      "name": "Dingue - MARQUISE Remix",
+      "url": "https://open.spotify.com/track/7JdECRrMW00rvsdxY8ZoAr"
+    },
+    {
+      "added_at": "2025-08-01 04:00:00",
+      "album": {
         "name": "MODERN DAY",
         "url": "https://open.spotify.com/album/6492ivv1TvmfA2sAfpILAp"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 98102,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/1QIiUC7hBcj65AnPta3IDt"
-    },
-    {
-      "added_at": "2025-08-01 04:00:00",
-      "album": {
-        "name": "Dingue (MARQUISE Remix)",
-        "url": "https://open.spotify.com/album/5WQFLD1oO8kxf7mcXVfqzz"
-      },
-      "artists": [
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        },
-        {
-          "name": "MARQUISE",
-          "url": "https://open.spotify.com/artist/6uMSoKOsBpwjti2bVPfKq7"
-        }
-      ],
-      "duration_ms": 143255,
-      "name": "Dingue - MARQUISE Remix",
-      "url": "https://open.spotify.com/track/7JdECRrMW00rvsdxY8ZoAr"
     },
     {
       "added_at": "2025-08-01 04:00:00",

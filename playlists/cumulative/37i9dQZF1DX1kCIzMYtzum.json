@@ -1511,6 +1511,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Odyssey",
+        "url": "https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170556,
+      "name": "Beautiful Odyssey",
+      "url": "https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh"
+    },
+    {
+      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
       },
@@ -6692,7 +6714,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 149673,
       "name": "Heart Like Mine (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"

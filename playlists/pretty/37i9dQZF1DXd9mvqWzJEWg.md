@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr?si=ZJLPcxPiRQuXwhBde\-K\-9g">Campmasters</a>
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=\_0StPZkBSwex7TYkA6xHaw">Surreal Sessions</a>, <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=TMZQHyATTb\-1ziuMSGOP7w">DBN Gogo</a>, <a href="https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q?si=S2HHoQESToyE5qaDbpLx5w">Nobantu Vilakazi</a>, & <a href="https://open.spotify.com/artist/2aMcD0EYQmyygKRyRiQhZA?si=ZjdNacLFRWe6THsK0s1AqA">Ty Slique</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,656 likes - 60 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,689 likes - 60 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 59 | [Yonkinto](https://open.spotify.com/track/3m8UOWi5h7gg9Lv9CuT8v4) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Minollar](https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K) | [Yonkinto](https://open.spotify.com/album/19tpw7WwMqsZpKzjuwbuFA) | 4:05 |
 | 60 | [Kwandonga Ziyaduma](https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Tronics Land Series 2](https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I) | 7:15 |
 
-Snapshot ID: `AAAAAHbHB7/FcqAZ2tjPXZnKxSW6XTwV`
+Snapshot ID: `AAAAAF10rZ5XY6VFGkiUAzzOvyse5tBY`

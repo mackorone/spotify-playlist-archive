@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 96252,
+  "num_followers": 96261,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADMptasEulJMooAmyjE3Ct9",
+  "snapshot_id": "aJKbAAAAAABwAwoLV/OvqCs5MLHdwSdP",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 119939,
+      "name": "Pistol By Da Bed",
+      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Splash (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
       },
@@ -811,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Served",
-        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 119939,
-      "name": "Pistol By Da Bed",
-      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
+      "duration_ms": 166326,
+      "name": "Hard For The Next (with Future)",
+      "url": "https://open.spotify.com/track/4ELmykSaWrdjQS5iADqHxS"
     },
     {
       "added_at": null,
@@ -859,26 +879,6 @@
       "duration_ms": 205274,
       "name": "Word 4 Word",
       "url": "https://open.spotify.com/track/1z8QbRI9w0F4ny1ipjZv3N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 166326,
-      "name": "Hard For The Next (with Future)",
-      "url": "https://open.spotify.com/track/4ELmykSaWrdjQS5iADqHxS"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "TRYNA MAKE SURE",
+      "url": "https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "43VA HEARTLESS",
         "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 173396,
       "name": "Dior (feat. Gunna)",
       "url": "https://open.spotify.com/track/683tYxiTlWzupDpaZ2mCv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "TRYNA MAKE SURE",
-      "url": "https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: ILLENIUM, Norma Jean Martine
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt, KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,902 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,939 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 24 | [Bass Is Too Loud](https://open.spotify.com/track/6vBQ8Vxm5EG8UuO1gSADSy) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Bass Is Too Loud EP](https://open.spotify.com/album/1GR0zDZ15ZJ9JNypI2yHb3) | 2:14 |
 | 25 | [WILD](https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [WILD](https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv) | 2:20 |
 | 26 | [So Bist Du](https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J) | [Oli\. P](https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [So Bist Du](https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg) | 3:29 |
-| 27 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head Remix](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
+| 27 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
 | 28 | [Inside Our Hearts](https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Inside Our Hearts](https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh) | 3:54 |
 | 29 | [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 |
 | 30 | [On My Lips \(Sweet Dreams\)](https://open.spotify.com/track/2m5pmGuwXU6S3aLNPRLfPN) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Michael Roman](https://open.spotify.com/artist/6ymKRGN5gpJNYqUGkxHyFH) | [On My Lips \(Sweet Dreams\)](https://open.spotify.com/album/7u7A5sAyb2YDHyXcnNIBxD) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 99 | [Make Luv](https://open.spotify.com/track/5bEyOobplcoZlaXapxhPzt) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Pawl](https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232) | [Make Luv](https://open.spotify.com/album/07ptUmOyhn6EJzonbxJXAg) | 2:15 |
 | 100 | [Take Me There](https://open.spotify.com/track/6GawHodtswPRCxYWzlVJX5) | [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Take Me There](https://open.spotify.com/album/5lfpJ5Bcr3FGq9jhmbarUn) | 2:57 |
 
-Snapshot ID: `AAAAAPd7rQVhEKFArq/fkPdruPfY8p9Q`
+Snapshot ID: `AAAAANPG1lCRxKcIy5gOQ1LWpSSbMyky`

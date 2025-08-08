@@ -1959,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "EXISTENS",
+        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172874,
+      "name": "EXISTENS",
+      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
+    },
+    {
+      "album": {
         "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
         "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
       },
@@ -4603,6 +4621,28 @@
     },
     {
       "album": {
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/3raSM95Yq7o3qC7CcXxkzP"
+      },
+      "artists": [
+        {
+          "name": "Angelo Perrelli",
+          "url": "https://open.spotify.com/artist/1v1b1VJKeXticlHnYyJDbs"
+        },
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235124,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/0Y2qS45YYbYfxPVp0RfWLc"
+    },
+    {
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -4882,7 +4922,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 181960,
       "name": "Om igen",
       "url": "https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq"
@@ -6120,7 +6160,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 186626,
       "name": "Spin The Bottle",
       "url": "https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY"
@@ -6852,7 +6892,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 362920,
       "name": "Uteblivna vi",
       "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
@@ -7088,6 +7128,24 @@
       "duration_ms": 227400,
       "name": "Viker inte ner mig \u00e4n",
       "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
+    },
+    {
+      "album": {
+        "name": "Vill du ha mig?",
+        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Vill du ha mig?",
+      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
     },
     {
       "album": {

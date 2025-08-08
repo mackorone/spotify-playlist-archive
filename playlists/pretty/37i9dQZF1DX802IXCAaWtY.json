@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1418818,
+  "num_followers": 1419331,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
+        "name": "Plastic Dreams",
+        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
+      },
+      "artists": [
+        {
+          "name": "Jaydee",
+          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
+        }
+      ],
+      "duration_ms": 205050,
+      "name": "Plastic Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
         "name": "Short Dick Man",
         "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 290933,
       "name": "Short Dick Man - Club Mix",
       "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
-        "name": "Plastic Dreams",
-        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
-      },
-      "artists": [
-        {
-          "name": "Jaydee",
-          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "Plastic Dreams - Radio Edit",
-      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
     },
     {
       "added_at": "2024-07-15 19:54:53",

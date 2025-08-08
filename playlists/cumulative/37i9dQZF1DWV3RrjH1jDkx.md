@@ -2,7 +2,7 @@
 
 ### [New Music Friday Norway](https://open.spotify.com/playlist/37i9dQZF1DWV3RrjH1jDkx)
 
-> Endelig fredag og ny musikk fra bla\. Bausa!🎵
+> Endelig fredag og ny musikk fra bla\. Highasakite og Rakkere!🎵
 
 6,830 songs - 14 day 16 hr 3 min
 

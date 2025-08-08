@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-134 songs - 8 hr 45 min
+135 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,10 +113,11 @@
 | [Sa Dulo Ng Walang Hanggan \(Sa Ngalan Ng Pag\-Ibig Piano Version\)](https://open.spotify.com/track/76hY08tpF7iU5yffRwQWQs) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 5:42 | 2024-02-27 | 2024-04-19 |
 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 | 2023-10-20 |  |
 | [Sa'yo](https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib) | 4:13 | 2023-10-25 | 2024-04-19 |
+| [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/track/56SW6kPw7xMoFt7kBoegP5) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/album/1qkSx3ukJSeCnHqQlnLVsa) | 3:31 | 2025-08-08 |  |
 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2023-10-25 |  |
 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 | 2024-02-27 | 2025-02-26 |
 | [Samahan Mo Ako](https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Samahan Mo Ako](https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL) | 3:32 | 2024-02-27 | 2024-12-09 |
-| [Sampung Mga Daliri](https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [Sampung Mga Daliri](https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv) | 3:39 | 2025-02-12 |  |
+| [Sampung Mga Daliri](https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [Sampung Mga Daliri](https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv) | 3:39 | 2025-02-12 | 2025-08-08 |
 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 | 2024-12-16 | 2025-02-05 |
 | [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 | 2024-02-27 |  |
 | [sh\*t sobrang init](https://open.spotify.com/track/0P30Kh9Ye53cIib0q9j673) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [sh\*t sobrang init](https://open.spotify.com/album/3yYDFXBAptstNq40E5g4Cw) | 3:02 | 2025-04-30 | 2025-07-09 |

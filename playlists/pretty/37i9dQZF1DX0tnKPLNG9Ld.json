@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 117782,
+  "num_followers": 117848,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 110933,
+      "name": "It's A Big Wide Wonderful World",
+      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "Ella And Basie",
         "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 195960,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 110933,
-      "name": "It's A Big Wide Wonderful World",
-      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 182293,
       "name": "Just You, Just Me - Remastered 1999",
       "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Songs Of New York",
-        "url": "https://open.spotify.com/album/6ykejiQYyCdqWg8Leun77R"
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
       },
       "artists": [
         {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 149346,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1gcGuB0A9uOQxVu0SxeDA3"
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
+        "name": "Songs Of New York",
+        "url": "https://open.spotify.com/album/6ykejiQYyCdqWg8Leun77R"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
         }
       ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
+      "duration_ms": 149346,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1gcGuB0A9uOQxVu0SxeDA3"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "Broadway, Right Now!",
+        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Make Someone Happy - From \"Do Re Mi\"",
+      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "The Complete Decca Recordings",
         "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 124266,
       "name": "Something Happens To Me",
       "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "Broadway, Right Now!",
-        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Make Someone Happy - From \"Do Re Mi\"",
-      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "April In Paris (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Corner Pocket",
-      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Julie... At Home",
         "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 125946,
       "name": "Give Me The Simple Life",
       "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "April In Paris (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Corner Pocket",
+      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Chet Baker In Milan",
         "url": "https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "But Beautiful",
-        "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 142400,
-      "name": "Oh! Look At Me Now",
-      "url": "https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV"
+      "duration_ms": 145160,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1023,6 +1007,22 @@
       "duration_ms": 140173,
       "name": "You Stepped out of a Dream - 2007 Remaster",
       "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "But Beautiful",
+        "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Oh! Look At Me Now",
+      "url": "https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "This Time The Dream's On Me - Remastered",
-      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "A Treasury Of Golden Hits",
         "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Jazz Abroad",
-        "url": "https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0"
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 351720,
-      "name": "Sometimes I'm Happy",
-      "url": "https://open.spotify.com/track/1aNyLvKxlaRcHq8qswscdo"
+      "duration_ms": 139906,
+      "name": "This Time The Dream's On Me - Remastered",
+      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1135,6 +1119,22 @@
       "duration_ms": 300453,
       "name": "I Walk With Music",
       "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Jazz Abroad",
+        "url": "https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 351720,
+      "name": "Sometimes I'm Happy",
+      "url": "https://open.spotify.com/track/1aNyLvKxlaRcHq8qswscdo"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Real... Toots Thielemans",
-        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 133480,
-      "name": "Cocktails for Two",
-      "url": "https://open.spotify.com/track/2LKQVRrrXW7cN34JJYmzC1"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 196853,
       "name": "People Will Say We're In Love",
       "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "The Real... Toots Thielemans",
+        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 133480,
+      "name": "Cocktails for Two",
+      "url": "https://open.spotify.com/track/2LKQVRrrXW7cN34JJYmzC1"
     },
     {
       "added_at": "2024-06-13 12:36:56",

@@ -2,13 +2,13 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Genezio x Tiakola au top de la première playlist de rap français.
+> Niska au top de la première playlist de rap français.
 
-349 songs - 17 hr 54 min
+351 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+34](https://open.spotify.com/track/2bt248qUbKJOGOg1XkOi5T) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [PLS](https://open.spotify.com/album/41ag38GRqYpuKuiGHAS2AN) | 4:29 | 2025-05-15 |  |
+| [+34](https://open.spotify.com/track/2bt248qUbKJOGOg1XkOi5T) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [PLS](https://open.spotify.com/album/41ag38GRqYpuKuiGHAS2AN) | 4:29 | 2025-05-15 | 2025-08-08 |
 | [02:00](https://open.spotify.com/track/62L3acprR92NoRib0zWigG) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:17 | 2024-12-12 | 2025-06-27 |
 | [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 | 2023-10-12 | 2024-09-13 |
 | [10 minutes](https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:32 | 2023-05-04 | 2023-11-10 |
@@ -18,6 +18,7 @@
 | [3 MAI 2025](https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 MAI 2025](https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG) | 2:46 | 2024-02-08 | 2024-06-01 |
 | [3 singes](https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 singes](https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO) | 3:02 | 2023-02-16 | 2023-04-14 |
 | [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 | 2022-01-06 | 2022-12-09 |
+| [4h44](https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1) | [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [4h44](https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ) | 1:53 | 2025-08-07 |  |
 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-07 | 2024-06-07 |
 | [50G](https://open.spotify.com/track/2LU5GGxQEiNhv8QxQpBBlw) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [50G](https://open.spotify.com/album/03t4GcRusmQrdC0D1Pj5gP) | 3:58 | 2024-07-04 | 2025-03-28 |
 | [6G](https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [6G](https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt) | 2:52 | 2024-02-08 | 2024-04-05 |
@@ -107,7 +108,7 @@
 | [Décembre](https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Décembre](https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns) | 2:19 | 2023-03-09 | 2023-06-09 |
 | [EL GEMANO](https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [EL GEMANO](https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4) | 4:08 | 2024-08-22 | 2025-06-27 |
 | [Elle veut](https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Enfant2LaRue Vol\. 2](https://open.spotify.com/album/5Hq4ZIoPwHNYCQiDxxUIpG) | 3:06 | 2022-01-06 | 2022-07-15 |
-| [En vrai de vrai](https://open.spotify.com/track/0OkMUD6CfBPYG8sDle7PY9) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [En vrai de vrai](https://open.spotify.com/album/3cCY3cxdYsjtO8v2Sa1RPa) | 3:38 | 2025-06-05 |  |
+| [En vrai de vrai](https://open.spotify.com/track/0OkMUD6CfBPYG8sDle7PY9) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [En vrai de vrai](https://open.spotify.com/album/3cCY3cxdYsjtO8v2Sa1RPa) | 3:38 | 2025-06-05 | 2025-08-08 |
 | [Enlève tes pes\-sa \(feat\. JKSN, Kaaris & La Mano 1.9\)](https://open.spotify.com/track/6FK1JMPYXje5iZHs0URvmB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Enlève tes pes\-sa \(feat\. JKSN, Kaaris & La Mano 1.9\)](https://open.spotify.com/album/6UGicuL3fwytPub4tsRfsJ) | 3:34 | 2024-05-23 | 2024-11-15 |
 | [Entraînement](https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 4:11 | 2023-06-15 | 2023-09-24 |
 | [Entraînement](https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 4:11 | 2023-09-21 | 2023-10-13 |
@@ -252,6 +253,7 @@
 | [ONGBAK 2](https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE !](https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ) | 2:31 | 2022-01-06 | 2022-03-18 |
 | [Only You](https://open.spotify.com/track/73tNHdm3oeKcJrh0Xsrii1) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Only You](https://open.spotify.com/album/60r5RIcDErYpf1LrrpbjZT) | 3:01 | 2024-11-21 | 2025-01-10 |
 | [OTF](https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [ORIGINAL GANGSTA](https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR) | 2:29 | 2025-01-30 | 2025-05-02 |
+| [P.I.B](https://open.spotify.com/track/5YpjJNnPOEkTupO9Doy14b) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/0kCmk5DMxjBwgPbO4R2897) | 2:12 | 2025-08-07 |  |
 | [PANAMA](https://open.spotify.com/track/6czia5imsRfw18FRD8FJ5L) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SUR LE CHEMIN](https://open.spotify.com/album/0sLnQ2wypUWqf1Q15VXGSn) | 2:49 | 2024-02-22 | 2024-11-22 |
 | [PAPEL](https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [PAPEL](https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5) | 3:10 | 2022-07-14 | 2023-02-03 |
 | [Parapluie \(feat\. Maes\)](https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [A l'aube](https://open.spotify.com/album/09ObghqbDSf17hSctgsO2Z) | 3:14 | 2022-06-23 | 2022-10-14 |

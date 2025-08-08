@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-291 songs - 20 hr 47 min
+292 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Achtuhrvier](https://open.spotify.com/track/6MqW3vrYS9INbfmtz1UgT0) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5), [Pesante \(GER\)](https://open.spotify.com/artist/2G6DJAM91D5woggl7SK1VH) | [Them Sinners](https://open.spotify.com/album/7Mpr0C99nS6tZjrHJAIlvl) | 6:27 | 2024-04-09 | 2024-10-25 |
 | [Acid](https://open.spotify.com/track/2pwQrOz2ouKTqXxRSJmxbm) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Acid](https://open.spotify.com/album/2tCLqpTFDobTy2KAmuHNot) | 2:40 | 2025-05-23 | 2025-06-12 |
 | [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 | 2024-04-09 | 2024-10-07 |
+| [Acid World](https://open.spotify.com/track/3Dnz6RCYRybCh9liOFWYp8) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Rian Wood](https://open.spotify.com/artist/5llw3jYyaK1eBCYkbrjcGX), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [Acid World](https://open.spotify.com/album/5IH3CLYmgu9ghGj7gMYiwd) | 3:05 | 2025-07-25 |  |
 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 | 2024-04-09 |  |
 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 | 2024-04-09 | 2024-08-30 |
 | [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 | 2024-10-24 |  |
@@ -36,7 +37,7 @@
 | [Bass Powah](https://open.spotify.com/track/5Ruv1o6qTBlssVnzbNbR8f) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [Bass Powah](https://open.spotify.com/album/6CvFaZxzH1jcxBH71uDQ2Q) | 2:59 | 2025-02-20 | 2025-06-21 |
 | [Bassline People](https://open.spotify.com/track/7mtVEFOOTZynHfKiKWc617) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [VIDO](https://open.spotify.com/artist/28DVBoEuAN6d6D6u83v2JP) | [Bassline People](https://open.spotify.com/album/4IPoS9lJtbFTmtkScifnhX) | 4:38 | 2025-07-25 |  |
 | [Bassline Slut](https://open.spotify.com/track/65KTsqXbjSr9k8K6X65CIa) | [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Bassline Slut](https://open.spotify.com/album/6PVUkdViXIPjlmfrX0AzBX) | 2:17 | 2025-05-16 |  |
-| [Beat Back](https://open.spotify.com/track/09p4eclqTGbBzstGGAp6EC) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Beat Back](https://open.spotify.com/album/5ImWcsae8kUiIYZ3eN4uHt) | 2:29 | 2025-05-16 |  |
+| [Beat Back](https://open.spotify.com/track/09p4eclqTGbBzstGGAp6EC) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Beat Back](https://open.spotify.com/album/5ImWcsae8kUiIYZ3eN4uHt) | 2:29 | 2025-05-16 | 2025-08-08 |
 | [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 |  |
 | [Bella Ciao \- Hard Techno Remix](https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Bella Ciao \(Hard Techno Remix\)](https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF) | 3:38 | 2024-05-31 |  |
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 | 2024-09-27 |

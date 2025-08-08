@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Thodoris Ferris",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Claydee, Katerina",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -192,6 +192,28 @@
       "duration_ms": 170257,
       "name": "Agapi Mou Me Dioxneis",
       "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
+    },
+    {
+      "album": {
+        "name": "Ah Agori Mou",
+        "url": "https://open.spotify.com/album/3k6OSH82tRO96Fz8wBvM5T"
+      },
+      "artists": [
+        {
+          "name": "Claydee",
+          "url": "https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP"
+        },
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "Ah Agori Mou",
+      "url": "https://open.spotify.com/track/7FkeGkT44JKIfwv9YIJcUm"
     },
     {
       "album": {
@@ -714,7 +736,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 227500,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/4tfWR89TfZT9Np0YOpuQvW"
@@ -2955,6 +2977,40 @@
     },
     {
       "album": {
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "M\u00e0du",
+          "url": "https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "PARADISO",
+      "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
+    },
+    {
+      "album": {
         "name": "Paramilas",
         "url": "https://open.spotify.com/album/3ajm7TEjneVnRDzhcCdWnx"
       },
@@ -3550,7 +3606,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 177260,
       "name": "TI NA NAI AYTO",
       "url": "https://open.spotify.com/track/6WfPI1T8GMo5Thqknubhpy"

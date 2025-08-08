@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,807 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,820 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 65 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
 | 66 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\) \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 3:00 |
 | 67 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 |
-| 68 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
-| 69 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 |
+| 68 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 |
+| 69 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
 | 70 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 |
 | 71 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
 | 72 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 97 | [Am un secret](https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Am un secret](https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV) | 2:50 |
 | 98 | [Nebunia lui Babasha](https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Nebunia lui Babasha](https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or) | 2:25 |
 | 99 | [De la cer la pământ](https://open.spotify.com/track/3H6Tg6xtH17pra1yLKTTAz) | [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [De la cer la pământ](https://open.spotify.com/album/6lwycmufhXCRznVmYSyTsK) | 2:59 |
-| 100 | [Spania](https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Spania](https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc) | 2:39 |
+| 100 | [Așa Ceva](https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Așa Ceva](https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7) | 3:24 |
 
 Snapshot ID: `AAAAACebwysv5SBlOg1X/CE7GgKuylyG`

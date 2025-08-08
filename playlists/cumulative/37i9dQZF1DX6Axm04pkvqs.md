@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-93 songs - 13 hr 10 min
+94 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 | 2024-07-26 |  |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 |  |
 | [Intensify](https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Eternity in View](https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY) | 3:34 | 2024-07-26 |  |
-| [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 | 2024-07-26 |  |
+| [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 | 2024-07-26 | 2025-08-08 |
 | [Into the Deep \(Prayer Chant\)](https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 3:45 | 2024-07-26 |  |
 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 | 2024-07-26 |  |
 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 | 2024-07-26 |  |
@@ -96,6 +96,7 @@
 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2024-07-26 |  |
 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 | 2024-07-26 |  |
 | [Worship Chant](https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Worship Chant](https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA) | 1:44 | 2024-07-26 |  |
+| [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 | 2025-08-01 |  |
 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 | 2024-07-26 |  |
 | [Yahweh \- Live](https://open.spotify.com/track/4IHbHNYL5qlk53XPvxg8kc) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [The Declaration \(Live\)](https://open.spotify.com/album/61ORlXf6oUCesajS1E6FfQ) | 8:32 | 2024-07-26 | 2025-03-24 |
 | [Yeshua Hamashiach \(Overture\)](https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [OYINKAN KOKU\-BAZUAYE](https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:58 | 2024-07-26 |  |

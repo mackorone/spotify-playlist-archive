@@ -2,7 +2,7 @@
 
 ### [mood\. ](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: lovlaine
+> The R&B and good vibe tracks for your current mood\. Cover: Wizzy
 
 1,319 songs - 2 day 22 hr 34 min
 

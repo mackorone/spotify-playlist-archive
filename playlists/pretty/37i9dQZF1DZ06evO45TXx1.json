@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 14597,
+  "num_followers": 14609,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAE/lnezuOqnPVrFhvjFxDk",
+  "snapshot_id": "aJKbAAAAAAD1CTANRItsD3E0h4m2hR0s",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
+        "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 112615,
+      "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
+      "url": "https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 147692,
       "name": "NO PRIMEIRO ENCONTRO",
       "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
-        "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 112615,
-      "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
-      "url": "https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 110071,
-      "name": "\u00daltima Vez",
-      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
@@ -967,6 +947,34 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Horas",
+        "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/1gJ6nE9y60w21FhOzoqfRU"
+        },
+        {
+          "name": "PILANTRINHAS",
+          "url": "https://open.spotify.com/artist/78dDMfgEhmySKmPSK2rG0k"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "4 Horas",
+      "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
     },
     {
       "added_at": null,
@@ -1011,30 +1019,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Horas",
-        "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
       "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/1gJ6nE9y60w21FhOzoqfRU"
-        },
-        {
-          "name": "PILANTRINHAS",
-          "url": "https://open.spotify.com/artist/78dDMfgEhmySKmPSK2rG0k"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 164000,
-      "name": "4 Horas",
-      "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
+      "duration_ms": 110071,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
     },
     {
       "added_at": null,

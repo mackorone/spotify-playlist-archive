@@ -6,10 +6,30 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALSEVYm0bqtp/+dcikMB/nndzhGG",
+  "snapshot_id": "AAAAAFt8ijHChOIhMB63MoR7YNbWaGIX",
   "tracks": [
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "G\u00f3\u00f0ur Dagur",
+        "url": "https://open.spotify.com/album/5Tsagzg7fXWf71fbQQ4bnV"
+      },
+      "artists": [
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "P\u00e1ll \u00d3skar",
+          "url": "https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq"
+        }
+      ],
+      "duration_ms": 144165,
+      "name": "G\u00f3\u00f0ur Dagur",
+      "url": "https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Miklu betri einn",
         "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
@@ -77,7 +97,23 @@
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "International Superstars",
         "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
@@ -97,7 +133,31 @@
       "url": "https://open.spotify.com/track/16f7srBRJyFgwflwA6ZYDu"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Vildi Bara Segja",
+        "url": "https://open.spotify.com/album/4SO8Qt2v6DV9D2sGoQx9n4"
+      },
+      "artists": [
+        {
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        },
+        {
+          "name": "Steindi Jr.",
+          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "Vildi Bara Segja",
+      "url": "https://open.spotify.com/track/6eT593LOWtnVYyfb9QeGHE"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Huganum af \u00fe\u00e9r",
         "url": "https://open.spotify.com/album/4Mn0qnzP3UGEYKzrB4UFpW"
@@ -117,7 +177,7 @@
       "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "UPPI",
         "url": "https://open.spotify.com/album/7hYTBpfgGHbGdoKnpVt0PS"
@@ -137,39 +197,27 @@
       "url": "https://open.spotify.com/track/3cDe5VRkx6SznwOqZ6rIYq"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "LXS",
-        "url": "https://open.spotify.com/album/4vl1NroeMspg0dBvg19dnt"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IQKGkAnpXcXkvJKyj1yvM"
       },
       "artists": [
         {
           "name": "Birnir",
           "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "LXS",
-      "url": "https://open.spotify.com/track/4fCJv65IdSElmOyjsDEvRO"
-    },
-    {
-      "added_at": "2025-08-01 00:00:20",
-      "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
-      },
-      "artists": [
+        },
         {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+          "name": "Alaska1867",
+          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
         }
       ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
+      "duration_ms": 209248,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2jM6zqj9nOrMac175qUesR"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
@@ -185,7 +233,59 @@
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "LXS",
+        "url": "https://open.spotify.com/album/4vl1NroeMspg0dBvg19dnt"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "LXS",
+      "url": "https://open.spotify.com/track/4fCJv65IdSElmOyjsDEvRO"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "\u00dearft a\u00f0 vita",
+        "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "\u00dearft a\u00f0 vita",
+      "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
@@ -205,7 +305,7 @@
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
@@ -221,7 +321,7 @@
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Avicii Forever",
         "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
@@ -241,7 +341,7 @@
       "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Sauna Collection",
         "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
@@ -257,7 +357,7 @@
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "St\u00f3rir Str\u00e1kar",
         "url": "https://open.spotify.com/album/63tO5mZENF526DHAbrrjoj"
@@ -277,7 +377,7 @@
       "url": "https://open.spotify.com/track/7Lnklp5hNqusyupGsyBbaE"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Vitamin",
         "url": "https://open.spotify.com/album/5sFMfwuYslfFAH4PgJ30br"
@@ -297,7 +397,7 @@
       "url": "https://open.spotify.com/track/2bk8MeKPbwWc9Iwv4qjz7U"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Brat",
         "url": "https://open.spotify.com/album/705ULz5Chxa6TFQOIH14Ae"
@@ -317,7 +417,7 @@
       "url": "https://open.spotify.com/track/6Op0vTc3e1Dh1kkH1qkbHu"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -333,7 +433,7 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
@@ -349,7 +449,7 @@
       "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "American Heart",
         "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
@@ -365,7 +465,7 @@
       "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Old Phone",
         "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
@@ -381,7 +481,7 @@
       "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "EN EKKI HVA\u00d0?",
         "url": "https://open.spotify.com/album/6uWetcsqe2pPqIIJ7MveQM"
@@ -405,7 +505,7 @@
       "url": "https://open.spotify.com/track/6hJMIlTg4cx998pPW52NKR"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "One Thing",
         "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
@@ -421,23 +521,7 @@
       "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
-      "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 193443,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
-    },
-    {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
@@ -457,7 +541,7 @@
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Wait So Long",
         "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
@@ -473,7 +557,7 @@
       "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Lj\u00f3sin Kvikna",
         "url": "https://open.spotify.com/album/1lMfqUuKwmCuEHrYmzkdzd"
@@ -497,7 +581,7 @@
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
@@ -513,7 +597,7 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "End of the World",
         "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
@@ -529,7 +613,7 @@
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Bloodline (with Jelly Roll)",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
@@ -549,7 +633,7 @@
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "LYFTESSU",
         "url": "https://open.spotify.com/album/4SCGIctVtHj4PP5rLCacih"
@@ -569,7 +653,7 @@
       "url": "https://open.spotify.com/track/3TK7rt91upRhyDFScYcAn9"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "eternal sunshine deluxe: brighter days ahead",
         "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
@@ -585,7 +669,7 @@
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/7DINQCxwUQTbQpAwuPGLjo"
@@ -601,7 +685,7 @@
       "url": "https://open.spotify.com/track/2bGufV5inUlCxbDZNuQGJr"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Just Us (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
@@ -621,7 +705,7 @@
       "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Man Of The Year",
         "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
@@ -637,7 +721,7 @@
       "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
@@ -661,7 +745,7 @@
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "H\u00e6 (EM 2025)",
         "url": "https://open.spotify.com/album/0CM3ucphUxyIQx46Deudy0"
@@ -677,23 +761,7 @@
       "url": "https://open.spotify.com/track/2GAR7xyr2OE07Q1cEabUOZ"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
-      "album": {
-        "name": "Pretty Ugly",
-        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 158696,
-      "name": "Pretty Ugly",
-      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
-    },
-    {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Tough Luck",
         "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
@@ -709,7 +777,7 @@
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Stara",
         "url": "https://open.spotify.com/album/33lQUgEpLZ3eFp6pYCgbog"
@@ -729,7 +797,7 @@
       "url": "https://open.spotify.com/track/1wsHXAu7flPD93VcynB0U4"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Drive (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc"
@@ -749,7 +817,7 @@
       "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "Which One",
         "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
@@ -769,7 +837,7 @@
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -785,7 +853,7 @@
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
@@ -805,7 +873,7 @@
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "D\u00fdnam\u00edk",
         "url": "https://open.spotify.com/album/2w2XFZe0dSrOo5YFfq2dnC"
@@ -821,23 +889,7 @@
       "url": "https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
-      "album": {
-        "name": "Just Let It Be",
-        "url": "https://open.spotify.com/album/5t47qNf17bUlsPxZWEhksR"
-      },
-      "artists": [
-        {
-          "name": "Birgir",
-          "url": "https://open.spotify.com/artist/2hCU6EhDEmPjpqe8cAHAcm"
-        }
-      ],
-      "duration_ms": 176586,
-      "name": "Just Let It Be",
-      "url": "https://open.spotify.com/track/4r9ib0PMG96Xg73Lqok3kv"
-    },
-    {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
@@ -857,7 +909,7 @@
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "What Was That",
         "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
@@ -873,7 +925,7 @@
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
-      "added_at": "2025-08-01 00:00:20",
+      "added_at": "2025-08-08 00:00:13",
       "album": {
         "name": "I Don't Wanna Talk",
         "url": "https://open.spotify.com/album/5lQljp3QFWHdAeAZHwFOvK"
@@ -887,22 +939,6 @@
       "duration_ms": 175248,
       "name": "I Don't Wanna Talk",
       "url": "https://open.spotify.com/track/3iwU0ayGmLRR4tndbBAAWL"
-    },
-    {
-      "added_at": "2025-08-01 00:00:20",
-      "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     }
   ],
   "unique_name": "Hot Hits Iceland",

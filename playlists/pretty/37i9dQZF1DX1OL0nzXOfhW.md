@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Gordon Flanders
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  risy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,483 likes - 42 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,490 likes - 42 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [歌頓花園](https://open.spotify.com/track/02dfGgKRSaxADhn2yUfRH5) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌頓花園](https://open.spotify.com/album/25camrKxmkOfxpXuRJYe2A) | 3:58 |
-| 2 | [心中那位住客](https://open.spotify.com/track/6hgwn1nNPk8E8tEeoa6nwU) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [心中那位住客](https://open.spotify.com/album/0DveyseX1wZXbWiWKWqLJm) | 4:12 |
-| 3 | [全世界停電 第二年](https://open.spotify.com/track/6vGhndQaPCSX74TqP3lNe6) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [全世界停電 第二年](https://open.spotify.com/album/3QufEqxAe1zJncmGZuYXuF) | 4:12 |
-| 4 | [沒有送出的詩](https://open.spotify.com/track/5qLNCttpNjUaDoTsfryRuV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [沒有送出的詩](https://open.spotify.com/album/5gBZE79vF92KOaTFFpopCd) | 3:30 |
-| 5 | [Better Than Romance](https://open.spotify.com/track/3G2nQwlMkL8Q9MgoKs4pOP) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Better Than Romance](https://open.spotify.com/album/2P2gP4XGYtZURoYr4RWe2F) | 3:20 |
-| 6 | [Pretending](https://open.spotify.com/track/5Dqg1AVbpxtKLhaAOzs6XR) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Pretending](https://open.spotify.com/album/2pBDFxIlrAhxhPqTpwinOj) | 3:45 |
-| 7 | [Wasting My Time](https://open.spotify.com/track/5remZo5pOeZAUryQF2842f) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Wasting My Time](https://open.spotify.com/album/5DYv7TlkM27nMzhSgvbT9T) | 3:10 |
-| 8 | [Things Unsaid](https://open.spotify.com/track/304ESYskFpIQ8rdMsMu7WV) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Things Unsaid](https://open.spotify.com/album/471kPnkksxhX5FdLkXFmXb) | 2:17 |
-| 9 | [Lover From The Internet](https://open.spotify.com/track/0PPVCIPsw7yHMJDS1Knsfj) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Lover From The Internet](https://open.spotify.com/album/0RQ8GQIK4oIW7L58pyrJU1) | 3:34 |
+| 1 | [Better Than Romance](https://open.spotify.com/track/3G2nQwlMkL8Q9MgoKs4pOP) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Better Than Romance](https://open.spotify.com/album/2P2gP4XGYtZURoYr4RWe2F) | 3:20 |
+| 2 | [Pretending](https://open.spotify.com/track/5Dqg1AVbpxtKLhaAOzs6XR) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Pretending](https://open.spotify.com/album/2pBDFxIlrAhxhPqTpwinOj) | 3:45 |
+| 3 | [Wasting My Time](https://open.spotify.com/track/5remZo5pOeZAUryQF2842f) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Wasting My Time](https://open.spotify.com/album/5DYv7TlkM27nMzhSgvbT9T) | 3:10 |
+| 4 | [Things Unsaid](https://open.spotify.com/track/304ESYskFpIQ8rdMsMu7WV) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Things Unsaid](https://open.spotify.com/album/471kPnkksxhX5FdLkXFmXb) | 2:17 |
+| 5 | [Lover From The Internet](https://open.spotify.com/track/0PPVCIPsw7yHMJDS1Knsfj) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Lover From The Internet](https://open.spotify.com/album/0RQ8GQIK4oIW7L58pyrJU1) | 3:34 |
+| 6 | [歌頓花園](https://open.spotify.com/track/02dfGgKRSaxADhn2yUfRH5) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌頓花園](https://open.spotify.com/album/25camrKxmkOfxpXuRJYe2A) | 3:58 |
+| 7 | [心中那位住客](https://open.spotify.com/track/6hgwn1nNPk8E8tEeoa6nwU) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [心中那位住客](https://open.spotify.com/album/0DveyseX1wZXbWiWKWqLJm) | 4:12 |
+| 8 | [全世界停電 第二年](https://open.spotify.com/track/6vGhndQaPCSX74TqP3lNe6) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [全世界停電 第二年](https://open.spotify.com/album/3QufEqxAe1zJncmGZuYXuF) | 4:12 |
+| 9 | [沒有送出的詩](https://open.spotify.com/track/5qLNCttpNjUaDoTsfryRuV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [沒有送出的詩](https://open.spotify.com/album/5gBZE79vF92KOaTFFpopCd) | 3:30 |
 | 10 | [成就解鎖](https://open.spotify.com/track/1UhWP26NpSdF3jPvPPHLae) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [成就解鎖](https://open.spotify.com/album/4x8RbQgWx0kf4vyQL8i8Nm) | 3:04 |
 | 11 | [分手 \- Remix](https://open.spotify.com/track/1I0sJkUcwSAALlKHRtXirN) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [分手 \(Remix\)](https://open.spotify.com/album/2zFWkEEqD2chvQjmoxpTf6) | 3:12 |
 | 12 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 41 | [Let go](https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Let go](https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO) | 3:50 |
 | 42 | [Cardigan](https://open.spotify.com/track/4LsjTHKqcBJOifEcwGGtmA) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Cardigan](https://open.spotify.com/album/0wEn3maDNRTOSrHSKczgIP) | 3:51 |
 
-Snapshot ID: `AAAAABoRtFJrSW2p8j5sB4ojiVon3F4g`
+Snapshot ID: `AAAAAMhcZJPNe1sd495I/6lMke8ipbDX`

@@ -2,7 +2,7 @@
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover: Tame Impala
+> New music off the beaten track\. Cover: Night Tapes
 
 1,219 songs - 3 day 8 hr 45 min
 

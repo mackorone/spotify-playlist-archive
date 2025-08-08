@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,217 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,236 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [indecisão](https://open.spotify.com/track/597tlwDitK5TI2LMG2YsEI) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [brigas de inverno](https://open.spotify.com/album/6gnvPIrsqd1nIo3B2869KP) | 3:07 |
 | 75 | [Para](https://open.spotify.com/track/70KmlysOOWigv8xkJQyHqI) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC) | [Para](https://open.spotify.com/album/4UuEicFAf6lQaF8FjhWZs2) | 1:56 |
 
-Snapshot ID: `AAAAAJ5CEpT8cR43OVAm0txFDCp/Qf98`
+Snapshot ID: `AAAAAPpitgzKS0Zmr8kw5NW98y3gURz9`

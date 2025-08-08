@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Carla Fernandes
+> Najlepsze polskie piosenki na czasie\. Cover: Wiktoria Kida
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,019 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,050 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [OMG](https://open.spotify.com/track/2jacq0kAxW6eUSg2Vax1G1) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t) | [Błysk](https://open.spotify.com/album/12jeJg4lxOroEx0jS575KH) | 2:12 |
 | 65 | [mam dosyć striptiz clubów](https://open.spotify.com/track/77JAlSRiYQX3Hy5je6eZvo) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [mam dosyć striptiz clubów](https://open.spotify.com/album/29WqQEVn3lINejm16UYxUx) | 3:49 |
 
-Snapshot ID: `AAAAADYKPmfA7h3UcX0kYzMeM2s9RZkC`
+Snapshot ID: `AAAAAA5kRdmIgxHoZ2r2xVhM8ECMf411`

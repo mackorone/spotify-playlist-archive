@@ -2,7 +2,7 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: JOLIN
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus, Jeryl Lee
 
 224 songs - 14 hr 39 min
 

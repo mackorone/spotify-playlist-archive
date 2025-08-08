@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 298301,
+  "num_followers": 298343,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADzsuYjaqobRLt2rThjqXQD",
+  "snapshot_id": "aJKbAAAAAABRjQmEUg383J6A85SS9Zhz",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+        "name": "Things I Never Said",
+        "url": "https://open.spotify.com/album/2NQGMl5fRl0EBcRBOK10XI"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 352760,
-      "name": "Speed King - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55"
+      "duration_ms": 287479,
+      "name": "Things I Never Said - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 352760,
+      "name": "Speed King - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slaves and Masters (Bonus Track Version)",
         "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 326013,
       "name": "King of Dreams",
       "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things I Never Said",
-        "url": "https://open.spotify.com/album/2NQGMl5fRl0EBcRBOK10XI"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 287479,
-      "name": "Things I Never Said - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3"
     },
     {
       "added_at": null,

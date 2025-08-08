@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 41823,
+  "num_followers": 41865,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAACRG02Nt1QQ/jHYQnmZ22P",
+  "snapshot_id": "aJKbAAAAAAAdUYwEtMOxNd0SP3tO8lN7",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chevy Silverado",
+        "url": "https://open.spotify.com/album/4XbzaCm1Eg2kKza2rkTKIP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 221698,
+      "name": "Chevy Silverado",
+      "url": "https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
       },
@@ -211,26 +227,6 @@
       "duration_ms": 217600,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 200966,
-      "name": "Someone In This Room (feat. Bailey Zimmerman)",
-      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
     },
     {
       "added_at": null,
@@ -267,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chevy Silverado",
-        "url": "https://open.spotify.com/album/4XbzaCm1Eg2kKza2rkTKIP"
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
       "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 221698,
-      "name": "Chevy Silverado",
-      "url": "https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor"
+      "duration_ms": 200966,
+      "name": "Someone In This Room (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
     },
     {
       "added_at": null,

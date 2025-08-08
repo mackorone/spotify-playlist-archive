@@ -4,7 +4,7 @@
 
 > 📸 Miranda!
 
-587 songs - 1 day 6 hr 25 min
+588 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-31 | 2022-05-13 |
 | [Daytona](https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 2:53 | 2024-03-01 | 2024-06-14 |
 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 | 2021-12-31 | 2022-07-08 |
+| [De Papel](https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [De Papel](https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ) | 2:46 | 2025-08-08 |  |
 | [DE REPENTE](https://open.spotify.com/track/4GXApiro1ifDD3Ye2qFu7h) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:59 | 2024-11-15 | 2024-11-22 |
 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-07-05 | 2024-10-25 |
 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 | 2024-10-24 | 2025-05-09 |

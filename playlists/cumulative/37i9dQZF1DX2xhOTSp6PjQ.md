@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC?si=\_LoElR0\-Q3C6RrYnQvpzCg">Navigator Gcwensa</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K?si=yBMDlGZ\-RnaWxyvWgg6krg">Umafikizolo</a>
 
 253 songs - 20 hr 9 min
 
@@ -54,7 +54,7 @@
 | [Emanonini](https://open.spotify.com/track/4lwzWQYvRqYFI1lzilvYnt) | [Diary](https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Khuthuza](https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM) | [Emanonini](https://open.spotify.com/album/6ZG7EuXof1YjMSOZdt427Y) | 4:24 | 2024-06-27 | 2024-09-21 |
 | [Emendweni \(Official Audio\)](https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Inhlupheko](https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x) | 4:54 | 2023-01-30 |  |
 | [Emkhathini](https://open.spotify.com/track/0VaIf3loFYGRl9pVlnsYRL) | [Shwi noMtekhala](https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6), [Maphungula](https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8) | [Emkhathini](https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd) | 5:34 | 2019-09-24 | 2023-02-17 |
-| [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:17 | 2025-08-01 |  |
+| [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:18 | 2025-08-01 |  |
 | [Endumisweni](https://open.spotify.com/track/0FVJjE94m2bq1IUIF5NdZ3) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Igazi Lami](https://open.spotify.com/album/46cbUWGAf5JyhnxL31znQQ) | 4:25 | 2018-09-25 | 2022-07-29 |
 | [Endumisweni](https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936) | 4:25 | 2018-09-25 | 2022-10-14 |
 | [Endumisweni](https://open.spotify.com/track/3IPrZBtgOikNvhiUGQ8K4x) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2ABlTWUAfKDPnUThVIM614) | 4:25 | 2018-09-25 | 2023-02-01 |

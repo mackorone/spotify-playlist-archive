@@ -2,7 +2,7 @@
 
 ### [Novedades Indie](https://open.spotify.com/playlist/37i9dQZF1DXaaU1AaHpZeu)
 
-> Nuevos hallazgos de música indie latina, con Oh'laville en portada.
+> Nuevos hallazgos de música indie latina, con day2k en portada.
 
 6,332 songs - 14 day 12 hr 20 min
 

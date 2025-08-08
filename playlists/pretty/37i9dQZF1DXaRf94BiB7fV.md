@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Abeer Chopra
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,839 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,858 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sau Baaton Ki](https://open.spotify.com/track/3A9Kc7QLypZF8jpiRKUWpL) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Sage](https://open.spotify.com/artist/2FdypzkzEtMQYVNcLFttXi), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Sau Baaton Ki](https://open.spotify.com/album/2e6X9n2Ae5YXDqr5yZqP6v) | 3:23 |
+| 1 | [Sau Baaton Ki](https://open.spotify.com/track/3A9Kc7QLypZF8jpiRKUWpL) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Sage](https://open.spotify.com/artist/2FdypzkzEtMQYVNcLFttXi), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Sau Baaton Ki](https://open.spotify.com/album/2e6X9n2Ae5YXDqr5yZqP6v) | 3:22 |
 | 2 | [What If I Fly?](https://open.spotify.com/track/7BptjcTzpdGugMWpWz5UeL) | [Darshit Nayak](https://open.spotify.com/artist/2LAasBaHv5hP9CNYcAw3Th) | [What If I Fly?](https://open.spotify.com/album/0gFfDcJdEQAyL5Wbb7zTLC) | 3:21 |
 | 3 | [Aan Baan](https://open.spotify.com/track/0vbuZoirhPmK8NyJIGuvwQ) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Rutuja Lad](https://open.spotify.com/artist/6dcj7PFzG1ybNHHJyMUS3m) | [Aan Baan](https://open.spotify.com/album/0WjHJZqInHSNBjVGBN5WXq) | 4:57 |
 | 4 | [Bheeg Jaane De](https://open.spotify.com/track/6RdDejcCcDr5pl7aDQNGL1) | [Mrignain](https://open.spotify.com/artist/5irjJQ2ubwgewTQmvPflLG), [Piyush Shankar](https://open.spotify.com/artist/1BhuOVR89HEuGLypGbQJ7l) | [Bheeg Jaane De](https://open.spotify.com/album/4ppifZmBunqaukNDVRIuXV) | 3:42 |

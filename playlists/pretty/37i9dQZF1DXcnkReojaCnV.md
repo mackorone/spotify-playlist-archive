@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:2SNzxY1OsSCHBLVi77mpPQ">Joe Bonamassa</a> is taking over to share his blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,990 likes - 25 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,026 likes - 25 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 22 | [Hate the Bite](https://open.spotify.com/track/4SxC5JgtEf7Z0Dz7fBFj4Q) | [Harrell "Young Rell" Davenport](https://open.spotify.com/artist/6iB5eOcGNGZoSMwTUjsEPf) | [Hate the Bite](https://open.spotify.com/album/4BD2bBXb1XwSfVmbg1JQDB) | 2:32 |
 | 23 | [Six String Baby](https://open.spotify.com/track/6qlhUpeKhob6WJksrTOshl) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Six String Baby](https://open.spotify.com/album/55XOFwylsOP9z3liQ7VpMj) | 3:31 |
 | 24 | [Feel That Sting](https://open.spotify.com/track/4sHytClqeMxD1XI5CWXRqT) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Money & Power](https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh) | 3:29 |
-| 25 | [Three Hundred Pounds of Joy](https://open.spotify.com/track/6apS9KyNIEpZTLwwxHkEEk) | [Antone's 50th Allstars](https://open.spotify.com/artist/3Em3zuDg3PfjRqMQAO4GXE), [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Three Hundred Pounds of Joy](https://open.spotify.com/album/4OCgflGCqhPAukaiCH3H3T) | 4:47 |
+| 25 | [Three Hundred Pounds of Joy \(feat\. Los Lobos\)](https://open.spotify.com/track/6apS9KyNIEpZTLwwxHkEEk) | [Antone's 50th Allstars](https://open.spotify.com/artist/3Em3zuDg3PfjRqMQAO4GXE), [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Three Hundred Pounds of Joy](https://open.spotify.com/album/4OCgflGCqhPAukaiCH3H3T) | 4:47 |
 
 Snapshot ID: `AAAAAMMcXTo4Y4levQA8gyQGon56Gktm`

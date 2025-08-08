@@ -2,9 +2,9 @@
 
 ### [노래방 인기가요 \(Karaoke K\-Pop Bests\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
-> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: IU\)
+> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: KPop Demon Hunters\)
 
-337 songs - 21 hr 59 min
+338 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2022-02-23 |  |
 | [Fall in Fall](https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [ABOUT ME](https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ) | 3:51 | 2022-02-17 | 2023-11-16 |
 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 | 2022-02-17 |  |
+| [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 | 2025-08-08 |  |
 | [FANCY](https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 3:33 | 2021-03-11 | 2022-02-18 |
 | [Fantastic Baby](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:50 | 2025-02-14 |  |
 | [Fate](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:41 | 2024-04-02 |  |

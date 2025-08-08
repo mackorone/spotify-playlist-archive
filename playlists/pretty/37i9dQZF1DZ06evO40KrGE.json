@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 36958,
+  "num_followers": 36959,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAB2ebV9c8go6mRQcUtI///c",
+  "snapshot_id": "aJKbAAAAAAAswaG65L2iN5+vZ9KvnOAb",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Anos de Muito Louvor",
-        "url": "https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 335992,
-      "name": "Medley - Para Sempre / For\u00e7a Imensa / Onde Jesus Mora",
-      "url": "https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 290899,
       "name": "Contigo Est\u00e1",
       "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Anos de Muito Louvor",
+        "url": "https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 335992,
+      "name": "Medley - Para Sempre / For\u00e7a Imensa / Onde Jesus Mora",
+      "url": "https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
       "duration_ms": 300419,
       "name": "Deus Velar\u00e1 por Ti",
       "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For\u00e7a Imensa",
-        "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 302927,
-      "name": "Igreja Pequena",
-      "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
     },
     {
       "added_at": null,
@@ -955,6 +939,22 @@
       "duration_ms": 182508,
       "name": "Unidos Pelo Amor",
       "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For\u00e7a Imensa",
+        "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 302927,
+      "name": "Igreja Pequena",
+      "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
     },
     {
       "added_at": null,

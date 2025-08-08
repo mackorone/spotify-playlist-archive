@@ -6004,7 +6004,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "DETR\u00c1S DE TU ALMA",
       "url": "https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC"
@@ -9362,7 +9362,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d"
@@ -14103,6 +14103,24 @@
     },
     {
       "album": {
+        "name": "Habla Tu Espejo",
+        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259839,
+      "name": "No llora",
+      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
+    },
+    {
+      "album": {
         "name": "NO ME ALCANZA",
         "url": "https://open.spotify.com/album/5zhiZ71gpnlIcfKb6lh0xz"
       },
@@ -15294,7 +15312,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 205264,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"

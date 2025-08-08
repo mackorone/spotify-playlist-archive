@@ -4,7 +4,7 @@
 
 > se for pra sofrer, que seja com trilha sonora
 
-129 songs - 7 hr 32 min
+130 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 | 2023-10-06 |  |
 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 | 2023-10-06 |  |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2023-10-06 |  |
+| [Amar é dor](https://open.spotify.com/track/0KGzsjWpPi3Wjre5DaJQ5t) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Amar é dor](https://open.spotify.com/album/60UzUxJuZurdsMLBnkFqgX) | 2:29 | 2025-08-07 |  |
 | [Amigos nunca devem](https://open.spotify.com/track/2KNK4cM9bF5aGN1sYiQLPQ) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Amigos nunca devem](https://open.spotify.com/album/7MGFyly48Gyz77J73B7jXh) | 2:41 | 2024-12-23 | 2025-01-18 |
 | [Amor Blindado](https://open.spotify.com/track/4ppc4QcyrXPisRHliNZz9x) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Amor Blindado](https://open.spotify.com/album/3GLGVjoaqz6JE1HoIZIPPs) | 3:12 | 2024-12-20 | 2025-04-02 |
 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 | 2024-06-14 | 2024-11-04 |
@@ -76,7 +77,7 @@
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-10-06 | 2025-04-05 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-10-06 | 2024-04-19 |
 | [NÃO É CULPA DE NINGUÉM](https://open.spotify.com/track/5IO2b23uTZkDNA8LR09hIu) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:24 | 2024-04-26 | 2024-06-01 |
-| [O Café Num Esfriou](https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Pra Beber e Amar](https://open.spotify.com/album/5LfVXJXf0W8GhIVPftzlHP) | 2:31 | 2025-04-04 |  |
+| [O Café Num Esfriou](https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Pra Beber e Amar](https://open.spotify.com/album/5LfVXJXf0W8GhIVPftzlHP) | 2:31 | 2025-04-04 | 2025-08-08 |
 | [O Que Eu Ganho](https://open.spotify.com/track/1CNGqfIa5JyUj1cWfvGqAi) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [O Que Eu Ganho](https://open.spotify.com/album/2DVMqhsqQQ4832MzpOdElN) | 3:29 | 2023-10-27 | 2023-11-28 |
 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-04-04 |  |
 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 | 2023-10-06 |  |

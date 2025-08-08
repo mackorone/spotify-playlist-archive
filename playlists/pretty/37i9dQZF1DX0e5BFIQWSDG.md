@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Trannos
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,345 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,437 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PARADISO](https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [PARADISO](https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B) | 3:28 |
+| 1 | [PARADISO](https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Màdu](https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI) | [PARADISO](https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B) | 3:28 |
 | 2 | [KOUKLA](https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [XWRA TOU POTE](https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs) | 2:34 |
 | 3 | [MANDELA EFFECT](https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [BAD BOY 3](https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31) | 3:15 |
 | 4 | [Erhmia](https://open.spotify.com/track/2UePKNtKiYpgxpAhuDOxzS) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [Erhmia](https://open.spotify.com/album/3XQSiiFtEjajpU2BHfATAf) | 2:11 |

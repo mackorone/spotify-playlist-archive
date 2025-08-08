@@ -2,9 +2,9 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Skepsis, Kairo Keyz
+> The world's biggest Drum 'n' Bass playlist! Cover: Luude, Brodie, Sean Paul
 
-972 songs - 2 day 9 hr 36 min
+973 songs - 2 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [Load Up](https://open.spotify.com/track/6BiTUkRQlhd9Srio14CZcr) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Load Up](https://open.spotify.com/album/2J2ZwPE4wniGEQuWCFK6xu) | 2:57 | 2022-09-30 | 2022-11-25 |
 | [Loca](https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Loca](https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8) | 2:14 | 2022-12-09 | 2023-09-08 |
 | [London](https://open.spotify.com/track/1SzRnWcF5Irpio5qANh49N) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [London](https://open.spotify.com/album/4pwsvXDhlikFSjKtODnrug) | 2:30 | 2024-04-05 | 2024-09-27 |
-| [Lonely Love \(feat\. Ashley Singh\)](https://open.spotify.com/track/7kUEIhefUtTQjKjTSC267y) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Lonely Love \(feat\. Ashley Singh\)](https://open.spotify.com/album/3b8gR9P56TLXd5kcGJA7vs) | 3:18 | 2025-03-07 |  |
+| [Lonely Love \(feat\. Ashley Singh\)](https://open.spotify.com/track/7kUEIhefUtTQjKjTSC267y) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Lonely Love \(feat\. Ashley Singh\)](https://open.spotify.com/album/3b8gR9P56TLXd5kcGJA7vs) | 3:18 | 2025-03-07 | 2025-08-08 |
 | [Long as You Can](https://open.spotify.com/track/4DP59Vpv73jNlpGiWOV8m8) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy), [shanesa](https://open.spotify.com/artist/3yURJhwGDwdnfSlWqMa1IY), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Long As You Can](https://open.spotify.com/album/2BR8J8mBaQgoOmHE8TJEE3) | 4:06 | 2022-05-13 | 2022-07-26 |
 | [Look Good](https://open.spotify.com/track/17t0AxR06rVzKkMjqcixuY) | [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN), [Saji B](https://open.spotify.com/artist/2GshJryQncGba0yzA7LYiB) | [Look Good](https://open.spotify.com/album/1XWnRTwFb7XYd4nf5wBhcE) | 3:20 | 2023-09-08 | 2024-01-26 |
 | [looking 4 me](https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [looking 4 me](https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j) | 2:27 | 2023-09-08 | 2024-03-22 |
@@ -743,6 +743,7 @@
 | [Settle Down](https://open.spotify.com/track/3HrYBjMhKco2izd1cC7rJ9) | [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu), [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR) | [Settle Down](https://open.spotify.com/album/11cGr25AvbD3iahomIPaNc) | 3:51 | 2024-07-11 | 2024-11-29 |
 | [Sexy Money](https://open.spotify.com/track/3V86nh7BVSfSU2v306NRph) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Sexy Money](https://open.spotify.com/album/1ntjYo3rw4Jy7vLbNVr4yT) | 2:27 | 2025-05-15 |  |
 | [Shake the Foundations](https://open.spotify.com/track/41oMLrpW7SND8rk8GXYMsz) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Shake the Foundations](https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0) | 3:02 | 2023-10-06 | 2024-02-23 |
+| [Shanice \(feat\. Dr Ofori\)](https://open.spotify.com/track/5p5YEgT9w20UI8jJJLSbZU) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp) | [Shanice \(feat\. Dr Ofori\)](https://open.spotify.com/album/5zzNBgUZ2wArEQhaAm0i4K) | 2:34 | 2025-08-07 |  |
 | [Share The Fall \- Grooverider's Jeep Style Mix](https://open.spotify.com/track/4AAK7cr1Rot7dCQjFSydaO) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Reprazent](https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8), [Grooverider](https://open.spotify.com/artist/65g8RO3JqCUTigI7YR3dAw) | [New Forms \(20th Anniversary Edition\)](https://open.spotify.com/album/2zApqpvgkVNE1AFl2KQ64R) | 7:33 | 2022-08-24 | 2022-09-02 |
 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 | 2022-04-08 | 2022-04-21 |
 | [Shell](https://open.spotify.com/track/0TaxcAN1TjZHvFmwrY5SXw) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Shell](https://open.spotify.com/album/62uQYUjsOm5lv9fzdxvIPE) | 4:10 | 2022-04-08 | 2022-07-25 |

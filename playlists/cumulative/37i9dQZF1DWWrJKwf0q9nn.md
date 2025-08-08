@@ -2,7 +2,7 @@
 
 ### [New Dance 2025](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
 
-> Wekelijkse update! Cover: Dimitri Vegas, David Guetta, Loreen
+> Wekelijkse update! Cover: Marlon Hoffstadt & KI/KI
 
 120 songs - 5 hr 59 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: KARDI) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: 87dance) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -4196,7 +4196,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 132249,
       "name": "ease",
       "url": "https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR"
@@ -4674,6 +4674,24 @@
       "duration_ms": 253792,
       "name": "Everything To",
       "url": "https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW"
+    },
+    {
+      "album": {
+        "name": "Everything's okay",
+        "url": "https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O"
+      },
+      "artists": [
+        {
+          "name": "87dance",
+          "url": "https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255488,
+      "name": "Everything's okay",
+      "url": "https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK"
     },
     {
       "album": {
@@ -9032,6 +9050,24 @@
       "duration_ms": 163369,
       "name": "Left unsaid (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh"
+    },
+    {
+      "album": {
+        "name": "B-grade Media",
+        "url": "https://open.spotify.com/album/393OXdx9w3DIlGDxYMTDIo"
+      },
+      "artists": [
+        {
+          "name": "Park So Eun",
+          "url": "https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223584,
+      "name": "Lego World",
+      "url": "https://open.spotify.com/track/4Yc0l0eFYrcsCClR7TjzlX"
     },
     {
       "album": {
@@ -15588,7 +15624,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 217026,
       "name": "summer youth",
       "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"

@@ -2,7 +2,7 @@
 
 ### [Futurs Hits](https://open.spotify.com/playlist/37i9dQZF1DWUI9wBgUr4BH)
 
-> Les hits de demain sont déjà ici\. Photo : BLACKPINK
+> Les hits de demain sont déjà ici\. Photo : GIMS
 
 655 songs - 1 day 8 hr 36 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 34665,
+  "num_followers": 34669,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAlHZ1WSf/aYG7iMwPs2MAH",
+  "snapshot_id": "aJKbAAAAAAAbwh452EsnQyWnfalU14GG",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "War Clouds 1940",
+        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol.2 / 1936 - 1937",
         "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 166000,
       "name": "Limehouse Blues",
       "url": "https://open.spotify.com/track/6lMMTn73wVaDh1gJW3rsBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War Clouds 1940",
-        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Coucou",
-      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Django Reinhardt",
-        "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
-      "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol.2 / 1936 - 1937",
         "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 171106,
       "name": "Nagasaki",
       "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Django Reinhardt",
+        "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
+      "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Indispensible Django Reinhardt (1949-1950)",
-        "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol.12 / 1940 - 1941",
         "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Indispensible Django Reinhardt (1949-1950)",
+        "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol9 / 1939 - 1940",
         "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
       },
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 173770,
-      "name": "Djangology",
-      "url": "https://open.spotify.com/track/0mbJ17SU7NN2hWjRfYvOTL"
+      "duration_ms": 170960,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/0dFfiBFNd10yWiQ8vGrff8"
     },
     {
       "added_at": null,
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 170960,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/0dFfiBFNd10yWiQ8vGrff8"
+      "duration_ms": 173770,
+      "name": "Djangology",
+      "url": "https://open.spotify.com/track/0mbJ17SU7NN2hWjRfYvOTL"
     }
   ],
   "unique_name": "This Is Django Reinhardt",

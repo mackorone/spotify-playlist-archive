@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: Judith",
+  "description": "De nieuwste pop songs. Cover: Cameron Whitcomb",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -374,6 +374,24 @@
       "duration_ms": 149125,
       "name": "711",
       "url": "https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed"
+    },
+    {
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192043,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
     },
     {
       "album": {
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 176242,
       "name": "clich\u00e9",
       "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
@@ -3234,6 +3252,24 @@
       "duration_ms": 162031,
       "name": "Count To 4",
       "url": "https://open.spotify.com/track/7p4wucD9c7XQVZczrUSQKH"
+    },
+    {
+      "album": {
+        "name": "Craving",
+        "url": "https://open.spotify.com/album/5oBQtdWTpEk7s6zqrNqnUj"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263222,
+      "name": "Craving",
+      "url": "https://open.spotify.com/track/66ZvoZxBYlExaf2iU5UIc3"
     },
     {
       "album": {
@@ -3544,7 +3580,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 199588,
       "name": "Dance Away",
       "url": "https://open.spotify.com/track/1xQrhYFD4RzsOch0DVZC39"
@@ -4078,7 +4114,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 186766,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE"
@@ -5861,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202161,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
+    },
+    {
+      "album": {
         "name": "That! Feels Good!",
         "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
       },
@@ -6489,6 +6543,40 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "album": {
         "name": "Goldrush",
         "url": "https://open.spotify.com/album/5NLwkvch5mURFt3AJfvkQX"
       },
@@ -6925,6 +7013,24 @@
     },
     {
       "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5IfsqY3Si5LuPhwWDAYcZp"
+      },
+      "artists": [
+        {
+          "name": "Wulf",
+          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162903,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/70jFqZfGE1FHab3AfzNwNq"
+    },
+    {
+      "album": {
         "name": "petals",
         "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
       },
@@ -7182,7 +7288,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 171026,
       "name": "Heat",
       "url": "https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt"
@@ -9262,7 +9368,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 178619,
       "name": "In Between The Glass",
       "url": "https://open.spotify.com/track/2bewIDkh0QfcVoQNgRaIpB"
@@ -9702,7 +9808,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -10124,7 +10230,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 152727,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX"
@@ -10761,6 +10867,28 @@
     },
     {
       "album": {
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157540,
+      "name": "Loved You Better (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
+    },
+    {
+      "album": {
         "name": "LOVELIFE",
         "url": "https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq"
       },
@@ -10790,7 +10918,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 176214,
       "name": "Lovin Myself",
       "url": "https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN"
@@ -11066,7 +11194,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 180433,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
@@ -11496,7 +11624,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 162922,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/1YNKJeJImFDqyOtJD543uH"
@@ -14561,6 +14689,24 @@
     },
     {
       "album": {
+        "name": "Run Right Back",
+        "url": "https://open.spotify.com/album/7EKG015xNlijTSiNsEFbJo"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180502,
+      "name": "Run Right Back",
+      "url": "https://open.spotify.com/track/0U0WMKEjnY6HOwHc1mai8Q"
+    },
+    {
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -17164,7 +17310,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 153197,
       "name": "That's What I Love About You",
       "url": "https://open.spotify.com/track/08BcaMsWxkt9yk2ZJgkJ52"
@@ -17236,7 +17382,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 158392,
       "name": "The Better Paul",
       "url": "https://open.spotify.com/track/7HI3S7b9VDAfTpRO0PzTEV"
@@ -17742,7 +17888,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 163930,
       "name": "Touch Me Like a Gangster",
       "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"

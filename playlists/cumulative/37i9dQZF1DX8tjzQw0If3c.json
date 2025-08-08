@@ -1935,6 +1935,32 @@
     },
     {
       "album": {
+        "name": "Laut Kelabu",
+        "url": "https://open.spotify.com/album/42EQMlaWuo2SyGq3jNq4gl"
+      },
+      "artists": [
+        {
+          "name": "empty page.",
+          "url": "https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh"
+        },
+        {
+          "name": "Syiqin Azln",
+          "url": "https://open.spotify.com/artist/0TFLxpXh2OoCO6fqGPJVgK"
+        },
+        {
+          "name": "mimpi.",
+          "url": "https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186350,
+      "name": "Laut Kelabu",
+      "url": "https://open.spotify.com/track/6euN3gFQhWPjhrAF702WRz"
+    },
+    {
+      "album": {
         "name": "Something To Hide",
         "url": "https://open.spotify.com/album/66Oj77e2AP4A5kmT6K0KvS"
       },

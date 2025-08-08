@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Marioo
+> What is your love language? Say it in Swahili\.  Cover: Mocco Genius
 
-308 songs - 17 hr 22 min
+309 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [My Baby \(feat\. Chike\)](https://open.spotify.com/track/6bicSRBtEUReuqCpZQrsbi) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [My Baby \(feat\. Chike\)](https://open.spotify.com/album/6cZI2v0HjkvMZ2R12M14go) | 3:32 | 2024-03-14 | 2024-03-22 |
 | [My Boo](https://open.spotify.com/track/7MR6B14XLBuEt167xbdWB5) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Fancy Fingers](https://open.spotify.com/artist/1xdz3e3xkRKYMS9TqgIbi5) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:02 | 2023-04-20 | 2023-09-01 |
 | [My Chunun](https://open.spotify.com/track/037gbzOGoBdc1ghXlsuHev) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW), [Cliv](https://open.spotify.com/artist/0C07Qgst3VI7IdbyjYg8xL) | [My Chunun](https://open.spotify.com/album/6RYbxaMWtH59GPzIDzxAPy) | 3:49 | 2025-02-20 |  |
+| [My Sugar](https://open.spotify.com/track/19Y3LPmYTalVRWUsyLdNx3) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [My Sugar](https://open.spotify.com/album/0WQeKFYsWSLtnoAb30SjDW) | 3:03 | 2025-08-07 |  |
 | [My Sugar \(feat\. Nadia Mukami\)](https://open.spotify.com/track/5R26Xm8yAEf8mcHlaq8CYL) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [My Sugar \(feat\. Nadia Mukami\)](https://open.spotify.com/album/6WTpWQNFlycDkeO2mk7UJY) | 3:43 | 2023-06-29 | 2024-02-02 |
 | [My Vow](https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [My Vow](https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC) | 3:57 | 2022-05-26 | 2024-09-21 |
 | [Na Nusu](https://open.spotify.com/track/7jJvxqb67Og9yVDND0FMuV) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Na Nusu](https://open.spotify.com/album/2ZzUdZ3zB29k13CVThLZRd) | 4:23 | 2024-07-18 | 2024-10-04 |
@@ -211,7 +212,7 @@
 | [Nipo Nae](https://open.spotify.com/track/69MBM4xMmFI2yq3o6myuAC) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Definition Of Love](https://open.spotify.com/album/6Tc5JDXdbemLvldos05cfp) | 3:26 | 2022-05-26 | 2023-04-14 |
 | [Nishazoea](https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Nishazoea](https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu) | 3:01 | 2022-09-08 | 2023-02-10 |
 | [Nisiulizwe](https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Nisiulizwe](https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv) | 3:09 | 2024-02-29 |  |
-| [Nitadumu Nae](https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nitadumu Nae](https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02) | 3:33 | 2024-09-12 |  |
+| [Nitadumu Nae](https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nitadumu Nae](https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02) | 3:33 | 2024-09-12 | 2025-08-08 |
 | [Nitakupenda](https://open.spotify.com/track/06REPrp2fBDzLX2v7rQW2h) | [Lafrik](https://open.spotify.com/artist/5218C7zgbDGmoMXmf852Fr) | [Love Freaks](https://open.spotify.com/album/1ZSYlH5K7t5wNnM1jq45zT) | 4:05 | 2022-11-17 | 2023-01-20 |
 | [Nitampata Wapi \(feat\. Jay Melody\)](https://open.spotify.com/track/1adftZXbN4Z7vfmzV1z19E) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nitampata Wapi \(feat\. Jay Melody\)](https://open.spotify.com/album/2vl9B53es7gQqWQu9vYKWC) | 3:20 | 2025-01-09 | 2025-07-25 |
 | [Nitaubeba](https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Nitaubeba](https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI) | 4:10 | 2022-10-27 | 2024-10-18 |

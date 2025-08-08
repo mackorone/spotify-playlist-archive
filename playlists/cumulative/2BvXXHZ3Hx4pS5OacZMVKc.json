@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "akina",
+        "url": "https://open.spotify.com/album/22KmAzAlwdTa2td0bUKOtQ"
+      },
+      "artists": [
+        {
+          "name": "Ailow",
+          "url": "https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "akina",
+      "url": "https://open.spotify.com/track/177BaRPFyShVUsqPSoO8nw"
+    },
+    {
+      "album": {
         "name": "AKTIV",
         "url": "https://open.spotify.com/album/5DLiNZwFKKIRU8yZVwvE7b"
       },

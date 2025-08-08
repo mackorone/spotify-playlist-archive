@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. K4OS en portada.",
-  "num_followers": 42568,
+  "num_followers": 42569,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-07-02 03:01:04",
       "album": {
-        "name": "PURA POSE",
-        "url": "https://open.spotify.com/album/1fp5hN3kcj5N8gipxuCTX3"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 186721,
-      "name": "PURA POSE",
-      "url": "https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM"
-    },
-    {
-      "added_at": "2025-07-02 03:01:04",
-      "album": {
         "name": "Maquillada en la Cama",
         "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 274511,
       "name": "Un Taxi al Infierno",
       "url": "https://open.spotify.com/track/37luwEg6NhNo1PunTk7rBn"
+    },
+    {
+      "added_at": "2025-07-02 03:01:04",
+      "album": {
+        "name": "PURA POSE",
+        "url": "https://open.spotify.com/album/1fp5hN3kcj5N8gipxuCTX3"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 186721,
+      "name": "PURA POSE",
+      "url": "https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM"
     },
     {
       "added_at": "2025-07-02 03:01:04",
@@ -523,8 +523,8 @@
     {
       "added_at": "2025-07-02 03:01:04",
       "album": {
-        "name": "EL D\u00cdA QUE ME MUERA",
-        "url": "https://open.spotify.com/album/1OSkaCg5Cao9MjjLxURlLq"
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/5ZtxpX4GZk1voFF0j0bil4"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
         }
       ],
-      "duration_ms": 177225,
-      "name": "EL D\u00cdA QUE ME MUERA",
-      "url": "https://open.spotify.com/track/0TcBoNDYHV2OmWNGowR2Td"
+      "duration_ms": 159250,
+      "name": "Querida Yo",
+      "url": "https://open.spotify.com/track/782nCYFr5YBTzE7lhFRHAE"
     },
     {
       "added_at": "2025-07-02 03:01:04",
@@ -551,6 +551,38 @@
       "duration_ms": 140816,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo"
+    },
+    {
+      "added_at": "2025-07-02 03:01:04",
+      "album": {
+        "name": "La Capitana",
+        "url": "https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 148903,
+      "name": "Quiero irme con vos",
+      "url": "https://open.spotify.com/track/2wDsPVbbJuA1TPBAHrS5C4"
+    },
+    {
+      "added_at": "2025-07-02 03:01:04",
+      "album": {
+        "name": "Atelier",
+        "url": "https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "atelier",
+      "url": "https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd"
     },
     {
       "added_at": "2025-07-02 03:01:04",
@@ -599,38 +631,6 @@
     {
       "added_at": "2025-07-02 03:01:04",
       "album": {
-        "name": "Atelier",
-        "url": "https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "atelier",
-      "url": "https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd"
-    },
-    {
-      "added_at": "2025-07-02 03:01:04",
-      "album": {
-        "name": "La Capitana",
-        "url": "https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 148903,
-      "name": "Quiero irme con vos",
-      "url": "https://open.spotify.com/track/2wDsPVbbJuA1TPBAHrS5C4"
-    },
-    {
-      "added_at": "2025-07-02 03:01:04",
-      "album": {
         "name": "Performance Actitud (Pose)",
         "url": "https://open.spotify.com/album/1vWSxIGggXfHAxypX6INhv"
       },
@@ -671,8 +671,8 @@
     {
       "added_at": "2025-07-02 03:01:04",
       "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/5ZtxpX4GZk1voFF0j0bil4"
+        "name": "EL D\u00cdA QUE ME MUERA",
+        "url": "https://open.spotify.com/album/1OSkaCg5Cao9MjjLxURlLq"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
         }
       ],
-      "duration_ms": 159250,
-      "name": "Querida Yo",
-      "url": "https://open.spotify.com/track/782nCYFr5YBTzE7lhFRHAE"
+      "duration_ms": 177225,
+      "name": "EL D\u00cdA QUE ME MUERA",
+      "url": "https://open.spotify.com/track/0TcBoNDYHV2OmWNGowR2Td"
     },
     {
       "added_at": "2025-07-02 03:01:04",
@@ -723,18 +723,18 @@
     {
       "added_at": "2025-07-02 03:01:04",
       "album": {
-        "name": "a todo el mundo le pasa",
-        "url": "https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X"
+        "name": "La Capitana",
+        "url": "https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 143877,
-      "name": "morbo",
-      "url": "https://open.spotify.com/track/5tLFDcj9NOB7wZq1uCldyt"
+      "duration_ms": 185088,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/11f8EaN6u26oZ1yCS2tFUw"
     },
     {
       "added_at": "2025-07-02 03:01:04",
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-07-02 03:01:04",
       "album": {
-        "name": "La Capitana",
-        "url": "https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd"
+        "name": "a todo el mundo le pasa",
+        "url": "https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/11f8EaN6u26oZ1yCS2tFUw"
+      "duration_ms": 143877,
+      "name": "morbo",
+      "url": "https://open.spotify.com/track/5tLFDcj9NOB7wZq1uCldyt"
     },
     {
       "added_at": "2025-07-02 03:01:04",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-07-02 03:01:04",
       "album": {
+        "name": "No Vaya a la Fiesta",
+        "url": "https://open.spotify.com/album/35Dw7nFmy4Ss47WznyOHWL"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "No Vaya a la Fiesta",
+      "url": "https://open.spotify.com/track/7dmHWIrEt8fshzuCVcTEi7"
+    },
+    {
+      "added_at": "2025-07-02 03:01:04",
+      "album": {
         "name": "ya fue",
         "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 133853,
       "name": "El Beso",
       "url": "https://open.spotify.com/track/4VnTn9sIxQ705y1akD7ndm"
-    },
-    {
-      "added_at": "2025-07-02 03:01:04",
-      "album": {
-        "name": "No Vaya a la Fiesta",
-        "url": "https://open.spotify.com/album/35Dw7nFmy4Ss47WznyOHWL"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "No Vaya a la Fiesta",
-      "url": "https://open.spotify.com/track/7dmHWIrEt8fshzuCVcTEi7"
     },
     {
       "added_at": "2025-07-02 03:01:04",

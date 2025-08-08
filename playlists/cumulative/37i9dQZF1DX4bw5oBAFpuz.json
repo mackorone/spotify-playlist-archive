@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
@@ -424,6 +442,24 @@
       "duration_ms": 155823,
       "name": "As It Was - Acoustic",
       "url": "https://open.spotify.com/track/3Ui57V8wCESmGs615NTC2b"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/7vTA5iDvkhVHkRLYvVXWad"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/6zdmJ79GtRfpJJdaDPECYm"
     },
     {
       "album": {
@@ -694,7 +730,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 204108,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/0KHNcNfG3vYvW67f664TtO"
@@ -6401,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "album": {
         "name": "Outside In",
         "url": "https://open.spotify.com/album/4fjRR9lgDZ7Xo3V84S25i3"
       },
@@ -8456,7 +8510,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 185682,
       "name": "Take Mine",
       "url": "https://open.spotify.com/track/3xSYzg9q5ffAiYx8L9yqPd"
@@ -9908,7 +9962,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 195884,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa"

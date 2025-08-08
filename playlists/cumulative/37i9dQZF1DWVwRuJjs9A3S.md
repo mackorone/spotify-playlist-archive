@@ -2,7 +2,7 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> All the highlights from the world of indie! Cover: Hayley Williams
+> All the highlights from the world of indie! Cover: Hurula
 
 848 songs - 2 day 0 hr 40 min
 

@@ -4,7 +4,7 @@
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-171 songs - 9 hr 20 min
+172 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [J'attendrai](https://open.spotify.com/track/0ik9ZRMOJjA9GK2QCcuVXj) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Dalida By Ibrahim Maalouf](https://open.spotify.com/album/6yEmVECRBuuBzZzGkSvTUH) | 4:19 | 2022-01-20 |  |
 | [J'attendrai](https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 3:49 | 2023-04-27 | 2024-04-19 |
 | [J'attendrai](https://open.spotify.com/track/3UuHS1AHJzFeTX0ZG5Nx54) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 3:49 | 2022-01-20 | 2025-07-25 |
-| [J'suis pas d'ici](https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Comme Un Manouche Sans Guitare](https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z) | 2:10 | 2022-01-20 |  |
+| [J'suis pas d'ici](https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Comme Un Manouche Sans Guitare](https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z) | 2:10 | 2022-01-20 | 2025-08-08 |
 | [J'Suis Pas D'Ici](https://open.spotify.com/track/61FxaViELF86usDHyVQvvq) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Comme Un Manouche Sans Guitare](https://open.spotify.com/album/3LoBT4sO5ThbqUaD4fycUW) | 2:10 | 2022-09-13 | 2023-12-19 |
 | [Jardin d'hiver](https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 2:48 | 2022-01-20 |  |
 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 | 2022-01-20 |  |
@@ -170,6 +170,7 @@
 | [Tu t'laisses aller](https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Les deux guitares](https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC) | 3:41 | 2022-06-28 | 2024-01-16 |
 | [Tu t'laissez aller](https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [L'Orchestre Paul Mauriat](https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy), [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Le monde de la chanson, Vol\. 27: Charles Aznavour, Vol\. 2 "O toi la vie!"](https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk) | 3:39 | 2022-01-20 |  |
 | [Un Homme Et Une Femme](https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO) | [Nathalie Et Guillaume](https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i) | [Paris \- I Love You](https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN) | 2:45 | 2022-06-10 |  |
+| [Un homme et une femme](https://open.spotify.com/track/64aUYyD7RXmseLmB6WX56k) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Frenchy \(Deluxe Version\)](https://open.spotify.com/album/58bdFlzDzkwFRs6hct7CtW) | 3:00 | 2025-07-27 |  |
 | [Un jour comme un autre](https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 2:20 | 2022-01-20 |  |
 | [Un jour de différence](https://open.spotify.com/track/628WzzZejEljPNLB2an42K) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/0jgjEXCe0fR6LUJ0G0Udzg) | 3:23 | 2022-01-20 | 2022-02-07 |
 | [Un jour de différence](https://open.spotify.com/track/0IF3SDHSSdfMGA0lkkku51) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way](https://open.spotify.com/album/3C188l4wfBmwevK0cNn12X) | 3:23 | 2025-07-24 |  |

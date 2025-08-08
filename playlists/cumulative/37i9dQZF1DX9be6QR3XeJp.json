@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Elliot Schooling",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Greta Isaac",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -668,6 +668,24 @@
       "duration_ms": 219216,
       "name": "Can you",
       "url": "https://open.spotify.com/track/52VXLQTSzgIGjwFMx3ty3U"
+    },
+    {
+      "album": {
+        "name": "Dolly Zoom",
+        "url": "https://open.spotify.com/album/252UgdVnTPfKwiAKq5KLlx"
+      },
+      "artists": [
+        {
+          "name": "Greta Isaac",
+          "url": "https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141774,
+      "name": "CAR CRASH",
+      "url": "https://open.spotify.com/track/5vUQ9itUCoPJolzp2L2SqY"
     },
     {
       "album": {

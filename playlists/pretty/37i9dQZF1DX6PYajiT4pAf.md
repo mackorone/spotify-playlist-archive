@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Emilia, Rauw Alejandro, Danny Ocean, J Abecia, Mushkaa y más novedades de la semana.
+> Rvfv, Omar Courtz, TINI, Juan Magán & Abraham Mateo, Ed Sheeran y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,007 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,070 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 54 | [Muñequeo](https://open.spotify.com/track/2eIj78hNbCogsJsrbGxbRk) | [Klandestina](https://open.spotify.com/artist/3Q2wR6qUfEAEWglYoBiifm), [POLEMIK](https://open.spotify.com/artist/5tKiOjjO5OYcUkWTRPniOB) | [Muñequeo](https://open.spotify.com/album/5Xut9BQybqujqJpXBV9SOW) | 2:12 |
 | 55 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
 
-Snapshot ID: `AAAAAIVsKIILJ1Hb2avbJ1G0PmHHdJsK`
+Snapshot ID: `AAAAAIGLIaCr9OtrSRElllu+JEywHs/+`

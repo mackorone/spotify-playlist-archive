@@ -65,6 +65,24 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 75885,
       "name": "Broly",
       "url": "https://open.spotify.com/track/5X3vL3tRWfegfhOdHrjJR3"
@@ -1254,10 +1272,28 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 191403,
       "name": "If I tell you",
       "url": "https://open.spotify.com/track/0GvXLkClNLfrr8K7lBPjK0"
+    },
+    {
+      "album": {
+        "name": "If I tell you",
+        "url": "https://open.spotify.com/album/4g3f4iBv0Vus7eOFe9zqu3"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 le Blanc",
+          "url": "https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191403,
+      "name": "If I tell you",
+      "url": "https://open.spotify.com/track/547CS3a05csbbZLDIEkWVS"
     },
     {
       "album": {
@@ -1316,6 +1352,28 @@
       "duration_ms": 147100,
       "name": "In de naam van...",
       "url": "https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c"
+    },
+    {
+      "album": {
+        "name": "in love with us",
+        "url": "https://open.spotify.com/album/6o1OUM1A0nCVCYD7QGFsld"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160859,
+      "name": "in love with us",
+      "url": "https://open.spotify.com/track/44onYrHxP7S8kIrv779m6H"
     },
     {
       "album": {
@@ -1600,7 +1658,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 251866,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem KayBlack, Lauana Prado, Demi Lovato, Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,128,756 likes - 91 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,128,673 likes - 91 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 29 | [Travesseiro de Pluma \- Acústico](https://open.spotify.com/track/7LMXzSN2AmuJ0jLUzgK6m5) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Rayane & Rafaela \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/6JOFHlpUQLYwpuJaMzZH6z) | 2:18 |
 | 30 | [Pilantra \- Ao Vivo](https://open.spotify.com/track/36K3iRcKerxylUT8JV5dUb) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Pilantra \(Ao Vivo\)](https://open.spotify.com/album/39l6ZC2Hr0CAVFAoQJZ164) | 2:20 |
 | 31 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 |
-| 32 | [Rihanna](https://open.spotify.com/track/4e1eBHgRbKYxUWtcmR72zW) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Rihanna](https://open.spotify.com/album/35CCa3albmr5IJOjEMfsMO) | 3:20 |
+| 32 | [Rihanna](https://open.spotify.com/track/4e1eBHgRbKYxUWtcmR72zW) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Rihanna](https://open.spotify.com/album/35CCa3albmr5IJOjEMfsMO) | 3:20 |
 | 33 | [Menor Quente](https://open.spotify.com/track/3b6TBSzy8D20v7i9eV9Ecu) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ) | [Menor Quente](https://open.spotify.com/album/1STv9KELC4CnmXbk2oOSZH) | 3:00 |
 | 34 | [Se Dinheiro Fosse Tudo](https://open.spotify.com/track/2z7ei6GAStblk854cn1SjE) | [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [DJ ARTHUZIIN](https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C) | [Se Dinheiro Fosse Tudo](https://open.spotify.com/album/0BD4K7ymUOeAMT3zy5Gypy) | 1:23 |
 | 35 | [Somebody To Love](https://open.spotify.com/track/6OPopjRnpoCGU71lECUL4t) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Somebody To Love](https://open.spotify.com/album/5ZVcSrP8UZENH8D21iJYDG) | 3:43 |

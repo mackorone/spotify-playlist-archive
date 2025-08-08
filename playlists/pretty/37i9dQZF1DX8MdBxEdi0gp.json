@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 168723,
+  "num_followers": 168774,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Mi Amiga, Mi Esposa, Mi Amante",
+      "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 180866,
       "name": "Mi gran noche",
       "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
       "artists": [
         {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 183026,
-      "name": "Mi Amiga, Mi Esposa, Mi Amante",
-      "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
+      "duration_ms": 192426,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
-        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Querido Pablo",
         "url": "https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 242960,
       "name": "El Breve Espacio en Que No Estas",
       "url": "https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
+        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Serie 32",
         "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 230400,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "2 en 1 (Amigo Mio, Cuenta Conmigo)",
-        "url": "https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih"
-      },
-      "artists": [
-        {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
-        }
-      ],
-      "duration_ms": 331400,
-      "name": "Callados",
-      "url": "https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
         "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 181960,
       "name": "Lo Que Te Queda",
       "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "2 en 1 (Amigo Mio, Cuenta Conmigo)",
+        "url": "https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih"
+      },
+      "artists": [
+        {
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+        }
+      ],
+      "duration_ms": 331400,
+      "name": "Callados",
+      "url": "https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+        "name": "15 Exitos En Espanol",
+        "url": "https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q"
       },
       "artists": [
         {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+          "name": "Nicola Di Bari",
+          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
         }
       ],
-      "duration_ms": 259866,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
+      "duration_ms": 197733,
+      "name": "El Corazon Es Un Gitano",
+      "url": "https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1163,34 +1163,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Originales (20 Exitos)",
-        "url": "https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc"
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
         }
       ],
-      "duration_ms": 187120,
-      "name": "Ella y El",
-      "url": "https://open.spotify.com/track/67k0kAfn0S7bCns6zQgWVs"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "15 Exitos En Espanol",
-        "url": "https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q"
-      },
-      "artists": [
-        {
-          "name": "Nicola Di Bari",
-          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "El Corazon Es Un Gitano",
-      "url": "https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ"
+      "duration_ms": 259866,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1207,6 +1191,22 @@
       "duration_ms": 251306,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Originales (20 Exitos)",
+        "url": "https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Ella y El",
+      "url": "https://open.spotify.com/track/67k0kAfn0S7bCns6zQgWVs"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Flor de Azalea",
-      "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 219813,
       "name": "Este Terco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Flor de Azalea",
+      "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Solo un Hombre",
+        "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Fresa Salvaje",
+      "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Tesoros De Coleccion - Sonia Rivas",
         "url": "https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 218426,
       "name": "El Reencuentro",
       "url": "https://open.spotify.com/track/53Af346CFsAjqvluCJud6T"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Solo un Hombre",
-        "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Fresa Salvaje",
-      "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Just",
-        "url": "https://open.spotify.com/album/4HpiCloJ987Iq58KRIWTMD"
-      },
-      "artists": [
-        {
-          "name": "Paulina",
-          "url": "https://open.spotify.com/artist/5Vc4qPnItSUWhOZl7J6yUa"
-        }
-      ],
-      "duration_ms": 166217,
-      "name": "Desilusi\u00f3n",
-      "url": "https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "De Coraz\u00f3n a Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0noFvo2EkNuCzDXbsS54Nx"
       },
@@ -1911,6 +1895,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/4HpiCloJ987Iq58KRIWTMD"
+      },
+      "artists": [
+        {
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/5Vc4qPnItSUWhOZl7J6yUa"
+        }
+      ],
+      "duration_ms": 166217,
+      "name": "Desilusi\u00f3n",
+      "url": "https://open.spotify.com/track/5Mc9dGVnkYCFIvSvWJnOho"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "El Ruise\u00f1or de America",
         "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
@@ -1923,22 +1923,6 @@
       "duration_ms": 158376,
       "name": "Rondando Tu Esquina",
       "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Serie Coleccion 15 Autenticos Exitos",
-        "url": "https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 174426,
-      "name": "En Mi Viejo San Juan",
-      "url": "https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1959,18 +1943,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8"
+        "name": "Serie Coleccion 15 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf"
       },
       "artists": [
         {
-          "name": "Vikki Carr",
-          "url": "https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 209733,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/32vg03zWdgSxMiNj6Xzm5I"
+      "duration_ms": 174426,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1987,6 +1971,22 @@
       "duration_ms": 180320,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8"
+      },
+      "artists": [
+        {
+          "name": "Vikki Carr",
+          "url": "https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/32vg03zWdgSxMiNj6Xzm5I"
     },
     {
       "added_at": "2024-07-11 01:42:53",

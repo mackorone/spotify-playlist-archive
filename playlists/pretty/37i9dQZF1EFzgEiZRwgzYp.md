@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzgEiZRwgzYp.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0BMqnt7PY8cJsecB4L1Eum">yseult</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 21 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 21 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzgEiZRwgzYp.md) - [plain]
 | 20 | [ANGER](https://open.spotify.com/track/2rrrJY1m0G5vjUGC1cjQnO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 6:29 |
 | 21 | [CUTE](https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
 
-Snapshot ID: `Ab4zngAAAAD1CltdPMlZJt2RvN9yWchb`
+Snapshot ID: `Ab45ZgAAAAByHuBrAo/zWpInWtV0yQNs`

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-496 songs - 1 day 5 hr 34 min
+498 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa) | 4:07 | 2021-01-03\* | 2022-07-29 |
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 | 2023-02-24 |
-| [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 |  |
+| [baby blue frigidaire mini fridge](https://open.spotify.com/track/6YWKvsh28AOZKYHJZksbaX) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [baby blue frigidaire mini fridge](https://open.spotify.com/album/0GPaa5BO7kPvc6pjhxEjya) | 3:39 | 2025-08-07 |  |
+| [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 | 2025-08-08 |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 | 2024-04-19 |
 | [berceuse \(elle veille encore\)](https://open.spotify.com/track/7o2VWOEH0XznJlwW0OllFE) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1), [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR) | [elle veille encore](https://open.spotify.com/album/36stZjlUhNpOzaK6MIvV4l) | 3:38 | 2024-11-08 |  |
 | [Bigger Pieces](https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 5:05 | 2025-02-14 |  |
@@ -139,6 +140,7 @@
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-07-08 | 2023-09-16 |
 | [Fontaine à vœux](https://open.spotify.com/track/4S9LrQt71r4XcUQylmgyGM) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 3:30 | 2021-01-03\* | 2022-07-29 |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-02-12 |
+| [Four Strong Winds](https://open.spotify.com/track/1OfBdmEGmQsM1HNhJtCrPP) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu), [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [Four Strong Winds](https://open.spotify.com/album/7qmQjm6Saz2Ha4c9geziHl) | 3:57 | 2025-08-07 |  |
 | [Frisbee & marmelade](https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 3:24 | 2023-03-10 |  |
 | [Fuck you mon amour](https://open.spotify.com/track/5yAibZYjXyGkFPZvQLAdiM) | [Bernard Adamus](https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE) | [C'qui nous reste du Texas](https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm) | 4:30 | 2021-01-15 | 2022-01-29 |
 | [Garde le nord](https://open.spotify.com/track/4TAMqukJfBGUI2KEkc3HSu) | [Lily Tea](https://open.spotify.com/artist/1Pjd7h78IDqjwql6rrhthZ) | [Garde le nord](https://open.spotify.com/album/73M2NHUYWCNEilZm0e0sTn) | 3:03 | 2021-03-09 | 2021-05-07 |
@@ -146,7 +148,7 @@
 | [Girouette](https://open.spotify.com/track/7fBzPwiKk8GvRKiCwQ3NFr) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 3:19 | 2021-01-03\* | 2022-07-29 |
 | [Glossover](https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Glossover](https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe) | 3:49 | 2023-02-11 | 2024-01-29 |
 | [Go Get It](https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Go Get It](https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV) | 2:21 | 2022-01-14 |  |
-| [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 | 2024-01-12 |  |
+| [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 | 2024-01-12 | 2025-08-08 |
 | [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 | 2022-05-13 |  |
 | [Grande migration](https://open.spotify.com/track/4akBNRfIRwNawhhojfXGWo) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Grande migration](https://open.spotify.com/album/1fyIMqskJbbSyvpfgZTE0z) | 5:12 | 2022-04-22 | 2022-07-27 |
 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 | 2021-10-02 |  |

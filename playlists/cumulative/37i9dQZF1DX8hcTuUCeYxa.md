@@ -2,7 +2,7 @@
 
 ### [Indie Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX8hcTuUCeYxa)
 
-> Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: SPARKLING
+> Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Of Monsters and Men
 
 1,727 songs - 4 day 3 hr 19 min
 

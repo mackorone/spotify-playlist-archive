@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 13391,
+  "num_followers": 13412,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABhdaL0tZ51v4mbgebxczAQ",
+  "snapshot_id": "aJKbAAAAAADrkUkLYAKRr91Xsmf/IvT/",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 212041,
+      "name": "Ludo",
+      "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 162162,
       "name": "Milli (feat. Victony)",
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 212041,
-      "name": "Ludo",
-      "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Ba$Tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/2gf8dPfeIdXHqugQvfaCf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Not You, It's Summer",
         "url": "https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 192822,
       "name": "Special",
       "url": "https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Ba$Tard, Don't Be Silly",
+      "url": "https://open.spotify.com/track/2gf8dPfeIdXHqugQvfaCf3"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 192284,
+      "name": "All Power",
+      "url": "https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 158833,
       "name": "Pier 46",
       "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 192284,
-      "name": "All Power",
-      "url": "https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 168667,
+      "name": "Chop & Slide",
+      "url": "https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 175200,
       "name": "Daily Bread",
       "url": "https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 168667,
-      "name": "Chop & Slide",
-      "url": "https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 163200,
       "name": "Maria",
       "url": "https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo"
     },
     {
       "added_at": null,

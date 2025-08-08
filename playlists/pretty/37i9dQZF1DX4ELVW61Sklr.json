@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 218154,
+  "num_followers": 218145,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "I Can Hardly Wait 'Til Christmas",
+      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 140140,
       "name": "Santa Baby (with Summer Walker)",
       "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "I Can Hardly Wait 'Til Christmas",
-      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
     },
     {
       "added_at": "2024-12-13 10:14:16",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
     },
     {
-      "added_at": "2024-11-22 08:50:08",
-      "album": {
-        "name": "Coco By The Fireplace",
-        "url": "https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Santa Is Me",
-      "url": "https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD"
-    },
-    {
       "added_at": "2024-12-20 17:23:28",
       "album": {
         "name": "Secret Santa",
@@ -859,6 +843,22 @@
       "duration_ms": 179277,
       "name": "Secret Santa",
       "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Litmas",
+        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Litmas",
+      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
       "added_at": "2024-11-22 08:50:08",
@@ -877,20 +877,40 @@
       "url": "https://open.spotify.com/track/7uWtrIBRUQOQ3cpLLzwBEk"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2024-11-22 08:50:08",
       "album": {
-        "name": "Litmas",
-        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+        "name": "Coco By The Fireplace",
+        "url": "https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL"
       },
       "artists": [
         {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 188889,
-      "name": "Litmas",
-      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+      "duration_ms": 161684,
+      "name": "Santa Is Me",
+      "url": "https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas with PJ Morton (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Shel\u00e9a",
+          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
+        }
+      ],
+      "duration_ms": 203207,
+      "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
+      "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
     },
     {
       "added_at": "2024-11-02 22:05:31",
@@ -915,26 +935,6 @@
       "duration_ms": 227160,
       "name": "Make It Home (feat. PJ Morton & Sevyn Streeter)",
       "url": "https://open.spotify.com/track/3hmJxTHHlEoMeBfH8KUiGU"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas with PJ Morton (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Shel\u00e9a",
-          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
-        }
-      ],
-      "duration_ms": 203207,
-      "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
-      "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "A Mary Mary Christmas",
-        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Hark the Herald Angels Sing",
-      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "December Baby",
         "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 237660,
       "name": "Wishlist (feat. PJ Morton)",
       "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "A Mary Mary Christmas",
+        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Hark the Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
     },
     {
       "added_at": "2022-12-16 05:50:43",
@@ -1241,20 +1241,20 @@
       "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
+      "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Christmas All Year",
-        "url": "https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl"
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
       },
       "artists": [
         {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 173207,
-      "name": "Christmas All Year",
-      "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
+      "duration_ms": 214183,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1273,20 +1273,20 @@
       "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2023-12-08 05:22:39",
       "album": {
-        "name": "Def The Halls",
-        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+        "name": "Christmas All Year",
+        "url": "https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
         }
       ],
-      "duration_ms": 214183,
-      "name": "Wrap Me Up",
-      "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
+      "duration_ms": 173207,
+      "name": "Christmas All Year",
+      "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Spend Christmas With You",
+        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Spend Christmas With You",
+      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
       },
@@ -1361,22 +1377,6 @@
       "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Spend Christmas With You",
-        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Spend Christmas With You",
-      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Still Home For The Holidays",
@@ -1397,6 +1397,22 @@
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     },
     {
+      "added_at": "2024-11-22 17:56:01",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Little Drummer Girl",
+      "url": "https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q"
+    },
+    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "This Christmas",
@@ -1415,22 +1431,6 @@
       "duration_ms": 242563,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
-    },
-    {
-      "added_at": "2024-11-22 17:56:01",
-      "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Little Drummer Girl",
-      "url": "https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q"
     },
     {
       "added_at": "2023-11-18 05:00:00",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
     },
     {
+      "added_at": "2024-11-22 17:56:01",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The Most Wonderful Time",
@@ -1505,20 +1521,20 @@
       "url": "https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ"
     },
     {
-      "added_at": "2024-11-22 17:56:01",
+      "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
       },
       "artists": [
         {
-          "name": "Xscape",
-          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 247266,
-      "name": "Christmas Without You",
-      "url": "https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8"
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1535,22 +1551,6 @@
       "duration_ms": 283560,
       "name": "This Christmas (Could Be The One)",
       "url": "https://open.spotify.com/track/02fFV8eUDKAyLayxw77RCQ"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Christmas, Love And You",
-        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
-      },
-      "artists": [
-        {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Christmas, Love, and You",
-      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "Save The World Remix Suite",
         "url": "https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 299829,
       "name": "I Want To Come Home For Christmas - SaLaAM ReMi Remix",
       "url": "https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Christmas, Love And You",
+        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Christmas, Love, and You",
+      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
     },
     {
       "added_at": "2023-11-03 05:45:27",

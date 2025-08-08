@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Emilia, Rauw Alejandro, Danny Ocean, J Abecia, Mushkaa y más novedades de la semana.
+> Rvfv, Omar Courtz, TINI, Juan Magán & Abraham Mateo, Ed Sheeran y más novedades de la semana.
 
 2,876 songs - 6 day 1 hr 40 min
 

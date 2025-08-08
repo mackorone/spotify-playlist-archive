@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-574 songs - 2 day 5 hr 4 min
+575 songs - 2 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fix My Eyes on You](https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/05Ukp4CghkfNxqCdw8LolI) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 5:32 | 2022-06-09 | 2024-01-13 |
 | [Fix My Eyes on You](https://open.spotify.com/track/2PlOjHpNAsXL8is3aNcs3F) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Born of God](https://open.spotify.com/album/27grzoIl35MGO7EpQFkZZA) | 5:32 | 2023-12-15 | 2024-04-19 |
 | [Flow](https://open.spotify.com/track/1cVEbVHKp5SiwwDKJOpbuZ) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Flow](https://open.spotify.com/album/0hdkyEne6WIVmQRKXtQ0Kc) | 2:29 | 2024-11-01 | 2024-11-22 |
+| [Follow](https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg) | [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT), [Gwamba](https://open.spotify.com/artist/6hROVnzmmEdJChCcpQRBQx), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [20 Somethxngs](https://open.spotify.com/album/4NHCHM9FOIFf0um2ZDTBDi) | 4:29 | 2025-07-25 |  |
 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2022-06-09 |  |
 | [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 | 2024-02-16 |
 | [Forever You Are God](https://open.spotify.com/track/1STQoJfd8xcqv0tKMhf1Ri) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Breathe](https://open.spotify.com/album/254N1MBygkKvBoWrKToJ0K) | 4:04 | 2023-12-05 | 2023-12-11 |
@@ -369,7 +370,7 @@
 | [Oghene Doh](https://open.spotify.com/track/5ShqFhdzGbOUX9wQir73l8) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF) | [A Collection of Singles](https://open.spotify.com/album/4znHaZ87wk9G5AMTsi0MnK) | 3:17 | 2023-12-05 | 2023-12-11 |
 | [Oghene Me](https://open.spotify.com/track/6p6Zqs0sTpKbYY7p3NS4Yg) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 4:56 | 2023-12-05 | 2023-12-11 |
 | [Ogo](https://open.spotify.com/track/48cvOppznTu76T12L5RCF9) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Ogo](https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj) | 6:18 | 2024-11-08 | 2024-12-14 |
-| [OH MY GOD](https://open.spotify.com/track/6QQhpDzhLjUPPCDbmG5OQj) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Tay Nay](https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i) | [OH MY GOD](https://open.spotify.com/album/3jA7bdqXtQEOD2n9do3jsE) | 2:40 | 2025-07-18 |  |
+| [OH MY GOD](https://open.spotify.com/track/6QQhpDzhLjUPPCDbmG5OQj) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Tay Nay](https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i) | [OH MY GOD](https://open.spotify.com/album/3jA7bdqXtQEOD2n9do3jsE) | 2:40 | 2025-07-18 | 2025-08-08 |
 | [Oh When The Saint](https://open.spotify.com/track/2XW2C5YvxXwnhmnjBTX4mX) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Oh When The Saint](https://open.spotify.com/album/5VwaJl4eBX8IrPnCvmK8Ls) | 2:24 | 2025-07-18 | 2025-08-01 |
 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 | 2023-08-25 | 2024-08-22 |
 | [Okemmuo \- The Spirit of the Spirit](https://open.spotify.com/track/1sK5xKa8ewU1g6oPngoAeq) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s) | 5:54 | 2022-10-14 | 2022-11-05 |

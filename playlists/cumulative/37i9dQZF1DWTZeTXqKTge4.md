@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Loud
 
-831 songs - 1 day 18 hr 8 min
+832 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,7 @@
 | [Panamera](https://open.spotify.com/track/1w3nU10eoDD3ASiUC7m47f) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0) | [Panamera](https://open.spotify.com/album/34jUHU7NDgnnklEkN0Y0HX) | 3:25 | 2023-10-27 | 2024-01-20 |
 | [Paniquer](https://open.spotify.com/track/7fOSy5JIRzf3VFMtReUxSW) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Mort Pour Moi](https://open.spotify.com/album/3PXJLrqBJwJt834HuaqBpP) | 2:24 | 2023-01-20 | 2023-04-09 |
 | [Pansements](https://open.spotify.com/track/744G65vSbCfEiibL52vfTP) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [Pansements](https://open.spotify.com/album/1VyI3u4s8EnQnefenZ3Daz) | 2:51 | 2023-04-21 | 2023-05-20 |
-| [Papa n'était plus là](https://open.spotify.com/track/4Cs8POKuvs6YCoxRLcxDmv) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:51 | 2025-01-24 |  |
+| [Papa n'était plus là](https://open.spotify.com/track/4Cs8POKuvs6YCoxRLcxDmv) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:51 | 2025-01-24 | 2025-08-08 |
 | [Papercuts](https://open.spotify.com/track/4A2b6v9CmNJsNfykZqawDk) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Papercuts](https://open.spotify.com/album/39sAxVFPkuC7hBGUZYfFrx) | 2:56 | 2024-06-14 |  |
 | [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 | 2024-09-13 |  |
 | [Paradise](https://open.spotify.com/track/13see5eBO7p2YYeDU7HJRA) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS), [Assy](https://open.spotify.com/artist/2BitGSvp2g87DRz5cdaGxw), [D4vid Lee](https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy) | [Paradise](https://open.spotify.com/album/3WISk3egl8Q7amDKahWhaH) | 4:20 | 2022-10-14 | 2022-11-12 |
@@ -668,6 +668,7 @@
 | [Rien m'faire](https://open.spotify.com/track/5mai2Bwht380oISASmMx3T) | [Psycadelick](https://open.spotify.com/artist/1HqB7rrPzpiqR9OMNKfZdE) | [Psyca](https://open.spotify.com/album/2oV3EZpq7eI8BgSAIg4XUU) | 3:08 | 2024-07-05 | 2024-07-27 |
 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-10-21 |
 | [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 | 2025-05-16 |  |
+| [RIGHT OR WRONG](https://open.spotify.com/track/11UYuQEXBRKZ3gMZp6yDIm) | [Woody](https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy) | [TOPAZE](https://open.spotify.com/album/5vHU7YT7LJU4QxmwihY5fL) | 2:23 | 2025-08-07 |  |
 | [Ring 3x](https://open.spotify.com/track/6w8joIVK7Bh4vD3QFq0959) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Ring 3x](https://open.spotify.com/album/16SrMJEC3LX9OJ3xZTbNCG) | 2:44 | 2022-09-02 | 2022-10-01 |
 | [RING RING](https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_ROSE](https://open.spotify.com/album/58fzZ8IZk3JZbxKcVeUZbk) | 2:08 | 2023-09-15 | 2024-02-03 |
 | [RIP](https://open.spotify.com/track/6He8QwtREiMFmux0bAYfA8) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [RIP](https://open.spotify.com/album/2eYcNSEp94k1ds6zLEVY7K) | 3:19 | 2024-07-12 | 2024-11-02 |

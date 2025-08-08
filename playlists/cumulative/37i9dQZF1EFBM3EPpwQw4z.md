@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 8 hr 15 min
+142 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Forever](https://open.spotify.com/track/3ZwfRF6AAbJP0oUYwxjsmc) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [THE SHELL](https://open.spotify.com/album/3LdW3SGS1DixlVsNMHGeui) | 2:41 | 2023-12-30 |  |
 | [Free Again](https://open.spotify.com/track/1h2l9iVrJaiGsfRd2lTJzn) | [Greg Holden](https://open.spotify.com/artist/7Bcr2Bs6phLymt6kdqNNez) | [Chase The Sun](https://open.spotify.com/album/7tUdBBjJl9R46zqIvSa5F6) | 3:11 | 2023-12-30 | 2025-07-24 |
 | [Get Mine](https://open.spotify.com/track/0mHnAMvAv4TnO6ziAZvHRk) | [L\-FRESH The LION](https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L) | [Become](https://open.spotify.com/album/2nxWnfXAX1RsdRQUdIxAkz) | 3:21 | 2023-12-30 | 2025-07-18 |
-| [Get Mine](https://open.spotify.com/track/0FYiutOkY2YERaUNzWcevR) | [L\-FRESH The LION](https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L), [Parvyn Kaur Singh](https://open.spotify.com/artist/25lhYfZ04x41ucA67sHi9R) | [Become](https://open.spotify.com/album/3jXfpqgxB8fgXK9mOQtDZo) | 3:21 | 2025-07-17 |  |
+| [Get Mine](https://open.spotify.com/track/0FYiutOkY2YERaUNzWcevR) | [L\-FRESH The LION](https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L), [Parvyn Kaur Singh](https://open.spotify.com/artist/25lhYfZ04x41ucA67sHi9R) | [Become](https://open.spotify.com/album/3jXfpqgxB8fgXK9mOQtDZo) | 3:21 | 2025-07-17 | 2025-08-08 |
+| [Get Mine \(feat\. Parvyn\)](https://open.spotify.com/track/5LtRTCYSVYcHiwsGDssYVa) | [L\-FRESH The LION](https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L), [Parvyn](https://open.spotify.com/artist/41S3A4deHBLFfLWRp6qw9e) | [Become](https://open.spotify.com/album/6clzwnCII5aMNb1k3UdDJA) | 3:21 | 2025-08-07 |  |
 | [Get So Close](https://open.spotify.com/track/2NkC2GxIq0hhluqflg8AhW) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:32 | 2023-12-30 |  |
 | [Getting Dressed Up](https://open.spotify.com/track/2trdxliifJwkiy7Dpy0MiV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:26 | 2023-12-30 |  |
 | [Ghost](https://open.spotify.com/track/20gc52nPIfr9tuvTe2RukI) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:45 | 2023-12-30 |  |

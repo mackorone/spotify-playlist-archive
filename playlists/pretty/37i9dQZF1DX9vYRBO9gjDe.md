@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月5日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月6日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,617 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,684 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 |
 | 50 | [あいつら全員同窓会](https://open.spotify.com/track/7rzoBRR4LbJZH5t7Q6qeTn) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 |
 
-Snapshot ID: `AAAAADlaoah3RGunFxvuYZ9njLo5yIyV`
+Snapshot ID: `AAAAAJH65fkZqa/6xA2JTjSUBEt9ZSq6`

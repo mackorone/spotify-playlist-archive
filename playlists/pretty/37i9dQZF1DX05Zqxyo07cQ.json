@@ -1,12 +1,12 @@
 {
   "description": "A trilha perfeita pra embalar seu sono / M\u00fasica perfecta para dormir",
-  "num_followers": 796307,
+  "num_followers": 796322,
   "original_name": "Hora de Dormir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADCt7eV+WXNjKmnonUsfvP4EB5TZ",
+  "snapshot_id": "AAAAABOxrDlVN2+8J4K+cG0DSuPl5wh5",
   "tracks": [
     {
       "added_at": "2025-07-24 10:01:16",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Objectively",
-        "url": "https://open.spotify.com/album/5p0u1ykj7CJhdDRpHK5GlX"
-      },
-      "artists": [
-        {
-          "name": "Dominum Nominum",
-          "url": "https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Objectively",
-      "url": "https://open.spotify.com/track/0ixbViINyatsqlTbj2bXpL"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "Sympa",
         "url": "https://open.spotify.com/album/1PpMPDDydNSamGvbb8GULJ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 141375,
       "name": "Sympa",
       "url": "https://open.spotify.com/track/4tsoU0ExMe36q2iwSITO5M"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Objectively",
+        "url": "https://open.spotify.com/album/5p0u1ykj7CJhdDRpHK5GlX"
+      },
+      "artists": [
+        {
+          "name": "Dominum Nominum",
+          "url": "https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Objectively",
+      "url": "https://open.spotify.com/track/0ixbViINyatsqlTbj2bXpL"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Anheral Motions",
-        "url": "https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0"
-      },
-      "artists": [
-        {
-          "name": "Frail Horizon",
-          "url": "https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2"
-        }
-      ],
-      "duration_ms": 176037,
-      "name": "Anheral Motions",
-      "url": "https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "You, Me, and Time",
         "url": "https://open.spotify.com/album/24QtLl6LZIXjteWTuLA7HS"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 139500,
       "name": "Eternal Moon",
       "url": "https://open.spotify.com/track/26nLhM4tNejbXtnUGB1SIp"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Anheral Motions",
+        "url": "https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0"
+      },
+      "artists": [
+        {
+          "name": "Frail Horizon",
+          "url": "https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2"
+        }
+      ],
+      "duration_ms": 176037,
+      "name": "Anheral Motions",
+      "url": "https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -731,18 +731,50 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Dreyma",
-        "url": "https://open.spotify.com/album/1Y6RbEzGoaZptjqC2vF6YQ"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/3PJgFEqbNBVECfcTvgtD5B"
       },
       "artists": [
         {
-          "name": "Aether Deem",
-          "url": "https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4"
+          "name": "Nebula Somni",
+          "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
         }
       ],
-      "duration_ms": 167008,
-      "name": "Dreyma",
-      "url": "https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk"
+      "duration_ms": 151750,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/6WSBhGwkN8DHJeE0RD2XUt"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/7x0m0uaxWgtrWQlfUhem8v"
+      },
+      "artists": [
+        {
+          "name": "Angelo Garnier",
+          "url": "https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In"
+        }
+      ],
+      "duration_ms": 162850,
+      "name": "Alpenglow",
+      "url": "https://open.spotify.com/track/6grm86LpYKOkPaAMLrKCiy"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Midnight Moon",
+        "url": "https://open.spotify.com/album/7tk9GZNLTvfKLEFr1m0wWK"
+      },
+      "artists": [
+        {
+          "name": "Owen Stiller",
+          "url": "https://open.spotify.com/artist/6ewlHDDdGjZgNp4sHUhPeZ"
+        }
+      ],
+      "duration_ms": 106178,
+      "name": "Midnight Moon",
+      "url": "https://open.spotify.com/track/5zVbLUQdjjBcbSVeYGsugB"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -763,18 +795,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/3PJgFEqbNBVECfcTvgtD5B"
+        "name": "Dreyma",
+        "url": "https://open.spotify.com/album/1Y6RbEzGoaZptjqC2vF6YQ"
       },
       "artists": [
         {
-          "name": "Nebula Somni",
-          "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
+          "name": "Aether Deem",
+          "url": "https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4"
         }
       ],
-      "duration_ms": 151750,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/6WSBhGwkN8DHJeE0RD2XUt"
+      "duration_ms": 167008,
+      "name": "Dreyma",
+      "url": "https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -811,22 +843,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Midnight Moon",
-        "url": "https://open.spotify.com/album/7tk9GZNLTvfKLEFr1m0wWK"
-      },
-      "artists": [
-        {
-          "name": "Owen Stiller",
-          "url": "https://open.spotify.com/artist/6ewlHDDdGjZgNp4sHUhPeZ"
-        }
-      ],
-      "duration_ms": 106178,
-      "name": "Midnight Moon",
-      "url": "https://open.spotify.com/track/5zVbLUQdjjBcbSVeYGsugB"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/0gbRDLp9hPUtVjDnBTdw1F"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Alpenglow",
-        "url": "https://open.spotify.com/album/7x0m0uaxWgtrWQlfUhem8v"
+        "name": "Aurora Lenta",
+        "url": "https://open.spotify.com/album/2uiBjxqRg9W5wlyLp29aPO"
       },
       "artists": [
         {
-          "name": "Angelo Garnier",
-          "url": "https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In"
+          "name": "Through Quiet Tides",
+          "url": "https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi"
         }
       ],
-      "duration_ms": 162850,
-      "name": "Alpenglow",
-      "url": "https://open.spotify.com/track/6grm86LpYKOkPaAMLrKCiy"
+      "duration_ms": 167000,
+      "name": "Aurora Lenta",
+      "url": "https://open.spotify.com/track/15iQzqps9VrV0zrzatLVqY"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -891,22 +907,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/3XZnVxYxeYWGfCM5LKPKLj"
-      },
-      "artists": [
-        {
-          "name": "Calmative",
-          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
-        }
-      ],
-      "duration_ms": 133288,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "Quiescence",
         "url": "https://open.spotify.com/album/7xihxBicgKRqZ9ZGUiSln4"
       },
@@ -923,82 +923,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Lunar Hope",
-        "url": "https://open.spotify.com/album/7tAOYyL9NivXMaSu1ytmWz"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3XZnVxYxeYWGfCM5LKPKLj"
       },
       "artists": [
         {
-          "name": "Foreglow",
-          "url": "https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ"
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
         }
       ],
-      "duration_ms": 190188,
-      "name": "Lunar Hope",
-      "url": "https://open.spotify.com/track/49GSahFoqXRaNbES3wvR7X"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Aurora Lenta",
-        "url": "https://open.spotify.com/album/2uiBjxqRg9W5wlyLp29aPO"
-      },
-      "artists": [
-        {
-          "name": "Through Quiet Tides",
-          "url": "https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Aurora Lenta",
-      "url": "https://open.spotify.com/track/15iQzqps9VrV0zrzatLVqY"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Dream Path",
-        "url": "https://open.spotify.com/album/3DUF8FElAy18CXwWhvk73K"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Hulenstadt",
-          "url": "https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS"
-        }
-      ],
-      "duration_ms": 154191,
-      "name": "Dream Path",
-      "url": "https://open.spotify.com/track/2KSykAv743DfpWv5Eyu0VV"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Mane",
-        "url": "https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv"
-      },
-      "artists": [
-        {
-          "name": "Dilandi",
-          "url": "https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d"
-        }
-      ],
-      "duration_ms": 169123,
-      "name": "Mane",
-      "url": "https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Textures",
-        "url": "https://open.spotify.com/album/5KJVBVLLzcsPVmUAufJZaK"
-      },
-      "artists": [
-        {
-          "name": "Moontonic",
-          "url": "https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO"
-        }
-      ],
-      "duration_ms": 140026,
-      "name": "Textures",
-      "url": "https://open.spotify.com/track/5Z9FEOYBnrYPThpIuvgi5P"
+      "duration_ms": 133288,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1019,18 +955,34 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Through Orion",
-        "url": "https://open.spotify.com/album/32lsmH7Pclo8SIcV0ibq6x"
+        "name": "Dream Path",
+        "url": "https://open.spotify.com/album/3DUF8FElAy18CXwWhvk73K"
       },
       "artists": [
         {
-          "name": "Athyer Cane",
-          "url": "https://open.spotify.com/artist/2sTgqDWg3rChYprRvzRnoX"
+          "name": "Kaiser Hulenstadt",
+          "url": "https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS"
         }
       ],
-      "duration_ms": 169811,
-      "name": "Through Orion",
-      "url": "https://open.spotify.com/track/32YgG8zTpjCytaqP5hdiID"
+      "duration_ms": 154191,
+      "name": "Dream Path",
+      "url": "https://open.spotify.com/track/2KSykAv743DfpWv5Eyu0VV"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Textures",
+        "url": "https://open.spotify.com/album/5KJVBVLLzcsPVmUAufJZaK"
+      },
+      "artists": [
+        {
+          "name": "Moontonic",
+          "url": "https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO"
+        }
+      ],
+      "duration_ms": 140026,
+      "name": "Textures",
+      "url": "https://open.spotify.com/track/5Z9FEOYBnrYPThpIuvgi5P"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1051,18 +1003,50 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Dreamscape Calmitude",
-        "url": "https://open.spotify.com/album/3qE5BgBOSVtKefkKbJNFtl"
+        "name": "Mane",
+        "url": "https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv"
       },
       "artists": [
         {
-          "name": "Ephermal Nights",
-          "url": "https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV"
+          "name": "Dilandi",
+          "url": "https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d"
         }
       ],
-      "duration_ms": 187749,
-      "name": "Dreamscape Calmitude",
-      "url": "https://open.spotify.com/track/1gnYXbQ7MVciBMO5MtXIfN"
+      "duration_ms": 169123,
+      "name": "Mane",
+      "url": "https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Lunar Hope",
+        "url": "https://open.spotify.com/album/7tAOYyL9NivXMaSu1ytmWz"
+      },
+      "artists": [
+        {
+          "name": "Foreglow",
+          "url": "https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ"
+        }
+      ],
+      "duration_ms": 190188,
+      "name": "Lunar Hope",
+      "url": "https://open.spotify.com/track/49GSahFoqXRaNbES3wvR7X"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Through Orion",
+        "url": "https://open.spotify.com/album/32lsmH7Pclo8SIcV0ibq6x"
+      },
+      "artists": [
+        {
+          "name": "Athyer Cane",
+          "url": "https://open.spotify.com/artist/2sTgqDWg3rChYprRvzRnoX"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Through Orion",
+      "url": "https://open.spotify.com/track/32YgG8zTpjCytaqP5hdiID"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Dreamscape Calmitude",
+        "url": "https://open.spotify.com/album/3qE5BgBOSVtKefkKbJNFtl"
+      },
+      "artists": [
+        {
+          "name": "Ephermal Nights",
+          "url": "https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV"
+        }
+      ],
+      "duration_ms": 187749,
+      "name": "Dreamscape Calmitude",
+      "url": "https://open.spotify.com/track/1gnYXbQ7MVciBMO5MtXIfN"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Silent Dreams",
         "url": "https://open.spotify.com/album/1by6DnIMMNX75JKbKglBgg"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 160000,
       "name": "Silent Dreams",
       "url": "https://open.spotify.com/track/6d36syikVGb3zii0aINq15"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/4VQx4jQQp392KVR4bLIPYN"
-      },
-      "artists": [
-        {
-          "name": "Aveni\u00f3s",
-          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
-        }
-      ],
-      "duration_ms": 159314,
-      "name": "Introspection",
-      "url": "https://open.spotify.com/track/4wtpJ0oLbPI5WAwXd7eZxD"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Orbiting Solitude",
-        "url": "https://open.spotify.com/album/2ljkYFpk8HeHtqP494zXOq"
-      },
-      "artists": [
-        {
-          "name": "Aidin",
-          "url": "https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Orbiting Solitude",
-      "url": "https://open.spotify.com/track/5cjqCGTY2O4ealKtCSeoda"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "Suavidade",
         "url": "https://open.spotify.com/album/7q3Ix7F4HOKYpzCxcCE5qz"
       },
@@ -1163,6 +1131,38 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/4VQx4jQQp392KVR4bLIPYN"
+      },
+      "artists": [
+        {
+          "name": "Aveni\u00f3s",
+          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
+        }
+      ],
+      "duration_ms": 159314,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/4wtpJ0oLbPI5WAwXd7eZxD"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Orbiting Solitude",
+        "url": "https://open.spotify.com/album/2ljkYFpk8HeHtqP494zXOq"
+      },
+      "artists": [
+        {
+          "name": "Aidin",
+          "url": "https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Orbiting Solitude",
+      "url": "https://open.spotify.com/track/5cjqCGTY2O4ealKtCSeoda"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Cynosure",
         "url": "https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 156243,
       "name": "Cynosure",
       "url": "https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Harmonia",
+        "url": "https://open.spotify.com/album/2kzg2EH0FJtsLDnIsOATIr"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "duration_ms": 169202,
+      "name": "Harmonia",
+      "url": "https://open.spotify.com/track/01DCyee4FdK6k5Y91lznQK"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1207,22 +1223,6 @@
       "duration_ms": 188714,
       "name": "Silk Dreams",
       "url": "https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Harmonia",
-        "url": "https://open.spotify.com/album/2kzg2EH0FJtsLDnIsOATIr"
-      },
-      "artists": [
-        {
-          "name": "Celestial Aura",
-          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
-        }
-      ],
-      "duration_ms": 169202,
-      "name": "Harmonia",
-      "url": "https://open.spotify.com/track/01DCyee4FdK6k5Y91lznQK"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Aura Barrier",
+        "url": "https://open.spotify.com/album/7K89M6jaOWsdXiJ3sm5UKg"
+      },
+      "artists": [
+        {
+          "name": "Chrastigel",
+          "url": "https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z"
+        }
+      ],
+      "duration_ms": 176817,
+      "name": "Aura Barrier",
+      "url": "https://open.spotify.com/track/23qgHINY0aPEzaIGZR91kk"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Dayglow",
         "url": "https://open.spotify.com/album/4IiMO7N8kedZfwzPnyS8YZ"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Aura Barrier",
-        "url": "https://open.spotify.com/album/7K89M6jaOWsdXiJ3sm5UKg"
-      },
-      "artists": [
-        {
-          "name": "Chrastigel",
-          "url": "https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z"
-        }
-      ],
-      "duration_ms": 176817,
-      "name": "Aura Barrier",
-      "url": "https://open.spotify.com/track/23qgHINY0aPEzaIGZR91kk"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "Sundial in the Fog",
         "url": "https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Celestial Lights",
-        "url": "https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S"
-      },
-      "artists": [
-        {
-          "name": "Leon White",
-          "url": "https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2"
-        }
-      ],
-      "duration_ms": 160537,
-      "name": "Celestial Lights",
-      "url": "https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/6uOJ38UQCPi167LHTWirvX"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Celestial Lights",
+        "url": "https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S"
+      },
+      "artists": [
+        {
+          "name": "Leon White",
+          "url": "https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2"
+        }
+      ],
+      "duration_ms": 160537,
+      "name": "Celestial Lights",
+      "url": "https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Heroic",
         "url": "https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 163500,
       "name": "Heroic",
       "url": "https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Hades",
-        "url": "https://open.spotify.com/album/6YuLoNBB7pc3vgZRPZBjsc"
-      },
-      "artists": [
-        {
-          "name": "Sleep Envoy",
-          "url": "https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "Hades",
-      "url": "https://open.spotify.com/track/0GH5T697QdbU6o9tBytyOI"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Hades",
+        "url": "https://open.spotify.com/album/6YuLoNBB7pc3vgZRPZBjsc"
+      },
+      "artists": [
+        {
+          "name": "Sleep Envoy",
+          "url": "https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "Hades",
+      "url": "https://open.spotify.com/track/0GH5T697QdbU6o9tBytyOI"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Bright, Brighter",
         "url": "https://open.spotify.com/album/1yXODdUcnSWw4WSyHS1xU1"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN"
-      },
-      "artists": [
-        {
-          "name": "Liv Joy",
-          "url": "https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm"
-        }
-      ],
-      "duration_ms": 174175,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "Infinis",
         "url": "https://open.spotify.com/album/5d9CM2jb1OfYYjoTXvosCu"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 220767,
       "name": "Infinis",
       "url": "https://open.spotify.com/track/5Dh4kP53BEnLe55I3jnBE7"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN"
+      },
+      "artists": [
+        {
+          "name": "Liv Joy",
+          "url": "https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm"
+        }
+      ],
+      "duration_ms": 174175,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "sharing a dream space",
-        "url": "https://open.spotify.com/album/3QaKawZl7gHG0IbeZAYas0"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT"
       },
       "artists": [
         {
-          "name": "Subsequentialists",
-          "url": "https://open.spotify.com/artist/3prP9cOIkx8WtNXQDmexGE"
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
         }
       ],
-      "duration_ms": 147012,
-      "name": "sharing a dream space",
-      "url": "https://open.spotify.com/track/2esTtTW3FbBWDFjBMJpk6a"
+      "duration_ms": 177615,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT"
+        "name": "Galaxy Dream",
+        "url": "https://open.spotify.com/album/3201S4iC4hthfy6I18VQcI"
       },
       "artists": [
         {
-          "name": "Jack Allenson",
-          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+          "name": "Manuel Wall",
+          "url": "https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU"
         }
       ],
-      "duration_ms": 177615,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig"
+      "duration_ms": 171428,
+      "name": "Galaxy Dream",
+      "url": "https://open.spotify.com/track/4rt2bY3DXBxrYVIWnXdQ1I"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Galaxy Dream",
-        "url": "https://open.spotify.com/album/3201S4iC4hthfy6I18VQcI"
+        "name": "sharing a dream space",
+        "url": "https://open.spotify.com/album/3QaKawZl7gHG0IbeZAYas0"
       },
       "artists": [
         {
-          "name": "Manuel Wall",
-          "url": "https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU"
+          "name": "Subsequentialists",
+          "url": "https://open.spotify.com/artist/3prP9cOIkx8WtNXQDmexGE"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Galaxy Dream",
-      "url": "https://open.spotify.com/track/4rt2bY3DXBxrYVIWnXdQ1I"
+      "duration_ms": 147012,
+      "name": "sharing a dream space",
+      "url": "https://open.spotify.com/track/2esTtTW3FbBWDFjBMJpk6a"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Intricate",
+        "url": "https://open.spotify.com/album/5H0h5REAYTdMyTFbmSUXbN"
+      },
+      "artists": [
+        {
+          "name": "Garc\u00edia",
+          "url": "https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM"
+        }
+      ],
+      "duration_ms": 176514,
+      "name": "Intricate",
+      "url": "https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Somnolent Mori",
         "url": "https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 219939,
       "name": "Somnolent Mori",
       "url": "https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Lihnida",
-        "url": "https://open.spotify.com/album/1zWgumSEFMiooZwuCU7HnS"
-      },
-      "artists": [
-        {
-          "name": "Alsephina",
-          "url": "https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Lihnida",
-      "url": "https://open.spotify.com/track/6lRUeAsKuo25bXplm2EPqi"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Intricate",
-        "url": "https://open.spotify.com/album/5H0h5REAYTdMyTFbmSUXbN"
+        "name": "A Sky Inside",
+        "url": "https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd"
       },
       "artists": [
         {
-          "name": "Garc\u00edia",
-          "url": "https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM"
+          "name": "Starfield Echo",
+          "url": "https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh"
         }
       ],
-      "duration_ms": 176514,
-      "name": "Intricate",
-      "url": "https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC"
+      "duration_ms": 175172,
+      "name": "A Sky Inside",
+      "url": "https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Lihnida",
+        "url": "https://open.spotify.com/album/1zWgumSEFMiooZwuCU7HnS"
+      },
+      "artists": [
+        {
+          "name": "Alsephina",
+          "url": "https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Lihnida",
+      "url": "https://open.spotify.com/track/6lRUeAsKuo25bXplm2EPqi"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Magical Calmness",
         "url": "https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 157658,
       "name": "Magical Calmness",
       "url": "https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "A Sky Inside",
-        "url": "https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd"
-      },
-      "artists": [
-        {
-          "name": "Starfield Echo",
-          "url": "https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh"
-        }
-      ],
-      "duration_ms": 175172,
-      "name": "A Sky Inside",
-      "url": "https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Scintilla",
-        "url": "https://open.spotify.com/album/3eFb2UKYcgEDYiUcdW729J"
+        "name": "Stillwater",
+        "url": "https://open.spotify.com/album/7DUldEFJ5S2zN00a3RpmKi"
       },
       "artists": [
         {
-          "name": "Caelestis Nati",
-          "url": "https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8"
+          "name": "Author S",
+          "url": "https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Scintilla",
-      "url": "https://open.spotify.com/track/18QFpj5ISThbnR9A0iU5Gj"
+      "duration_ms": 160285,
+      "name": "Stillwater",
+      "url": "https://open.spotify.com/track/6GdxSpl3FY43E6IkHEpWrU"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1947,6 +1947,38 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Weightless Hours",
+        "url": "https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr"
+      },
+      "artists": [
+        {
+          "name": "Dreamhaven",
+          "url": "https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z"
+        }
+      ],
+      "duration_ms": 155943,
+      "name": "Weightless Hours",
+      "url": "https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Scintilla",
+        "url": "https://open.spotify.com/album/3eFb2UKYcgEDYiUcdW729J"
+      },
+      "artists": [
+        {
+          "name": "Caelestis Nati",
+          "url": "https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Scintilla",
+      "url": "https://open.spotify.com/track/18QFpj5ISThbnR9A0iU5Gj"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/3f79qX2LFjGmuHeXklYUpf"
       },
@@ -1959,22 +1991,6 @@
       "duration_ms": 141500,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/02AHGXhpfeQKEy4hzEhthj"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Adagioria",
-        "url": "https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5"
-      },
-      "artists": [
-        {
-          "name": "Somnum Magnam",
-          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
-        }
-      ],
-      "duration_ms": 189624,
-      "name": "Adagioria",
-      "url": "https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -1995,50 +2011,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Solsten",
-        "url": "https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB"
+        "name": "Adagioria",
+        "url": "https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5"
       },
       "artists": [
         {
-          "name": "Ganlas",
-          "url": "https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago"
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Solsten",
-      "url": "https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Edenora",
-        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
-      },
-      "artists": [
-        {
-          "name": "Armon\u00eda Astral",
-          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Edenora",
-      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Stillwater",
-        "url": "https://open.spotify.com/album/7DUldEFJ5S2zN00a3RpmKi"
-      },
-      "artists": [
-        {
-          "name": "Author S",
-          "url": "https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "Stillwater",
-      "url": "https://open.spotify.com/track/6GdxSpl3FY43E6IkHEpWrU"
+      "duration_ms": 189624,
+      "name": "Adagioria",
+      "url": "https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Solsten",
+        "url": "https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB"
+      },
+      "artists": [
+        {
+          "name": "Ganlas",
+          "url": "https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Solsten",
+      "url": "https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Downshifter",
         "url": "https://open.spotify.com/album/1iTWiJDHdBc5DX3fxgHwjs"
       },
@@ -2075,50 +2075,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Weightless Hours",
-        "url": "https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr"
+        "name": "Edenora",
+        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
       },
       "artists": [
         {
-          "name": "Dreamhaven",
-          "url": "https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z"
+          "name": "Armon\u00eda Astral",
+          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
         }
       ],
-      "duration_ms": 155943,
-      "name": "Weightless Hours",
-      "url": "https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Buoyed",
-        "url": "https://open.spotify.com/album/0zg3nYsefBVwq4ebNfm0qW"
-      },
-      "artists": [
-        {
-          "name": "Earthbound",
-          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Buoyed",
-      "url": "https://open.spotify.com/track/5G5SUZpvIXZX5PvKNqruvU"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Silken Shades",
-        "url": "https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX"
-      },
-      "artists": [
-        {
-          "name": "Spatia Sonica",
-          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Silken Shades",
-      "url": "https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv"
+      "duration_ms": 177600,
+      "name": "Edenora",
+      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -2139,6 +2107,38 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
+        "name": "Buoyed",
+        "url": "https://open.spotify.com/album/0zg3nYsefBVwq4ebNfm0qW"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Buoyed",
+      "url": "https://open.spotify.com/track/5G5SUZpvIXZX5PvKNqruvU"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Letters Never Sent",
+        "url": "https://open.spotify.com/album/1k3FzXQseLosEj5hP5sRFG"
+      },
+      "artists": [
+        {
+          "name": "Greyling",
+          "url": "https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz"
+        }
+      ],
+      "duration_ms": 131129,
+      "name": "Letters Never Sent",
+      "url": "https://open.spotify.com/track/4Kvv7noJbZIPJLQ7BplKDI"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
         "name": "Cosmical Sense",
         "url": "https://open.spotify.com/album/5BlSnEJGx2324KFlf1XSpp"
       },
@@ -2155,34 +2155,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X"
+        "name": "Silken Shades",
+        "url": "https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX"
       },
       "artists": [
         {
-          "name": "Imperial Atlas",
-          "url": "https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g"
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
-        "name": "Candescent",
-        "url": "https://open.spotify.com/album/7CRvmXMdOHRVkkfSUX8elo"
-      },
-      "artists": [
-        {
-          "name": "Vincent Novaes",
-          "url": "https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA"
-        }
-      ],
-      "duration_ms": 154434,
-      "name": "Candescent",
-      "url": "https://open.spotify.com/track/5wJmaU8KKuAsHXa0aM7fQW"
+      "duration_ms": 180750,
+      "name": "Silken Shades",
+      "url": "https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -2203,18 +2187,18 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Letters Never Sent",
-        "url": "https://open.spotify.com/album/1k3FzXQseLosEj5hP5sRFG"
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X"
       },
       "artists": [
         {
-          "name": "Greyling",
-          "url": "https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz"
+          "name": "Imperial Atlas",
+          "url": "https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g"
         }
       ],
-      "duration_ms": 131129,
-      "name": "Letters Never Sent",
-      "url": "https://open.spotify.com/track/4Kvv7noJbZIPJLQ7BplKDI"
+      "duration_ms": 179466,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -2247,6 +2231,22 @@
       "duration_ms": 144000,
       "name": "Gentle Eclipse",
       "url": "https://open.spotify.com/track/49W8j7bgx9fOSBZEdnYFHP"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Candescent",
+        "url": "https://open.spotify.com/album/7CRvmXMdOHRVkkfSUX8elo"
+      },
+      "artists": [
+        {
+          "name": "Vincent Novaes",
+          "url": "https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA"
+        }
+      ],
+      "duration_ms": 154434,
+      "name": "Candescent",
+      "url": "https://open.spotify.com/track/5wJmaU8KKuAsHXa0aM7fQW"
     },
     {
       "added_at": "2025-07-24 10:01:16",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2025-07-24 10:01:16",
       "album": {
-        "name": "Lost in Midnight Blue",
-        "url": "https://open.spotify.com/album/5BY9mwH09wXka7PU1RZV1p"
-      },
-      "artists": [
-        {
-          "name": "Emberlace",
-          "url": "https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC"
-        }
-      ],
-      "duration_ms": 168287,
-      "name": "Lost in Midnight Blue",
-      "url": "https://open.spotify.com/track/5nirCNBBC16XYO7TRlDupj"
-    },
-    {
-      "added_at": "2025-07-24 10:01:16",
-      "album": {
         "name": "Lonely House",
         "url": "https://open.spotify.com/album/5xHsEN9npP7I8wrVlDOC2E"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 177912,
       "name": "Numerical",
       "url": "https://open.spotify.com/track/0YA68VQfQbe28MYoFauwIp"
+    },
+    {
+      "added_at": "2025-07-24 10:01:16",
+      "album": {
+        "name": "Frosted Light",
+        "url": "https://open.spotify.com/album/1Gy08glB1f0IxY9VMc63vN"
+      },
+      "artists": [
+        {
+          "name": "Future Sky",
+          "url": "https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Frosted Light",
+      "url": "https://open.spotify.com/track/6oWqrdSeRc72l2xF19O2wg"
     },
     {
       "added_at": "2025-07-24 10:01:16",

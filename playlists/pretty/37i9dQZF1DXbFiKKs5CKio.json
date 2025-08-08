@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 69762,
+  "num_followers": 69773,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2025-08-01 19:12:24",
       "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
+    },
+    {
+      "added_at": "2025-08-01 19:12:24",
+      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
-    },
-    {
-      "added_at": "2025-08-01 19:12:24",
-      "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2025-08-01 19:12:24",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-08-01 19:12:24",
       "album": {
-        "name": "Theodoro Nag\u00f4: We4Sessions",
-        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
-      },
-      "artists": [
-        {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
-        },
-        {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
-        }
-      ],
-      "duration_ms": 220037,
-      "name": "Entrelace",
-      "url": "https://open.spotify.com/track/52DfqqsZ1RgMpI9Bw9MMki"
-    },
-    {
-      "added_at": "2025-08-01 19:12:24",
-      "album": {
         "name": "Cuz I Really Feel It",
         "url": "https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 167088,
       "name": "Tudo O Que Eu Posso Te Dar",
       "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
+    },
+    {
+      "added_at": "2025-08-01 19:12:24",
+      "album": {
+        "name": "Theodoro Nag\u00f4: We4Sessions",
+        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
+      },
+      "artists": [
+        {
+          "name": "Theodoro Nag\u00f4",
+          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "duration_ms": 220037,
+      "name": "Entrelace",
+      "url": "https://open.spotify.com/track/52DfqqsZ1RgMpI9Bw9MMki"
     },
     {
       "added_at": "2025-08-01 19:12:24",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-08-01 19:12:24",
       "album": {
+        "name": "Deixa Estar (Sha la la)",
+        "url": "https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ"
+      },
+      "artists": [
+        {
+          "name": "Os Fugitivos",
+          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
+        }
+      ],
+      "duration_ms": 325500,
+      "name": "Deixa Estar (Sha la la)",
+      "url": "https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX"
+    },
+    {
+      "added_at": "2025-08-01 19:12:24",
+      "album": {
         "name": "Dava Praia",
         "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 259008,
       "name": "Minha Casa",
       "url": "https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml"
-    },
-    {
-      "added_at": "2025-08-01 19:12:24",
-      "album": {
-        "name": "Deixa Estar (Sha la la)",
-        "url": "https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ"
-      },
-      "artists": [
-        {
-          "name": "Os Fugitivos",
-          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
-        }
-      ],
-      "duration_ms": 325500,
-      "name": "Deixa Estar (Sha la la)",
-      "url": "https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX"
     },
     {
       "added_at": "2025-08-01 19:12:24",

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 07 Aug 03:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Aug 22:06 UTC.
 
-5,273 songs - 12 day 5 hr 51 min
+5,275 songs - 12 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [a lil Church](https://open.spotify.com/track/1joStqsbjiDzBYkkEoTBw1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [a lil Church](https://open.spotify.com/album/6RzdBz9FPizucaPXPzA4mS) | 3:05 | 2024-12-06 | 2024-12-12 |
 | [A Line in the Dust](https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Mat Welsh](https://open.spotify.com/artist/41qbLh8IPItyHRIHAQafft) | [A Line in the Dust](https://open.spotify.com/album/0QeSlVSiJRan9ocKl2tQWv) | 3:55 | 2025-01-28 | 2025-02-03 |
 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 | 2025-06-21 |
+| [A Little More](https://open.spotify.com/track/7DQODsNlqDQXZHfXd0T1n7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0m3SPxT8kOWF19sQfBATG1) | 3:12 | 2025-08-07 |  |
 | [A Lot](https://open.spotify.com/track/7K2Rpqgu1rvKInUmp5w4kJ) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [A Lot](https://open.spotify.com/album/6tj57kLbgduFZPx1ztgmFW) | 2:06 | 2024-09-05 | 2024-09-07 |
 | [A New Life is Coming](https://open.spotify.com/track/5AKS8lf5GJTZPWJm3rqrSG) | [WU LYF](https://open.spotify.com/artist/5mGTnJvTkLDN76DgXka5f0) | [A New Life is Coming](https://open.spotify.com/album/7whc0z2RLzxqvCSJp8aauZ) | 6:08 | 2025-04-05 | 2025-04-12 |
 | [A Normal Life](https://open.spotify.com/track/4TsQqPrOh0wgGPZsrMSagV) | [Marianas Trench](https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR) | [A Normal Life](https://open.spotify.com/album/7dH4kO9kn8lrF11I0TmguQ) | 6:53 | 2024-04-26 | 2024-04-27 |
@@ -391,7 +392,7 @@
 | [Back 4 More](https://open.spotify.com/track/0ymDs2NQkgt5wJGjE3RVhg) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Back 4 More](https://open.spotify.com/album/3bGzO7VWcrzxFDoqX3vxVe) | 3:01 | 2024-09-11 | 2024-09-13 |
 | [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 | 2025-02-13 | 2025-02-22 |
 | [Back In The Mix](https://open.spotify.com/track/1ijaIrjWWKFH5WlCcNUIvr) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Back In The Mix](https://open.spotify.com/album/76QLVPqGXHm146HMMTq3yR) | 2:28 | 2024-07-11 | 2024-07-13 |
-| [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:32 | 2025-07-26 |  |
+| [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:32 | 2025-07-26 | 2025-08-08 |
 | [BACK ON](https://open.spotify.com/track/77bCvwZqXZJLfLBG7iGvjE) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [BACK ON](https://open.spotify.com/album/0fF0wqKHPa6G1wYpgsXPyG) | 3:21 | 2024-07-03 | 2024-07-06 |
 | [BACK ROAD SWANGIN](https://open.spotify.com/track/6PY1lAbBPAVotsHEfBgxNf) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BACK ROAD SWANGIN](https://open.spotify.com/album/02C2nrhLxsjf8ams7XNy8U) | 3:09 | 2025-03-25 | 2025-04-04 |
 | [Back There Now](https://open.spotify.com/track/4vsNXG1IRFMU3dg4BZAeui) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Back There Now](https://open.spotify.com/album/6Q7j1Y8e3EZuHhHy7cfmJU) | 2:28 | 2024-08-13 | 2024-08-16 |
@@ -736,6 +737,7 @@
 | [Burning Desires](https://open.spotify.com/track/4mx756ehrFAIky4IeJKOUa) | [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Burning Desires](https://open.spotify.com/album/5AhrDdHCrEsrxVUPtmYtda) | 2:18 | 2024-10-18 | 2024-10-19 |
 | [Burst My Bubble](https://open.spotify.com/track/4ZRNfe85ac4F6mYLfZdjOP) | [Bao The Whale](https://open.spotify.com/artist/2TERX3Wyzpip8d9uw07qYZ) | [Burst My Bubble](https://open.spotify.com/album/4xgLmLH8ZLceQPA6Wx3xYK) | 3:20 | 2024-09-07 | 2024-09-12 |
 | [Bury Me](https://open.spotify.com/track/4pLlXT4tFbuDCARVXHWIsH) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Bury Me](https://open.spotify.com/album/0RhHOTHgngW7Quc3cqY27x) | 3:02 | 2025-01-15 | 2025-01-23 |
+| [Bury Me With My Screams](https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Bury Me With My Screams](https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1) | 5:16 | 2025-08-07 |  |
 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 | 2024-06-06 | 2024-06-11 |
 | [Bus Stop Please](https://open.spotify.com/track/69qwWu8dQwaTABh5B9r8xn) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Bus Stop Please](https://open.spotify.com/album/06HEvSJ6i3ML7nXAiTVt94) | 3:35 | 2024-11-08 | 2024-11-14 |
 | [Buses Replace Trains](https://open.spotify.com/track/6zxK1aQo9e61wi9UJWJfrv) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Buses Replace Trains](https://open.spotify.com/album/0jJ8k0Nmv0IwL5EzK9EWJT) | 3:42 | 2025-04-19 | 2025-04-26 |
@@ -1976,7 +1978,7 @@
 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 | 2024-09-17 | 2024-09-20 |
 | [Hatred](https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Hatred](https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc) | 3:03 | 2024-09-26 | 2024-09-28 |
 | [Haunting You](https://open.spotify.com/track/1ZHcs7CDcfUcni4MGbdNz9) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Haunting You](https://open.spotify.com/album/62EPsCccU59mHcHzj3ZZPr) | 2:37 | 2024-10-25 | 2024-10-30 |
-| [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 |  |
+| [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 | 2025-08-08 |
 | [Have Heaven](https://open.spotify.com/track/3IeraaelNVdgrB2gVQ8dzq) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Have Heaven](https://open.spotify.com/album/6RGJgYKYBsE9ImTlmWjBfZ) | 3:08 | 2025-01-15 | 2025-01-22 |
 | [Have U Ever Been 2 Wales](https://open.spotify.com/track/1tWMnHCVdb6YyrXRlpCmms) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Have U Ever Been 2 Wales](https://open.spotify.com/album/1pLlzdoCkKU0s9dKhp45DO) | 3:13 | 2025-03-04 | 2025-03-07 |
 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 | 2024-06-13 | 2024-06-15 |

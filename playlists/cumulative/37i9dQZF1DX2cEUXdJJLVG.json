@@ -7640,6 +7640,32 @@
     {
       "album": {
         "name": "Sunshine",
+        "url": "https://open.spotify.com/album/7vZfAzqBqfNBbpE0ZlwpfA"
+      },
+      "artists": [
+        {
+          "name": "Alexander IV",
+          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
+        },
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        },
+        {
+          "name": "Sidekick Music",
+          "url": "https://open.spotify.com/artist/0TPqwBgpuUgwdmXPk85l0c"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188103,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3zRGDePRdS1dwd1IgkfClq"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
         "url": "https://open.spotify.com/album/0AVlwvNZRfTBKuSYFWpsHE"
       },
       "artists": [

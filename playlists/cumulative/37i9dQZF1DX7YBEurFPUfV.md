@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-139 songs - 7 hr 57 min
+141 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,11 @@
 | [Afyoun](https://open.spotify.com/track/66tu0r6bkZtGx6INuZTNG2) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Afyoun](https://open.spotify.com/album/7z1mJ0SuGHJOvdu7A280me) | 3:11 | 2024-05-29 |  |
 | [AIINA](https://open.spotify.com/track/4X168iMrm9b87RamMluLB9) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AIINA](https://open.spotify.com/album/0QyCU2T4aN86JIywRt25mp) | 3:11 | 2024-05-03 | 2024-07-23 |
 | [AIRMAX](https://open.spotify.com/track/0JsxcoIZwREN05wzM25fC1) | [DACHI](https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [AIRMAX](https://open.spotify.com/album/1krq5NT4YvlfvgCVbxKio7) | 2:57 | 2024-09-18 |  |
-| [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 | 2024-11-21 |  |
+| [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 | 2024-11-21 | 2025-08-08 |
 | [Amach](https://open.spotify.com/track/2QCKG199FIJrm8x8DF0BiC) | [KA7LA](https://open.spotify.com/artist/3P1ICbu02JQld1VFBoQCLA), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Amach](https://open.spotify.com/album/6Gv3VtOlgKhaSHkKt0e8U6) | 2:41 | 2024-05-02 | 2024-08-02 |
 | [Anesto](https://open.spotify.com/track/0abJ0SKsYEoShNmWbdEHp3) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Anesto](https://open.spotify.com/album/0xGNs0CD80ebpaI1C9QBLj) | 2:55 | 2024-02-24 | 2025-02-08 |
 | [Automatique \(Mc Artisan\)](https://open.spotify.com/track/0CgYatpXXpOWh6dGlYGCzZ) | [Le Sa](https://open.spotify.com/artist/1fdwt0BjCekrhXeRX8Ouq9) | [Automatique \(Mc Artisan\)](https://open.spotify.com/album/337pw8AGafu2kM3Un5ctr8) | 4:37 | 2024-11-14 | 2024-11-27 |
+| [Back To The Dback](https://open.spotify.com/track/2h8eZsSkwOtKol9tg3VuVj) | [Aveyro Ave](https://open.spotify.com/artist/0gcWKqqEEiY4xLTxZDBDu4) | [Back To The Dback](https://open.spotify.com/album/1NSYppFZr5GXmIqW4txIOd) | 5:30 | 2025-08-07 |  |
 | [Bambina](https://open.spotify.com/track/6DArUaj4yioj32Q3vCRL1Q) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Bambina](https://open.spotify.com/album/6DXZbH9Gx61B5sWlVQXNzH) | 2:55 | 2024-07-18 |  |
 | [Barrio](https://open.spotify.com/track/4kKZkjx7LSJwEk2F65pBKj) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Barrio](https://open.spotify.com/album/080JNVqULoScoDCiLGwfG3) | 4:58 | 2024-11-26 | 2025-01-05 |
 | [BERLIN](https://open.spotify.com/track/53m7xHYP22udP4Vsftr48p) | [Koast](https://open.spotify.com/artist/5mp19VAuofzsBViN7LHKhH), [Molka Braiek](https://open.spotify.com/artist/26FtkGdzYUskhMqPX3J7td), [XCEP](https://open.spotify.com/artist/6QvQCpbGRXw7BTBSU4VH0N) | [BERLIN](https://open.spotify.com/album/6cYneZuZvWYK36WHhznwhP) | 2:52 | 2024-02-24 | 2024-07-09 |
@@ -74,6 +75,7 @@
 | [Klem](https://open.spotify.com/track/5IjtjlAJVe6mFCKzhr0YKt) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [Cotinga](https://open.spotify.com/album/5UAGPzp0t0DIczTuIPLCak) | 4:07 | 2025-04-17 |  |
 | [Klit Klat](https://open.spotify.com/track/3AqP7SNyNxeEI0sPWqO0uO) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Klit Klat](https://open.spotify.com/album/3GcV5oJU8K0QJJvRuFO9dg) | 2:42 | 2025-02-23 |  |
 | [Kol Manzid](https://open.spotify.com/track/6MzKnihMvYG74ZS309SjLB) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Redstar Radi](https://open.spotify.com/artist/3IMbYEUHFZ6Nkocs2GqMxp), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Kol Manzid](https://open.spotify.com/album/0AsZIVxdSVZkPdeBJHz8Ul) | 3:50 | 2024-07-31 |  |
+| [L.V.L 15](https://open.spotify.com/track/3vaYNrGjj4ZA37mTyt1WXL) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [L.V.L 15](https://open.spotify.com/album/7ti78v5LtwRPIdChM04aaP) | 3:15 | 2025-08-07 |  |
 | [La liberta](https://open.spotify.com/track/6a3WsoihY4H9Tst9a9Xoao) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [La liberta](https://open.spotify.com/album/7pyPJajsIcSQjjoLGIEPvV) | 3:35 | 2024-08-20 | 2024-12-19 |
 | [La Luna](https://open.spotify.com/track/0J4eAUX6z4fMmQl0DNGbEv) | [Defame](https://open.spotify.com/artist/7uYhekWGqh5EvQAaKC2WxS), [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [The NORF Tape](https://open.spotify.com/album/6FHC8uKiR12QlB4JpVgcMk) | 3:30 | 2024-12-21 |  |
 | [Lambo](https://open.spotify.com/track/1XB5dbU1fQ3kMgu6xypGGX) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Lambo](https://open.spotify.com/album/1IsWDRBKI9KlqFoSvMIJci) | 3:33 | 2024-05-10 |  |
@@ -135,7 +137,7 @@
 | [True Story](https://open.spotify.com/track/3QBl9rRztpkwjve94I72NE) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [True Story](https://open.spotify.com/album/6G5UR76sE94A126vA5cj22) | 3:06 | 2025-02-07 | 2025-02-18 |
 | [Vision](https://open.spotify.com/track/6lv8cTrryrBTXlI8ur5cBS) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Vision](https://open.spotify.com/album/6iWH0XxDrU4ByDuguQXYIU) | 2:44 | 2025-02-01 |  |
 | [Wahda x2](https://open.spotify.com/track/5vZXSl3qJro0cieaZ0xFYt) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Wahda x2](https://open.spotify.com/album/4xGvwM9WS9Fp8UjQHJ8lue) | 3:27 | 2024-02-24 | 2025-02-18 |
-| [Wasa3](https://open.spotify.com/track/6hUElQZZP5c72sjFh8RTov) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Wasa3](https://open.spotify.com/album/6nLtoMLANm2WU0puGbgKKk) | 3:46 | 2025-02-21 |  |
+| [Wasa3](https://open.spotify.com/track/6hUElQZZP5c72sjFh8RTov) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Wasa3](https://open.spotify.com/album/6nLtoMLANm2WU0puGbgKKk) | 3:46 | 2025-02-21 | 2025-08-08 |
 | [Wasitkom](https://open.spotify.com/track/3cRvl8WM9Rqn4J92Ud3tSa) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wasitkom](https://open.spotify.com/album/6pAdQjbshmsr3YTzVGebVz) | 5:57 | 2024-04-10 | 2024-07-09 |
 | [Weld Ommi](https://open.spotify.com/track/04E5mcdB7gplezv6qqzCA8) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Weld Ommi](https://open.spotify.com/album/1Cu8XwQuQrp39qqStF8NH2) | 3:58 | 2025-06-16 |  |
 | [Welou](https://open.spotify.com/track/686PvZSfRMuquXf7GzZsz4) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Welou](https://open.spotify.com/album/5RxtQOX7YmRWrlF4jLMAzV) | 3:12 | 2024-02-24 | 2024-04-26 |

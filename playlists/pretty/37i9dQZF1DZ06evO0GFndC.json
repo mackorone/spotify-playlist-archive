@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 60819,
+  "num_followers": 60834,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADunHQuEBwVJnVaVb+WQEAO",
+  "snapshot_id": "aJKbAAAAAAAyUseAjLQL844jUTLieN+f",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 140373,
-      "name": "No Critican",
-      "url": "https://open.spotify.com/track/5JeUhEtXsRIo03h1LJ7DSn"
+      "duration_ms": 172031,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/3W776OCqqcv2IqphOc0j15"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 172031,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/3W776OCqqcv2IqphOc0j15"
+      "duration_ms": 140373,
+      "name": "No Critican",
+      "url": "https://open.spotify.com/track/5JeUhEtXsRIo03h1LJ7DSn"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revelaciones de un Cholo (Explicit)",
-        "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 236472,
-      "name": "Revelaciones de un Cholo",
-      "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -660,9 +644,25 @@
           "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 179600,
-      "name": "TRX",
-      "url": "https://open.spotify.com/track/1oOUieyKJeJiJGiAOydpLx"
+      "duration_ms": 190966,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revelaciones de un Cholo (Explicit)",
+        "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 236472,
+      "name": "Revelaciones de un Cholo",
+      "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parque de Diversiones",
+        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "TRX",
+      "url": "https://open.spotify.com/track/1oOUieyKJeJiJGiAOydpLx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proyecto A",
         "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 162500,
       "name": "Legado",
       "url": "https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parque de Diversiones",
-        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 190966,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Se\u00f1or de la A",
-        "url": "https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 184354,
-      "name": "El Se\u00f1or de la A",
-      "url": "https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 162000,
       "name": "Belik Frozen",
       "url": "https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Se\u00f1or de la A",
+        "url": "https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 184354,
+      "name": "El Se\u00f1or de la A",
+      "url": "https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU"
     },
     {
       "added_at": null,

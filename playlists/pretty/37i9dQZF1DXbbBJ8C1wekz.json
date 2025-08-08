@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 160978,
+  "num_followers": 161073,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,26 @@
     {
       "added_at": "2025-08-01 19:28:10",
       "album": {
+        "name": "Fuso",
+        "url": "https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 114645,
+      "name": "Fuso",
+      "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
+    },
+    {
+      "added_at": "2025-08-01 19:28:10",
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
-    },
-    {
-      "added_at": "2025-08-01 19:28:10",
-      "album": {
-        "name": "Fuso",
-        "url": "https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 114645,
-      "name": "Fuso",
-      "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
     },
     {
       "added_at": "2025-08-01 19:28:10",
@@ -887,6 +887,42 @@
     {
       "added_at": "2025-08-01 19:28:10",
       "album": {
+        "name": "Todo Mundo Odeia o IG",
+        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "Ol\u00e1, Mo\u00e7a",
+      "url": "https://open.spotify.com/track/7umgf0NrHZgIAI0ep64sLc"
+    },
+    {
+      "added_at": "2025-08-01 19:28:10",
+      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -923,42 +959,6 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
-    },
-    {
-      "added_at": "2025-08-01 19:28:10",
-      "album": {
-        "name": "Todo Mundo Odeia o IG",
-        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "Ol\u00e1, Mo\u00e7a",
-      "url": "https://open.spotify.com/track/7umgf0NrHZgIAI0ep64sLc"
     },
     {
       "added_at": "2025-08-01 19:28:10",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-08-01 19:28:10",
       "album": {
-        "name": "OG AKA ENT",
-        "url": "https://open.spotify.com/album/5yPaX4Gr9NZDkgb1v7ppA2"
-      },
-      "artists": [
-        {
-          "name": "Nebrugg",
-          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
-        }
-      ],
-      "duration_ms": 82226,
-      "name": "MODA",
-      "url": "https://open.spotify.com/track/4GONOtCdIdl7hspqqgx0UD"
-    },
-    {
-      "added_at": "2025-08-01 19:28:10",
-      "album": {
         "name": "O Mais Novo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 187680,
       "name": "Do Seu Lado",
       "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
+    },
+    {
+      "added_at": "2025-08-01 19:28:10",
+      "album": {
+        "name": "OG AKA ENT",
+        "url": "https://open.spotify.com/album/5yPaX4Gr9NZDkgb1v7ppA2"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "duration_ms": 82226,
+      "name": "MODA",
+      "url": "https://open.spotify.com/track/4GONOtCdIdl7hspqqgx0UD"
     },
     {
       "added_at": "2025-08-01 19:28:10",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-08-01 19:28:10",
       "album": {
-        "name": "zumzumzum",
-        "url": "https://open.spotify.com/album/11NxigNYgrmmNMBXcqjJyx"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "zumzumzum",
-      "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"
-    },
-    {
-      "added_at": "2025-08-01 19:28:10",
-      "album": {
         "name": "O Menino do Cabelo Rosa",
         "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 224491,
       "name": "Esqueceu Seu Brinco",
       "url": "https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B"
+    },
+    {
+      "added_at": "2025-08-01 19:28:10",
+      "album": {
+        "name": "zumzumzum",
+        "url": "https://open.spotify.com/album/11NxigNYgrmmNMBXcqjJyx"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "zumzumzum",
+      "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"
     },
     {
       "added_at": "2025-08-01 19:28:10",
@@ -1791,6 +1791,30 @@
     {
       "added_at": "2025-08-01 19:28:10",
       "album": {
+        "name": "Eles Me Odeiam",
+        "url": "https://open.spotify.com/album/1EKS7wUt4i7carasrSDo7k"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Eles Me Odeiam",
+      "url": "https://open.spotify.com/track/1fy4FuGMtCkLQ9I8RvnZGC"
+    },
+    {
+      "added_at": "2025-08-01 19:28:10",
+      "album": {
         "name": "Ordem do Mano",
         "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
       },
@@ -1815,30 +1839,6 @@
       "duration_ms": 195553,
       "name": "Ordem do Mano",
       "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
-    },
-    {
-      "added_at": "2025-08-01 19:28:10",
-      "album": {
-        "name": "Eles Me Odeiam",
-        "url": "https://open.spotify.com/album/1EKS7wUt4i7carasrSDo7k"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Eles Me Odeiam",
-      "url": "https://open.spotify.com/track/1fy4FuGMtCkLQ9I8RvnZGC"
     },
     {
       "added_at": "2025-08-01 19:28:10",
@@ -2043,6 +2043,26 @@
     {
       "added_at": "2025-08-01 19:28:10",
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
+    },
+    {
+      "added_at": "2025-08-01 19:28:10",
+      "album": {
         "name": "Virus Love",
         "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
       },
@@ -2079,26 +2099,6 @@
       "duration_ms": 232195,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
-    },
-    {
-      "added_at": "2025-08-01 19:28:10",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2025-08-01 19:28:10",

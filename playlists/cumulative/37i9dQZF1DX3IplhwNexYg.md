@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Nilüfer Yanya
 
-755 songs - 1 day 18 hr 50 min
+756 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-01 | 2022-10-14 |
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-22 | 2023-08-31 |
 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 | 2024-05-16 |  |
+| [Dogs In Heaven](https://open.spotify.com/track/14aI471gbVhilXXhaV5vww) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/3bhQKuDSclCvuunld6lR4g) | 2:08 | 2025-07-25 |  |
 | [Don't Press Me](https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 1:50 | 2022-08-18 | 2022-09-23 |
 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 | 2023-05-18 | 2023-08-05 |
 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 | 2023-10-06 | 2024-04-19 |
@@ -697,7 +698,7 @@
 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 | 2024-08-23 |  |
 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 | 2024-12-06 | 2025-07-26 |
 | [Toro](https://open.spotify.com/track/3Lj2PcKAkTXYiSVSeT7UA7) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Toro](https://open.spotify.com/album/72wu0Ve29nMO5iuUBIDywH) | 3:38 | 2021-03-09 | 2022-01-17 |
-| [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-27 |  |
+| [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-27 | 2025-08-08 |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-01-20 | 2025-02-21 |
 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 | 2022-09-08 | 2023-05-19 |
 | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/track/42SeGdgNjDJxzuc9YRVOn6) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/album/764Zqu3swQwYLSLz5qftq6) | 4:30 | 2022-08-18 | 2022-11-18 |

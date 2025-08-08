@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,210 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,217 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 26 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
 | 27 | [Después de Mi Qué Importa](https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Bodas de Plata: Concierto en Vivo](https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te) | 3:57 |
 | 28 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:30 |
-| 29 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
-| 30 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
+| 29 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
+| 30 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
 | 31 | [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 |
 | 32 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 | 33 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 53 | [Flor de Retana](https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE) | [Duo Retama](https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf) | [Wistu Vida](https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k) | 6:28 |
 | 54 | [Ay Corazón](https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX) | 4:41 |
 | 55 | [Tu recuerdo](https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N) | 4:24 |
-| 56 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/6SFt64ANizj4v4ObRoD6Hw) | [Raúl García Zárate](https://open.spotify.com/artist/7E6mAOwao4FqBa10KSJWbq) | [Serie Mistura de Ritmos: Mistura Andina, Vol\. 1](https://open.spotify.com/album/3EOM9REL8cD4JP2GX162ra) | 2:51 |
-| 57 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 |
+| 56 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 |
+| 57 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/6SFt64ANizj4v4ObRoD6Hw) | [Raúl García Zárate](https://open.spotify.com/artist/7E6mAOwao4FqBa10KSJWbq) | [Serie Mistura de Ritmos: Mistura Andina, Vol\. 1](https://open.spotify.com/album/3EOM9REL8cD4JP2GX162ra) | 2:51 |
 | 58 | [Juntito a Tí](https://open.spotify.com/track/1zL9sHcTeljBcBIMTp8KWi) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Y Su Perú Colores](https://open.spotify.com/album/6cjhSXx1Q0zzS2fuitwPqB) | 5:16 |
 | 59 | [Mentiras](https://open.spotify.com/track/58nfDdDxlUH5Bz8UYn6Cso) | [Yarita Lizeth Yanarico](https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y) | [La Chinita del Amor](https://open.spotify.com/album/21RqAKaHcfB7LyBn1F3BeP) | 5:53 |
 | 60 | [Cajamarquina](https://open.spotify.com/track/4TV3DDrm1RixW2HT7lQLeC) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvídame](https://open.spotify.com/album/0i9FcKBWpzLO6HoST7sY1O) | 4:29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 50347,
+  "num_followers": 50373,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACy68MylQ62WVC5BsUuGq16",
+  "snapshot_id": "aJKbAAAAAABv9tOyZS5nNhUWo+vw5WXy",
   "tracks": [
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 288400,
-      "name": "Come Fill My Heart",
-      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
+      "duration_ms": 300973,
+      "name": "Thirst For You",
+      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 300973,
-      "name": "Thirst For You",
-      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
+      "duration_ms": 288400,
+      "name": "Come Fill My Heart",
+      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Looking Back At You",
-      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 271453,
       "name": "Bless His Holy Name",
       "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "Looking Back At You",
+      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
     },
     {
       "added_at": null,

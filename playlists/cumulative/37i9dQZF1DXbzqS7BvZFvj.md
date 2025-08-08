@@ -2,7 +2,7 @@
 
 ### [Frontline \-ヒップホップ最前線\-](https://open.spotify.com/playlist/37i9dQZF1DXbzqS7BvZFvj)
 
-> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Drake
+> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: 唾奇
 
 1,271 songs - 2 day 15 hr 53 min
 

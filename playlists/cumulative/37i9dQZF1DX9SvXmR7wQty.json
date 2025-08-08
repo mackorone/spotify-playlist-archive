@@ -8709,6 +8709,24 @@
     },
     {
       "album": {
+        "name": "CABOT",
+        "url": "https://open.spotify.com/album/124xzBSJ90brz9TUGwB6ai"
+      },
+      "artists": [
+        {
+          "name": "La Monarque",
+          "url": "https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "CABOT",
+      "url": "https://open.spotify.com/track/4mHzCQFV9w6TKflRRerYff"
+    },
+    {
+      "album": {
         "name": "FILM!",
         "url": "https://open.spotify.com/album/2v4IcRJ0F24UuukJOFIjY7"
       },
@@ -44138,7 +44156,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 274239,
       "name": "On Part en Vacances",
       "url": "https://open.spotify.com/track/2ddgnPyk9wA4kOV5vuSQ8t"
@@ -46906,7 +46924,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 171060,
       "name": "Personne d'autre",
       "url": "https://open.spotify.com/track/3BmlEq3vpcEZG5jI7hOPFv"
@@ -50391,6 +50409,24 @@
     },
     {
       "album": {
+        "name": "Quand rien ne nous fera plus rien",
+        "url": "https://open.spotify.com/album/1P5oAwcjrvE2WSLHSxZ7LQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Jarry",
+          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Quand rien ne nous fera plus rien",
+      "url": "https://open.spotify.com/track/5fxIGfllFCVs898qhXN2cA"
+    },
+    {
+      "album": {
         "name": "Ressak",
         "url": "https://open.spotify.com/album/6Iwddz6DNGVkBz6GDnKRPV"
       },
@@ -52078,6 +52114,24 @@
       "duration_ms": 126139,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj"
+    },
+    {
+      "album": {
+        "name": "TOPAZE",
+        "url": "https://open.spotify.com/album/5vHU7YT7LJU4QxmwihY5fL"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143280,
+      "name": "RIGHT OR WRONG",
+      "url": "https://open.spotify.com/track/11UYuQEXBRKZ3gMZp6yDIm"
     },
     {
       "album": {
@@ -59472,7 +59526,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 170499,
       "name": "Tkt Pas",
       "url": "https://open.spotify.com/track/6gSSir2CTJjYEt0wrp54rf"

@@ -4,7 +4,7 @@
 
 > 🍾
 
-238 songs - 13 hr 49 min
+239 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [fly](https://open.spotify.com/track/2ylwgKfxMsZRdjmOqPvzNH) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [journée à paris](https://open.spotify.com/album/05ed2hnhQTx5YqZRCNqbJs) | 2:23 | 2024-06-21 | 2025-04-04 |
 | [FMF \(feat\. GoldLink & Audrey Mika\)](https://open.spotify.com/track/5W7F1XmizXlIo4nambCREY) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [FMF \(feat\. GoldLink & Audrey Mika\)](https://open.spotify.com/album/6vAI3r50JOdTnFdFQPE9mq) | 2:21 | 2023-12-01 | 2025-02-15 |
 | [Follow the Sun, Part\. 1](https://open.spotify.com/track/2UaDUnwXdpDf3iQ1HZ8Hq7) | [Gush](https://open.spotify.com/artist/3m61hCLcU3oVbs9kPYnoGC) | [Five \(Bande originale du film\)](https://open.spotify.com/album/0XLUSFWuSeSdiX45UvYddu) | 3:29 | 2022-12-08 | 2023-09-23 |
-| [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 | 2025-01-30 |  |
+| [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 | 2025-01-30 | 2025-08-08 |
 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 | 2023-01-04 | 2024-09-21 |
 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2022-12-08 | 2023-07-29 |
 | [Free Ride](https://open.spotify.com/track/4L67ZFASgypD9BTlb7VRpv) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Free Ride](https://open.spotify.com/album/4fqMkar9XEPIL18zmrNxXc) | 3:34 | 2022-12-08 | 2023-06-10 |
@@ -96,6 +96,7 @@
 | [Get It At Home](https://open.spotify.com/track/1PgQKktANGj96jDspXkZCq) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Saint Motel & the Symphony in the Sky](https://open.spotify.com/album/7gVcYqFmfM8s0zA8ND7JWa) | 3:30 | 2025-02-14 | 2025-07-26 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-27 |  |
 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 | 2022-12-08 | 2023-01-28 |
+| [Golden Teacher](https://open.spotify.com/track/4Nfnw3xcqaUJE22oRPsQHh) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Golden Teacher](https://open.spotify.com/album/4uFGTbMtV79Ul8w4Tr2zEK) | 3:32 | 2025-08-07 |  |
 | [Grim Generation](https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 3:20 | 2023-07-28 | 2025-04-26 |
 | [Had Enough](https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Had Enough](https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2) | 3:31 | 2024-09-20 | 2025-05-17 |
 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 | 2025-02-20 | 2025-03-14 |

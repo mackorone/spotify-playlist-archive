@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 25743,
+  "num_followers": 25746,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,30 @@
     {
       "added_at": "2025-07-01 11:16:25",
       "album": {
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+        },
+        {
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3, Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+    },
+    {
+      "added_at": "2025-07-01 11:16:25",
+      "album": {
         "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
         "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
       },
@@ -403,6 +427,30 @@
     {
       "added_at": "2025-07-01 11:16:25",
       "album": {
+        "name": "R. Strauss: Sinfonia domestica; Macbeth",
+        "url": "https://open.spotify.com/album/6JEexXnUl1TsPNBVJqPi6r"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "Sinfonia domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live at Musikverein, Vienna, 1983",
+      "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
+    },
+    {
+      "added_at": "2025-07-01 11:16:25",
+      "album": {
         "name": "Marc, Alessandra: Arias (Opera Gala) -Bellini, V. / Donizetti, G. / Hofmannsthal, H. / Barber, S. / Puccini, G.",
         "url": "https://open.spotify.com/album/0eBBqRUksRqE0JWjvRsFNQ"
       },
@@ -431,30 +479,6 @@
       "duration_ms": 311840,
       "name": "Die Agyptische Helena, Op. 75, TrV 255, Act II: Zweite Brautnacht! Zaubernacht",
       "url": "https://open.spotify.com/track/6iKuENO12ch6vV1wZXjPK1"
-    },
-    {
-      "added_at": "2025-07-01 11:16:25",
-      "album": {
-        "name": "Strauss: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
-      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
     },
     {
       "added_at": "2025-07-01 11:16:25",
@@ -491,30 +515,6 @@
     {
       "added_at": "2025-07-01 11:16:25",
       "album": {
-        "name": "R. Strauss: Sinfonia domestica; Macbeth",
-        "url": "https://open.spotify.com/album/6JEexXnUl1TsPNBVJqPi6r"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "Sinfonia domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live at Musikverein, Vienna, 1983",
-      "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
-    },
-    {
-      "added_at": "2025-07-01 11:16:25",
-      "album": {
         "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
         "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
       },
@@ -539,8 +539,8 @@
     {
       "added_at": "2025-07-01 11:16:25",
       "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+        "name": "Strauss: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
       },
       "artists": [
         {
@@ -548,17 +548,17 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
         },
         {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
         }
       ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3, Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+      "duration_ms": 217733,
+      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
+      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
     },
     {
       "added_at": "2025-07-01 11:16:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gippy Grewal & Sargun Mehta
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,113 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,226 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 7 | [Reejh](https://open.spotify.com/track/7FhdWpWA2BDO7KzW8jiE3j) | [Manraj](https://open.spotify.com/artist/0uaJu6JTp4Nv508PWFLrgn), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Reejh](https://open.spotify.com/album/7aezEhxfd9oKjvTxvZ4XI7) | 2:49 |
 | 8 | [Killa](https://open.spotify.com/track/0sVG8wDYt7IYy2M1KJu07y) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Killa](https://open.spotify.com/album/59YGPxS2fsNUGxB0SA4bSy) | 2:26 |
 | 9 | [Don't Look](https://open.spotify.com/track/5f3PgI4zW2oErM3j3MWTWW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Don't Look](https://open.spotify.com/album/0deuGuFI4MG9hTa5QI4Sar) | 3:06 |
-| 10 | [Sarbala Ji \- Title Song \(From "Sarbala Ji"\)](https://open.spotify.com/track/1sDoKwUiC14aCysq5K6yCU) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Jaggi Sanghera](https://open.spotify.com/artist/4F0IaqSKmEHz7FWDN19SvL) | [Sarbala Ji \- Title Song \(From "Sarbala Ji"\)](https://open.spotify.com/album/4PEQlNJYyKYAVb0ooVSStN) | 2:48 |
+| 10 | [Success Talks](https://open.spotify.com/track/7gmZMFm1iLDKefXdUMaI8y) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Success Talks](https://open.spotify.com/album/1CvVfkTzmA4rQXqPR2FsH2) | 2:08 |
 | 11 | [Loktath](https://open.spotify.com/track/6y21aiaOaPjdTIaKT6ohvc) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Babbu Brar](https://open.spotify.com/artist/5iVo4PE7XoDT1eDEh65gKj), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Loktath](https://open.spotify.com/album/6RaTOfyzqSqiMh5YubYGps) | 3:00 |
 | 12 | [Brother’s Anthem \- From "Maa Jaye"](https://open.spotify.com/track/2oWM0eI73AcrStBHLUT3TQ) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Navi Sran](https://open.spotify.com/artist/3zJE4ZX2bopU78ctqJ2bBF) | [Maa Jaye \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1BFXe6X3u1NiUwvrvqJRyq) | 2:39 |
 | 13 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 99 | [Maroon Maroon](https://open.spotify.com/track/48Ocih6gAv9L7ubcRhqzK5) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Maroon Maroon](https://open.spotify.com/album/5V3rsvYypCRaHP8OK3Mm6T) | 3:47 |
 | 100 | [Vaddi Galbaat](https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Vaddi Galbaat](https://open.spotify.com/album/4rfmwIjMsdG9QrCKpDYibW) | 3:34 |
 
-Snapshot ID: `AAAAAEcaSgZ/buC2bdm4VxuAcYrwPkeX`
+Snapshot ID: `AAAAAFDFOrHeTcsQT2DlV3BI+8dHODup`

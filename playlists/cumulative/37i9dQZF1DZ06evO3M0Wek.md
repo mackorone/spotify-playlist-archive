@@ -4,7 +4,7 @@
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 22 min
+55 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,8 @@
 | [I Get Off](https://open.spotify.com/track/0JKY13K1Io2aqXJb96UyzX) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:03 | 2025-03-08 |  |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 4:09 | 2025-03-08 |  |
 | [I Like It Heavy](https://open.spotify.com/track/6cIZP8nszUUtkwbxEW6wBN) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 4:54 | 2025-03-08 |  |
-| [I Miss the Misery](https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:03 | 2025-03-24 |  |
-| [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:03 | 2025-03-08 | 2025-03-24 |
+| [I Miss the Misery](https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:03 | 2025-03-24 | 2025-08-08 |
+| [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:03 | 2025-03-08 |  |
 | [I'm Not an Angel](https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:14 | 2025-03-08 |  |
 | [Innocence](https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:15 | 2025-03-08 |  |
 | [It's Not You](https://open.spotify.com/track/1piXfcb5rq0vuilQ6kC2Jx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 2:54 | 2025-03-08 |  |
@@ -48,6 +48,7 @@
 | [Psycho Crazy](https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:25 | 2025-03-08 |  |
 | [Rain Your Blood On Me](https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Rain Your Blood On Me](https://open.spotify.com/album/5nVX7E3Cu7dREQeBle4FRW) | 4:14 | 2025-07-13 |  |
 | [Raise Your Horns](https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:18 | 2025-03-08 |  |
+| [Rock Show](https://open.spotify.com/track/42h9lxw9OKy1sw6vh6dKBP) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:19 | 2025-08-08 |  |
 | [Shoot to Thrill](https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 5:07 | 2025-03-08 |  |
 | [Sick Individual](https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:27 | 2025-03-08 |  |
 | [Skulls](https://open.spotify.com/track/4nFYiBLRjRYyhY95x5qSm1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:19 | 2025-04-26 | 2025-05-31 |

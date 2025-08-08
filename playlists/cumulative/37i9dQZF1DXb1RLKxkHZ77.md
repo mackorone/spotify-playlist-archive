@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Adrianna Cinta, Farouk Roman
 
-764 songs - 1 day 23 hr 45 min
+765 songs - 1 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [Mungkin Ini Adalah Lagu Yang Paling Sedih Pernah Ku Buat](https://open.spotify.com/track/1auMsAG9X5RSDu8UuJayIs) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Mungkin Ini Adalah Lagu Yang Paling Sedih Pernah Ku Buat](https://open.spotify.com/album/3IrwzNwKbQh1tE9ug53hnz) | 3:02 | 2022-10-05 | 2022-12-15 |
 | [Mungkin Ke?](https://open.spotify.com/track/2I3WeViGfPCaakFBuYCYPq) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Janji](https://open.spotify.com/album/57YvxSlmYaHXgmYKIWvIEq) | 3:24 | 2024-11-27 | 2025-01-16 |
 | [Musnah](https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Musnah](https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2) | 3:59 | 2024-06-26 | 2025-01-09 |
-| [MWA!](https://open.spotify.com/track/3IIHUIzolxO8OmFsUkT8w2) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-05-14 |  |
+| [MWA!](https://open.spotify.com/track/3IIHUIzolxO8OmFsUkT8w2) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-05-14 | 2025-08-08 |
 | [MY WAY](https://open.spotify.com/track/6fI3s9V2wpNMGObXVF88ta) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [MY WAY](https://open.spotify.com/album/0w7JueoRv0I63VsQ92Zxp9) | 3:00 | 2025-02-26 | 2025-03-20 |
 | [Nadi](https://open.spotify.com/track/7zEqt6sNKgLzPtGRNmPCTZ) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR), [Jobranko](https://open.spotify.com/artist/1d8naonCEBoHe6qVt0q5rK) | [Nadi](https://open.spotify.com/album/3ik4FiK6eB4zseVNGU2E2L) | 2:58 | 2024-07-03 | 2024-08-15 |
 | [Nak Buat Cane?](https://open.spotify.com/track/369PVMSWuwJbWk4bUvest6) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Nak Buat Cane?](https://open.spotify.com/album/49Ro1iIjClqviZCBsacGoP) | 2:58 | 2024-10-09 | 2025-04-10 |
@@ -681,6 +681,7 @@
 | [SUTERA](https://open.spotify.com/track/3kDvYWOTRzs5dEGKRsCizB) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [SUTERA](https://open.spotify.com/album/2apVqruZkI2V9EQheYcjzp) | 3:18 | 2022-08-03 | 2022-09-22 |
 | [SWIPE](https://open.spotify.com/track/1FNfR4kZyozQ1unC5rQGC6) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [SWIPE](https://open.spotify.com/album/5mtgm2XTGhtLxxHcYC6XU0) | 2:40 | 2022-10-27 | 2023-08-10 |
 | [Syurga](https://open.spotify.com/track/2vDJ5C6dgCPGqQhcnD1mnB) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Syurga](https://open.spotify.com/album/1WCl1wgB61ukTkVDHGQVXy) | 4:24 | 2024-02-07 | 2024-02-29 |
+| [TABOLA BALE](https://open.spotify.com/track/4jIGZPcgg0U8Lemv2Ylg8W) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [Jacson Seran](https://open.spotify.com/artist/7sGSFhUe26nmXPxw3KuXrj), [Juan Reza](https://open.spotify.com/artist/0eYCIajsbVsMjVUIkcomIY), [Diva Aurel](https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u) | [TABOLA BALE](https://open.spotify.com/album/2oggN84kvW5TbuF3XfgpzF) | 4:34 | 2025-08-07 |  |
 | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy) | 4:05 | 2025-05-30 | 2025-07-10 |
 | [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 | 2024-11-20 | 2025-03-06 |
 | [Tak Adil](https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Tak Adil](https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K) | 3:08 | 2025-07-02 | 2025-08-07 |

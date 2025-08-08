@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,263 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,284 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 18 | [Lift Me Up](https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lift Me Up](https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW) | 2:48 |
 | 19 | [SWISH](https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary \(Deluxe Edition\)](https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr) | 3:14 |
 | 20 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
-| 21 | [Kim Kardashian](https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:40 |
-| 22 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
+| 21 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
+| 22 | [Kim Kardashian](https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:40 |
 | 23 | [Wait For A Minute](https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wait For A Minute](https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69) | 3:27 |
 | 24 | [Kream \(feat\. Tyga\)](https://open.spotify.com/track/5mu1uv8RmzDkF8foePK5qa) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Survive The Summer](https://open.spotify.com/album/4jzYKkhMfaEFxDRevZqDdK) | 2:46 |
 | 25 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 |
 | 50 | [Touch It \- Remix](https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Touch It \(Remix\)](https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu) | 3:01 |
 
-Snapshot ID: `aJFJgAAAAAAAfIcjhZFOsm6i8n42de+d`
+Snapshot ID: `aJKbAAAAAAB90Xl+XDWIE3nKJfIz6GoW`

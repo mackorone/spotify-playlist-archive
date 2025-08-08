@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 2 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 |
 | 3 | [Girls Just Wanna Be Famous](https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Girls Just Wanna Be Famous](https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt) | 2:41 |
 | 4 | [blasphemy!](https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:58 |
-| 5 | [breakup with a friend](https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i) | 2:42 |
-| 6 | [Emotional Punching Bag](https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse) | 2:56 |
+| 5 | [Emotional Punching Bag](https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse) | 2:56 |
+| 6 | [breakup with a friend](https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i) | 2:42 |
 | 7 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3) | 2:33 |
 | 8 | [emotional affair](https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:01 |
 | 9 | [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 23 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 |
 | 24 | [you fake your british accent](https://open.spotify.com/track/7BzOTBSCGMxwOQsrMPUC2W) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:08 |
 
-Snapshot ID: `aJFJgAAAAAC3l9ltwv1pumiwga5Wzjp5`
+Snapshot ID: `aJKbAAAAAABAavHxjG7qNd+GSOXOy+QP`

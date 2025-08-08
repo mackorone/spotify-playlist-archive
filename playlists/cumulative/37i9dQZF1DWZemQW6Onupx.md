@@ -2,7 +2,7 @@
 
 ### [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx)
 
-> Enjoy music from "Panty & Stocking with Garterbelt"! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
+> Enjoy music from "New PANTY & STOCKING with GARTERBELT"! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
 47 songs - 2 hr 28 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,651 likes - 46 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,655 likes - 46 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,25 +34,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 24 | [Tell Me Baby \- Live](https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Roots Of Rock & Roll](https://open.spotify.com/album/361U0QdVGbCscARmmFWU40) | 4:58 |
 | 25 | [Hound Dog / Walkin' the Dog](https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama](https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl) | 4:11 |
 | 26 | [Just Like A Dog, Barking Up The Wrong Tree](https://open.spotify.com/track/5kprualteHZKW9pEwrA03O) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:49 |
-| 27 | [I Need Your Love](https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:19 |
-| 28 | [That Lucky Old Sun](https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:37 |
+| 27 | [That Lucky Old Sun](https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:37 |
+| 28 | [I Need Your Love](https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:19 |
 | 29 | [Sweet Little Angel / 3 O'Clock In The Mornin' \- Live](https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Roots Of Rock & Roll](https://open.spotify.com/album/361U0QdVGbCscARmmFWU40) | 6:06 |
 | 30 | [Sweet Little Angel / Three O’Clock Blues \- 2022 Remaster](https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama \- Live at The Rising Sun Celebrity Jazz Club \(2022 Remaster\)](https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF) | 5:57 |
-| 31 | [The Place](https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 2:35 |
-| 32 | [Ain't Nothin' You Can Do](https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:43 |
-| 33 | [Hard Times](https://open.spotify.com/track/2cxSu8wg4ajFoco74HDG2N) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:13 |
-| 34 | [Mixed Up Feeling](https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hangover Blues](https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk) | 9:28 |
-| 35 | [Sheriff O.E\. & Me](https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 3:25 |
-| 36 | [Early One Mornin’ Blues \- Live](https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Early One Mornin’ Blues \(Live\)](https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz) | 4:14 |
+| 31 | [Ain't Nothin' You Can Do](https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:43 |
+| 32 | [The Place](https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 2:35 |
+| 33 | [Mixed Up Feeling](https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hangover Blues](https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk) | 9:28 |
+| 34 | [Hard Times](https://open.spotify.com/track/2cxSu8wg4ajFoco74HDG2N) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:13 |
+| 35 | [Early One Mornin’ Blues \- Live](https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Early One Mornin’ Blues \(Live\)](https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz) | 4:14 |
+| 36 | [Sheriff O.E\. & Me](https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 3:25 |
 | 37 | [Rock Me Baby](https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 6:45 |
 | 38 | [Chauffeur Blues](https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:07 |
-| 39 | [Jail](https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 5:56 |
-| 40 | [Partnership Blues](https://open.spotify.com/track/2Zk8PI9w7516G8u5iAxtv4) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA) | 2:40 |
+| 39 | [Everybody's Happy \(But Me\)](https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama!](https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR) | 3:20 |
+| 40 | [Jail](https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 5:56 |
 | 41 | [Rolling Stone](https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 4:38 |
-| 42 | [Everybody's Happy \(But Me\)](https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama!](https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR) | 3:20 |
-| 43 | [Rollin' Stone](https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:59 |
+| 42 | [Partnership Blues](https://open.spotify.com/track/2Zk8PI9w7516G8u5iAxtv4) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA) | 2:40 |
+| 43 | [Ball And Chain](https://open.spotify.com/track/7djfSzsm0iyC1WhGp3DrGi) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 4:42 |
 | 44 | [Tell Me Pretty Baby \- 2022 Remaster](https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama \- Live at The Rising Sun Celebrity Jazz Club \(2022 Remaster\)](https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF) | 5:07 |
 | 45 | [Big Mama Swings](https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 5:11 |
 | 46 | [Oh Happy Day](https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 4:03 |
 
-Snapshot ID: `aJFJgAAAAADL5AJj8U5YsJnp1lzYqw6o`
+Snapshot ID: `aJKbAAAAAABJKb4Q1jnVF6SESx/KMvLM`

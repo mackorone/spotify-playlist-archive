@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,103 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,163 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 39 | [Arrested for Driving While Blind](https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 3:06 |
 | 40 | [I Got My Mojo Working](https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q) | 4:46 |
 | 41 | [A Blue Song](https://open.spotify.com/track/433G78x9000nRkf4flw6bs) | [Joe "Guitar" Hughes](https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r) | [Texas Guitar Slinger](https://open.spotify.com/album/0PdYqT045K3ZsMQU3GUnTb) | 5:14 |
-| 42 | [Life by the Drop](https://open.spotify.com/track/5jrq9La3ynS3B9aizefueu) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/4SB602UH3CT37jiy1mZzlu) | 3:05 |
-| 43 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 4:28 |
-| 44 | [My Texas Home](https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/4xZ46S0lPn8bNRRRpkRvD2) | 4:53 |
-| 45 | [We The People](https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/7nKZ9Ih62eEDbWEIoODwzN) | 4:20 |
+| 42 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 4:28 |
+| 43 | [My Texas Home](https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/4xZ46S0lPn8bNRRRpkRvD2) | 4:53 |
+| 44 | [We The People](https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/7nKZ9Ih62eEDbWEIoODwzN) | 4:20 |
+| 45 | [Life by the Drop](https://open.spotify.com/track/5jrq9La3ynS3B9aizefueu) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/4SB602UH3CT37jiy1mZzlu) | 3:05 |
 | 46 | [Don't Lose My Number](https://open.spotify.com/track/4t7Nh53jliIn7NoFN36qJG) | [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B), [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1) | [Blood Brothers](https://open.spotify.com/album/7bg12LvkHlAWqijVlczS4I) | 3:33 |
 | 47 | [Crazy Love](https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy) | 5:41 |
 | 48 | [Pay the Band](https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn) | 4:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,893 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,902 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 38 | [Elon Musk \(Remix\)](https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd) | 3:24 |
 | 39 | [Money](https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:47 |
 | 40 | [Agege](https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Agege](https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR) | 3:16 |
-| 41 | [No Sleeping](https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:45 |
-| 42 | [Biggie Man](https://open.spotify.com/track/2kbzej9CB5YaFbmU9xDo9L) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [If Only Love Was Enough](https://open.spotify.com/album/2dwLnFMDMBEURnhJZ4JIwT) | 3:47 |
+| 41 | [Biggie Man](https://open.spotify.com/track/2kbzej9CB5YaFbmU9xDo9L) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [If Only Love Was Enough](https://open.spotify.com/album/2dwLnFMDMBEURnhJZ4JIwT) | 3:47 |
+| 42 | [No Sleeping](https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:45 |
 | 43 | [Two Criminals](https://open.spotify.com/track/1pUauvksiTSDA1x4P5vRWb) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [The Erigma II](https://open.spotify.com/album/7jP3LBDKbtPZsDpRrvA1qR) | 3:31 |
 | 44 | [Spiritual](https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Spiritual](https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh) | 3:28 |
 | 45 | [Able God](https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Able God](https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 49 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
 | 50 | [Say No to Big Fall](https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Sick Six](https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD) | 2:08 |
 
-Snapshot ID: `aJFJgAAAAABg/8CH2mwdCVrW8XqAWmCy`
+Snapshot ID: `aJKbAAAAAABTWnUgq1Jf6+g3CM8q33Ks`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 13 | [Listen To Her Heart](https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [You're Gonna Get It!](https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw) | 3:04 |
 | 14 | [Even The Losers](https://open.spotify.com/track/5SdMXQmfV4OZx5O05986d3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 3:38 |
 | 15 | [Mary Jane's Last Dance](https://open.spotify.com/track/0UWhRKpZxLEUZhmku98WcH) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:31 |
-| 16 | [A Woman In Love \(It's Not Me\)](https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:19 |
+| 16 | [Walls \- Circus](https://open.spotify.com/track/5yEpB2g3CbuVk4YmAkzkOK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [She's the One \(Songs and Music from the Motion Picture\)](https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto) | 4:25 |
 | 17 | [I Need To Know](https://open.spotify.com/track/2NNpI1bOvnhXcACZ4IdiM3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [You're Gonna Get It!](https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw) | 2:24 |
-| 18 | [Walls \- Circus](https://open.spotify.com/track/5yEpB2g3CbuVk4YmAkzkOK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [She's the One \(Songs and Music from the Motion Picture\)](https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto) | 4:25 |
+| 18 | [A Woman In Love \(It's Not Me\)](https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:19 |
 | 19 | [Swingin'](https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:30 |
 | 20 | [Something In The Air](https://open.spotify.com/track/61ydRWnQ31DWFDqEj325nf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 3:16 |
 | 21 | [Jammin' Me](https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Let Me Up \(I've Had Enough\)](https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ) | 4:09 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 27 | [Kings Highway](https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:06 |
 | 28 | [Call Me the Breeze \- Live at the Fillmore, 1997](https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Call Me the Breeze \(Live at the Fillmore, 1997\)](https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3) | 5:58 |
 | 29 | [I Should Have Known It](https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:35 |
-| 30 | [Southern Accents](https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 4:44 |
-| 31 | [Anything That's Rock 'N' Roll](https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 2:24 |
+| 30 | [Anything That's Rock 'N' Roll](https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 2:24 |
+| 31 | [Southern Accents](https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 4:44 |
 | 32 | [Insider](https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:20 |
 | 33 | [Louisiana Rain](https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 5:52 |
 | 34 | [The Dark Of The Sun](https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Friend of the Devil \- Live](https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 5:41 |
 | 50 | [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [I Won't Back Down \(Live at the Fillmore, 1997\)](https://open.spotify.com/album/0OmDmOf0kDHw2RXxjeaMLf) | 3:42 |
 
-Snapshot ID: `aJFJgAAAAACkMVYFhqPG1HTglSSeecbj`
+Snapshot ID: `aJKbAAAAAAC6cO1tyu0MSevZerpX7WPt`

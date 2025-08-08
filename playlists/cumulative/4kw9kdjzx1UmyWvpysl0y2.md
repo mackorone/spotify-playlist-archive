@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,042 songs - 2 day 10 hr 27 min
+1,043 songs - 2 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Shanti](https://open.spotify.com/track/13dH1ApsDZKh0GUowY2Pqm) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Laminar](https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr) | [Shanti](https://open.spotify.com/album/4No45mKgjb31CUUkZckmBO) | 4:04 | 2025-05-16 |  |
 | [Shapes](https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Shapes](https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1) | 3:43 | 2022-01-17 | 2022-03-25 |
 | [She's Got a Gun \- Clockvice Remix](https://open.spotify.com/track/5VtHg945KXjNe7dmxA7kYL) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT), [Clockvice](https://open.spotify.com/artist/0KgVymhgHYfOMP13j78XsS) | [She's Got a Gun \(Clockvice Remix\)](https://open.spotify.com/album/4dYaUPfO6EOIdXXOxEZeJT) | 3:09 | 2022-12-10 | 2023-03-09 |
+| [Shine](https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Shine](https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5) | 2:49 | 2025-08-07 |  |
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
 | [Should've Known Better](https://open.spotify.com/track/0lZmRfdj1CpstyZzFIGGxQ) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Should've Known Better](https://open.spotify.com/album/53ECP7lpXO3iCOwPREqy4U) | 3:24 | 2025-07-08 |  |
 | [Show Me!](https://open.spotify.com/track/2dXeTLbQO9pzYMXnRAzMMJ) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Show Me!](https://open.spotify.com/album/5JuSjDOYp2huFAToRSDTYi) | 2:47 | 2025-02-10 | 2025-05-03 |

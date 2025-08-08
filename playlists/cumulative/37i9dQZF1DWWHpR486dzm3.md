@@ -2,7 +2,7 @@
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa emma & matilda.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa Rebekka Holi.
 
 870 songs - 2 day 4 hr 23 min
 

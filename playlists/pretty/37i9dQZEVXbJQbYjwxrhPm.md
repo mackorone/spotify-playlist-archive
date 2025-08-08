@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 45 | [От кеф да умирам](https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [От кеф да умирам](https://open.spotify.com/album/0SerSfJWOnQLMkEvf24aZd) | 4:00 |
 | 46 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 47 | [Къде си сега](https://open.spotify.com/track/67v4GN0tIrfPGosPzSyo2I) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Къде си сега](https://open.spotify.com/album/1DMaKwgQRLhFcwc1SAEGU3) | 3:17 |
-| 48 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
+| 48 | [Paranoid \- 2009 Remaster](https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 2:47 |
 | 49 | [Маниак](https://open.spotify.com/track/4kbhl4YnKVwN0ElFNm3TdW) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Маниак](https://open.spotify.com/album/6o8NqpmemMBy0tqLnyZZQ3) | 3:44 |
 | 50 | [Тук\-Там](https://open.spotify.com/track/49Wp0NALmAsMBkaXYzd8ur) | [Donika](https://open.spotify.com/artist/3DJYC50MIKFpWotJVrxFJg), [Antonio](https://open.spotify.com/artist/0rQ97rmt6NN5BVLKJze1mK), [Monkey](https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO) | [Тук\-Там](https://open.spotify.com/album/0slK8t50As7YJYf48XG05r) | 3:56 |
 
-Snapshot ID: `MCbMKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MCgdqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

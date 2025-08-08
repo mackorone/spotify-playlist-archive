@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,587,624 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587,574 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 67 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 |
 | 68 | [select@](https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:44 |
 | 69 | [MOMENT](https://open.spotify.com/track/5YKwIYALi5TnCkKnJ5fSX2) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [MOMENT](https://open.spotify.com/album/0ubLDnKmOqfY51vQpwcoYF) | 3:02 |
-| 70 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
-| 71 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
-| 72 | [FIX ME UP](https://open.spotify.com/track/5ZMTsepLQto8YblpbgyG5I) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [FIX ME UP](https://open.spotify.com/album/5kAgsu2Yqtc15bjtfNvsXX) | 2:15 |
+| 70 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
+| 71 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
+| 72 | [AIRPLANE MODE](https://open.spotify.com/track/27K16LGxXQaTGAUTTIAJju) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [ABBY M.](https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM) | [AIRPLANE MODE](https://open.spotify.com/album/7s3UIQN7qZ5ubYklMaW4Cf) | 2:36 |
 | 73 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 |
 | 74 | [Mind Pluck](https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Mind Pluck](https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz) | 4:30 |
 | 75 | [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 |

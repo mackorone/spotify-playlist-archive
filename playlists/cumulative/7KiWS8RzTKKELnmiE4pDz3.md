@@ -4,7 +4,7 @@
 
 > 
 
-1,129 songs - 2 day 8 hr 47 min
+1,130 songs - 2 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,6 +816,7 @@
 | [Recollections Of Fame!](https://open.spotify.com/track/5Ysp0AjJdsrEWVJ9dOJfOO) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 2:59 | 2023-01-20 | 2023-08-20 |
 | [Red](https://open.spotify.com/track/4aE16KOYo13oEzVuZK1x0i) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:16 | 2022-07-28 | 2023-12-14 |
 | [Red](https://open.spotify.com/track/2kNKfDA8HxuJCYQl8EraYn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:14 | 2023-01-06 | 2024-03-05 |
+| [RED TAILS](https://open.spotify.com/track/1TNUfEVHtWhYD40Yj4sAr7) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:06 | 2025-08-07 |  |
 | [RedEye](https://open.spotify.com/track/5e4hrLwyAC0Qe1t0PgNz1k) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:25 | 2022-05-08 | 2023-05-09 |
 | [REDRAG](https://open.spotify.com/track/4JPaDF0pN3JPColaLaDbTF) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:46 | 2025-08-06 |  |
 | [Regrets](https://open.spotify.com/track/2G5VfBhThZMgDXHBh6EHah) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 4:32 | 2022-09-20 | 2023-05-09 |

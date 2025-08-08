@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 310178,
+  "num_followers": 310207,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
+        "name": "25 Number Ones",
+        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 181932,
+      "name": "You've Never Been This Far Before",
+      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
-        "name": "25 Number Ones",
-        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 181932,
-      "name": "You've Never Been This Far Before",
-      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
     },
     {
       "added_at": "2024-11-04 17:53:04",

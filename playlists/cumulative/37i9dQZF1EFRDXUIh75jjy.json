@@ -1408,6 +1408,28 @@
     {
       "album": {
         "name": "Everything Changes",
+        "url": "https://open.spotify.com/album/5DI2ubXdSU9ZoEbSU8PtyL"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        },
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Everything Changes",
+      "url": "https://open.spotify.com/track/1hEiNGSNGY2nfGBJQm5YWl"
+    },
+    {
+      "album": {
+        "name": "Everything Changes",
         "url": "https://open.spotify.com/album/3u1603AetS0Vg1TWSRIU1N"
       },
       "artists": [
@@ -1422,7 +1444,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 190093,
       "name": "Everything Changes",
       "url": "https://open.spotify.com/track/5qDERSuqkR2swJWGkH2Oox"

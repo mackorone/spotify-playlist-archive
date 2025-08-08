@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125111,
+  "num_followers": 125103,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUcSEmXOclFrk1qIj+4hsoxP55Sma6",
+  "snapshot_id": "AAAUcuhYY1IzZ2GaF+p5DW5oeU5k2IJL",
   "tracks": [
+    {
+      "added_at": "2025-08-07 14:03:41",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
+    },
     {
       "added_at": "2025-08-06 14:41:14",
       "album": {

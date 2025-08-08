@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Marioo",
+  "description": "What is your love language? Say it in Swahili.  Cover: Mocco Genius",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -3267,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "My Sugar",
+        "url": "https://open.spotify.com/album/0WQeKFYsWSLtnoAb30SjDW"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183006,
+      "name": "My Sugar",
+      "url": "https://open.spotify.com/track/19Y3LPmYTalVRWUsyLdNx3"
+    },
+    {
+      "album": {
         "name": "My Sugar (feat. Nadia Mukami)",
         "url": "https://open.spotify.com/album/6WTpWQNFlycDkeO2mk7UJY"
       },
@@ -4050,7 +4068,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 213137,
       "name": "Nitadumu Nae",
       "url": "https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2"

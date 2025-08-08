@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,984 likes - 171 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,983 likes - 171 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 126 | [High Hopes](https://open.spotify.com/track/47977ddRuDJUsPGBqoIKSt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 7:22 |
 | 127 | [Sex In The Porsche](https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:33 |
 | 128 | [Never Played Me](https://open.spotify.com/track/4GjUOTIHuiEVHC1kZraZ0H) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:09 |
-| 129 | [Breather \(feat\. Ty Dolla $ign & PARTYNEXTDOOR\)](https://open.spotify.com/track/3Xvw3dLZUjnOxgLmgd1q3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Just Cause Y'all Waited](https://open.spotify.com/album/1R8YtoBYJgC2ue7eq9Xa8d) | 4:36 |
-| 130 | [F a m i l y](https://open.spotify.com/track/2cKWOLgAZe09PplIV18ZzE) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:52 |
+| 129 | [F a m i l y](https://open.spotify.com/track/2cKWOLgAZe09PplIV18ZzE) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:52 |
+| 130 | [Breather \(feat\. Ty Dolla $ign & PARTYNEXTDOOR\)](https://open.spotify.com/track/3Xvw3dLZUjnOxgLmgd1q3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Just Cause Y'all Waited](https://open.spotify.com/album/1R8YtoBYJgC2ue7eq9Xa8d) | 4:36 |
 | 131 | [Better Man \(feat\. Rick Ross\)](https://open.spotify.com/track/6Oj8Uf2qnCNDEIJNOuQbLc) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:37 |
 | 132 | [Can't Hang](https://open.spotify.com/track/1VycJxkDtBSEClyVPrIlWT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 2:59 |
 | 133 | [Nothing Easy to Please](https://open.spotify.com/track/14NUhdjQHbAVesSRmK2n7M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt) | 4:23 |
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 158 | [GIRL FROM OAKLAND](https://open.spotify.com/track/4boBDGtJWGiWUosp2JVEVy) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:37 |
 | 159 | [The Right Way](https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:41 |
 | 160 | [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 |
-| 161 | [ON UR MIND](https://open.spotify.com/track/3Ci0JKVWZ4vldEs9KMlkfy) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [GOOD MAN \(Deluxe\)](https://open.spotify.com/album/5kXmI1B0BLb2joTTAckz9n) | 3:22 |
-| 162 | [My Terms \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 2:52 |
+| 161 | [My Terms \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 2:52 |
+| 162 | [ON UR MIND](https://open.spotify.com/track/3Ci0JKVWZ4vldEs9KMlkfy) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [GOOD MAN \(Deluxe\)](https://open.spotify.com/album/5kXmI1B0BLb2joTTAckz9n) | 3:22 |
 | 163 | [Let Me](https://open.spotify.com/track/2zGbEkMYPxlQJQ9VKD5crD) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:09 |
 | 164 | [cantsleep/drunkinluv](https://open.spotify.com/track/1rmnXvRqv4RSGycJPS0pzJ) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 3:15 |
 | 165 | [DON'T WORRY \(feat\. Ca$h Out\)](https://open.spotify.com/track/7qp97g3hDgmUPKAVJG7O1v) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Ca$h Out](https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 3:57 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 170 | [Elevate](https://open.spotify.com/track/3HEe35p5i97KcFoBra4pIn) | [Siedd](https://open.spotify.com/artist/0BjgliR7fzJazTNUaaal14) | [Elevate](https://open.spotify.com/album/01Abn8AtQ1psk6jwqqHPta) | 2:12 |
 | 171 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `Ab4zvAAAAABUzgTtdksYo6UUIWjg+dG8`
+Snapshot ID: `Ab45XAAAAACQAimvDyJjPKB8jc886fY2`

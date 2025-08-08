@@ -2,7 +2,7 @@
 
 ### [Novità Pop](https://open.spotify.com/playlist/37i9dQZF1DX6K3mlB5G3WG)
 
-> Rauw Alejandro e tutte le migliori nuove uscite 🇮🇹 e 🌎!
+> CMAT e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
 1,820 songs - 3 day 20 hr 55 min
 

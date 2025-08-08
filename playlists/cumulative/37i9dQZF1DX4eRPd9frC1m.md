@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-434 songs - 23 hr 26 min
+435 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 | 2024-05-10 |  |
 | [AETHER \- Hex Cougar Remix](https://open.spotify.com/track/0JT6aP58HKQ80VrXSVD8cK) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [AETHER \(Hex Cougar Remix\)](https://open.spotify.com/album/6lEL2qnKiGsbpvDEtcc9lN) | 4:03 | 2021-11-19 | 2022-01-08 |
 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-30 |  |
+| [AIRPLANE MODE](https://open.spotify.com/track/27K16LGxXQaTGAUTTIAJju) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [ABBY M.](https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM) | [AIRPLANE MODE](https://open.spotify.com/album/7s3UIQN7qZ5ubYklMaW4Cf) | 2:36 | 2025-07-25 |  |
 | [All Black](https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Feral](https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN) | 2:14 | 2024-08-02 | 2025-03-08 |
 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 | 2021-11-19 | 2023-04-29 |
 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 | 2022-09-09 |  |
@@ -126,7 +127,7 @@
 | [Fight Back](https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Fight Back](https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75) | 3:02 | 2021-11-19 | 2024-04-13 |
 | [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 | 2024-11-08 | 2025-04-26 |
 | [Five Hours \- CELO & MACHAKI Remix](https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [Five Hours \(CELO & MACHAKI Remix\)](https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq) | 2:09 | 2025-07-11 |  |
-| [FIX ME UP](https://open.spotify.com/track/5ZMTsepLQto8YblpbgyG5I) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [FIX ME UP](https://open.spotify.com/album/5kAgsu2Yqtc15bjtfNvsXX) | 2:15 | 2025-05-30 |  |
+| [FIX ME UP](https://open.spotify.com/track/5ZMTsepLQto8YblpbgyG5I) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [FIX ME UP](https://open.spotify.com/album/5kAgsu2Yqtc15bjtfNvsXX) | 2:15 | 2025-05-30 | 2025-08-08 |
 | [Flat Line](https://open.spotify.com/track/2JmbEZudT2eA3kUp5nXGZf) | [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [All Killer No Filler EP](https://open.spotify.com/album/7HjEb7HP68bpVclylWutsl) | 2:24 | 2022-05-06 | 2023-01-21 |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-13 | 2024-03-02 |
 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 | 2024-03-01 |  |

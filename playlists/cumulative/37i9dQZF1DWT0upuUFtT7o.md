@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Polami Roko
 
-3,420 songs - 7 day 21 hr 21 min
+3,421 songs - 7 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Can You Keep Being Around](https://open.spotify.com/track/4SXkaKTMlHDMCPTglsQpvV) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Can You Keep Being Around](https://open.spotify.com/album/5wHb7WjAP4MR9CWtg0uH1V) | 3:10 | 2023-04-26 | 2023-05-31 |
 | [Can you see it?](https://open.spotify.com/track/113iuXZRpOqrvHtRNWdQfG) | [Jennah Bell](https://open.spotify.com/artist/18ciiyT6KksD2BxSO4I9J6), [Claudio Olachea](https://open.spotify.com/artist/1kK9dBHABobtsxhvZjI0Wa) | [Can you see it?](https://open.spotify.com/album/2DyLmZlZ6BJ5IG8YXkmg1r) | 3:13 | 2023-10-04 | 2023-11-16 |
 | [Can You See Me](https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:31 | 2022-11-30 | 2023-01-12 |
+| [Can You Trace It On My Hand](https://open.spotify.com/track/1hmWGeX8SZOTwvdcwJOCtn) | [Evil Adeline](https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi) | [Can You Trace It On My Hand](https://open.spotify.com/album/3VAzjF7KTCxJ7lG9Jm6L5M) | 1:57 | 2025-08-07 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Can't Be Replaced](https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV) | 3:39 | 2024-07-31 | 2024-10-03 |
 | [Can't Feel A Thing](https://open.spotify.com/track/3KFl4wanDudwH28qbFxUy5) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Can't Feel A Thing](https://open.spotify.com/album/6aeTDabNL4Fj2zuj2okBI0) | 3:24 | 2022-03-30 | 2022-04-27 |
 | [Can't Go Anywhere](https://open.spotify.com/track/3vvAArYymOSBVwfB57DrDB) | [Foliage](https://open.spotify.com/artist/6GO4Noo5C7TXVHxGNClp2w) | [Can't Go Anywhere](https://open.spotify.com/album/0YNPPsuTpAei2zDRdzzs2r) | 2:22 | 2022-04-06 | 2022-04-27 |

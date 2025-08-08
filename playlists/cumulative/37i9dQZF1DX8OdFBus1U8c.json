@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/4n3h1GrWly0tI6ovyeT3AG"
+      },
+      "artists": [
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109602,
+      "name": "Ayo - Original Mix",
+      "url": "https://open.spotify.com/track/0ScaPa8rsVl1BnVKL1UMnb"
+    },
+    {
+      "album": {
         "name": "Ayyayyo",
         "url": "https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf"
       },
@@ -2992,7 +3010,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 117600,
       "name": "Kadhanam",
       "url": "https://open.spotify.com/track/6qLFN5vdmfH8kld6ZB4XAM"
@@ -3292,7 +3310,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 227850,
       "name": "Kashtappad",
       "url": "https://open.spotify.com/track/46RB0VoTU5BR1EhKgCSdmX"
@@ -5786,6 +5804,28 @@
       "duration_ms": 140667,
       "name": "Ozhukam Njan Nadhi",
       "url": "https://open.spotify.com/track/5zVtrPpAYw6gmSvNQ14izP"
+    },
+    {
+      "album": {
+        "name": "Paachakam",
+        "url": "https://open.spotify.com/album/6dAaHiraLYexAbJB8DH7Yu"
+      },
+      "artists": [
+        {
+          "name": "HRISHI",
+          "url": "https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O"
+        },
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172972,
+      "name": "Paachakam",
+      "url": "https://open.spotify.com/track/5FZnxaiibB5ZqxyZNYLAl6"
     },
     {
       "album": {

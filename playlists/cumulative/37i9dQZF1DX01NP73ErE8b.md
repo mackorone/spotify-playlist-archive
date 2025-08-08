@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Noemi e Rocco Hunt in cover
+> I brani italiani che abbiamo on repeat  🔁  Tananai in cover
 
-345 songs - 17 hr 34 min
+346 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [OH MA](https://open.spotify.com/track/4ioRUWVvdz03s3FjUCsQrH) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/6mb62aOsgJ2yItwqViACbE) | 2:49 | 2025-06-19 | 2025-06-21 |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-10 | 2025-06-20 |
 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 | 2024-11-14 | 2025-01-11 |
-| [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 | 2025-07-17 |  |
+| [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 | 2025-07-17 | 2025-08-08 |
 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 | 2024-09-25 | 2025-07-18 |
 | [Overdose D'Amore 2024](https://open.spotify.com/track/3tQRLmfOWBlB00i2mGLN3M) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Overdose D'Amore 2024](https://open.spotify.com/album/2P5Y4A7xagej84PYcJZEUl) | 2:56 | 2024-07-01 | 2024-09-24 |
 | [Paprika](https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Paprika](https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6) | 2:28 | 2024-07-01 | 2024-11-22 |
@@ -295,7 +295,7 @@
 | [Si mette male](https://open.spotify.com/track/4d2C04FQ4e4RexeNFiQfnV) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Si mette male](https://open.spotify.com/album/7D6U1pD4YKzbP8s1vr9xeP) | 3:13 | 2024-10-31 | 2025-02-15 |
 | [Sigarette](https://open.spotify.com/track/6rnQ5HHy4OrjSsM0xlEI4u) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs) | 2:59 | 2025-03-20 | 2025-04-04 |
 | [SINCERO](https://open.spotify.com/track/33Ll0tKMKNLwuUapU5UvKk) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 3:17 | 2025-05-08 | 2025-06-13 |
-| [SISTEMARSI](https://open.spotify.com/track/3fLzgb9uGcb1hJTkNFnwrc) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 2:44 | 2025-07-10 |  |
+| [SISTEMARSI](https://open.spotify.com/track/3fLzgb9uGcb1hJTkNFnwrc) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 2:44 | 2025-07-10 | 2025-08-08 |
 | [So What](https://open.spotify.com/track/2SBKzqeS4JBGoUwGWdlIEj) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [So What](https://open.spotify.com/album/1wyODxvIhnI7vxS8BPksbC) | 2:32 | 2025-06-19 |  |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-07-01 | 2024-09-27 |
 | [Solo se sbagli \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/2ihva8k3wxg1gg1kKFTq92) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [FREE LOVE](https://open.spotify.com/album/0Cq38Zz480QZY50o7XwSJS) | 3:54 | 2024-11-21 | 2025-01-17 |
@@ -321,6 +321,7 @@
 | [Tilt](https://open.spotify.com/track/6EzqfLXQSgs0JeTY73VZob) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Tilt](https://open.spotify.com/album/2dZj4dQ0l93htP9jv6HD1Z) | 2:25 | 2025-04-17 | 2025-05-09 |
 | [Torcida](https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Torcida](https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V) | 2:54 | 2024-07-01 | 2024-11-15 |
 | [Tornado](https://open.spotify.com/track/7HVSOhJfXg6aeRoULQqFQv) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tornado](https://open.spotify.com/album/0L6R6QRvA7TjB9XA53aMUu) | 2:43 | 2024-10-03 | 2024-10-23 |
+| [TORRE DI BABELE](https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [TORRE DI BABELE](https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP) | 3:02 | 2025-08-07 |  |
 | [TU CON CHI FAI L'AMORE](https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [TU CON CHI FAI L'AMORE](https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8) | 3:27 | 2025-02-12 | 2025-05-16 |
 | [TU ED IO \(feat\. Rose Villain\)](https://open.spotify.com/track/7pQA55G6kvMIaNU4UcYktA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 3:03 | 2024-11-28 | 2025-03-21 |
 | [Tu sei il mattino](https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Tu sei il mattino](https://open.spotify.com/album/0sbGgrjOyEt7maAqras9N3) | 3:08 | 2024-11-14 | 2024-11-29 |

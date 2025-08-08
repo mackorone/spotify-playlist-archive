@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,539 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,542 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 28 | [TWINNEM \(Remix\) \(feat\. DaBaby\)](https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TWINNEM \(Remix\)](https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd) | 2:40 |
 | 29 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
 | 30 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
-| 31 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 |
-| 32 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 |
+| 31 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 |
+| 32 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 |
 | 33 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 |
 | 34 | [Lick Back](https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 1:16 |
 | 35 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
 | 50 | [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 |
 
-Snapshot ID: `aJFJgAAAAADvIdqau0FTEuCP2e6Wg+Fg`
+Snapshot ID: `aJKbAAAAAABSlfVizoF1qLRJDDXPRYeH`

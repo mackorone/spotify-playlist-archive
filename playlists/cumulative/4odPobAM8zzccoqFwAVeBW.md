@@ -4,7 +4,7 @@
 
 > Check out our latest Cargo Distribution approved tracks! Updated weekly
 
-143 songs - 10 hr 50 min
+146 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Gimme The Bone](https://open.spotify.com/track/6a9R7e0uWR1xvZi7U3a9mt) | [Puffer](https://open.spotify.com/artist/1QyEJRx7zEAnnzHJlKcXTX) | [Street Hassle](https://open.spotify.com/album/4YgFHt3Wp8FX0jjn1hLpOY) | 2:19 | 2025-06-16 | 2025-07-26 |
 | [Gizzard](https://open.spotify.com/track/1YtyVJ2HvRV7rWzrgXRAvu) | [Human Corpse Abuse](https://open.spotify.com/artist/7nh41uy5hnEBzpETdogpmY) | [Split](https://open.spotify.com/album/6NLoCjFg4at1tGXyZYrKTI) | 1:07 | 2025-08-01 |  |
 | [God Loves, Man Kills](https://open.spotify.com/track/1qR5vnuD2LDiHSuxz0Hasa) | [CLOBBER](https://open.spotify.com/artist/48YxiC97XwVnDlK995fMJ5) | [God Loves, Man Kills](https://open.spotify.com/album/0ocA1OcCvP6h2x5tgQoEvO) | 2:30 | 2025-08-01 |  |
+| [Goodbye Pop Culture](https://open.spotify.com/track/0DjlULorttu2tKgtw8rT0V) | [CLUB BRAT](https://open.spotify.com/artist/2qRNZ0iICziiiYvCskmM9s) | [Goodbye Pop Culture](https://open.spotify.com/album/5lLqAIYnAl5AMJ9SkTfyj4) | 2:54 | 2025-08-07 |  |
 | [Gut](https://open.spotify.com/track/13qh70UnVpSR5Y5BHTiPJF) | [Trellion](https://open.spotify.com/artist/1kvoEmoCVnDwVHn7V8ChaW), [Danny Lover](https://open.spotify.com/artist/2gSRB7lQfhwHvvIXWr34U9) | [Ok, the fire.](https://open.spotify.com/album/3X03UH0O4vCFQZjT4syqjH) | 4:26 | 2025-06-16 | 2025-07-26 |
 | [Haters Gonna Hate](https://open.spotify.com/track/1XBB28cfSRRqBjMMXtguKR) | [Death Pill](https://open.spotify.com/artist/3qbHwF3dxYHSbz1BC2UuX5) | [Sologamy](https://open.spotify.com/album/4r4F2iG08LmlUz81golbOn) | 1:13 | 2025-06-20 | 2025-08-02 |
 | [Heat Of The Summer](https://open.spotify.com/track/0q7FGknqGU4TQ54U8QBAOu) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Heat Of The Summer](https://open.spotify.com/album/7kIMB282kj8yCSLEataOyB) | 2:36 | 2025-06-19 | 2025-08-02 |
@@ -85,6 +86,7 @@
 | [Low Drone In B](https://open.spotify.com/track/6aBAuEvLozNW8EjfCBDi65) | [Xeeland](https://open.spotify.com/artist/3aX0V73OgbQcEGeNXFKyfO) | [Low Drones](https://open.spotify.com/album/56XhRyBEGCOvIsJGnHEBbA) | 5:03 | 2025-08-01 |  |
 | [Mango Season](https://open.spotify.com/track/5vfEvWgwBG1zhBPIJ8RwLQ) | [Peter Cat](https://open.spotify.com/artist/3SntVNfRaavqckb9zr75ui) | [Mango Season](https://open.spotify.com/album/52aAVr8iThKcmm00INPNTp) | 3:43 | 2025-07-16 |  |
 | [March of the Ravenous Dead](https://open.spotify.com/track/4QfpfC9ueHpoAoUOIFpuo2) | [Pustulant Flesh](https://open.spotify.com/artist/46TBMAhlwjncz0ShYVVaPc) | [March of the Ravenous Dead](https://open.spotify.com/album/3eWexe7xCEHb5BBPYbCShc) | 3:35 | 2025-07-18 |  |
+| [Marmoura](https://open.spotify.com/track/6npkIlHV3QfKYxqPLxYCha) | [Prefaces](https://open.spotify.com/artist/60v8T5Qv1sZsRmmnuNz4V5) | [Marmoura](https://open.spotify.com/album/33XR1jvvQqiqej5Zst4Zwp) | 4:33 | 2025-08-07 |  |
 | [Mind Of Mine](https://open.spotify.com/track/3a5nnIUj9SeTXE80ZVZwMb) | [The Ovines](https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n) | [Mind Of Mine](https://open.spotify.com/album/4dqSay4iJ6RXA6A4YEivIt) | 4:04 | 2025-07-18 |  |
 | [Mother, I Am With You \(for Shepherd flute and electronics\)](https://open.spotify.com/track/3rdM0Jj2DuXLsrhDrqprtf) | [Raz Mesinai](https://open.spotify.com/artist/4iY5ZMs1Li6MvY24CBfb9Y) | [Mother, I Am With You \(for shepherd flute and electronics\)](https://open.spotify.com/album/5oC5W4JNfKJuyFMGPmcY7a) | 9:24 | 2025-07-25 |  |
 | [My Autumn's Done Come](https://open.spotify.com/track/6mcpJac8qJsAVLmfrPfqyU) | [John Massoni](https://open.spotify.com/artist/7rBynOys9goM60dPGfIH3a) | [My Autumn's Done Come](https://open.spotify.com/album/7qUqhsQxSkkH6z6N1Xr7Pg) | 3:53 | 2025-07-25 |  |
@@ -121,6 +123,7 @@
 | [Spare me The Pleasant Trees](https://open.spotify.com/track/0R14Q8gNH7Xgd57eeDZi3R) | [Human Leather](https://open.spotify.com/artist/3GKi0v1kcAwv9R7BXBG3bW) | [Spare me The Pleasant Trees](https://open.spotify.com/album/4GgK7KjN6rudqb2jXFXOvU) | 2:21 | 2025-08-01 |  |
 | [Squirming Like Disgusting Maggots](https://open.spotify.com/track/4Pzjiy86htgLLzt5OSIvwA) | [Larvae](https://open.spotify.com/artist/2orX28mYjc9UQCm0CMKIYO) | [Arousal Of The Crawling Creature](https://open.spotify.com/album/1JEIyiEMmP89pcw26CWd0h) | 1:48 | 2025-07-04 |  |
 | [Stenography](https://open.spotify.com/track/5x2AzVlOekNgVJyEtxT12w) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [Beside Myself](https://open.spotify.com/album/129CwEf1XLZvNXD1nG8JIg) | 2:40 | 2025-07-18 |  |
+| [Stranger In The Garden](https://open.spotify.com/track/2Xt4D0BEBPYQKfV8VtW2Nb) | [Jeremy Tuplin](https://open.spotify.com/artist/1yVLjFzHAyCZHcfaYeeBJI) | [Stranger In The Garden](https://open.spotify.com/album/4VS61EJ0Ov9rEvIwCQoUE3) | 4:00 | 2025-08-07 |  |
 | [Strike It](https://open.spotify.com/track/6VzDqNWA7ik0iMTqYK04As) | [Rún](https://open.spotify.com/artist/4baoJpmag8XuVTvvP8FSuy) | [Strike It](https://open.spotify.com/album/1HvoM7MYrDUX7DNdukf92u) | 4:30 | 2025-07-16 |  |
 | [Suicide](https://open.spotify.com/track/4bzU5nZLry5GV9p7MeHNSC) | [Nuclear Fear](https://open.spotify.com/artist/5kXY5HocMvS7P7disgAbOw) | [Pantomime Of Power](https://open.spotify.com/album/3r8sLU1IwSLHG2chagfKZT) | 1:05 | 2025-06-20 | 2025-08-02 |
 | [Sunrise \(I Love You\)](https://open.spotify.com/track/4XR4ilqSgt6Ec6FyWvQXc4) | [John Massoni](https://open.spotify.com/artist/7rBynOys9goM60dPGfIH3a) | [Sunrise \(I Love You\)](https://open.spotify.com/album/05LWAVjliUwLSz2BKubss0) | 11:10 | 2025-07-04 |  |

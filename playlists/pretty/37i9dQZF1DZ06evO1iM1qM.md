@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,568 likes - 50 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,589 likes - 50 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 49 | [Moment's Notice](https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 9:10 |
 | 50 | [Mr\. P.C\. \- Mono](https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:58 |
 
-Snapshot ID: `aJFJgAAAAABtPaWIw0y2UscWpxglqmno`
+Snapshot ID: `aJKbAAAAAAAiL2czRcuG8b2wF8+KSibm`

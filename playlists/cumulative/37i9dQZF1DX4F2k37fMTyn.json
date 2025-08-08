@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Saweetie",
+  "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Rita Ora",
   "name": "Girl On Fire",
   "tracks": [
     {
@@ -5849,6 +5849,24 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205760,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP"
+    },
+    {
+      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
       },
@@ -5998,6 +6016,28 @@
       "duration_ms": 175852,
       "name": "Kiss Me Again",
       "url": "https://open.spotify.com/track/2aeTUJ2VAXwTE0WayrkKT0"
+    },
+    {
+      "album": {
+        "name": "BLACK STAR",
+        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218117,
+      "name": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
+      "url": "https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk"
     },
     {
       "album": {
@@ -9042,7 +9082,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 164782,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0"
@@ -10074,7 +10114,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 219968,
       "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
       "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
@@ -11948,7 +11988,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 187600,
       "name": "Wet Hair",
       "url": "https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn"
@@ -11966,7 +12006,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 176923,
       "name": "Wet, Hot American Dream",
       "url": "https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ"

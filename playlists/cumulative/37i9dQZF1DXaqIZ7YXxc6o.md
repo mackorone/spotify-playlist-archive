@@ -2,7 +2,7 @@
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Sean Paul, Luude, Brodie
+> Your weekly dose of new dance\. Cover: Flight Facilities
 
 3,349 songs - 7 day 15 hr 47 min
 

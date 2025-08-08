@@ -4,12 +4,13 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-117 songs - 6 hr 41 min
+118 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2025-07-16 |  |
 | [45](https://open.spotify.com/track/7f6wpGdjJVwNZaQTw90DYG) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [45](https://open.spotify.com/album/7BAwI46JKFpaoFYXa5ay3P) | 3:03 | 2025-07-16 |  |
+| [A Way With My Heart](https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc), [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [A Way With My Heart](https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk) | 3:15 | 2025-08-07 |  |
 | [Admit It](https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Admit It](https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk) | 3:07 | 2025-07-16 |  |
 | [All Aboard](https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book II](https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA) | 2:10 | 2025-07-16 |  |
 | [All at Once](https://open.spotify.com/track/4DQPV40vYTb5xx8IXs8dhw) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [All At Once](https://open.spotify.com/album/2MK3Q8j47TMj8L05NRxUym) | 3:36 | 2025-07-16 |  |

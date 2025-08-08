@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,961 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,022 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 39 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 |
 | 40 | [Orange Sky](https://open.spotify.com/track/3A3mFJaeBvAomfvhEEY9OA) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Orange Sky](https://open.spotify.com/album/1BS5KiDhUsl44A4nwatXfO) | 2:30 |
 | 41 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
-| 42 | [What We Best Do](https://open.spotify.com/track/35s6mH2lDL4o2OzyZg6Z8O) | [muuno](https://open.spotify.com/artist/0MWLVPNoBVvkwtfJiBGlm5), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [What We Best Do](https://open.spotify.com/album/27qkQUeZSdWumxrX6I4u4v) | 2:44 |
-| 43 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
+| 42 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
+| 43 | [What We Best Do](https://open.spotify.com/track/35s6mH2lDL4o2OzyZg6Z8O) | [muuno](https://open.spotify.com/artist/0MWLVPNoBVvkwtfJiBGlm5), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [What We Best Do](https://open.spotify.com/album/27qkQUeZSdWumxrX6I4u4v) | 2:44 |
 | 44 | [Cold nights and city bike rides.](https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Oliver Rees](https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI) | [Cold nights and city bike rides.](https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2) | 2:46 |
 | 45 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 46 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |

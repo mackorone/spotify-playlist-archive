@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd?si=\_S9SDVpeQaqDmtWHrGf99Q>Oncemore Six</a>"
 
-399 songs - 1 day 17 hr 35 min
+400 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-08-16 |
 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 | 2022-05-19 | 2023-03-18 |
 | [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 | 2023-09-29 | 2024-02-02 |
+| [Icebo Lakhe](https://open.spotify.com/track/0tpaaOdbbrB9ifqQo8ce0w) | [Tsholofelo Nonkonyana](https://open.spotify.com/artist/085BjpMJpstVo3ee7uwoNy) | [Icebo Lakhe](https://open.spotify.com/album/27mMuugLcKYLLvQQK9a2q3) | 5:09 | 2025-08-08 |  |
 | [If I Be Lifted](https://open.spotify.com/track/7rPWiMCnXKmZp3D5s1UHNe) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship Praise Medley](https://open.spotify.com/album/7nGYOYJ9fqWdGAubqqc4vV) | 4:58 | 2024-10-25 | 2025-03-07 |
 | [Igama Lakho \- Live](https://open.spotify.com/track/0rpD7PM4FoyHNFp86OHOK4) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [HEART OF WORSHIP VOL 1](https://open.spotify.com/album/0hSYjCkIgebDmVuuTKzoDg) | 5:55 | 2025-05-02 |  |
 | [Igama Lakho \- Live At Carnival City / 2024](https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live / Deluxe\)](https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS) | 5:25 | 2025-07-25 |  |
@@ -126,7 +127,7 @@
 | [Isinqumo](https://open.spotify.com/track/2bwuBjjf8N1jKv6eWSBlQF) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Isinqumo](https://open.spotify.com/album/0x1vIEmngKKTXTECnvTVIg) | 6:07 | 2024-08-23 | 2024-10-18 |
 | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX) | 5:05 | 2023-12-29 | 2024-05-17 |
 | [Izindlela Zakhe](https://open.spotify.com/track/1rNykgPiUeIbxGVzDXL6t3) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindlela Zakhe](https://open.spotify.com/album/24xdSohbhBFnCyBG82EqYq) | 6:51 | 2024-03-29 | 2024-04-05 |
-| [Izinto](https://open.spotify.com/track/6rxSBpVdlznmxuoSZhCObs) | [mashka](https://open.spotify.com/artist/5TW7STulWrwTaRCN9EBVbh) | [Lokollohang](https://open.spotify.com/album/16Kbg0yliilgW4RRL9wX9b) | 3:42 | 2025-07-11 |  |
+| [Izinto](https://open.spotify.com/track/6rxSBpVdlznmxuoSZhCObs) | [mashka](https://open.spotify.com/artist/5TW7STulWrwTaRCN9EBVbh) | [Lokollohang](https://open.spotify.com/album/16Kbg0yliilgW4RRL9wX9b) | 3:42 | 2025-07-11 | 2025-08-08 |
 | [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 | 2024-03-22 |  |
 | [Izulu Namafu](https://open.spotify.com/track/2HdBnHBcws3jgAL66NP2pJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Izulu Namafu](https://open.spotify.com/album/3ybwmG4efxqlHlvrT48unW) | 4:35 | 2023-09-22 | 2024-02-02 |
 | [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 | 2024-02-09 |  |

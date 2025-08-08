@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-962 songs - 2 day 0 hr 15 min
+964 songs - 2 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [30 personer](https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [30 personer](https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1) | 2:49 | 2022-01-20 | 2022-03-25 |
 | [30 under 30](https://open.spotify.com/track/3atoN74BRD90F3NRo4uhUo) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [30 under 30](https://open.spotify.com/album/7DRt4eLn3btxQF8KSYSol1) | 2:59 | 2024-02-08 | 2024-03-29 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-25 | 2025-05-16 |
+| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 |  |
 | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2025-07-29 |  |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-16 | 2023-03-10 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-16 | 2022-05-04 |
@@ -529,7 +530,7 @@
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-28 | 2024-12-06 |
 | [Lys på mig](https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lys på mig](https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M) | 2:39 | 2025-05-29 |  |
 | [Länge Leve Vi](https://open.spotify.com/track/6Pqrm55DFjQZQi8jC2yBVa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Länge Leve Vi](https://open.spotify.com/album/41ZBBb4dGrgz1mc3O4BegY) | 2:41 | 2022-02-03 | 2022-02-18 |
-| [Längesen](https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Längesen](https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy) | 2:39 | 2024-12-24 |  |
+| [Längesen](https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Längesen](https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy) | 2:39 | 2024-12-24 | 2025-08-08 |
 | [Längesen \- Epilog](https://open.spotify.com/track/2pcc6gSKnjdRrzuXvo0Bzz) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Vart trött sen 98](https://open.spotify.com/album/3rjXf1oKR0Gfj383FwercY) | 4:26 | 2023-09-14 | 2023-10-18 |
 | [Lät dig gå](https://open.spotify.com/track/1g40cny7c9aWjsdlzZYcxE) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE PT.1](https://open.spotify.com/album/2GJqKh5nAW3FuRJouYilKU) | 3:15 | 2024-07-04 | 2024-09-13 |
 | [Lättdistraherad](https://open.spotify.com/track/6CXc1Q9IBBxfOQVQCYBMhk) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Lättdistraherad](https://open.spotify.com/album/6JSgAWoN9pLS9Jn6O4NiXX) | 3:01 | 2022-11-10 | 2022-12-09 |
@@ -706,7 +707,7 @@
 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 | 2025-02-03 | 2025-04-18 |
 | [Santa Catalina](https://open.spotify.com/track/4PLmun9Ww06dbdhCh0RtBd) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA](https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx) | 3:02 | 2024-11-18 | 2025-01-17 |
 | [SANTORINI](https://open.spotify.com/track/19NOk119jgj751CxrWsvOl) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:54 | 2022-05-06 | 2022-06-10 |
-| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-06 |  |
+| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-06 | 2025-08-08 |
 | [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 | 2023-06-30 | 2023-08-15 |
 | [Satellit](https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satellit](https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep) | 3:01 | 2023-08-03 | 2023-09-01 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-05-18 | 2023-07-01 |
@@ -913,6 +914,7 @@
 | [Vi:et i vinsten \(Sveriges Officiella EM\-låt 2022\)](https://open.spotify.com/track/6g5K1kubnMcCkcQlvIRxVy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Vi:et i vinsten \(Sveriges Officiella EM\-låt 2022\)](https://open.spotify.com/album/06wqtAadumHfK9NenuMELU) | 3:10 | 2022-06-23 | 2022-10-07 |
 | [Vibe Check](https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Vibe Check](https://open.spotify.com/album/0OrXgNFMNUFlwddX4NnCtD) | 3:12 | 2023-08-10 | 2023-09-29 |
 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-08-16 | 2022-09-30 |
+| [Vill du ha mig?](https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Vill du ha mig?](https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv) | 3:01 | 2025-08-07 |  |
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-06-08 | 2023-08-03 |
 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 | 2024-08-06 | 2025-05-23 |
 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2023-06-08 | 2023-06-23 |

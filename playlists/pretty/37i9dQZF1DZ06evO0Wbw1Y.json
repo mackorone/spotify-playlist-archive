@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29144,
+  "num_followers": 29146,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADnSRMg51TdRvRCWdACxEoa",
+  "snapshot_id": "aJKbAAAAAADb33eRKYZ+jYwyS8Pa8/g1",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 222480,
-      "name": "Volverte a O\u00edr",
-      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
+      "duration_ms": 208468,
+      "name": "Apaga Y V\u00e1monos",
+      "url": "https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P"
     },
     {
       "added_at": null,
@@ -427,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
+      "duration_ms": 216709,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
     },
     {
       "added_at": null,
@@ -472,29 +476,25 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 208468,
-      "name": "Apaga Y V\u00e1monos",
-      "url": "https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P"
+      "duration_ms": 222480,
+      "name": "Volverte a O\u00edr",
+      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 216709,
-      "name": "Don Juan",
-      "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 171808,
-      "name": "Inevitables",
-      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "V\u00e1monos Antes",
         "url": "https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 210406,
       "name": "V\u00e1monos Antes",
       "url": "https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 171808,
+      "name": "Inevitables",
+      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 179084,
-      "name": "Para Variar",
-      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popurr\u00ed de Juan Gabriel",
         "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 294653,
       "name": "Popurr\u00ed de Juan Gabriel",
       "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 175887,
-      "name": "Besos De Bar",
-      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 0 a 100",
         "url": "https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 168645,
       "name": "De 0 a 100",
       "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 175887,
+      "name": "Besos De Bar",
+      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 150356,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -867,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
@@ -876,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 163210,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
+      "duration_ms": 150356,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
     },
     {
       "added_at": null,
@@ -899,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
       },
       "artists": [
         {
@@ -908,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 179311,
-      "name": "Dos Tequilas",
-      "url": "https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j"
+      "duration_ms": 163210,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
     },
     {
       "added_at": null,
@@ -927,6 +911,22 @@
       "duration_ms": 233755,
       "name": "Cu\u00e1nto Me Duele",
       "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179311,
+      "name": "Dos Tequilas",
+      "url": "https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j"
     },
     {
       "added_at": null,

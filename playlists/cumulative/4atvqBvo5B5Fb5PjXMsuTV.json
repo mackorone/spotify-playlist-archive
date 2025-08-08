@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Aug 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Aug 22:06 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1940,6 +1940,24 @@
       "duration_ms": 187958,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
+    },
+    {
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0m3SPxT8kOWF19sQfBATG1"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192499,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/7DQODsNlqDQXZHfXd0T1n7"
     },
     {
       "album": {
@@ -7342,7 +7360,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 212962,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
@@ -13946,6 +13964,24 @@
       "duration_ms": 182973,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/4pLlXT4tFbuDCARVXHWIsH"
+    },
+    {
+      "album": {
+        "name": "Bury Me With My Screams",
+        "url": "https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316634,
+      "name": "Bury Me With My Screams",
+      "url": "https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y"
     },
     {
       "album": {
@@ -37672,7 +37708,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 225874,
       "name": "Have A Baby (With Me)",
       "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"

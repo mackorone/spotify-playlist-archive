@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: SIVIA
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Wizzy
 
-143 songs - 8 hr 37 min
+145 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [a feeling](https://open.spotify.com/track/6TPUbm9rVuawjfbbz88c58) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:05 | 2025-02-27 |  |
 | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/track/4PTvtwE3FMkwRYRpgNJckO) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/album/2YmzK6yQ9pZuR9ZQPyX4gJ) | 3:10 | 2025-04-17 | 2025-08-01 |
 | [ADDICTION](https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [ADDICTION](https://open.spotify.com/album/7c1IM0Lwuv0NzcFAt6FVSp) | 2:29 | 2025-07-17 |  |
+| [Again](https://open.spotify.com/track/1VyIAhJTXnOPH2tS0XmxTK) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Again](https://open.spotify.com/album/0Yea9WMntfl4PY8JdYfFqh) | 3:34 | 2025-08-07 |  |
 | [Against All The Odds](https://open.spotify.com/track/5HevQCX2dDxGXDmQOYDXkc) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 4:14 | 2025-05-16 |  |
 | [All of Our Friends](https://open.spotify.com/track/5n04xhk5uLiRODhnms3eow) | [Melisa Lestira](https://open.spotify.com/artist/5TAIXdOUxvx8CK65DG00KV) | [All of Our Friends](https://open.spotify.com/album/50ZCoF9liqAOOS5Q41Sdhc) | 4:17 | 2025-05-29 |  |
 | [Apa Kabar](https://open.spotify.com/track/57AzzQHGqd9QO0eBCzfq0W) | [Radhini](https://open.spotify.com/artist/7KwNYf1K0Qt3sV7DtVHWcU) | [Apa Kabar](https://open.spotify.com/album/3tQx2RPsvOKCJ02ETZ3hR9) | 3:11 | 2025-01-23 |  |
@@ -53,6 +54,7 @@
 | [Game 4 2](https://open.spotify.com/track/7CbXF4RZUPoQyEdAlY3QkZ) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Game 4 2](https://open.spotify.com/album/6WZkKEJEhTO1F8kP81flBp) | 5:01 | 2025-06-26 |  |
 | [Game For Two](https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Game For Two](https://open.spotify.com/album/5KYHeW8EoSYqFXji9DuV4c) | 3:38 | 2025-03-20 | 2025-08-01 |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-10-03 | 2025-05-02 |
+| [Glow](https://open.spotify.com/track/6xWfKqMv4ebAIVGYbvo7o4) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls) | [Glow](https://open.spotify.com/album/05rZ3AQMXe6OwkU53QoCPy) | 3:00 | 2025-08-07 |  |
 | [Hanya Harapku](https://open.spotify.com/track/4CXS1Bnuk0xzPd3zP7Jmsb) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Hanya Harapku](https://open.spotify.com/album/6pLzF6GCDzqmFIpi4GZuGw) | 3:30 | 2024-11-15 | 2025-07-18 |
 | [Hanya Ingin](https://open.spotify.com/track/1UykQjY4mcTp66AqJ2kLvt) | [R2 Rhythm](https://open.spotify.com/artist/1NMndAY1nq64GSsGuccTrM) | [Hanya Ingin](https://open.spotify.com/album/2cEMBuXaGurxFImXVwOFWC) | 3:09 | 2024-11-21 | 2025-05-09 |
 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 | 2025-05-01 |  |

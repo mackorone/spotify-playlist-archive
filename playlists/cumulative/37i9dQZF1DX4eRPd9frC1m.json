@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "AIRPLANE MODE",
+        "url": "https://open.spotify.com/album/7s3UIQN7qZ5ubYklMaW4Cf"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "ABBY M.",
+          "url": "https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156710,
+      "name": "AIRPLANE MODE",
+      "url": "https://open.spotify.com/track/27K16LGxXQaTGAUTTIAJju"
+    },
+    {
+      "album": {
         "name": "Feral",
         "url": "https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN"
       },
@@ -2628,7 +2650,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 135750,
       "name": "FIX ME UP",
       "url": "https://open.spotify.com/track/5ZMTsepLQto8YblpbgyG5I"

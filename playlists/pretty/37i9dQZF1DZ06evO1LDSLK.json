@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 73055,
+  "num_followers": 73073,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADTfgvwg3MvKZHoq0ZuK16l",
+  "snapshot_id": "aJKbAAAAAACGUY//yArLRxe5o1trMcxC",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clair Obscur",
-        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
       "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 245866,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
+      "duration_ms": 163013,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
     },
     {
       "added_at": null,
@@ -603,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome To Goran Bregovic",
         "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clair Obscur",
+        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Post Pop Depression",
         "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 366896,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arista Heritage Series: Iggy Pop",
-        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "I'm Bored",
-      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
+      "duration_ms": 238387,
+      "name": "Chocolate Drops",
+      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 180260,
       "name": "Tiny Girls",
       "url": "https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arista Heritage Series: Iggy Pop",
+        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I'm Bored",
+      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 238387,
-      "name": "Chocolate Drops",
-      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
+      "duration_ms": 366896,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ECHOES \u2013 ANCIENT & MODERN",
         "url": "https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 206266,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -855,34 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Rain (Drone)",
-        "url": "https://open.spotify.com/album/35SAqCrK9iDkDyNvSgjv4N"
+        "name": "R\u00e9sistance",
+        "url": "https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C"
       },
       "artists": [
         {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        },
-        {
-          "name": "Red Hot Org",
-          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
-        },
-        {
-          "name": "Laurie Anderson",
-          "url": "https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G"
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
         },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
         }
       ],
-      "duration_ms": 612789,
-      "name": "Hard Rain (Drone)",
-      "url": "https://open.spotify.com/track/5Trcjz9vmV7prC8lb2h4ZJ"
+      "duration_ms": 183720,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5"
     }
   ],
   "unique_name": "This Is Iggy Pop",

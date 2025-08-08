@@ -2,7 +2,7 @@
 
 ### [Praise and Chill](https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm)
 
-> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Theresa Phondo & Praise Umali
+> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: JVSON
 
 534 songs - 1 day 6 hr 11 min
 

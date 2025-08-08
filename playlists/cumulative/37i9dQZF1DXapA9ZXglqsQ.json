@@ -957,6 +957,40 @@
     },
     {
       "album": {
+        "name": "Joe Hisaishi Conducts",
+        "url": "https://open.spotify.com/album/6tI6OUuxSRZw8GAHlmhJnY"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "\u30a2\u30fc\u30b5\u30fc \u30b1\u30f3\u30c8",
+          "url": "https://open.spotify.com/artist/6h8Wh17LrALhMQobpNc5wW"
+        },
+        {
+          "name": "Ella Taylor",
+          "url": "https://open.spotify.com/artist/7Ju5JHbej5vQTwWnEVrITp"
+        },
+        {
+          "name": "\u6771\u4eac\u6df7\u58f0\u5408\u5531\u56e3",
+          "url": "https://open.spotify.com/artist/1E9IMg5vqh8lwMINhH3hNG"
+        },
+        {
+          "name": "Future Orchestra Classics",
+          "url": "https://open.spotify.com/artist/4GyOi02QH1N8hCivo56twa"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346320,
+      "name": "The End of the World (Version for Soprano / Recomposed by Joe Hisaishi)",
+      "url": "https://open.spotify.com/track/2n64TO31D8SGhzCdGDgOjm"
+    },
+    {
+      "album": {
         "name": "The End of the World",
         "url": "https://open.spotify.com/album/3fjsOIWZVmmSwVaiQpW2Bi"
       },

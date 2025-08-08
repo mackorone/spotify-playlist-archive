@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Ella Boh
 
-946 songs - 1 day 19 hr 39 min
+947 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [all\-american bitch!](https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [all\-american bitch!](https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT) | 2:28 | 2024-04-12 | 2024-06-29 |
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 | 2022-07-02 |
 | [almost 20](https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8) | 2:12 | 2022-02-25 | 2022-03-18 |
+| [amen](https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [amen](https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy) | 2:17 | 2025-08-01 |  |
 | [American Dream](https://open.spotify.com/track/4rjx6v5WkdRFe2QwxFAoS8) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [American Dream](https://open.spotify.com/album/4q0OJVTYATqeedtb1ESQvZ) | 3:03 | 2023-09-01 | 2024-01-05 |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-06-30 | 2024-04-27 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-07 | 2024-08-10 |

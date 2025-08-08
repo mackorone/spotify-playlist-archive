@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Det Löser Sej🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,181 likes - 109 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,169 likes - 109 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Campingstol](https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Campingstol](https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p) | 2:53 |
-| 2 | [UPPENBART](https://open.spotify.com/track/4meKZi0x36BTVKSbtsCFYs) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [UPPENBART](https://open.spotify.com/album/6B8CngVy31ukIgv0cayn85) | 2:21 |
-| 3 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
-| 4 | [Tempo](https://open.spotify.com/track/3zX22ihHjV4y37ZSedjdKj) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Tempo](https://open.spotify.com/album/4zlD45eP54LYnhXtn5kYel) | 2:19 |
-| 5 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
-| 6 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
+| 1 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
+| 2 | [Campingstol](https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Campingstol](https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p) | 2:53 |
+| 3 | [UPPENBART](https://open.spotify.com/track/4meKZi0x36BTVKSbtsCFYs) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [UPPENBART](https://open.spotify.com/album/6B8CngVy31ukIgv0cayn85) | 2:21 |
+| 4 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
+| 5 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
+| 6 | [Tempo](https://open.spotify.com/track/3zX22ihHjV4y37ZSedjdKj) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Tempo](https://open.spotify.com/album/4zlD45eP54LYnhXtn5kYel) | 2:19 |
 | 7 | [Deja Vu](https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Deja Vu](https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50) | 3:21 |
 | 8 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 |
 | 9 | [2 Blå](https://open.spotify.com/track/68SXARy5L9fGZT0WOwfyx6) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [2 Blå](https://open.spotify.com/album/57M44RJizK2hyRYTH7Hrn7) | 2:45 |
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 13 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 |
 | 14 | [Varför ska hon inte få?](https://open.spotify.com/track/3kTx9MFz3d2SNzZNRLgh9Z) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Varför ska hon inte få?](https://open.spotify.com/album/5XfNghz9vigzQNFDkPidN3) | 2:31 |
 | 15 | [HÅLLER UPP](https://open.spotify.com/track/0wnz4q3WnrTkJ79x458UzH) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Kaffe Karlsson](https://open.spotify.com/artist/1PuOSwI11bE2FE9d6KehL2), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt) | [HÅLLER UPP](https://open.spotify.com/album/3Ll9ZyU79ILkd5GvTvjSBR) | 2:01 |
-| 16 | [Fiesta Forever](https://open.spotify.com/track/3miozYykPluP5NPCxljs7U) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Fiesta Forever](https://open.spotify.com/album/53iqJS134CUpUbdJnDUecQ) | 2:36 |
+| 16 | [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 |
 | 17 | [Drugs N Love](https://open.spotify.com/track/5bpNC61pnAqXWJg8CLoxhP) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Drugs N Love](https://open.spotify.com/album/7BA0yBsgnoyTmGQXRZJVgU) | 2:18 |
-| 18 | [DYNGRAUK](https://open.spotify.com/track/62f56QRztFxQl3LlrZUivU) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [DYNGRAUK](https://open.spotify.com/album/5aDClENi3R8ttKoDgCDhnG) | 2:43 |
-| 19 | [TITTEI \(Kolossal\)](https://open.spotify.com/track/4zI2WZvooxpyXK4ojdFYQs) | [Clöben](https://open.spotify.com/artist/6SFJ1zh51RDH7rTfx036cW), [Bergiano](https://open.spotify.com/artist/0NNeBeZcGUoeseHkFSOA3a) | [TITTEI \(Kolossal\)](https://open.spotify.com/album/6KNOOlETM170r5YdEutxmk) | 2:23 |
-| 20 | [Se dig naken igen](https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Se dig naken igen](https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ) | 2:16 |
-| 21 | [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 |
+| 18 | [Fiesta Forever](https://open.spotify.com/track/3miozYykPluP5NPCxljs7U) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Fiesta Forever](https://open.spotify.com/album/53iqJS134CUpUbdJnDUecQ) | 2:36 |
+| 19 | [DYNGRAUK](https://open.spotify.com/track/62f56QRztFxQl3LlrZUivU) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [DYNGRAUK](https://open.spotify.com/album/5aDClENi3R8ttKoDgCDhnG) | 2:43 |
+| 20 | [TITTEI \(Kolossal\)](https://open.spotify.com/track/4zI2WZvooxpyXK4ojdFYQs) | [Clöben](https://open.spotify.com/artist/6SFJ1zh51RDH7rTfx036cW), [Bergiano](https://open.spotify.com/artist/0NNeBeZcGUoeseHkFSOA3a) | [TITTEI \(Kolossal\)](https://open.spotify.com/album/6KNOOlETM170r5YdEutxmk) | 2:23 |
+| 21 | [Se dig naken igen](https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Se dig naken igen](https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ) | 2:16 |
 | 22 | [69AN](https://open.spotify.com/track/1S4bJAs0xs4yaHSleqtx9f) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [69AN](https://open.spotify.com/album/70iOnu2zEwioH4izOENQTz) | 1:57 |
 | 23 | [FEST I MITT GARAGE](https://open.spotify.com/track/3j02a5ZVPABsUDrQ7cj8uk) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [GRANNJÄNTAN](https://open.spotify.com/artist/68F1zsaJ2m6HuKqtJz9kaZ), [GRABBARNA GRUS](https://open.spotify.com/artist/3vqZpcHSUlnIEczeBUdBvx) | [FEST I MITT GARAGE](https://open.spotify.com/album/0KFYq667wDZyH0XXquUieG) | 2:11 |
 | 24 | [Birra](https://open.spotify.com/track/2IdIiiNX7SpQO9WW77aZPx) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Birra](https://open.spotify.com/album/6ET2zhZ1JD8Zge03jYUnyT) | 1:53 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 108 | [Ny mark](https://open.spotify.com/track/722y4ce1sQhziubL83eqlZ) | [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [Ny mark](https://open.spotify.com/album/7xBEz2UxKI8BYAAqKGCKGs) | 2:03 |
 | 109 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 
-Snapshot ID: `AAAAAP0X5Y5tzsBqHCtnmAFz3nzOJwwK`
+Snapshot ID: `AAAAAEi44Yfh8XL3PtA1FvaXS1Cx0owl`

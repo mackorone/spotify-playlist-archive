@@ -4,7 +4,7 @@
 
 > 🤝
 
-165 songs - 7 hr 47 min
+166 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bonanza \(feat\. Greekazo\)](https://open.spotify.com/track/2Oum9Ze9GhdDUiMaa7FLZ3) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Roc Boyz, Vol\. 3](https://open.spotify.com/album/4hFby8Laxy4VLwG888kx9g) | 2:18 | 2024-06-27 | 2024-08-16 |
 | [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 | 2025-05-12 |
 | [Chaos](https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Chaos](https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A) | 3:38 | 2024-09-05 | 2024-09-20 |
-| [Chit Chat](https://open.spotify.com/track/1cRXDCCWTIYyMroXZtbC3G) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [Chit Chat](https://open.spotify.com/album/2Fw6u9hJvOOkcm0GJQdqhI) | 2:32 | 2025-06-26 |  |
+| [Chit Chat](https://open.spotify.com/track/1cRXDCCWTIYyMroXZtbC3G) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [Chit Chat](https://open.spotify.com/album/2Fw6u9hJvOOkcm0GJQdqhI) | 2:32 | 2025-06-26 | 2025-08-08 |
 | [Clean Fit, Fin Anledning](https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Clean Fit, Fin Anledning](https://open.spotify.com/album/1CfrrqDKpfZbU2rVn2DoaA) | 2:33 | 2024-11-21 | 2025-01-30 |
 | [Cut the shit](https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Cut the shit](https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC) | 2:33 | 2025-04-03 | 2025-05-18 |
 | [Da Vi Møtte Fanden](https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Da Vi Møtte Fanden](https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk) | 2:58 | 2025-04-24 |  |
@@ -101,8 +101,9 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2025-05-02 |
 | [LUV \(Studz\)](https://open.spotify.com/track/5bqP1GCEqCrg2yU0bTO7aQ) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [Sjakklubb](https://open.spotify.com/artist/0Wv1O0aA5CyUVdrwh4JZ1n) | [LUV \(Studz\)](https://open.spotify.com/album/4duFN3ZyqfIkf0xm9S78Fb) | 2:03 | 2025-04-03 | 2025-06-27 |
 | [Låt Mig Va](https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Låt Mig Va](https://open.spotify.com/album/678gU1iWVNcgTstct030O3) | 2:00 | 2024-06-27 |  |
+| [MACHIAVELLI](https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Due](https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx) | [MACHIAVELLI](https://open.spotify.com/album/16nEPTjTPhoBpqGjzT1KDh) | 3:11 | 2025-08-07 |  |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-06-27 | 2024-09-13 |
-| [Matilda](https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Matilda](https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M) | 2:14 | 2025-02-06 | 2025-08-02 |
+| [Matilda](https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Matilda](https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M) | 2:14 | 2025-02-06 |  |
 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 | 2025-05-01 |  |
 | [Narco Freestyle](https://open.spotify.com/track/6abCeotQ2T6eFP2zTjW7WN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Narco Freestyle](https://open.spotify.com/album/5sbWMsirtJm5whDYeWqDLv) | 2:22 | 2025-02-27 | 2025-04-14 |
 | [NEPOBABY](https://open.spotify.com/track/2T137G2j4il2iSc2md900S) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:08 | 2024-10-24 | 2025-01-17 |
@@ -161,7 +162,7 @@
 | [VEM FAN E DU?](https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VEM FAN E DU?](https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT) | 2:32 | 2024-06-27 | 2024-08-16 |
 | [VENNELØS](https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [BRENTE BROER](https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0) | 1:54 | 2024-06-27 | 2025-01-02 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2024-06-27 | 2025-04-20 |
-| [Vestkantvilla](https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Vestkantvilla](https://open.spotify.com/album/6hHY52SUkdHlv8tHeckjAX) | 1:52 | 2025-06-19 |  |
+| [Vestkantvilla](https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Vestkantvilla](https://open.spotify.com/album/6hHY52SUkdHlv8tHeckjAX) | 1:52 | 2025-06-19 | 2025-08-08 |
 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-16 | 2025-07-06 |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-06-27 | 2025-03-03 |
 | [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-24 | 2025-02-17 |

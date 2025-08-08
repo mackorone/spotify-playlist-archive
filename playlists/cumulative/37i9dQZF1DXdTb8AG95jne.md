@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: KARDI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 87dance\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,045 songs - 2 day 15 hr 27 min
+1,047 songs - 2 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [E\-RIDING](https://open.spotify.com/track/1qNiIzmrv8GllebodL6Dwf) | [Gila](https://open.spotify.com/artist/1DYmaars5bAW3OfddN9WjY) | [E\-RIDING](https://open.spotify.com/album/3MKMqj0WGHvM3QIXn8lNc8) | 3:30 | 2023-09-18 | 2024-05-10 |
 | [Earth](https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Earth](https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ) | 4:35 | 2022-07-08 | 2022-08-05 |
 | [Earth Is Flat](https://open.spotify.com/track/0TJLtj4BvtXs7kc1rThrbq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Earth Is Flat](https://open.spotify.com/album/5tmAQ7Z2eN2yqkhHMgjzY1) | 2:30 | 2024-11-06 | 2025-01-23 |
-| [ease](https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR) | [Ghim Reezn](https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI) | [ease](https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU) | 2:12 | 2025-07-15 |  |
+| [ease](https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR) | [Ghim Reezn](https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI) | [ease](https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU) | 2:12 | 2025-07-15 | 2025-08-08 |
 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 | 2024-09-23 | 2024-11-30 |
 | [Eden](https://open.spotify.com/track/0o7DpobP2DG9TCCPlcnloZ) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Eden](https://open.spotify.com/album/7DKWTFyONUmqYSyDFA2D7V) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [Elena Coda \(feat\. Elaine\)](https://open.spotify.com/track/2f7C47RCGc10UHfK1dsgun) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [New Edition 34](https://open.spotify.com/album/6V3qsD3AcGwyXtDxcG9fAj) | 4:23 | 2021-12-21 | 2022-07-27 |
@@ -258,6 +258,7 @@
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-03-31 | 2022-07-23 |
 | [Everything Bagel](https://open.spotify.com/track/5MKVBVQrjVRONziiVVA3Z3) | [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Everything Bagel](https://open.spotify.com/album/2Kp8ezqdUoEN3kYE7iecCB) | 3:09 | 2024-11-06 | 2024-12-20 |
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |
+| [Everything's okay](https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Everything's okay](https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O) | 4:15 | 2025-08-08 |  |
 | [exchange \- student](https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [exchange \- student](https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt) | 3:09 | 2025-07-04 |  |
 | [Excuses](https://open.spotify.com/track/5vXtXSNxkkx3VQRfJiRYI9) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 3:51 | 2022-03-31 | 2022-04-10 |
 | [Expression](https://open.spotify.com/track/3TvohDfitHnEuXSJuJyIzr) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Expression](https://open.spotify.com/album/5LTSYg2669brAmWN7bjWG2) | 3:21 | 2021-12-21 | 2022-04-12 |
@@ -489,6 +490,7 @@
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-07-01 | 2024-12-07 |
 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2021-12-21 | 2022-05-18 |
 | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4qL6T01dRe7p0EghSbfwsc) | 2:43 | 2025-07-10 |  |
+| [Lego World](https://open.spotify.com/track/4Yc0l0eFYrcsCClR7TjzlX) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [B\-grade Media](https://open.spotify.com/album/393OXdx9w3DIlGDxYMTDIo) | 3:43 | 2025-08-08 |  |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7) | 3:07 | 2022-03-31 | 2022-04-14 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 | 2022-07-27 | 2025-07-26 |
 | [leodo Island \(Parangdo lsland\)](https://open.spotify.com/track/135gyYI8MukV8Ny5c63vWP) | [BAE CHUL SOO](https://open.spotify.com/artist/5w0paTeWKFlcJytIF06AcU) | [Fly Again](https://open.spotify.com/album/77zmrTi35NrLJ6zzLdtOi9) | 3:13 | 2025-03-04 | 2025-03-22 |
@@ -838,7 +840,7 @@
 | [Summer](https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Summer](https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0) | 3:01 | 2023-03-28 | 2023-08-17 |
 | [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 | 2025-05-21 | 2025-07-24 |
 | [summer vacation](https://open.spotify.com/track/2ZWeUrqm5Qhc7rR8YRnxOZ) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP) | [summer vacation](https://open.spotify.com/album/7dFvSsggIwQ8YZdOqBUEfJ) | 3:43 | 2025-07-25 |  |
-| [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 | 2025-06-24 |  |
+| [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 | 2025-06-24 | 2025-08-08 |
 | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/track/0FBPTDfNG4uQX6Ysx8ZKEX) | [ZASMIIN](https://open.spotify.com/artist/0RjRLXt3YDQS3VWpqO7wB3), [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/album/3BFSGN4NiChDGcZ7hEj5RS) | 3:44 | 2022-05-02 | 2022-05-26 |
 | [Sunshine comedy club](https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Summer Vacation Edition](https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3) | 3:17 | 2025-07-31 |  |
 | [SUNspot](https://open.spotify.com/track/5k67kGeFPOr0VL23qRs4MO) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [SUNspot](https://open.spotify.com/album/03xOGiHfyAGuem3wwaZx9h) | 3:02 | 2024-04-30 | 2024-05-10 |

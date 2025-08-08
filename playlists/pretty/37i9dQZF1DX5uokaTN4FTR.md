@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Calvin Harris, Clementine Douglas
+> The UK's biggest dance playlist! Cover: Interplanetary Criminal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432,217 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432,298 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 69 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 70 | [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 |
 
-Snapshot ID: `AAAAAIVT742iT3D2CM5jJMoa5eY6OoTU`
+Snapshot ID: `AAAAAMgixO7FetzeO8HwDitwcJ1Fqhqh`

@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/3g2gOqHtZXtE25XpSiznU2"
+      },
+      "artists": [
+        {
+          "name": "S1NCE",
+          "url": "https://open.spotify.com/artist/0B4ZdI7sj1mqeA60CkiW8m"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161961,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/6ayJCjMARjhv4JQzAqA7AK"
+    },
+    {
+      "album": {
         "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
         "url": "https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C"
       },
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 143620,
       "name": "Evening In Summer",
       "url": "https://open.spotify.com/track/0OifrLBpOntNsIMPcBbD52"
@@ -2733,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "lo que pase",
+        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
+      },
+      "artists": [
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152784,
+      "name": "lo que pase",
+      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
+    },
+    {
+      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -2960,7 +3000,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 379159,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/6W1oL539Y2CwZi9AHQiGAC"
@@ -4024,7 +4064,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 188250,
       "name": "Paper Aeroplane",
       "url": "https://open.spotify.com/track/6c9SmUfwftGeJco0vfcrO5"
@@ -5086,7 +5126,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 167142,
       "name": "Tears Dry Tonight",
       "url": "https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ"
@@ -5962,6 +6002,24 @@
       "duration_ms": 133548,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/1phdpRZfTwVNT7LVJZOlOG"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/7JleoVOaThYKwBnA8rm9Y3"
+      },
+      "artists": [
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178419,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0WBooGsMy4knzz3BXDhhUU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9ND1QF5hZNF"

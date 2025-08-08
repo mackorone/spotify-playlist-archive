@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 288461,
+  "num_followers": 288537,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADUeFvacGxUavUzUpDdfUIE",
+  "snapshot_id": "aJKbAAAAAAD/y8C8Ls4Eq3fjQAUCpt72",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 315419,
-      "name": "Mi Necesidad",
-      "url": "https://open.spotify.com/track/63bxC1JHzLGAlWfTSnnCPH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Mexico Song",
         "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 213812,
       "name": "De Mexico Song",
       "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 315419,
+      "name": "Mi Necesidad",
+      "url": "https://open.spotify.com/track/63bxC1JHzLGAlWfTSnnCPH"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "Nos Fuimos por Ah\u00ed",
-      "url": "https://open.spotify.com/track/4slqlyEAIve2ZfeJS6iHDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Espacio",
         "url": "https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "Nos Fuimos por Ah\u00ed",
+      "url": "https://open.spotify.com/track/4slqlyEAIve2ZfeJS6iHDk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguimos Fumando",
         "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
       },
@@ -855,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 1",
-        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
+        "name": "CRISTIAN",
+        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
       },
       "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 291974,
-      "name": "Alcoholizados",
-      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
+      "duration_ms": 227911,
+      "name": "LLEVARTE",
+      "url": "https://open.spotify.com/track/7olLAAPSwNTbMes8uH8B5x"
     }
   ],
   "unique_name": "This Is La Santa Grifa",

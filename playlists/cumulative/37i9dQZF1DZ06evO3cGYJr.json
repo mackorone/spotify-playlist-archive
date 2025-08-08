@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 180000,
       "name": "1DK",
       "url": "https://open.spotify.com/track/1NbIgGzU9Xjj8XlDbQtN8I"
@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "HALCYON",
+        "url": "https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/2neTVq5rxtXSFPRc1OvLMF"
+    },
+    {
+      "album": {
         "name": "Erase Me",
         "url": "https://open.spotify.com/album/2SIWLYEa2jOHobt3P0U6u6"
       },
@@ -756,7 +774,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 205565,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/2QqDOV1Mh0Dg8ngWu9zFqu"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 171210,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/12eTcYkNENioNzywUrPE5u"
@@ -966,7 +984,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 170500,
       "name": "Fragments of your presence",
       "url": "https://open.spotify.com/track/1dU3LM9sT5brDXG8C7aXZA"
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 217312,
       "name": "Wings!!!",
       "url": "https://open.spotify.com/track/20JJTYM69TGEJkS9aghe61"

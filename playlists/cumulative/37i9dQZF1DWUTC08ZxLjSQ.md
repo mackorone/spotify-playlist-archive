@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-439 songs - 23 hr 22 min
+440 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Jah!](https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Jah!](https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN) | 3:11 | 2023-06-20 | 2024-02-08 |
 | [Jiddo](https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Jiddo](https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY) | 2:24 | 2024-04-30 | 2024-08-14 |
 | [Jnah Etteir](https://open.spotify.com/track/0hId55Px1FQ6prjA0ddNRs) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [Jnah Etteir](https://open.spotify.com/album/2Z8TgcTzKNQNBhcllwkbtr) | 2:48 | 2024-08-13 | 2024-11-07 |
-| [Jwenet Douur](https://open.spotify.com/track/7Ap4rkh0kdMlwBRRBZSJjk) | [6faith](https://open.spotify.com/artist/6VsbRaKk9a3kJFDbUNhMlJ) | [Jwenet Douur](https://open.spotify.com/album/4gIhAPiwEM9gHDtadrd0BF) | 3:11 | 2025-06-03 |  |
+| [Jwenet Douur](https://open.spotify.com/track/7Ap4rkh0kdMlwBRRBZSJjk) | [6faith](https://open.spotify.com/artist/6VsbRaKk9a3kJFDbUNhMlJ) | [Jwenet Douur](https://open.spotify.com/album/4gIhAPiwEM9gHDtadrd0BF) | 3:11 | 2025-06-03 | 2025-08-08 |
 | [Kalam Kteer](https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Kalam Kteer](https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a) | 2:52 | 2022-11-01 | 2023-01-18 |
 | [KALIMNI](https://open.spotify.com/track/09kxB0BiZpFdjCTavu1YSt) | [Omar Whosof](https://open.spotify.com/artist/3yT8ShXUgEHCcPm8zYKnDF), [Soufroud](https://open.spotify.com/artist/42vfCMrTqlboQmnADL4FEB) | [KALIMNI](https://open.spotify.com/album/04xQVq2R04Hwd7MshKExFA) | 3:15 | 2023-01-31 | 2023-03-02 |
 | [Kam Marra](https://open.spotify.com/track/15tIRJQC1h2ruUIhPgGilA) | [Mira Habash](https://open.spotify.com/artist/67rrdqoZIyGLwoVaqYDm0F) | [Kam Marra](https://open.spotify.com/album/4UCSHPuzE1YTd8FR35h1Ew) | 3:09 | 2024-05-14 | 2024-08-14 |
@@ -335,6 +335,7 @@
 | [Shar](https://open.spotify.com/track/3P2kcZwsngegqgCMyfiEtE) | [Zelci](https://open.spotify.com/artist/0yuuL1bDTmVwdqpKzVAkUx) | [Shar](https://open.spotify.com/album/3RfZOrxXtIjR0aaR7OIsQs) | 2:36 | 2024-09-11 | 2024-11-27 |
 | [SHI YOUM](https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [SHI YOUM](https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh) | 3:17 | 2025-01-22 |  |
 | [SHIKA SHYAKA](https://open.spotify.com/track/7q38eXaAnnVFZPLFZNu1e5) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH) | [SHIKA SHYAKA](https://open.spotify.com/album/0CpyR13JBqQuX5zxuuzzzR) | 2:27 | 2025-02-17 |  |
+| [Shoot](https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SWITCH](https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K) | 2:24 | 2025-08-07 |  |
 | [Shta2tella](https://open.spotify.com/track/66Vk9wfboLceIahHzBJuV0) | [Ibby VK](https://open.spotify.com/artist/1ZaiYYGVDJvISe5rUV7JAS) | [Shta2tella](https://open.spotify.com/album/1EZENUppFnXlur5KKsP41B) | 1:55 | 2023-02-14 | 2023-03-22 |
 | [Sidi](https://open.spotify.com/track/2HxLwYX0P7rcZp7SO7Cqd0) | [Nour Harkati](https://open.spotify.com/artist/0LFvN0ZSf92CMb00teZdYJ) | [Sidi](https://open.spotify.com/album/4xXiGTd4CRErEhtpVl3m5w) | 3:24 | 2024-09-11 | 2025-01-23 |
 | [Slow Dance](https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Slow Dance](https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u) | 2:15 | 2022-10-11 | 2022-12-14 |

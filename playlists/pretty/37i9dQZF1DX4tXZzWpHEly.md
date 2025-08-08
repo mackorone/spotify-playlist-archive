@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,135 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,143 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 28 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
 | 29 | [Territory Time](https://open.spotify.com/track/6roCB2PRkDbuE6HFLMklAd) | [Tom Curtain](https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH) | [Territory Time](https://open.spotify.com/album/7a5eGe0BAUZptvWMQa6cYh) | 3:18 |
 | 30 | [You and Steve McQueen](https://open.spotify.com/track/77IWthliWVeobzB1TzUgHQ) | [The Audreys](https://open.spotify.com/artist/4YhCaFhYdUaPihkxTqEtkZ) | [Between Last Night and Us](https://open.spotify.com/album/27a7rVTky0Aj3ilG04MJbp) | 3:43 |
-| 31 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
-| 32 | [We're Good Together](https://open.spotify.com/track/61Hpngia9MglsIAeIJW6Oe) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 2:59 |
+| 31 | [We're Good Together](https://open.spotify.com/track/61Hpngia9MglsIAeIJW6Oe) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 2:59 |
+| 32 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
 | 33 | [Swingin' Door](https://open.spotify.com/track/1hOmOZUQ9d7GmlXr0p3QQK) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [Too Far Gone](https://open.spotify.com/album/5C7S5okhC9fxrsnMaMfBpd) | 3:45 |
 | 34 | [A Little Further North](https://open.spotify.com/track/77lErsyeAfTywgOud05g8E) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 3:38 |
 | 35 | [Mama's Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/4sxNwFc2YHfuhpDd8rXJS3) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [The Great Country Songbook](https://open.spotify.com/album/4pGp5C1NMtCKCDsuVFpoan) | 4:03 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 57 | [What If I Was Willing](https://open.spotify.com/track/0OKjR5SHiBZbYDv0M4pAz4) | [Deep Creek Road](https://open.spotify.com/artist/3k46FD3ZStLNs73TwTgFxV) | [What If I Was Willing](https://open.spotify.com/album/7cPZTDXG4C8cHEEqab4iHw) | 3:30 |
 | 58 | [A Little More](https://open.spotify.com/track/1MTsJP1zoc3sFiXgrt7uLv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 3:19 |
 | 59 | [Royal Telephone](https://open.spotify.com/track/3ANy5aNWEJScu480jnj11I) | [Jimmy Little](https://open.spotify.com/artist/6AEG1EJDgdOWQQEeP2AI97) | [The Definitive Collection](https://open.spotify.com/album/6FaVnrx77ieMJQ05srhqmz) | 2:13 |
-| 60 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
-| 61 | [Jolene](https://open.spotify.com/track/647ys5EZXczaZvlBxhlx7M) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Under the Covers](https://open.spotify.com/album/4QmYBlpB9dPCcoqgqtyhGY) | 2:36 |
+| 60 | [Jolene](https://open.spotify.com/track/647ys5EZXczaZvlBxhlx7M) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Under the Covers](https://open.spotify.com/album/4QmYBlpB9dPCcoqgqtyhGY) | 2:36 |
+| 61 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
 | 62 | [Ghost Town](https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Chaos and Bright Lights](https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i) | 2:54 |
 | 63 | [Streets of Tamworth](https://open.spotify.com/track/1Qjj7QWWpwRGjE5DM4Jb3e) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:43 |
 | 64 | [Fire & Ice](https://open.spotify.com/track/66BnogBwUwRU3U22ISWvjX) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd), [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [Call out for the Cavalry](https://open.spotify.com/album/7vYAJToSn6GsX6YYPelpdm) | 3:43 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 77 | [Monkey On A Wire](https://open.spotify.com/track/6gnTDFX9qLva4Em1sufXus) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:06 |
 | 78 | [Rusty Strings](https://open.spotify.com/track/3aRnNQap5z6RQ4yvgfmpab) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Rusty Strings](https://open.spotify.com/album/6c5EKjVzwqVaB1Vf9pyhAG) | 3:24 |
 | 79 | [Midnight Run](https://open.spotify.com/track/1ilLZiQpyxa5jcG8Uk2n9n) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ) | [Rush](https://open.spotify.com/album/7JNZxNWJbAykmTrpvNzkgc) | 3:32 |
-| 80 | [Party Down Under](https://open.spotify.com/track/4iGD8yuJdjFSmq59g8Jbry) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/261v3tccJPEZIIbjoQ1gDQ) | 3:17 |
+| 80 | [Thank God I'm A Country Boy](https://open.spotify.com/track/0ihAsdbpsY2N4WLncykpAW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Wired](https://open.spotify.com/album/2tJ15wx7pKOp8VfDjcfkIy) | 2:53 |
 
 Snapshot ID: `AAAAADv4hfVYkiNxMobq3UPG6tf0FlpV`

@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21125,
+  "num_followers": 21132,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAD8oWC/YuzBPqXNBeEPXlNC",
+  "snapshot_id": "aJKbAAAAAADK9u4gjxktaW+FGitZFQ4f",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293617,
-      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 327866,
       "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293617,
+      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
     },
     {
       "added_at": null,

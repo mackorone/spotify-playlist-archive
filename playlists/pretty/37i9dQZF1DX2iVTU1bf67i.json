@@ -1,6 +1,6 @@
 {
   "description": "The warm sound and the cozy mood of classic Jazz. A soundtrack in the background for relaxing, dinner or focus. Cover: Hank Mobley",
-  "num_followers": 122493,
+  "num_followers": 122527,
   "original_name": "In the Mood for Jazz",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark Trio",
-          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
-        }
-      ],
-      "duration_ms": 393533,
-      "name": "Softly As In A Morning Sunrise - Remastered 2001/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3DZShPBwoWAfFgPKBUcFFJ"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Tommy Flanagan Trio",
         "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 221893,
       "name": "In The Blue Of The Evening",
       "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark Trio",
+          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
+        }
+      ],
+      "duration_ms": 393533,
+      "name": "Softly As In A Morning Sunrise - Remastered 2001/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3DZShPBwoWAfFgPKBUcFFJ"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Sarah Vaughan In Hi-Fi",
-        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
+        "name": "Sarah Vaughan In Hi-Fi",
+        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
         "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
         "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
@@ -607,26 +607,6 @@
       "duration_ms": 360306,
       "name": "Porgy (I Loves You Porgy) - Outtake",
       "url": "https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
-        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
-        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -651,6 +631,26 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
+        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
+        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
         "name": "Cookin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/50J57uCvPub0yK2kjkfC9J"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 360826,
       "name": "My Funny Valentine - Rudy Van Gelder Remaster 2007",
       "url": "https://open.spotify.com/track/4Ti7XXjHWi4P3ygJ1GAZMn"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "I Just Dropped By To Say Hello",
-      "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -699,6 +683,22 @@
       "duration_ms": 407800,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "I Just Dropped By To Say Hello",
+      "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "The Band And I",
-        "url": "https://open.spotify.com/album/0Tl7qdYlNoocwvWxyGQm5m"
-      },
-      "artists": [
-        {
-          "name": "Irene Kral",
-          "url": "https://open.spotify.com/artist/5O996HwuG2b83Wa7obBtgE"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/5pSJF9AOOCrVxsRqB7kP57"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 313440,
       "name": "He's Younger Than You Are - From \"Alfie\" Score",
       "url": "https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "The Band And I",
+        "url": "https://open.spotify.com/album/0Tl7qdYlNoocwvWxyGQm5m"
+      },
+      "artists": [
+        {
+          "name": "Irene Kral",
+          "url": "https://open.spotify.com/artist/5O996HwuG2b83Wa7obBtgE"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/5pSJF9AOOCrVxsRqB7kP57"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Dexter Blows Hot & Cool",
         "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 222763,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 417320,
       "name": "Foolin' Myself",
       "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 447173,
+      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
+        "name": "Jazz 'N' Samba",
+        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Jazz 'N' Samba",
-        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
-      },
-      "artists": [
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Blue And Sentimental (Remastered)",
         "url": "https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6"
       },
@@ -1231,38 +1231,6 @@
       "duration_ms": 448866,
       "name": "Blue And Sentimental - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Mad About the Boy",
-      "url": "https://open.spotify.com/track/59IPyh29vl8BAb6k4yddbV"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1283,6 +1251,22 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
         "name": "Lee Konitz Meets Jimmy Giuffre",
         "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 216360,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/3Gcpi1CwKoQtc8B3H2ZOIX"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Mad About the Boy",
+      "url": "https://open.spotify.com/track/59IPyh29vl8BAb6k4yddbV"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "The Opener (Remastered 2008/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH"
-      },
-      "artists": [
-        {
-          "name": "Curtis Fuller",
-          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
-        }
-      ],
-      "duration_ms": 413333,
-      "name": "A Lovely Way To Spend An Evening - Remastered 2008/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "For You, For Me, Forevermore",
         "url": "https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+        "name": "The Opener (Remastered 2008/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH"
       },
       "artists": [
         {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+          "name": "Curtis Fuller",
+          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
         }
       ],
-      "duration_ms": 331333,
-      "name": "Play Ray",
-      "url": "https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY"
+      "duration_ms": 413333,
+      "name": "A Lovely Way To Spend An Evening - Remastered 2008/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1459,6 +1443,22 @@
       "duration_ms": 202573,
       "name": "November Twilight",
       "url": "https://open.spotify.com/track/1A0IKMO2VXftxqHDe3gigM"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Play Ray",
+      "url": "https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "There's A Boat That's Leavin' Soon For New York - From \"Porgy And Bess\"",
-      "url": "https://open.spotify.com/track/6bfQCa9oirwmj84TJEsLYp"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
       "artists": [
         {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
         }
       ],
-      "duration_ms": 484106,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn"
+      "duration_ms": 162333,
+      "name": "There's A Boat That's Leavin' Soon For New York - From \"Porgy And Bess\"",
+      "url": "https://open.spotify.com/track/6bfQCa9oirwmj84TJEsLYp"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1575,6 +1559,22 @@
       "duration_ms": 191240,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 484106,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "The Incredible Kai Winding Trombones",
-        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
-      },
-      "artists": [
-        {
-          "name": "Kai Winding",
-          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Lil Darlin'",
-      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Jazz 'Round Midnight: Clifford Brown",
         "url": "https://open.spotify.com/album/59Yi9ZX1Qw6i3tfunEDwnf"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 196466,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/0S85zakgQAEnjrNPug9sqh"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "The Incredible Kai Winding Trombones",
+        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
+      },
+      "artists": [
+        {
+          "name": "Kai Winding",
+          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Lil Darlin'",
+      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "All About Chris",
         "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
       },
@@ -1971,22 +1955,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz Quartet",
-          "url": "https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "When You're Smiling",
-      "url": "https://open.spotify.com/track/25scgTXCu6BVxDoBcz7uLA"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -2003,18 +1971,18 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Helen Merill",
-        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F"
       },
       "artists": [
         {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+          "name": "Lee Konitz Quartet",
+          "url": "https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj"
         }
       ],
-      "duration_ms": 360133,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3"
+      "duration_ms": 226346,
+      "name": "When You're Smiling",
+      "url": "https://open.spotify.com/track/25scgTXCu6BVxDoBcz7uLA"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2035,6 +2003,22 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
+        "name": "Helen Merill",
+        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "duration_ms": 360133,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -2051,22 +2035,18 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "A Musical Romance",
-        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 187560,
-      "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
-      "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
+      "duration_ms": 144428,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2087,6 +2067,26 @@
       "duration_ms": 233760,
       "name": "Self Portrait (Of The Bean)",
       "url": "https://open.spotify.com/track/75hZu1IIeLnbsuCMQDQ5Zn"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "A Musical Romance",
+        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Grand Encounter: 2\u00b0 East / 3\u00b0 West",
-        "url": "https://open.spotify.com/album/5ZPkGeJqOYisfBWba69W9S"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/3UgqGdZQZFByqmENWtfaA6"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Someday My Prince Will Come (Mono Version)",
         "url": "https://open.spotify.com/album/4Khts8jtPr6XbQP10q80Hw"
       },
@@ -2223,6 +2207,22 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
+        "name": "Grand Encounter: 2\u00b0 East / 3\u00b0 West",
+        "url": "https://open.spotify.com/album/5ZPkGeJqOYisfBWba69W9S"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/3UgqGdZQZFByqmENWtfaA6"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
         "name": "Dino: The Essential Dean Martin",
         "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
       },
@@ -2235,22 +2235,6 @@
       "duration_ms": 220560,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/5fpjOiMF4I6hYWZEKxwPNe"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "I'll See You Again",
-      "url": "https://open.spotify.com/track/24kAkSs4LKX64jc0absy75"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2271,18 +2255,18 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Presenting Ray Bryant",
-        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 206053,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
+      "duration_ms": 235360,
+      "name": "I'll See You Again",
+      "url": "https://open.spotify.com/track/24kAkSs4LKX64jc0absy75"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2303,6 +2287,22 @@
       "duration_ms": 146066,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/2nw4QBlkVix8USKT8swP6G"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Presenting Ray Bryant",
+        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 343533,
-      "name": "Younger Than Springtime",
-      "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Jazz Giant",
         "url": "https://open.spotify.com/album/0r4iPO0YkeupxvYQVMl3h7"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 358733,
       "name": "A Walkin' Thing",
       "url": "https://open.spotify.com/track/22RGDChN7CrjZ2mtCWuK1t"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 343533,
+      "name": "Younger Than Springtime",
+      "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2683,22 +2683,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Essentiel Jazz - Harmonica Jazz",
-        "url": "https://open.spotify.com/album/5VVOagVN099SrjuPvdL0H2"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/1EiMUUzAqu0ADhK4TNWKc3"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "The Happy Horns Of Clark Terry",
         "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
       },
@@ -2731,6 +2715,22 @@
       "duration_ms": 343866,
       "name": "Bunny",
       "url": "https://open.spotify.com/track/608Il5lMSRS5AK7QUZlVPt"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Essentiel Jazz - Harmonica Jazz",
+        "url": "https://open.spotify.com/album/5VVOagVN099SrjuPvdL0H2"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/1EiMUUzAqu0ADhK4TNWKc3"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2851,22 +2851,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "After Hours With Miss D",
-        "url": "https://open.spotify.com/album/7bp3ZFytOzi4UaaXI2NxiC"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Am I Blue",
-      "url": "https://open.spotify.com/track/25YKzSRFvgEJ8jXwXYe8A8"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -2883,18 +2867,18 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+        "name": "After Hours With Miss D",
+        "url": "https://open.spotify.com/album/7bp3ZFytOzi4UaaXI2NxiC"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 409346,
-      "name": "Waltz For A Lovely Wife",
-      "url": "https://open.spotify.com/track/6j6ysNwF1l4FuO07kQFcpr"
+      "duration_ms": 192906,
+      "name": "Am I Blue",
+      "url": "https://open.spotify.com/track/25YKzSRFvgEJ8jXwXYe8A8"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2911,6 +2895,22 @@
       "duration_ms": 368093,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/4Qv9LV0XE6t8DzqtqGTiV8"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 409346,
+      "name": "Waltz For A Lovely Wife",
+      "url": "https://open.spotify.com/track/6j6ysNwF1l4FuO07kQFcpr"
     },
     {
       "added_at": "2024-07-17 11:36:47",
@@ -2979,22 +2979,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 188244,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/0IIG5qxX8k08mJZ1xxpFQy"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "A Jazz Date With Chris Connor",
         "url": "https://open.spotify.com/album/6VvCDBJant7nKfjVromljF"
       },
@@ -3007,6 +2991,22 @@
       "duration_ms": 201800,
       "name": "The Night We Called It a Day",
       "url": "https://open.spotify.com/track/6NDcfPDPnh5FIhfeIITGdb"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 188244,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/0IIG5qxX8k08mJZ1xxpFQy"
     },
     {
       "added_at": "2024-07-17 11:36:47",

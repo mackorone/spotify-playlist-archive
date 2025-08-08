@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,358 likes - 79 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,470 likes - 79 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 34 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 |
 | 35 | [Quem Te Guarda É Deus](https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Quem Te Guarda É Deus](https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h) | 3:13 |
 | 36 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
-| 37 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
-| 38 | [Ninguém Explica Deus](https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ninguém Explica Deus](https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3) | 5:01 |
+| 37 | [Ninguém Explica Deus](https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ninguém Explica Deus](https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3) | 5:01 |
+| 38 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
 | 39 | [Pode Morar Aqui \- Acústico](https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui \(Acústico\)](https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL) | 5:04 |
-| 40 | [Florescer](https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Jacqueline Palheiro](https://open.spotify.com/artist/0KsrPvrENzZp3EvN3YAi9w) | [Florescer](https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG) | 6:20 |
-| 41 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
+| 40 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
+| 41 | [Florescer](https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Jacqueline Palheiro](https://open.spotify.com/artist/0KsrPvrENzZp3EvN3YAi9w) | [Florescer](https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG) | 6:20 |
 | 42 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
 | 43 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 |
 | 44 | [Ele é Exaltado](https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4) | [Marcelo Cacilias](https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV) | [Instrumental Acoustic Worship II](https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q) | 5:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover:  Jass Brar
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,773 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,782 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 2 | [To See Her](https://open.spotify.com/track/49uHnDxGoTiVj728mFBdEn) | [Vishav Dhaliwal](https://open.spotify.com/artist/3x5Xo4hWuDUfawF6qsp0rE) | [Slowburns](https://open.spotify.com/album/42FBwET1EvlkLzadKakNVm) | 2:46 |
 | 3 | [Haal Chal](https://open.spotify.com/track/5xhUjnBvQnSnjhXLKJxZmK) | [Zafar Brar](https://open.spotify.com/artist/5LinFD2B7eycr2rGuR93nY) | [Haal Chal](https://open.spotify.com/album/5bMKxu74Nm28BufzSIV6dv) | 2:02 |
 | 4 | [Definition](https://open.spotify.com/track/3tHRh30b6PBCiC0UBOHo6P) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Definition](https://open.spotify.com/album/759ZXoAaCqM5iki174MwlJ) | 2:34 |
-| 5 | [Maye Meriye](https://open.spotify.com/track/4654YCTr3arTCcOmCrXBTN) | [Simrnjot Kangrah](https://open.spotify.com/artist/1jDsNlHaRxVoCmDJ6nf7lR), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Maye Meriye](https://open.spotify.com/album/5DTeqD7rFErbGe3SL18AOM) | 4:08 |
+| 5 | [Maye Meriye](https://open.spotify.com/track/4654YCTr3arTCcOmCrXBTN) | [Simrnjot Kangarh](https://open.spotify.com/artist/086qvuBb3Bitu7OgSf3WbK), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Maye Meriye](https://open.spotify.com/album/5DTeqD7rFErbGe3SL18AOM) | 4:08 |
 | 6 | [Precious](https://open.spotify.com/track/5NtYT0nDC3juYAODCkT6Hu) | [Geetkarz](https://open.spotify.com/artist/2sfCTNESjEmT9QdALWHXGs) | [Precious](https://open.spotify.com/album/0LnwOMcbYMhmRndLfBwjL9) | 2:41 |
 | 7 | [Busy](https://open.spotify.com/track/0MFTP7lRrBDKu7efOMGq8y) | [Vikky Dhall](https://open.spotify.com/artist/1PjrKsmShLGimWDMIIu0tb), [Inder D Last Level](https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Busy](https://open.spotify.com/album/0fzkum7F2hiskyfj1IWI1W) | 2:51 |
 | 8 | [Barrack No.9](https://open.spotify.com/track/3fzCOXW8MYU86AmUrmpOhp) | [Harman Maan](https://open.spotify.com/artist/0Buj3XxnNI60TyBY7FHbt3) | [Barrack No.9](https://open.spotify.com/album/64M6SkteZYjBY8KYqTEoxt) | 2:33 |

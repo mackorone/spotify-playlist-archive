@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Daichi Yamamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,165 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,182 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 47 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
 | 48 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 |
 | 49 | [Q](https://open.spotify.com/track/773w1nEqVUs888p9pmwcJT) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Q](https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie) | 3:17 |
-| 50 | [マイル feat.Gotch](https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [マイル feat.Gotch](https://open.spotify.com/album/5utHzbAEzHxGa2RMWoAPpu) | 3:15 |
+| 50 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
 | 51 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
-| 52 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
+| 52 | [マイル feat.Gotch](https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [マイル feat.Gotch](https://open.spotify.com/album/5utHzbAEzHxGa2RMWoAPpu) | 3:15 |
 | 53 | [Glow Within](https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [Glow Within](https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9) | 4:58 |
 | 54 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 |
 | 55 | [新しいsummer](https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [LUMINOUS](https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe) | 3:09 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 59 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
 | 60 | [ちゃんプール！](https://open.spotify.com/track/29JNK4H4hX7CuBggFnyT4m) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [ちゃんプール！](https://open.spotify.com/album/2OkHGyYQCRMU6wFpCvxJMw) | 2:57 |
 | 61 | [真珠色](https://open.spotify.com/track/24ig6rx0VPphf6nJ6hIyqt) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光の路](https://open.spotify.com/album/582c8uDijGKHpheqhprwdm) | 4:00 |
-| 62 | [たぶん悪魔が](https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [MY CHEMICAL ROMANCE](https://open.spotify.com/album/2Rsi3rsTQuOZTJECcFh2zn) | 3:57 |
-| 63 | [eeny meeny](https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [eeny meeny](https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX) | 4:16 |
-| 64 | [Let it Out](https://open.spotify.com/track/0Hq4ipiDzacP4oDNS7sHae) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [凌元耕](https://open.spotify.com/artist/4T9yqxoC8xxX8Qt1EWT7aj) | [Let it Out](https://open.spotify.com/album/6EhX0X2emIWJMXJK21hHqC) | 3:27 |
-| 65 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
+| 62 | [eeny meeny](https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [eeny meeny](https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX) | 4:16 |
+| 63 | [たぶん悪魔が](https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [MY CHEMICAL ROMANCE](https://open.spotify.com/album/2Rsi3rsTQuOZTJECcFh2zn) | 3:57 |
+| 64 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
+| 65 | [Let it Out](https://open.spotify.com/track/0Hq4ipiDzacP4oDNS7sHae) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [凌元耕](https://open.spotify.com/artist/4T9yqxoC8xxX8Qt1EWT7aj) | [Let it Out](https://open.spotify.com/album/6EhX0X2emIWJMXJK21hHqC) | 3:27 |
 | 66 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
 | 67 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
 | 68 | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/track/0x0hFrFDgg6PwSwkjMPjQn) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [真行寺貴秋](https://open.spotify.com/artist/2B5eU0ZSLAUqP3QY1Qc5PB) | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/album/4OkBPXViP1vBzOVNpdvb7a) | 3:49 |
 | 69 | [Supernice \- feat\. トリプルファイヤー吉田](https://open.spotify.com/track/0OA3ffeRroSiyZKWFc91TH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [トリプルファイヤー](https://open.spotify.com/artist/1Hr7ESrCzlm2W7FbpUgYwX) | [Supernice \(feat\. トリプルファイヤー吉田\)](https://open.spotify.com/album/5cKmc7jOSE0DwoPDiwggm4) | 3:49 |
 | 70 | [人生は失敗だった](https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [人生は失敗だった](https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS) | 3:27 |
 | 71 | [Goodnight](https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Goodnight](https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX) | 3:31 |
-| 72 | [YOU](https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [YOU](https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6) | 4:43 |
-| 73 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
-| 74 | [カンしてパイして乾杯！ \(feat\. ハナレグミ\)](https://open.spotify.com/track/10dZD07eK7WlqkkzMjwF5m) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Tabla Dhi, Tabla Dha](https://open.spotify.com/album/0AKcBNfcB3BS1nCZZgH9O2) | 4:55 |
+| 72 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
+| 73 | [YOU](https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [YOU](https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6) | 4:43 |
+| 74 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
 | 75 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
 
 Snapshot ID: `AAAAAHBxTfSigv3prtXuY4zn+b3qRyaE`

@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 27423,
+  "num_followers": 27428,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "A\u00fan no mor\u00ed",
-        "url": "https://open.spotify.com/album/1lH4jV0IQPcfpSqhB72hZA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        },
-        {
-          "name": "Isabel Lenoir",
-          "url": "https://open.spotify.com/artist/4mCet07zarCtThoh4FTIuW"
-        }
-      ],
-      "duration_ms": 217457,
-      "name": "A\u00fan no mor\u00ed",
-      "url": "https://open.spotify.com/track/4idJOmzQyu0f8TtQdejMjN"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
         "name": "PATA DE PERRA",
         "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
       },
@@ -863,6 +843,26 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
+        "name": "A\u00fan no mor\u00ed",
+        "url": "https://open.spotify.com/album/1lH4jV0IQPcfpSqhB72hZA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        },
+        {
+          "name": "Isabel Lenoir",
+          "url": "https://open.spotify.com/artist/4mCet07zarCtThoh4FTIuW"
+        }
+      ],
+      "duration_ms": 217457,
+      "name": "A\u00fan no mor\u00ed",
+      "url": "https://open.spotify.com/track/4idJOmzQyu0f8TtQdejMjN"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
         "name": "Alabanza",
         "url": "https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 204576,
       "name": "Alabanza",
       "url": "https://open.spotify.com/track/3eYYMWH1rnLqBwLqSMBhCB"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
+        "name": "El Fr\u00edo Que Nos Convoca",
+        "url": "https://open.spotify.com/album/3qPpRCeozpveMhiCIwqknF"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 282057,
+      "name": "Menos Mal Que Estamos Juntes",
+      "url": "https://open.spotify.com/track/7KQdRMbcIbe6sASxtvmjkI"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -915,22 +931,6 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "El Fr\u00edo Que Nos Convoca",
-        "url": "https://open.spotify.com/album/3qPpRCeozpveMhiCIwqknF"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 282057,
-      "name": "Menos Mal Que Estamos Juntes",
-      "url": "https://open.spotify.com/track/7KQdRMbcIbe6sASxtvmjkI"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
         "name": "Los Ojos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "Vals de la Luna",
-        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Vals de la Luna",
-      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
         "name": "los ausentes",
         "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 179635,
       "name": "los ausentes",
       "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
+        "name": "Vals de la Luna",
+        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 190416,
+      "name": "Vals de la Luna",
+      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
+        "name": "El Rostro de los Acantilados",
+        "url": "https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 271006,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/1ll8FoGTVHTtU3G0A6t1Db"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
         "name": "Te vamos a salvar",
         "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "El Rostro de los Acantilados",
-        "url": "https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 271006,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/1ll8FoGTVHTtU3G0A6t1Db"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
         "name": "Nace una Madre",
         "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 144545,
       "name": "Nace una Madre",
       "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
-        "name": "Lo cant\u00e9",
-        "url": "https://open.spotify.com/album/4b18Wx3C2GUF9LFlfIUo0e"
-      },
-      "artists": [
-        {
-          "name": "Florencia N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/539mt6QBUNk7fHF65p8ydy"
-        }
-      ],
-      "duration_ms": 246812,
-      "name": "Lo cant\u00e9",
-      "url": "https://open.spotify.com/track/7csoR2DnYrK6Ye2plb4XPN"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -1123,6 +1107,22 @@
       "duration_ms": 267523,
       "name": "Recuerdos de Ypacara\u00ed",
       "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
+        "name": "Lo cant\u00e9",
+        "url": "https://open.spotify.com/album/4b18Wx3C2GUF9LFlfIUo0e"
+      },
+      "artists": [
+        {
+          "name": "Florencia N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/539mt6QBUNk7fHF65p8ydy"
+        }
+      ],
+      "duration_ms": 246812,
+      "name": "Lo cant\u00e9",
+      "url": "https://open.spotify.com/track/7csoR2DnYrK6Ye2plb4XPN"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "Alma Gitana",
-        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 171309,
-      "name": "El Oasis",
-      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
         "name": "Falso de amor",
         "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 212911,
       "name": "Falso de amor",
       "url": "https://open.spotify.com/track/0NZTon5imI2pfTZIEts5Wy"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
+        "name": "Alma Gitana",
+        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 171309,
+      "name": "El Oasis",
+      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "\u00bfQU\u00c9 VES?",
-        "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
-      },
-      "artists": [
-        {
-          "name": "Yacar\u00e9 Manso",
-          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
-        },
-        {
-          "name": "Vieto Sound System",
-          "url": "https://open.spotify.com/artist/2TQQUkzXXK2JfkKl2Vxkys"
-        }
-      ],
-      "duration_ms": 306776,
-      "name": "\u00bfQU\u00c9 VES?",
-      "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
+        "name": "\u00bfQU\u00c9 VES?",
+        "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9 Manso",
+          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
+        },
+        {
+          "name": "Vieto Sound System",
+          "url": "https://open.spotify.com/artist/2TQQUkzXXK2JfkKl2Vxkys"
+        }
+      ],
+      "duration_ms": 306776,
+      "name": "\u00bfQU\u00c9 VES?",
+      "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -1571,30 +1571,6 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "la cueca del canario (V.2)",
-        "url": "https://open.spotify.com/album/4wYdWEHOi6bM3bteCU7Bjb"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Ni\u00f1o de Elche",
-          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
-        },
-        {
-          "name": "Las Guitarras de Miguel Molina",
-          "url": "https://open.spotify.com/artist/3cH9CZDCrox6lx1mahJNC5"
-        }
-      ],
-      "duration_ms": 121317,
-      "name": "la cueca del canario (V.2)",
-      "url": "https://open.spotify.com/track/6sag5Wk8UyskYYsqmHKezw"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
         "name": "Eufemismos",
         "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
       },
@@ -1615,18 +1591,26 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "Tu Jinete",
-        "url": "https://open.spotify.com/album/7piDGWWJ4xR3f3iTMh65qU"
+        "name": "la cueca del canario (V.2)",
+        "url": "https://open.spotify.com/album/4wYdWEHOi6bM3bteCU7Bjb"
       },
       "artists": [
         {
-          "name": "Juan Ibarlucia",
-          "url": "https://open.spotify.com/artist/4dSapZTLQAMUx9sUIaELu8"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Ni\u00f1o de Elche",
+          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
+        },
+        {
+          "name": "Las Guitarras de Miguel Molina",
+          "url": "https://open.spotify.com/artist/3cH9CZDCrox6lx1mahJNC5"
         }
       ],
-      "duration_ms": 202915,
-      "name": "Tu Jinete",
-      "url": "https://open.spotify.com/track/6prS3VQHERTDUjNdlAPK7J"
+      "duration_ms": 121317,
+      "name": "la cueca del canario (V.2)",
+      "url": "https://open.spotify.com/track/6sag5Wk8UyskYYsqmHKezw"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
+        "name": "Tu Jinete",
+        "url": "https://open.spotify.com/album/7piDGWWJ4xR3f3iTMh65qU"
+      },
+      "artists": [
+        {
+          "name": "Juan Ibarlucia",
+          "url": "https://open.spotify.com/artist/4dSapZTLQAMUx9sUIaELu8"
+        }
+      ],
+      "duration_ms": 202915,
+      "name": "Tu Jinete",
+      "url": "https://open.spotify.com/track/6prS3VQHERTDUjNdlAPK7J"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1703,6 +1703,26 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2025-08-01 15:38:30",
+      "album": {
+        "name": "Que siga el baile",
+        "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
+      },
+      "artists": [
+        {
+          "name": "Seba Ulivi",
+          "url": "https://open.spotify.com/artist/2UUndQ8hpbGQCHnfpYvpKl"
+        },
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        }
+      ],
+      "duration_ms": 165059,
+      "name": "Que siga el baile",
+      "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -1747,22 +1767,22 @@
     {
       "added_at": "2025-08-01 15:38:30",
       "album": {
-        "name": "Que siga el baile",
-        "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
       },
       "artists": [
         {
-          "name": "Seba Ulivi",
-          "url": "https://open.spotify.com/artist/2UUndQ8hpbGQCHnfpYvpKl"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
         },
         {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
         }
       ],
-      "duration_ms": 165059,
-      "name": "Que siga el baile",
-      "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
+      "duration_ms": 237078,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
     },
     {
       "added_at": "2025-08-01 15:38:30",
@@ -1783,26 +1803,6 @@
       "duration_ms": 233418,
       "name": "Tan Solo Canci\u00f3n",
       "url": "https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7"
-    },
-    {
-      "added_at": "2025-08-01 15:38:30",
-      "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 237078,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
     },
     {
       "added_at": "2025-08-01 15:38:30",

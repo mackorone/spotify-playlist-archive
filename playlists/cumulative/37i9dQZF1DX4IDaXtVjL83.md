@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Saweetie & TWICE\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Yves & PinkPantheress\)
 
-250 songs - 13 hr 11 min
+251 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 | 2022-07-22 | 2024-10-09 |
 | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ) | 3:10 | 2022-10-07 | 2024-04-19 |
 | [Late Night Feels \- Öwnboss Remix](https://open.spotify.com/track/4a17SAv06uKHOr3nyrNbBL) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/album/3beeqCEE3BdlKC0qm8nlH2) | 3:10 | 2024-04-05 | 2024-05-18 |
-| [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-15 |  |
+| [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-15 | 2025-08-08 |
 | [Like California \(feat\. DeVita\)](https://open.spotify.com/track/7ouOGLgqPhs5ezGPegOT6t) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Like California \(feat\. DeVita\)](https://open.spotify.com/album/1Q3J1EjS9oEJgVoILiHiTS) | 2:42 | 2023-01-12 | 2024-11-05 |
 | [like JENNIE \(Peggy Gou Remix\)](https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE \(Peggy Gou Remix\)](https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8) | 3:28 | 2025-04-11 |  |
 | [Look Where We Are](https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk) | [Look Where We Are](https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD) | 3:12 | 2023-01-26 | 2024-04-19 |
@@ -193,6 +193,7 @@
 | [Smile](https://open.spotify.com/track/2AeQVicr7SjOAz6UU91Pnv) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO: THE BEST \-Japan Edition\-](https://open.spotify.com/album/20h4dMCIGutPFvLDoeSgyV) | 3:04 | 2022-03-24 | 2022-04-15 |
 | [so nice](https://open.spotify.com/track/3kCr7cWUfZlNpJkKnfd6QY) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [EPEX & joan 1st Digital Single ‘so nice’](https://open.spotify.com/album/0oSDDyxUWLmqgEGHsI838v) | 2:32 | 2025-05-08 |  |
 | [So Right \(feat\. Yuna\)](https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [So Right \(feat\. Yuna\)](https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk) | 3:08 | 2022-02-24 | 2024-08-14 |
+| [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:28 | 2025-08-07 |  |
 | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/album/4ItcJtnRE5VsN9jJVk9CRA) | 4:10 | 2021-12-20 | 2022-08-30 |
 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:37 | 2021-12-20 | 2022-06-01 |
 | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 | 2023-12-01 |  |

@@ -2,7 +2,7 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Gambi
+> Photo : Jul
 
 357 songs - 16 hr 53 min
 

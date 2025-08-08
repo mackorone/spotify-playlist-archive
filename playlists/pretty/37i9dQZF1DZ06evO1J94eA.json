@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40027,
+  "num_followers": 40035,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABmPRZUq5iJfs7lG+Mene5c",
+  "snapshot_id": "aJKbAAAAAAAjzVg4/WNHN6fKY1kfxWZt",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
       },
       "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 325773,
-      "name": "Safiatou (feat. Santana & Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl"
+      "duration_ms": 482720,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
     },
     {
       "added_at": null,
@@ -235,18 +227,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
       "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 482720,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
+      "duration_ms": 325773,
+      "name": "Safiatou (feat. Santana & Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 361453,
+      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 361453,
-      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gershwin's World",
         "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 115733,
       "name": "My Man's Gone Now",
       "url": "https://open.spotify.com/track/02Ma3Y0oxEfBDEfJj4EhMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 527266,
+      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 527266,
-      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gershwin's World",
         "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 349160,
       "name": "St. Louis Blues",
       "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blow-Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "The Bed",
+      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
       "duration_ms": 293800,
       "name": "Don't Explain (feat. Damien Rice & Lisa Hannigan)",
       "url": "https://open.spotify.com/track/27lQw3vZM8nWPweH7nxnox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blow-Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "The Bed",
-      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 398040,
-      "name": "Textures",
-      "url": "https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 424560,
       "name": "Stars in Your Eyes",
       "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 398040,
+      "name": "Textures",
+      "url": "https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY"
     },
     {
       "added_at": null,

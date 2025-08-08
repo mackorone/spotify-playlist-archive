@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156623,
+  "num_followers": 156635,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-07-17 13:51:58",
       "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
+    },
+    {
+      "added_at": "2025-07-17 13:51:58",
+      "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
       },
@@ -364,25 +380,9 @@
           "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
         }
       ],
-      "duration_ms": 212471,
+      "duration_ms": 212472,
       "name": "Stolt (feat. Lamin)",
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
-    },
-    {
-      "added_at": "2025-07-17 13:51:58",
-      "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
     },
     {
       "added_at": "2025-07-17 13:51:58",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-07-17 13:51:58",
       "album": {
+        "name": "Rockabye (Acoustic)",
+        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2025-07-17 13:51:58",
+      "album": {
         "name": "Lifetimes Away (feat. Medina)",
         "url": "https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 185769,
       "name": "Lifetimes Away (feat. Medina)",
       "url": "https://open.spotify.com/track/6Zf2SH9afl9PguEbAbDWh0"
-    },
-    {
-      "added_at": "2025-07-17 13:51:58",
-      "album": {
-        "name": "Rockabye (Acoustic)",
-        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
     },
     {
       "added_at": "2025-07-17 13:51:58",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-07-17 13:51:58",
       "album": {
-        "name": "P\u00e6n",
-        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
-      },
-      "artists": [
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        }
-      ],
-      "duration_ms": 190300,
-      "name": "P\u00e6n",
-      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
-    },
-    {
-      "added_at": "2025-07-17 13:51:58",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "added_at": "2025-07-17 13:51:58",
+      "album": {
+        "name": "P\u00e6n",
+        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "duration_ms": 190300,
+      "name": "P\u00e6n",
+      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
     },
     {
       "added_at": "2025-07-17 13:51:58",

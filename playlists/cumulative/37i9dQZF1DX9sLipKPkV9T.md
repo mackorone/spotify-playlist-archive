@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר:נועה קירל
 
-408 songs - 21 hr 28 min
+411 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 | 2024-10-03 | 2024-12-20 |
 | [אאוץ׳](https://open.spotify.com/track/2KKlrvnn1k8A76i6iV2pDf) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [אאוץ׳](https://open.spotify.com/album/5uzycdIT0RJKSzC6VcsM82) | 2:48 | 2025-07-31 |  |
 | [אבא](https://open.spotify.com/track/37bJZ0107lcjV8zcfCzQ5g) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [מיכל, שיווי משקל סופי, אבא](https://open.spotify.com/album/0bPKwV5TqDWxjshMW5fhuP) | 4:48 | 2024-09-05 | 2024-09-20 |
+| [אבא לא ישאיר אותי לבד](https://open.spotify.com/track/4g8QLZzFAEGSEsDXfLx1ux) | [ים רפאלי](https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6) | [אבא לא ישאיר אותי לבד](https://open.spotify.com/album/5pRKwmahpFd2JV0TqR0hGL) | 3:10 | 2025-08-07 |  |
 | [אבא תציל אותי](https://open.spotify.com/track/0Ld99iorPgMTRE2BTecOGq) | [Sheer Zuares](https://open.spotify.com/artist/6A7zj7m35jN7X2u49Sy52r) | [שיר](https://open.spotify.com/album/1jyTuoysCelRU9I9AAIF5v) | 2:49 | 2025-07-10 |  |
 | [אבודה](https://open.spotify.com/track/17iWC76G2mmiCnQOftlVfU) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [עכשיו טוב](https://open.spotify.com/album/3WEszgaQcibMYuoOA1WUQs) | 2:32 | 2024-09-12 | 2024-10-04 |
 | [אביר על סוס לבן](https://open.spotify.com/track/0toCWhgNVjP78F7jyEJwNO) | [Roni Duani](https://open.spotify.com/artist/3CHmL2qgsbMnGhBD2zYkTA) | [אביר על סוס לבן](https://open.spotify.com/album/0VdQt3cuJoLkOAK6vlS4Bh) | 3:51 | 2025-02-20 | 2025-03-07 |
@@ -275,6 +276,7 @@
 | [מגיע לי טוב](https://open.spotify.com/track/6CgE9OJePwGjJLJ28KkPC8) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [מגיע לי טוב](https://open.spotify.com/album/2pL0SYSzmz76dTUAJcErLb) | 3:29 | 2025-07-10 |  |
 | [מדאם](https://open.spotify.com/track/02mgxr6NgCwAVtuLtttDUB) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מדאם](https://open.spotify.com/album/5XAJsNI2bquG7mLwCRZXku) | 2:52 | 2025-02-20 | 2025-05-09 |
 | [מדינה בסחרחורת](https://open.spotify.com/track/2qO1eyzeznRafYFtWoZrWs) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מדינה בסחרחורת](https://open.spotify.com/album/5rNJeLMEVkmKXOfqzE377N) | 2:44 | 2024-12-05 | 2025-02-28 |
+| [מדמואזל](https://open.spotify.com/track/3lFRDa7pMB4QkNyJf3puIM) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [מדמואזל](https://open.spotify.com/album/6INpy0I6W38AYOdVFgOqU7) | 3:24 | 2025-08-07 |  |
 | [מה איתי](https://open.spotify.com/track/5P0TEXbPP0DH8eGIpPZuMr) | [יובל גיגי](https://open.spotify.com/artist/0j70gicTuBTgxwBF5fIbsm), [Machluf](https://open.spotify.com/artist/5wNBrjLAKzifQCBXzrH73c) | [מה איתי](https://open.spotify.com/album/5HAhIuTbrCOcVbEOTx2VRc) | 2:54 | 2025-03-13 | 2025-03-28 |
 | [מה היינו בחיינו](https://open.spotify.com/track/54uOGHUgbGIVhTWgR16yzM) | [Elai Botner](https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0), [עדן גולן](https://open.spotify.com/artist/6eDOCG0Lv1VichgzqRYF2b) | [מה היינו בחיינו](https://open.spotify.com/album/0kC0sxvu6dcPoDieuIMAQb) | 3:25 | 2024-10-03 | 2025-03-21 |
 | [מה זה משנה בכלל](https://open.spotify.com/track/3lJoMUaYVTe8nMky0vjGGx) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [תמר ריילי](https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i) | [מה זה משנה בכלל](https://open.spotify.com/album/1bKMXpyVk01at2GStax6Xf) | 2:45 | 2025-05-29 | 2025-06-13 |
@@ -335,6 +337,7 @@
 | [סופרסטאר](https://open.spotify.com/track/6KbB0J1i6BnicY11kPMCUb) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC) | [סופרסטאר](https://open.spotify.com/album/2PIm0frsej1MxfES2M3rhH) | 2:24 | 2024-11-21 | 2025-02-14 |
 | [סורי](https://open.spotify.com/track/2zlmnlpI2DKSvKAV9tITaA) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [סורי](https://open.spotify.com/album/3V8jNlMHrAFvWCoByUfM1b) | 2:41 | 2025-03-06 | 2025-06-06 |
 | [סיבה להמשיך](https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [סיבה להמשיך](https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR) | 2:59 | 2025-01-30 | 2025-02-28 |
+| [סיגליה](https://open.spotify.com/track/5DHTJaHXTpBLkWXFoqcCU9) | [Arkadi Duchin](https://open.spotify.com/artist/2BXgz17FVSKfMin4uJDtYM) | [סיגליה](https://open.spotify.com/album/2FqhjCGQgxCgYqqhTHTF9i) | 3:04 | 2025-08-07 |  |
 | [סימנים מלמעלה](https://open.spotify.com/track/09pchIRVARhn5CncJ0ovH1) | [Amit Ben David](https://open.spotify.com/artist/63Xvb8GwHgWBzX2f8rSQab) | [סימנים מלמעלה](https://open.spotify.com/album/1LQM5QiA2jDUmOb8MoCLAo) | 2:18 | 2024-10-24 | 2025-01-10 |
 | [סליחה](https://open.spotify.com/track/3bNMJufCrUTvulgd5XhUKs) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [סליחה](https://open.spotify.com/album/7fDRe1qM9w0Dq7UyDgu4C8) | 3:45 | 2025-04-17 |  |
 | [עד הבוקר](https://open.spotify.com/track/339GBYEOWP8nzQS2j4tCzM) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [עד הבוקר](https://open.spotify.com/album/3kdCXYlDNRclb6C0jSYC1q) | 2:46 | 2025-04-24 |  |

@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯
 
-960 songs - 1 day 21 hr 36 min
+961 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [Tenho Nyman](https://open.spotify.com/track/1m9tFmJjK0aQwLiNIt2ILr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Tenho Nyman](https://open.spotify.com/album/4qiLDY4RkJvsmGGJ4bqwKf) | 2:46 | 2023-09-28 | 2023-10-13 |
 | [Tequila](https://open.spotify.com/track/4RcBdmcjMn7qv0BeVfW8ys) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Tequila](https://open.spotify.com/album/5dqIVgDv4K2MWPO7J5InuC) | 3:06 | 2023-10-26 | 2023-12-01 |
 | [Tequila](https://open.spotify.com/track/0TL45dMNFQa5sCO0q2cPz2) | [Maxito](https://open.spotify.com/artist/5YYne5IGDTnUT831qLJy52) | [Tequila](https://open.spotify.com/album/19YQpgHIhBPixVc0wJB8Lw) | 2:39 | 2024-06-13 | 2024-07-13 |
+| [Terapia](https://open.spotify.com/track/0dnLTX7Dz7iFRRR6DkLAjp) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [BLOCKFEST PACK](https://open.spotify.com/album/7pNPSHlTSF8JN4hNwXjOVt) | 3:36 | 2025-08-07 |  |
 | [Terävät Reunat](https://open.spotify.com/track/5vHssHUUs8M7Ko8tla3OSk) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Terävät Reunat](https://open.spotify.com/album/6AqaPsYjOmZQzbpOIHhwTK) | 2:34 | 2023-10-19 | 2023-10-27 |
 | [Therapy Session VII: Compass](https://open.spotify.com/track/13FtDnR1W6DOG5ZtxJ8nKu) | [Redrama](https://open.spotify.com/artist/3qy9C549vuJzgevoM0ZiRA) | [Therapy Sessions](https://open.spotify.com/album/4hWNyUPUMIuLzUnZiPiLmp) | 3:02 | 2024-12-12 | 2025-01-03 |
 | [Tiili \(feat\. Tiia Karoliina\)](https://open.spotify.com/track/5MlNHXGamrGI2imfJ1YiUO) | [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR), [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Tiili \(feat\. Tiia Karoliina\)](https://open.spotify.com/album/790ohveM0lFEUa8CypSBp8) | 3:18 | 2025-07-10 |  |

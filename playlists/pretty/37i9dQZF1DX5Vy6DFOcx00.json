@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 4176906,
+  "num_followers": 4177252,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGD5N9ntkpXDKf9Jk3rr82d1An4E",
+  "snapshot_id": "AAAAACRIoHsH9J//1DUUCNzKtW5OTucD",
   "tracks": [
     {
       "added_at": "2025-07-29 04:29:01",
@@ -55,6 +55,26 @@
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+    },
+    {
+      "added_at": "2025-08-07 21:01:10",
+      "album": {
+        "name": "Ordinary (feat. Luke Combs) - Live from Lollapalooza",
+        "url": "https://open.spotify.com/album/4BvfHYlT6FmsyneFr18aL4"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 205467,
+      "name": "Ordinary (feat. Luke Combs) - Live from Lollapalooza",
+      "url": "https://open.spotify.com/track/544MbvxR6BADypONwJlZAp"
     },
     {
       "added_at": "2025-05-27 15:47:05",
@@ -135,22 +155,6 @@
       "duration_ms": 164000,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
-    },
-    {
-      "added_at": "2025-07-18 04:00:23",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
       "added_at": "2025-06-30 14:39:16",

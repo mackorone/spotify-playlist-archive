@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Chappell Roan, Demi Lovato, Rema and more!
+> Brand new music from Glass Animals, Ed Sheeran, Ethel Cain and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,719 likes - 123 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,778 likes - 123 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 122 | [Inertia](https://open.spotify.com/track/5fwkOVS9aU4rHBHuB1ESIX) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Inertia](https://open.spotify.com/album/7EHQGHIXaI9ubQz3NBeomY) | 3:01 |
 | 123 | [Stonehenge \(with Elton John\)](https://open.spotify.com/track/1atxmCIxBlFk4qhlbBXG4g) | [Spinal Tap](https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Stonehenge \(with Elton John\)](https://open.spotify.com/album/1fPevorC3HgRtG3QA3xHpZ) | 4:34 |
 
-Snapshot ID: `AAAAAEIYZ/oIqorQ7JEZ5/+r5bxqWE8k`
+Snapshot ID: `AAAAAIkKNE8Unv6MvsusCeWGYdbeC+oT`

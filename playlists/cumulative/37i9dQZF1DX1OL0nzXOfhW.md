@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Gordon Flanders
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  risy
 
 267 songs - 15 hr 32 min
 

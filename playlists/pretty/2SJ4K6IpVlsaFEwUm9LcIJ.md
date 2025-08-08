@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,188 likes - 45 songs - 3 hr 2 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,189 likes - 47 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,19 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [West Of Samoa](https://open.spotify.com/track/6UtAZWcMKQdehuKLql1Xh8) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ) | [Steel Guitar](https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7) | 2:33 |
 | 32 | [Real Thing](https://open.spotify.com/track/70oLoBhpHsNEDVLsMDlheU) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:18 |
 | 33 | [Louisiana](https://open.spotify.com/track/7dvpMd2PhxFzlpyp8Ru308) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 4:11 |
-| 34 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 |
-| 35 | [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 |
-| 36 | [Knuddelmaus \- 2019 remaster](https://open.spotify.com/track/6lfCe9qLRwRmPwa01F8wDK) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 7:03 |
-| 37 | [Almost Sleeping \- Edit](https://open.spotify.com/track/0wmL7X2D8eUb99yNFjdqgs) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Almost Sleeping](https://open.spotify.com/album/6MQmfI8qfBUgtk9t16unvy) | 3:48 |
-| 38 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
-| 39 | [Minute papillon](https://open.spotify.com/track/6h9DpgttzIscg0VXEnyUUx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 3:50 |
-| 40 | [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 |
-| 41 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 |
-| 42 | [Non\-Fiction](https://open.spotify.com/track/7dDauLlNTGu5I1PHBcrhFe) | [Piano Magic](https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt) | [Seasonally Affective, A Piano Magic Retrospective 1996\-2000: Disc 1](https://open.spotify.com/album/5DITMuAXKBK4CdWWMPFQ6L) | 3:47 |
-| 43 | [tailspin](https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs), [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 3:38 |
-| 44 | [Everglade](https://open.spotify.com/track/5ReNkBEft2t7iEzTx2GHBx) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Birds On The Playground](https://open.spotify.com/album/1cz6AMoMZX5QnyoZk0qcCJ) | 4:15 |
-| 45 | [White Hop](https://open.spotify.com/track/335x3VZtXVQGcDoWEjZwt5) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Rocksteady Reverie](https://open.spotify.com/album/4Vg0XOP6lgwtONH1w991qP) | 3:39 |
+| 34 | [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 |
+| 35 | [Knuddelmaus \- 2019 remaster](https://open.spotify.com/track/6lfCe9qLRwRmPwa01F8wDK) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 7:03 |
+| 36 | [Almost Sleeping \- Edit](https://open.spotify.com/track/0wmL7X2D8eUb99yNFjdqgs) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Almost Sleeping](https://open.spotify.com/album/6MQmfI8qfBUgtk9t16unvy) | 3:48 |
+| 37 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
+| 38 | [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 |
+| 39 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 |
+| 40 | [Non\-Fiction](https://open.spotify.com/track/7dDauLlNTGu5I1PHBcrhFe) | [Piano Magic](https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt) | [Seasonally Affective, A Piano Magic Retrospective 1996\-2000: Disc 1](https://open.spotify.com/album/5DITMuAXKBK4CdWWMPFQ6L) | 3:47 |
+| 41 | [tailspin](https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs), [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 3:38 |
+| 42 | [Everglade](https://open.spotify.com/track/5ReNkBEft2t7iEzTx2GHBx) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Birds On The Playground](https://open.spotify.com/album/1cz6AMoMZX5QnyoZk0qcCJ) | 4:15 |
+| 43 | [White Hop](https://open.spotify.com/track/335x3VZtXVQGcDoWEjZwt5) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Rocksteady Reverie](https://open.spotify.com/album/4Vg0XOP6lgwtONH1w991qP) | 3:39 |
+| 44 | [Sky Cradle](https://open.spotify.com/track/1DEY4azg7UJlRT23ZXHhMk) | [Miroque](https://open.spotify.com/artist/6nbZE9FzJUoZFTxJbn36yw) | [Botanical Sunset \(original\)](https://open.spotify.com/album/2iVEkdU5v4gNnbtn3aCJzC) | 4:20 |
+| 45 | [Daybreak](https://open.spotify.com/track/2PAjjwVX1lIPsDLo04UrjH) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Three Chord Trick](https://open.spotify.com/album/3mjzDTUEi3sABdt3Wb4udC) | 2:48 |
+| 46 | [Threads of Soul](https://open.spotify.com/track/0oM7egZ2SwvjXeXs1mbCPh) | [Nagisa Ni Te](https://open.spotify.com/artist/2p8trEjUiEIXGKbT5n41C1) | [The Same As A Flower](https://open.spotify.com/album/140XeX1MjYRdex0dfe5mSS) | 4:50 |
+| 47 | [happy](https://open.spotify.com/track/0GUTqJbl8V0CUL6rmAfK2H) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Happy](https://open.spotify.com/album/1Bnk68HL9uJ7sJFeGW9LQv) | 8:05 |
 
-Snapshot ID: `AAAM405giT659zJMAFr6ZMWWdZ6eamL4`
+Snapshot ID: `AAAM6eiCJJ8wZzIYY3i39DkZN3qY264Z`

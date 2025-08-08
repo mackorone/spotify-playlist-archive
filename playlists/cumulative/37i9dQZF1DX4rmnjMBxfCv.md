@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: SHAF
 
-273 songs - 18 hr 3 min
+274 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2024-01-26 | 2025-03-01 |
 | [Khabar Abyad](https://open.spotify.com/track/6vxEDjzH2OU938m3muhQ1p) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:51 | 2025-07-03 |  |
 | [Khalawto](https://open.spotify.com/track/0jVFS5HEOtonqqSkm5MGjr) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Houssain Haidar](https://open.spotify.com/artist/4Js1SrrLDWhA5DlXtlcn22) | [Khalawto](https://open.spotify.com/album/7Br2U54Rk7jGJx41KwOPQU) | 3:36 | 2025-02-28 |  |
-| [Khalouni Neich](https://open.spotify.com/track/5uFOWK3FXZvTIly8mJ8dD1) | [Yusuf Ekşioğlu](https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv) | [Khalouni Neich](https://open.spotify.com/album/6zdnyNbfeUTqOxPXjk2C1K) | 3:12 | 2024-03-04 |  |
+| [Khalouni Neich](https://open.spotify.com/track/5uFOWK3FXZvTIly8mJ8dD1) | [Yusuf Ekşioğlu](https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv) | [Khalouni Neich](https://open.spotify.com/album/6zdnyNbfeUTqOxPXjk2C1K) | 3:12 | 2024-03-04 | 2025-08-08 |
 | [Khidni Habibi](https://open.spotify.com/track/2k2vv7Pvl2gYfHkdVRnHZl) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Maher Salame](https://open.spotify.com/artist/2E82x2YXapSBHgdoxplfdP), [Rana Saab](https://open.spotify.com/artist/6ZErECsxugfPTnmJwIbEgA) | [Khidni Habibi](https://open.spotify.com/album/5MSHUA4LGMP1vzGUUjfT22) | 4:52 | 2022-03-30 | 2022-11-26 |
 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 | 2023-06-23 | 2023-08-17 |
 | [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2023-03-01 | 2024-04-22 |
@@ -147,6 +147,7 @@
 | [Lamouni](https://open.spotify.com/track/64MF9Kii2EhxNr6pm3kkvm) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Lamouni](https://open.spotify.com/album/7z5CP8s91o8O6YXvM4qS3p) | 3:11 | 2023-02-01 | 2023-06-24 |
 | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x) | 2:53 | 2023-09-01 | 2024-09-08 |
 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 | 2024-04-21 | 2024-06-07 |
+| [Law Kan](https://open.spotify.com/track/33tBBo5e8HRqor0EnnXfF8) | [Ibrahim Najada](https://open.spotify.com/artist/0oHkjuDMeDLoh3P4Q1iokm), [Ahmad Farah](https://open.spotify.com/artist/36O893zlNc0heuMSZ1VCQB) | [Law Kan](https://open.spotify.com/album/4BADH5TYKFeJPOXv0Ygtyi) | 5:30 | 2025-08-07 |  |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-08-29 | 2024-07-05 |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2023-12-28 | 2025-05-16 |
 | [Legion](https://open.spotify.com/track/3sYEZWuW8WcX8zojJchUEc) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Love Therapy \(Deluxe\)](https://open.spotify.com/album/4ZGDnQrN4T6TU4KT03tnF4) | 3:40 | 2024-04-21 | 2025-06-20 |

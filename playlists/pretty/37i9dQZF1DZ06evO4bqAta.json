@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 579755,
+  "num_followers": 579837,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACiZHK8rrxTQt+vAaatzvf4",
+  "snapshot_id": "aJKbAAAAAABb9El2r/i8zXLLCHiQhh5q",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Secret Of Life: Partners, Volume 2",
+        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 232751,
+      "name": "The Very Thought Of You (with Bob Dylan)",
+      "url": "https://open.spotify.com/track/11D9S73itV15ZGvlaCIL0L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Morning",
         "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 203506,
       "name": "Buckets of Rain",
       "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Secret Of Life: Partners, Volume 2",
-        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 232751,
-      "name": "The Very Thought Of You (with Bob Dylan)",
-      "url": "https://open.spotify.com/track/11D9S73itV15ZGvlaCIL0L"
     },
     {
       "added_at": null,

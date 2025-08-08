@@ -2,7 +2,7 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. cody frost
+> welcome to our universe ft\. monster florence
 
 1,170 songs - 2 day 9 hr 20 min
 

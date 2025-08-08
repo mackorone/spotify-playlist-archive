@@ -1,13 +1,37 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 285768,
+  "num_followers": 285722,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIZxdVU/PShbJumJCAaAax+SspdKu8",
+  "snapshot_id": "AAAIaPa78JSzeWU4AeUe5VrICA3CcWa/",
   "tracks": [
+    {
+      "added_at": "2025-08-07 22:08:54",
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Libby Whitehouse",
+          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
+        }
+      ],
+      "duration_ms": 180422,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62"
+    },
     {
       "added_at": "2025-07-25 09:30:30",
       "album": {

@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-999 songs - 2 day 8 hr 18 min
+1,000 songs - 2 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Hurts \(feat\. Louis The Child & Whethan\)](https://open.spotify.com/track/30Z12rJpW0M0u8HMFpigTB) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Hurts \(feat\. Louis The Child & Whethan\)](https://open.spotify.com/album/3xte1n53BcjUBxr8BBHdHq) | 3:20 | 2021-03-22 | 2022-04-09 |
 | [I Belong Here](https://open.spotify.com/track/7AqWd1WJxS1FgKMb4vyL3O) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [I Belong Here](https://open.spotify.com/album/3thG6wIBO35TJc1tuanUPR) | 3:53 | 2021-02-26 | 2022-04-21 |
 | [I Can’t Get Enough \(benny blanco, Selena Gomez, J Balvin, Tainy\)](https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [I Can’t Get Enough \(benny blanco, Selena Gomez, J Balvin, Tainy\)](https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy) | 2:38 | 2019-07-30 | 2021-03-17 |
+| [I Can’t Lose](https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Can't Lose](https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ) | 3:03 | 2025-07-22 |  |
 | [I Choose \- From The Netflix Original Film "The Willoughbys"](https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [I Choose \(From The Netflix Original Film The Willoughbys\)](https://open.spotify.com/album/6k4ugOvti66x6xvnQpYSj7) | 3:37 | 2020-04-28 | 2022-04-19 |
 | [I Chose Good](https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [I Chose Good](https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS) | 2:43 | 2023-08-17 | 2024-09-03 |
 | [I Could Love U](https://open.spotify.com/track/7CtzUcqgOnJF722PJ2Yf88) | [Logan Priest](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [I Could Love U](https://open.spotify.com/album/74pxu890q1Fi8cChdbBXSx) | 3:18 | 2025-04-01 | 2025-05-08 |
@@ -623,7 +624,7 @@
 | [No Other High](https://open.spotify.com/track/1wWzywDn8s4yOi7Nwo7DEd) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Visions](https://open.spotify.com/album/2mB7TffgfeJx5ROgKqImq7) | 4:37 | 2019-10-25 | 2019-10-26 |
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2021-10-20 | 2022-07-26 |
 | [no tears left to cry](https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [no tears left to cry](https://open.spotify.com/album/2AkKk7DFnT2IV1gPcq7RCQ) | 3:25 | 2019-08-09 | 2019-08-10 |
-| [No Time To Talk](https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [No Time To Talk](https://open.spotify.com/album/26V9XJc6hx2hOkNHs1zclk) | 2:35 | 2025-06-26 |  |
+| [No Time To Talk](https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [No Time To Talk](https://open.spotify.com/album/26V9XJc6hx2hOkNHs1zclk) | 2:35 | 2025-06-26 | 2025-08-08 |
 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 | 2019-08-10 | 2022-04-13 |
 | [Nobody Like You \(with Vera Blue\)](https://open.spotify.com/track/6ZGO8DVU5ZrpEAzNjTO0Kc) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Nobody Like You \(with Vera Blue\)](https://open.spotify.com/album/5yeQTgXN5oPf4QkHLINNct) | 2:56 | 2020-06-12 | 2022-04-13 |
 | [Not About You](https://open.spotify.com/track/3z9vFcaMAFQy17E8o2A9wR) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Not About You](https://open.spotify.com/album/42PTADHUjVaCyLb7ig8MXc) | 3:10 | 2019-08-06 | 2019-10-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 34807,
+  "num_followers": 34820,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-07-28 15:48:57",
       "album": {
-        "name": "Wasted Love",
-        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
-      },
-      "artists": [
-        {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
-        }
-      ],
-      "duration_ms": 164998,
-      "name": "Wasted Love",
-      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
-    },
-    {
-      "added_at": "2025-07-28 15:48:57",
-      "album": {
         "name": "Tweaker",
         "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 189544,
       "name": "Tweaker",
       "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
+    },
+    {
+      "added_at": "2025-07-28 15:48:57",
+      "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+        }
+      ],
+      "duration_ms": 164998,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
     },
     {
       "added_at": "2025-07-28 15:48:57",
@@ -1807,18 +1807,26 @@
     {
       "added_at": "2025-07-28 15:48:57",
       "album": {
-        "name": "Spania",
-        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+        "name": "A\u0219a Ceva",
+        "url": "https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7"
       },
       "artists": [
         {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
         }
       ],
-      "duration_ms": 159194,
-      "name": "Spania",
-      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
+      "duration_ms": 204705,
+      "name": "A\u0219a Ceva",
+      "url": "https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

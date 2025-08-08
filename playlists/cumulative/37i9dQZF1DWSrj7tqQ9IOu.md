@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : TheFrenchKris
+> The best French indie tracks right now\. Cover : Mattyeux, Videoclub
 
-676 songs - 1 day 12 hr 30 min
+677 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aidono](https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Aidono](https://open.spotify.com/album/5bYpJJqFRDseDSQ0z4vI0T) | 3:50 | 2022-11-10 | 2023-01-20 |
 | [All Along \(Tout ce que tu veux\)](https://open.spotify.com/track/6uTcNVzvzHythOZ2BKsBiR) | [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All Along \(Tout ce que tu veux\)](https://open.spotify.com/album/602ktSRBGVxn3wkZ7WjwAF) | 3:07 | 2025-07-31 |  |
 | [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 | 2023-12-14 | 2024-01-26 |
+| [All You Do Is Pain](https://open.spotify.com/track/76HPpgOvq5i6IUS7WkcTap) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [All You Do Is Pain](https://open.spotify.com/album/2VYiQsu1pPeJwqXYl7aJzr) | 3:43 | 2025-08-07 |  |
 | [Allo réseau \- Edit](https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Allo réseau \(Edit\)](https://open.spotify.com/album/5QwhFSw4107w2onum379QT) | 3:05 | 2021-12-16 | 2022-04-22 |
 | [Alma](https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Alma](https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he) | 3:40 | 2022-04-07 | 2022-10-14 |
 | [Alouette](https://open.spotify.com/track/0i6kcTouGjrDOmQVOEyLYj) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Alouette](https://open.spotify.com/album/5AdLMmqU79aNYpzZjvAgYS) | 3:24 | 2024-11-07 | 2025-02-07 |
@@ -668,7 +669,7 @@
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-09-29 | 2023-08-25 |
 | [Yellow Car](https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU) | [Toro](https://open.spotify.com/artist/3Ikp2uBBjxkYHJpblUDDRN), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [Yellow](https://open.spotify.com/album/3aXfZfgLhJ7joTa7nJwY4q) | 3:15 | 2022-06-09 | 2022-07-01 |
 | [Yeux Mouillés](https://open.spotify.com/track/0YYwIhNaJbBwwvifbjZwck) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Yeux Mouillés](https://open.spotify.com/album/7r2nGFND4HHvz0a9Ku2ayi) | 3:11 | 2024-10-10 | 2025-03-28 |
-| [YOU](https://open.spotify.com/track/2Gau4oIYKr8ZHQhbx02Q6c) | [Hugo Santini](https://open.spotify.com/artist/3FgHSMFtAZLDFlx438W3Hn) | [YOU](https://open.spotify.com/album/3ztmbTWLXlWgOwPwm2xjYB) | 2:40 | 2025-07-24 |  |
+| [YOU](https://open.spotify.com/track/2Gau4oIYKr8ZHQhbx02Q6c) | [Hugo Santini](https://open.spotify.com/artist/3FgHSMFtAZLDFlx438W3Hn) | [YOU](https://open.spotify.com/album/3ztmbTWLXlWgOwPwm2xjYB) | 2:40 | 2025-07-24 | 2025-08-08 |
 | [You Make Me Feel So Good](https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [You Make Me Feel So Good](https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq) | 3:37 | 2023-03-23 | 2023-06-02 |
 | [Young Kids](https://open.spotify.com/track/0fyOhR6FmhkaXceDMiag2y) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Young Kids](https://open.spotify.com/album/2AANQcIilnuNTZoKlMMPKi) | 2:20 | 2025-05-01 | 2025-07-25 |
 | [Your Type](https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Your Type](https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3) | 4:01 | 2022-07-07 | 2023-01-13 |

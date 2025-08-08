@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601 likes - 270 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602 likes - 270 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 144 | [No Filter](https://open.spotify.com/track/4kGKvPLGQXn4X8gWm35cSn) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:50 |
 | 145 | [CAUTIOUS \(feat\. Tay Keith\)](https://open.spotify.com/track/1M7uameaPY3xlxMde3WLFl) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Gutta Baby](https://open.spotify.com/album/2sGx2Tx6PtiBlC7LGO8qNz) | 2:42 |
 | 146 | [They Madd](https://open.spotify.com/track/4q3q8GiRSa1rKBCdwwsSHc) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:09 |
-| 147 | [Rush Hour](https://open.spotify.com/track/1Gs1Jd3UXixFgZ3NncoiYQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:01 |
-| 148 | [Watch Da Throne](https://open.spotify.com/track/4W87HdUCaPD4ZRjkLI228v) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:36 |
+| 147 | [Watch Da Throne](https://open.spotify.com/track/4W87HdUCaPD4ZRjkLI228v) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli](https://open.spotify.com/album/6pvCEOgB3oLiDiAhKs0vA6) | 2:36 |
+| 148 | [Rush Hour](https://open.spotify.com/track/1Gs1Jd3UXixFgZ3NncoiYQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:01 |
 | 149 | [Ya Bih](https://open.spotify.com/track/1sKn4AQNdddMINS7I0A6Tl) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:37 |
 | 150 | [Not Too Many](https://open.spotify.com/track/6lU7MhNXxqqAMH2pa9MJDX) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 2:56 |
 | 151 | [TaKe oNe](https://open.spotify.com/track/1r1CbOrfAaiYQiDfk7lssT) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:22 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 269 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 270 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `Ab4zngAAAADW0UiCOj17Zk8m0ix5Y4Fs`
+Snapshot ID: `Ab45XAAAAAAKjVNKKFHMeip5mmeYW7WO`

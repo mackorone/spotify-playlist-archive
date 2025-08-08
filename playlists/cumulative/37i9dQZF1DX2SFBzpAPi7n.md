@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: HANRORO\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,008 songs - 2 day 13 hr 32 min
+1,009 songs - 2 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [I Need Somebody](https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:38 | 2023-06-13 | 2024-03-21 |
 | [I need you\. Period.](https://open.spotify.com/track/15VRd7FjAd5PVfNp4PRCVR) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [I need you\. Period.](https://open.spotify.com/album/5G1OAVXCe8zYd3Ola0Sfdj) | 3:03 | 2022-04-12 | 2022-07-28 |
 | [I said I luv you \(feat\. Tmlm\)](https://open.spotify.com/track/16YzPu7PyTiHUzvABCklIy) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [Tmlm](https://open.spotify.com/artist/7rsw8mF7bN04zh6tLCfREA) | [I said I luv you \(feat\. Tmlm\)](https://open.spotify.com/album/0Vr115jnmk6xrPiIkLQSlP) | 3:03 | 2022-11-09 | 2022-12-13 |
-| [I want to know](https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Law and The City, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst) | 3:32 | 2025-08-06 |  |
+| [I want to know](https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Law and The City, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst) | 3:32 | 2025-08-06 | 2025-08-08 |
 | [I Will Fly](https://open.spotify.com/track/11BkRBYgserEx7OGMTq8fh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Will Fly](https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV) | 5:09 | 2022-06-18 | 2022-07-14 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2022-04-12 | 2022-07-17 |
 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 | 2023-01-10 | 2023-01-26 |
@@ -736,6 +736,7 @@
 | [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-13 | 2025-02-12 |
 | [sensitive flower](https://open.spotify.com/track/5mAir6o7gS8l66Bojwnxkx) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [sensitive flower](https://open.spotify.com/album/7jIBfI4yc5Lk86pnARbF2J) | 3:52 | 2022-04-22 | 2022-04-29 |
 | [SEOUL GIRL ♪ \(feat\. Lee Sung woo\)](https://open.spotify.com/track/5Nl1GOCTsOvGUKYW0DiA8Y) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Lee Sung Woo](https://open.spotify.com/artist/3nqqXiolhMec9F0aC9Bh5J) | [SEOUL GIRL ♪](https://open.spotify.com/album/63Xonf4RTjx10J1t6KhjCh) | 3:07 | 2024-04-30 | 2024-05-10 |
+| [Serenade Blue](https://open.spotify.com/track/0wfmq23ZBILF7kFDahpuTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Serenade Blue](https://open.spotify.com/album/2ZfGqm9pflkoHNlZolUgaw) | 4:35 | 2025-08-08 |  |
 | [Sewer](https://open.spotify.com/track/5GRNf3MJ6uXAIwCapVMAJW) | [Seoyul](https://open.spotify.com/artist/38JkWE7udt33BlClPEOU6Z) | [Sewer](https://open.spotify.com/album/7tcEK9skePgz09OySRCAUL) | 4:02 | 2024-11-06 | 2024-11-30 |
 | [Shame On You](https://open.spotify.com/track/48bL0ze0DotIcUS2rQuEyS) | [DOCHI](https://open.spotify.com/artist/71fBNalGQfpvEttt414EIV) | [Shame On You](https://open.spotify.com/album/2SGMfisblO95lG7rMywqz0) | 3:09 | 2022-08-12 | 2022-08-19 |
 | [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2022-04-22 | 2023-12-05 |

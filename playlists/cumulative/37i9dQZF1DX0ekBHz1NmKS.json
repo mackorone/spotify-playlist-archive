@@ -439,6 +439,28 @@
     },
     {
       "album": {
+        "name": "500 kr",
+        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
+      },
+      "artists": [
+        {
+          "name": "I$AK",
+          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "500 kr",
+      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
+    },
+    {
+      "album": {
         "name": "5656",
         "url": "https://open.spotify.com/album/5pcRjUDq57OcWVKf52OGyI"
       },
@@ -7994,6 +8016,28 @@
       "duration_ms": 164678,
       "name": "D\u00f6r F\u00f6r Er Skull",
       "url": "https://open.spotify.com/track/6DLyHZGcyIeGPCzzTnB1o4"
+    },
+    {
+      "album": {
+        "name": "D\u00f6r jag nu d\u00f6r jag i himlen",
+        "url": "https://open.spotify.com/album/50JjvZdAIZgqVhOeOx5RUQ"
+      },
+      "artists": [
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        },
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131863,
+      "name": "D\u00f6r jag nu d\u00f6r jag i himlen (feat. Theo)",
+      "url": "https://open.spotify.com/track/56XBpacea8eJRZzvUWKgld"
     },
     {
       "album": {
@@ -20370,7 +20414,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 171467,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/7EOFRODQyV3kqx0zbVKEQG"
@@ -24702,7 +24746,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 158696,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
@@ -25226,6 +25270,24 @@
       "duration_ms": 233000,
       "name": "Regn",
       "url": "https://open.spotify.com/track/4iDTjX0zb7QSAJJX8F8q98"
+    },
+    {
+      "album": {
+        "name": "Regn \u00f6ver Zinken",
+        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "Regn \u00f6ver Zinken",
+      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
     },
     {
       "album": {
@@ -31930,7 +31992,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 159346,
       "name": "TJEJER",
       "url": "https://open.spotify.com/track/6isVFpT1VCaABMl3tOvvVg"
@@ -34055,6 +34117,24 @@
     },
     {
       "album": {
+        "name": "Vill du ha mig?",
+        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Vill du ha mig?",
+      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
+    },
+    {
+      "album": {
         "name": "Vill Ha Dig",
         "url": "https://open.spotify.com/album/18ptVEEe7WJF7q8rbIoTKV"
       },
@@ -35778,7 +35858,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 145674,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/5HUZUWq22164INQ0CXnEBu"

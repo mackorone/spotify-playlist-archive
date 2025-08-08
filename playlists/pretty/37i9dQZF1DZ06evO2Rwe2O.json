@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADhaXo+HeLJ0JMAKDKH2ZgR",
+  "snapshot_id": "aJKbAAAAAABcyFZsoK4Nqkm/yzgGjDUe",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 268018,
+      "name": "Your Love Changes Everything",
+      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Utmost For His Highest",
         "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 283952,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 268018,
-      "name": "Your Love Changes Everything",
-      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
     },
     {
       "added_at": null,

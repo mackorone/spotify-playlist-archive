@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,740 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,742 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 22 | [Tutto il resto e' noia](https://open.spotify.com/track/0RbhVoxOZE8BniSgmDbaXV) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tutto Il Resto E' Noia](https://open.spotify.com/album/1tIlFQtwEMi0icuiu4uf8x) | 4:34 |
 | 23 | [A mano a mano](https://open.spotify.com/track/0x4HvQuUbXAa4bYForAK7S) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Ahi Maria 40th](https://open.spotify.com/album/1ig6PdGZl6gPbCd7N10Jcr) | 3:38 |
 | 24 | [Crêuza de mä \- New Mix 2014](https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Creuza de ma](https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ) | 6:15 |
-| 25 | [Nel blu dipinto di blu](https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Il Meglio Di Domenico Modugno](https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL) | 3:36 |
-| 26 | [Folle città](https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ](https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o) | 3:37 |
+| 25 | [Folle città](https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ](https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o) | 3:37 |
+| 26 | [Nel blu dipinto di blu](https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Il Meglio Di Domenico Modugno](https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL) | 3:36 |
 | 27 | [Un Tempo piccolo](https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Non Escludo Il Ritorno](https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk) | 4:11 |
 | 28 | [Un tempo piccolo \(feat\. Tiromancino & Ditonellapiaga\)](https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sulla riva del fiume](https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6) | 3:45 |
 | 29 | [Io Sono Francesco](https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga) | [Tricarico](https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2) | [Tricarico](https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG) | 4:07 |

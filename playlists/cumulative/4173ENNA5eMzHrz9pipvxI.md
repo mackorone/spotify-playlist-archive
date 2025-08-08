@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Pickle
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta, DJs From Mars
 
-1,808 songs - 3 day 14 hr 38 min
+1,809 songs - 3 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1609,6 +1609,7 @@
 | [There’s Nothing Else](https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [There’s Nothing Else](https://open.spotify.com/album/0xZtYRqv5nZfnBvFpZjTmi) | 3:06 | 2022-08-19 | 2022-09-03 |
 | [They Not Us](https://open.spotify.com/track/7lmyru1csct3dKD6KD8cpa) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [They Not Us](https://open.spotify.com/album/1jaBnYJ6vkb8iNIPNjetTu) | 3:24 | 2024-02-02 | 2024-02-16 |
 | [Thing Called Love](https://open.spotify.com/track/3IJOxTXxF4NmIcSeU1Xmdv) | [DEADLINE](https://open.spotify.com/artist/2EkuI6mftAAZAREUymRJqi), [Nery](https://open.spotify.com/artist/0HtRbLnldyITXXvFuvdeSE) | [Thing Called Love](https://open.spotify.com/album/0Tz6Xk2PGIutlt8KyPIOvM) | 2:20 | 2023-04-06 | 2023-04-22 |
+| [Things I Haven’t Told You](https://open.spotify.com/track/0pDVZoDOubNxgzjgTvzVQi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Things I Haven’t Told You](https://open.spotify.com/album/1BVA2ZrleGhk13DKwSIJib) | 2:36 | 2025-08-07 |  |
 | [Think It's Just Enough](https://open.spotify.com/track/5lia1eBt1OvZRFngvsga6g) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Think It's Just Enough](https://open.spotify.com/album/0EttXqOKkbEkhKwKXmUTxv) | 4:24 | 2023-05-18 | 2023-06-02 |
 | [Third Eye](https://open.spotify.com/track/4oHrX5MKS8HYU1Ioc69W48) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0), [Giovanni Cather](https://open.spotify.com/artist/1f34XA31HWCnVHBSTDYm1j) | [Third Eye](https://open.spotify.com/album/1hJtU7G6yUVhJKoWuSbbzD) | 3:42 | 2023-04-27 | 2023-05-12 |
 | [This Feeling](https://open.spotify.com/track/6pEY9lcxPhPxubxyDLVbFP) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [This Feeling](https://open.spotify.com/album/2li3eKsStWN7R71NHX5DL1) | 2:57 | 2023-09-15 | 2023-12-14 |

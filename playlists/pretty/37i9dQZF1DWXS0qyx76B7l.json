@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w"
+    },
+    {
+      "added_at": "2024-06-11 17:08:30",
+      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr"
-    },
-    {
-      "added_at": "2024-06-11 17:08:30",
-      "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w"
     },
     {
       "added_at": "2024-06-11 17:08:30",

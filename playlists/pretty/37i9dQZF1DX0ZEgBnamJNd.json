@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 51818,
+  "num_followers": 51823,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD"
     },
     {
+      "added_at": "2020-08-04 16:10:54",
+      "album": {
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Oh Well, Pt. 1 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
+    },
+    {
       "added_at": "2020-04-20 05:39:13",
       "album": {
         "name": "The Everlasting Love Affair",
@@ -971,6 +987,22 @@
       "duration_ms": 182666,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -991,38 +1023,6 @@
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
-    },
-    {
-      "added_at": "2020-08-04 16:10:54",
-      "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Oh Well, Pt. 1 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Little Green Bag",
-        "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
-      },
-      "artists": [
-        {
-          "name": "George Baker Selection",
-          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "Dear Ann",
-      "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Die Goeie Ouwe Tijd 2 - Top 100",
         "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 187320,
       "name": "Ik Heb Geen Zin Om Op Te Staan",
       "url": "https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Little Green Bag",
+        "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
+      },
+      "artists": [
+        {
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Dear Ann",
+      "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
     },
     {
       "added_at": "2020-04-20 05:39:13",

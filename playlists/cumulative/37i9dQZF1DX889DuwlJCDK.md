@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: おいしくるメロンパン
 
-1,304 songs - 3 day 6 hr 41 min
+1,305 songs - 3 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Ulysses](https://open.spotify.com/track/1RGe4zbtmmZrHfT5frRTze) | [kurage](https://open.spotify.com/artist/1B5hRzldl5G94SRgod8DeT) | [Ulysses](https://open.spotify.com/album/2Ti9Q6fU6D2UcnXnWgiUac) | 3:44 | 2025-04-08 | 2025-04-16 |
 | [umbrella](https://open.spotify.com/track/0SM0lG2v14I05Ii5zsC8pP) | [OKOJO](https://open.spotify.com/artist/1RTVAEXT1GPXtN6MQjiaXU) | [umbrella](https://open.spotify.com/album/5l22pNipsB187SzRjoL41o) | 5:43 | 2025-05-21 | 2025-05-28 |
 | [Unbalanced Blend](https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Unbalanced Blend](https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz) | 5:19 | 2024-10-08 |  |
+| [Unbound](https://open.spotify.com/track/5EbiodhQuI6g58AC43RtEu) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Unbound](https://open.spotify.com/album/5tAtAEYw3APBdGHEAfhri7) | 3:42 | 2025-08-05 |  |
 | [Universe](https://open.spotify.com/track/3z9vtg5fyno2bFy0YZPQZP) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [Virtual Homecoming](https://open.spotify.com/album/6jjkNfBQVGfDPo1rNKeFnW) | 4:02 | 2024-12-17 | 2024-12-23 |
 | [Up](https://open.spotify.com/track/6u8I0eP3J6GUF3ORCev4Um) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Up](https://open.spotify.com/album/3ZPDL5LdEkF5UmyiEaYrOu) | 3:35 | 2025-04-15 | 2025-05-29 |
 | [us?](https://open.spotify.com/track/0IIZprToKypDaUWs3nzW9Y) | [life crown](https://open.spotify.com/artist/1GucUlQZCS6eETrQwUsg6m) | [us?](https://open.spotify.com/album/5fIclmUIKvWDRK0pQyvUqd) | 3:26 | 2024-02-27 | 2024-03-06 |

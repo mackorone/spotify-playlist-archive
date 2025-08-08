@@ -11481,6 +11481,24 @@
     },
     {
       "album": {
+        "name": "In The Summer",
+        "url": "https://open.spotify.com/album/1eSE2tdGQ1y0M0vnv8CCaI"
+      },
+      "artists": [
+        {
+          "name": "aericsn",
+          "url": "https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "In The Summer",
+      "url": "https://open.spotify.com/track/7mYjGdvLLsjV9P6WvumWJv"
+    },
+    {
+      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/65O8i2ZXQAul84LaTqUmX1"
       },

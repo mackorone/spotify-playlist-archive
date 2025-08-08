@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Mariana Pereira ",
-  "num_followers": 51659,
+  "num_followers": 51664,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-07-31 23:00:13",
       "album": {
+        "name": "XVIII",
+        "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
+      },
+      "artists": [
+        {
+          "name": "Dolce",
+          "url": "https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "J\u00e1 N\u00e3o Aguento",
+      "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
+    },
+    {
+      "added_at": "2025-07-31 23:00:13",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 212200,
       "name": "Delulu (feat. Nenny & MC PH)",
       "url": "https://open.spotify.com/track/0dimwLCNAWr0iPUOJOW3vF"
-    },
-    {
-      "added_at": "2025-07-31 23:00:13",
-      "album": {
-        "name": "XVIII",
-        "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
-      },
-      "artists": [
-        {
-          "name": "Dolce",
-          "url": "https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "J\u00e1 N\u00e3o Aguento",
-      "url": "https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL"
     },
     {
       "added_at": "2025-07-31 23:00:13",

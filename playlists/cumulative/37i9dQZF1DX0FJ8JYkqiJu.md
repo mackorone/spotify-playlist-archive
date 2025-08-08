@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-281 songs - 17 hr 51 min
+282 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Sunset With You](https://open.spotify.com/track/0nL6CQenIqkfhXuANgWiCw) | [Klub Rider](https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f) | [Sunset With You](https://open.spotify.com/album/1DFuNmBPD6jrncXV7ksHbS) | 2:06 | 2024-03-14 | 2025-02-12 |
 | [Superrich](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Superrich](https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh) | 2:59 | 2025-06-23 |  |
 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 | 2025-06-23 |  |
+| [SWEET LOVIN](https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [SWEET LOVIN](https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR) | 3:08 | 2025-06-23 |  |
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-12-01 | 2024-04-19 |
 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-11-18 |  |
 | [Tears Dry Tonight](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tears Dry Tonight](https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq) | 2:47 | 2025-05-02 |  |
@@ -281,7 +282,7 @@
 | [Waters](https://open.spotify.com/track/0erXHDmRdNmXgpoIqvxH1e) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Waters](https://open.spotify.com/album/1UWVl2HJMWN7Gxrt6YiRar) | 2:19 | 2023-09-21 | 2024-03-08 |
 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 | 2022-12-01 |  |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-12-01 | 2024-04-19 |
-| [We Are Mirage \- Radio Edit](https://open.spotify.com/track/64guoV5V5VYkaSAA1vVua9) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [We Are Mirage \(Radio Edit\)](https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8) | 3:22 | 2024-12-16 |  |
+| [We Are Mirage \- Radio Edit](https://open.spotify.com/track/64guoV5V5VYkaSAA1vVua9) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [We Are Mirage \(Radio Edit\)](https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8) | 3:22 | 2024-12-16 | 2025-08-08 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2022-12-01 | 2025-04-08 |
 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 | 2025-05-02 |  |
 | [What a Wonderful World \- Krister Remix](https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII) | [No.oN](https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK), [Nikko Mad](https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y), [Krister](https://open.spotify.com/artist/3zrnHI8M8fvS6VmPF8behc) | [What a Wonderful World \(Krister Remix\)](https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW) | 1:35 | 2023-07-27 | 2025-04-08 |

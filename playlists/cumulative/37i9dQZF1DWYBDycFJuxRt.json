@@ -137189,6 +137189,24 @@
     },
     {
       "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/5tAtAEYw3APBdGHEAfhri7"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222972,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/5EbiodhQuI6g58AC43RtEu"
+    },
+    {
+      "album": {
         "name": "UNBREAKABLE",
         "url": "https://open.spotify.com/album/6CyJ71Q6qKEPmpaIOGEJVu"
       },

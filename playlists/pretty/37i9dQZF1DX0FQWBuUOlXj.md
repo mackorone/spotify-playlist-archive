@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 
 > Listen to the music from Will & Harper, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,668 likes - 24 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,686 likes - 24 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

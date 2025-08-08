@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Seaside \(Indonesia\)
 
-231 songs - 16 hr 1 min
+234 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Driven By Wanderlust](https://open.spotify.com/track/0oHUkg1oE93UUqUCYZshuj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Driven By Wanderlust](https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL) | 3:24 | 2024-07-19 | 2024-12-05 |
 | [Dua Angsa \- Remastered 2023](https://open.spotify.com/track/6GEugjRX4lMrDE7B8UEuuZ) | [Hazel](https://open.spotify.com/artist/3BeR8fsabzQWl15Kx0yFO8), [Pingkan Dive Collate](https://open.spotify.com/artist/5IAsTCrRJdzSnieVaYICm5) | [Dua Angsa \(Remastered 2023\)](https://open.spotify.com/album/0kxukdm90YZsIPKgr2KSOi) | 4:22 | 2024-06-27 | 2024-11-22 |
 | [Dumb Ass Pop Song](https://open.spotify.com/track/1XbUhcGNTIYGUgMKxoCZWx) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Dumb Ass Pop Song](https://open.spotify.com/album/3a5ZSFq5jOoDCVMbTzbXqq) | 3:41 | 2025-01-16 |  |
+| [echoes of fading girl](https://open.spotify.com/track/1hfQ5DyTYhgudSZ7lbQP5Q) | [揺れるは幽霊](https://open.spotify.com/artist/70047sK1o9JHFzaj6tyg5Y) | [echoes of fading girl](https://open.spotify.com/album/7vl5WnSGQlnQbbK3iZxQNm) | 4:39 | 2025-08-07 |  |
 | [Edges](https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j) | [meeve](https://open.spotify.com/artist/5WP6R7bAjeetDf7rZJQiMp) | [Edges](https://open.spotify.com/album/4GgGiHSIATT5mTsZ8nIn33) | 3:43 | 2024-06-27 | 2024-11-22 |
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2024-06-27 | 2025-08-01 |
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2024-12-05 |
@@ -161,6 +162,7 @@
 | [Pinkish Hue](https://open.spotify.com/track/59qSBpBDV5B3l4LMNGUocY) | [We Are Imaginary](https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr) | [Pinkish Hue](https://open.spotify.com/album/1koev9GlYhpVmuzZX3Ffdi) | 5:04 | 2024-11-28 | 2024-12-05 |
 | [Placid Mind](https://open.spotify.com/track/10TXhniXWvdify6A5mze8c) | [Shrine](https://open.spotify.com/artist/7oYkFph1CNSKnx7kYLgS3j) | [Placid Mind](https://open.spotify.com/album/6OnytK89zTWyodQxpBeFS1) | 5:17 | 2024-06-27 | 2024-12-05 |
 | [Plane Crash](https://open.spotify.com/track/6rkyyg2HZzZBikUJEV5LLO) | [BUBBLE TEA AND CIGARETTES](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [we should've killed each other](https://open.spotify.com/album/06a64F1q3p9gMlvuiEcume) | 4:09 | 2024-10-31 | 2024-12-05 |
+| [please don't leave](https://open.spotify.com/track/01hK8VX1cfwRcdsHeEk0J6) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [please don't leave](https://open.spotify.com/album/6n8gHPXeZ9c2jGSDEVzBx1) | 3:13 | 2025-08-07 |  |
 | [Precious Me](https://open.spotify.com/track/1gyIGh5Zqjc7BG0xUfTjP9) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Precious Me / Feel Any Pain](https://open.spotify.com/album/4pQOw5OThpX8wjRKyk8Ypf) | 3:42 | 2024-06-27 | 2024-08-09 |
 | [Pudar](https://open.spotify.com/track/6UlVDJKmiqJ29Ut5lutkpX) | [eyesun](https://open.spotify.com/artist/29PELbih4pFV1CfXeHfrXF) | [Feel Something](https://open.spotify.com/album/0TW6qkK2DLqtiDBDceTTyv) | 5:28 | 2024-06-27 | 2024-12-05 |
 | [Purest Tears of Middle\-Aged Loser](https://open.spotify.com/track/5Krq7b6qE84seOkF7TWIC9) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Purest Tears of Middle\-Aged Loser](https://open.spotify.com/album/398zPRYelEvVNjC6M7xrzU) | 7:23 | 2025-04-03 |  |
@@ -171,6 +173,7 @@
 | [Runaway](https://open.spotify.com/track/6izvABDCV72LltDtObbvDw) | [SHIMMER SHRIMPMER](https://open.spotify.com/artist/5B7i15EPohPeNKNVLVjiaQ) | [Runaway](https://open.spotify.com/album/03UecZcOqMePoExqhAMZoH) | 4:40 | 2024-06-27 | 2025-07-25 |
 | [Sad,Infinite And Dazed](https://open.spotify.com/track/4xJFWWfLJqGTezOA7neJhh) | [臥軌的火車Railway Suicide Train](https://open.spotify.com/artist/5tEmnAxh19PkLJ5m8d8ATT) | [餘波](https://open.spotify.com/album/5IPiwxiTbZGlBmPvNaa8WU) | 4:50 | 2024-06-27 |  |
 | [search](https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [lightbringer](https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC) | 2:55 | 2025-07-10 |  |
+| [Self Bondage](https://open.spotify.com/track/4xYYiEkuaDuoFqw5NFZSlQ) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn) | [Self Bondage](https://open.spotify.com/album/4WKZHnxrsCCGUBS5Z1jXqN) | 5:05 | 2025-08-07 |  |
 | [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 |  |
 | [Selfless Love](https://open.spotify.com/track/5cNKS6aFCnHinqC0nuz0f7) | [dansa med dig](https://open.spotify.com/artist/2wassa3NRZvCqj8d5JeJG1) | [Selfless Love](https://open.spotify.com/album/0QmA8v23gbzewo6rs3FWQM) | 3:46 | 2024-10-10 | 2024-12-05 |
 | [Sent Away](https://open.spotify.com/track/6wJfypJ9DIlIFjPyc3tGAj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Sent Away](https://open.spotify.com/album/7M0krbTMzfkOJCMnabZwBL) | 6:00 | 2024-06-27 | 2024-12-05 |

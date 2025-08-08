@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I"
@@ -2802,6 +2802,24 @@
     {
       "album": {
         "name": "Human",
+        "url": "https://open.spotify.com/album/5e3U4W5w3QMd3KOgIniTS8"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "I Don't Want To",
+      "url": "https://open.spotify.com/track/1lgpGypQ3PTxmbNTywxtIX"
+    },
+    {
+      "album": {
+        "name": "Human",
         "url": "https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED"
       },
       "artists": [
@@ -2812,7 +2830,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 181687,
       "name": "I Don't Want To",
       "url": "https://open.spotify.com/track/4IBeE2buS10yagsyGUGbJV"

@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 122057,
+  "num_followers": 122075,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACfgwEoq1CYgtXA7OA0UCrA",
+  "snapshot_id": "aJKbAAAAAAC0007fd3/KyUSYJy4ZfipE",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cole Espanol",
+        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168826,
+      "name": "Acercate Mas (Come Closer To Me)",
+      "url": "https://open.spotify.com/track/76AbCflWiJBgByIqFl396O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 209933,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cole Espanol",
-        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 168826,
-      "name": "Acercate Mas (Come Closer To Me)",
-      "url": "https://open.spotify.com/track/76AbCflWiJBgByIqFl396O"
     },
     {
       "added_at": null,

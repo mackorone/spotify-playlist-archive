@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-237 songs - 13 hr 40 min
+238 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Butane](https://open.spotify.com/track/4Gz17gxip7P72DZ8CIzwRI) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Butane](https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd) | 3:47 | 2023-03-10 | 2023-05-08 |
 | [C'est la vie](https://open.spotify.com/track/0APhfeS3AIbmKCa01WK2YO) | [Peanut Butter Sunday](https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB) | [Quoi\-ce y'a pour souper?](https://open.spotify.com/album/7xI5Vn3wJ1LGK5cHI52XdW) | 3:35 | 2023-08-18 | 2023-09-09 |
 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2023-02-10 | 2025-06-24 |
+| [CABOT](https://open.spotify.com/track/4mHzCQFV9w6TKflRRerYff) | [La Monarque](https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3) | [CABOT](https://open.spotify.com/album/124xzBSJ90brz9TUGwB6ai) | 3:06 | 2025-08-07 |  |
 | [Cantalou](https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:31 | 2023-02-10 |  |
 | [Carte du ciel](https://open.spotify.com/track/57nLBQ5B7m20grJpimsQyv) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE) | 2:49 | 2025-03-28 | 2025-06-20 |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2023-02-10 |  |
@@ -77,7 +78,7 @@
 | [Détours](https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 2:52 | 2023-02-10 | 2023-03-11 |
 | [Ekuan Ek\(u\)](https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 3:46 | 2023-04-07 | 2024-01-27 |
 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 | 2024-08-30 |
-| [EN FACE](https://open.spotify.com/track/0wcTxSHwmzBBWCo5zkfZ9z) | [La Monarque](https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3) | [EN FACE](https://open.spotify.com/album/7i91xBaYY4pPJHP31x6PyJ) | 2:08 | 2025-07-18 |  |
+| [EN FACE](https://open.spotify.com/track/0wcTxSHwmzBBWCo5zkfZ9z) | [La Monarque](https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3) | [EN FACE](https://open.spotify.com/album/7i91xBaYY4pPJHP31x6PyJ) | 2:08 | 2025-07-18 | 2025-08-08 |
 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 | 2023-02-10 |  |
 | [Espacia](https://open.spotify.com/track/5tAH4gpZQGctdBoJl2hdg3) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Espacia](https://open.spotify.com/album/4Y73mMgDuqVCQjuFHu6g9I) | 3:52 | 2024-08-23 | 2024-10-17 |
 | [Et Hop](https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Et Hop](https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z) | 3:14 | 2023-02-10 | 2023-04-30 |

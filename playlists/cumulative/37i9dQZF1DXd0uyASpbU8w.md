@@ -2,7 +2,7 @@
 
 ### [New Music Friday South Africa](https://open.spotify.com/playlist/37i9dQZF1DXd0uyASpbU8w)
 
-> New music from Nkosazana Daughter, Will Linley, Rema, Thakzin and more.
+> New music from Shekhinah, Gunna, Amaarae, Ed Sheeran and more.
 
 7,402 songs - 21 day 12 hr 38 min
 
@@ -1794,7 +1794,7 @@
 | [Emini](https://open.spotify.com/track/3IFj6oh0OKfjmo0YJj47lY) | [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Emini](https://open.spotify.com/album/1MLdCrNnVC9L0wsOUTPu2q) | 6:36 | 2024-07-26 | 2024-08-02 |
 | [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 | 2024-05-09 | 2024-05-17 |
 | [Emkonti](https://open.spotify.com/track/6mwGOcaicDmVkLeVWU14FH) | [Kay SA](https://open.spotify.com/artist/5uH9YJeAVQhIkpHbpcbALT), [Dynamic Duo](https://open.spotify.com/artist/4gQaAKvhKuFJmEgcGpwRtZ), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [Love & Courage \(Three Step\)](https://open.spotify.com/album/71Q3qaZ8HHMXObMTW1nRP4) | 7:22 | 2024-09-26 | 2024-10-04 |
-| [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:17 | 2025-08-01 |  |
+| [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:18 | 2025-08-01 |  |
 | [Emotional](https://open.spotify.com/track/2egQikuMiaG2XkIOTi7H6l) | [UNKLFNKL](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Jeasmine](https://open.spotify.com/artist/4z24jecfJLaCrADePIHqOP) | [Emotional](https://open.spotify.com/album/3Q4iLm7ocbkboWoQVQr64e) | 2:56 | 2025-01-17 | 2025-01-24 |
 | [Emotional Home](https://open.spotify.com/track/3ONXONRB7KYAgh8TZSzGzu) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE), [Dronezz](https://open.spotify.com/artist/4qaoALS2X6hdiXnhBC7aDo), [OLOTU](https://open.spotify.com/artist/2DmyeIzUYJ2G2h5uZ04yVL) | [Emotional Home](https://open.spotify.com/album/0rY5tMhcmXGzDzjoJw7oN8) | 2:54 | 2024-07-26 | 2024-08-02 |
 | [Emotions](https://open.spotify.com/track/3yao4TW2iXsnVuamiie54q) | [Ananya](https://open.spotify.com/artist/2Q32KkhT2YnVgCpAvrnhen) | [Emotions](https://open.spotify.com/album/7GdksUc0zywEeh2IXG2EL3) | 2:44 | 2024-08-23 | 2024-08-30 |

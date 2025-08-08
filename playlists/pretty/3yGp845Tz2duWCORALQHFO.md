@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,170 likes - 59 songs - 3 hr 8 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,171 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 25 | [Edge Of The World](https://open.spotify.com/track/2yQMDmUKg2A98fw0EatVsJ) | [Darren Porter](https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA), [Arctic Barbers](https://open.spotify.com/artist/7bS0hsqGA7ZGCax69gFakI) | [Edge Of The World](https://open.spotify.com/album/3VNZz36Ylc9MFTxtkxbLxr) | 3:10 |
 | 26 | [Without You](https://open.spotify.com/track/0YQIAajSayKY9AWZk555Bc) | [Vanstone](https://open.spotify.com/artist/0iNvk3Q56xChdDxXy5zOcl) | [Without You](https://open.spotify.com/album/2z45hBrQ9Ad5Egz9JK3Zon) | 4:15 |
 | 27 | [Candy](https://open.spotify.com/track/2yIWny85NojBC4551Ixa5K) | [Kurt Joseph](https://open.spotify.com/artist/1TFSTrw4PLhPMQmPjVWiof) | [Candy](https://open.spotify.com/album/7HVhThD8L47islHycFL2HH) | 2:30 |
-| 28 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head Remix](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
+| 28 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
 | 29 | [Veil](https://open.spotify.com/track/3YxeYIkoLMjPcQexOWrpdi) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd), [Re:Locate](https://open.spotify.com/artist/6xCpROdQDyjULgekyUtW3u), [Simon Anthony](https://open.spotify.com/artist/4hvBdvbQbdO13JmvS3Kri4) | [Veil](https://open.spotify.com/album/7EcaQ5TmcWq4rygREBhRsE) | 3:00 |
 | 30 | [RUN \- Lollapalooza Mix](https://open.spotify.com/track/4e9IXwqStdZo5StzCpa5kL) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8) | [RUN \(Lollapalooza Mix\)](https://open.spotify.com/album/3zxPjHnRn4P90LLi1OJ5ND) | 2:58 |
 | 31 | [Make You Dance](https://open.spotify.com/track/5gHGLBWGSaBVvHT88VktRf) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Make You Dance](https://open.spotify.com/album/2OJL1a3IENdAKYHYfoCRNW) | 3:17 |

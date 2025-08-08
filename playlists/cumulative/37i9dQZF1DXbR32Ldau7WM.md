@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: Tempalay
 
-1,344 songs - 3 day 16 hr 21 min
+1,345 songs - 3 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-09 | 2024-01-17 |
 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 | 2022-05-17 | 2022-06-15 |
 | [Horizon](https://open.spotify.com/track/2UeeixjhUudFsmKTU1jEXl) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Horizon](https://open.spotify.com/album/6R0xlPxbRThYm3Xc3teGNF) | 4:01 | 2023-08-29 | 2023-09-06 |
-| [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 | 2025-08-01 | 2025-08-06 |
+| [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 | 2025-08-01 |  |
 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 | 2025-07-29 |  |
 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2022-05-10 | 2023-05-10 |
 | [Hyakka Ranman](https://open.spotify.com/track/5EqIj8sY7MmlUyfLi0363q) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [SCARECROWS](https://open.spotify.com/album/5XexNvd10X2sV8fDr2EOw2) | 4:17 | 2023-09-26 | 2023-10-04 |
@@ -744,6 +744,7 @@
 | [Umi ni Naritai part.3](https://open.spotify.com/track/2mspLmFrpyqd4DCxGjN3Sz) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Umi ni Naritai part.3](https://open.spotify.com/album/2W9C8HL0Rkp2SwCLw4ySuh) | 3:36 | 2022-10-11 | 2022-10-29 |
 | [UN\-APEX](https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [UN\-APEX](https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl) | 4:20 | 2025-01-07 |  |
 | [UN\-APEX \(English ver.\)](https://open.spotify.com/track/4b674rww0u5MWr7E132R6Q) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [UN\-APEX](https://open.spotify.com/album/6k54n0IPdlXdDA62fcE7zY) | 1:34 | 2025-03-18 | 2025-04-02 |
+| [Unbound](https://open.spotify.com/track/5EbiodhQuI6g58AC43RtEu) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Unbound](https://open.spotify.com/album/5tAtAEYw3APBdGHEAfhri7) | 3:42 | 2025-08-05 |  |
 | [Unchained](https://open.spotify.com/track/1rc0mAmqWlGRNrCmhD84k9) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Unchained](https://open.spotify.com/album/0nWVFvy39189Y93He3yu8O) | 4:16 | 2024-07-30 | 2024-08-29 |
 | [UNDER and OVER](https://open.spotify.com/track/46mVcLRZJ5PRJ3CsoRXDTY) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [UNDER and OVER](https://open.spotify.com/album/60lSvl6D1arg4yafpzexwV) | 3:54 | 2024-10-01 | 2025-02-26 |
 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 | 2023-05-09 | 2024-01-17 |
@@ -893,7 +894,7 @@
 | [ぶっちぎり東京](https://open.spotify.com/track/6VDXr0B4vE7QpcfJTfAv2K) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ぶっちぎり東京](https://open.spotify.com/album/0g7BacE5bE3ScvHzmQqbFq) | 2:41 | 2024-12-03 | 2025-01-15 |
 | [まどろまない？](https://open.spotify.com/track/3RxZR3s4n4bnqJIlYtAuD3) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 3:19 | 2024-01-30 | 2024-02-07 |
 | [まどろむ](https://open.spotify.com/track/43eTjVZLUS7Kf8oTPodiqM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 0:52 | 2024-01-30 | 2024-02-07 |
-| [まなざし](https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [まなざし](https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ) | 4:18 | 2025-05-13 |  |
+| [まなざし](https://open.spotify.com/track/34rgAQrt4DPNWsqPmlbp4X) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [まなざし](https://open.spotify.com/album/7DRWQF6oyTznbAQHZbz4gQ) | 4:18 | 2025-05-13 | 2025-08-08 |
 | [みらいのうた \- 2023 Master](https://open.spotify.com/track/51UlfCizQkKyESnzcJjOn4) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [20](https://open.spotify.com/album/4HfadgK8td5R4tcqNr017d) | 5:07 | 2023-09-12 | 2023-09-14 |
 | [もう一度 歩いていこう](https://open.spotify.com/track/5xRYNMDGPzjclwpb0k38U6) | [JUN SKY WALKER\(S\)](https://open.spotify.com/artist/0dJJhSKpO4ixCTCsCkJxgr) | [もう一度 歩いていこう](https://open.spotify.com/album/6mslJfVFvtnLsfFySAToTO) | 3:41 | 2023-05-16 | 2023-05-31 |
 | [やさしくなりたい \(ROCK'N ROLL Recording Session 2023\)](https://open.spotify.com/track/52w8YoUPGmDGmKuxwMx6Ea) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ROCK'N ROLL Recording Session at Victor Studio 301](https://open.spotify.com/album/0FLQU9ycu88AVRO6PNGDVF) | 5:26 | 2023-07-25 | 2023-07-27 |

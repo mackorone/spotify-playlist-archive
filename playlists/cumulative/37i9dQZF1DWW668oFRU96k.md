@@ -2,7 +2,7 @@
 
 ### [Electro Mix](https://open.spotify.com/playlist/37i9dQZF1DWW668oFRU96k)
 
-> A selection of new, quality electro sounds from your favorite EDM acts! Cover: R3HAB
+> A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alok x ALTA x Robert Falcon x Jess Glynne
 
 1,961 songs - 4 day 4 hr 4 min
 

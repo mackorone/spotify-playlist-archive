@@ -4,7 +4,7 @@
 
 > All of it
 
-903 songs - 2 day 8 hr 22 min
+905 songs - 2 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 | 2025-06-02 |  |
 | [Finale](https://open.spotify.com/track/4kNKL8kCCV3vt9U2k28Lyx) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 1:52 | 2025-06-02 |  |
 | [Fire in the belly](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:18 | 2025-06-02 |  |
+| [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2025-08-08 |  |
 | [First Day Out](https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [My Moment](https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn) | 4:14 | 2025-06-02 |  |
 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2025-06-02 |  |
 | [First Off \(feat\. Travis Scott\)](https://open.spotify.com/track/3WRIaWsws011vHMd9uzPjG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 3:48 | 2025-06-02 |  |
@@ -395,6 +396,7 @@
 | [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 | 2025-06-02 |  |
 | [In the Shadow of the Valley](https://open.spotify.com/track/667aZGUm68nre7yrHnFRz8) | [Bing Nathan](https://open.spotify.com/artist/1PEsNvspbfV1479tnlQgVj), [Don Burnham](https://open.spotify.com/artist/1az6rcLzAuM2ruBbcFJ50U), [Rick Dougherty](https://open.spotify.com/artist/5Dr7wDGjTkWDOSua2EhXyi), [Chuck Aronson](https://open.spotify.com/artist/6L3x96FNsXj21knH7XWb4e) | [Best of Country & Western, Vol\. 2](https://open.spotify.com/album/11FQIluT78LHZdMqy4n7Ng) | 3:04 | 2025-06-02 |  |
 | [In The Wake Of Poseidon](https://open.spotify.com/track/39AAt95Ts6PIHgMJfnHTNr) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Wake Of Poseidon](https://open.spotify.com/album/68W3ppXWhsOLOURmxzRkyA) | 7:56 | 2025-06-02 |  |
+| [In Your Fantasy](https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 | 2025-08-08 |  |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2025-06-02 |  |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2025-06-02 |  |
 | [INTERLINKED.](https://open.spotify.com/track/5i7H2Zctmtdaa7qhYcng1e) | [LxstBxy](https://open.spotify.com/artist/5hjD3GcIMlIZTOWE976nde) | [INTERLINKED.](https://open.spotify.com/album/38n9x2TpNG8cf8F4n2J4PW) | 3:38 | 2025-06-02 |  |

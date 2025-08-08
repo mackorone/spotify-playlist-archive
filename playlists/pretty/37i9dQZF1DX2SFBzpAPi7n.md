@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: HANRORO\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,949 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,985 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 3 | [Radio Silence](https://open.spotify.com/track/1wJNpkpNrZEZId1F2Gz83K) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [Radio Silence](https://open.spotify.com/album/2nZeaSN1gaZoPKeS2dkxJJ) | 4:05 |
 | 4 | [Sunshine comedy club](https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Summer Vacation Edition](https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3) | 3:17 |
 | 5 | [For myself](https://open.spotify.com/track/4qCZ6II6kGDEqZyCWEgrAP) | [ Seo Youngju](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4Wa3VLLWGqL0WKzgZfhhaA) | 4:01 |
-| 6 | [I want to know](https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Law and The City, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst) | 3:32 |
+| 6 | [Serenade Blue](https://open.spotify.com/track/0wfmq23ZBILF7kFDahpuTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Serenade Blue](https://open.spotify.com/album/2ZfGqm9pflkoHNlZolUgaw) | 4:35 |
 | 7 | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg) | 4:20 |
 | 8 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 |
 | 9 | [Player 1](https://open.spotify.com/track/6go0riAOZ7nZyDPpRjZ53N) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Player 1](https://open.spotify.com/album/0UyEaKpAyUP09apb6Rmb3G) | 3:38 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 41 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
 | 42 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 |
 | 43 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
-| 44 | [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 |
+| 44 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
 | 45 | [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 |
-| 46 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
+| 46 | [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 |
 | 47 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
 | 48 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
 | 49 | [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 |
 | 50 | [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 |
 
-Snapshot ID: `AAAAAMxUzcTF66UrgDi5G6h3alQsfFxd`
+Snapshot ID: `AAAAAMp6Q4qZKs72fHrAmRbCt0LB/fCk`

@@ -4203,6 +4203,28 @@
     },
     {
       "album": {
+        "name": "MACHIAVELLI",
+        "url": "https://open.spotify.com/album/16nEPTjTPhoBpqGjzT1KDh"
+      },
+      "artists": [
+        {
+          "name": "Rakkere",
+          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
+        },
+        {
+          "name": "Due",
+          "url": "https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191729,
+      "name": "MACHIAVELLI",
+      "url": "https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw"
+    },
+    {
+      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
       },

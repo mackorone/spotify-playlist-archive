@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Paz Carrara
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,994 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,015 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 81 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 82 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 |
 | 83 | [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 |
-| 84 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 |
-| 85 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 |
+| 84 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 |
+| 85 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 |
 
 Snapshot ID: `AAAAAIsIdwI2F/xxtY0r/Gu7Qh3x3Pwh`

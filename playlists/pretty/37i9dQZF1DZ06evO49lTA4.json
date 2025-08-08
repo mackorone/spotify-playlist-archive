@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 882062,
+  "num_followers": 882239,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACGEjmkcqOPTdAXdRH4+g8B",
+  "snapshot_id": "aJKbAAAAAADE5itUd4rE2/sCr4OyNh/8",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+        "name": "WHY (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
         },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Brand New Man - with Luke Combs",
-      "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+      "duration_ms": 177760,
+      "name": "WHY (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Brand New Man - with Luke Combs",
+      "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHY (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "WHY (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
     },
     {
       "added_at": null,

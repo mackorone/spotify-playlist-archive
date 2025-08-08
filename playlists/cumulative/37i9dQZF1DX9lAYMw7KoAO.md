@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>  and <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=HAnDya9QRIGtTDBfG7ORiw>Gaise Baba</a>
 
-457 songs - 1 day 16 hr 4 min
+458 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Okay](https://open.spotify.com/track/03UnPfDS0FvZzi0Z3I7yue) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Okay](https://open.spotify.com/album/7H0fhbJWzN4zP9aPWwSLRl) | 2:35 | 2020-09-17 | 2023-05-05 |
 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 | 2024-11-29 |  |
 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 | 2023-08-25 | 2023-09-01 |
+| [Oluwatosin](https://open.spotify.com/track/484AckgGJtpi0hVPnIjy8k) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Oluwatosin](https://open.spotify.com/album/7eR2dytklllwGYcMGU191P) | 4:24 | 2025-08-08 |  |
 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 | 2023-03-31 | 2023-06-23 |
 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 | 2024-12-04 | 2024-12-20 |
 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 | 2021-03-25 | 2023-04-28 |

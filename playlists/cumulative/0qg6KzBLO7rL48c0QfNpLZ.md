@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,189 songs - 2 day 4 hr 29 min
+1,190 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [In The Air Tonight](https://open.spotify.com/track/6xCUzDEwifZ9PUPYoFCtZt) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [In The Air Tonight](https://open.spotify.com/album/0UdIFWPQ3fZ4YXlL0a3UdC) | 2:29 | 2024-11-01 | 2024-12-07 |
 | [In the Mirror](https://open.spotify.com/track/39US9RrwQtLld8H0Cofii3) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/4I21qLgqAPYlfJGJ1V4Ol6) | 2:07 | 2024-01-25 | 2024-09-10 |
 | [In The Shadows](https://open.spotify.com/track/00ZRZlwPUgdgug5fKqeQbp) | [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alexia Di Lorenzo](https://open.spotify.com/artist/7Ak8772rvZAdKDoFcIqLkt) | [In The Shadows](https://open.spotify.com/album/0YzgSXrb8YhFvsXZb2Lq5x) | 2:43 | 2024-11-22 | 2025-03-29 |
+| [In The Summer](https://open.spotify.com/track/7mYjGdvLLsjV9P6WvumWJv) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [In The Summer](https://open.spotify.com/album/1eSE2tdGQ1y0M0vnv8CCaI) | 2:17 | 2025-08-07 |  |
 | [In The Sun](https://open.spotify.com/track/2HH7OfiAfRzYD1EoVDbPCQ) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj) | [In The Sun](https://open.spotify.com/album/65O8i2ZXQAul84LaTqUmX1) | 2:31 | 2025-05-16 | 2025-06-30 |
 | [In Too Deep](https://open.spotify.com/track/4FHviKAJ137SAE8T7PLIOK) | [Syrah](https://open.spotify.com/artist/5WEUU6Cjfx9zJdMeaZfMs2), [Levka Rey](https://open.spotify.com/artist/6jaX71Jjhu6nfYVdaPTJYi) | [In Too Deep](https://open.spotify.com/album/3Ox7fKbJipALk6dKQv01WT) | 3:03 | 2024-07-19 | 2025-03-08 |
 | [In Your Arms](https://open.spotify.com/track/4QnDjbRQNCQTMYkrOUQdH3) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [In Your Arms](https://open.spotify.com/album/40BqDOx4QvxdxNxGglh7HC) | 2:31 | 2024-09-13 | 2025-02-05 |

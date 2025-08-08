@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,091 likes - 161 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,092 likes - 161 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 81 | [Stuntin](https://open.spotify.com/track/44CSjBjs3mcn5c66XnB8It) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:02 |
 | 82 | [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 |
 | 83 | [Telling The Truth](https://open.spotify.com/track/6LOWgH9NaSheAz0U4b7uQL) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Strength Of A Woman](https://open.spotify.com/album/4NbiqWISvtpKiWFwpmtzTF) | 3:57 |
-| 84 | [Honey](https://open.spotify.com/track/5q83kstyzBZWeoVbEBmrMD) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 4:44 |
-| 85 | [\#RICHAXXHAITIAN](https://open.spotify.com/track/0B0lGy8qd6kohNFUz7cneO) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E) | 2:47 |
+| 84 | [\#RICHAXXHAITIAN](https://open.spotify.com/track/0B0lGy8qd6kohNFUz7cneO) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E) | 2:47 |
+| 85 | [Honey](https://open.spotify.com/track/5q83kstyzBZWeoVbEBmrMD) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 4:44 |
 | 86 | [Zipper Bagz](https://open.spotify.com/track/20UFm0JkFTmqpoRjgDYHnk) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:14 |
 | 87 | [More Than A Little Bit \(feat\. Tinashe\)](https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:54 |
 | 88 | [Pressure](https://open.spotify.com/track/3ruMQcure3yXNsZkDx0Dqh) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:58 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 118 | [Heard This One Before \(feat\. BOSCO & KAYTRANADA\)](https://open.spotify.com/track/0MPWtvb5xSdQlzGSnm0hCh) | [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC), [BOSCO](https://open.spotify.com/artist/1A4fV156Nn6rWIE8jk5ZpT), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Pacific Time \- EP](https://open.spotify.com/album/4JInVfKuLTpdDNdPZ3qAyK) | 2:37 |
 | 119 | [HIGH GRADE](https://open.spotify.com/track/0baHaeu6MrW4GriFSsF9XK) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:46 |
 | 120 | [Another Lover](https://open.spotify.com/track/2KwW2VyIp48UXatX8S2TuL) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Silk Canvas](https://open.spotify.com/album/2EbhWs13R3DTnsGXHVZSPy) | 3:48 |
-| 121 | [Say What You Mean](https://open.spotify.com/track/04iSMejOEUBniDUjo0eUPU) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Sinead Harnett](https://open.spotify.com/album/1Y3RckqVHCHZRQEF2J5S3f) | 3:43 |
-| 122 | [Mic On](https://open.spotify.com/track/5XLm5kdumFNGnnXgkFsSJ2) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [WHEN](https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD) | 2:33 |
+| 121 | [Mic On](https://open.spotify.com/track/5XLm5kdumFNGnnXgkFsSJ2) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [WHEN](https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD) | 2:33 |
+| 122 | [Say What You Mean](https://open.spotify.com/track/04iSMejOEUBniDUjo0eUPU) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Sinead Harnett](https://open.spotify.com/album/1Y3RckqVHCHZRQEF2J5S3f) | 3:43 |
 | 123 | [Sink or Swim](https://open.spotify.com/track/5Ir63UHpJuydc7frFGS7vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:21 |
 | 124 | [Day To Day](https://open.spotify.com/track/4yBdOhdoRDGKGgMEsDAyq1) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:24 |
 | 125 | [New Lover](https://open.spotify.com/track/3A75RXF6osQ8vLMSMbNJ9r) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 1:53 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 136 | [No One Like You](https://open.spotify.com/track/0IeM0wphilRFSDEVSRrQ23) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 9:18 |
 | 137 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 |
 | 138 | [Lookin for Ya](https://open.spotify.com/track/1ulXrCzBYnG3JJW11IXVZ8) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:24 |
-| 139 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
-| 140 | [Up All Night](https://open.spotify.com/track/1v8dKKHkxwYvyjSs7B7gGi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:14 |
+| 139 | [Up All Night](https://open.spotify.com/track/1v8dKKHkxwYvyjSs7B7gGi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:14 |
+| 140 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 | 141 | [You And Me](https://open.spotify.com/track/6efwJ8S8qvGIJPCivsXcGX) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 4:38 |
 | 142 | [Come Again](https://open.spotify.com/track/0FZv7zASMbqSz3XNL6sAxi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 2:42 |
 | 143 | [warmest winter.](https://open.spotify.com/track/1DQV5VtXXo09zuCdsWqDrN) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 3:49 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 160 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 161 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Ab4zvAAAAAA1DrhKe2n9atmjDJPqK0W2`
+Snapshot ID: `Ab45SAAAAACqsYo/18y8kP1ZcNbelSXZ`

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-518 songs - 1 day 6 hr 23 min
+522 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Kiss for the Whole World x](https://open.spotify.com/track/5Yw6IZe2YzStFAo2LZDRTr) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5eNmAU8XFNiuqhTe9Nq1LJ) | 3:31 | 2023-04-21 | 2025-06-04 |
 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-03-18 | 2025-06-04 |
 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 |  |
+| [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 | 2025-08-08 |  |
 | [Acid Eyes](https://open.spotify.com/track/4YUcYIRBcVqQ93MnNhtU5F) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Acid Eyes / Petrified In Love](https://open.spotify.com/album/6BuzpB9fGMfmOeQVYcq1lF) | 4:33 | 2022-06-23 | 2025-06-04 |
 | [All My Favorite Songs](https://open.spotify.com/track/6zVhXpiYbJhLJWmLGV9k1r) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:22 | 2021-02-25 | 2022-03-18 |
 | [All My Friends](https://open.spotify.com/track/4dubRkWBWpYKviADvMYgv1) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [All My Friends](https://open.spotify.com/album/423eX0ukaU4IirW8RTQB2V) | 4:42 | 2020-10-10\* | 2021-05-13 |
@@ -200,6 +201,7 @@
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-09-18 | 2025-05-28 |
 | [I Don't Want to Talk](https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [I Don't Want to Talk](https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I) | 3:43 | 2021-10-01 | 2025-05-28 |
 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 | 2023-10-06 | 2025-06-04 |
+| [I Don’t Work Here Anymore](https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Motel Du Cap](https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD) | 3:41 | 2025-08-08 |  |
 | [I Forgot To Be Your Lover](https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [I Forgot To Be Your Lover](https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1) | 2:27 | 2024-02-08 | 2025-06-04 |
 | [I Got Love](https://open.spotify.com/track/4KUvir7HcUGWZNNCjUckI5) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [I Got Love / Stay Behind](https://open.spotify.com/album/291rt10ZQsv8QnAhS5e115) | 2:52 | 2021-03-06 | 2022-03-18 |
 | [I Got You](https://open.spotify.com/track/1vpXogmIQSjEa4zDIBjTto) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [I Got You](https://open.spotify.com/album/6RVUJqWsijWixBw4BbYYUI) | 3:52 | 2020-11-13 | 2022-03-18 |
@@ -248,6 +250,7 @@
 | [Light Up](https://open.spotify.com/track/7H4nlmOcezvCldiVQwk4C5) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Light Up](https://open.spotify.com/album/0XLGf4b3NLHyJC4NgqG96v) | 3:06 | 2020-10-10\* | 2022-03-18 |
 | [Lights](https://open.spotify.com/track/45BCN2ZnfUXXMff0uxxLFe) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Lights](https://open.spotify.com/album/194YVQymXITzrDxVAfOZ8N) | 3:35 | 2022-01-21 | 2025-05-28 |
 | [Like](https://open.spotify.com/track/4bGZQCf6mjF9cwy52PJkBL) | [Totally Unicorn](https://open.spotify.com/artist/3pSMLXDjk3lrfOK0xIZtq3) | [Like](https://open.spotify.com/album/2bUAgKQ9P933wEafM0M6HN) | 3:53 | 2021-01-23 | 2022-03-18 |
+| [Like A Woman Can](https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:22 | 2025-08-08 |  |
 | [Like Lightning](https://open.spotify.com/track/7bDztTav6TQByZmDJmUT5Y) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Part 2 Everything Not Saved Will Be Lost](https://open.spotify.com/album/2gA6WSERaJVOWwuB0hegvp) | 3:34 | 2020-10-10\* | 2021-02-25 |
 | [Like This Or Like That](https://open.spotify.com/track/0HYOLtDo659YqZLDVXGp2f) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Like This Or Like That](https://open.spotify.com/album/6DlzkqJQEBnmIfnvrepi4Y) | 3:57 | 2022-04-08 | 2025-06-04 |
 | [Lil House](https://open.spotify.com/track/3zmEBp16H3HmL3NVWEDlAZ) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 3:29 | 2020-10-10\* | 2022-03-18 |
@@ -278,6 +281,7 @@
 | [Middle Finger](https://open.spotify.com/track/7mNXePzVOXqBTE1WuDa5HQ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Middle Finger](https://open.spotify.com/album/4wYDZ71tevPReWBFRzTHSI) | 2:35 | 2021-02-26 | 2022-03-18 |
 | [Midnight Demon Club](https://open.spotify.com/track/0Ha3SbwjPO11gZ0zPjZQ2o) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 4:12 | 2022-09-09 | 2025-06-04 |
 | [Midnight Train](https://open.spotify.com/track/161esqOztHsKYDh9Aj4yij) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Midnight Train / Don't Wade In The Water](https://open.spotify.com/album/3BpPThkSnJZF2wo5vrmUup) | 3:16 | 2020-10-23 | 2022-03-18 |
+| [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 | 2025-08-08 |  |
 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 | 2024-09-27 | 2025-06-04 |
 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 | 2020-10-10\* | 2021-05-13 |
 | [Misery](https://open.spotify.com/track/757KXgD95AUGZtJ46LTkRA) | [50 Lions](https://open.spotify.com/artist/2TY2TDzMptJVfUAoV2n0hb) | [Misery](https://open.spotify.com/album/1NjpiLG4KtHeMcSklW3lhw) | 2:05 | 2025-06-10 |  |

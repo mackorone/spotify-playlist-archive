@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 250540,
+  "num_followers": 250551,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABYbn+58JDF3bvLvL5NVJ+u",
+  "snapshot_id": "aJKbAAAAAAD7IHTBQbgyt/SA8zrH6JMI",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
       "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 259739,
-      "name": "Endless Love",
-      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
+      "duration_ms": 269400,
+      "name": "I'm Gonna Getcha Good",
+      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
     },
     {
       "added_at": null,
@@ -211,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
       "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 269400,
-      "name": "I'm Gonna Getcha Good",
-      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
+      "duration_ms": 259739,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
     },
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
-        "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Real Hypha",
-          "url": "https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
-      "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
+      "duration_ms": 270026,
+      "name": "(If You're Not In It For Love) I'm Outta Here!",
+      "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
+        "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Real Hypha",
+          "url": "https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC"
         }
       ],
-      "duration_ms": 270026,
-      "name": "(If You're Not In It For Love) I'm Outta Here!",
-      "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
+      "duration_ms": 176000,
+      "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
+      "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 246826,
       "name": "When You Kiss Me",
       "url": "https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "The Woman In Me (Needs The Man In You)",
+      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "The Woman In Me (Needs The Man In You)",
-      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up! (Red and Green Versions)",
         "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 200466,
       "name": "Ka-Ching!",
       "url": "https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shania Twain",
-        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "What Made You Say That - Single Version",
-      "url": "https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4"
     },
     {
       "added_at": null,
@@ -519,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Shania Twain",
+        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
       },
       "artists": [
         {
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 262400,
-      "name": "Rock This Country!",
-      "url": "https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs"
+      "duration_ms": 179466,
+      "name": "What Made You Say That - Single Version",
+      "url": "https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
       "duration_ms": 198802,
       "name": "Waking Up Dreaming",
       "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Rock This Country!",
+      "url": "https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Whatever You Do! Don't!",
-      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twenty Twenty",
         "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 200813,
       "name": "Forever And Ever, Amen",
       "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Whatever You Do! Don't!",
+      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 243948,
-      "name": "If You Wanna Touch Her, Ask!",
-      "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encontros Pelo Caminho",
         "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 214440,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 243948,
+      "name": "If You Wanna Touch Her, Ask!",
+      "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
     },
     {
       "added_at": null,

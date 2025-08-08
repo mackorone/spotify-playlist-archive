@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 ### [Modus Mio](https://open.spotify.com/playlist/37i9dQZF1DX36edUJpD76c)
 
-> Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Shindy, BILLA JOE
+> Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Jazeek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,976,190 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,976,134 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 | 49 | [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 |
 | 50 | [Morgen](https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Morgen](https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp) | 3:10 |
 
-Snapshot ID: `AAAAALbtQYJ4lfIcD0ezF7aJLl2yEA5B`
+Snapshot ID: `AAAAAPD7VGPxPMKibGa2wgCAbMMGgELZ`

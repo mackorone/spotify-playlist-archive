@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-294 songs - 15 hr 5 min
+296 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [End of the Road \- Acoustic](https://open.spotify.com/track/40no7SYDmHdlOvqRpYvq9O) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [End of the Road \(Acoustic\)](https://open.spotify.com/album/4HLvwBXDjhDR6ckKFEB92r) | 3:44 | 2022-10-14 | 2024-02-20 |
 | [Everglow \- Acoustic](https://open.spotify.com/track/6chXbAbcedFH4juOKqdwjk) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Everglow \(Acoustic\)](https://open.spotify.com/album/22vtmrjL6peFVcjtDyBsWo) | 3:48 | 2021-09-24 | 2022-06-13 |
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2019-10-13 |  |
-| [Everybody Wants to Rule the World \- Acoustic](https://open.spotify.com/track/3wy5ytqKxQxUYFgx5NAFav) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Everybody Wants to Rule the World \(Acoustic\)](https://open.spotify.com/album/42v30LBLeJfQDdedtZCD4a) | 2:24 | 2023-03-24 |  |
+| [Everybody Wants to Rule the World \- Acoustic](https://open.spotify.com/track/3wy5ytqKxQxUYFgx5NAFav) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Everybody Wants to Rule the World \(Acoustic\)](https://open.spotify.com/album/42v30LBLeJfQDdedtZCD4a) | 2:24 | 2023-03-24 | 2025-08-08 |
 | [Faith \- Acoustic](https://open.spotify.com/track/0buj86DGYYkrDOX8egKDtg) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Faith \(Acoustic\)](https://open.spotify.com/album/2U75eAo18XKY0iTOyvxfDm) | 2:40 | 2024-03-08 | 2024-03-23 |
 | [Fast Car \- Acoustic Live Session](https://open.spotify.com/track/14N56qsRV6jOydcjHqN6El) | [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5), [STABAL](https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf) | [Fast Car \(Acoustic Live Session\)](https://open.spotify.com/album/36HrHr1wj7tzsryHiUnem2) | 3:21 | 2024-04-07 | 2024-05-18 |
 | [Fields Of Gold \(Songbird\)](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 | 2019-10-13 |  |
@@ -178,6 +178,7 @@
 | [Marry You \- Acoustic](https://open.spotify.com/track/0WXJ3ifuSw79Ge26pqHHAZ) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Marry You \(Acoustic\)](https://open.spotify.com/album/0gUKa3tQIM8URIGeWMQBGH) | 3:11 | 2023-02-10 | 2023-02-25 |
 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT) | 3:41 | 2019-10-13 |  |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-03-19 | 2024-02-17 |
+| [Miss You Like Crazy](https://open.spotify.com/track/6QD4kzyVdkvIbCa2yCi0lF) | [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Miss You Like Crazy](https://open.spotify.com/album/2oSjdkNVIdyTzHyRq7DTMY) | 3:54 | 2025-08-07 |  |
 | [Miss You Like Crazy \- Acoustic](https://open.spotify.com/track/3L1mJ12mVnNOT6zgTL0VvX) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Miss You Like Crazy \(Acoustic\)](https://open.spotify.com/album/4hlspzDOaEXqoD3KVql8oK) | 3:23 | 2022-05-14 | 2022-07-03 |
 | [Mr Blue Sky \- Acoustic](https://open.spotify.com/track/2HUQikp6TKzN4lOAaXjqAe) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Mr Blue Sky \(Acoustic\)](https://open.spotify.com/album/0qemjRVIImUJxiEvOo8mfZ) | 3:01 | 2019-10-13 | 2025-02-10 |
 | [Mr Brightside \- Acoustic](https://open.spotify.com/track/5RO37qUgxkXi6OgzuFBgFu) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Mr Brightside \(Acoustic\)](https://open.spotify.com/album/5YwjHP3v74JIE4WZslG9hV) | 3:39 | 2020-03-16 |  |
@@ -284,6 +285,7 @@
 | [Wouldn't It Be Nice \- Acoustic](https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wouldn't It Be Nice \(Acoustic\)](https://open.spotify.com/album/085kDnx6X3C0TI7uocKr1C) | 2:49 | 2023-04-01 | 2024-10-05 |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2019-10-13 |  |
 | [Yellow \- Acoustic](https://open.spotify.com/track/4cNXu88dudLEAhsIbikLvU) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Yellow \(Acoustic\)](https://open.spotify.com/album/1hcpmhJzMlYjKjyuGOEmMh) | 3:25 | 2020-10-16 | 2023-01-14 |
+| [You & Me Song](https://open.spotify.com/track/06ZdO83tsG5PCZVbXRpaI1) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [You & Me Song](https://open.spotify.com/album/6eAp0xOHqFaldWq3jztzMV) | 2:22 | 2025-08-07 |  |
 | [You & Me Song \- Acoustic](https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You & Me Song \(Acoustic\)](https://open.spotify.com/album/7dKiRJqvMpIOMkbMafTc8k) | 2:52 | 2023-01-18 | 2023-04-11 |
 | [You Are Not Alone \- Acoustic](https://open.spotify.com/track/4uHUIPYbU9ZFXnPcKYwPRv) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Are Not Alone \(Acoustic\)](https://open.spotify.com/album/0Q1migL2N2PEP3nAR57vTy) | 2:24 | 2024-05-17 | 2025-04-26 |
 | [You Belong With Me \- Acoustic](https://open.spotify.com/track/2kLo4Rvt1RKvo4vjDZ9fHy) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [You Belong With Me \(Acoustic\)](https://open.spotify.com/album/3EmhJjJNNnUk6j7FfASff0) | 3:54 | 2022-03-25 | 2023-01-28 |

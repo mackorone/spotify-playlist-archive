@@ -2,7 +2,7 @@
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: Reneé Rapp
+> Neues aus der Welt des Pop\. Cover: Cloudy June
 
 1,305 songs - 2 day 17 hr 52 min
 

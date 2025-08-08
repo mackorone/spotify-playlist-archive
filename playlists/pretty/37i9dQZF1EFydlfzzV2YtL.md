@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,470 likes - 180 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,469 likes - 180 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 67 | [Nobody Like You](https://open.spotify.com/track/2lPmDekJerHxTtdKq1IXPf) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:08 |
 | 68 | [It Takes Two](https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [It Takes Two \(feat\. Eric Andre, Daveed Diggs, Kid Cudi & Trolls\)](https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r) | 3:39 |
 | 69 | [P.S\. I Hope You're Happy \(feat\. blink\-182\)](https://open.spotify.com/track/0fOiTY8wUM6u4GLGOFKvZs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [World War Joy \(Japan Edition\)](https://open.spotify.com/album/3cbcpRK1paF6lAxd16cmIE) | 3:45 |
-| 70 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
-| 71 | [Throw Some Ass](https://open.spotify.com/track/1JAMLixBWH6ICNlWjQbFNI) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:02 |
+| 70 | [Throw Some Ass](https://open.spotify.com/track/1JAMLixBWH6ICNlWjQbFNI) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:02 |
+| 71 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
 | 72 | [Heroine](https://open.spotify.com/track/4dq223vwGSqVPhgW7mU9ui) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Madness \(Deluxe Edition\)](https://open.spotify.com/album/5gJN6hs310GViezelywxdu) | 3:35 |
 | 73 | [Up & Down](https://open.spotify.com/track/6YZZvbeTNUmNDxrMnNZMg1) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:34 |
 | 74 | [Reason To Stay](https://open.spotify.com/track/4t1QqT8aWe9Piky1oKfQHh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Ticket To L.A.](https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik) | 3:10 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 93 | [Gold](https://open.spotify.com/track/6u51lb1jfWMN3Q2ZYrMbcG) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Madness \(Deluxe Edition\)](https://open.spotify.com/album/5gJN6hs310GViezelywxdu) | 3:32 |
 | 94 | [Sober](https://open.spotify.com/track/1eptVxF0sjqV3XWm2Yutcc) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Bad Intentions](https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q) | 3:47 |
 | 95 | [Jump \- Live From The Studio](https://open.spotify.com/track/0orqUsqNaLLGF4aXoU6F3d) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Jump \(Live From The Studio\)](https://open.spotify.com/album/3AKoMsGO1lldUy7vIYG6fi) | 2:55 |
-| 96 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 |
-| 97 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 96 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 97 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 |
 | 98 | [It Gets Dark](https://open.spotify.com/track/2atxeaxfexFVa2YglwPlSN) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:23 |
 | 99 | [Hollow](https://open.spotify.com/track/1DQiQmwleN5zdUSWZlMpGQ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:32 |
 | 100 | [Don't Get Any Closer](https://open.spotify.com/track/4Of27nwjXcl2Pgo5VhnLQ5) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:48 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 102 | [Photographs \(with Rag'n'Bone Man\)](https://open.spotify.com/track/1zKlT4kCuHmIj10cr0ZryI) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Photographs \(with Rag'n'Bone Man\)](https://open.spotify.com/album/0onXv14PecMSAeMZKtjgAP) | 3:32 |
 | 103 | [Put The Gun Down](https://open.spotify.com/track/17zWJmzIhnp7h3TSr2qA4K) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 3:45 |
 | 104 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
-| 105 | [Naked](https://open.spotify.com/track/4h5m6VrCEHBW5yU8Eye5Fr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:00 |
-| 106 | [Silence](https://open.spotify.com/track/5xRXGn1oGliR7DdL6GSyUA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 2:36 |
+| 105 | [Silence](https://open.spotify.com/track/5xRXGn1oGliR7DdL6GSyUA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 2:36 |
+| 106 | [Naked](https://open.spotify.com/track/4h5m6VrCEHBW5yU8Eye5Fr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:00 |
 | 107 | [Either You Love Me Or You Don't \- Live Acoustic](https://open.spotify.com/track/6B3uybgQGoKkKT6k8MIbbm) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Either You Love Me Or You Don't \(Live Acoustic\)](https://open.spotify.com/album/5rJkAXsbIr9T4BCY2R1XsU) | 3:34 |
 | 108 | [I Don’t Wanna Know](https://open.spotify.com/track/5kNtYmydoA9Dd959vVlKBJ) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Astrid S](https://open.spotify.com/album/5iK2afnsB8wwv9WULCE9e7) | 2:56 |
 | 109 | [Something To Hold On To](https://open.spotify.com/track/4dUDznt8BZxEK4CMLF1pqB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:38 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 179 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 180 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Ab4zxgAAAAC2pVlKqY3lxVEd49qXwTid`
+Snapshot ID: `Ab45XAAAAAAJpZbpzEh0d+PjEDGDUp87`

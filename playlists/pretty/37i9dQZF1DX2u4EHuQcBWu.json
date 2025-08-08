@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 272398,
+  "num_followers": 272417,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "Aqu\u00ed No Pasa Nada",
+      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 202906,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Aqu\u00ed No Pasa Nada",
-      "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Buscando Chilenos Vol. 1",
-        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
-      },
-      "artists": [
-        {
-          "name": "Sexual Democracia",
-          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Cancion Pacifico-Violenta",
-      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "El Objeto Antes Llamado Disco",
         "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 273946,
       "name": "Zopilotes",
       "url": "https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Buscando Chilenos Vol. 1",
+        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
+      },
+      "artists": [
+        {
+          "name": "Sexual Democracia",
+          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Cancion Pacifico-Violenta",
+      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "S\u00edganme los Buenos",
-        "url": "https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 207580,
-      "name": "S\u00edganme los Buenos",
-      "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 237080,
       "name": "Rompan Todo",
       "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "S\u00edganme los Buenos",
+        "url": "https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 207580,
+      "name": "S\u00edganme los Buenos",
+      "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Pateando Craneos",
         "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 161666,
       "name": "La Fuerza Policial",
       "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Mortal",
+        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Su Madre Patria",
         "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 136000,
       "name": "Su Madre Patria",
       "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Mortal",
-        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "El Largo Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
-      },
-      "artists": [
-        {
-          "name": "Claudio Narea",
-          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Rico el Pa\u00eds",
-      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Cultura De La Basura",
         "url": "https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 482333,
       "name": "Poder Elegir",
       "url": "https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "El Largo Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
+      },
+      "artists": [
+        {
+          "name": "Claudio Narea",
+          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Rico el Pa\u00eds",
+      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 110308,
-      "name": "Matar al Presidente",
-      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/1il55HVMuXthlY1MYH1r7e"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 157106,
       "name": "Bandera",
       "url": "https://open.spotify.com/track/1ux8AW7eyqjbSNEZHLjz8d"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 110308,
+      "name": "Matar al Presidente",
+      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
     },
     {
       "added_at": "2024-05-10 03:00:00",

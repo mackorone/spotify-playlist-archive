@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 64888,
+  "num_followers": 64910,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,26 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
+        "name": "Bach: The Well-Tempered Clavier, Vol. I",
+        "url": "https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Dina Ugorskaja",
+          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
+        }
+      ],
+      "duration_ms": 85599,
+      "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
+      "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
         "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
         "url": "https://open.spotify.com/album/0UV8q0YH9hH2G1uW1rAgW6"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 209440,
       "name": "Concerto for 2 Keyboards in C Minor, BWV 1062: I. Allegro",
       "url": "https://open.spotify.com/track/6tGLa8kJr0sa4cvAFTC2ly"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: The Well-Tempered Clavier, Vol. I",
-        "url": "https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Dina Ugorskaja",
-          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
-        }
-      ],
-      "duration_ms": 85599,
-      "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
-      "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -531,26 +531,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Capriccio (from Partita No. 2 in C Minor BWV 826)",
         "url": "https://open.spotify.com/album/5bRXhMPEusvoRbjjJKKmxz"
       },
@@ -595,8 +575,8 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach",
-        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
       },
       "artists": [
         {
@@ -604,17 +584,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Lucas Jussen",
-          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
-        },
-        {
-          "name": "Arthur Jussen",
-          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
         }
       ],
-      "duration_ms": 297280,
-      "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo (performed on two pianos)",
-      "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -639,6 +615,30 @@
       "duration_ms": 430893,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
       "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach",
+        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lucas Jussen",
+          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
+        },
+        {
+          "name": "Arthur Jussen",
+          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+        }
+      ],
+      "duration_ms": 297280,
+      "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo (performed on two pianos)",
+      "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
     },
     {
       "added_at": "2025-01-24 04:00:20",

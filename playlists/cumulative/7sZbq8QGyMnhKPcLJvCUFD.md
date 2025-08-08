@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-745 songs - 1 day 13 hr 29 min
+746 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [AI](https://open.spotify.com/track/72URNFUYBZg3JHf6J6rD2l) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [AI](https://open.spotify.com/album/10YXQqv5CYLQqkPlCvXgLQ) | 3:09 | 2024-03-21 | 2024-09-29 |
 | [AIN'T MISS A CALL](https://open.spotify.com/track/0r3WvXuModSLGH7f1Mq7WQ) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [AIN'T MISS A CALL](https://open.spotify.com/album/16KaW5D0MBBI6GJpTVaiGU) | 2:34 | 2024-08-22 |  |
 | [AIWA](https://open.spotify.com/track/2PhjL9HTU2o6TM0CgYCcyr) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AIWA](https://open.spotify.com/album/0QL7eQbf5f935ww9GVQisq) | 1:45 | 2024-10-24 |  |
+| [akina](https://open.spotify.com/track/177BaRPFyShVUsqPSoO8nw) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB) | [akina](https://open.spotify.com/album/22KmAzAlwdTa2td0bUKOtQ) | 2:56 | 2025-08-07 |  |
 | [AKTIV](https://open.spotify.com/track/1Ss0ujwVKBM2j6VrKtgj3W) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [AKTIV](https://open.spotify.com/album/5DLiNZwFKKIRU8yZVwvE7b) | 2:37 | 2023-12-13 | 2024-05-01 |
 | [Alive](https://open.spotify.com/track/4T1N8cti8aQkYs9IjQn59H) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Alive](https://open.spotify.com/album/4EGBOOZGqeV1Rb5ScjvHuH) | 2:40 | 2023-01-10 | 2023-04-28 |
 | [Alive](https://open.spotify.com/track/1vnUM8WoxD53ZDt46J4u1d) | [Tamlin](https://open.spotify.com/artist/6SxLJrAEcNokqcw5vBF0zS) | [Alive](https://open.spotify.com/album/2lhmR04Crc9MfIgbJXiPI7) | 3:43 | 2025-05-13 |  |

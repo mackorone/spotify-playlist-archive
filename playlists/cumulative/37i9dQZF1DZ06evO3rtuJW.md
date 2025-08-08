@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-184 songs - 9 hr 7 min
+185 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ball \(feat\. Meek Mill\)](https://open.spotify.com/track/5bHUIeEigheHTuIyNFAyms) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:30 | 2024-11-11 | 2024-12-10 |
 | [Becoming](https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Blanco 6](https://open.spotify.com/album/2yRwXVqJ8Bz1jYUEghIsTk) | 2:51 | 2023-04-11 | 2023-06-21 |
 | [Been A While](https://open.spotify.com/track/0B0uobFNRxL0yr1zFZ0Fgw) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 3:25 | 2023-04-03 | 2023-05-30 |
-| [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 | 2022-10-28 |  |
+| [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 | 2022-10-28 | 2025-08-08 |
 | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:11 | 2022-10-28 | 2024-08-07 |
 | [Best Rapper Alive](https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:34 | 2025-04-11 | 2025-08-03 |
 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 | 2022-10-28 | 2023-01-27 |
@@ -34,6 +34,7 @@
 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 | 2022-10-28 |  |
 | [Change \(Gun Shots\)](https://open.spotify.com/track/6bEuvxnlot2M9SnyryuqLZ) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:25 | 2022-10-28 | 2022-11-05 |
 | [Chase Em Down \(feat\. G Herbo\)](https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trench Baby 3](https://open.spotify.com/album/0WcrXk7wQoVhbQSvIFpPMx) | 2:47 | 2022-10-28 | 2022-11-19 |
+| [Chase The Money](https://open.spotify.com/track/04l41AFdSZ57Gbt3pjr9T7) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Luka Troncic 2](https://open.spotify.com/album/3t2W1mEvbZEhZvu0q0vMKp) | 3:12 | 2025-08-08 |  |
 | [Chi\-Raq \(with G Herbo\)](https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:51 | 2023-03-09 | 2024-08-06 |
 | [Chicago to Memphis \(feat\. G Herbo\)](https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:29 | 2022-10-28 | 2024-06-21 |
 | [Chiraq Demons \(feat\. G Herbo\)](https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:54 | 2023-02-07 |  |

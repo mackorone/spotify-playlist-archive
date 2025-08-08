@@ -1,13 +1,29 @@
 {
   "description": "DEADBEATS &amp; BROWNIES - Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
-  "num_followers": 62883,
+  "num_followers": 62885,
   "original_name": "Zeds Dead's Deadbeats",
   "owner": {
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "AAAXS+toCKoy5t6hYyCYsLJNNNNR5N5t",
+  "snapshot_id": "AAAXTzaOFmfF9Q9fmoWy32NQPpkbul0X",
   "tracks": [
+    {
+      "added_at": "2025-08-07 18:46:01",
+      "album": {
+        "name": "Keep Running From Love",
+        "url": "https://open.spotify.com/album/2QzywadApSgw3L8FTD4akO"
+      },
+      "artists": [
+        {
+          "name": "Bobby Love",
+          "url": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Keep Running From Love",
+      "url": "https://open.spotify.com/track/7HHVDMk9cZSpftr5Qm2Vsu"
+    },
     {
       "added_at": "2025-01-17 05:03:22",
       "album": {
@@ -727,6 +743,46 @@
       "duration_ms": 154285,
       "name": "Pelican",
       "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
+    },
+    {
+      "added_at": "2025-08-07 18:46:44",
+      "album": {
+        "name": "RELIC",
+        "url": "https://open.spotify.com/album/78TemQFA5d8qKy6MCCAp5p"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "RELIC",
+      "url": "https://open.spotify.com/track/4IxYVV46tSKMPiLT4w76F8"
+    },
+    {
+      "added_at": "2025-08-07 18:47:01",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/3ioOAyQoOO8SHFUxDGfkIQ"
+      },
+      "artists": [
+        {
+          "name": "Phrva",
+          "url": "https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7"
+        },
+        {
+          "name": "Don Jamal",
+          "url": "https://open.spotify.com/artist/3b1DIrWDwR8A5gxBgWt0DV"
+        },
+        {
+          "name": "Rakjay",
+          "url": "https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Collected",
+      "url": "https://open.spotify.com/track/3qvChm8u7FznuEHtmnEGzE"
     }
   ],
   "unique_name": "Zeds Dead's Deadbeats",

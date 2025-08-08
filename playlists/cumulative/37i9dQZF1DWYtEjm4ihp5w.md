@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Valerieblud
+> Cover: Shaw
 
-425 songs - 22 hr 25 min
+426 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [KIKI](https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 2:59 | 2024-10-13 | 2024-11-08 |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-06 | 2024-04-02 |
 | [Kola Lila](https://open.spotify.com/track/2VqhFDBSEwU19GdTWs4Ehf) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Kola Lila](https://open.spotify.com/album/0b43XR2Qo0YHr0SjPCDy5S) | 3:27 | 2025-05-15 | 2025-07-17 |
-| [Kolla Sa3a](https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Kolla Sa3a](https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV) | 2:31 | 2025-02-03 |  |
+| [Kolla Sa3a](https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Kolla Sa3a](https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV) | 2:31 | 2025-02-03 | 2025-08-08 |
 | [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 | 2025-06-27 |  |
 | [Koulchi Dial Alah](https://open.spotify.com/track/3JKgfoiKyBdxF2sw2lPNUH) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Koulchi Dial Allah](https://open.spotify.com/album/2ot0LJmlCgjB8ml3oFK6OL) | 2:57 | 2025-07-16 |  |
 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 | 2022-11-25 | 2023-02-14 |
@@ -240,6 +240,7 @@
 | [MAKISALICH](https://open.spotify.com/track/5TyZgckgGJqM1fw3Ddg8D0) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [MAKISALICH](https://open.spotify.com/album/0IwEjmFl0ULYBJxCfuggui) | 2:46 | 2023-12-15 | 2024-01-05 |
 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-08-01 | 2025-01-10 |
 | [MARADONA \- Remix](https://open.spotify.com/track/1eiL5AM3hsfhrmXkfSKlfj) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [MARADONA \- Remix](https://open.spotify.com/album/0QXUQiwAzEr5mlyqTq8AqW) | 2:38 | 2024-08-17 | 2024-09-25 |
+| [Marceline](https://open.spotify.com/track/5eqhJGx7N5bXvLmO7jc9CR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Marceline](https://open.spotify.com/album/7xfJ3XGJxiXPB5qqTZkxxS) | 2:55 | 2025-08-08 |  |
 | [MARK](https://open.spotify.com/track/7xuoic8xwZtXu6iK2HAjTZ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [MARK](https://open.spotify.com/album/3Sx4uvZhdQW38tYqIjRCVW) | 3:00 | 2022-11-14 | 2023-01-06 |
 | [MATAL3ACH](https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MATAL3ACH](https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH) | 2:55 | 2024-02-14 | 2024-12-06 |
 | [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-05-21 |  |

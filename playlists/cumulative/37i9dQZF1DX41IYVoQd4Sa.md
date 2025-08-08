@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : רועי ריק
 
-279 songs - 16 hr 24 min
+280 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [אלבי](https://open.spotify.com/track/0uL2TjyNqgBgbXIxzqcv9y) | [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [אלבי](https://open.spotify.com/album/2LgPeo7Kk22ksXeNO5AA8R) | 3:26 | 2025-03-06 | 2025-06-06 |
 | [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 | 2024-12-12 | 2025-05-24 |
 | [אנטישיימינג](https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu) | [Roy Rieck](https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI) | [אנטישיימינג](https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P) | 2:41 | 2025-02-27 | 2025-04-11 |
+| [אני חושב עליה](https://open.spotify.com/track/15ZdDwpwC1XKOCdf126MSl) | [Sabbo](https://open.spotify.com/artist/1Le4RKC0GO8sD4cRxmqlgp), [ג'ודה](https://open.spotify.com/artist/4EuR8Rf7R63cZJNPUKeeR8) | [אני חושב עליה](https://open.spotify.com/album/0ZKPHBQvjviJbxkdCA5KqI) | 3:14 | 2025-08-07 |  |
 | [אני משם](https://open.spotify.com/track/0Uo6rxBwnTQZ1Lww9QKoOZ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [אני משם](https://open.spotify.com/album/7MhmKMc9s08TnCqnVCOBHi) | 3:30 | 2025-01-02 | 2025-02-21 |
 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 | 2024-06-27 | 2024-11-14 |
 | [אפוקליפסה](https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [כישוף](https://open.spotify.com/album/1DwHJ5aREc5hKCyv6uI1Eg) | 3:17 | 2024-06-27 | 2024-07-23 |
@@ -124,7 +125,7 @@
 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 | 2025-03-27 |  |
 | [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 | 2024-06-27 |  |
 | [בלדה לנהג מונית \(מושיקו\) \- בהופעה חיה מהבארבי](https://open.spotify.com/track/6ADHsTTcJzx9Ls6l6qW27V) | [Dudy Levy](https://open.spotify.com/artist/6BXPyhT8Ue5Trc1Q315PRm), [Dan Toren](https://open.spotify.com/artist/285uARLcuYJ5SqmbGnJuRl) | [בלדה לנהג מונית \(מושיקו\) \[בהופעה חיה מהבארבי\]](https://open.spotify.com/album/11EHrUuVEfsHrUjdjsoD7b) | 9:09 | 2024-07-04 | 2024-07-19 |
-| [במושב חשוך](https://open.spotify.com/track/02yNuxq20jgUTw6TEHu4B4) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS) | [טהר היה פה](https://open.spotify.com/album/5nsTKUAiAynArL0hKi7XG9) | 3:14 | 2025-07-03 |  |
+| [במושב חשוך](https://open.spotify.com/track/02yNuxq20jgUTw6TEHu4B4) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS) | [טהר היה פה](https://open.spotify.com/album/5nsTKUAiAynArL0hKi7XG9) | 3:14 | 2025-07-03 | 2025-08-08 |
 | [במקום אחר](https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [במקום אחר](https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ) | 3:25 | 2024-07-04 | 2024-08-08 |
 | [בסוף אני מגן דוד](https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf) | [Avihu Pinhasov Rhythm Club](https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r) | [בסוף אני מגן דוד](https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW) | 3:54 | 2024-06-27 | 2025-05-09 |
 | [בעיה](https://open.spotify.com/track/06mwtZPJKcCvjgQd3zClub) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [לא אותו דבר](https://open.spotify.com/album/1lREjueFvl6imy3HF0UkSW) | 3:04 | 2025-05-08 | 2025-06-27 |

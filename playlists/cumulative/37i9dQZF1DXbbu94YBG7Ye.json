@@ -2735,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "De Papel",
+        "url": "https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166753,
+      "name": "De Papel",
+      "url": "https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu"
+    },
+    {
+      "album": {
         "name": "TRAMPA AL TIEMPO",
         "url": "https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77"
       },

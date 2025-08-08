@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,973,681 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,973,599 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 57 | [Soaked \- Sped Up](https://open.spotify.com/track/2wHzwFZZ0gMPI9TnfRxq4z) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked \(Sped Up\)](https://open.spotify.com/album/4GrvG3QBiwLAfDEJ1cx2Fn) | 2:43 |
 | 58 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
 | 59 | [Feather \- Sped Up](https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Feather \(Sped Up\)](https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF) | 2:33 |
-| 60 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 |
-| 61 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 |
+| 60 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 |
+| 61 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 |
 | 62 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
 | 63 | [If We Have Each Other \(Always By Her Side\) \- Sped Up Version](https://open.spotify.com/track/1B2mOfWYc7EatMwnVx1g1x) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [If We Have Each Other \(Always By Her Side\) \[Sped Up Version\]](https://open.spotify.com/album/6THJRzfxXMd5tjtt4uqFGY) | 2:36 |
 | 64 | [Pool \- Gravagerz Version \- Sped Up](https://open.spotify.com/track/0yQOKvmYpZDzMmOMS9qY1u) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Pool \(Gravagerz Version \- Sped Up & Slowed Down\)](https://open.spotify.com/album/0x2OZtWCIZP5tDBazcPdlJ) | 1:57 |

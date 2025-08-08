@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 180320,
       "name": "Pineapple Juice",
       "url": "https://open.spotify.com/track/5cVd0qp9h0yFcAB9UfGqtd"
@@ -4022,6 +4022,28 @@
       "duration_ms": 184436,
       "name": "So I Don't Forget",
       "url": "https://open.spotify.com/track/2M2ghHSmrQrIJxAA8ElptH"
+    },
+    {
+      "album": {
+        "name": "Soft Error",
+        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Soap (feat. PinkPantheress)",
+      "url": "https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a"
     },
     {
       "album": {
@@ -4464,6 +4486,24 @@
       "duration_ms": 236626,
       "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
       "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
+    },
+    {
+      "album": {
+        "name": "THIS IS ME:I",
+        "url": "https://open.spotify.com/album/1EJTdy5dolIq6V6pk4CWmL"
+      },
+      "artists": [
+        {
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "THIS IS ME:I",
+      "url": "https://open.spotify.com/track/0HitU68kvJIg3ykgYwsKzQ"
     },
     {
       "album": {

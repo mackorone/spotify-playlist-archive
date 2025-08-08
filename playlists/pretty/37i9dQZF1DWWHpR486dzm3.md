@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa emma & matilda.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa Rebekka Holi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,951 likes - 81 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,953 likes - 81 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 80 | [Salla\-Maria! \(Syö tää maailma\)](https://open.spotify.com/track/0hLqvzTCi2FMrzL6kBkTXJ) | [Itcevät](https://open.spotify.com/artist/1dqKlPZyKIsxrmEkk1brEp) | [Salla\-Maria! \(Syö tää maailma\)](https://open.spotify.com/album/3qxX2Jj6E9vEpdV7qwpY6E) | 3:48 |
 | 81 | [Lentoon, lentoon](https://open.spotify.com/track/1OwNcpSHpJo5KKqMIyzHls) | [Tanssiva Karhu](https://open.spotify.com/artist/0nhthLnXc1VlNLy68ttz6O) | [Korillinen sieniä](https://open.spotify.com/album/24xPJC08oyFR14IITXSHHL) | 2:59 |
 
-Snapshot ID: `AAAAACaIAgHsiBVH1Ms3V0oB8A0tJjH4`
+Snapshot ID: `AAAAADzB3maTNrXBLGU+4pSvEa1kckyx`

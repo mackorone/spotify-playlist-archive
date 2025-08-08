@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 303716,
       "name": "50%",
       "url": "https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 226829,
       "name": "B.U.G.",
       "url": "https://open.spotify.com/track/1XGT4NAcBBqJB934gLxs5v"
@@ -8236,7 +8236,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 204642,
       "name": "Himawari",
       "url": "https://open.spotify.com/track/3zAT5mp55suon1oUHPOOqT"
@@ -8914,6 +8914,24 @@
       "duration_ms": 183072,
       "name": "I was...",
       "url": "https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er"
+    },
+    {
+      "album": {
+        "name": "I Wish to See You Again",
+        "url": "https://open.spotify.com/album/1egT4g5YxhH1F7YdVVDMQf"
+      },
+      "artists": [
+        {
+          "name": "KANKAKU PIERO",
+          "url": "https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "I Wish to See You Again",
+      "url": "https://open.spotify.com/track/3RV8UKmfpbzeqXvAGIt1Ur"
     },
     {
       "album": {
@@ -10207,6 +10225,24 @@
     },
     {
       "album": {
+        "name": "Kiss Kiss Kiss",
+        "url": "https://open.spotify.com/album/09kDSsRW2LELBw2Pjk8tWf"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129349,
+      "name": "Kiss Kiss Kiss",
+      "url": "https://open.spotify.com/track/0t2jF8atu9yRgeO1IiHrBV"
+    },
+    {
+      "album": {
         "name": "KISS ME HONEY",
         "url": "https://open.spotify.com/album/3GA3sKnqh2dUb8Puoej4oG"
       },
@@ -10460,7 +10496,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 235127,
       "name": "Kon! Kon! (feat. Bloodywood)",
       "url": "https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz"
@@ -12970,6 +13006,28 @@
       "duration_ms": 200752,
       "name": "My Own Salvation",
       "url": "https://open.spotify.com/track/4LkzQ531jFA5ZHXxy5SxO2"
+    },
+    {
+      "album": {
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
     },
     {
       "album": {
@@ -21130,6 +21188,24 @@
       "duration_ms": 319623,
       "name": "Unbalanced Blend",
       "url": "https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY"
+    },
+    {
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/5tAtAEYw3APBdGHEAfhri7"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222972,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/5EbiodhQuI6g58AC43RtEu"
     },
     {
       "album": {
@@ -36656,6 +36732,24 @@
       "duration_ms": 222666,
       "name": "\u5929\u56fd\u8857\u9053",
       "url": "https://open.spotify.com/track/6svY2OYpwFRP7UJwfzlaof"
+    },
+    {
+      "album": {
+        "name": "\u5929\u8077",
+        "url": "https://open.spotify.com/album/3SDXPdj35eW5AhdOltCCpY"
+      },
+      "artists": [
+        {
+          "name": "3markets[ ]",
+          "url": "https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195300,
+      "name": "\u5929\u8077",
+      "url": "https://open.spotify.com/track/2uHNkEJPAuaepBpr6NfQnE"
     },
     {
       "album": {

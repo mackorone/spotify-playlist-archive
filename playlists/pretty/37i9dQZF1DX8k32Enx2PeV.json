@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 13956,
+  "num_followers": 13966,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
+        "name": "Buen Pez (Deluz)",
+        "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Regalo",
+      "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
         "name": "Afro Vibes",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 196271,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
-        "name": "Buen Pez (Deluz)",
-        "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Regalo",
-      "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Quiz\u00e1s (La Historia de Nosotros)",
         "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
-      },
-      "artists": [
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 182643,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 155613,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
+      },
+      "artists": [
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "duration_ms": 182643,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
+        "name": "Un Poco Menos Idiota",
+        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 225547,
+      "name": "Un Poco Menos Idiota",
+      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 212013,
       "name": "Calor",
       "url": "https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
-        "name": "Un Poco Menos Idiota",
-        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 225547,
-      "name": "Un Poco Menos Idiota",
-      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
+        "name": "XOD\u00d3",
+        "url": "https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo"
+      },
+      "artists": [
+        {
+          "name": "JBot & Tuti",
+          "url": "https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "XOD\u00d3",
+      "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 194770,
       "name": "Pa' que lo bailen - Radio Edit",
       "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
-        "name": "XOD\u00d3",
-        "url": "https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo"
-      },
-      "artists": [
-        {
-          "name": "JBot & Tuti",
-          "url": "https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "XOD\u00d3",
-      "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
     },
     {
       "added_at": "2025-05-30 15:44:41",

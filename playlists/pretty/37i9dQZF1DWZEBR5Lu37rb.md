@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,113 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,177 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 51 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
 | 52 | [Ubuhle Bakho](https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Imali](https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy) | 3:18 |
 | 53 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
-| 54 | [uThando](https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Soulful G](https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [uThando](https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk) | 8:04 |
-| 55 | [Selfish](https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Selfish](https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI) | 4:04 |
-| 56 | [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 |
+| 54 | [Selfish](https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Selfish](https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI) | 4:04 |
+| 55 | [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 |
+| 56 | [uThando](https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Soulful G](https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [uThando](https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk) | 8:04 |
 | 57 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 |
 | 58 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 |
 | 59 | [Odo](https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo) | 3:06 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 67 | [Perfect Design](https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Perfect Design](https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob) | 3:28 |
 | 68 | [Nadekezwa](https://open.spotify.com/track/3hNmfiQKKwKYi7wKvcN3Lj) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nadekezwa](https://open.spotify.com/album/0JqFpB5rG1whb47fAL2yX6) | 3:48 |
 | 69 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 |
-| 70 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 |
-| 71 | [Isabella](https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:32 |
+| 70 | [Isabella](https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:32 |
+| 71 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 |
 | 72 | [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 |
 | 73 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 74 | [Jeraha](https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Jeraha](https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O) | 3:01 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 92 | [Me Ne Woa](https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Me Ne Woa](https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi) | 3:40 |
 | 93 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
 | 94 | [Sobabili](https://open.spotify.com/track/2dyYRTVdDFjnSQ6elduMG1) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Thabisile](https://open.spotify.com/artist/249mio3FcuZXmITjyS69Uz) | [Best of DJ Bongz, Vol\. 1](https://open.spotify.com/album/0mcfKi5RkrrFXslOlS5N6R) | 6:26 |
-| 95 | [Ritwa Riaku](https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz) | [Sawa Sawa](https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw) | 3:35 |
-| 96 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 |
+| 95 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 |
+| 96 | [Ritwa Riaku](https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz) | [Sawa Sawa](https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw) | 3:35 |
 | 97 | [FOU DE TOi](https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E) | [ELEMENT EleéeH](https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU), [Ross Kana](https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [FOU DE TOi](https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x) | 3:57 |
 | 98 | [Ndilinde](https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 5:52 |
 | 99 | [Breath Away](https://open.spotify.com/track/4rfxJw6Ujuqo7swQfjlppQ) | [Radio And Weasel](https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP) | [Radio & Weasel](https://open.spotify.com/album/2oiaqdD3XKbjEHHiE6pYtC) | 4:04 |

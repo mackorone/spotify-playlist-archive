@@ -2,7 +2,7 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> The next pop crop 💐 feat\. fliss
+> Homegrown talent 🥀 feat\. Cameron Hayes
 
 655 songs - 1 day 9 hr 31 min
 

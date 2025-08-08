@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,424 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,416 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 38 | [Move](https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:34 |
 | 39 | [The Doo\-Bop Song](https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Doo\-Bop](https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl) | 4:57 |
 | 40 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 |
-| 41 | [Blue Haze \- Remastered 2024](https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '54: The Prestige Recordings \(Remastered 2024\)](https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg) | 6:12 |
-| 42 | [Blue Room \- Take 2](https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Davis And Horns](https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA) | 3:00 |
+| 41 | [Blue Room \- Take 2](https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Davis And Horns](https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA) | 3:00 |
+| 42 | [Blue Haze \- Remastered 2024](https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '54: The Prestige Recordings \(Remastered 2024\)](https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg) | 6:12 |
 | 43 | [Mystery](https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Doo\-Bop](https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl) | 3:56 |
 | 44 | [Dune Mosse](https://open.spotify.com/track/4GL0qsiLoCN2rV1SlZh6oW) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [ZU & Co.](https://open.spotify.com/album/7KLdrRb8E0Y8ueALiGuWaY) | 5:44 |
 | 45 | [I Loves You, Porgy \(From "Porgy & Bess"\)](https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 49 | [Airegin \- RVG Remaster](https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 4:59 |
 | 50 | [My Funny Valentine \- Remastered](https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Only One and Fantastic..\. Miles Davis \(Remastered\)](https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6) | 5:57 |
 
-Snapshot ID: `aJFJgAAAAACxf7axGf9yg+cxUr1Fnjs0`
+Snapshot ID: `aJKbAAAAAAD4G8zJFv1r+l+UaP8LLVWO`

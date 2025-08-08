@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-348 songs - 1 day 8 hr 5 min
+349 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [My Testimony](https://open.spotify.com/track/196FnomJI3OvKmLy6PyFWk) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [I Win](https://open.spotify.com/album/0dUwwydEAKBx0aF0tXK2Fu) | 10:25 | 2018-09-23 | 2023-11-03 |
 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 | 2023-06-23 | 2023-11-10 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-08-08 | 2025-07-11 |
-| [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2024-08-16 |  |
+| [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2024-08-16 | 2025-08-08 |
 | [Nearer My God to Thee](https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gospel](https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv) | 4:10 | 2021-07-23 | 2023-06-23 |
 | [Net Een Naam](https://open.spotify.com/track/578ejxjcublbBj2IJ9bKly) | [Retief Burger](https://open.spotify.com/artist/38SqGSrjDDkrsjicMn5vLl) | [Net Een Naam](https://open.spotify.com/album/2FMPMpKV6UBsKvalipOWtJ) | 3:41 | 2023-06-02 | 2023-06-23 |
 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 | 2018-09-23 |  |
@@ -337,6 +337,7 @@
 | [yet \(don't give up\)](https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [yet \(don't give up\)](https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft) | 5:02 | 2023-08-04 |  |
 | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N), [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb) | 5:50 | 2023-11-03 |  |
 | [YHWH \(Yahweh\)](https://open.spotify.com/track/0sPPjgqVXD58wnhwQBHLsF) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [YHWH](https://open.spotify.com/album/0RnxHhEYGNqrL5fY2YyIIN) | 5:43 | 2018-09-23 | 2023-11-03 |
+| [You & Me](https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [You & Me](https://open.spotify.com/album/3OGu7hRk9AmV0GvBDXIJZA) | 3:18 | 2025-08-08 |  |
 | [You Alone](https://open.spotify.com/track/3qNqxoGxk23x4cHZByFQoC) | [His Church Music](https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp), [Ndaba Mkhizé](https://open.spotify.com/artist/73LkczJLNAM5E2uxPD841H) | [You Alone](https://open.spotify.com/album/0Ecl7SrBRaXPxQWnIV2JM7) | 4:51 | 2023-08-25 | 2023-11-03 |
 | [You are Great](https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 6:23 | 2024-08-08 | 2024-08-16 |
 | [You Are Mine](https://open.spotify.com/track/5LbxBIt0JlbVvLKBBCQjYz) | [Garreth Trent](https://open.spotify.com/artist/4Q9NYGtXNcM9Oe3PWmmu3K) | [You Are Mine](https://open.spotify.com/album/5J3Mg2iG1KNbkOGcHbuedo) | 3:12 | 2023-07-28 | 2023-11-03 |

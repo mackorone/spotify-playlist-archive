@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48167,
+  "num_followers": 48181,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADGB/Pi8SYWMRESHC9Ch9Rp",
+  "snapshot_id": "aJKbAAAAAADwvzgVbt1arG1sNbK19jo8",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 171640,
-      "name": "Through",
-      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
+      "duration_ms": 318373,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
     },
     {
       "added_at": null,
@@ -744,25 +744,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 318373,
-      "name": "You With Me",
-      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 198506,
-      "name": "Heart Is Hard To Find",
-      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+      "duration_ms": 171640,
+      "name": "Through",
+      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 187800,
       "name": "Damage",
       "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 ### [New Dance 2025](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
 
-> Wekelijkse update! Cover: Dimitri Vegas, David Guetta, Loreen
+> Wekelijkse update! Cover: Marlon Hoffstadt & KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,674 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,690 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 89 | [Inside Our Hearts](https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Inside Our Hearts](https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh) | 3:54 |
 | 90 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 |
 
-Snapshot ID: `AAAAAI2NMNyN8errb5EVWmPWttHCXXyt`
+Snapshot ID: `AAAAAKARK+kjReNhZLGjkLR++DTEm+0e`

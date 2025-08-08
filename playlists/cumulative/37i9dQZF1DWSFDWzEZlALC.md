@@ -2,7 +2,7 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Kasi, antonius
+> Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
 1,330 songs - 2 day 14 hr 43 min
 

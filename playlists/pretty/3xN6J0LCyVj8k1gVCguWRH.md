@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,890 likes - 171 songs - 10 hr 8 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,899 likes - 175 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 22 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
 | 23 | [Si Estás Tú](https://open.spotify.com/track/73boys8t6EZpAaTkqe7eUb) | [Mercee](https://open.spotify.com/artist/43XYW7dEnlB8qXeQafi9zm) | [Si Estás Tú](https://open.spotify.com/album/2Fjqvwu2gOdhyy5euBlukf) | 2:26 |
 | 24 | [When it's Gone](https://open.spotify.com/track/3XSRryeonl2y5xRcjFtyPz) | [FAKE SUEDE](https://open.spotify.com/artist/3TPkxwAXlQDOcD91eFZWUW), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [When it's Gone](https://open.spotify.com/album/3eXdda5b3gTd7gSTNvP8N3) | 3:20 |
-| 25 | [Skinny Dipping](https://open.spotify.com/track/5lwsly944rxlv6o2ool4C9) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping](https://open.spotify.com/album/5rohcX0M6cNgydvdgbpChC) | 3:10 |
+| 25 | [RUN RUN](https://open.spotify.com/track/77hONi1pxGMX803NZt6sPA) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [RUN RUN](https://open.spotify.com/album/7qM5VUcbg6robHJLaGKdMh) | 2:58 |
 | 26 | [Home](https://open.spotify.com/track/7AxzI341uEovhbHcW68H0Q) | [Ben Francis](https://open.spotify.com/artist/6YaveLiPG6z2BPXBMf4nms) | [Home](https://open.spotify.com/album/5MRYcRq7cYECwBxzBmLUH4) | 2:52 |
 | 27 | [I Love Everything About You](https://open.spotify.com/track/40lFDDp9VfIIA5pifXygXM) | [IntraVknows](https://open.spotify.com/artist/0CUm8oyD2dE0kjhJUD2dGE) | [I Love Everything About You](https://open.spotify.com/album/7gEYgQLHUG4tSZ1gshnthL) | 3:32 |
 | 28 | [Last Name](https://open.spotify.com/track/6aL8z4bV0B1B3eQuFVTAuA) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Last Name](https://open.spotify.com/album/2O2C4UXvReiJlo99cuzLU0) | 3:22 |
@@ -177,7 +177,11 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 167 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 168 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 169 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 170 | [Make It Rain](https://open.spotify.com/track/7EIvSDk1RM2hZRzVx4KuSD) | [EJ Rose](https://open.spotify.com/artist/3aWqQvuvCbTcOKKX0CXOJV) | [Pain To Love](https://open.spotify.com/album/72wqPbxlo3ITrUghqg6R5l) | 3:19 |
-| 171 | [Young Blood](https://open.spotify.com/track/15zO6KG1cc8PG8zTHPr9mG) | [Nick Ryan](https://open.spotify.com/artist/5B5y0bD85xKFIlhMGCeqoy), [Joey Falcone](https://open.spotify.com/artist/4KA9rESUxMgWdO4b7S7scd) | [Young Blood](https://open.spotify.com/album/3B4ChBcW3TsQvsPEDMpRi6) | 3:50 |
+| 170 | [Brooklyn Baby](https://open.spotify.com/track/5ZRQsOs28J9L6pwv2WNJRh) | [Don't Believe in Ghosts](https://open.spotify.com/artist/5uLKc9jyRkcyoTNF1JLWe1) | [Brooklyn Baby](https://open.spotify.com/album/6ntm4LThhit6AcJNniegyj) | 2:43 |
+| 171 | [Belong To](https://open.spotify.com/track/0BRaZlgcLYiOQJLIOVQSvN) | [Jonas Aarmo](https://open.spotify.com/artist/1hekQY6PEcNlwEvGj3h7LY) | [Belong To](https://open.spotify.com/album/4gVoiwCZLAuqaJ8AVQ3wIW) | 2:57 |
+| 172 | [Candace](https://open.spotify.com/track/4NAui7VkRPsxUrLEfyTunx) | [Alejandro Brooks](https://open.spotify.com/artist/3ipfeuF3OdqWX0tXu3q6ri) | [Candace](https://open.spotify.com/album/49DIayGXOxsLYQTbfjewIz) | 3:13 |
+| 173 | [STAY GOLD](https://open.spotify.com/track/1mXE2B8JGdxMqr8kjk30Vg) | [Nick Draucker](https://open.spotify.com/artist/2u7ml9yIpo6madKs59WqYC) | [STAY GOLD](https://open.spotify.com/album/3nB2vKgXhCSWRPKx5Ws9rH) | 3:02 |
+| 174 | [Make It Rain](https://open.spotify.com/track/7EIvSDk1RM2hZRzVx4KuSD) | [EJ Rose](https://open.spotify.com/artist/3aWqQvuvCbTcOKKX0CXOJV) | [Pain To Love](https://open.spotify.com/album/72wqPbxlo3ITrUghqg6R5l) | 3:19 |
+| 175 | [Young Blood](https://open.spotify.com/track/15zO6KG1cc8PG8zTHPr9mG) | [Nick Ryan](https://open.spotify.com/artist/5B5y0bD85xKFIlhMGCeqoy), [Joey Falcone](https://open.spotify.com/artist/4KA9rESUxMgWdO4b7S7scd) | [Young Blood](https://open.spotify.com/album/3B4ChBcW3TsQvsPEDMpRi6) | 3:50 |
 
-Snapshot ID: `AAAzqzUawhz8bgeRwkri+ORPJbqU6vZf`
+Snapshot ID: `AAAzsksQrgEo1vVfEHi9urNGRaJuInvC`

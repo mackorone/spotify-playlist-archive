@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 15225,
+  "num_followers": 15231,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACfRvM6IjbhBJWscA9ctRj+",
+  "snapshot_id": "aJKbAAAAAADslJ9tBu9fcCrsK9aZgGuq",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+        "name": "Brackish (Live)",
+        "url": "https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 171160,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO"
+      "duration_ms": 172334,
+      "name": "Brackish (Live)",
+      "url": "https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brackish (Live)",
-        "url": "https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 172334,
-      "name": "Brackish (Live)",
-      "url": "https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Failed You",
         "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
+      "duration_ms": 258293,
+      "name": "Whisper Of Death",
+      "url": "https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q"
     },
     {
       "added_at": null,
@@ -708,9 +692,25 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 258293,
-      "name": "Whisper Of Death",
-      "url": "https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q"
+      "duration_ms": 177000,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO"
     },
     {
       "added_at": null,

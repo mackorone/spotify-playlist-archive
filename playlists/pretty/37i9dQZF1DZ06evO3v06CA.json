@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 202586,
+  "num_followers": 202606,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAB3WCMZZ0+E/sO88wYxR9k/",
+  "snapshot_id": "aJKbAAAAAADzNHBaZiwQAsUmlcGId6Hl",
   "tracks": [
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To All The Girls...",
-        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Paula Nelson",
-          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
-        }
-      ],
-      "duration_ms": 278653,
-      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
-      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tuskegee (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To All The Girls...",
+        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Paula Nelson",
+          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
+        }
+      ],
+      "duration_ms": 278653,
+      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
+      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
     },
     {
       "added_at": null,
@@ -1315,22 +1315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh What A Beautiful World",
-        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         },
         {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 240053,
-      "name": "Oh What A Beautiful World - feat. Rodney Crowell",
-      "url": "https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ"
+      "duration_ms": 169600,
+      "name": "Just to Satisfy You",
+      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
     }
   ],
   "unique_name": "This Is Willie Nelson",

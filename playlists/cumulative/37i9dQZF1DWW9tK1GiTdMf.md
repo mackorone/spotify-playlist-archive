@@ -4,7 +4,7 @@
 
 > musica per un'estate non proprio felice \(naska in cover\)
 
-1,461 songs - 2 day 18 hr 58 min
+1,464 songs - 2 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [24/7](https://open.spotify.com/track/032zxhpUSSgQMrHiplLHlY) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT) | [24/7](https://open.spotify.com/album/7IEkJjglrq8Q9wLRxqapTD) | 2:19 | 2022-05-11 | 2022-09-09 |
 | [2CUP \(feat\. Plant\)](https://open.spotify.com/track/6MisDoSeJXHLctdIoeBrzz) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ) | [2CUP \(feat\. Plant\)](https://open.spotify.com/album/3YXTuso7NDdQFccxbnRfP5) | 2:04 | 2025-06-26 |  |
 | [3000KCAL](https://open.spotify.com/track/52y7p60kakvlLexOgrZW8P) | [daze+](https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT), [+sudore](https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC), [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [3000KCAL](https://open.spotify.com/album/1HHyzFmNU7fHfSX3clJDG5) | 2:25 | 2025-04-24 | 2025-05-23 |
+| [32 denti](https://open.spotify.com/track/7lryExfvt5484BVo3FT1J8) | [millepaure](https://open.spotify.com/artist/7Ch7MLfFSiVCLWYnX7a7sH), [steee](https://open.spotify.com/artist/7a8lQ49m8Drh1VyYouoBZL) | [32 denti](https://open.spotify.com/album/0HERfVhaDzAqdKcqaXbD2h) | 2:12 | 2025-08-07 |  |
 | [4 di mattina \(feat\. Luke Lecomte\)](https://open.spotify.com/track/39HrsZjGGQT4BTXJBtietd) | [tommi](https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd), [moth.](https://open.spotify.com/artist/7IVTJLKDkABhe1gNoqgSEr), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc) | [4 di mattina \(feat\. Luke Lecomte\)](https://open.spotify.com/album/6XcUz1DgihTp473B9Wc2TW) | 2:54 | 2025-05-15 | 2025-07-11 |
 | [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 | 2025-05-08 |  |
 | [5 Weekend](https://open.spotify.com/track/708WzykUcMyN06gEP4TngG) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [5 Weekend](https://open.spotify.com/album/2eUEDPYfKfvM89I4BcEmlZ) | 2:34 | 2022-06-30 | 2022-07-29 |
@@ -821,6 +822,7 @@
 | [Mille pare](https://open.spotify.com/track/2XzN0SolJ8TVddPRcfLeUN) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Mille pare](https://open.spotify.com/album/2Yz4jWAU8rcdhN8ZLYySPO) | 2:54 | 2023-04-27 | 2023-05-12 |
 | [Millennial](https://open.spotify.com/track/66Tti9hLmn4VBjl2EiyhP2) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Millennial](https://open.spotify.com/album/5L3rLbYNTdEdINAXJRYXj1) | 2:45 | 2023-06-08 | 2023-06-23 |
 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-07-24 |  |
+| [miss u ;\(](https://open.spotify.com/track/3QTuUPE9s0GeMRFvikSsb7) | [SAN JUNO](https://open.spotify.com/artist/7HIpFHpLPz4sBqLVdd8Zjz) | [miss u ;\(](https://open.spotify.com/album/3dn98wuoZsvY1qsUZvDJZN) | 3:07 | 2025-08-07 |  |
 | [Miyazaki](https://open.spotify.com/track/6dhTRz5aUxVNmHnh3r65qx) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI 2](https://open.spotify.com/album/4OCF3ssNCqCPaA7MyhZ0qu) | 3:02 | 2023-03-09 | 2023-04-14 |
 | [MK ULTRA](https://open.spotify.com/track/30e9jkqHO5hyoctpZeJom3) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [MK ULTRA](https://open.spotify.com/album/6QeQUmYtzMAIswiSdGUrV9) | 2:18 | 2023-10-19 | 2023-12-22 |
 | [MOLLY PARADISO](https://open.spotify.com/track/5drETqfltac7UqxTgSsTu1) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [METANOIA](https://open.spotify.com/album/1iFIoZrqsu6i7Hp6SyDv5Q) | 2:24 | 2025-04-10 |  |
@@ -946,6 +948,7 @@
 | [ORE PERSE](https://open.spotify.com/track/5wUbjo4pTWZSLpuXLy199u) | [Keiden](https://open.spotify.com/artist/7vDYluyeES43WBk8Jk29Ib) | [ORE PERSE](https://open.spotify.com/album/2lYwiE7zv2fZkye9AA1tWi) | 2:21 | 2024-12-12 | 2025-01-31 |
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-05-02 | 2024-10-18 |
 | [OTTOBRE](https://open.spotify.com/track/2EaYpdHtbZOpbhz7xnEEjz) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [OTTOBRE](https://open.spotify.com/album/6pJMdxKlCy3OX0mVqHbbi9) | 2:53 | 2023-11-09 | 2024-03-22 |
+| [outlaw overture](https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lost americana](https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6) | 5:02 | 2025-08-07 |  |
 | [Pagine vuote](https://open.spotify.com/track/3waeGJeHycGKpjmGZkhyLN) | [DALAI XV](https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6) | [SAD VIBES](https://open.spotify.com/album/0emE6rPetEtBDMRcAc2h9x) | 2:18 | 2024-08-08 | 2024-10-04 |
 | [PainHub](https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [PainHub](https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx) | 2:16 | 2023-03-30 | 2023-06-02 |
 | [Panico](https://open.spotify.com/track/4NOFiXQQGGpb2ICxHs0eeT) | [ITAMI](https://open.spotify.com/artist/3jvrwPpeYnKPzzqHafSU5e) | [Panico](https://open.spotify.com/album/7aKYFgFEQ3vxfSVth7rfiU) | 2:45 | 2023-07-27 | 2023-08-04 |

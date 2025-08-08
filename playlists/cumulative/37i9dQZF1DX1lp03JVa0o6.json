@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest dance hits! Cover: JADE, Janet Planet (Confidence Man)",
+  "description": "Today's biggest dance hits! Cover: Sean Paul, Luude, Brodie",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -3939,6 +3939,32 @@
     },
     {
       "album": {
+        "name": "Darlin' (feat. Sean Paul & Brodie)",
+        "url": "https://open.spotify.com/album/5wofMSWoc56Ed4urOvi6IT"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154532,
+      "name": "Darlin' (feat. Sean Paul & Brodie)",
+      "url": "https://open.spotify.com/track/481HO06BUHTaujWTpOyhKA"
+    },
+    {
+      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/1kasyqty0PajjlfqQeD9ZS"
       },
@@ -7253,6 +7279,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249140,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
+    },
+    {
+      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
       },
@@ -9450,7 +9494,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 148135,
       "name": "Location",
       "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
@@ -9648,6 +9692,28 @@
       "duration_ms": 167559,
       "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
       "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
+    },
+    {
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/5TM005sZHgnBQI4TKS8cYr"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Joel Fletcher",
+          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6c81xyFInBpSvbF4iDpB5z"
     },
     {
       "album": {
@@ -10154,7 +10220,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 159130,
       "name": "Mickey",
       "url": "https://open.spotify.com/track/1xQNzLluHdgoJKElrPAMqm"
@@ -11938,7 +12004,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 176581,
       "name": "Overload (feat. KLP)",
       "url": "https://open.spotify.com/track/6JnwmYYC6fIJURfWf6kJsM"

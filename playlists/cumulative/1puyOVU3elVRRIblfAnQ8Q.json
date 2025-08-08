@@ -685,6 +685,32 @@
     },
     {
       "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/3ioOAyQoOO8SHFUxDGfkIQ"
+      },
+      "artists": [
+        {
+          "name": "Phrva",
+          "url": "https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7"
+        },
+        {
+          "name": "Don Jamal",
+          "url": "https://open.spotify.com/artist/3b1DIrWDwR8A5gxBgWt0DV"
+        },
+        {
+          "name": "Rakjay",
+          "url": "https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Collected",
+      "url": "https://open.spotify.com/track/3qvChm8u7FznuEHtmnEGzE"
+    },
+    {
+      "album": {
         "name": "Counting",
         "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
       },
@@ -2299,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Keep Running From Love",
+        "url": "https://open.spotify.com/album/2QzywadApSgw3L8FTD4akO"
+      },
+      "artists": [
+        {
+          "name": "Bobby Love",
+          "url": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Keep Running From Love",
+      "url": "https://open.spotify.com/track/7HHVDMk9cZSpftr5Qm2Vsu"
+    },
+    {
+      "album": {
         "name": "KNOCKIN",
         "url": "https://open.spotify.com/album/6SjpAmtMUwFTcPaeJZksTN"
       },
@@ -3190,6 +3234,24 @@
       "duration_ms": 198154,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/07wxoKnyPZnrRtzcRX917e"
+    },
+    {
+      "album": {
+        "name": "RELIC",
+        "url": "https://open.spotify.com/album/78TemQFA5d8qKy6MCCAp5p"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "RELIC",
+      "url": "https://open.spotify.com/track/4IxYVV46tSKMPiLT4w76F8"
     },
     {
       "album": {

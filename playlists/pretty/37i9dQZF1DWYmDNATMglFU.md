@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> new gen alt ⛓ ft\. julia wolf
+> new gen alt ⛓ ft\. mgk
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,870 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,872 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [your name forever](https://open.spotify.com/track/25HmjsZYDISFMQmeZoQvkz) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [your name forever](https://open.spotify.com/album/4KNaPcFRyGMxyOQrOazeGm) | 3:49 |
 | 85 | [For The Weekend](https://open.spotify.com/track/2q7DmMeGKPyEKqR8RvRvu8) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [For The Weekend](https://open.spotify.com/album/3p9w4qM9HmdRiSQ9lEt5fl) | 2:51 |
 
-Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`
+Snapshot ID: `AAAAAOz+oXFCz9WxndlfbZxJl/1EiF5N`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 45924,
+  "num_followers": 45990,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACFgNBSyS84k5gfiqja3dJS",
+  "snapshot_id": "aJKbAAAAAACoJQkpjBsEiky7nsIE+T2+",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ"
+      "duration_ms": 218500,
+      "name": "...What Are We?",
+      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
     },
     {
       "added_at": null,
@@ -203,18 +195,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
       "artists": [
         {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 218500,
-      "name": "...What Are We?",
-      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
+      "duration_ms": 250200,
+      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+      "url": "https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ"
     },
     {
       "added_at": null,

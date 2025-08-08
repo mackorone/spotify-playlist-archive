@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "",
+  "description": "Svenska punkklassiker och hardcore.",
   "name": "Svensk Punk",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 160148,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5kMbynZUXQ2gZoajOwwKhV"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 176286,
       "name": "Daniel Blake",
       "url": "https://open.spotify.com/track/2qZAPSJaH1VpuWYYLexssR"
@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "EN D\u00d6ENDE PLANET",
+        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243529,
+      "name": "EN D\u00d6ENDE PLANET",
+      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
+    },
+    {
+      "album": {
         "name": "En Ensam Cowboy",
         "url": "https://open.spotify.com/album/6XiuE97XZXgUCLbvwN3F1G"
       },
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 84080,
       "name": "Enhetsfront",
       "url": "https://open.spotify.com/track/4XDbvtP0KonCUSJlPvEmSg"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 135333,
       "name": "Ett tusen punks",
       "url": "https://open.spotify.com/track/6gRdhMKN0VtF25pF9cV9Wg"
@@ -2286,6 +2304,24 @@
       "duration_ms": 308998,
       "name": "H\u00e5ll h\u00f6jd",
       "url": "https://open.spotify.com/track/0HvIpVm3SxEYMi7F02sfNK"
+    },
+    {
+      "album": {
+        "name": "Rasera",
+        "url": "https://open.spotify.com/album/18qwZHp3hFLcujFeotKnEc"
+      },
+      "artists": [
+        {
+          "name": "Imperiet",
+          "url": "https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252133,
+      "name": "H\u00f6ghus, l\u00e5ghus, d\u00e5rhus",
+      "url": "https://open.spotify.com/track/6imJaABD546UXqB3HkuD2v"
     },
     {
       "album": {
@@ -2968,7 +3004,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 104242,
       "name": "Levande Begravd",
       "url": "https://open.spotify.com/track/5rPhZgLe7BqVDWmRJBIZZc"
@@ -4055,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Gbg Noir",
+        "url": "https://open.spotify.com/album/4oRecfEuVaqFzGCcODIis9"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201991,
+      "name": "Psykbrytet",
+      "url": "https://open.spotify.com/track/7AfnvF3It7nwZFYKy1BDZx"
+    },
+    {
+      "album": {
         "name": "Med is i magen",
         "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
       },
@@ -4142,6 +4196,24 @@
       "duration_ms": 199160,
       "name": "Psykopaten",
       "url": "https://open.spotify.com/track/4qOqU9o554mByA76yjqjqW"
+    },
+    {
+      "album": {
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237980,
+      "name": "Punk Rock Loser",
+      "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
     },
     {
       "album": {
@@ -4754,6 +4826,24 @@
       "duration_ms": 162573,
       "name": "Spegeln",
       "url": "https://open.spotify.com/track/7HOG19jeWHmhrTqC1nv8Z6"
+    },
+    {
+      "album": {
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237546,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6"
     },
     {
       "album": {

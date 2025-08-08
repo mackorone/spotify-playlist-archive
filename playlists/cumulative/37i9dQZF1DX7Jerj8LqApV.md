@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-253 songs - 16 hr 37 min
+255 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,11 @@
 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 | 2025-08-01 |  |
 | [Autumn](https://open.spotify.com/track/6opdgT1roU2ztb2WmXQG1U) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Autumn](https://open.spotify.com/album/0jgiAyKTHYE4bHbwCSbtV2) | 4:04 | 2024-04-17 | 2024-04-29 |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2024-09-25 |  |
+| [Ayaw Baya](https://open.spotify.com/track/42Xk3IBopZoqG5R9YSctGS) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Ayaw Baya](https://open.spotify.com/album/0zLGNLnfdMdb0dpsfEQGmy) | 4:10 | 2025-08-08 |  |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-11-10 | 2025-08-06 |
 | [Bahaghari \(Halika na\)](https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Bahaghari \(Halika na\)](https://open.spotify.com/album/1cz9BF4Rs8M9IvjT9dI6wB) | 3:55 | 2024-02-07 | 2024-02-21 |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-11-10 | 2024-09-26 |
-| [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 | 2024-11-29 |  |
+| [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 | 2024-11-29 | 2025-08-08 |
 | [Bawat Daan](https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX) | 5:00 | 2025-03-20 | 2025-06-21 |
 | [Bighani](https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Bighani](https://open.spotify.com/album/7bAOyHhBcCVWZMttZcWGqd) | 3:55 | 2024-11-29 | 2024-12-05 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2023-12-08 | 2024-04-22 |
@@ -65,7 +66,7 @@
 | [GRABE O](https://open.spotify.com/track/4vYSdjlNxqJyWuSv5Qob1p) | [Jong](https://open.spotify.com/artist/37QxeXh95HRV1aRwS1hFMY), [Pxrple](https://open.spotify.com/artist/35WpSHD4EHopGXyikn0rGR), [Prince Ben](https://open.spotify.com/artist/2Y4IVOJhnHwra7TZOcNw3Y) | [GRABE O](https://open.spotify.com/album/5r3suqOsyzCyrfXgN3jB3c) | 3:26 | 2025-05-09 | 2025-05-22 |
 | [Gulong\-gulo](https://open.spotify.com/track/14phQAoWo0yZy4EcseAHof) | [Imago](https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh) | [Gulong\-gulo](https://open.spotify.com/album/5klNgdvsmWVycPYjPaINrp) | 4:18 | 2025-02-05 | 2025-02-13 |
 | [Gunita](https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Gunita](https://open.spotify.com/album/2njjzX0FQpIS3W8COYGpBR) | 4:13 | 2024-05-08 | 2024-06-06 |
-| [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-18 |  |
+| [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-18 | 2025-08-08 |
 | [Handa Na Ako](https://open.spotify.com/track/1p2PssCXSdRKQHzNeIT781) | [Atasha Muhlach](https://open.spotify.com/artist/4ES6et0LYZjJzQSEciWaEu) | [Handa Na Ako](https://open.spotify.com/album/6rdPLemoUQ4WklfB5CR3hT) | 3:11 | 2025-02-19 | 2025-03-19 |
 | [Hanggang Sa Buwan](https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Hanggang Sa Buwan](https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48) | 3:54 | 2023-11-10 | 2023-11-21 |
 | [Hayaan](https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Hayaan](https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS) | 5:49 | 2024-09-04 | 2024-10-25 |
@@ -208,6 +209,7 @@
 | [roses \(with Clara Benin\)](https://open.spotify.com/track/0uoHit7PHw491nJ325uTmE) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [roses \(with Clara Benin\)](https://open.spotify.com/album/0WieGZuufyPJo2zGuvamIp) | 3:27 | 2025-05-09 | 2025-05-22 |
 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2023-10-18 |  |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-10-18 |  |
+| [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/track/56SW6kPw7xMoFt7kBoegP5) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/album/1qkSx3ukJSeCnHqQlnLVsa) | 3:31 | 2025-08-08 |  |
 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2024-04-17 | 2024-05-09 |
 | [Sagada](https://open.spotify.com/track/2wh4fGevm9QWeZtUXEJYCp) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sagada](https://open.spotify.com/album/5atwOm2uqTx0Zy9Hc3K0xs) | 4:10 | 2024-02-20 | 2024-03-30 |
 | [Saksi Ang Langit](https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Saksi Ang Langit](https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK) | 4:19 | 2025-06-20 | 2025-07-17 |

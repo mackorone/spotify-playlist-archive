@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸   Øyunn
+> de skarpeste knive i dansk musik  📸   Snuggle
 
-268 songs - 13 hr 41 min
+271 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [ENDORFINER](https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENDORFINER \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg) | 3:08 | 2024-06-27 | 2024-09-19 |
 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 | 2025-06-16 |
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
-| [Feed The Good](https://open.spotify.com/track/1k1o50LNgNIBCHVEZn977a) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [Feed The Good](https://open.spotify.com/album/4uLDoFdGDdFT8UPivo6VYP) | 2:50 | 2025-07-31 |  |
+| [Feed The Good](https://open.spotify.com/track/1k1o50LNgNIBCHVEZn977a) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [Feed The Good](https://open.spotify.com/album/4uLDoFdGDdFT8UPivo6VYP) | 2:50 | 2025-07-31 | 2025-08-08 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-06-20 |
 | [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 | 2025-06-07 |
 | [FOR OS](https://open.spotify.com/track/3VwWhdt75AfDVuXaai6PKs) | [BRANDZ](https://open.spotify.com/artist/6uRoBsykra8GXLj9JRMjEf) | [FOR OS](https://open.spotify.com/album/3hhtdqPyvhjsixUSbMfjp8) | 2:08 | 2025-07-24 | 2025-08-01 |
@@ -108,7 +108,7 @@
 | [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 | 2025-02-13 | 2025-06-23 |
 | [Går Bare](https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Går Bare](https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD) | 4:36 | 2024-09-16 | 2025-02-21 |
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2024-06-27 |  |
-| [HAR DET MAX](https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [HAR DET MAX](https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3) | 1:47 | 2025-06-19 |  |
+| [HAR DET MAX](https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [HAR DET MAX](https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3) | 1:47 | 2025-06-19 | 2025-08-08 |
 | [Heartbreak](https://open.spotify.com/track/1JdPraBOBKK9V2uTPP4jnJ) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Heartbreak](https://open.spotify.com/album/6FAUARCpztIj99JeEdPTZ5) | 2:45 | 2025-06-05 | 2025-06-13 |
 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 | 2024-06-27 | 2024-11-29 |
 | [Helt](https://open.spotify.com/track/7vuUVW3lImv40lkgqJz4iQ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 4:06 | 2025-03-21 | 2025-03-28 |
@@ -191,6 +191,7 @@
 | [PAPI](https://open.spotify.com/track/5PrXiCU1agpgbMwzdCCVpe) | [Isaac Kasule](https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh) | [PAPI](https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7) | 2:15 | 2025-07-10 | 2025-08-07 |
 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 | 2025-04-10 |  |
 | [plastikhjerte](https://open.spotify.com/track/503O8kwnrNMP4DfQ3u3hf1) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [plastikhjerte](https://open.spotify.com/album/6tT4IbOXbn9qbvHlUd4J8T) | 3:06 | 2025-01-23 | 2025-06-06 |
+| [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 | 2025-08-07 |  |
 | [Pretty When I Cry](https://open.spotify.com/track/0NzUJ9Cm11emUvPzP7m0w1) | [Johanne Rosen](https://open.spotify.com/artist/3fDUHxQhNCg1E5pH7o13ph) | [Pretty When I Cry](https://open.spotify.com/album/1DXMET9Q9sSG6FakBVPb3j) | 3:04 | 2025-07-17 | 2025-07-25 |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
@@ -224,6 +225,7 @@
 | [Styrke](https://open.spotify.com/track/2ev8YZ4KyMfRVSTujKhtWu) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT) | [Tro](https://open.spotify.com/album/03IN8a5iPH94Nb5SlQYimx) | 2:46 | 2025-01-30 | 2025-02-05 |
 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-05 | 2025-08-04 |
 | [Sunny](https://open.spotify.com/track/0I4KrchOuSukO393z4qwpB) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Sunny](https://open.spotify.com/album/4OwdPcbGEcmrYRHRxnL5t5) | 2:20 | 2025-06-19 |  |
+| [Sunshine](https://open.spotify.com/track/1Tz8z22Kkxhr2GHNfrgjTz) | [BeOK](https://open.spotify.com/artist/1NH28ZggscQ3R2xddnZ8rC) | [Sunshine](https://open.spotify.com/album/7167cmKJyvfa2N5vpKGf7R) | 2:38 | 2025-08-07 |  |
 | [Sunshine In Atalaya](https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3) | [Visti's Vinyl Collective](https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl), [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Sunshine In Atalaya](https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9) | 4:22 | 2024-06-27 | 2025-03-30 |
 | [Syg Den Dag](https://open.spotify.com/track/7gukFEHaDj4kw3SiOzy0xY) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Syg Den Dag](https://open.spotify.com/album/2DxIcnkcsIOAi7k5GOX4gv) | 2:57 | 2024-11-28 | 2025-02-23 |
 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 | 2024-08-29 |  |
@@ -270,11 +272,12 @@
 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 | 2025-06-19 | 2025-07-05 |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 |  |
 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 | 2025-01-23 | 2025-02-06 |
+| [within](https://open.spotify.com/track/3ASDReYuOvbp6wUf9wV2yg) | [joshua.](https://open.spotify.com/artist/6YyTzqDH4pzFhkmIDs8Edw) | [within](https://open.spotify.com/album/3KCV6PkHJIOguwyNtqQgin) | 3:11 | 2025-08-07 |  |
 | [Without You \(feat\. eee gee\)](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 | 2024-09-26 |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 | 2025-07-11 |
 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 | 2025-06-19 |  |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-27 | 2025-07-11 |
-| [Yourself](https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Yourself](https://open.spotify.com/album/6nui1QBsq4FYx8R6ncaqNL) | 2:45 | 2025-07-31 |  |
+| [Yourself](https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Yourself](https://open.spotify.com/album/6nui1QBsq4FYx8R6ncaqNL) | 2:45 | 2025-07-31 | 2025-08-08 |
 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 | 2025-07-03 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

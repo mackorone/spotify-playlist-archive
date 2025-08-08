@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Paz Carrara",
-  "num_followers": 65994,
+  "num_followers": 66015,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-08-01 03:00:07",
       "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Coraz\u00f3n Salvaje",
+      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
+    },
+    {
+      "added_at": "2025-08-01 03:00:07",
+      "album": {
         "name": "Mar de Coral",
         "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 235044,
       "name": "Mar de Coral",
       "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
-    },
-    {
-      "added_at": "2025-08-01 03:00:07",
-      "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Coraz\u00f3n Salvaje",
-      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
     }
   ],
   "unique_name": "Esto es Pop",

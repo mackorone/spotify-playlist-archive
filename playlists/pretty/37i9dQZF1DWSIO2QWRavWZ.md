@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,595 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,627 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

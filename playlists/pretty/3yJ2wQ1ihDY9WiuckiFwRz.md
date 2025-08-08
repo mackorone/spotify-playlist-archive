@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yJ2wQ1ihDY9WiuckiFwRz.md) - [plain]
 
 > 
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 26 likes - 20 songs - 1 hr 2 min
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 26 likes - 21 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,6 @@ pretty - [cumulative](/playlists/cumulative/3yJ2wQ1ihDY9WiuckiFwRz.md) - [plain]
 | 18 | [Fragments of your presence](https://open.spotify.com/track/4zuHLGBZ1IFvOnGSTY5aFe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:50 |
 | 19 | [haunting](https://open.spotify.com/track/44qerQcxwwrUYdAqMtCi8W) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:47 |
 | 20 | [Stay true](https://open.spotify.com/track/5R9Pt8Phy3yaTeEsfzS4GA) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 4:08 |
+| 21 | [RUSH.](https://open.spotify.com/track/4uwkafvVxUWQF4tY0szToe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [RUSH.](https://open.spotify.com/album/6xxcZKAWFVtvFoyEIBpHKi) | 4:01 |
 
-Snapshot ID: `AAAADi3sEPsfUVmOlm580x0dte8oMnlA`
+Snapshot ID: `AAAAD/AUTl9MelQ6TLzqJtj4or+/giJ1`

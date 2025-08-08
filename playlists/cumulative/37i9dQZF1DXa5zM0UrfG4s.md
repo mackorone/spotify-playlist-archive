@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-411 songs - 18 hr 50 min
+412 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Hem Till Dig](https://open.spotify.com/track/0dAA6gGibdlYXiYFyzWDX7) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Hem Till Dig](https://open.spotify.com/album/2oIJCQbcw2uqu4rQ7RmOv4) | 3:12 | 2021-12-16 | 2022-10-16 |
 | [Her er det liv](https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Her er det liv](https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv) | 3:03 | 2024-04-25 | 2024-06-26 |
 | [Her kommer sola](https://open.spotify.com/track/2LBXXYTmL89PQO0xDTd4hY) | [Frøya](https://open.spotify.com/artist/2w8eUfLsUbiX7MQyTW13S6) | [Jenta Fra Landet](https://open.spotify.com/album/4cbJTnB9KIXPuyjRwUiqKw) | 3:06 | 2021-12-16 | 2022-07-05 |
+| [Her og nå](https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5) | [Her og nå](https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e) | 2:16 | 2025-08-07 |  |
 | [HET](https://open.spotify.com/track/5RaQUKpL2DtpEPFhnddC65) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi) | [HET](https://open.spotify.com/album/5RlQuD6gyCSIVgx4rQxXRX) | 2:47 | 2022-06-02 | 2022-07-13 |
 | [HEY FRÖKEN](https://open.spotify.com/track/4rBpRg5KKRBj8jTshSMSeE) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [HEY FRÖKEN](https://open.spotify.com/album/1jaQS1Kw0HAfiyIWOUrDUA) | 2:13 | 2024-02-08 | 2024-02-16 |
 | [Hey skål!](https://open.spotify.com/track/2Hzy0I10PwAqFNHmxUZB2A) | [Chris og Colada](https://open.spotify.com/artist/0YVbhK3PygEi4q70SrSPfB) | [Hey skål!](https://open.spotify.com/album/75VNjjmIX0UOhDdHskHHlk) | 2:16 | 2022-07-07 | 2022-07-09 |
@@ -297,7 +298,7 @@
 | [Partyjoik](https://open.spotify.com/track/74mJCN9Yr4aTxRM7AbS4FI) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Partyjoik](https://open.spotify.com/album/0y18OXhsVZFe0xVABQO1g1) | 2:34 | 2022-02-03 | 2022-08-05 |
 | [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 | 2025-06-12 |  |
 | [PIGA & DRÄNG](https://open.spotify.com/track/3TqNrIB75lAx8rJBzyLNhX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [PIGA & DRÄNG](https://open.spotify.com/album/2hv4vzbU53T6bjOSv0vpm0) | 2:28 | 2023-08-17 | 2023-10-11 |
-| [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 | 2021-12-16 |  |
+| [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 | 2021-12-16 | 2025-08-08 |
 | [Polisen](https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Polisen](https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL) | 2:34 | 2021-12-16 | 2024-02-09 |
 | [Polisen](https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Polisen](https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj) | 2:25 | 2025-05-22 |  |
 | [PRIMADONNA](https://open.spotify.com/track/47aGU91Mqqjt1ZJ9NgQXqY) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [PRIMADONNA](https://open.spotify.com/album/7iZHtwqroxPl38CB1LRxpv) | 2:15 | 2022-09-22 | 2022-10-14 |

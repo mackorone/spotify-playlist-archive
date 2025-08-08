@@ -2,7 +2,7 @@
 
 ### [All Out 2020s](https://open.spotify.com/playlist/37i9dQZF1DX2M1RktxUUHG)
 
-> The biggest songs of the 2020s\. Cover: Dua Lipa
+> The biggest songs of the 2020s\. Cover: Olivia Rodrigo
 
 252 songs - 13 hr 25 min
 

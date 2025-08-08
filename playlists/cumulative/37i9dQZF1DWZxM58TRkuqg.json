@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Budi Doremi",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Petra Sihombing",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 248319,
       "name": "Bayangkan Ku Hilang",
       "url": "https://open.spotify.com/track/4BDp34OApfupugYc40FKp7"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 232678,
       "name": "Halal Selamanya",
       "url": "https://open.spotify.com/track/0Lk9VNcKBcmPEhjlC7fo5K"
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 239250,
       "name": "Kisah Baru Orang Lama",
       "url": "https://open.spotify.com/track/58XrzeEpIqWStAku2LRznK"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 255870,
       "name": "Kumpul Bocah (Original Soundtrack From \u201cJUMBO\")",
       "url": "https://open.spotify.com/track/0V6nKCvWMIXgsvyiSyiLPT"
@@ -5229,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "Orang Baru",
+        "url": "https://open.spotify.com/album/4A1va6CGH22Tf8tY11E4v6"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249117,
+      "name": "Orang Baru",
+      "url": "https://open.spotify.com/track/5sfOHV8uS1ICKFkst0bua9"
+    },
+    {
+      "album": {
         "name": "Orang Yang Berbeda",
         "url": "https://open.spotify.com/album/0BSRjafG6lC4yF8LGEos4v"
       },
@@ -6419,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Sembuhlah Sembuh",
+        "url": "https://open.spotify.com/album/4Ecyc9QRwhf3cVA9XPZWX2"
+      },
+      "artists": [
+        {
+          "name": "Panji Sakti",
+          "url": "https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244615,
+      "name": "Sembuhlah Sembuh",
+      "url": "https://open.spotify.com/track/2POnM5hqcwXwMxyojfR1J0"
+    },
+    {
+      "album": {
         "name": "Semenjak Ada Dirimu",
         "url": "https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8"
       },
@@ -7186,7 +7222,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 251424,
       "name": "Sudah Tau",
       "url": "https://open.spotify.com/track/3f2ThU1SdM8bLtdyGdGbh9"
@@ -7605,6 +7641,24 @@
     },
     {
       "album": {
+        "name": "senang ok, sedih gpp.",
+        "url": "https://open.spotify.com/album/6zBsm63VnJ0xsIm7HF4obE"
+      },
+      "artists": [
+        {
+          "name": "Petra Sihombing",
+          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239656,
+      "name": "tangguh",
+      "url": "https://open.spotify.com/track/4LeosEA3ebFsLK0w1tnUmH"
+    },
+    {
+      "album": {
         "name": "Tanpa Balasmu (From \"Tabayyun\")",
         "url": "https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS"
       },
@@ -7996,7 +8050,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 240473,
       "name": "Terserah",
       "url": "https://open.spotify.com/track/1OSg4uyjhjb5SMFeXAGC2i"

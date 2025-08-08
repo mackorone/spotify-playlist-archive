@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Haiden Henderson
 
-9,037 songs - 18 day 19 hr 14 min
+9,038 songs - 18 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-18 | 2022-03-12 |
 | [amber white](https://open.spotify.com/track/0dmXv59JlwshTnNEZcFjl5) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [amber white](https://open.spotify.com/album/7Lf92SezPL5RogqCIAy7bb) | 2:44 | 2025-08-01 |  |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-10 | 2023-02-18 |
+| [amen](https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [amen](https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy) | 2:17 | 2025-08-01 |  |
 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 | 2025-02-07 | 2025-02-15 |
 | [American Bitch](https://open.spotify.com/track/56GiEKXFVUjgkMdAe1cvGc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [American Bitch](https://open.spotify.com/album/7e9EkDjzlaYiUYQ4lUfFBk) | 2:44 | 2025-02-21 | 2025-03-01 |
 | [American Dream](https://open.spotify.com/track/5fnYDXLhFOioudAeiQGOPD) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [American Dream](https://open.spotify.com/album/0ySQ4Viqi1pDRZEC3Wwx1z) | 2:40 | 2022-03-11 | 2022-04-02 |

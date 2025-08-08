@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,032 likes - 33 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,052 likes - 33 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 2 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 |
 | 3 | [Eles Me Odeiam](https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [SEMRÉH \(FINAL SPRINT\)](https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9) | 3:07 |
 | 4 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 |
-| 5 | [3AM \(PXT4 RASA\) \- Remix](https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [3AM \(PXT4 RASA\) \[Remix\]](https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r) | 2:02 |
-| 6 | [Queen Chavosa](https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
+| 5 | [Queen Chavosa](https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
+| 6 | [3AM \(PXT4 RASA\) \- Remix](https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [3AM \(PXT4 RASA\) \[Remix\]](https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r) | 2:02 |
 | 7 | [Não Foi do Nada](https://open.spotify.com/track/3DvGRXIcFU2LyqcLMqXp8v) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:34 |
 | 8 | [Poetisas no Topo 3](https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Sodomita](https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr) | [Poetisas no Topo 3](https://open.spotify.com/album/59B1Leein60p2cEODo6OHl) | 6:14 |
 | 9 | [Piranha](https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Piranha](https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK) | 2:56 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 32 | [Aju](https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:33 |
 | 33 | [Queen Chavosa \- Remix](https://open.spotify.com/track/2898k850lyu9U35V7zzSDY) | [DJ LOBA BOSS](https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Queen Chavosa \(Remix\)](https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv) | 1:41 |
 
-Snapshot ID: `aJFJgAAAAADWXjw5SkZ54RgCnH5rj1XF`
+Snapshot ID: `aJKbAAAAAABIY41+4MYe0LKrMpN+q0sz`

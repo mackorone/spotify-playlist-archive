@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['k Heb Je Lief](https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP) | 4:44 | 2024-07-09 | 2025-08-07 |
+| ['k Heb Je Lief](https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP) | 4:44 | 2024-07-09 |  |
 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 | 2024-07-09 |  |
 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 | 2024-07-09 |  |
 | [Afscheid](https://open.spotify.com/track/2h1jMOkIDg1RmYaTdh8RcL) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 4:35 | 2024-07-09 |  |
@@ -79,6 +79,6 @@
 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Het Beste Uit De Q Music Top 500 Van Het Foute Uur](https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt) | 4:28 | 2024-07-09 |  |
 | [Zo Ver Weg](https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:34 | 2024-07-09 |  |
 | [Zomer](https://open.spotify.com/track/7n6IVz6fc1yGRi1DSmkRom) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:39 | 2024-07-09 | 2025-07-29 |
-| [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 | 2024-07-09 |  |
+| [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 | 2024-07-09 | 2025-08-08 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

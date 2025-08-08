@@ -4,7 +4,7 @@
 
 > Algo bello pal camello con lo más cool de la semana en compañía de Chino Pacas y Neton Vega
 
-9,314 songs - 20 day 22 hr 26 min
+9,315 songs - 20 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2141,6 +2141,7 @@
 | [Dime Dime](https://open.spotify.com/track/6LvGw0k9GkebNNajrSsyat) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Dime Dime](https://open.spotify.com/album/4u9rSMKrjy183jBqvXkOv2) | 3:09 | 2022-03-11 | 2022-03-18 |
 | [Dime pa saber](https://open.spotify.com/track/1HF4LhWOji1ukadhdnC1Py) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Dime pa saber](https://open.spotify.com/album/4UEhJl0egkIvQyRFMS6Egg) | 2:53 | 2023-12-01 | 2023-12-09 |
 | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw) | 3:36 | 2024-12-20 | 2025-01-04 |
+| [DIME QUE PREFIERES](https://open.spotify.com/track/5VjnGtCGUgCYdDxHzDevzA) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [DIME QUE PREFIERES](https://open.spotify.com/album/3bVsJZ2rfxeMBVN6VmX7Uq) | 3:21 | 2025-08-01 |  |
 | [dime que si :\)](https://open.spotify.com/track/4eh0rsvnBgw8CKKZPY5r5D) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [dime que si :\)](https://open.spotify.com/album/41bwmFwFiWwudFArZHVNFu) | 2:47 | 2022-08-12 | 2022-08-20 |
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-18 | 2022-02-26 |
 | [Dime Quién](https://open.spotify.com/track/2O37D0PuPoRrL657rdpnLk) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 2:30 | 2024-05-17 | 2024-05-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Revisit stand out songs from these singer/songwriters. Cover: Half Moon Run",
+  "description": "Revisit stand out songs from these singer/songwriters. Cover: Leif Vollebekk",
   "name": "Folk Favourites",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 193289,
       "name": "Alright",
       "url": "https://open.spotify.com/track/4gT4dOMCCTEHevIFGUNtWb"
@@ -3990,6 +3990,24 @@
       "duration_ms": 199600,
       "name": "Monogamy",
       "url": "https://open.spotify.com/track/6nyltn9zx3VG8Inb3oVREy"
+    },
+    {
+      "album": {
+        "name": "Moondog",
+        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305640,
+      "name": "Moondog",
+      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     },
     {
       "album": {

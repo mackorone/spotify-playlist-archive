@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 317241,
+  "num_followers": 317332,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Adrenalina (Minha Gasolina)",
-        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "Adrenalina (Minha Gasolina)",
-      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 238124,
       "name": "Children",
       "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
+        "name": "Adrenalina (Minha Gasolina)",
+        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "Adrenalina (Minha Gasolina)",
+      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
     },
     {
       "added_at": "2025-07-25 22:30:04",

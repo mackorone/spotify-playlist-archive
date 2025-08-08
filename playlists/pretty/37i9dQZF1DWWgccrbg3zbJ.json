@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 471340,
+  "num_followers": 471802,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 308906,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn"
+    },
+    {
+      "added_at": "2025-07-14 08:19:39",
+      "album": {
         "name": "Baden Powell - A B\u00ean\u00e7\u00e3o Baden Powell",
         "url": "https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 186773,
       "name": "Manha de Carnaval",
       "url": "https://open.spotify.com/track/2LFcZ1nrrMPmGOvuEwAK23"
-    },
-    {
-      "added_at": "2025-07-14 08:19:39",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn"
     },
     {
       "added_at": "2025-07-14 08:19:39",
@@ -980,17 +980,17 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Jo\u00e3o Gilberto Quintet",
-          "url": "https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         },
         {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 327040,
-      "name": "O Grande Amor",
-      "url": "https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M"
+      "duration_ms": 184400,
+      "name": "Vivo Sonhando",
+      "url": "https://open.spotify.com/track/6tGwpf1CczvEvzVaDVUPjk"
     },
     {
       "added_at": "2025-07-14 08:19:39",
@@ -1056,17 +1056,17 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Jo\u00e3o Gilberto Quintet",
+          "url": "https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX"
         },
         {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 184400,
-      "name": "Vivo Sonhando",
-      "url": "https://open.spotify.com/track/6tGwpf1CczvEvzVaDVUPjk"
+      "duration_ms": 327040,
+      "name": "O Grande Amor",
+      "url": "https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M"
     },
     {
       "added_at": "2025-07-14 08:19:39",

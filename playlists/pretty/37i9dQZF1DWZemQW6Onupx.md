@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 
 ### [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx)
 
-> Enjoy music from "Panty & Stocking with Garterbelt"! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
+> Enjoy music from "New PANTY & STOCKING with GARTERBELT"! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,420 likes - 46 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,616 likes - 46 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Reckless](https://open.spotify.com/track/2xMPEzxoG8tXDnOKewVfjx) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [Adee A.](https://open.spotify.com/artist/3O9DIzF5U9WkV0FzoTu2Nr) | [Reckless](https://open.spotify.com/album/4dYMkjviJIIVnrhIXYtHix) | 3:07 |
-| 2 | [Theme of New PANTY ＆ STOCKING \(Long Version\)](https://open.spotify.com/track/61dNYvOhpXQCsuWDLty4D8) | [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Theme of New PANTY ＆ STOCKING](https://open.spotify.com/album/1Y3xFsb3FtXHbvbkEj8ON7) | 2:32 |
+| 1 | [Theme of New PANTY ＆ STOCKING \(Long Version\)](https://open.spotify.com/track/61dNYvOhpXQCsuWDLty4D8) | [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Theme of New PANTY ＆ STOCKING](https://open.spotify.com/album/1Y3xFsb3FtXHbvbkEj8ON7) | 2:32 |
+| 2 | [Reckless](https://open.spotify.com/track/2xMPEzxoG8tXDnOKewVfjx) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [Adee A.](https://open.spotify.com/artist/3O9DIzF5U9WkV0FzoTu2Nr) | [Reckless](https://open.spotify.com/album/4dYMkjviJIIVnrhIXYtHix) | 3:07 |
 | 3 | [Angels and Demons](https://open.spotify.com/track/2yJhCYVux0E2Ge3pT490Ir) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [Theme of New PANTY ＆ STOCKING](https://open.spotify.com/album/1Y3xFsb3FtXHbvbkEj8ON7) | 2:32 |
 | 4 | [Fly Away](https://open.spotify.com/track/7olMFQZhjN2EHf7ra2PjE7) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:23 |
 | 5 | [Theme for Panty & Stocking](https://open.spotify.com/track/1QV930MbloRewXxzICU3v4) | [Hoshina Anniversary](https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 0:32 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 | 45 | [Cherry Corrida X～cocks back: the resurrection of a bitch～](https://open.spotify.com/track/727QnkydHKiDVsVFvzd4Ga) | [TCY FORCE](https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 1:13 |
 | 46 | [Fallen Angel \(El Poco Maro Drum'n'Bass Remix\)](https://open.spotify.com/track/7bL6vnjwbb9l7y56Nyui05) | [Mitsunori Ikeda](https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx), [Aimee B](https://open.spotify.com/artist/1uLk7jpNDdq7qhs5MSqjAS) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 6:00 |
 
-Snapshot ID: `AAAAAG9BfyaXcYFfAvq7JYUa/k8Sdhim`
+Snapshot ID: `AAAAAJNlMn1KXzbTQzAa+eiLOTCwcAS5`

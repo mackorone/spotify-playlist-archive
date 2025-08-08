@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,030 likes - 58 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,097 likes - 58 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 34 | [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 |
 | 35 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 |
 | 36 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
-| 37 | [Dance King](https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Dance King](https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8) | 2:30 |
+| 37 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
 | 38 | [Crysalis](https://open.spotify.com/track/43drLzaqUUPyo8YlD6PBPM) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Crysalis](https://open.spotify.com/album/5wguW4MPD9WHsp65zUUSf4) | 1:47 |
-| 39 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
+| 39 | [Dance King](https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Dance King](https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8) | 2:30 |
 | 40 | [over you](https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [over you](https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ) | 3:38 |
 | 41 | [Monster Truck](https://open.spotify.com/track/7nFx5bPzPKrZAves575jcP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Monster Truck](https://open.spotify.com/album/4j3HF2JuYjn2YclTjm6662) | 3:01 |
 | 42 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 |
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 46 | [Can You Fix Your Heart?](https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Can You Fix Your Heart](https://open.spotify.com/album/2f1YeI2ufkpylmc6WmSqmJ) | 3:00 |
 | 47 | [Hotel TV](https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:37 |
 | 48 | [Sweet Praise](https://open.spotify.com/track/6ANxiNW7YVaSvLBmcZu6FC) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Sweet Praise](https://open.spotify.com/album/2WOflCfcALCrjTP2F3OeP0) | 3:21 |
-| 49 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 |
-| 50 | [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 |
+| 49 | [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 |
+| 50 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 |
 | 51 | [A Day Off In Margaritaville](https://open.spotify.com/track/00zDQDIDsgNGMkl48pCqiH) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [A Day Off In Margaritaville](https://open.spotify.com/album/16Yv0aiJSFfrcNDlCz9H7t) | 2:52 |
 | 52 | [Giving Up \(with JOSEPH\)](https://open.spotify.com/track/5VEoJBwpMt3cvEa5ptpsET) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Giving Up \(with JOSEPH\)](https://open.spotify.com/album/5W2jEjoYv8uwgDYkNQKHLU) | 3:14 |
 | 53 | [Feel Something](https://open.spotify.com/track/3uxEnpxnkSVmLCNR3i71Il) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Feel Something](https://open.spotify.com/album/2JSiPJeCV42psHYQEPUji1) | 3:20 |
 | 54 | [resala \- رسالة](https://open.spotify.com/track/3epYLP0LV7IpUVXhFGXP4l) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [resala \- رسالة](https://open.spotify.com/album/5ZJYMMCaVOE0uJQy4thJKi) | 3:33 |
 | 55 | [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 |
-| 56 | [Tu Medice](https://open.spotify.com/track/2uoeGOB5Xq5N4eLLIVyRb5) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Tu Medice](https://open.spotify.com/album/1cE5rI8088FcWnyrnwIW5x) | 4:22 |
-| 57 | [Garbage](https://open.spotify.com/track/0kMokYvb4xyex2ExX5JaYp) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Garbage](https://open.spotify.com/album/0E7HseDbyAc6I0St0WmxP9) | 4:07 |
+| 56 | [Garbage](https://open.spotify.com/track/0kMokYvb4xyex2ExX5JaYp) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Garbage](https://open.spotify.com/album/0E7HseDbyAc6I0St0WmxP9) | 4:07 |
+| 57 | [Tu Medice](https://open.spotify.com/track/2uoeGOB5Xq5N4eLLIVyRb5) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Tu Medice](https://open.spotify.com/album/1cE5rI8088FcWnyrnwIW5x) | 4:22 |
 | 58 | [i'll wait all day \(4 U\)](https://open.spotify.com/track/5UoGRHDqbDGjxUWcwSq1MM) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [i'll wait all day \(4 U\)](https://open.spotify.com/album/4BA5uZ5AsWEuf7GdpyppF2) | 4:57 |
 
 Snapshot ID: `AAAAALFZAF7EfopJFE8DBFtngJn56LSr`

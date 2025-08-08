@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-283 songs - 16 hr 9 min
+284 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Temptation](https://open.spotify.com/track/3hwo0FI3ZX7HuI1i1va9hL) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 5:29 | 2024-05-01 | 2024-12-12 |
 | [Temptation](https://open.spotify.com/track/2GU4Z4apsGkS3YRUewQYU6) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 5:29 | 2024-12-11 |  |
 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 | 2024-05-01 |  |
+| [That's Being You](https://open.spotify.com/track/5hKkEEiLxz5kJSMZblMOep) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [That's Being You](https://open.spotify.com/album/2XUDKyZObzSKbR0TmBtBlC) | 3:50 | 2025-08-07 |  |
 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 | 2024-05-01 |  |
 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 | 2024-05-01 |  |
 | [The Wave](https://open.spotify.com/track/2IbQBVzWkT4CF9aEUWek2o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Heathen](https://open.spotify.com/album/273GjRsq1JgB5lu7ptz6HQ) | 4:18 | 2024-05-01 |  |

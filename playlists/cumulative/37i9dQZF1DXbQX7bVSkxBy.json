@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover: Krisirie & Limoblaze",
+  "description": "Raise a voice and testify the goodness of God.  Cover: Protek Illasheva",
   "name": "Testify",
   "tracks": [
     {
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 232071,
       "name": "Dependable God (Medley)",
       "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 283559,
       "name": "Dike",
       "url": "https://open.spotify.com/track/6eu2QBwKajebnVcH7o815n"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth)",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
@@ -4566,7 +4566,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 201176,
       "name": "International",
       "url": "https://open.spotify.com/track/2soBXygYhWgiUyPFBzIFSJ"
@@ -4668,7 +4668,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 240011,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ"
@@ -5698,10 +5698,32 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 194181,
       "name": "MUNGU",
       "url": "https://open.spotify.com/track/3lCAJvpiv7PB5F9SOwxA66"
+    },
+    {
+      "album": {
+        "name": "My God Is Good",
+        "url": "https://open.spotify.com/album/0osF0CnAck1ZFYh9taWJtW"
+      },
+      "artists": [
+        {
+          "name": "Halal Afrika",
+          "url": "https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh"
+        },
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598181,
+      "name": "My God Is Good",
+      "url": "https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5"
     },
     {
       "album": {
@@ -6277,6 +6299,32 @@
     },
     {
       "album": {
+        "name": "Oh Daddy",
+        "url": "https://open.spotify.com/album/1mnmCcnzNIXpppiTBTxafC"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Oh Daddy",
+      "url": "https://open.spotify.com/track/1Q5o5Vic4ninqpE0ZPROId"
+    },
+    {
+      "album": {
         "name": "Oh Jesus",
         "url": "https://open.spotify.com/album/5MutPDJVJOjL4byyRtYZoV"
       },
@@ -6336,6 +6384,24 @@
       "duration_ms": 740413,
       "name": "Okaka",
       "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/1tQwG0NNqDIYtUZc1wOT4J"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/1USYD4D3kSuDJzYL5cM4f4"
     },
     {
       "album": {
@@ -6416,6 +6482,28 @@
       "duration_ms": 685340,
       "name": "Omemma - Live",
       "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
+    },
+    {
+      "album": {
+        "name": "Omwooyo (Live)",
+        "url": "https://open.spotify.com/album/6iBWGgLxw1liCY9W3JfHBl"
+      },
+      "artists": [
+        {
+          "name": "Worship Nation",
+          "url": "https://open.spotify.com/artist/50nfiM5DcM0J1XFaO3Osul"
+        },
+        {
+          "name": "Jemimah Mulungi",
+          "url": "https://open.spotify.com/artist/1uAGt0XLYGvSJzhwS1vpg2"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315017,
+      "name": "Omwooyo - Live",
+      "url": "https://open.spotify.com/track/4VgPp7CQRZcwK9pYAGluQ8"
     },
     {
       "album": {
@@ -6670,7 +6758,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 380040,
       "name": "Out Of My Belly",
       "url": "https://open.spotify.com/track/19OhFys7Cga8g5sHHSY7hE"
@@ -7118,7 +7206,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 316067,
       "name": "River",
       "url": "https://open.spotify.com/track/1b13htqq2fwS2BGVDeRs2K"
@@ -8088,7 +8176,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 305724,
       "name": "Tuale",
       "url": "https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc"
@@ -8848,7 +8936,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 190000,
       "name": "You Are - Acoustic",
       "url": "https://open.spotify.com/track/4wg9Wy24wkh0Y4usZoSDTm"

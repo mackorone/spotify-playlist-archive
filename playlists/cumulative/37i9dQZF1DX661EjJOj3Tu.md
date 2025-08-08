@@ -2,7 +2,7 @@
 
 ### [Latin Jazz](https://open.spotify.com/playlist/37i9dQZF1DX661EjJOj3Tu)
 
-> The irresistible rhythms of Latin jazz\. Cover: Chucho Valdés
+> The irresistible rhythms of Latin jazz\. Gracias por la música, Eddie Palmieri 🕊️
 
 319 songs - 1 day 2 hr 41 min
 
@@ -288,7 +288,7 @@
 | [Só Tinha De Ser Com Voce \(Com Tom\)](https://open.spotify.com/track/33NLorbVmhAZ0nmgOhWFbY) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Os Sonhos Mais Lindos](https://open.spotify.com/album/5tfZHb7o4EzwPl7w0nMoR0) | 3:45 | 2022-08-31 | 2022-11-13 |
 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 3:49 | 2021-12-09 | 2022-07-29 |
 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:53 | 2022-07-26 | 2023-03-16 |
-| [Sólo Le Pido a Dios](https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr) | [Eva Cortés](https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw) | [Todas Las Voces](https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l) | 3:40 | 2021-12-09 |  |
+| [Sólo Le Pido a Dios](https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr) | [Eva Cortés](https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw) | [Todas Las Voces](https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l) | 3:40 | 2021-12-09 | 2025-08-08 |
 | [Tatomania](https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp), [Royal Quartet](https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD) | [Tatomania](https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9) | 4:18 | 2024-07-26 |  |
 | [Te Escucho](https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7) | [Sofia Ribeiro](https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven), [ELENI](https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh) | [Te Escucho](https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8) | 3:50 | 2021-12-09 |  |
 | [Te Vas](https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO) | [Pete Escovedo](https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ) | [E Music](https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7) | 5:41 | 2022-07-26 | 2024-04-19 |
@@ -312,7 +312,7 @@
 | [Tuyo](https://open.spotify.com/track/7eOXMnIItffbewObP4KGD7) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 3:01 | 2021-12-09 | 2023-03-16 |
 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 | 2021-12-09 |  |
 | [Una Vez Mas](https://open.spotify.com/track/4H7fdafXGufIs6PomE8boe) | [Dafnis Prieto Big Band](https://open.spotify.com/artist/5SkSOkuxQOf9s83aS6DkPb), [Brian Lynch](https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI) | [Back to the Sunset](https://open.spotify.com/album/4cVleu2VjKo3Ujz86nzDqB) | 7:27 | 2021-12-09 | 2024-08-02 |
-| [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 | 2021-12-09 | 2022-07-15 |
+| [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 | 2021-12-09 |  |
 | [Viva Cepeda](https://open.spotify.com/track/4rOWUqB2fZUxYKgWtCUdgv) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Too Late Now](https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy) | 3:43 | 2021-12-09 | 2022-07-28 |
 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 | 2022-07-26 | 2024-04-19 |
 | [With A Little Help From My Friends](https://open.spotify.com/track/24itLHAUYIj6f5RB2lghL0) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Greatest Hits](https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P) | 2:38 | 2021-12-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 149583,
+  "num_followers": 149656,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACmr1H9dJ9SlWmYniBA7K33",
+  "snapshot_id": "aJKbAAAAAAC6PbntuvPFWY1YZfG/WQJq",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Cry Pretty",
+      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best of The '68 Comeback Special (Live)",
         "url": "https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01"
       },
@@ -835,38 +867,6 @@
       "duration_ms": 190573,
       "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)",
       "url": "https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Cry Pretty",
-      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enchanted",
-        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
-      "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

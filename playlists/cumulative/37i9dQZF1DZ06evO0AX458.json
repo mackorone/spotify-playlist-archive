@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 136830,
       "name": "Exit Row",
       "url": "https://open.spotify.com/track/0gUiVIie3uU4zKNwtjSmZE"
@@ -1234,10 +1234,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 176242,
       "name": "Savoring",
       "url": "https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV"
+    },
+    {
+      "album": {
+        "name": "Live On BBC Radio 1: Vol 4",
+        "url": "https://open.spotify.com/album/0RS4Bwd7DbaV9MZIuv1TYZ"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183180,
+      "name": "Savoring - BBC Live Version",
+      "url": "https://open.spotify.com/track/3IUnbH0HPS7BqBkDPBfuDm"
     },
     {
       "album": {

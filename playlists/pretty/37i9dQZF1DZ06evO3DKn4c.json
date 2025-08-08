@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 39871,
+  "num_followers": 39890,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADkdMV1A2hSadoc/n4tYelQ",
+  "snapshot_id": "aJKbAAAAAADbgoCVlzVOBrWYld+WIxq1",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 53488,
-      "name": "DEISDAZSEIS - Ao Vivo",
-      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hip Hop Rare",
         "url": "https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 217444,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 53488,
+      "name": "DEISDAZSEIS - Ao Vivo",
+      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
     },
     {
       "added_at": null,
@@ -579,42 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00c3O VAMOS DESISTIR",
-        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 245920,
-      "name": "N\u00c3O VAMOS DESISTIR",
-      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "O Estranho Vizinho da Frente",
-      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -635,6 +599,42 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "O Estranho Vizinho da Frente",
+      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00c3O VAMOS DESISTIR",
+        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "N\u00c3O VAMOS DESISTIR",
+      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
     },
     {
       "added_at": null,

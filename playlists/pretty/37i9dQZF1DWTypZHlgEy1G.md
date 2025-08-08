@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,119 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,113 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 40 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 |
 | 41 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
 | 42 | [Tout va très bien madame la marquise](https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12) | [Ray Ventura](https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO) | [Du Caf' Conc' au Music Hall](https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe) | 3:25 |
-| 43 | [J'ai deux amours](https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [Musical Moments to Remember: Joséphine Baker, Vol\. 1 \(2014 Remastered\)](https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd) | 3:10 |
-| 44 | [Frou\-Frou](https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Frou\-Frou et 29 succès de Berthe Sylva \(Chanson française\)](https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW) | 3:02 |
+| 43 | [Frou\-Frou](https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Frou\-Frou et 29 succès de Berthe Sylva \(Chanson française\)](https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW) | 3:02 |
+| 44 | [J'ai deux amours](https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [Musical Moments to Remember: Joséphine Baker, Vol\. 1 \(2014 Remastered\)](https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd) | 3:10 |
 | 45 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 |
 | 46 | [Chanson pour l'Auvergnat](https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [George Brassens: Douce France](https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ) | 3:03 |
 | 47 | [Tu verras](https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [L'Essentiel Studio 1962 \- 1985](https://open.spotify.com/album/4Dp614rQojtU5SlmllzRCW) | 3:13 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 65 | [Santiano](https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 2:14 |
 | 66 | [Hier encore](https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:20 |
 | 67 | [Laissons entrer le soleil](https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 68\-97](https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si) | 3:44 |
-| 68 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu De L'Extérieur](https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X) | 3:19 |
-| 69 | [Comme d'habitude](https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16) | 4:13 |
+| 68 | [Comme d'habitude](https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16) | 4:13 |
+| 69 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu De L'Extérieur](https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X) | 3:19 |
 | 70 | [Amoureux de ma femme](https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Les plus grandes chansons](https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh) | 2:43 |
 | 71 | [La madrague](https://open.spotify.com/track/6S4VGbTsHYtqchpkCx0kxW) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bonnie And Clyde](https://open.spotify.com/album/4bUHEvMDSA8Y0uIDco133a) | 2:33 |
 | 72 | [Douce France](https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Platinum](https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq) | 3:12 |

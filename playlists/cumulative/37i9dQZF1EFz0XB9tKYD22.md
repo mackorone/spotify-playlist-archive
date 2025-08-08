@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-406 songs - 1 day 0 hr 1 min
+407 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Broken Umbrella](https://open.spotify.com/track/5y9AGed2pNT9QwN26J1CwS) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Broken Umbrella](https://open.spotify.com/album/6cP0I03XgX7eE0NGRR6DVV) | 2:43 | 2024-11-29 |  |
 | [Built for Heartbreak](https://open.spotify.com/track/6QJsDO7ZyX7EwVWPSkQc4b) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Built for Heartbreak](https://open.spotify.com/album/6XPnwkFbKwUntx4NQKUdt3) | 3:21 | 2024-02-27 |  |
 | [Burn](https://open.spotify.com/track/6vYx683y1hTyS8vCujGANA) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:10 | 2024-02-27 |  |
-| [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 | 2024-03-05 | 2025-08-07 |
+| [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 | 2024-03-05 |  |
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2024-02-27 |  |
 | [Buy My Own Drinks](https://open.spotify.com/track/6LhZAoMfux3P3DUxwOI7aG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/3HNVxd2fKr94wkdhyLH5nf) | 3:22 | 2024-02-27 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/6A3zkf3PbkhibQTWcb5RFu) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 5:40 | 2024-02-27 |  |
@@ -160,7 +160,8 @@
 | [I Deserve A Drink](https://open.spotify.com/track/1vEK7QlISGLcYm7SLZFaQR) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq) | 3:26 | 2025-06-26 |  |
 | [I Deserve A Drink](https://open.spotify.com/track/7u2iWRkkz8GBYFe4apxVBl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:26 | 2024-02-27 | 2025-06-27 |
 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 | 2024-02-27 |  |
-| [I Don't Want To](https://open.spotify.com/track/4IBeE2buS10yagsyGUGbJV) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 3:01 | 2024-02-27 |  |
+| [I Don't Want To](https://open.spotify.com/track/1lgpGypQ3PTxmbNTywxtIX) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/5e3U4W5w3QMd3KOgIniTS8) | 3:01 | 2025-08-07 |  |
+| [I Don't Want To](https://open.spotify.com/track/4IBeE2buS10yagsyGUGbJV) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 3:01 | 2024-02-27 | 2025-08-08 |
 | [I Know A Girl](https://open.spotify.com/track/5NDTTkIxKkg4WrhoMGqFCV) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:15 | 2024-02-27 |  |
 | [I Need A Drink](https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:10 | 2024-02-27 |  |
 | [I Need A Ride Home](https://open.spotify.com/track/2cDwJOPWSBuFyqdmBRBbsS) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:30 | 2024-02-27 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: IDLES",
+  "description": "The best new music from the wide world of punk. Cover: Good Charlotte",
   "name": "All New Punk",
   "tracks": [
     {
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 205380,
       "name": "Anita Ride",
       "url": "https://open.spotify.com/track/28KqDZ2qWkxHHKWL32LlpN"
@@ -5380,7 +5380,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 197685,
       "name": "BLUFFSIDE",
       "url": "https://open.spotify.com/track/04keLbEHYL02yf1zAAbSH1"
@@ -10264,7 +10264,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 221340,
       "name": "Day of Iva",
       "url": "https://open.spotify.com/track/51bJlHHLoe1t3vIX3swfRW"
@@ -12053,6 +12053,24 @@
     },
     {
       "album": {
+        "name": "Reflection / Don't Fight",
+        "url": "https://open.spotify.com/album/6dP4GsPzcJW0LaNnHp2An1"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162640,
+      "name": "Don't Fight",
+      "url": "https://open.spotify.com/track/77uOIGBiWfd5dr88Y6QcIn"
+    },
+    {
+      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -12412,6 +12430,24 @@
       "duration_ms": 196805,
       "name": "Drama King",
       "url": "https://open.spotify.com/track/2SfMutDpjeHZgNXDmqObIF"
+    },
+    {
+      "album": {
+        "name": "Drawbacks",
+        "url": "https://open.spotify.com/album/1wlW82sxnNUPneEzUQJ8hN"
+      },
+      "artists": [
+        {
+          "name": "dust",
+          "url": "https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248114,
+      "name": "Drawbacks",
+      "url": "https://open.spotify.com/track/4yPi4MHGAIJ4eimHqSQB8M"
     },
     {
       "album": {
@@ -12812,7 +12848,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 138651,
       "name": "DULL",
       "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs"
@@ -16340,7 +16376,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 162695,
       "name": "Get The Message",
       "url": "https://open.spotify.com/track/354WZaV3u6cuzTG2PmpYwm"
@@ -18283,6 +18319,24 @@
     },
     {
       "album": {
+        "name": "Hawk",
+        "url": "https://open.spotify.com/album/3nPnmLlFhfpios14irjgSP"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222446,
+      "name": "Hawk",
+      "url": "https://open.spotify.com/track/40zSMkWtGouAxkjMQnB9JT"
+    },
+    {
+      "album": {
         "name": "Hazmat Suit (My Ass)",
         "url": "https://open.spotify.com/album/5HLaRNTY0Kk71653Rhnjww"
       },
@@ -20059,6 +20113,24 @@
     },
     {
       "album": {
+        "name": "Motel Du Cap",
+        "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221037,
+      "name": "I Don\u2019t Work Here Anymore",
+      "url": "https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ"
+    },
+    {
+      "album": {
         "name": "I Fell in Love With Someone I Shouldn't Have",
         "url": "https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA"
       },
@@ -20275,6 +20347,24 @@
     },
     {
       "album": {
+        "name": "I Knew We'd Talk About It One Day",
+        "url": "https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y"
+      },
+      "artists": [
+        {
+          "name": "Humour",
+          "url": "https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207220,
+      "name": "I Knew We'd Talk About It One Day",
+      "url": "https://open.spotify.com/track/1p5YXN5n2wDDun03QhSjjL"
+    },
+    {
+      "album": {
         "name": "I KNOW BETTER",
         "url": "https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S"
       },
@@ -20420,7 +20510,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 186933,
       "name": "I Need Nothing",
       "url": "https://open.spotify.com/track/2iORQwf470Ev2JO0e82cXm"
@@ -21897,6 +21987,32 @@
     },
     {
       "album": {
+        "name": "Island in the Sun",
+        "url": "https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        },
+        {
+          "name": "Cory Castro",
+          "url": "https://open.spotify.com/artist/0kvKmsx3dW0nEHuOYPem9w"
+        },
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149606,
+      "name": "Island in the Sun (feat. Cory Castro of Free Throw)",
+      "url": "https://open.spotify.com/track/7LDwaLHxFXW0kVyHKMJAaE"
+    },
+    {
+      "album": {
         "name": "Cave World (Deluxe)",
         "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
       },
@@ -22542,7 +22658,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 119069,
       "name": "Johnny Gone",
       "url": "https://open.spotify.com/track/0EuXKxhp0ayiydgkqKav3m"
@@ -23668,7 +23784,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 149943,
       "name": "LANDSLIDE",
       "url": "https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2"
@@ -23846,6 +23962,24 @@
       "duration_ms": 219760,
       "name": "Lay Me to Rest",
       "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
+    },
+    {
+      "album": {
+        "name": "Lazare",
+        "url": "https://open.spotify.com/album/3exLAmkRm2mwJM8gKlt51P"
+      },
+      "artists": [
+        {
+          "name": "Carences",
+          "url": "https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Lazare",
+      "url": "https://open.spotify.com/track/3nFebxOfpi9y8mJuAJTxSg"
     },
     {
       "album": {
@@ -27660,7 +27794,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 130571,
       "name": "Montr\u00e9al",
       "url": "https://open.spotify.com/track/3dsOTm1NvWmBgNZlngpPVY"
@@ -27750,7 +27884,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 126978,
       "name": "More Pain",
       "url": "https://open.spotify.com/track/0vIdn8WBrW8KVpNm9lnP9H"
@@ -28486,7 +28620,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 167000,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/44p3WHkflCj9nCf61BfEQ2"
@@ -31947,6 +32081,24 @@
     },
     {
       "album": {
+        "name": "Phantom Host",
+        "url": "https://open.spotify.com/album/5fN5BT23RBkF6HeZzoCKg1"
+      },
+      "artists": [
+        {
+          "name": "Sunday Morning",
+          "url": "https://open.spotify.com/artist/2jctlQLPR5HkLkNZz4Zo4G"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Phantom Host",
+      "url": "https://open.spotify.com/track/0dC8TUcTjHPHpqLOzEbz4Y"
+    },
+    {
+      "album": {
         "name": "Phone Lines Down",
         "url": "https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN"
       },
@@ -32428,6 +32580,24 @@
       "duration_ms": 153269,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX"
+    },
+    {
+      "album": {
+        "name": "Pop Punk Anthem (Sorry for the Delay)",
+        "url": "https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC"
+      },
+      "artists": [
+        {
+          "name": "Die Spitz",
+          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230678,
+      "name": "Pop Punk Anthem (Sorry for the Delay)",
+      "url": "https://open.spotify.com/track/2gaY4NhYEGJvxKbur1GKJE"
     },
     {
       "album": {
@@ -35451,6 +35621,24 @@
     },
     {
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/413WyMq0ASr1awKpaZ017l"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217447,
+      "name": "Saturation Diver",
+      "url": "https://open.spotify.com/track/79HEZpg8JmxYG8C0qqe8rM"
+    },
+    {
+      "album": {
         "name": "State Champs",
         "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
@@ -37710,6 +37898,28 @@
       "duration_ms": 209245,
       "name": "Snare",
       "url": "https://open.spotify.com/track/1cT3ZimACp8A7ktm08tZS3"
+    },
+    {
+      "album": {
+        "name": "ABOMINATION REVEALED AT LAST",
+        "url": "https://open.spotify.com/album/3yuZcYUVruXaFz2cvYGHdP"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "SNEAKER",
+      "url": "https://open.spotify.com/track/7Ea3bOJYSxqWOeM4fPPz2m"
     },
     {
       "album": {
@@ -42050,7 +42260,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 246065,
       "name": "THE GARDEN",
       "url": "https://open.spotify.com/track/4fl0t6eNTYs9v4HybImpB6"
@@ -47966,6 +48176,24 @@
       "duration_ms": 135272,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2gsQSr676Ri06KDDtUqjAs"
+    },
+    {
+      "album": {
+        "name": "X's For Eyes",
+        "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176008,
+      "name": "X\u2019s For Eyes",
+      "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
     },
     {
       "album": {

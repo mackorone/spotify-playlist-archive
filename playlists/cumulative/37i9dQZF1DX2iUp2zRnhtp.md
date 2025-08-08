@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-373 songs - 18 hr 38 min
+374 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2025-05-01 |
 | [LYSEBLÅ BAGUETTES](https://open.spotify.com/track/2tZNua267z99XuspJdJhdi) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [LYSEBLÅ BAGUETTES](https://open.spotify.com/album/4AUzkGlxLfH5FYbLDJuyob) | 2:55 | 2025-07-17 |  |
 | [M.I.A](https://open.spotify.com/track/4d6lDUKo6UYGhD4pUnaKip) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [M.I.A](https://open.spotify.com/album/2X1YiNgsrL3vT3gvwunrlT) | 2:56 | 2025-05-12 |  |
+| [MACHIAVELLI](https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Due](https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx) | [MACHIAVELLI](https://open.spotify.com/album/16nEPTjTPhoBpqGjzT1KDh) | 3:11 | 2025-08-07 |  |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 |  |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-06-27 | 2024-09-20 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-06-27 | 2025-03-08 |

@@ -533,6 +533,28 @@
     },
     {
       "album": {
+        "name": "Cry Dancing",
+        "url": "https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179396,
+      "name": "Cry Dancing",
+      "url": "https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq"
+    },
+    {
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
       },
@@ -1726,7 +1748,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 162864,
       "name": "Mother",
       "url": "https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw"

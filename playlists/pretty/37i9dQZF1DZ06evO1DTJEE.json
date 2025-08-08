@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 57265,
+  "num_followers": 57316,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAyZsJZKRqvHxyC0RhhkfG/",
+  "snapshot_id": "aJKbAAAAAABufM3O/cpY1EffQ5MqIURt",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "There Was This Girl",
-      "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 176000,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "There Was This Girl",
+      "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
     },
     {
       "added_at": null,
@@ -538,31 +538,11 @@
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Reel Problems",
-      "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Ain\u2019t Like I Can Hide It",
-      "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
+      "duration_ms": 257799,
+      "name": "That's A Mistake",
+      "url": "https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU"
     },
     {
       "added_at": null,
@@ -579,6 +559,22 @@
       "duration_ms": 230733,
       "name": "That\u2019s What I\u2019ve Been Told",
       "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Ain\u2019t Like I Can Hide It",
+      "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
     },
     {
       "added_at": null,
@@ -610,27 +606,15 @@
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "That's A Mistake",
-      "url": "https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
+        },
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 215833,
-      "name": "Damn Country Music",
-      "url": "https://open.spotify.com/track/2gnDnUxYwUmMdHb3s741WQ"
+      "duration_ms": 197400,
+      "name": "Reel Problems",
+      "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 212200,
       "name": "I Let A Damn Good Woman Leave",
       "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 215833,
+      "name": "Damn Country Music",
+      "url": "https://open.spotify.com/track/2gnDnUxYwUmMdHb3s741WQ"
     },
     {
       "added_at": null,

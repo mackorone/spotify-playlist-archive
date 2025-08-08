@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,941 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,087 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 36 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 |
 | 37 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 |
 | 38 | [Golden Hour](https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Golden Hour](https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok) | 3:37 |
-| 39 | [Say My Name](https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Say My Name](https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP) | 2:00 |
+| 39 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 |
 | 40 | [Lambada \(Your Love\)](https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Lambada \(Your Love\)](https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6) | 4:26 |
-| 41 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 |
+| 41 | [Say My Name](https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Say My Name](https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP) | 2:00 |
 | 42 | [Boom Boom Boom](https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Boom Boom Boom](https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G) | 3:01 |
 | 43 | [Fireflies](https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Fireflies](https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv) | 2:33 |
 | 44 | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/track/6R5ZDu7hQJqSGjJKe3J78K) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/album/0l48E2jODBFaWoMjrpNyGm) | 3:36 |

@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "1 gang til",
+        "url": "https://open.spotify.com/album/2EPMQ8giDjvy8tiwrxhZ09"
+      },
+      "artists": [
+        {
+          "name": "Lisa Fosmark",
+          "url": "https://open.spotify.com/artist/3GunZjrBeuApvoV5udcC91"
+        },
+        {
+          "name": "Anthon Edwards",
+          "url": "https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti"
+        },
+        {
+          "name": "Emil Kruse",
+          "url": "https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153286,
+      "name": "1 gang til",
+      "url": "https://open.spotify.com/track/4Pj63m6uNr1S6fAYo8Z4QF"
+    },
+    {
+      "album": {
         "name": "10 ud af 10",
         "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
       },
@@ -1248,7 +1274,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
@@ -1288,7 +1314,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 160111,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
@@ -1572,6 +1598,36 @@
       "duration_ms": 179437,
       "name": "Burning Down (with Joe Jonas)",
       "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
+    },
+    {
+      "album": {
+        "name": "Bus Stop Please (David Guetta & Morten Future Rave Remix)",
+        "url": "https://open.spotify.com/album/4ZTjlo4DdfAH98ffFyT51r"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192157,
+      "name": "Bus Stop Please - David Guetta & Morten Future Rave Remix",
+      "url": "https://open.spotify.com/track/75rc1El3Y6X4uhJD3UK0xn"
     },
     {
       "album": {
@@ -3244,7 +3300,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 178041,
       "name": "En dr\u00f8m om et menneske",
       "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
@@ -4234,7 +4290,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 148348,
       "name": "FORST\u00c5R DU? (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/5bxbA6Uv3EVpEV6fqu4wjS"
@@ -6182,7 +6238,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -6292,6 +6348,28 @@
       "duration_ms": 263760,
       "name": "In The Living Room",
       "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
+    },
+    {
+      "album": {
+        "name": "Ingen Yin uden Yang (feat. Mille)",
+        "url": "https://open.spotify.com/album/6TaVspANJfwne5UYy3mQyE"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174282,
+      "name": "Ingen Yin uden Yang (feat. Mille)",
+      "url": "https://open.spotify.com/track/3x8aAHTDLJzKN7B8GE5Qjt"
     },
     {
       "album": {
@@ -6546,6 +6624,24 @@
       "duration_ms": 149160,
       "name": "Jeg Vil Hjem",
       "url": "https://open.spotify.com/track/2aA9cIKoK3wVKb9PVoJW5L"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -8841,6 +8937,32 @@
     },
     {
       "album": {
+        "name": "Olivia For Altid (feat. Omar & Svea S)",
+        "url": "https://open.spotify.com/album/2ggoD5oqy6Ju4susVxIT8v"
+      },
+      "artists": [
+        {
+          "name": "Ankerstjerne",
+          "url": "https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        },
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169703,
+      "name": "Olivia For Altid (feat. Omar & Svea S)",
+      "url": "https://open.spotify.com/track/1NOXdz32HLzPiFbqFQHUh7"
+    },
+    {
+      "album": {
         "name": "Omega (feat. Ralphie Choo)",
         "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
       },
@@ -9088,7 +9210,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 230797,
       "name": "Perfectly",
       "url": "https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg"
@@ -9110,6 +9232,24 @@
       "duration_ms": 186000,
       "name": "plastikhjerte",
       "url": "https://open.spotify.com/track/503O8kwnrNMP4DfQ3u3hf1"
+    },
+    {
+      "album": {
+        "name": "Playthings",
+        "url": "https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Playthings",
+      "url": "https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30"
     },
     {
       "album": {
@@ -9937,6 +10077,28 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4o3AHAl1dknsQGp7NbJeQD"
+      },
+      "artists": [
+        {
+          "name": "Donel",
+          "url": "https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1Rt3wxfKg2dn8vjh2A7S7V"
+    },
+    {
+      "album": {
         "name": "I Love You So F***ing Much",
         "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
       },
@@ -10290,7 +10452,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 167647,
       "name": "Solrige Dage",
       "url": "https://open.spotify.com/track/06lB0pKFVgJbiiPiPHk2J8"
@@ -10762,7 +10924,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 212471,
       "name": "Stolt (feat. Lamin)",
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
@@ -10820,7 +10982,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 175234,
       "name": "Stuck On Us",
       "url": "https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1"
@@ -10878,7 +11040,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 188200,
       "name": "Superman",
       "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
@@ -12088,7 +12250,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Undskyld",
       "url": "https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy"
@@ -12832,10 +12994,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 201028,
       "name": "With You",
       "url": "https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm"
+    },
+    {
+      "album": {
+        "name": "within",
+        "url": "https://open.spotify.com/album/3KCV6PkHJIOguwyNtqQgin"
+      },
+      "artists": [
+        {
+          "name": "joshua.",
+          "url": "https://open.spotify.com/artist/6YyTzqDH4pzFhkmIDs8Edw"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "within",
+      "url": "https://open.spotify.com/track/3ASDReYuOvbp6wUf9wV2yg"
     },
     {
       "album": {

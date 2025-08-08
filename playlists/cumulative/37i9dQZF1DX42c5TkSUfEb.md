@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-411 songs - 1 day 1 hr 8 min
+412 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,8 +80,8 @@
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 | 2022-11-25 |  |
 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 | 2023-11-24 | 2023-12-14 |
 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 | 2023-11-20 | 2023-11-25 |
-| [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 | 2025-06-20 |  |
-| [clue](https://open.spotify.com/track/1ItaFV8IGkb33gXFI2c5Ps) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [clue / talk](https://open.spotify.com/album/4eCNegZL2VLo8CrhUhzL1a) | 3:39 | 2025-08-01 |  |
+| [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 | 2025-06-20 | 2025-08-08 |
+| [clue](https://open.spotify.com/track/1ItaFV8IGkb33gXFI2c5Ps) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [clue / talk](https://open.spotify.com/album/4eCNegZL2VLo8CrhUhzL1a) | 3:39 | 2025-08-01 | 2025-08-08 |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2023-09-28 |  |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2022-11-25 | 2023-12-14 |
 | [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2023-11-20 | 2025-08-03 |
@@ -163,12 +163,13 @@
 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-03-27 | 2024-04-19 |
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-21 | 2023-03-26 |
 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 | 2023-02-21 | 2023-08-01 |
-| [Hold Me](https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Hold Me](https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h) | 3:10 | 2025-04-25 | 2025-08-03 |
+| [Hold Me](https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Hold Me](https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h) | 3:10 | 2025-04-25 |  |
 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-07-25 |  |
 | [Home](https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:20 | 2022-11-25 | 2023-03-18 |
 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 | 2025-06-26 | 2025-08-02 |
 | [Horizons Into Battlegrounds](https://open.spotify.com/track/1SSoLdnoptUGfs5kwgVQms) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Horizons Into Battlegrounds](https://open.spotify.com/album/72f1jbx4WSwyGxM9o5b28w) | 3:41 | 2024-05-23 | 2025-01-24 |
 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 | 2022-11-25 | 2023-02-22 |
+| [how did they know](https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [how did they know](https://open.spotify.com/album/5XQnun6cfXG7S7KmXagM1K) | 4:03 | 2025-08-07 |  |
 | [Hurts so Good](https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Hurts so Good](https://open.spotify.com/album/2vB7f35TC3FniOnMy3ohiQ) | 4:55 | 2023-05-25 | 2023-07-05 |
 | [I Believe](https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 2:37 | 2024-04-15 | 2025-06-29 |
 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 | 2025-03-20 | 2025-05-09 |
@@ -273,7 +274,7 @@
 | [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 | 2024-10-25 |  |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-20 | 2025-05-16 |
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2022-11-25 | 2024-04-19 |
-| [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 | 2025-06-26 |  |
+| [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 | 2025-06-26 | 2025-08-08 |
 | [On My Mind \- Radio Edit](https://open.spotify.com/track/4A8NuOMg65pgEYUr1X0mzU) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [On My Mind](https://open.spotify.com/album/5zoHxmguqA9YMklneErozC) | 3:39 | 2024-05-13 | 2024-10-07 |
 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 | 2022-11-25 | 2023-02-22 |
 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 | 2024-04-15 |  |
@@ -418,6 +419,6 @@
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 |  |
 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-11-25 | 2024-04-19 |
 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 | 2025-07-03 |  |
-| [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 | 2025-08-03 |
+| [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 |  |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

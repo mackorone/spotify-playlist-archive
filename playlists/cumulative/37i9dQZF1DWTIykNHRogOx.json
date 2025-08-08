@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Grand-m\u00e8re",
+        "url": "https://open.spotify.com/album/5h32dU86HS9BxewTJGpULm"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238013,
+      "name": "Grand-m\u00e8re",
+      "url": "https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq"
+    },
+    {
+      "album": {
         "name": "G\u00f6ttingen",
         "url": "https://open.spotify.com/album/5OKx6hoqVE0gygiOIjVsKS"
       },
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 254920,
       "name": "Le cri des loups",
       "url": "https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Poizi x Murat Boz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,612,773 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,613,058 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 50 | [Arıyo](https://open.spotify.com/track/0f5wEn5loiPLw2ItV8Qxoi) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Arıyo](https://open.spotify.com/album/48i9T2rTEgtK7K5j44Hq92) | 2:13 |
 
-Snapshot ID: `AAAAABX58ZxPQ290DIBlSNhOY/RhqV66`
+Snapshot ID: `AAAAAD5qypBF8Ta3wrddtV7IHJ/KlbDV`

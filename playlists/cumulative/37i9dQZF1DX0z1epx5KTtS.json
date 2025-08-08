@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Team Paiya",
+  "description": "African dance party music from the continent to Paris. Photo : Serge Beynaud",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -674,7 +674,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 206666,
       "name": "C'est dos\u00e9",
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
@@ -1120,6 +1120,24 @@
       "duration_ms": 187232,
       "name": "CPLM",
       "url": "https://open.spotify.com/track/1nMW4kWWNlCdZ5YWoUURm8"
+    },
+    {
+      "album": {
+        "name": "Cr\u00e9atair",
+        "url": "https://open.spotify.com/album/6NLn3piJhLvA01cVl6Ytk0"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Cr\u00e9atair (Dokui)",
+      "url": "https://open.spotify.com/track/3icNhDoAQVBPtBe8NcoQnt"
     },
     {
       "album": {

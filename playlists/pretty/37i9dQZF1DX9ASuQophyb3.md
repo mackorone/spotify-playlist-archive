@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Afra
+> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Amo 988
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,179 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525,417 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 |
 | 50 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 |
 
-Snapshot ID: `AAAAAATBbYbTkAZE2xGvebhsOcv7x1Sd`
+Snapshot ID: `AAAAAPRUqAt+blQBuz/BR2FiPwMCenO4`

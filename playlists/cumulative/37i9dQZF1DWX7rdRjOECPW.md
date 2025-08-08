@@ -4,7 +4,7 @@
 
 > Sommer, Sonne, Seewetter! ☀️
 
-258 songs - 12 hr 32 min
+259 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [PIANO](https://open.spotify.com/track/0m1AgVZRzaB7FL5s6oqOWO) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [PIANO](https://open.spotify.com/album/1CMyFYzNKvtF5POZq5OgYv) | 2:57 | 2024-06-20 | 2025-05-23 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-09-13 | 2025-05-21 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-04-09 | 2025-04-26 |
-| [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-06-02 |  |
+| [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-06-02 | 2025-08-08 |
 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 | 2024-08-01 | 2024-12-13 |
 | [Rapunzel \- DJ Robin Remix](https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Rapunzel \(DJ Robin Remix\)](https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX) | 2:45 | 2023-07-26 | 2024-04-10 |
 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 | 2024-07-09 | 2025-06-03 |
@@ -250,6 +250,7 @@
 | [Viva la vida](https://open.spotify.com/track/3U99oc0OWol7g7VxZfFs4O) | [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh) | [Viva la vida](https://open.spotify.com/album/1gvVx0cTAVSrfd62rM2AWa) | 2:26 | 2024-06-14 | 2025-05-26 |
 | [vorsatz](https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [vorsatz](https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr) | 2:37 | 2025-06-02 |  |
 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-04-25 |  |
+| [Wake Up \(With You Mine\)](https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [Wake Up \(With You Mine\)](https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf) | 3:20 | 2025-08-01 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-04-09 |  |
 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 | 2023-07-26 | 2025-05-21 |
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-07-26 | 2024-04-10 |

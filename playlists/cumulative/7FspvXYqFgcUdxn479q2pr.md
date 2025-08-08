@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: AFROJACK, Martin Garrix, David Guetta, Amél
 
-599 songs - 1 day 5 hr 26 min
+600 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 | 2025-05-15 | 2025-05-31 |
 | [The Weekend \(feat\. Ruth Royall\)](https://open.spotify.com/track/2u3vWA61Vw0pFuOrR6alWc) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [The Weekend \(feat\. Ruth Royall\)](https://open.spotify.com/album/14aKD3L9dAOGCRfcHIqXtf) | 2:25 | 2024-05-02 | 2024-05-17 |
 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-05-15 | 2025-05-31 |
+| [Things I Haven’t Told You](https://open.spotify.com/track/0pDVZoDOubNxgzjgTvzVQi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Things I Haven’t Told You](https://open.spotify.com/album/1BVA2ZrleGhk13DKwSIJib) | 2:36 | 2025-08-07 |  |
 | [Think Of Me](https://open.spotify.com/track/3f7UTRlyaHtaf8zsUwvTaI) | [UPHORA](https://open.spotify.com/artist/28cbPA3D1jBIP9BLGU47pe), [Kiiwi](https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD) | [Think Of Me](https://open.spotify.com/album/3xUurfMe2TeWNuRZswG6bn) | 4:00 | 2024-04-26 | 2024-05-03 |
 | [Those Were The Days](https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Those Were The Days](https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN) | 3:00 | 2024-10-31 | 2024-11-23 |
 | [Through the Night](https://open.spotify.com/track/1c4Np5YSKDMp0feU8unOyr) | [Joey McCrilley](https://open.spotify.com/artist/4ew3WXgHuVN5LOVn0KfiNI), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Through the Night](https://open.spotify.com/album/7ED0vJ10TrJXLAdfnX14Is) | 2:55 | 2024-07-26 | 2024-08-02 |

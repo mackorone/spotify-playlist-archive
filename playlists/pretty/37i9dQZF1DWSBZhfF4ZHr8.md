@@ -2,32 +2,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo: Gims
+> Les meilleures nouveautés de la variété française\. Photo: Julien Lieb
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,845 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,869 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 |
+| 1 | [Autrement](https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Autrement](https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE) | 2:44 |
 | 2 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 |
-| 3 | [Viens on essaie](https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Viens on essaie](https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY) | 2:49 |
-| 4 | [Pourquoi tu restes](https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:47 |
-| 5 | [À qui le tour](https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [À qui le tour](https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG) | 2:42 |
-| 6 | [Je rentre à la maison](https://open.spotify.com/track/1eEz9N2Hh4e5hIFEdYROII) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [Je rentre à la maison](https://open.spotify.com/album/1ncqSQP5o0qRqSb5awZKET) | 3:14 |
-| 7 | [Autrement](https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Autrement](https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE) | 2:44 |
-| 8 | [Joli rêve](https://open.spotify.com/track/5WEmSLGnZ8LiXuBDv5p7M6) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/2gtaaPpY13C7vyPw734gI4) | 2:59 |
-| 9 | [Falbala](https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Falbala](https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL) | 2:28 |
-| 10 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 |
-| 11 | [Nous](https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Nous](https://open.spotify.com/album/1is67cSsBtCg203117l5QH) | 2:35 |
-| 12 | [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 |
+| 3 | [À qui le tour](https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [À qui le tour](https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG) | 2:42 |
+| 4 | [Falbala](https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Falbala](https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL) | 2:28 |
+| 5 | [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 |
+| 6 | [Viens on essaie](https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Viens on essaie](https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY) | 2:49 |
+| 7 | [Si demain](https://open.spotify.com/track/46qwIhwXsPtMoZ3XI3Y64e) | [Hugo Nogam](https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe), [Victoria](https://open.spotify.com/artist/4pOVNTzFsbwvGDMmXUSC6C) | [Si demain](https://open.spotify.com/album/1DBdTtN8hwO0HGrUAU1X85) | 2:17 |
+| 8 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 |
+| 9 | [Pourquoi tu restes](https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:47 |
+| 10 | [Je rentre à la maison](https://open.spotify.com/track/1eEz9N2Hh4e5hIFEdYROII) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [Je rentre à la maison](https://open.spotify.com/album/1ncqSQP5o0qRqSb5awZKET) | 3:14 |
+| 11 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 |
+| 12 | [Nous](https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Nous](https://open.spotify.com/album/1is67cSsBtCg203117l5QH) | 2:35 |
 | 13 | [Dans un autre monde](https://open.spotify.com/track/2FImV41l1nKv3gLzhT1BCs) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Dans un autre monde](https://open.spotify.com/album/5scTVjfrAmCWhFznxEAIRM) | 3:22 |
 | 14 | [Fou](https://open.spotify.com/track/3k9ls5eHI51YbFcYTAKUfQ) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Fou](https://open.spotify.com/album/51tbf3pT4437nEvVA9T9dE) | 2:53 |
 | 15 | [Song for You](https://open.spotify.com/track/3DvIo6x1dNhznOzvoO0dfh) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Song for You](https://open.spotify.com/album/5t7mqCakaB2KmhWVoeAbD4) | 2:56 |
-| 16 | [Si demain](https://open.spotify.com/track/46qwIhwXsPtMoZ3XI3Y64e) | [Hugo Nogam](https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe), [Victoria](https://open.spotify.com/artist/4pOVNTzFsbwvGDMmXUSC6C) | [Si demain](https://open.spotify.com/album/1DBdTtN8hwO0HGrUAU1X85) | 2:17 |
+| 16 | [Puzzle](https://open.spotify.com/track/64CmepzkypgxrWLhbkB27E) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [PAULISE + PUZZLE](https://open.spotify.com/album/0NVSvL5BYQwQsoAZ3vOB8h) | 2:35 |
 | 17 | [Nouveau jour](https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Nouveau jour](https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p) | 2:06 |
-| 18 | [Puzzle](https://open.spotify.com/track/64CmepzkypgxrWLhbkB27E) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [PAULISE + PUZZLE](https://open.spotify.com/album/0NVSvL5BYQwQsoAZ3vOB8h) | 2:35 |
-| 19 | [Nous deux](https://open.spotify.com/track/2QsSPfjrYW84b3y2hYFHek) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/1wi40HUkdCT8VXNkMn497R) | 2:50 |
-| 20 | [J'AURAIS DÛ T'AIMER](https://open.spotify.com/track/1XOAr8w0YO4nlIOZNqNRXh) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [J'AURAIS DÛ T'AIMER](https://open.spotify.com/album/7sRau8tHSnSlkmUTb13Cwp) | 3:06 |
+| 18 | [J'AURAIS DÛ T'AIMER](https://open.spotify.com/track/1XOAr8w0YO4nlIOZNqNRXh) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [J'AURAIS DÛ T'AIMER](https://open.spotify.com/album/7sRau8tHSnSlkmUTb13Cwp) | 3:06 |
+| 19 | [Joli rêve](https://open.spotify.com/track/5WEmSLGnZ8LiXuBDv5p7M6) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/2gtaaPpY13C7vyPw734gI4) | 2:59 |
+| 20 | [Nous deux](https://open.spotify.com/track/2QsSPfjrYW84b3y2hYFHek) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/1wi40HUkdCT8VXNkMn497R) | 2:50 |
 | 21 | [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 |
 | 22 | [monde](https://open.spotify.com/track/60CDEPRBvqZOgEj46q3Zqo) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [monde](https://open.spotify.com/album/4Wm1oLjb5CVA3m7rUKWvKq) | 2:33 |
 | 23 | [Coeur Vagabond](https://open.spotify.com/track/0xQD0amV9gCVM65edA5vA6) | [César](https://open.spotify.com/artist/29QLxgXz1rdMvaVK2aWFlU) | [Coeur Vagabond](https://open.spotify.com/album/27YIFWHTmGvUol9A8HaAIx) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Il suffit d'une chanson](https://open.spotify.com/track/02n2wpQra4DEQZ8DZD27Gp) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34) | [Il suffit d'une chanson](https://open.spotify.com/album/1wb0xY0W1qJjl4wOqgtztH) | 3:07 |
 | 50 | [Jamais deux sans trois](https://open.spotify.com/track/3Gl9006GKKQs0To5Xe940u) | [21 Juin Le Duo](https://open.spotify.com/artist/0UUuBtaLyglYTbgfjTw1vT) | [Jamais deux sans trois](https://open.spotify.com/album/7MQxrbB9MquN4xxCXSIwgJ) | 2:41 |
 
-Snapshot ID: `AAAAADBA+iFPoUWwtV+dcL8XpWr7qZy/`
+Snapshot ID: `AAAAABHGRuEd5acK4/uJ2GR/erOtS8Y/`

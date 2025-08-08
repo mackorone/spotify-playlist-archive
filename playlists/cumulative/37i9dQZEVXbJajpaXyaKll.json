@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 227312,
       "name": "3 Some",
       "url": "https://open.spotify.com/track/7uuMiNxOTPXMO3XAIqjOJB"
@@ -5882,7 +5882,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 283133,
       "name": "Close My Eyes Forever",
       "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
@@ -6604,7 +6604,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
@@ -15404,7 +15404,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 132142,
       "name": "Las Cosas Que No Dije",
       "url": "https://open.spotify.com/track/0oOpGaV23qGzjaYcBYCldY"
@@ -29166,7 +29166,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 100288,
       "name": "Te Vas a Arrepentir (Remix)",
       "url": "https://open.spotify.com/track/1lv3Y7hqnmICKzFTGMFM8o"
@@ -33444,6 +33444,28 @@
       "duration_ms": 212720,
       "name": "XQ ERES AS\u00cd",
       "url": "https://open.spotify.com/track/5V3CFqzpQSp3frtlVp4T3D"
+    },
+    {
+      "album": {
+        "name": "BALLIN DE VERDAD",
+        "url": "https://open.spotify.com/album/4HPYO1GUQAP77kq7sC0WvS"
+      },
+      "artists": [
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "xq te enamoraste",
+      "url": "https://open.spotify.com/track/4PmWLiAw054Pu97WMGVRnj"
     },
     {
       "album": {

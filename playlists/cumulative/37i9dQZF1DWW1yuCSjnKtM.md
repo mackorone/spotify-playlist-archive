@@ -2,9 +2,9 @@
 
 ### [!!!](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> hand\-picked and hot right now 📈 cover: sombr
+> hand\-picked and hot right now 📈 cover: Chappell Roan
 
-568 songs - 1 day 6 hr 57 min
+570 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-13 | 2024-03-06 |
 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 | 2025-02-24 | 2025-03-28 |
 | [Itty Bitty](https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c) | 2:42 | 2025-04-09 | 2025-04-23 |
+| [IWATCHEDHIMDROWN](https://open.spotify.com/track/4jv3TFJWkmCswY7DxwMeQI) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [The Lost Files](https://open.spotify.com/album/428N9zTdjW9YzRVxBWZN7C) | 1:24 | 2025-08-07 |  |
 | [Jerkin'](https://open.spotify.com/track/1nosPEKWYKACcauB4zF0mK) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/4IiBgaY6BeDdBrB1vLyRtF) | 2:08 | 2024-11-18 | 2025-01-21 |
 | [Judas](https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:09 | 2025-04-14 | 2025-05-08 |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-25 | 2024-07-23 |
@@ -436,6 +437,7 @@
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-01 | 2025-05-17 |
 | [SERVING KANT](https://open.spotify.com/track/4l9nP0UbrgnfhKvbLsU6xk) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING](https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR) | 2:59 | 2025-05-19 | 2025-06-03 |
 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-24 | 2024-08-03 |
+| [Seven Minutes in Heaven](https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [MSI B\-SIDES vol.1](https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS) | 2:13 | 2025-08-07 |  |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-03-24 |  |
 | [She Know What She Wanted \- Jersey Club Remix Slowed](https://open.spotify.com/track/17j94KZ4XMNM599wComGDG) | [Godard](https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [She Know What She Wanted \(Jersey Club Remix Slowed\)](https://open.spotify.com/album/5q3J1gqVyTvChtFf8EJKQk) | 2:13 | 2024-04-05 | 2024-04-19 |
 | [She Know What She Wanted \- Jersey Club Remix Slowed](https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU) | [Godard](https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [She Know What She Wanted \(Jersey Club Remix Slowed\)](https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb) | 2:13 | 2024-03-17 | 2024-04-30 |

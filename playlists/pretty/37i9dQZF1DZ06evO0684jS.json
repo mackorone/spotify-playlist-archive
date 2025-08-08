@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 888454,
+  "num_followers": 888498,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABpD2iSHRND1zJo+s8+kw2U",
+  "snapshot_id": "aJKbAAAAAAAew85f/mANWEsPwSTDZ3ol",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Make Me Proud",
-      "url": "https://open.spotify.com/track/7yfg0Eer6UZZt5tZ1XdsWz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
         "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 218746,
       "name": "High School",
       "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Make Me Proud",
+      "url": "https://open.spotify.com/track/7yfg0Eer6UZZt5tZ1XdsWz"
     },
     {
       "added_at": null,
@@ -791,6 +791,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Pound The Alarm",
+      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kiss The Ring (Deluxe)",
         "url": "https://open.spotify.com/album/1KDc01X8ZF9VYqVW6c4lvr"
       },
@@ -819,42 +855,6 @@
       "duration_ms": 267173,
       "name": "Take It To The Head",
       "url": "https://open.spotify.com/track/2lD4LsB3iQVnddkVM2RFAl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Pound The Alarm",
-      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 212920,
       "name": "Fly",
       "url": "https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 234413,
-      "name": "Flawless Remix (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) [Remix]",
         "url": "https://open.spotify.com/album/6x8tzop53PDl2tvjIXB9a0"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 268863,
       "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
       "url": "https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 234413,
+      "name": "Flawless Remix (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E"
     },
     {
       "added_at": null,

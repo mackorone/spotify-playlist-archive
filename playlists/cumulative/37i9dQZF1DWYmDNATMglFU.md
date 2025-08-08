@@ -2,7 +2,7 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> new gen alt ⛓ ft\. julia wolf
+> new gen alt ⛓ ft\. mgk
 
 965 songs - 2 day 0 hr 22 min
 

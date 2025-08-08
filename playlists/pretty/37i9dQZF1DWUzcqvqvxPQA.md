@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,951 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,962 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 8 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
 | 9 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
 | 10 | [FREE! \- Live](https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [FREE! \(Live\)](https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy) | 3:45 |
-| 11 | [backseat drive](https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [backseat drive](https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr) | 2:54 |
-| 12 | [SOMETHING DIFFERENT](https://open.spotify.com/track/6IYLA7aFxVNi5puPw6wppV) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [SOMETHING DIFFERENT](https://open.spotify.com/album/2DLFtkfpLL3nPxrgH5xDqu) | 2:56 |
+| 11 | [SOMETHING DIFFERENT](https://open.spotify.com/track/6IYLA7aFxVNi5puPw6wppV) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [SOMETHING DIFFERENT](https://open.spotify.com/album/2DLFtkfpLL3nPxrgH5xDqu) | 2:56 |
+| 12 | [backseat drive](https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [backseat drive](https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr) | 2:54 |
 | 13 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 |
 | 14 | [Believe It](https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Victory Lap](https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh) | 1:52 |
 | 15 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 38 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
 | 39 | [Song of the Summer](https://open.spotify.com/track/3m1hA3gecbWfbEKXYD0V7U) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Song of the Summer](https://open.spotify.com/album/0hhZ9wE0NXs2h6VsH0A764) | 3:00 |
 | 40 | [Right on Time](https://open.spotify.com/track/4pVzf8UaGNQV0v9HyVjjVO) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Right on Time](https://open.spotify.com/album/0Gw9quE6VUvg49osbcrU6A) | 2:50 |
-| 41 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
-| 42 | [Not For You](https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Not For You](https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW) | 2:13 |
+| 41 | [Not For You](https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Not For You](https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW) | 2:13 |
+| 42 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
 | 43 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 |
 | 44 | [Into The Wild](https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:48 |
 | 45 | [SUMMER](https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [SUMMER](https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1) | 2:25 |

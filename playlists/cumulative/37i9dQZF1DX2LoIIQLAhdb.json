@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 152613,
       "name": "Changer",
       "url": "https://open.spotify.com/track/3Mngd5UkMnKskYTzAIgdpN"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 155506,
       "name": "Encore",
       "url": "https://open.spotify.com/track/3fi1zaL252MTiiiIWoKr6f"
@@ -4763,6 +4763,24 @@
     },
     {
       "album": {
+        "name": "LE PARI",
+        "url": "https://open.spotify.com/album/7e5Y19gAPCcoEszTnZmiI5"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "LE PARI",
+      "url": "https://open.spotify.com/track/3ChgQZ5az6S9Km9ej4VwAB"
+    },
+    {
+      "album": {
         "name": "Premier souffle",
         "url": "https://open.spotify.com/album/46qJPZhur04U9SGPzhNZKJ"
       },
@@ -5328,6 +5346,24 @@
       "duration_ms": 195250,
       "name": "Mal de toi",
       "url": "https://open.spotify.com/track/6nSP9koY7i80mhkyCtjzJj"
+    },
+    {
+      "album": {
+        "name": "Aura x G-Wave",
+        "url": "https://open.spotify.com/album/6nTV23x6SYrdS74Q2ls1Yn"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208470,
+      "name": "Malembe",
+      "url": "https://open.spotify.com/track/0FmItoePsyfwRtuQP78vue"
     },
     {
       "album": {
@@ -7201,6 +7237,28 @@
     },
     {
       "album": {
+        "name": "SOUSCALCUL MIXTAPE VOL.1 (Version Deluxe)",
+        "url": "https://open.spotify.com/album/6UiBEkleixVDeJ1KbQhQUv"
+      },
+      "artists": [
+        {
+          "name": "PRINC\u20ac",
+          "url": "https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj"
+        },
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158182,
+      "name": "PRENDS SUR MOI (feat. DAKEEZ)",
+      "url": "https://open.spotify.com/track/5lW3atf42ItPyQxFWahkBf"
+    },
+    {
+      "album": {
         "name": "Prie Pour Moi",
         "url": "https://open.spotify.com/album/7GQlUc3nmWlRkCtQU74Cup"
       },
@@ -7668,7 +7726,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 158000,
       "name": "Reste encore",
       "url": "https://open.spotify.com/track/0uZ2FEXaXuasSUy6s9vDFs"
@@ -8068,7 +8126,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 144000,
       "name": "SATANA",
       "url": "https://open.spotify.com/track/1KmxcGCJsDimV7fmcgVHX9"
@@ -9730,6 +9788,24 @@
       "duration_ms": 144466,
       "name": "WITCHU",
       "url": "https://open.spotify.com/track/5fBJV1HOCP1yWRpKae22xX"
+    },
+    {
+      "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/4QiaxBfpS8WRXV3SQY5qrV"
+      },
+      "artists": [
+        {
+          "name": "Afios",
+          "url": "https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/7zAuUzdF1AAskBSuQTv6Yq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-813 songs - 1 day 10 hr 38 min
+814 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Between Bird Cherry and Lilac](https://open.spotify.com/track/6WIDhbMt9PxsTD9dukAmmw) | [Manuel Maria Rojas](https://open.spotify.com/artist/4g0gAM7jxFZznUqV75EUxN) | [Between Bird Cherry and Lilac](https://open.spotify.com/album/3vc2eHIww7vEppI4uRRrCr) | 3:01 | 2024-10-09 |  |
 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 | 2023-05-12 |  |
 | [Bezmocný](https://open.spotify.com/track/4VvEgdGaEGLlKEQZM4DK6a) | [Rémy Milburn](https://open.spotify.com/artist/6PRLsFki2KLDNw9lN9mgks) | [Bezmocný](https://open.spotify.com/album/1ViR3HfRO3uaioYDIJDnsZ) | 2:31 | 2023-04-21 |  |
+| [Bitterly Sweet](https://open.spotify.com/track/0jXrk3VVvMjEMDxK62VT0M) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Bitterly Sweet](https://open.spotify.com/album/53WwNJTRQseNg3Xff5EYPs) | 2:06 | 2025-08-06 |  |
 | [Bittersweet](https://open.spotify.com/track/5H8vWHr2WXUPBJPvzzdoGI) | [Jack Haigh](https://open.spotify.com/artist/0HuN0DMQ4BDOd08dHtdev2) | [Bittersweet](https://open.spotify.com/album/0cM0K4oNN7D8Rxx6HEsX0n) | 3:20 | 2024-11-26 |  |
 | [Black eyed dog](https://open.spotify.com/track/2DENCfhn50slvRKvF9pqcI) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Black eyed dog](https://open.spotify.com/album/5hUgi7lXgzbk27XorSx4zk) | 3:02 | 2022-07-15 | 2022-09-17 |
 | [Blissfully](https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Blissfully](https://open.spotify.com/album/4sFH3eqtmKVo0HVlyA8hnm) | 3:16 | 2023-12-15 | 2024-12-19 |
@@ -715,7 +716,7 @@
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 | 2025-07-23 |
 | [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 | 2022-12-09 | 2023-04-22 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2023-04-21 |  |
-| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 |  |
+| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 | 2025-08-08 |
 | [The Lighthouse](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 2:20 | 2023-04-21 | 2023-06-09 |
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2023-04-21 | 2024-04-26 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 | 2024-12-11 |

@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-483 songs - 1 day 6 hr 44 min
+485 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Further on up the Road \(feat\. Eric Clapton\) \- Concert Version](https://open.spotify.com/track/5BqDxx1udS4QhUriDrSJzt) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 5:30 | 2023-10-06 | 2023-10-14 |
 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 | 2023-06-09 | 2024-04-19 |
 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 | 2024-06-21 |  |
-| [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 | 2024-05-17 |  |
+| [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 | 2024-05-17 | 2025-08-08 |
 | [give me one more night](https://open.spotify.com/track/07IHD3tqFjJ7ZqBf0YytJZ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [if this is it..\. \- E.P.](https://open.spotify.com/album/7kZvuaNfHeDkuUEBBbcQXJ) | 3:22 | 2024-06-21 |  |
 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 | 2024-07-19 |  |
 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 | 2022-09-10 | 2022-09-15 |
@@ -263,7 +263,7 @@
 | [My Town](https://open.spotify.com/track/36oSzy6uztrVglG0swtduH) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [Simple Mission](https://open.spotify.com/album/75Bv72IjO9tkBIFdSqu0xT) | 4:49 | 2022-05-02 | 2022-07-29 |
 | [Never Surrender](https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Boy In The Box](https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN) | 4:55 | 2022-05-02 | 2023-05-19 |
 | [New Girl Now](https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan) | [Honeymoon Suite](https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q) | [Honeymoon Suite](https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n) | 3:36 | 2022-05-02 | 2023-05-19 |
-| [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-05-31 |  |
+| [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-05-31 | 2025-08-08 |
 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 | 2022-05-02 | 2024-04-19 |
 | [Night To Remember](https://open.spotify.com/track/0BJgFxiNchIhnvPCY3h2bv) | [Prism](https://open.spotify.com/artist/5LRNWnDWFkMtRmlxtYdW3I) | [Armageddon](https://open.spotify.com/album/3uvSqaKfDcpQyOAEg8dtiT) | 5:51 | 2022-05-02 | 2022-06-04 |
 | [No Man's Land](https://open.spotify.com/track/3bGmPRMOBQLIOUYfhEeWle) | [Greg Keelor](https://open.spotify.com/artist/1uY1yygywc5FqBISxIGHRE) | [Aphrodite Rose](https://open.spotify.com/album/2QHGgQEhiVyuD8BaKZVHj9) | 3:34 | 2023-10-06 | 2023-10-14 |
@@ -388,7 +388,7 @@
 | [Sudbury Saturday Night](https://open.spotify.com/track/4u0dd6dDgbmsrq19dNFC60) | [Stompin' Tom Connors](https://open.spotify.com/artist/1rOI6HUtD1IR5lbXSbpwQH) | [Bud The Spud](https://open.spotify.com/album/3vWHdiM0ymGxZpNWSBYUWU) | 2:23 | 2022-05-02 | 2022-07-28 |
 | [Summer 2000 Baby](https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Summer 2000 Baby / Take a Trip](https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4) | 4:02 | 2024-08-09 | 2024-09-07 |
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2022-05-02 | 2023-06-20 |
-| [Summer of 69 \(Classic Version\)](https://open.spotify.com/track/45sqV0WhglbGJswa6SiC0v) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Classic](https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR) | 4:08 | 2023-06-19 |  |
+| [Summer of 69 \(Classic Version\)](https://open.spotify.com/track/45sqV0WhglbGJswa6SiC0v) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Classic](https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR) | 4:08 | 2023-06-19 | 2025-08-08 |
 | [Sun in an Empty Room](https://open.spotify.com/track/4r1AS456lSXXXv6aVpDT4e) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 4:00 | 2022-05-02 | 2023-12-24 |
 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 | 2022-05-02 | 2024-04-19 |
 | [Sunglasses at Night](https://open.spotify.com/track/2NcnRXvKMhilK3CSXm325p) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/0epvQpUSs1Geu0PgVZDvi3) | 5:18 | 2022-05-02 | 2022-07-26 |
@@ -470,6 +470,7 @@
 | [Where Have All The Good People Gone?](https://open.spotify.com/track/0T4TdNQ93GEXKtfkCx9zYF) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/7iyRJ3WSW2y2LbIPUYJhgS) | 4:24 | 2023-05-18 | 2023-11-25 |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2024-04-19 |  |
 | [While My Guitar Gently Weeps](https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Hell To Pay](https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1) | 5:15 | 2024-04-05 | 2024-04-19 |
+| [White Horses](https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:29 | 2025-08-07 |  |
 | [Who You Are](https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Lighthouse](https://open.spotify.com/album/386OkomCq7KFjusVqI1E78) | 3:17 | 2024-04-19 | 2024-07-19 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 |  |
 | [Wildfire](https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:31 | 2024-04-19 |  |
@@ -479,6 +480,7 @@
 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 | 2022-05-02 | 2024-04-19 |
 | [Years In The Making](https://open.spotify.com/track/6oqg3JVXv3ocNkLlAVfEFN) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Once](https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT) | 2:57 | 2022-05-02 | 2022-09-11 |
 | [Years In The Making](https://open.spotify.com/track/7e4jhsoV4urOVVZOS6112k) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Years In The Making](https://open.spotify.com/album/4MYloBSc2cBHPKC5LvQ9Db) | 2:58 | 2022-05-02 | 2022-07-29 |
+| [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2025-08-07 |  |
 | [Yer Spring](https://open.spotify.com/track/24zgxESIfyz1zUTWD8g6i2) | [Hey Rosetta!](https://open.spotify.com/artist/52ue4x5xVjLx4cw2HEXMhi) | [Seeds](https://open.spotify.com/album/7hBpaDN1zz30mENSTMiCpY) | 4:52 | 2023-12-15 | 2023-12-23 |
 | [Yin Yang](https://open.spotify.com/track/3i3whElNgZh3h94AR3Feb0) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [Advanced Basics](https://open.spotify.com/album/32qm2HP8Zo7CLipIJIPN1p) | 3:11 | 2022-05-02 | 2022-07-14 |
 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 | 2022-05-02 | 2022-09-11 |

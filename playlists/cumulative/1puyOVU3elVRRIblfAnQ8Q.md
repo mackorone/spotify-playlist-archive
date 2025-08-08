@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-216 songs - 12 hr 34 min
+219 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Clean](https://open.spotify.com/track/1BswTUn90cgvpRN30JNJFM) | [Evalution](https://open.spotify.com/artist/1m3BeGVpc21uM3wC4MSDfq) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:18 | 2024-08-23 | 2024-09-27 |
 | [Cockroaches](https://open.spotify.com/track/52B80CEV3N6zZ1ERgtMvxF) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [YAANO](https://open.spotify.com/artist/2T0O5j4GMBDmAd8OaEA2UX) | [Asura EP](https://open.spotify.com/album/3TDp7ADxIVCOZbI1VjtztC) | 5:29 | 2023-10-06 | 2024-05-17 |
 | [Coldburst](https://open.spotify.com/track/6nkMdVcY08yNjPhgCXWGJz) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 3:15 | 2024-08-09 | 2024-08-24 |
+| [Collected](https://open.spotify.com/track/3qvChm8u7FznuEHtmnEGzE) | [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7), [Don Jamal](https://open.spotify.com/artist/3b1DIrWDwR8A5gxBgWt0DV), [Rakjay](https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ) | [Collected](https://open.spotify.com/album/3ioOAyQoOO8SHFUxDGfkIQ) | 3:15 | 2025-08-07 |  |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-05-26 | 2023-11-09 |
 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4U8yrkTPcJLOfK142vcYCv) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting Remixes](https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM) | 3:34 | 2024-02-09 | 2024-08-24 |
 | [Counting \- Simula Remix](https://open.spotify.com/track/0nzDaPjb2Nm09dTqIn4uOJ) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Counting Remixes](https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM) | 2:11 | 2024-02-09 | 2024-08-24 |
@@ -121,6 +122,7 @@
 | [Jaded](https://open.spotify.com/track/0qICNf9xJjMQtZLqNSLopD) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Escapism Vol\. 1](https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY) | 3:30 | 2024-10-07 |  |
 | [Kat Tracker](https://open.spotify.com/track/09SowvtFvazAyUZCyKjnSI) | [Katret](https://open.spotify.com/artist/251oyBDSa8SSr5QtplJVxq) | [Kat Tracker](https://open.spotify.com/album/312CLrGUtXpPKmxVJ04AqW) | 3:56 | 2024-06-03 | 2024-08-24 |
 | [keep jumpin](https://open.spotify.com/track/4qjJrkk54dWtoPb1z7uBXQ) | [not yes](https://open.spotify.com/artist/3sAig7Ir86KX0ZdcxSR1ax) | [keep jumpin](https://open.spotify.com/album/1h5AyAcn7njmqouVzsiJ40) | 3:17 | 2023-08-28 | 2023-11-09 |
+| [Keep Running From Love](https://open.spotify.com/track/7HHVDMk9cZSpftr5Qm2Vsu) | [Bobby Love](https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3) | [Keep Running From Love](https://open.spotify.com/album/2QzywadApSgw3L8FTD4akO) | 3:05 | 2025-08-07 |  |
 | [KNOCKIN](https://open.spotify.com/track/3zrA3t7TNwfzl23xXlHR2N) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [KNOCKIN](https://open.spotify.com/album/6SjpAmtMUwFTcPaeJZksTN) | 2:17 | 2024-11-28 |  |
 | [Know By Now](https://open.spotify.com/track/7nAqAAY59ADeBkfNtbNL9h) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 4:35 | 2024-01-26 | 2024-02-10 |
 | [Know By Now](https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Know By Now](https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu) | 4:35 | 2023-11-17 | 2024-08-24 |
@@ -166,6 +168,7 @@
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 | 2024-08-24 |
 | [Real World](https://open.spotify.com/track/74qhxY7OA3sFjkfrA1Sh0B) | [Noise Dept.](https://open.spotify.com/artist/46Un4FFfMc6YURdDdWdYh8) | [Real World](https://open.spotify.com/album/7jQLrXw2y43EjC3DkQyLaI) | 4:49 | 2025-07-23 |  |
 | [Reasons](https://open.spotify.com/track/07wxoKnyPZnrRtzcRX917e) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Reasons](https://open.spotify.com/album/3gYJNB9aT8weYejDegHbTX) | 3:18 | 2023-10-06 | 2024-01-27 |
+| [RELIC](https://open.spotify.com/track/4IxYVV46tSKMPiLT4w76F8) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [RELIC](https://open.spotify.com/album/78TemQFA5d8qKy6MCCAp5p) | 2:48 | 2025-08-07 |  |
 | [Reptile](https://open.spotify.com/track/01NzITypb9KJfNjnma5hcj) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Mind Of Madness](https://open.spotify.com/album/1NaeFQSi1Fv66jdscJbzIJ) | 3:02 | 2024-04-30 | 2024-08-24 |
 | [Ride 4 U](https://open.spotify.com/track/2zRPvS8h5HP9Txj6JsUkSI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Ride 4 U](https://open.spotify.com/album/4JEE8pQukLtamlBB1aANRj) | 3:01 | 2023-08-16 | 2024-05-17 |
 | [Ring Master](https://open.spotify.com/track/0KOb8JQInFydOboaHSsJls) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 3:46 | 2023-12-04 | 2024-08-24 |

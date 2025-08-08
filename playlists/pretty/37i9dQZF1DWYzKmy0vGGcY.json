@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 506158,
+  "num_followers": 506313,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 145746,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Lady Soul (With Bonus Selections)",
@@ -311,6 +295,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 145746,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Days Of Future Passed (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
-      },
-      "artists": [
-        {
-          "name": "The Moody Blues",
-          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Nights In White Satin - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "duration_ms": 269106,
+      "name": "Nights In White Satin - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "In Dreams",
-        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Take A Look",
@@ -827,6 +811,22 @@
       "duration_ms": 176080,
       "name": "Anyone Who Knows What Love Is (Will Understand)",
       "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "For Your Sweet Love",
         "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 146133,
       "name": "I Will Follow You",
       "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Golden Hits of The Everly Brothers",
-        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 175626,
       "name": "All I Could Do Was Cry",
       "url": "https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Golden Hits of The Everly Brothers",
+        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2115,18 +2115,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Music From Big Pink (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
       },
       "artists": [
         {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 278626,
-      "name": "The Weight - Remastered",
-      "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
+        "name": "Music From Big Pink (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+      "duration_ms": 278626,
+      "name": "The Weight - Remastered",
+      "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
     },
     {
       "added_at": "2022-05-30 13:00:37",

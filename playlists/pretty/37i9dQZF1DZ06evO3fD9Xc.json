@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103756,
+  "num_followers": 103754,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAB2ObSzBh2Hi8N+aaYpWDf3",
+  "snapshot_id": "aJKbAAAAAACl+fgcmN4IQVWc9UY61uWZ",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena Se\u00f1al",
-        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Buena Se\u00f1al",
-      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 2",
         "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 175543,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buena Se\u00f1al",
+        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Buena Se\u00f1al",
+      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
     },
     {
       "added_at": null,
@@ -579,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+        "name": "Si Quieres (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
       "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
+      "duration_ms": 258480,
+      "name": "Si Quieres - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
     },
     {
       "added_at": null,
@@ -611,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quieres (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
       },
       "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 258480,
-      "name": "Si Quieres - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": null,

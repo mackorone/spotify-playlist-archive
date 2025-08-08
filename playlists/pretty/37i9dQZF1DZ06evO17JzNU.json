@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 28813,
+  "num_followers": 28817,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAgFcKfa+nyDQCuUU7tmU9B",
+  "snapshot_id": "aJKbAAAAAABm/FbXyYmCxV5ccD5Dirls",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Chakalosos",
-        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 188778,
-      "name": "La Vida Recia",
-      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos y Sentimientos",
         "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 144057,
       "name": "Vida Mafioso",
       "url": "https://open.spotify.com/track/60qjW0ecl3vFlklpH6PLPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Chakalosos",
+        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "La Vida Recia",
+      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Cruz",
-        "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
-        }
-      ],
-      "duration_ms": 173568,
-      "name": "Una Cruz",
-      "url": "https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sapo 777",
         "url": "https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 196979,
       "name": "Sapo 777",
       "url": "https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Cruz",
+        "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "duration_ms": 173568,
+      "name": "Una Cruz",
+      "url": "https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe"
     },
     {
       "added_at": null,

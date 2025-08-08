@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Christopher Nolan",
+        "url": "https://open.spotify.com/album/1c5G0v0IQRGziB4LpatXyx"
+      },
+      "artists": [
+        {
+          "name": "Cezar",
+          "url": "https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163175,
+      "name": "Christopher Nolan",
+      "url": "https://open.spotify.com/track/1grqsdlUGsZTWZtCWkFwlc"
+    },
+    {
+      "album": {
         "name": "CHU CHU CHA",
         "url": "https://open.spotify.com/album/7pxcGrZXxHn8ihWZKcrHHZ"
       },
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 152218,
       "name": "F\u00f8dt En Kriminel",
       "url": "https://open.spotify.com/track/2RDO7Rb5uJ38IVgRLfd4iS"
@@ -7101,6 +7119,28 @@
     },
     {
       "album": {
+        "name": "WILLO",
+        "url": "https://open.spotify.com/album/4VsTEyWQnqy1185nBAe2OV"
+      },
+      "artists": [
+        {
+          "name": "Michael Williams",
+          "url": "https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131549,
+      "name": "TWIN (feat. Noah Carter)",
+      "url": "https://open.spotify.com/track/05hqLU2iwcnnDTafxCWXKb"
+    },
+    {
+      "album": {
         "name": "Tyngdekraft",
         "url": "https://open.spotify.com/album/3ffwxtrr0EThRigHNcVynp"
       },
@@ -7406,7 +7446,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 135272,
       "name": "Vejen Hjem Til Dig",
       "url": "https://open.spotify.com/track/53lXPicp2LuvmWcH5KoQfW"

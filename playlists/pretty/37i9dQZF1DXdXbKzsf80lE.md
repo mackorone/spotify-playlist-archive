@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,479 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,531 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 43 | [Paraquedas \- Live](https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:49 |
 | 44 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 | 45 | [O Apostador](https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [O Apostador](https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX) | 2:16 |
-| 46 | [Ele Não Te Merece](https://open.spotify.com/track/48nxUG7ATqzudxNqzRXt4S) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [WS Sem Limites \(Deluxe\)](https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD) | 3:07 |
-| 47 | [Casal Raiz \- Ao Vivo](https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:29 |
+| 46 | [Casal Raiz \- Ao Vivo](https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:29 |
+| 47 | [Ele Não Te Merece](https://open.spotify.com/track/48nxUG7ATqzudxNqzRXt4S) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [WS Sem Limites \(Deluxe\)](https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD) | 3:07 |
 | 48 | [Trip do Boyzinho](https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [Trip do Boyzinho](https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx) | 2:49 |
 | 49 | [Batom De Ouro](https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Batom de Ouro](https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu) | 2:18 |
 | 50 | [Quem Nunca \- Ao Vivo em Fortaleza](https://open.spotify.com/track/2ekuJuZiOw523TPWtqXguQ) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Quem Nunca \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/0PZXHqmn7bvqduX5BAYDZX) | 2:35 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 54 | [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 |
 | 55 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 |
 | 56 | [Então Vem Cá \- Ao Vivo](https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:57 |
-| 57 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
-| 58 | [Os Boys Amam O Ex Chora](https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Os Boys Amam O Ex Chora](https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr) | 2:33 |
-| 59 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 57 | [Os Boys Amam O Ex Chora](https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Os Boys Amam O Ex Chora](https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr) | 2:33 |
+| 58 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 59 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
 | 60 | [Isca](https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Isca](https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv) | 2:42 |
 
 Snapshot ID: `AAAAAEe87b1fz32XtB2a86M7G5o6bCVL`

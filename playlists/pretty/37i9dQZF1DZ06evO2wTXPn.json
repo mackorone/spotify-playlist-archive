@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31664,
+  "num_followers": 31666,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADYa66eSVOaEoKqEYt5h99/",
+  "snapshot_id": "aJKbAAAAAAB3APhxWXNU7hPoecGyth9J",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
+        "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "S\u00f3lo Muere Si Se Olvida",
+      "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 200706,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
-        "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 173720,
-      "name": "S\u00f3lo Muere Si Se Olvida",
-      "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
     },
     {
       "added_at": null,

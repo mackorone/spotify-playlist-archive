@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Maud Elka",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : IZAYA",
   "name": "le miel",
   "tracks": [
     {
@@ -702,7 +702,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 174200,
       "name": "Better",
       "url": "https://open.spotify.com/track/5FmZBIrc2ebHrcPvtUw8E7"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 201426,
       "name": "Boucle infinie",
       "url": "https://open.spotify.com/track/6A33TYqsomqbEZnvprkIPJ"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 201775,
       "name": "Cinq \u00c9toiles",
       "url": "https://open.spotify.com/track/3l5xazk89vOmVCnnw1Zx3n"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 199473,
       "name": "Des heures - Radio Edit",
       "url": "https://open.spotify.com/track/6K3goFMy3vC30cpd3RcEMX"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 178165,
       "name": "ERROR 404",
       "url": "https://open.spotify.com/track/0q94cCOTrT8Wk9f9uEnPzS"
@@ -2229,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "Faire Mieux",
+        "url": "https://open.spotify.com/album/06zpOo8JdyED6lebE1GFR2"
+      },
+      "artists": [
+        {
+          "name": "Squidji",
+          "url": "https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok"
+        },
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202570,
+      "name": "Faire Mieux",
+      "url": "https://open.spotify.com/track/59fnX2XFGGKC8xhSrZcRt6"
+    },
+    {
+      "album": {
         "name": "Fallait pas",
         "url": "https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15"
       },
@@ -2244,6 +2266,28 @@
       "duration_ms": 158000,
       "name": "Fallait pas",
       "url": "https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5"
+    },
+    {
+      "album": {
+        "name": "CLOSURE / FAR AWAY",
+        "url": "https://open.spotify.com/album/0BT7WC1eD6jjx0bc6BYLOi"
+      },
+      "artists": [
+        {
+          "name": "Clo\u00e9 Mailly",
+          "url": "https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG"
+        },
+        {
+          "name": "E-WHIZZ",
+          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "FAR AWAY",
+      "url": "https://open.spotify.com/track/2v16Grluo6s9UyN1sfumCc"
     },
     {
       "album": {
@@ -2686,7 +2730,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 140428,
       "name": "HEY YA",
       "url": "https://open.spotify.com/track/5AJA7rGpkrR8DNJKLCZyRw"
@@ -3436,6 +3480,24 @@
       "duration_ms": 174400,
       "name": "L'amour dure 6 ans",
       "url": "https://open.spotify.com/track/704opmBSscvN3R4nstMKCE"
+    },
+    {
+      "album": {
+        "name": "L'amour est en haut",
+        "url": "https://open.spotify.com/album/3N5JEk6TdPw8uOAdIIQawb"
+      },
+      "artists": [
+        {
+          "name": "IZAYA",
+          "url": "https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162274,
+      "name": "L'amour est en haut",
+      "url": "https://open.spotify.com/track/2KwLl3KyDAP4kZdk4gAUnK"
     },
     {
       "album": {
@@ -5669,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/3p0umCSApDfemx8Lqdxa6b"
+      },
+      "artists": [
+        {
+          "name": "K\u00eferra",
+          "url": "https://open.spotify.com/artist/4UYfoEvsfMWhMVb6vl1rXZ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/4ZyrI36fdL7fuNWj19WZv5"
+    },
+    {
+      "album": {
         "name": "Une semaine \u00e0 Paris",
         "url": "https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u"
       },
@@ -6049,6 +6129,24 @@
     },
     {
       "album": {
+        "name": "Sage",
+        "url": "https://open.spotify.com/album/7r3dLGvJudrTsr2G8jcQNM"
+      },
+      "artists": [
+        {
+          "name": "Noah Gala",
+          "url": "https://open.spotify.com/artist/24umJStzpODB9mZ70uCdOD"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165272,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/23ZZCvqwLZlvKdZ6zrckJx"
+    },
+    {
+      "album": {
         "name": "Mocha",
         "url": "https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73"
       },
@@ -6418,7 +6516,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 139169,
       "name": "Silence",
       "url": "https://open.spotify.com/track/6ouyqD39ZQ3LEn1cymrvdh"
@@ -6889,6 +6987,24 @@
     },
     {
       "album": {
+        "name": "Ton corps",
+        "url": "https://open.spotify.com/album/7L0mSUN756d49JGWjGqFe6"
+      },
+      "artists": [
+        {
+          "name": "Alicia.",
+          "url": "https://open.spotify.com/artist/497jP4B8qjwywlQShLt7TU"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "Ton corps",
+      "url": "https://open.spotify.com/track/5ySmhAaGow0WWE0riU87OP"
+    },
+    {
+      "album": {
         "name": "Ton masque est tomb\u00e9",
         "url": "https://open.spotify.com/album/125lRuq52JJvZiIcp4BCAZ"
       },
@@ -7164,6 +7280,24 @@
       "duration_ms": 168000,
       "name": "T\u00e9moin",
       "url": "https://open.spotify.com/track/3oAeLtP06SAeztPQwKUip4"
+    },
+    {
+      "album": {
+        "name": "T\u00eate baiss\u00e9e",
+        "url": "https://open.spotify.com/album/6zqyZXsEh0Zo6MYbxZBNRM"
+      },
+      "artists": [
+        {
+          "name": "Saintdoss",
+          "url": "https://open.spotify.com/artist/7uJX35B4qOcB5E8R7796s4"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128058,
+      "name": "T\u00eate baiss\u00e9e",
+      "url": "https://open.spotify.com/track/3vURw5oYfUhrLOKQiZkC4A"
     },
     {
       "album": {

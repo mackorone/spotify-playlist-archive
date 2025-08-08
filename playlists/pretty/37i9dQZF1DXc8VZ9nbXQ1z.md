@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,121 likes - 130 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,236 likes - 130 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 47 | [Rumble](https://open.spotify.com/track/24CkZHMUwGHeIJgn1m6EoM) | [Xavier Dragner](https://open.spotify.com/artist/25DLgS5KimLaA06q3NOh1u), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Rumble](https://open.spotify.com/album/7yuYs5TGpWXMRMQA0E5bPP) | 5:37 |
 | 48 | [Voulez Vous](https://open.spotify.com/track/7fivDCjKjcqfA9fmY1FUeh) | [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen) | [Voulez Vous](https://open.spotify.com/album/7kbtbBGVEYvdTE8ctdk6bH) | 4:25 |
 | 49 | [Yamí \- Radio Edit](https://open.spotify.com/track/6DMEvO00tdTJiB5vsVudDs) | [OCËR](https://open.spotify.com/artist/2lr2luzsNa4F3bhq1gHKy5), [Mevil](https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW) | [Yamí](https://open.spotify.com/album/3XeWKvgK9b7NnQhUf3PFfc) | 4:36 |
-| 50 | [Work \- Super Flu Remix](https://open.spotify.com/track/0OHEgl26njhrxDYsy9AM4C) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Work \(Super Flu Remix\)](https://open.spotify.com/album/5OxZMJjP68L2284FWFL98X) | 3:27 |
+| 50 | [Work \- Super Flu Remix](https://open.spotify.com/track/0OHEgl26njhrxDYsy9AM4C) | [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Work \(Super Flu Remix\)](https://open.spotify.com/album/5OxZMJjP68L2284FWFL98X) | 3:27 |
 | 51 | [Too Much Information \- Laolu Remix \(Edit\)](https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx) | [Dele Sosimi Afrobeat Orchestra](https://open.spotify.com/artist/6QqfKF0FAhEq6AIKLpDkSb), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Too Much Information \(Remixes\)](https://open.spotify.com/album/4VAJVub0Ft9gCJmODhwThV) | 8:32 |
 | 52 | [Never Sleep Again \- Keinemusik Remix](https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 7:12 |
 | 53 | [Sonder](https://open.spotify.com/track/08KPoXspkgRPoyo5oNQTI1) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ) | [Caras](https://open.spotify.com/album/6j1SU20OfOFxsnyW31M38G) | 3:52 |

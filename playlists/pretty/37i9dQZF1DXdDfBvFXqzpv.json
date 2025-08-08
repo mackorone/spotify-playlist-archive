@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106409,
+  "num_followers": 106405,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 257984,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Boy With No Name",
-        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Shine A Light",
         "url": "https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 225120,
       "name": "Shine A Light",
       "url": "https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Boy With No Name",
+        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "MOTOR FUNCTION",
-        "url": "https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 160329,
-      "name": "Landline",
-      "url": "https://open.spotify.com/track/5H9wA29ptgnn7mXAHKhUKc"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "ID (Ultra Music Festival Anthem)",
         "url": "https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 289987,
       "name": "ID - Ultra Music Festival Anthem",
       "url": "https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "MOTOR FUNCTION",
+        "url": "https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 160329,
+      "name": "Landline",
+      "url": "https://open.spotify.com/track/5H9wA29ptgnn7mXAHKhUKc"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Some Cities",
+        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 255413,
+      "name": "Black And White Town",
+      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 146084,
       "name": "Wanna Stay (feat. Dear Sunday)",
       "url": "https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Some Cities",
-        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
-      },
-      "artists": [
-        {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
-        }
-      ],
-      "duration_ms": 255413,
-      "name": "Black And White Town",
-      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Scatter",
-      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
+      "duration_ms": 193853,
+      "name": "On Our Way",
+      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 177206,
       "name": "Followers",
       "url": "https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
-      },
-      "artists": [
-        {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "On Our Way",
-      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

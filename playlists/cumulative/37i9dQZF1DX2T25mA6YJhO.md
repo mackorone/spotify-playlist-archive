@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Anabel Lee.
 
-439 songs - 22 hr 24 min
+440 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Maldito](https://open.spotify.com/track/7y96YbNfiol51Ge5V9xGbw) | [The Parrots](https://open.spotify.com/artist/34UH1BNxUlj7CjvivyS5Ev), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Maldito](https://open.spotify.com/album/2j5JyU1ZbTAotHmrLIujL4) | 4:15 | 2024-06-27 | 2024-12-06 |
 | [Mandarinas](https://open.spotify.com/track/2lLnBNnbxcJCZ6oUxsKSIs) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Mandarinas](https://open.spotify.com/album/6QcTcblqw9WX83uF7Y1GRX) | 3:10 | 2024-11-07 | 2024-11-15 |
 | [Manifesting](https://open.spotify.com/track/3Lqygn1Bx76OdUwcWABT7t) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [No lo volveré a hacer](https://open.spotify.com/album/51unLLaXe9KFEEiQ8gI3Ip) | 2:49 | 2025-02-06 | 2025-03-28 |
-| [Mar de Azar](https://open.spotify.com/track/04jH5KMLdLvRtTRDzeUItZ) | [Teana](https://open.spotify.com/artist/3ceUUedlLTXTSc4TcPpWxm) | [Mar de Azar](https://open.spotify.com/album/3XbOVrMgUeSPlxdpw6d8QX) | 4:04 | 2025-07-24 |  |
+| [Mar de Azar](https://open.spotify.com/track/04jH5KMLdLvRtTRDzeUItZ) | [Teana](https://open.spotify.com/artist/3ceUUedlLTXTSc4TcPpWxm) | [Mar de Azar](https://open.spotify.com/album/3XbOVrMgUeSPlxdpw6d8QX) | 4:04 | 2025-07-24 | 2025-08-08 |
 | [Marcelo Criminal](https://open.spotify.com/track/5AYXkf3s0p05afVBxsPVuB) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Creo que soy de porcelana](https://open.spotify.com/album/2PikfseVD2fRDD7tVDcFv2) | 2:50 | 2024-11-28 | 2025-05-09 |
 | [Marisol](https://open.spotify.com/track/1yvjxjNiirpqymfSTAwIjQ) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Marisol](https://open.spotify.com/album/0jL7FguTJUNtRes3fQi7KR) | 4:11 | 2025-02-13 |  |
 | [Martes 13](https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Martes 13](https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb) | 3:01 | 2024-06-27 | 2024-12-06 |
@@ -385,6 +385,7 @@
 | [Tony Soprano](https://open.spotify.com/track/3CQ6aBBe3khVVLa9M1en49) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [Dante Technicolor](https://open.spotify.com/album/1Iez6ESeFlk8ZBi9sok0B3) | 1:59 | 2025-05-22 | 2025-06-06 |
 | [Toro](https://open.spotify.com/track/38L5vNRY6RXo6j5G8Q4gMq) | [The Animal Plastics](https://open.spotify.com/artist/5iFGq7lrw5akXvNkvM2t1m), [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Toro](https://open.spotify.com/album/5PFcdkGCGZzbPSS94KrNtO) | 3:11 | 2025-07-03 | 2025-07-18 |
 | [Torreznos y Larios](https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy) | [Ashleys](https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9) | [Torreznos y Larios](https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK) | 2:43 | 2024-12-19 | 2025-03-07 |
+| [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 |  |
 | [Trash](https://open.spotify.com/track/2IKrGxiXxcp4gViTALjfSJ) | [NIÑA COYOTE eta CHICO TORNADO](https://open.spotify.com/artist/4QlaoCIrTZjyl1M6TaDUEW), [Maika Makovski](https://open.spotify.com/artist/23qto2LKAJoFxdffbvVvKC), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ), [Le Ra](https://open.spotify.com/artist/48qMM7J4at63DHV5hqHZfY), [Waxy](https://open.spotify.com/artist/7gtw6fJ0m3qOtkRPSYKipQ) | [Trash](https://open.spotify.com/album/6K2TLtJqoTFvbDiBPTfMI1) | 1:05 | 2025-04-03 | 2025-04-25 |
 | [Travieso](https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Travieso](https://open.spotify.com/album/1PoKsze0nTJ0Ntu9cHRfGp) | 2:27 | 2024-06-27 | 2024-12-13 |
 | [Tripitir](https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Tripitir](https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz) | 2:40 | 2024-11-28 | 2025-05-23 |

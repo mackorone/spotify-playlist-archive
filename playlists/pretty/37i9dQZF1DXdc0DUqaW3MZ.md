@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,404 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,426 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 54 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
 | 55 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy) | 3:21 |
 | 56 | [Soon We Will Reminisce](https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Soon We Will Reminisce](https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2) | 2:07 |
-| 57 | [The Water](https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx) | [Bel Tempo](https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [The Water](https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox) | 3:00 |
-| 58 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 |
+| 57 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 |
+| 58 | [The Water](https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx) | [Bel Tempo](https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [The Water](https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox) | 3:00 |
 | 59 | [ILLUSIONS Pt\. II](https://open.spotify.com/track/6ro3scqAcujWPUd13k590j) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [ILLUSIONS Pt\. II](https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv) | 3:03 |
 | 60 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
 | 61 | [touch](https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Bad Honey](https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu) | [touch](https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh) | 3:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 64 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
 | 65 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
 | 66 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
-| 67 | [Ego Slide](https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Ego Slide](https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk) | 3:38 |
-| 68 | [I Do](https://open.spotify.com/track/15aMiMUQgoy2a43ov9Cqnp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [I Do](https://open.spotify.com/album/2okzARk2QDGDKlFoQOjEJA) | 2:10 |
+| 67 | [I Do](https://open.spotify.com/track/15aMiMUQgoy2a43ov9Cqnp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [I Do](https://open.spotify.com/album/2okzARk2QDGDKlFoQOjEJA) | 2:10 |
+| 68 | [Ego Slide](https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Ego Slide](https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk) | 3:38 |
 | 69 | [LOVER/LOSER](https://open.spotify.com/track/4uerIOfWoTb2Hxudx3IeYw) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [LOVER/LOSER](https://open.spotify.com/album/6eyDpYxgYybNKcClV9pPyy) | 3:03 |
 | 70 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
 

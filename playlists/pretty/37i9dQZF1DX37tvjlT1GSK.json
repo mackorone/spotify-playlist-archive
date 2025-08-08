@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Gemelos de Sinaloa en portada",
-  "num_followers": 810019,
+  "num_followers": 810018,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
+        "name": "Hombre Afortunado",
+        "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Qui\u00e9n Te Entiende",
+      "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
         "name": "LOU LOU",
         "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
-        "name": "Hombre Afortunado",
-        "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
-      },
-      "artists": [
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Qui\u00e9n Te Entiende",
-      "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "A Puro Dolor",
-        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
         "name": "La Bestia",
         "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 186368,
       "name": "La Bestia",
       "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Sin Yolanda",
+      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Sin Yolanda",
-      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "D\u00e9jenla Que Sea Feliz",
-        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
-      },
-      "artists": [
-        {
-          "name": "Chacho Y Su Vagancia",
-          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
-        }
-      ],
-      "duration_ms": 175677,
-      "name": "D\u00e9jenla Que Sea Feliz",
-      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
+        "name": "D\u00e9jenla Que Sea Feliz",
+        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
+      },
+      "artists": [
+        {
+          "name": "Chacho Y Su Vagancia",
+          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
+        }
+      ],
+      "duration_ms": 175677,
+      "name": "D\u00e9jenla Que Sea Feliz",
+      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -2219,18 +2219,18 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
+        "name": "Mala Novia",
+        "url": "https://open.spotify.com/album/2LPbqvMciJHYmfhLDlpBQ4"
       },
       "artists": [
         {
-          "name": "La Cuatiza",
-          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 133250,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
+      "duration_ms": 212880,
+      "name": "Mala Novia",
+      "url": "https://open.spotify.com/track/2srlEFBReTn4tsKJzT3vkk"
     }
   ],
   "unique_name": "Sierre\u00f1o 2025",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,192 likes - 84 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,186 likes - 84 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

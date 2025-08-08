@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 369910,
+  "num_followers": 369951,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAC+Egfszt0wkMod0b16T65L",
+  "snapshot_id": "aJKbAAAAAADcmx6uZwCegIHSe4/i+rho",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind the Sun",
-        "url": "https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Forever Man - 1999 Remaster",
-      "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clapton",
         "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 340786,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind the Sun",
+        "url": "https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Forever Man - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP"
     },
     {
       "added_at": null,

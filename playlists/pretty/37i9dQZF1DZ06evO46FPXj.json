@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 7842,
+  "num_followers": 7844,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACyar16+D0k1M1FqwWvYdqR",
+  "snapshot_id": "aJKbAAAAAACvy8T+c9f8ma10A1G6uW39",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 277440,
-      "name": "Crystel",
-      "url": "https://open.spotify.com/track/0gqzFt2afkmXw2wZHXtj4u"
+      "duration_ms": 399960,
+      "name": "Dael",
+      "url": "https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J"
     },
     {
       "added_at": null,
@@ -264,15 +264,15 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 399960,
-      "name": "Dael",
-      "url": "https://open.spotify.com/track/69qNxJaKA0lwABE6NOWf2J"
+      "duration_ms": 279266,
+      "name": "C/Pach",
+      "url": "https://open.spotify.com/track/49ucpPYrxG9yuUUoaahs3C"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Quaristice",
-        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 183480,
-      "name": "paralel Suns",
-      "url": "https://open.spotify.com/track/7Dq9vrwY3TMNNgXG72v2l5"
+      "duration_ms": 277440,
+      "name": "Crystel",
+      "url": "https://open.spotify.com/track/0gqzFt2afkmXw2wZHXtj4u"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "C/Pach",
-      "url": "https://open.spotify.com/track/49ucpPYrxG9yuUUoaahs3C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
       },
@@ -344,9 +328,25 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 81000,
-      "name": "SonDEremawe",
-      "url": "https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh"
+      "duration_ms": 183480,
+      "name": "paralel Suns",
+      "url": "https://open.spotify.com/track/7Dq9vrwY3TMNNgXG72v2l5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 484293,
+      "name": "Rotar",
+      "url": "https://open.spotify.com/track/7gK0WYSlNXlSd2Cp3ukyCt"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 81000,
+      "name": "SonDEremawe",
+      "url": "https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tri Repetae",
         "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
       },
@@ -392,25 +408,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 484293,
-      "name": "Rotar",
-      "url": "https://open.spotify.com/track/7gK0WYSlNXlSd2Cp3ukyCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 584000,
-      "name": "Bronchusevenmx",
-      "url": "https://open.spotify.com/track/3MPgdnHKfPfRnyjaMit4kZ"
+      "duration_ms": 453466,
+      "name": "Overand",
+      "url": "https://open.spotify.com/track/0HkOdDWfP8XiVsndgNrh2s"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 584000,
+      "name": "Bronchusevenmx",
+      "url": "https://open.spotify.com/track/3MPgdnHKfPfRnyjaMit4kZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 153173,
       "name": "plyPhon",
       "url": "https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 453466,
-      "name": "Overand",
-      "url": "https://open.spotify.com/track/0HkOdDWfP8XiVsndgNrh2s"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quaristice",
-        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Perlence",
-      "url": "https://open.spotify.com/track/1bZDsJOkaTWbiRSyApCByK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 416933,
       "name": "VI Scose Poise",
       "url": "https://open.spotify.com/track/4adILYvDL37jb0GxYTzqIE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quaristice",
+        "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Perlence",
+      "url": "https://open.spotify.com/track/1bZDsJOkaTWbiRSyApCByK"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confield",
+        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 434553,
+      "name": "Sim Gishel",
+      "url": "https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oversteps",
-        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 277280,
-      "name": "see on see",
-      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LP5",
         "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 409488,
       "name": "Arch Carrier",
       "url": "https://open.spotify.com/track/3PyHm9p7A6IbCusyeOlwfF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confield",
-        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 434553,
-      "name": "Sim Gishel",
-      "url": "https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx"
     },
     {
       "added_at": null,
@@ -655,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 453693,
-      "name": "The Egg",
-      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 401314,
       "name": "Cfern",
       "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 453693,
+      "name": "The Egg",
+      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
     },
     {
       "added_at": null,
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exai",
-        "url": "https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs"
+        "name": "Oversteps",
+        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
       },
       "artists": [
         {
@@ -712,25 +696,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 254142,
-      "name": "jatevee C",
-      "url": "https://open.spotify.com/track/2ptKkTrviQKApgvsUo00Q9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 321580,
-      "name": "Vose In",
-      "url": "https://open.spotify.com/track/6MYEvB2nXSUZtzpAUXek0U"
+      "duration_ms": 277280,
+      "name": "see on see",
+      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
     },
     {
       "added_at": null,
@@ -751,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exai",
+        "url": "https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "jatevee C",
+      "url": "https://open.spotify.com/track/2ptKkTrviQKApgvsUo00Q9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chiastic Slide",
         "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 532800,
       "name": "Cichli",
       "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 321580,
+      "name": "Vose In",
+      "url": "https://open.spotify.com/track/6MYEvB2nXSUZtzpAUXek0U"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exai",
-        "url": "https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs"
+        "name": "Artificial Intelligence II",
+        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 739494,
-      "name": "bladelores",
-      "url": "https://open.spotify.com/track/31vEhUEiOYgGoDW95wyPpi"
+      "duration_ms": 456226,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
     },
     {
       "added_at": null,

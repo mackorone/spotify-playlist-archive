@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: Reneé Rapp
+> Neues aus der Welt des Pop\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,603 likes - 89 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,584 likes - 89 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 88 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
 | 89 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 |
 
-Snapshot ID: `AAAAAGQ1mThBE1lyPpETTL6lQC+Tayv5`
+Snapshot ID: `AAAAAPnXh8+MkNsgjy2SJnmkAWY7b7M6`

@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 李芯駖
+> 感受女聲力量。Cover: 麗英
 
-535 songs - 1 day 7 hr 56 min
+537 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [告白前先看天氣預報](https://open.spotify.com/track/1GAfR4IbqnlcPjPTEX9Dsj) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [告白前先看天氣預報](https://open.spotify.com/album/4Y0y0ILM5EqAwMvp7Fzx1Z) | 3:39 | 2024-07-18 |  |
 | [告訴我](https://open.spotify.com/track/5b1hpRooJQCl54vA4IdIHb) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [告訴我](https://open.spotify.com/album/6qc4jiRnIPC6ge4JzQHpLm) | 3:50 | 2024-06-27 |  |
 | [呼吸有害](https://open.spotify.com/track/4t53NE3uBLkTwW9rUgiHC8) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [呼吸有害](https://open.spotify.com/album/3He2V83TzOwwyrdCJTeJeR) | 3:12 | 2024-06-27 |  |
+| [命中注定在一起](https://open.spotify.com/track/1e7PDB6R15aFB1FAn29hbb) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [命中注定在一起](https://open.spotify.com/album/10dbtY3P2IkcE78EBqHpV5) | 2:56 | 2025-08-07 |  |
 | [咖啡 鴛鴦 奶茶](https://open.spotify.com/track/7aqI5ATOG8piRo9KUcg1cS) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [咖啡 鴛鴦 奶茶](https://open.spotify.com/album/0vPYjgjYouCbseFYCOLg6S) | 3:47 | 2024-10-24 |  |
 | [咩事](https://open.spotify.com/track/2Q9QnlFaOAoY7PzjIObMVx) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [咩事](https://open.spotify.com/album/19a5KI8996iapH0hAAU6ug) | 3:12 | 2024-10-31 |  |
 | [哀傷和愛上算不算同音字](https://open.spotify.com/track/4kIuEUKjGdEcNXf7RxsByr) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [哀傷和愛上算不算同音字](https://open.spotify.com/album/5XPEwc5dNQNnmJUHxBFYgv) | 3:22 | 2025-04-24 |  |
@@ -375,6 +376,7 @@
 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 | 2024-06-27 |  |
 | [拔刺](https://open.spotify.com/track/1icuPSnNj9wTgJ0yOc07Mt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [拔刺](https://open.spotify.com/album/2MuztZ0L43RNeeIUp6OqMu) | 3:32 | 2024-06-27 |  |
 | [拯救我自己](https://open.spotify.com/track/4cAiQJTsXtFeuprgYtEWfz) | [Vivian Chan](https://open.spotify.com/artist/7h7iZmYBCQ3EEOwJLvTx8T) | [拯救我自己](https://open.spotify.com/album/7Lc3darGqlfHrzAKp9vSmv) | 3:50 | 2024-06-27 |  |
+| [接住](https://open.spotify.com/track/3P7xcO3UKI6c5SVjFFK7Id) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [接住](https://open.spotify.com/album/4GPqgcqnfoaNKHzXmqEKPQ) | 3:43 | 2025-08-07 |  |
 | [提前分手](https://open.spotify.com/track/7dJo2zjWskUkKbQnHB1yRS) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [提前分手](https://open.spotify.com/album/18hmzmdLSotlOcsmPH5xNp) | 3:32 | 2024-11-21 |  |
 | [撇sss](https://open.spotify.com/track/4sbXE6h9tCqeqc7VUveMA2) | [胡樂彤](https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI) | [撇sss](https://open.spotify.com/album/36ar1jx7PBW7ytUHSFzRwa) | 3:33 | 2024-10-17 |  |
 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 | 2024-06-27 |  |

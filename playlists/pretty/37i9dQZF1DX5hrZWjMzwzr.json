@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10832,
+  "num_followers": 10831,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,30 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Jab\u0142onie",
+        "url": "https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL"
+      },
+      "artists": [
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        },
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Hinol Polska Wersja",
+          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
+        }
+      ],
+      "duration_ms": 192162,
+      "name": "Jab\u0142onie",
+      "url": "https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "Techno",
         "url": "https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 180625,
       "name": "JOHNNY DANG",
       "url": "https://open.spotify.com/track/2Q8WXdzGE4okUzDWbzKH48"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "Jab\u0142onie",
-        "url": "https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL"
-      },
-      "artists": [
-        {
-          "name": "Donatan",
-          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
-        },
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
-        },
-        {
-          "name": "Hinol Polska Wersja",
-          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
-        }
-      ],
-      "duration_ms": 192162,
-      "name": "Jab\u0142onie",
-      "url": "https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2"
     },
     {
       "added_at": "2025-04-24 21:35:46",

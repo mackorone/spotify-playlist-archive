@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,016 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,028 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 42 | [First Wish](https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:59 |
 | 43 | [Funky Broadway](https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 2:29 |
 | 44 | [Dancing In The Dark](https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:35 |
-| 45 | [Norwegian Wood](https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 8:04 |
-| 46 | [All Of Me](https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 7:37 |
+| 45 | [All Of Me](https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 7:37 |
+| 46 | [Norwegian Wood](https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 8:04 |
 | 47 | [Worlds Outside](https://open.spotify.com/track/5as828xQewhAy2JBXwakAj) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:37 |
 | 48 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
 | 49 | [Bye Bye Blackbird](https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 6:42 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 68 | [Willow Weep For Me](https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Lonely One](https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL) | 4:40 |
 | 69 | [Lester Swings](https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 2:33 |
 | 70 | [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 |
-| 71 | ['S Wonderful](https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Buddy DeFranco](https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y) | [Buddy Defranco And Oscar Peterson Play George Gershwin](https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3) | 4:21 |
-| 72 | [Brian's Bounce](https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Family](https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU) | 4:56 |
+| 71 | [Brian's Bounce](https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Family](https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU) | 4:56 |
+| 72 | ['S Wonderful](https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Buddy DeFranco](https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y) | [Buddy Defranco And Oscar Peterson Play George Gershwin](https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3) | 4:21 |
 | 73 | [I Can't Get Started](https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1) | [Dizzy Gillespie Sextet](https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 2:55 |
 | 74 | [Ad Lib Blues](https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 5:53 |
 | 75 | [People Get Ready](https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Goodies](https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6) | 4:14 |

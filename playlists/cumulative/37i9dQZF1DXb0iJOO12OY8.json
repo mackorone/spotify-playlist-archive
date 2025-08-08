@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 152000,
       "name": "Chit Chat",
       "url": "https://open.spotify.com/track/1cRXDCCWTIYyMroXZtbC3G"
@@ -1835,6 +1835,28 @@
     },
     {
       "album": {
+        "name": "MACHIAVELLI",
+        "url": "https://open.spotify.com/album/16nEPTjTPhoBpqGjzT1KDh"
+      },
+      "artists": [
+        {
+          "name": "Rakkere",
+          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
+        },
+        {
+          "name": "Due",
+          "url": "https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191729,
+      "name": "MACHIAVELLI",
+      "url": "https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 134428,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq"
@@ -3014,7 +3036,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 112500,
       "name": "Vestkantvilla",
       "url": "https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9"

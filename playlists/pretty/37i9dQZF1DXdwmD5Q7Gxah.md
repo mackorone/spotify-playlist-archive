@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: boylife
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,316 likes - 178 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,376 likes - 178 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

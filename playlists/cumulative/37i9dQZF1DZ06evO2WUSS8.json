@@ -771,6 +771,28 @@
     },
     {
       "album": {
+        "name": "King Of Time",
+        "url": "https://open.spotify.com/album/03zJ5injLNeZLjjAWYhN7U"
+      },
+      "artists": [
+        {
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189394,
+      "name": "Colour Of My Skin",
+      "url": "https://open.spotify.com/track/1sD9YouSRyzTd7WWAJuP62"
+    },
+    {
+      "album": {
         "name": "Remain in Light",
         "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
       },
@@ -3352,7 +3374,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 97266,
       "name": "Yemaya",
       "url": "https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p"

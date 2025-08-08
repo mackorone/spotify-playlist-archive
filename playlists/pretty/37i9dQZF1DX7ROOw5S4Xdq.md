@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,046 likes - 48 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,198 likes - 48 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 10 | [Voltemos ao Início + O Bálsamo de Gileade](https://open.spotify.com/track/4bLQAk7MqLB3tMeYm4USNe) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [As Minhas Orações Cantadas \- Vol 1](https://open.spotify.com/album/11NNFMy26D8SgEFuHZJml0) | 10:12 |
 | 11 | [Pardal \- Ao Vivo](https://open.spotify.com/track/3iWIDtctilGANywZXvgM7s) | [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh) | [Pardal \(Ao Vivo\)](https://open.spotify.com/album/2om6qCv7EV9A6k9Vauyhj8) | 7:51 |
 | 12 | [Reescreve a Minha História \(Ao Vivo\)](https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Reescreve a Minha História \(Ao Vivo\)](https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It) | 4:49 |
-| 13 | [Espírito Vem Como Fogo \- Ao Vivo](https://open.spotify.com/track/5N8J5nfjC5kvUBqm4P5Xxi) | [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI) | [Espírito Vem Como Fogo \(Ao Vivo\)](https://open.spotify.com/album/4emocn7XkHM1sBWCWe9r1N) | 9:39 |
+| 13 | [Espírito Vem Como Fogo \- Ao Vivo](https://open.spotify.com/track/5N8J5nfjC5kvUBqm4P5Xxi) | [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Espírito Vem Como Fogo \(Ao Vivo\)](https://open.spotify.com/album/4emocn7XkHM1sBWCWe9r1N) | 9:39 |
 | 14 | [Palavras e Palavras \- Ao Vivo](https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Palavras e Palavras \(Ao Vivo\)](https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8) | 5:26 |
 | 15 | [Um Milhão de Anos / Meus Votos \- Ao Vivo](https://open.spotify.com/track/5K3YQFNAiujyrd4pAvDMnu) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Maranata \(Ao Vivo\)](https://open.spotify.com/album/46dvap6o4UcJAb3YoE7DoM) | 10:57 |
 | 16 | [Poderoso Deus Eterno / 24 por 7](https://open.spotify.com/track/2hEAZbwmBU4TvRcujNjCw1) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW), [Davi Fernandes](https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll) | [Poderoso Deus Eterno / 24 por 7](https://open.spotify.com/album/0qa4BD0VfzhcmmFox3OFM1) | 5:55 |

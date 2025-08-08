@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,525 songs - 6 day 10 hr 17 min
+2,526 songs - 6 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1986,6 +1986,7 @@
 | [Sky \(Shining Bright\)](https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky \(Shining Bright\)](https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7) | 2:50 | 2024-05-25 | 2024-07-13 |
 | [Skyfall](https://open.spotify.com/track/2pB7MZDKx21zFPaAwo077Y) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Skyfall](https://open.spotify.com/album/1x5FXYXhLlMz9LX1x2De40) | 3:19 | 2023-02-11 | 2023-02-20 |
 | [Skyscraper \(GUM & Ginoli Remix\)](https://open.spotify.com/track/18ZrkWPlP6knrxOHHqCZJo) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ginoli](https://open.spotify.com/artist/0TFrrDk4VVDjnLSEIa3SqJ) | [Skyscraper \(GUM & Ginoli Remix\)](https://open.spotify.com/album/1c38QuxWSpIzq80XYzuW3n) | 4:40 | 2023-06-30 | 2023-07-08 |
+| [Sleepless Nights](https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sleepless Nights](https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW) | 3:00 | 2025-08-07 |  |
 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 | 2025-03-22 | 2025-03-29 |
 | [Slip](https://open.spotify.com/track/3PhH2QuFEDrFXZrcGOGdOC) | [Corey James](https://open.spotify.com/artist/0pICHdgyIVvu5jvDsFu9pD), [Dice Of Nights](https://open.spotify.com/artist/2m97ZmyaSyUjn5Gln8l6VJ) | [Slip n Sisco EP](https://open.spotify.com/album/5iZgIdThTnUB4Tp4tHALZ7) | 3:35 | 2023-09-08 | 2023-09-23 |
 | [Slow Down](https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Slow Down / Pink Dave](https://open.spotify.com/album/7EFeoVZvu9en0AANT1PmER) | 2:58 | 2024-11-22 | 2024-12-01 |

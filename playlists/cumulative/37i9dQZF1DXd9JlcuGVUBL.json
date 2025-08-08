@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Ruan Josh",
+  "description": "Die beste country musiek. Omslag: BlackByrd",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm"
+      },
+      "artists": [
+        {
+          "name": "BlackByrd",
+          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203564,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7"
       },
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 172181,
       "name": "Hundred Mile High",
       "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
@@ -3063,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Pakkie Mal Berou (Marlboro)",
+        "url": "https://open.spotify.com/album/4fKulNbnHAhaeauJWzRnd1"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166935,
+      "name": "Pakkie Mal Berou (Marlboro)",
+      "url": "https://open.spotify.com/track/0YSaCAzQoASzwuDbZu9U9E"
+    },
+    {
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
       },
@@ -3164,7 +3200,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
@@ -3226,6 +3262,24 @@
       "duration_ms": 168571,
       "name": "Rooi Wit & Blou",
       "url": "https://open.spotify.com/track/2BoIVfNrLDsnhcjwd8eyNa"
+    },
+    {
+      "album": {
+        "name": "Rowwe Aande",
+        "url": "https://open.spotify.com/album/2OT7q6hUPN96xZMeovuYV2"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Carstens",
+          "url": "https://open.spotify.com/artist/6MJAnS9V6Jzfv5AcBodBIu"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Rowwe Aande",
+      "url": "https://open.spotify.com/track/5SR22xwAC6bwwGVyCUnt9x"
     },
     {
       "album": {
@@ -3440,7 +3494,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 227693,
       "name": "Smoke & Embers",
       "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"

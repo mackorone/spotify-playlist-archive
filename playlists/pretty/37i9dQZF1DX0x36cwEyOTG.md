@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,030 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,975 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 36 | [I'll Never Find Your Soul](https://open.spotify.com/track/6CruGdNMu9cYkvfDYZAR3H) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 3:25 |
 | 37 | [Intro](https://open.spotify.com/track/1QvDOpa0ND2vLRhxbrvpZ0) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Home](https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx) | 1:30 |
 | 38 | [idk](https://open.spotify.com/track/32ghUIiUVKsuiyhGVfr7cf) | [la.nskey](https://open.spotify.com/artist/43QXDtaNDeOWxICsbMhIXH) | [ABSURDITIES](https://open.spotify.com/album/1Wp8unEyTBrN49ZXUaky2A) | 5:13 |
-| 39 | [one day](https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL) | [Arca](https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT), [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [世界](https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p) | 3:48 |
-| 40 | [swear 2 g\-d \(Alt\. Version\)](https://open.spotify.com/track/0UPmA1NqrH6QEryXrSAd7e) | [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw), [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Abandoned Memory House \(Demos, B\-Sides & Rarities\)](https://open.spotify.com/album/5x8rez9zq9M6UDTCSjjgnh) | 4:00 |
+| 39 | [swear 2 g\-d \(Alt\. Version\)](https://open.spotify.com/track/0UPmA1NqrH6QEryXrSAd7e) | [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw), [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Abandoned Memory House \(Demos, B\-Sides & Rarities\)](https://open.spotify.com/album/5x8rez9zq9M6UDTCSjjgnh) | 4:00 |
+| 40 | [one day](https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL) | [Arca](https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT), [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [世界](https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p) | 3:48 |
 | 41 | [Saans Lo](https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:31 |
 | 42 | [Come and See](https://open.spotify.com/track/30dcEOSx5y5KNInniobGoc) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [Lean Year](https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo) | 3:39 |
 | 43 | [Sliding Doors](https://open.spotify.com/track/63HtCJMvG5k3aGD7behQeY) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 4:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 45 | [January 31, 2018: Super Blue Blood Moon](https://open.spotify.com/track/0Wr8Y0YistxIYJ0JiGiYRQ) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Astronomy, Vol\. 1](https://open.spotify.com/album/5wsaSNJTS4x2XhO30SD3NL) | 2:22 |
 | 46 | [Ouverture](https://open.spotify.com/track/6XF87ir7jZgsz7i4iWWvJI) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Inner Symphonies](https://open.spotify.com/album/1KZB5lAvsyeK9X1vFnqARz) | 3:54 |
 | 47 | [Pine](https://open.spotify.com/track/0KWnWizkRsHSMqvfqyfqMH) | [Logan Bowden](https://open.spotify.com/artist/0EPb0J88Q9OxpOaaKA5teb) | [Family](https://open.spotify.com/album/6U8omMAuz0gnDvfnUXicPT) | 2:26 |
-| 48 | [A Single Roof](https://open.spotify.com/track/0YCAnZ2CVi7NVu0iXrlSG6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 2:15 |
-| 49 | [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 |
+| 48 | [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 |
+| 49 | [A Single Roof](https://open.spotify.com/track/0YCAnZ2CVi7NVu0iXrlSG6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 2:15 |
 | 50 | [Interlude I \(The End\)](https://open.spotify.com/track/1bApBBq8aa3GYHOX8Mdsp9) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 1:14 |
 
 Snapshot ID: `AAAAALFDsMWbQFJkJm4p+zGJZ1U026pY`

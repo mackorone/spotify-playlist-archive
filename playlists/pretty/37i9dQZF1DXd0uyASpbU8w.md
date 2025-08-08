@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 ### [New Music Friday South Africa](https://open.spotify.com/playlist/37i9dQZF1DXd0uyASpbU8w)
 
-> New music from Nkosazana Daughter, Will Linley, Rema, Thakzin and more.
+> New music from Shekhinah, Gunna, Amaarae, Ed Sheeran and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,057 likes - 84 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,189 likes - 84 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 22 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 |
 | 23 | [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 |
 | 24 | [Take your time](https://open.spotify.com/track/10MmS0FNdhGCKylwje0dhU) | [Donald](https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Makhosi](https://open.spotify.com/artist/1nSSnTwbEFiMKbb7skR4go) | [Take your time](https://open.spotify.com/album/6qRPmkIjBisJLKg9xL8iuF) | 4:39 |
-| 25 | [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:17 |
+| 25 | [Emojis](https://open.spotify.com/track/02j3niedOJGNXpM0q5VXIU) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Emojis](https://open.spotify.com/album/2xNxehUdezUHChdTLz9nXJ) | 4:18 |
 | 26 | [Shine, Glow, Glisten](https://open.spotify.com/track/5MTaywYh6VyGvSV2urrzoB) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Shine, Glow, Glisten](https://open.spotify.com/album/40QvMD3aV70QyngklC3d5h) | 3:10 |
 | 27 | [running](https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 3:50 |
 | 28 | [Bathsheba & Him](https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bathsheba & Him](https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT) | 3:33 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 83 | [Khuluma \(feat\. Allicaltune Drum Roll\)](https://open.spotify.com/track/4duNEXsYfucb07YMFhH17U) | [Ntate Lesiba](https://open.spotify.com/artist/6dOhvtaOSosUpTmqqVgncm), [Allicaltune Drum Roll](https://open.spotify.com/artist/2DDxFFfEIhPigJDgWE33HS) | [Kgotla](https://open.spotify.com/album/3p9RsZQCVg5IkJqbF5eVgJ) | 3:34 |
 | 84 | [Uthando](https://open.spotify.com/track/4WmrUjGkpczctWQpz3iYWv) | [Thabiso Thabethe](https://open.spotify.com/artist/5b6sXvOGkQaAhJIe7EbJfU), [Tshepiso Thabethe](https://open.spotify.com/artist/5Xdaj0DCdDaIGUyT7w95sG) | [Uthando](https://open.spotify.com/album/1Pg29XFI3NXp3LN5PmjfAe) | 2:53 |
 
-Snapshot ID: `AAAAAPJiXmURePeuj8pqyvWY6Zn8qdEH`
+Snapshot ID: `AAAAAA9NziqiriRA3YhcHfUByH0f8Ebf`

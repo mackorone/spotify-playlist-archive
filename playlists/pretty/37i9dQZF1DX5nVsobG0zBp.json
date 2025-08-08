@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Deejay Telio, Wet Bed Gang",
-  "num_followers": 77014,
+  "num_followers": 77047,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
         "name": "Europa (feat. Deejay Telio, Teto & Gson)",
         "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 216800,
       "name": "Europa (feat. Deejay Telio, Teto & Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 182362,
-      "name": "Galileu",
-      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 263131,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 260301,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 263131,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Seguran\u00e7a",
-        "url": "https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 177464,
-      "name": "Seguran\u00e7a",
-      "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Seguran\u00e7a",
+        "url": "https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "Seguran\u00e7a",
+      "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Stunka",
-        "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Stunka",
-      "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "CARO",
         "url": "https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 237722,
       "name": "CARO",
       "url": "https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Stunka",
+        "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Stunka",
+      "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Hoji N'ka ta Rola",
-        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 236526,
-      "name": "Hoji N'ka ta Rola",
-      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Picareta",
         "url": "https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 163862,
       "name": "Picareta",
       "url": "https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Hoji N'ka ta Rola",
+        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 236526,
+      "name": "Hoji N'ka ta Rola",
+      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 147820,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Tropa do Madruga",
         "url": "https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 180574,
       "name": "Tropa do Madruga",
       "url": "https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "STAY FLY",
         "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 234893,
       "name": "STAY FLY",
       "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
     },
     {
       "added_at": "2025-07-25 14:20:58",

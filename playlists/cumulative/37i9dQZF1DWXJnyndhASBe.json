@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kizo, Kaz Ba\u0142agane, Young Igi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Malik Montana",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -937,6 +937,32 @@
     },
     {
       "album": {
+        "name": "Alcantara",
+        "url": "https://open.spotify.com/album/5ftHwvFJCWPnH6GjVfcDE0"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150291,
+      "name": "Alcantara",
+      "url": "https://open.spotify.com/track/3lQVp6tIKx9mzWveXFWM6k"
+    },
+    {
+      "album": {
         "name": "Kuku Na Muniu",
         "url": "https://open.spotify.com/album/4wciEDaLpXoqk0IdNqZ370"
       },
@@ -1578,6 +1604,24 @@
       "duration_ms": 200000,
       "name": "Bida - Def Jam World Tour",
       "url": "https://open.spotify.com/track/6wDjG42PJdxrloQFw8NRSg"
+    },
+    {
+      "album": {
+        "name": "BIERZ TO NA WOLNO",
+        "url": "https://open.spotify.com/album/5brKAfr2gB7n3NHEmjLHvK"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213272,
+      "name": "BIERZ TO NA WOLNO",
+      "url": "https://open.spotify.com/track/36WITNXdHFk6LaSeS4fJJp"
     },
     {
       "album": {
@@ -6082,7 +6126,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 227628,
       "name": "ILE JESZCZE RAZY",
       "url": "https://open.spotify.com/track/2woKkJg6HPrVAxsAAaXs1j"
@@ -6339,6 +6383,28 @@
     },
     {
       "album": {
+        "name": "Jad\u0119 po Cartiera",
+        "url": "https://open.spotify.com/album/6oJ9H1ft7eauirQdQ00dLt"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Got Barss",
+          "url": "https://open.spotify.com/artist/0S5Yhrdm6Hq2NadVs8jCxA"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Jad\u0119 po Cartiera",
+      "url": "https://open.spotify.com/track/6Ybua6jkh5HxQ5XhgudTQG"
+    },
+    {
+      "album": {
         "name": "Jaja na twardo",
         "url": "https://open.spotify.com/album/12tdnT0q7JM1nhxBgABW5E"
       },
@@ -6402,7 +6468,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 159285,
       "name": "JAK MASZ",
       "url": "https://open.spotify.com/track/3jACqyRvi9kREnuWM69hZn"
@@ -9784,7 +9850,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 199384,
       "name": "NAD BLOKIEM",
       "url": "https://open.spotify.com/track/2QoXr1QbXy7xHQAZWUGchz"
@@ -10148,6 +10214,24 @@
       "duration_ms": 135300,
       "name": "New York Freestyle",
       "url": "https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6"
+    },
+    {
+      "album": {
+        "name": "Next Day",
+        "url": "https://open.spotify.com/album/6l02BTm1AIcZlcdatgdkQA"
+      },
+      "artists": [
+        {
+          "name": "Dajczman",
+          "url": "https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113076,
+      "name": "Next Day",
+      "url": "https://open.spotify.com/track/4To98R4h3sNhdnGkWlkPMH"
     },
     {
       "album": {
@@ -16198,7 +16282,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 140307,
       "name": "WARUM?",
       "url": "https://open.spotify.com/track/0TxJ7w2sjdI2NB1PtUd0jz"

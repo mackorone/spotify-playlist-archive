@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 42 | [Now \(feat\. Luh geeky\)](https://open.spotify.com/track/4j3sLMVOMeJKnW7dhSBbJZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Luh geeky](https://open.spotify.com/artist/5HkVNXsvk9Nvt0eoWF9v4C) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 4:32 |
 | 43 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 |
 | 44 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 |
-| 45 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
-| 46 | [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 |
+| 45 | [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 |
+| 46 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
 | 47 | [KANEKI](https://open.spotify.com/track/4wOHkjgu0jCcILKvbKrYa9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:50 |
 | 48 | [Feelings](https://open.spotify.com/track/6MNSwUUjWSDUhuCZaTezAn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:40 |
 | 49 | [Marinate](https://open.spotify.com/track/41Rfg4KikdF3WIHHxU821m) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 2:42 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 148 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 149 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `Ab4zvAAAAAB2HZ9vCbNzZBF5OwUk09GC`
+Snapshot ID: `Ab45XAAAAADjJOLVKyU9vgYUzwqjW0RI`

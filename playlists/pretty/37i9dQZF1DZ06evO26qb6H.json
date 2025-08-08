@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3235,
+  "num_followers": 3237,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAAF/rlIRqGaVtpzJHp5ACBS",
+  "snapshot_id": "aJKbAAAAAADfjzMV416aF0qwMwIaDoYk",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Shame",
-        "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
+        "name": "GRoCERIES",
+        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
       },
       "artists": [
         {
-          "name": "Funk Flex",
-          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 137938,
-      "name": "Damn Shame",
-      "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
+      "duration_ms": 226845,
+      "name": "GRoCERIES",
+      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
     },
     {
       "added_at": null,
@@ -455,26 +455,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRoCERIES",
-        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
+        "name": "Damn Shame",
+        "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Funk Flex",
+          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
         },
         {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 226845,
-      "name": "GRoCERIES",
-      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
+      "duration_ms": 137938,
+      "name": "Damn Shame",
+      "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MHSTD",
+        "url": "https://open.spotify.com/album/7BBWxe16ztpNQsT1s2aT7D"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 159970,
+      "name": "MHSTD",
+      "url": "https://open.spotify.com/track/1DSGtRk2T5beu0zoTtAwny"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
         "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 180609,
       "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MHSTD",
-        "url": "https://open.spotify.com/album/7BBWxe16ztpNQsT1s2aT7D"
-      },
-      "artists": [
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 159970,
-      "name": "MHSTD",
-      "url": "https://open.spotify.com/track/1DSGtRk2T5beu0zoTtAwny"
     },
     {
       "added_at": null,

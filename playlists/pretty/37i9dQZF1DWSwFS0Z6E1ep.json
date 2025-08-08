@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 288528,
+  "num_followers": 288634,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "Tequila (Original)",
-      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Wanda Jackson",
         "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 131200,
       "name": "Let's Have A Party",
       "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "Tequila (Original)",
+      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bush",
+          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+        }
+      ],
+      "duration_ms": 112561,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Rhythm and The Blues- Sun Records",
         "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 188673,
       "name": "The Hucklebuck",
       "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Frankie Lymon & The Teenagers Greatest Hits",
-        "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon & The Teenagers",
-          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Why Do Fools Fall In Love",
-      "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+        "name": "Frankie Lymon & The Teenagers Greatest Hits",
+        "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
       },
       "artists": [
         {
-          "name": "Eddie Bush",
-          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+          "name": "Frankie Lymon & The Teenagers",
+          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
         }
       ],
-      "duration_ms": 112561,
-      "name": "Baby I Don't Care",
-      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
+      "duration_ms": 140826,
+      "name": "Why Do Fools Fall In Love",
+      "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles & Friends",
-        "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 386560,
-      "name": "What'd I Say",
-      "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "75 at 75",
         "url": "https://open.spotify.com/album/4tlAPVPMmE4rhnkctUdCeG"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+        "name": "Ray Charles & Friends",
+        "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 121414,
-      "name": "Give Me some Love - Re-Recorded Version",
-      "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
+      "duration_ms": 386560,
+      "name": "What'd I Say",
+      "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1847,6 +1831,22 @@
       "duration_ms": 156088,
       "name": "Bop With Me Baby",
       "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 121414,
+      "name": "Give Me some Love - Re-Recorded Version",
+      "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
     },
     {
       "added_at": "2022-06-07 05:25:13",

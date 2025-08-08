@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 145531,
+  "num_followers": 145580,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
+        "name": "Have A Baby (With Me)",
+        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225874,
+      "name": "Have A Baby (With Me)",
+      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
+    },
+    {
+      "added_at": "2025-08-06 01:15:08",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
-    },
-    {
-      "added_at": "2025-08-06 01:15:08",
-      "album": {
-        "name": "Have A Baby (With Me)",
-        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225874,
-      "name": "Have A Baby (With Me)",
-      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
-        "name": "Type Dangerous",
-        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 175788,
-      "name": "Type Dangerous",
-      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
-    },
-    {
-      "added_at": "2025-08-06 01:15:08",
-      "album": {
         "name": "THE FIRST TIME (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 166368,
       "name": "NIGHTS LIKE THIS PT 2",
       "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
+    },
+    {
+      "added_at": "2025-08-06 01:15:08",
+      "album": {
+        "name": "Type Dangerous",
+        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
-        "name": "MIAMI",
-        "url": "https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 181395,
-      "name": "MIAMI",
-      "url": "https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4"
-    },
-    {
-      "added_at": "2025-08-06 01:15:08",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -819,22 +803,18 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
-        "name": "Geezer",
-        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+        "name": "MIAMI",
+        "url": "https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 169776,
-      "name": "Geezer",
-      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+      "duration_ms": 181395,
+      "name": "MIAMI",
+      "url": "https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -851,6 +831,26 @@
       "duration_ms": 184133,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
+    },
+    {
+      "added_at": "2025-08-06 01:15:08",
+      "album": {
+        "name": "Geezer",
+        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -891,30 +891,6 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2025-08-06 01:15:08",
-      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -935,18 +911,26 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
-        "name": "Mine or Yours",
-        "url": "https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO"
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 262335,
-      "name": "Mine or Yours",
-      "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -1019,6 +1003,22 @@
       "duration_ms": 145663,
       "name": "Keep Me Satisfied",
       "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
+    },
+    {
+      "added_at": "2025-08-06 01:15:08",
+      "album": {
+        "name": "Mine or Yours",
+        "url": "https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 262335,
+      "name": "Mine or Yours",
+      "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
-        "name": "London Summers",
-        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "London Summers",
-      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
-    },
-    {
-      "added_at": "2025-08-06 01:15:08",
-      "album": {
         "name": "STUTS on the WAVE",
         "url": "https://open.spotify.com/album/2Dzf9RWs8KVrLJ4JeyfuxJ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 159000,
       "name": "\u7768\u3081\u3063\u5a18",
       "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
+    },
+    {
+      "added_at": "2025-08-06 01:15:08",
+      "album": {
+        "name": "London Summers",
+        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
-        "name": "Sunburst",
-        "url": "https://open.spotify.com/album/4t85TRaVgDyJJEtCZ1W8xj"
-      },
-      "artists": [
-        {
-          "name": "Suchmos",
-          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/0g1RQtrvfQI0zPsrHqVolq"
-    },
-    {
-      "added_at": "2025-08-06 01:15:08",
-      "album": {
         "name": "Everybody Gets Down",
         "url": "https://open.spotify.com/album/2itGQCqttw47maPiLdncOM"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 179600,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW"
+    },
+    {
+      "added_at": "2025-08-06 01:15:08",
+      "album": {
+        "name": "Sunburst",
+        "url": "https://open.spotify.com/album/4t85TRaVgDyJJEtCZ1W8xj"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/0g1RQtrvfQI0zPsrHqVolq"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
+    },
+    {
+      "added_at": "2025-08-06 01:15:08",
+      "album": {
         "name": "Mom & Dad",
         "url": "https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa"
       },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2025-08-06 01:15:08",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
-    },
-    {
-      "added_at": "2025-08-06 01:15:08",
-      "album": {
         "name": "Far Side of the Moon",
         "url": "https://open.spotify.com/album/1AAUSquFaEbVPlazWqvKMJ"
       },
@@ -1695,6 +1695,22 @@
       "duration_ms": 213503,
       "name": "Far Side of the Moon",
       "url": "https://open.spotify.com/track/5S7Jok7NAJks2akNJPSoWt"
+    },
+    {
+      "added_at": "2025-08-06 01:15:08",
+      "album": {
+        "name": "Precipice",
+        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 151867,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
     },
     {
       "added_at": "2025-08-06 01:15:08",
@@ -1727,22 +1743,6 @@
       "duration_ms": 255408,
       "name": "Burning Friday Night",
       "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
-    },
-    {
-      "added_at": "2025-08-06 01:15:08",
-      "album": {
-        "name": "Precipice",
-        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 151867,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
     },
     {
       "added_at": "2025-08-06 01:15:08",

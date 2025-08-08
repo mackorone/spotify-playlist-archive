@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cleo Reed
 
-1,815 songs - 4 day 12 hr 33 min
+1,816 songs - 4 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Daisy](https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Daisy](https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2) | 4:02 | 2023-10-18 | 2023-12-11 |
 | [Daisy](https://open.spotify.com/track/5vUiuELSvPjlEWlYzjhs4p) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Daisy](https://open.spotify.com/album/0H3PqTbYZBoJ23TkemogjB) | 3:27 | 2023-05-03 | 2023-06-22 |
 | [Daisy Wildflower](https://open.spotify.com/track/3rbkSC3cM5P0dzmyOME3Ba) | [Christian Sparacio](https://open.spotify.com/artist/5q5G8bzQnSGXVQx1SI35oO) | [Daisy Wildflower](https://open.spotify.com/album/6Vosuq4kWbkSCnxPPKSoZE) | 4:04 | 2024-05-08 | 2024-07-25 |
+| [damn navy](https://open.spotify.com/track/12fKxw1rVgSTC4dZZ7oK6h) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [damn navy](https://open.spotify.com/album/3hjrD8vlF0OVutIAE6b5xe) | 2:28 | 2025-08-07 |  |
 | [DAMN!](https://open.spotify.com/track/0vDHAOuy7TvKEISBv01nkE) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [DAMN!](https://open.spotify.com/album/3Rb0CeZODRvGR6fL9qTUse) | 3:57 | 2025-03-19 | 2025-06-05 |
 | [Dancing to Dylan](https://open.spotify.com/track/0cdT7hDGOsLjElUGgztTDS) | [barrett](https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY) | [Dancing to Dylan](https://open.spotify.com/album/0rYWCzKLXJ91FDZkwV5ClE) | 3:57 | 2025-01-15 | 2025-04-10 |
 | [Dangerous](https://open.spotify.com/track/2z3Kz64k1OtVYBymz45yxs) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Dangerous](https://open.spotify.com/album/0B6Aj8HfRvIeEiG5uMmIWQ) | 4:31 | 2025-01-15 | 2025-05-08 |

@@ -1,13 +1,29 @@
 {
-  "description": "Fearless sounds at the crossroads of country and folk. Cover: Sam Barber",
-  "num_followers": 68371,
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: Mariel Buckley",
+  "num_followers": 68370,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGqd0cU2ZT3sEq0nOcrLDXFGZiLU",
+  "snapshot_id": "AAAAAMX50zqadRFInVIiQjTGiqFehQGt",
   "tracks": [
+    {
+      "added_at": "2025-08-08 00:01:27",
+      "album": {
+        "name": "Swim Practice",
+        "url": "https://open.spotify.com/album/00HhX7XpOzH8N4kr8xREX5"
+      },
+      "artists": [
+        {
+          "name": "Mariel Buckley",
+          "url": "https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Swim Practice",
+      "url": "https://open.spotify.com/track/7lwqsnc3iWCFXpRGuiuUqQ"
+    },
     {
       "added_at": "2025-08-01 04:01:27",
       "album": {
@@ -25,56 +41,20 @@
       "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
     },
     {
-      "added_at": "2025-07-11 04:00:29",
+      "added_at": "2025-08-08 00:01:27",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
+      "duration_ms": 249870,
+      "name": "Losing Streak",
+      "url": "https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -95,38 +75,38 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Restless Mind",
-        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 286634,
-      "name": "Indigo (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -151,56 +131,60 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "added_at": "2025-08-08 00:01:27",
+      "album": {
+        "name": "Are We Feeling Okay?",
+        "url": "https://open.spotify.com/album/26aCuNIGoKs8vy0fPpUZLJ"
+      },
+      "artists": [
+        {
+          "name": "Evan Redsky",
+          "url": "https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Are We Feeling Okay?",
+      "url": "https://open.spotify.com/track/1JD7DkwwolY7oUgE67mLew"
     },
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Colorado, TX",
-        "url": "https://open.spotify.com/album/5FXdudccssLwPECirvslKG"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Mah Moud",
-          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Colorado, TX",
-      "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
+      "duration_ms": 240413,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
     },
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Rich Men North of Richmond",
-        "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
-      },
-      "artists": [
-        {
-          "name": "Oliver Anthony Music",
-          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
-        }
-      ],
-      "duration_ms": 187244,
-      "name": "Rich Men North of Richmond",
-      "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
       "artists": [
         {
@@ -208,9 +192,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -231,18 +215,18 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Man of the Year",
-        "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Man of the Year",
-      "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -263,18 +247,18 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "No Place Left to Leave (2006)",
-        "url": "https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K"
+        "name": "Rich Men North of Richmond",
+        "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
       },
       "artists": [
         {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Black Creek",
-      "url": "https://open.spotify.com/track/4jB3Mw900goYibsFAueHph"
+      "duration_ms": 187244,
+      "name": "Rich Men North of Richmond",
+      "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -299,6 +283,54 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Man of the Year",
+      "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "No Place Left to Leave (2006)",
+        "url": "https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Black Creek",
+      "url": "https://open.spotify.com/track/4jB3Mw900goYibsFAueHph"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Colorado, TX",
+        "url": "https://open.spotify.com/album/5FXdudccssLwPECirvslKG"
+      },
+      "artists": [
+        {
+          "name": "Mah Moud",
+          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Colorado, TX",
+      "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
@@ -311,6 +343,22 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -331,22 +379,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Bobcaygeon",
-        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 283687,
-      "name": "Bobcaygeon",
-      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Can I Take My Hounds to Heaven?",
         "url": "https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi"
       },
@@ -359,22 +391,6 @@
       "duration_ms": 208813,
       "name": "Way of the Triune God - Hallelujah Version",
       "url": "https://open.spotify.com/track/2BJy4svtrGACqRB5BFLOK6"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Burn, Burn, Burn",
-        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 268856,
-      "name": "Burn, Burn, Burn",
-      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -771,22 +787,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Lonely Mountain Town",
         "url": "https://open.spotify.com/album/6UHy1xdmdN3jW7qyrY3E18"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 230590,
       "name": "Lonely Mountain Town",
       "url": "https://open.spotify.com/track/7uY5c6QG9GCQ7NzpCsyPhA"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -979,6 +995,26 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2025-08-08 00:01:27",
+      "album": {
+        "name": "Don't Wake Me Up [Feat. Jesse Welles]",
+        "url": "https://open.spotify.com/album/0FU6mSNsf8fDlQGQhwIg2M"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 253561,
+      "name": "Don't Wake Me Up [Feat. Jesse Welles]",
+      "url": "https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1175,22 +1211,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Purple Gas",
-        "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
-      },
-      "artists": [
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 289480,
-      "name": "One Hell of a Woman",
-      "url": "https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Save Your Soul / Say Goodbye, Tell No One",
         "url": "https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ"
       },
@@ -1203,6 +1223,22 @@
       "duration_ms": 212120,
       "name": "Save Your Soul",
       "url": "https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 289480,
+      "name": "One Hell of a Woman",
+      "url": "https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1451,22 +1487,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Me More Cowboy Than You (Demo)",
-        "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Me More Cowboy Than You - Demo",
-      "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -1479,6 +1499,22 @@
       "duration_ms": 184000,
       "name": "Crimes of the Heart",
       "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Me More Cowboy Than You (Demo)",
+        "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Me More Cowboy Than You - Demo",
+      "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1511,6 +1547,22 @@
       "duration_ms": 175423,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Bobcaygeon",
+        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 283687,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1583,22 +1635,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Working On My Tan",
-        "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
-      },
-      "artists": [
-        {
-          "name": "Alex Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
-        }
-      ],
-      "duration_ms": 263436,
-      "name": "Working On My Tan",
-      "url": "https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Darlin' Baby",
         "url": "https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov"
       },
@@ -1611,54 +1647,6 @@
       "duration_ms": 265413,
       "name": "Darlin' Baby",
       "url": "https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "Little Songs",
-      "url": "https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "American Recordings",
-        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
-      },
-      "artists": [
-        {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
     }
   ],
   "unique_name": "Renegades",

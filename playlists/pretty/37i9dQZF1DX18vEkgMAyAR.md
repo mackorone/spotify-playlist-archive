@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,489 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,487 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 38 | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Nate Highfield](https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF), [SILVER](https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u) | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm) | 3:24 |
 | 39 | [Dark Side](https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Dark Side](https://open.spotify.com/album/2VPAWHuNgQuowuPQzWU45b) | 4:05 |
 | 40 | [Shake Shake](https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Shake Shake](https://open.spotify.com/album/3OsSTICzO2LsUrWRNLRTnr) | 3:40 |
-| 41 | [Roll On](https://open.spotify.com/track/2npX2eHUadkO7WIALUa66K) | [Dominic and Tom](https://open.spotify.com/artist/4F2LbcLZlrW3vimWra22SN) | [Roll On](https://open.spotify.com/album/7JwXBJOV5HVONGQGU9JXXy) | 3:23 |
-| 42 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
+| 41 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
+| 42 | [Roll On](https://open.spotify.com/track/2npX2eHUadkO7WIALUa66K) | [Dominic and Tom](https://open.spotify.com/artist/4F2LbcLZlrW3vimWra22SN) | [Roll On](https://open.spotify.com/album/7JwXBJOV5HVONGQGU9JXXy) | 3:23 |
 | 43 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 44 | [Can't Hurry Love](https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB) | [Lloyd Cele](https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg) | [Can't Hurry Love](https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414) | 3:01 |
 | 45 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |

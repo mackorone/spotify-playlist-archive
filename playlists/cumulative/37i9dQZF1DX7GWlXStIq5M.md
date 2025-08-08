@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Lou Garcia
 
-1,019 songs - 2 day 2 hr 43 min
+1,020 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,7 @@
 | [Orishas](https://open.spotify.com/track/5eZMv9ZkQ8ySMccOWAbHBq) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Orishas](https://open.spotify.com/album/5ExpTcYgqYuloazTYb0RgC) | 2:44 | 2023-06-16 | 2023-12-16 |
 | [Our Time](https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:38 | 2020-10-20 | 2023-02-15 |
 | [Our Time](https://open.spotify.com/track/4PlwZcXyJwoYPgafhglDgq) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Our Time](https://open.spotify.com/album/5OGVTcBmkApTJTcujoXFht) | 1:38 | 2020-10-20 | 2022-07-29 |
-| [Ouro.](https://open.spotify.com/track/2g9we95HML3rUpEBr3UEAo) | [LILIE](https://open.spotify.com/artist/5Lucm6JwwQZxK2o18CCBzu), [EloYT](https://open.spotify.com/artist/1XRgWHF7hbh0wt4GhZLVwQ), [prodkaz](https://open.spotify.com/artist/3qhbc7GQRG4WLF3jnCHUla), [Cruz Knox](https://open.spotify.com/artist/4nww49Lsx05bYK2jllrhYi) | [Ouro.](https://open.spotify.com/album/1WrS3vnUGlUo2jtJx3IO0X) | 2:20 | 2025-06-20 |  |
+| [Ouro.](https://open.spotify.com/track/2g9we95HML3rUpEBr3UEAo) | [LILIE](https://open.spotify.com/artist/5Lucm6JwwQZxK2o18CCBzu), [EloYT](https://open.spotify.com/artist/1XRgWHF7hbh0wt4GhZLVwQ), [prodkaz](https://open.spotify.com/artist/3qhbc7GQRG4WLF3jnCHUla), [Cruz Knox](https://open.spotify.com/artist/4nww49Lsx05bYK2jllrhYi) | [Ouro.](https://open.spotify.com/album/1WrS3vnUGlUo2jtJx3IO0X) | 2:20 | 2025-06-20 | 2025-08-08 |
 | [Own It \(feat\. Ed Sheeran & Burna Boy\)](https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:36 | 2020-10-20 | 2023-02-15 |
 | [P2](https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:54 | 2020-10-20 | 2023-02-15 |
 | [Pain 1993 \(with Playboi Carti\)](https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 2:29 | 2020-10-20 | 2023-02-15 |
@@ -803,6 +803,7 @@
 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 | 2020-10-20 | 2023-02-15 |
 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2020-10-20 | 2023-02-15 |
 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 | 2020-10-20 | 2023-02-15 |
+| [Sacode](https://open.spotify.com/track/2p2StS2NPYe7T5oTPbXf1Z) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Sacode](https://open.spotify.com/album/7KS5hWrJWVF1hJMBcutjHz) | 2:30 | 2025-08-08 |  |
 | [Sad Baile](https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Sad Baile](https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w) | 2:50 | 2024-03-08 | 2025-03-01 |
 | [SAFADIN GOXTOZIN](https://open.spotify.com/track/41cwufPxmSrMMQthgNf9Xf) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:02 | 2024-11-08 | 2025-01-11 |
 | [Sagitariano](https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Sagitariano](https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9) | 2:21 | 2025-05-13 |  |

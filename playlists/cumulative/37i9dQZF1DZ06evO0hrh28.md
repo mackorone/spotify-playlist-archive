@@ -4,7 +4,7 @@
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 50 min
+79 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Alegría](https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Alegría](https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq) | 2:45 | 2024-08-11 | 2024-11-10 |
 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 | 2023-11-10 |  |
 | [BB \- Emilia en Vivo](https://open.spotify.com/track/2EaqSjTQuzsQ3F8ncmsFKW) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Emilia en Vivo](https://open.spotify.com/album/3jxfIy0En401wjrtIZcBXh) | 2:45 | 2023-11-10 | 2024-12-31 |
-| [beautiful 💄](https://open.spotify.com/track/0nKaPY20BUkAirtEAgyNIN) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [beautiful 💄](https://open.spotify.com/album/6pcInSOVlCAT2s5RWM8Sj2) | 2:23 | 2025-08-02 |  |
+| [beautiful 💄](https://open.spotify.com/track/0nKaPY20BUkAirtEAgyNIN) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [beautiful 💄](https://open.spotify.com/album/6pcInSOVlCAT2s5RWM8Sj2) | 2:23 | 2025-08-02 | 2025-08-08 |
+| [beautiful 💄](https://open.spotify.com/track/4oJUtlGzMWmyURfJsCwO3z) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 2:23 | 2025-08-08 |  |
 | [Bendición](https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bendición](https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N) | 3:05 | 2023-11-10 | 2025-03-08 |
 | [Billion](https://open.spotify.com/track/0LX3DnrnDI7dkiKsfWbgj5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Billion](https://open.spotify.com/album/52wcnAEamts2IYdOxpDMcm) | 2:59 | 2023-11-10 | 2025-02-12 |
 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 | 2025-03-30 |  |
@@ -57,7 +58,7 @@
 | [mi otra mitad](https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 | 2023-11-10 |  |
 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 | 2025-04-27 |  |
 | [Muñecos.mp3](https://open.spotify.com/track/6WkyLg8WiXuxAVKb8aWzKo) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:45 | 2023-11-10 | 2023-12-14 |
-| [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 | 2023-11-10 |  |
+| [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 | 2023-11-10 | 2025-08-08 |
 | [No Más](https://open.spotify.com/track/2WUmmdgeXxIKhEbsfKZ4fd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [No Más](https://open.spotify.com/album/0YbJiVZxRmLNeEVrtRvbwQ) | 2:32 | 2023-11-10 | 2024-10-26 |
 | [No Soy Yo](https://open.spotify.com/track/67OKX8DNYygddabwIjExsp) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [No Soy Yo](https://open.spotify.com/album/3Qmka2ojW5eJwfbunxP6rj) | 3:16 | 2023-11-10 | 2025-07-07 |
 | [No\_Se\_Ve.mp3](https://open.spotify.com/track/2df5CkXBJO7jTGXm54dFJy) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:23 | 2024-06-21 | 2024-08-30 |

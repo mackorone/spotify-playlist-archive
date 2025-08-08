@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 244943,
+  "num_followers": 245046,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "Keep Their Heads Ringin'",
+        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Snap Yo Fingers - Single",
         "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 274386,
       "name": "Snap Yo Fingers",
       "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "Keep Their Heads Ringin'",
-        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1060,17 +1060,13 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Talent",
+          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
         }
       ],
-      "duration_ms": 284480,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
+      "duration_ms": 268960,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1148,13 +1144,17 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Talent",
-          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
+      "duration_ms": 284480,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
     },
     {
       "added_at": "2024-10-25 23:07:14",

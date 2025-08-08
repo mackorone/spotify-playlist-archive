@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Calvin Harris, Clementine Douglas
+> The UK's biggest dance playlist! Cover: Interplanetary Criminal
 
 687 songs - 1 day 11 hr 43 min
 

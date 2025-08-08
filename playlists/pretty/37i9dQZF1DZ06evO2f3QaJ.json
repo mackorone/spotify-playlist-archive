@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAD2RZeMRWB3arCaAkE/z90D",
+  "snapshot_id": "aJKbAAAAAAAigZhysYTyLeBwvrd2UG0m",
   "tracks": [
     {
       "added_at": null,
@@ -511,18 +511,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+        "name": "N\u00e3o Rimo Por Grammys",
+        "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
       },
       "artists": [
         {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Yangprj",
+          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
         }
       ],
-      "duration_ms": 173285,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"
+      "duration_ms": 125648,
+      "name": "N\u00e3o Rimo Por Grammys",
+      "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
     },
     {
       "added_at": null,
@@ -552,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/28azbjBNeQAUv060KuGomn"
+      "duration_ms": 170826,
+      "name": "O Dia Mais Quente do Ano",
+      "url": "https://open.spotify.com/track/2muI3n9LN0NDkYR0DV2cz6"
     },
     {
       "added_at": null,
@@ -579,30 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Rimo Por Grammys",
-        "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
       },
       "artists": [
         {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Yangprj",
-          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
         }
       ],
-      "duration_ms": 125648,
-      "name": "N\u00e3o Rimo Por Grammys",
-      "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
+      "duration_ms": 173285,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 137266,
-      "name": "Febre",
-      "url": "https://open.spotify.com/track/6S30GnSKCDEQ7uC7Hy40zo"
+      "duration_ms": 217120,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/28azbjBNeQAUv060KuGomn"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 236472,
-      "name": "Foco nos Planos",
-      "url": "https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe"
+      "duration_ms": 194833,
+      "name": "Intro 11",
+      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 194833,
-      "name": "Intro 11",
-      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
+      "duration_ms": 236472,
+      "name": "Foco nos Planos",
+      "url": "https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe"
     },
     {
       "added_at": null,
@@ -887,6 +887,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 313714,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 348097,
+      "name": "HORA DOURADA",
+      "url": "https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DCAC - de C\u00e9sar a Cristo",
         "url": "https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl"
       },
@@ -903,6 +935,22 @@
       "duration_ms": 338773,
       "name": "DCAC - de C\u00e9sar a Cristo",
       "url": "https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 175934,
+      "name": "Blas\u00e9",
+      "url": "https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq"
     },
     {
       "added_at": null,
@@ -930,27 +978,15 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348097,
-      "name": "HORA DOURADA",
-      "url": "https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
-      },
-      "artists": [
+        },
         {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+          "name": "Thiago Ticana",
+          "url": "https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs"
         }
       ],
-      "duration_ms": 155930,
-      "name": "Eu e Tu",
-      "url": "https://open.spotify.com/track/0mndNKokpOpH5OJYmp3D9v"
+      "duration_ms": 143195,
+      "name": "SKIT (AZUL NEON)",
+      "url": "https://open.spotify.com/track/2xciPs0PoOi33MxobwFUoO"
     },
     {
       "added_at": null,
@@ -975,42 +1011,6 @@
       "duration_ms": 193881,
       "name": "Se A Rua Fosse Minha",
       "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 313714,
-      "name": "Smooth Operator",
-      "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Thiago Ticana",
-          "url": "https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs"
-        }
-      ],
-      "duration_ms": 143195,
-      "name": "SKIT (AZUL NEON)",
-      "url": "https://open.spotify.com/track/2xciPs0PoOi33MxobwFUoO"
     }
   ],
   "unique_name": "This Is Zudizilla",

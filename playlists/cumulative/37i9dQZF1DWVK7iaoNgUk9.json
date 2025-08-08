@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Amar \u00e9 dor",
+        "url": "https://open.spotify.com/album/60UzUxJuZurdsMLBnkFqgX"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149523,
+      "name": "Amar \u00e9 dor",
+      "url": "https://open.spotify.com/track/0KGzsjWpPi3Wjre5DaJQ5t"
+    },
+    {
+      "album": {
         "name": "Amigos nunca devem",
         "url": "https://open.spotify.com/album/7MGFyly48Gyz77J73B7jXh"
       },
@@ -1280,7 +1302,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 151606,
       "name": "O Caf\u00e9 Num Esfriou",
       "url": "https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. cody frost
+> welcome to our universe ft\. monster florence
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,508 likes - 84 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,485 likes - 84 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 83 | [For Your Health](https://open.spotify.com/track/6z7wAQaMhDtrLDZpOV6wyW) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [For Your Health](https://open.spotify.com/album/52rvyNcqZvJgTGhlgHXpro) | 2:53 |
 | 84 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
 
-Snapshot ID: `AAAAAMHJVBqsUyXJx3kC1qCTIjKq6Bjh`
+Snapshot ID: `AAAAALybd0y9FR2KDUMxNcEEcxEV8Im1`

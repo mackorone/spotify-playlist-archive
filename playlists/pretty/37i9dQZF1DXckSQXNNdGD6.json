@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  AMORE.",
-  "num_followers": 20809,
+  "num_followers": 20828,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-08-06 09:35:45",
       "album": {
+        "name": "entre cuatro paredes y una verdad",
+        "url": "https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 169356,
+      "name": "A PLENO PULM\u00d3N",
+      "url": "https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v"
+    },
+    {
+      "added_at": "2025-08-06 09:35:45",
+      "album": {
         "name": "LL\u00c1MAME",
         "url": "https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 138428,
       "name": "LL\u00c1MAME",
       "url": "https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw"
-    },
-    {
-      "added_at": "2025-08-06 09:35:45",
-      "album": {
-        "name": "entre cuatro paredes y una verdad",
-        "url": "https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 169356,
-      "name": "A PLENO PULM\u00d3N",
-      "url": "https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v"
     },
     {
       "added_at": "2025-08-06 09:35:45",
@@ -835,26 +835,18 @@
     {
       "added_at": "2025-08-06 09:35:45",
       "album": {
-        "name": "Bollera",
-        "url": "https://open.spotify.com/album/7DSL0AxTYtjZf3Y5yHaCIJ"
+        "name": "Nunca Llega 05",
+        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
       },
       "artists": [
         {
-          "name": "La Mare",
-          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
-        },
-        {
-          "name": "Roba Estesa",
-          "url": "https://open.spotify.com/artist/3VzGOFrX7MDtLe2Wfndgjt"
-        },
-        {
-          "name": "Xerach",
-          "url": "https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 162789,
-      "name": "Bollera",
-      "url": "https://open.spotify.com/track/4xHXFX1nXCNGi6pRUKYkub"
+      "duration_ms": 159056,
+      "name": "Nunca Llega 05",
+      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
     },
     {
       "added_at": "2025-08-06 09:35:45",

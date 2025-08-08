@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,241 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,332 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 37 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
 | 38 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
 | 39 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
-| 40 | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ) | 3:00 |
-| 41 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
+| 40 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
+| 41 | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ) | 3:00 |
 | 42 | [All One](https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Volcano On Mars](https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4) | [All One](https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g) | 3:43 |
 | 43 | [One in a Million \- Alok Remix](https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [One in a Million \(Alok Remix\)](https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o) | 2:22 |
 | 44 | [Won't Back Down](https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Won't Back Down](https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII) | 2:45 |

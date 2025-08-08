@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Maldito ChatGPT&quot; , Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Rauw Alejandro
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,244 likes - 208 songs - 10 hr 53 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,245 likes - 209 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,5 +216,6 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 206 | [Te Imaginaba](https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Te Imaginaba](https://open.spotify.com/album/34lHWGbMwEieuMtYcyhqrR) | 2:38 |
 | 207 | [Solcito \- Alok Edit](https://open.spotify.com/track/3dJ638TCGvZ20utIbToGEh) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Solcito \(Alok Edit\)](https://open.spotify.com/album/1yXIFApLAwp7MNocv6tLtI) | 2:27 |
 | 208 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
+| 209 | [lo que pase](https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase](https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO) | 2:32 |
 
-Snapshot ID: `AAATi/advYUAHyJdT6yXOCKc9Balsu0c`
+Snapshot ID: `AAATjE4S/4SuP5uqX8ZGxgmevxGs4BkJ`

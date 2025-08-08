@@ -2,7 +2,7 @@
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: ILLENIUM, Norma Jean Martine
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt, KI/KI
 
 4,316 songs - 8 day 12 hr 20 min
 
@@ -4017,7 +4017,7 @@
 | [Voices In My Head](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Voices In My Head](https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef) | 2:26 | 2025-02-13 | 2025-02-21 |
 | [Voices In My Head](https://open.spotify.com/track/5v2PVHmyWwmUAuiXoiR20l) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Eric Mars](https://open.spotify.com/artist/4Pl9aPvoadSNWRIpTqLzr2), [JJM](https://open.spotify.com/artist/3eJo8Qrzwi8JbHJP315YLG) | [Voices In My Head](https://open.spotify.com/album/7pc8vmEajidbQZBlGVThW1) | 1:52 | 2025-03-20 | 2025-03-28 |
 | [Voices In My Head \(ft\. Teddy Bee\)](https://open.spotify.com/track/67IluCSppOPrLyfWonaGGv) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [Voices In My Head / Flashing Lights](https://open.spotify.com/album/3kNdbvSLi5XZGCyEQ0lCVZ) | 2:55 | 2024-05-31 | 2024-06-21 |
-| [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head Remix](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 | 2025-07-31 |  |
+| [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 | 2025-07-31 |  |
 | [VOID](https://open.spotify.com/track/5YnYhrtjT8aCEX9xXLIcjA) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [VOID](https://open.spotify.com/album/2QMp3JRmHRXzFKL8wT6eaL) | 3:30 | 2025-02-27 | 2025-03-07 |
 | [VOLTAGE](https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:09 | 2025-04-03 | 2025-04-18 |
 | [Volume Up](https://open.spotify.com/track/7jkPZ6jLPv0NHzdB3xbwvO) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [ACNØR](https://open.spotify.com/artist/0N0nCdKwmRXiW7w7w9eKNo), [Axone](https://open.spotify.com/artist/6jpP7intdMUZIHm5O8WVL6) | [Volume Up](https://open.spotify.com/album/4Y45LuPbYDGE24OJOVRhiM) | 5:43 | 2025-04-10 | 2025-04-18 |

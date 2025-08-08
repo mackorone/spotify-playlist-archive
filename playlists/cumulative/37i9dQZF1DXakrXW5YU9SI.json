@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 184560,
       "name": "Chokehold",
       "url": "https://open.spotify.com/track/6xW03IbLmuw5vQc6jELnm1"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 153425,
       "name": "demo domu",
       "url": "https://open.spotify.com/track/6sO57kTvfR2uKUhkN1FHIK"
@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 292093,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Heavens Sirens",
+        "url": "https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176974,
+      "name": "Heavens Sirens",
+      "url": "https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn"
+    },
+    {
+      "album": {
         "name": "Hell N Back (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
       },
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 168000,
       "name": "JAKBY JUTRA MIA\u0141O NIE BY\u0106",
       "url": "https://open.spotify.com/track/32RXEFUIE21OJkIy57jOTU"
@@ -4266,7 +4284,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 187041,
       "name": "Kompleks Boga",
       "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
@@ -5041,6 +5059,24 @@
     },
     {
       "album": {
+        "name": "mario",
+        "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "mario",
+      "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
+    },
+    {
+      "album": {
         "name": "Ma\u0142a \u015bmier\u0107",
         "url": "https://open.spotify.com/album/2Zl2KBb0nzJPELpXSCGXXH"
       },
@@ -5226,6 +5262,28 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "album": {
+        "name": "Mimo wszystko",
+        "url": "https://open.spotify.com/album/537Y8Uy3uMgyqXFFWwmlRs"
+      },
+      "artists": [
+        {
+          "name": "T.Love",
+          "url": "https://open.spotify.com/artist/2L14uYIQePr3ZEutb6feZz"
+        },
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158148,
+      "name": "Mimo wszystko - wersja radiowa",
+      "url": "https://open.spotify.com/track/2QCozDgFWeIbi9yGbwm2qt"
     },
     {
       "album": {
@@ -7886,7 +7944,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
@@ -10742,6 +10800,24 @@
       "duration_ms": 190633,
       "name": "Zaspy",
       "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"
+    },
+    {
+      "album": {
+        "name": "Zasypiasz sama",
+        "url": "https://open.spotify.com/album/3egqXGMcxAhKVJiIPqu6ol"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Zasypiasz sama",
+      "url": "https://open.spotify.com/track/6rLcx8EtgDK6CTgdI1vPYj"
     },
     {
       "album": {

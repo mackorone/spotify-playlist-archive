@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 56352,
+  "num_followers": 56372,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAADwoio/RKyoe4r1sHa95gGw",
+  "snapshot_id": "aJKbAAAAAAB12rJimLd4WiEyo2xOfnY0",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Art of War (Pt. II) EP",
-        "url": "https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp"
+        "name": "Art of War EP",
+        "url": "https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo"
       },
       "artists": [
         {
           "name": "Peggy Gou",
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "Terekke",
-          "url": "https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu"
         }
       ],
-      "duration_ms": 387226,
-      "name": "When Round, They Go - Terekke Remix",
-      "url": "https://open.spotify.com/track/2jcLXice4V8TNsvwE76498"
+      "duration_ms": 353047,
+      "name": "Troop",
+      "url": "https://open.spotify.com/track/7GbhZNoIASAeUjwekiT0sa"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Art of War EP",
-        "url": "https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo"
+        "name": "Art of War (Pt. II) EP",
+        "url": "https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp"
       },
       "artists": [
         {
           "name": "Peggy Gou",
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Terekke",
+          "url": "https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu"
         }
       ],
-      "duration_ms": 353047,
-      "name": "Troop",
-      "url": "https://open.spotify.com/track/7GbhZNoIASAeUjwekiT0sa"
+      "duration_ms": 387226,
+      "name": "When Round, They Go - Terekke Remix",
+      "url": "https://open.spotify.com/track/2jcLXice4V8TNsvwE76498"
     },
     {
       "added_at": null,

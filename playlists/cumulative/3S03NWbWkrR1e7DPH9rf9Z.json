@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Everything You Lose",
+        "url": "https://open.spotify.com/album/2HDkvp03BYJme0qmAgYEOn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krissen",
+          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Everything You Lose",
+      "url": "https://open.spotify.com/track/0QVTPuGx5wdqTEFWXTBepm"
+    },
+    {
+      "album": {
         "name": "Everytime We Touch (Hardwell & Maurice West Remix)",
         "url": "https://open.spotify.com/album/0W0mU1rqKCMXcSoVpdyt6y"
       },

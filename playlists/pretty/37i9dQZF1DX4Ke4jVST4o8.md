@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 
 > Floor fillers and big streamers of 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,133 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,219 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 63 | [Year of Summer \(feat\. Niels Geusebroek\) \- Radio Edit](https://open.spotify.com/track/1YT4DY3Xs9HdjBYa5PAwLu) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year Of Summer \(feat\. Niels Geusebroek\)](https://open.spotify.com/album/1xqz1cQjTjKBxg2j14zE5U) | 2:54 |
 | 64 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 |
 
-Snapshot ID: `AAAAAAKw/2nENWrBIH05CYqEodDrZ1T7`
+Snapshot ID: `AAAAANnbFaZhUeJzG3Bm8JTLb7yRmpDp`

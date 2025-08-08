@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como el G\-5.
+> Lo mejor del rock de aquí, como Albertucho con Rulo y la contrabanda.
 
-633 songs - 1 day 16 hr 29 min
+635 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 | 2022-05-19 |  |
 | [Aviones plateados \- Versión 2023](https://open.spotify.com/track/3je2TX1tt9e7iXiGByeeie) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Aviones plateados \(Versión 2023\)](https://open.spotify.com/album/1rau5ASyQWSDnATZkjLsAM) | 3:59 | 2023-11-30 | 2023-12-08 |
 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 | 2022-05-26 |  |
+| [Años 70](https://open.spotify.com/track/7ds4diw8KS2WddkOrPDgak) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [Años 70](https://open.spotify.com/album/2Ex9uQQMChXU0WqqmNyUQQ) | 2:39 | 2025-08-07 |  |
 | [Años 90](https://open.spotify.com/track/0607jCQHZe4aLSzUQbcKwB) | [Los Piratas](https://open.spotify.com/artist/6qDVOAIlTaSd7HuVtkfce1) | [Inerte EP](https://open.spotify.com/album/68zYAR8IvwYwm4gVMagIyj) | 2:42 | 2025-01-23 | 2025-02-01 |
 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 | 2023-08-17 |  |
 | [Bailemos \- On The Road](https://open.spotify.com/track/0VuqnABiEQSLzVY1N3sm4v) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Entre las dudas y el azar](https://open.spotify.com/album/5expex0cGvBl9uKBs5ZFF3) | 4:12 | 2022-12-08 | 2023-02-03 |
@@ -145,6 +146,7 @@
 | [Derecho Constitucional](https://open.spotify.com/track/1xLQSpPc9r0vdxxINT8UO5) | [Linze](https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq) | [Derecho Constitucional](https://open.spotify.com/album/726RzbNsGetGDXL6IJoODK) | 3:30 | 2025-02-13 | 2025-02-21 |
 | [Deseando ver la luz](https://open.spotify.com/track/2fX6lNgkU7QkQF86s2x8OJ) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [Deseando ver la luz](https://open.spotify.com/album/40OhE5LijpvgkRcJFvD5tx) | 4:44 | 2023-02-23 | 2023-03-10 |
 | [Desesperación](https://open.spotify.com/track/3f1Bjc2q2gz88GNcagQwMt) | [Pablo Perea](https://open.spotify.com/artist/1RDmz2DB87UtfVvkEuQLF9) | [Desesperación](https://open.spotify.com/album/2NdTFCFZ2k0Fi56mUFHVFu) | 4:03 | 2024-05-09 | 2024-05-17 |
+| [Después](https://open.spotify.com/track/5Dry23VqlZYAZVnK945TcN) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [Después](https://open.spotify.com/album/1uxjVYvBHX6RQ8DrRhJ4dM) | 3:28 | 2025-08-07 |  |
 | [Desátame de la Tierra](https://open.spotify.com/track/08KT5VZN2ym35OlWfwJKa1) | [Cómplices](https://open.spotify.com/artist/4VIU80QkcrMEdKoiWmnWvr) | [Terra](https://open.spotify.com/album/6PCUZ5X3mDdeY7zQ291S6H) | 3:18 | 2024-04-04 | 2024-04-12 |
 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 | 2022-07-21 | 2024-04-19 |
 | [Devil Came To Me \- 2007 Remastered Version](https://open.spotify.com/track/7oycM5ZYxqampQrp1z5Zsk) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [2](https://open.spotify.com/album/1wDgA9FEC7ITE6OTbt6KOC) | 4:36 | 2022-05-26 | 2022-07-27 |
@@ -324,7 +326,7 @@
 | [La Selva](https://open.spotify.com/track/7wrcBkeoO6zXglCUrmwqqy) | [Mamita Papaya](https://open.spotify.com/artist/7crFuTH6NqDsqgQFg2D69M) | [La Selva](https://open.spotify.com/album/7fMbEVrAF5Qj4h2bu2bpZc) | 3:26 | 2024-10-10 | 2024-10-25 |
 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 | 2022-05-19 |  |
 | [La sirena varada](https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 4:17 | 2022-06-09 | 2023-05-05 |
-| [La tierra de nunca jamás](https://open.spotify.com/track/3HkCyhn2NUospRJFQHtW9U) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [La tierra de nunca jamás](https://open.spotify.com/album/0Y9ccsrydKJIjbVVxkttzc) | 5:31 | 2025-06-26 |  |
+| [La tierra de nunca jamás](https://open.spotify.com/track/3HkCyhn2NUospRJFQHtW9U) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [La tierra de nunca jamás](https://open.spotify.com/album/0Y9ccsrydKJIjbVVxkttzc) | 5:31 | 2025-06-26 | 2025-08-08 |
 | [La Torre Picasso](https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [La Torre Picasso](https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq) | 8:04 | 2024-09-12 |  |
 | [La Ultima Carta](https://open.spotify.com/track/1fdPsxYXocQKnLdB6xlgZr) | [Los Cucas](https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 4:52 | 2022-06-16 | 2022-07-21 |
 | [La Vecina de la Anfeta](https://open.spotify.com/track/3iyfypyz8hWvTRuDBfr1E3) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M), [Albert Pla](https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN) | [La Vecina de la Anfeta](https://open.spotify.com/album/73JkDVYL6pJpA9x1bq4qH3) | 1:56 | 2025-04-24 | 2025-05-13 |
@@ -566,7 +568,7 @@
 | [Te sigo soñando \(feat\. Luz Casal\) \- En Directo en Madrid 2020](https://open.spotify.com/track/5DgIZi4ncTDzryzl1Q6IHl) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Antes de que anochezca \(En Directo en Madrid\)](https://open.spotify.com/album/3z02xWkMowT7rEVwWdM8V5) | 5:13 | 2022-06-02 | 2022-07-01 |
 | [Tenemos Algo Que Solucionar](https://open.spotify.com/track/46H6sHclq3EOI1MSOGdi69) | [Alejo](https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h) | [Tenemos Algo Que Solucionar](https://open.spotify.com/album/1z141GDxf23yAs43ORmjLs) | 4:37 | 2023-06-22 | 2023-06-30 |
 | [Tenemos algo que solucionar](https://open.spotify.com/track/3PntncTuG92PnwSoUcr41Q) | [Alejo](https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h), [Querido](https://open.spotify.com/artist/3ulrDH2Ccc1FPggTGbvxho) | [Tenemos algo que solucionar](https://open.spotify.com/album/2oSWuvJJdUdZkhGs6INbnu) | 3:49 | 2024-11-07 | 2024-11-15 |
-| [Terciopelo azul](https://open.spotify.com/track/3wuDAI5DRe90ydZxXnWNrD) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Terciopelo azul](https://open.spotify.com/album/2BSn1C8HzPQ3ZlIVT0Nf4K) | 4:49 | 2025-06-19 |  |
+| [Terciopelo azul](https://open.spotify.com/track/3wuDAI5DRe90ydZxXnWNrD) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Terciopelo azul](https://open.spotify.com/album/2BSn1C8HzPQ3ZlIVT0Nf4K) | 4:49 | 2025-06-19 | 2025-08-08 |
 | [Tiempo](https://open.spotify.com/track/3ySRdYSAInV4VgBt5aTr2r) | [La Raíz](https://open.spotify.com/artist/036IY6CphXdsPiqIXdqvCP) | [Tiempo](https://open.spotify.com/album/6jf1dE8f0lFFcmJeMf4caI) | 3:55 | 2024-06-20 | 2024-07-20 |
 | [Tiramisú](https://open.spotify.com/track/62IZgrsHNs2qkyrk1f9Od8) | [Playa Cuberris](https://open.spotify.com/artist/0xIzpUzi2uZQiZGjDx8ZP1) | [Tiramisú](https://open.spotify.com/album/3ghYFW0xHG3hlGy4NAUEvc) | 3:28 | 2024-05-02 | 2024-05-10 |
 | [Tirar de recuerdos](https://open.spotify.com/track/64cO1QQmMWrmmjD6Yw9WV3) | [Invisibles](https://open.spotify.com/artist/04CiVXelzq7gOxUHvPt6GO) | [Rarezas y ReZetas](https://open.spotify.com/album/5oB4UddprAZscA2P1R1o4Y) | 5:13 | 2024-05-23 | 2024-06-01 |

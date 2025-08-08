@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 5893,
+  "num_followers": 5902,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAABg/8CH2mwdCVrW8XqAWmCy",
+  "snapshot_id": "aJKbAAAAAABTWnUgq1Jf6+g3CM8q33Ks",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Original Vibe Machine",
-        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165656,
-      "name": "No Sleeping",
-      "url": "https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If Only Love Was Enough",
         "url": "https://open.spotify.com/album/2dwLnFMDMBEURnhJZ4JIwT"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 227632,
       "name": "Biggie Man",
       "url": "https://open.spotify.com/track/2kbzej9CB5YaFbmU9xDo9L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Original Vibe Machine",
+        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165656,
+      "name": "No Sleeping",
+      "url": "https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT"
     },
     {
       "added_at": null,

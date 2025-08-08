@@ -2,7 +2,7 @@
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Carla Fernandes
+> Najlepsze polskie piosenki na czasie\. Cover: Wiktoria Kida
 
 567 songs - 1 day 3 hr 38 min
 

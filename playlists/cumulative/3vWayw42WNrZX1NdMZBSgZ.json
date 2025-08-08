@@ -9333,6 +9333,28 @@
     },
     {
       "album": {
+        "name": "lo que pase",
+        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
+      },
+      "artists": [
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152784,
+      "name": "lo que pase",
+      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
+    },
+    {
+      "album": {
         "name": "Lo Que un Hombre Deber\u00eda Saber",
         "url": "https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi"
       },

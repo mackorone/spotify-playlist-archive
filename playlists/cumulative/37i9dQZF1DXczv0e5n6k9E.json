@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Thug Slime",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Yolte",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 184041,
       "name": "Alice",
       "url": "https://open.spotify.com/track/4yYjZ7ryYp5DTUnFFmJTwp"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 168225,
       "name": "BadaBing",
       "url": "https://open.spotify.com/track/1rKYQ81gCt5PFMpm9dEH88"
@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Chalkidiki",
+        "url": "https://open.spotify.com/album/1gHrBl094x0wH6UbVPjgUK"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113814,
+      "name": "Chalkidiki",
+      "url": "https://open.spotify.com/track/3EmR858O6GqY9QCPOowflb"
+    },
+    {
+      "album": {
         "name": "CITY BOY",
         "url": "https://open.spotify.com/album/3MGjWKyZ6mNA4VQk3rgYJy"
       },
@@ -2488,6 +2506,24 @@
       "duration_ms": 144000,
       "name": "DnB",
       "url": "https://open.spotify.com/track/5thJkbK9NcweLcnNVs8i2m"
+    },
+    {
+      "album": {
+        "name": "FOR ALL THE BEACHES 2.8",
+        "url": "https://open.spotify.com/album/2ugHLvVQosJYX1kFBDyMfp"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "DO DO DO",
+      "url": "https://open.spotify.com/track/1VXkBopWGByUHkQTipDycM"
     },
     {
       "album": {
@@ -5425,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "KUSH KUSH",
+        "url": "https://open.spotify.com/album/6KG60DcOLSBGdQfGNnwouu"
+      },
+      "artists": [
+        {
+          "name": "Ggreco",
+          "url": "https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "KUSH KUSH",
+      "url": "https://open.spotify.com/track/0HE6zCDAbo9d5j9hyNjEoE"
+    },
+    {
+      "album": {
         "name": "Kyma",
         "url": "https://open.spotify.com/album/5IXuy2kdy9rN6BccbxVYXQ"
       },
@@ -7460,7 +7514,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 186782,
       "name": "PARANO\u00d3",
       "url": "https://open.spotify.com/track/71Wpk4WMKsYXni1bKi1CsD"
@@ -7624,6 +7678,32 @@
       "duration_ms": 137142,
       "name": "PERCIE",
       "url": "https://open.spotify.com/track/7r39xkoj9KHHbTvSLM47We"
+    },
+    {
+      "album": {
+        "name": "ICE C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "PERCO",
+      "url": "https://open.spotify.com/track/7nWCBmf2cLyMzXQTnYgSvr"
     },
     {
       "album": {
@@ -8174,7 +8254,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 213146,
       "name": "Psy Attack",
       "url": "https://open.spotify.com/track/78aDFml285X4qbd4brg02o"
@@ -9130,7 +9210,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 157966,
       "name": "SPAASTO",
       "url": "https://open.spotify.com/track/0CBtVtgFoE1x4Aqc6AvKJy"
@@ -9715,6 +9795,24 @@
     },
     {
       "album": {
+        "name": "SummerVerse",
+        "url": "https://open.spotify.com/album/0qQpK2j34IlGvJGBFo2OTu"
+      },
+      "artists": [
+        {
+          "name": "Mpelafon",
+          "url": "https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Ti Na Se Kanw",
+      "url": "https://open.spotify.com/track/2vvaCwUTJ4m75KdpMweRJx"
+    },
+    {
+      "album": {
         "name": "TIFFANY",
         "url": "https://open.spotify.com/album/7bZmIoJpx7T24YUWeUoYSz"
       },
@@ -10068,7 +10166,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 151282,
       "name": "Tripani",
       "url": "https://open.spotify.com/track/0ro3SdkXfsAJjcwE4hxLdM"
@@ -10098,6 +10196,24 @@
       "duration_ms": 193409,
       "name": "True North 4",
       "url": "https://open.spotify.com/track/2Bv6Yq1LxQgd9T35ovMGyW"
+    },
+    {
+      "album": {
+        "name": "TSOKELO",
+        "url": "https://open.spotify.com/album/1Ir5ULKK52IXaWE10RBCMg"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "TSOKELO",
+      "url": "https://open.spotify.com/track/4MkmngplPtJnFncx0XeRBa"
     },
     {
       "album": {
@@ -10194,6 +10310,32 @@
       "duration_ms": 118400,
       "name": "U 2 <3",
       "url": "https://open.spotify.com/track/4H1kdmHykpDLziS7kKHopG"
+    },
+    {
+      "album": {
+        "name": "V.A.R.",
+        "url": "https://open.spotify.com/album/1mj6Fki6aITCoQjSYqOl1h"
+      },
+      "artists": [
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        },
+        {
+          "name": "Sp93",
+          "url": "https://open.spotify.com/artist/70BVuSoIusPEV52Fyi3RlK"
+        },
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "V.A.R.",
+      "url": "https://open.spotify.com/track/0Stg1iLZjuakhqa2iu7lCF"
     },
     {
       "album": {
@@ -10974,7 +11116,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 165500,
       "name": "\u03a4\u03a4",
       "url": "https://open.spotify.com/track/2CsdArMmmCfsMHR0jcDcmG"

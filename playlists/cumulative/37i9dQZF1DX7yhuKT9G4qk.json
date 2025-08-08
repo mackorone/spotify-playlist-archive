@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "A Way With My Heart",
+        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
+      },
+      "artists": [
+        {
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        },
+        {
+          "name": "Sven Hammond",
+          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "A Way With My Heart",
+      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
+    },
+    {
+      "album": {
         "name": "Admit It",
         "url": "https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk"
       },

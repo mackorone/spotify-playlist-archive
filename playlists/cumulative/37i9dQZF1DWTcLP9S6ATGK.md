@@ -2,7 +2,7 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Daun Jatuh, Grace Kaitlin
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Hanin Dhiya
 
 574 songs - 1 day 13 hr 35 min
 

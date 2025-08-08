@@ -2,7 +2,7 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B in the UK\. Cover: Nolais
+> The latest of R&B in the UK\. Cover: yaemulli
 
 487 songs - 1 day 1 hr 22 min
 

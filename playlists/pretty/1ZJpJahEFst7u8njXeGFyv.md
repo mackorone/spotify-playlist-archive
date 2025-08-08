@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 301,746 likes - 206 songs - 11 hr 45 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 301,725 likes - 206 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 104 | [Passacaglia](https://open.spotify.com/track/0RAKUbl5xv1S9hNKjZEEGM) | [Silvius Leopold Weiss](https://open.spotify.com/artist/4bRcNJTLwLZmJM598wTQ3A), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Baroque](https://open.spotify.com/album/21RQ5ToNB79hGsqOobGGQi) | 3:36 |
 | 105 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 |
 | 106 | [Dancing Girl](https://open.spotify.com/track/1h0k5c35Bnh63khuMMBfmg) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Dancing Girl](https://open.spotify.com/album/6TzhFFFPfkvsbE392eXZvt) | 2:18 |
-| 107 | [Mozart: Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": II\. Andante](https://open.spotify.com/track/2DjduzmigRUnQz3py7IL7y) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Mozart: Piano Concertos Nos\. 20 & 23](https://open.spotify.com/album/6qAcIqTkOUkMsJMgfdPlIF) | 7:37 |
+| 107 | [Mozart: Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": II\. Andante](https://open.spotify.com/track/2DjduzmigRUnQz3py7IL7y) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Piano Concertos Nos\. 20 & 23](https://open.spotify.com/album/6qAcIqTkOUkMsJMgfdPlIF) | 7:37 |
 | 108 | [Seek Ye First the Kingdom of God](https://open.spotify.com/track/2JV6wz5dI1D0aAkqu0esS5) | [Kerensa Briggs](https://open.spotify.com/artist/36QRQEhytT1w0kRiF3g27b), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Pembroke College Girls' Choir](https://open.spotify.com/artist/4RjmJe64qNsx1mZ6rbEfdm) | [Seek Ye First the Kingdom of God](https://open.spotify.com/album/0AbC6txfANKbO9l3uGh2vj) | 3:39 |
 | 109 | [Mozart Variation \(After Serenade, K\. 250 "Haffner", IV\. Rondo, Arr\. for Cello & Piano by Florian Christl\)](https://open.spotify.com/track/2rXH5TICnz91VHpu3Cm7Kv) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Donau](https://open.spotify.com/album/1MIckvXYkU0YUVvALN8e5S) | 3:46 |
 | 110 | [Loiste](https://open.spotify.com/track/0QnFEI5XPIXcBdTXglZ6Za) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Loiste](https://open.spotify.com/album/2M4uM2dAm17xuLzVJkz31X) | 3:05 |

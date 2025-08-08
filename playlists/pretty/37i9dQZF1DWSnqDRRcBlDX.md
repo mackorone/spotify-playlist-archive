@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,615 likes - 53 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,645 likes - 53 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head Remix](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
+| 1 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
 | 2 | [Maxed Out](https://open.spotify.com/track/2g168jCE2KtGOqNBdsYMew) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Maxed Out](https://open.spotify.com/album/6OHBHRoeKEkWBfxTl8KFqx) | 4:40 |
 | 3 | [Offbeat](https://open.spotify.com/track/4rGkLTgvTSnxAPy2wv3YRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Offbeat](https://open.spotify.com/album/1fCXa4ozWDMabkrxEnQJqh) | 3:12 |
 | 4 | [Witch Doctor \- Original Mix](https://open.spotify.com/track/5tjPpvhaP6WAhTdTWnZVta) | [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Dance With Me EP](https://open.spotify.com/album/7yM16V22VOujgezbM9bUHg) | 4:45 |

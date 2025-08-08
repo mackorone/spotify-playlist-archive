@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-205 songs - 10 hr 3 min
+206 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Epic](https://open.spotify.com/track/5czjqNKeKd6OXtcAPbk0q3) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Epic](https://open.spotify.com/album/4quIQ7VD5BYDLHoxNtHiV7) | 6:00 | 2025-07-04 |  |
 | [Etherea](https://open.spotify.com/track/5vQDdjHZsDxjpwFWbRsm4j) | [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [Codex \(SE\)](https://open.spotify.com/artist/0ed869ffeQUBRGOzY4X6R1), [NYROK](https://open.spotify.com/artist/4mkWUMA2i9eUXRoYaDVU0K) | [Etherea](https://open.spotify.com/album/0Zx7ss8cm1q6YXgfSx48ZQ) | 2:23 | 2025-07-04 |  |
 | [Everybody Look At Me](https://open.spotify.com/track/5odpU95r6mdtsrXsIxmWZ9) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Everybody Look At Me](https://open.spotify.com/album/3CGCXannQVGNEuHPJeInGV) | 2:47 | 2025-07-04 |  |
+| [Everything You Lose](https://open.spotify.com/track/0QVTPuGx5wdqTEFWXTBepm) | [Kevin Krissen](https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI) | [Everything You Lose](https://open.spotify.com/album/2HDkvp03BYJme0qmAgYEOn) | 2:52 | 2025-08-07 |  |
 | [Everytime We Touch \- Hardwell & Maurice West Remix](https://open.spotify.com/track/18rHGxr6QDiPieSTo7cUGL) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Everytime We Touch \(Hardwell & Maurice West Remix\)](https://open.spotify.com/album/0W0mU1rqKCMXcSoVpdyt6y) | 3:36 | 2025-07-04 |  |
 | [Explode](https://open.spotify.com/track/04ErJiS734u76JgX5JQayC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Explode](https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o) | 2:39 | 2025-07-04 |  |
 | [Falling In Love](https://open.spotify.com/track/0g8rn0azEcvWojLccplzek) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [YAMATOMAYA](https://open.spotify.com/artist/3lAEEPnjKxzI5BTK4hZy7D) | [Falling In Love](https://open.spotify.com/album/2g6HVNNSJsxfzwXqE6hdwP) | 2:20 | 2025-07-04 |  |

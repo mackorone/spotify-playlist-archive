@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,772 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,784 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 6 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
 | 7 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
 | 8 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
-| 9 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
-| 10 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
+| 9 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
+| 10 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
 | 11 | [Slippin'](https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Flesh Of My Flesh, Blood Of My Blood](https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T) | 5:05 |
 | 12 | [Waiting In Vain](https://open.spotify.com/track/1waOqfmEVkVC8WhaIP6uGI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 4:16 |
 | 13 | [I Gotta Find Peace of Mind \- Live](https://open.spotify.com/track/6ocxCGYgcmZhCeTT1yuNkt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 9:18 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 37 | [Make Me Whole](https://open.spotify.com/track/6nVWopkV9TK2YR7HZUh8oS) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Infinite Possibilities](https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL) | 4:30 |
 | 38 | [Selah](https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Divine Secrets Of The Ya\-Ya Sisterhood \- Music From The Motion Picture](https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ) | 5:54 |
 | 39 | [Find Me](https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 4:17 |
-| 40 | [What You Gave Me](https://open.spotify.com/track/1yrZ0GevGt5HwBGH16MGBg) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Easy](https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ) | 2:47 |
-| 41 | [No Woman No Cry \(Instrumental Version\)](https://open.spotify.com/track/21vKvJCRwHNw5c44CYSf7s) | [United Guitar Players](https://open.spotify.com/artist/0s7lr7BVm37JcjR9zNHRDx) | [Instrumental Bob Marley Renditions on Spanish Acoustic Guitars: Reggae Legend](https://open.spotify.com/album/3ThiyzIJh5ZBEyOnHNJ8DN) | 8:02 |
+| 40 | [No Woman No Cry \(Instrumental Version\)](https://open.spotify.com/track/21vKvJCRwHNw5c44CYSf7s) | [United Guitar Players](https://open.spotify.com/artist/0s7lr7BVm37JcjR9zNHRDx) | [Instrumental Bob Marley Renditions on Spanish Acoustic Guitars: Reggae Legend](https://open.spotify.com/album/3ThiyzIJh5ZBEyOnHNJ8DN) | 8:02 |
+| 41 | [What You Gave Me](https://open.spotify.com/track/1yrZ0GevGt5HwBGH16MGBg) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Easy](https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ) | 2:47 |
 | 42 | [Black Woman](https://open.spotify.com/track/5tyD0d7gkhtVtiDZibjzem) | [Danielle Brooks](https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE) | [Black Woman](https://open.spotify.com/album/3Ek8F9NkwDbwcHGGw326Kb) | 4:09 |
 | 43 | [The Passion](https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Passion Of The Christ: Songs](https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF) | 5:45 |
 | 44 | [I Loves You, Porgy](https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina with Strings](https://open.spotify.com/album/1wAn07zcivIIKWKAg2xIry) | 4:03 |

@@ -1,12 +1,12 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Coolie",
-  "num_followers": 1002000,
+  "num_followers": 1002358,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJkoJOjmdA+/ErNwoa5qyc6km0jD",
+  "snapshot_id": "AAAAACt6g7/Kv1ZTsyiJ2BnMp7unV+zj",
   "tracks": [
     {
       "added_at": "2025-07-22 08:55:39",
@@ -61,6 +61,26 @@
       "url": "https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv"
     },
     {
+      "added_at": "2025-07-31 11:22:52",
+      "album": {
+        "name": "Powerhouse (From \"Coolie\") (Tamil)",
+        "url": "https://open.spotify.com/album/3svQjZx5MHmoarQ5iTJMMG"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "duration_ms": 206627,
+      "name": "Powerhouse (From \"Coolie\") (Tamil)",
+      "url": "https://open.spotify.com/track/4ipcv9eHC6w5xKXxX0Z1Zu"
+    },
+    {
       "added_at": "2025-03-27 11:29:27",
       "album": {
         "name": "Kannadi Poove (From \"Retro\")",
@@ -81,10 +101,10 @@
       "url": "https://open.spotify.com/track/4tJz5wXpwIvG2KMKPbYWwz"
     },
     {
-      "added_at": "2025-07-31 11:22:52",
+      "added_at": "2025-08-07 06:01:01",
       "album": {
-        "name": "Powerhouse (From \"Coolie\") (Tamil)",
-        "url": "https://open.spotify.com/album/3svQjZx5MHmoarQ5iTJMMG"
+        "name": "Coolie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1"
       },
       "artists": [
         {
@@ -92,13 +112,13 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
         }
       ],
-      "duration_ms": 206627,
-      "name": "Powerhouse (From \"Coolie\") (Tamil)",
-      "url": "https://open.spotify.com/track/4ipcv9eHC6w5xKXxX0Z1Zu"
+      "duration_ms": 114314,
+      "name": "Mobsta",
+      "url": "https://open.spotify.com/track/6Ce0KCbllK0WknIK2YIafx"
     },
     {
       "added_at": "2025-07-28 05:57:30",
@@ -1151,30 +1171,6 @@
       "duration_ms": 167272,
       "name": "Jujubee",
       "url": "https://open.spotify.com/track/4nrIa48GgXzNks6NvqVIOX"
-    },
-    {
-      "added_at": "2022-11-05 12:13:52",
-      "album": {
-        "name": "Ranjithame (From \"Varisu\")",
-        "url": "https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W"
-      },
-      "artists": [
-        {
-          "name": "Thalapathy Vijay",
-          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
-        },
-        {
-          "name": "M.M.Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Ranjithame (From \"Varisu\")",
-      "url": "https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt"
     },
     {
       "added_at": "2023-01-13 06:41:44",

@@ -5460,7 +5460,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-03",
+      "date_removed": null,
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
@@ -35744,7 +35744,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 275235,
       "name": "PISARAD",
       "url": "https://open.spotify.com/track/0IDsFsjysmIHDJujdbPfFo"
@@ -39909,6 +39909,28 @@
     },
     {
       "album": {
+        "name": "senator",
+        "url": "https://open.spotify.com/album/7wovyQmwd6HsKlaNEeG6rz"
+      },
+      "artists": [
+        {
+          "name": "Karl Killing",
+          "url": "https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN"
+        },
+        {
+          "name": "Arop",
+          "url": "https://open.spotify.com/artist/61Qtg6OSjyOGYjv5cpXl40"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "senator",
+      "url": "https://open.spotify.com/track/0c1Vsq1t1ok9Zfkfc9nYlE"
+    },
+    {
+      "album": {
         "name": "Sentimentai",
         "url": "https://open.spotify.com/album/7vlt4TnVHs132OL0a0YE5E"
       },
@@ -41800,7 +41822,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"

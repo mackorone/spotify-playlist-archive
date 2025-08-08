@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-412 songs - 21 hr 21 min
+413 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-15 | 2023-04-05 |
 | [A Stranger's Dead](https://open.spotify.com/track/4RNq7VT5sbe9S5V0b4wEr8) | [CADMIUM](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [A Stranger's Dead](https://open.spotify.com/album/0X0e1tO8ddrWM54cUVGpoH) | 5:18 | 2023-08-10 |  |
 | [About Me](https://open.spotify.com/track/5hiatfPmopoExZRZ2O1g5S) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/1WeVEXpJ5649s2XA0WBN0i) | 2:34 | 2022-02-03 | 2022-09-15 |
+| [akina](https://open.spotify.com/track/177BaRPFyShVUsqPSoO8nw) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB) | [akina](https://open.spotify.com/album/22KmAzAlwdTa2td0bUKOtQ) | 2:56 | 2025-08-07 |  |
 | [AKTIV](https://open.spotify.com/track/1Ss0ujwVKBM2j6VrKtgj3W) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [AKTIV](https://open.spotify.com/album/5DLiNZwFKKIRU8yZVwvE7b) | 2:37 | 2023-11-02 |  |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 | 2023-08-11 |
 | [All I Need](https://open.spotify.com/track/3Wt6ZGLHnKTPT2emFjvRJo) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [All I Need](https://open.spotify.com/album/3TBi6eBO6EGHrf1W9H9ZvQ) | 2:39 | 2025-07-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Tyler, The Creator",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Chappell Roan",
   "name": "Hot Hits Japan: \u6d0b\u697d&\u90a6\u697d\u30d2\u30c3\u30c4",
   "tracks": [
     {
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -2812,6 +2812,24 @@
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
+    },
+    {
+      "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161949,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF"
     },
     {
       "album": {
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 216773,
       "name": "GOD_i",
       "url": "https://open.spotify.com/track/2REuPca3RprQpdYiEMnDA1"
@@ -3778,6 +3796,40 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
       "album": {
@@ -4042,7 +4094,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 270497,
       "name": "Hachik\u014d",
       "url": "https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh"
@@ -5426,7 +5478,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -5948,6 +6000,24 @@
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260778,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
     },
     {
       "album": {
@@ -9873,6 +9943,28 @@
     },
     {
       "album": {
+        "name": "Summer Ride (feat. \u00a5ellow Bucks)",
+        "url": "https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "Summer Ride - feat. \u00a5ellow Bucks",
+      "url": "https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6"
+    },
+    {
+      "album": {
         "name": "Two Moon",
         "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
@@ -10409,6 +10501,24 @@
     },
     {
       "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "album": {
         "name": "THE UNION",
         "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
       },
@@ -10478,7 +10588,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 131097,
       "name": "THIS IS FOR",
       "url": "https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa"
@@ -11802,7 +11912,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 247040,
       "name": "\u3042\u308b\u672a\u6765\u3088\u308a\u611b\u3092\u8fbc\u3081\u3066",
       "url": "https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG"
@@ -13650,6 +13760,24 @@
       "duration_ms": 170306,
       "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
       "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
+    },
+    {
+      "album": {
+        "name": "\u5e55\u304c\u4e0a\u304c\u308b",
+        "url": "https://open.spotify.com/album/7EMnnvi7tiuruBRbW9Zr92"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282586,
+      "name": "\u5e55\u304c\u4e0a\u304c\u308b",
+      "url": "https://open.spotify.com/track/4yJgSqf89poSNC6zIAwMQP"
     },
     {
       "album": {

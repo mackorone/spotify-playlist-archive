@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 187618,
       "name": "getting over you",
       "url": "https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK"
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 173203,
       "name": "New Me",
       "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
@@ -6972,7 +6972,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 248551,
       "name": "Summer of 69 (Classic Version)",
       "url": "https://open.spotify.com/track/45sqV0WhglbGJswa6SiC0v"
@@ -8449,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "The Sofa",
+        "url": "https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269826,
+      "name": "White Horses",
+      "url": "https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe"
+    },
+    {
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/386OkomCq7KFjusVqI1E78"
       },
@@ -8612,6 +8630,24 @@
       "duration_ms": 178480,
       "name": "Years In The Making",
       "url": "https://open.spotify.com/track/7e4jhsoV4urOVVZOS6112k"
+    },
+    {
+      "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230786,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 ### [New Music Friday Norway](https://open.spotify.com/playlist/37i9dQZF1DWV3RrjH1jDkx)
 
-> Endelig fredag og ny musikk fra bla\. Bausa!🎵
+> Endelig fredag og ny musikk fra bla\. Highasakite og Rakkere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,216 likes - 106 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,214 likes - 106 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 105 | [Let them be](https://open.spotify.com/track/5RMf7DHsnRyHKMcd2nuIK2) | [Elvic Kongolo](https://open.spotify.com/artist/0IsOtNddzfQdIzRzbumT4q) | [Let them be](https://open.spotify.com/album/5Rw7JA52Xg6LKW3HzLv7EV) | 4:48 |
 | 106 | [Evig lover girl](https://open.spotify.com/track/5NSOqQj1hhuxj6biZx06h9) | [Ingrid Holm Andersen](https://open.spotify.com/artist/3Jc2p3WO7tmqXvymKkcTxS) | [Evig lover girl](https://open.spotify.com/album/7lNhLIJwzUshfOUSxXvLjQ) | 3:15 |
 
-Snapshot ID: `AAAAAFw5E3CIc/FeqpqJFeLEi8nEJGrY`
+Snapshot ID: `AAAAAOHpfMtQlSdf1q5P9fAFL2u8nlR5`

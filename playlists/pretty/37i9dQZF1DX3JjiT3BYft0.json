@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG06T3P40/nnyxt1tmcjYtMrBgGK",
+  "snapshot_id": "AAAAAOKJh79aQW1T4BNEYr4z2tul18Ss",
   "tracks": [
     {
       "added_at": "2025-07-22 15:07:19",
@@ -871,8 +871,8 @@
     {
       "added_at": "2025-07-22 15:07:19",
       "album": {
-        "name": "\u4e21\u7ffc\u306eBrilliance",
-        "url": "https://open.spotify.com/album/5AtHehANdflNwC5rcEyfsW"
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 239900,
-      "name": "\u4e21\u7ffc\u306eBrilliance",
-      "url": "https://open.spotify.com/track/7IV0vuX4nTrPxH08lNrZ0Q"
+      "duration_ms": 255000,
+      "name": "\u8a93\u3044\u306eWingbeat",
+      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
     },
     {
       "added_at": "2025-07-22 15:07:19",
@@ -951,8 +951,8 @@
     {
       "added_at": "2025-07-22 15:07:19",
       "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+        "name": "\u4e21\u7ffc\u306eBrilliance",
+        "url": "https://open.spotify.com/album/5AtHehANdflNwC5rcEyfsW"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 255000,
-      "name": "\u8a93\u3044\u306eWingbeat",
-      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+      "duration_ms": 239900,
+      "name": "\u4e21\u7ffc\u306eBrilliance",
+      "url": "https://open.spotify.com/track/7IV0vuX4nTrPxH08lNrZ0Q"
     },
     {
       "added_at": "2025-07-22 15:07:19",
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2025-07-22 15:07:19",
       "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
-      },
-      "artists": [
-        {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
-        }
-      ],
-      "duration_ms": 211366,
-      "name": "Glee! Glee! Glee!",
-      "url": "https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz"
-    },
-    {
-      "added_at": "2025-07-22 15:07:19",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
-        "url": "https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY"
-      },
-      "artists": [
-        {
-          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
-          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
-      "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
-    },
-    {
-      "added_at": "2025-07-22 15:07:19",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
         "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
       },
@@ -1095,6 +1063,22 @@
     {
       "added_at": "2025-07-22 15:07:19",
       "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 211366,
+      "name": "Glee! Glee! Glee!",
+      "url": "https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz"
+    },
+    {
+      "added_at": "2025-07-22 15:07:19",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
         "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 293600,
       "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
       "url": "https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM"
+    },
+    {
+      "added_at": "2025-07-22 15:07:19",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
+        "url": "https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY"
+      },
+      "artists": [
+        {
+          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
+          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
+      "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
     },
     {
       "added_at": "2025-07-22 15:07:19",

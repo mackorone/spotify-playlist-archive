@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover: Tame Impala
+> New music off the beaten track\. Cover: Night Tapes
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,275 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,217 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Capitano](https://open.spotify.com/track/4pTrGFlIPod369GdkPxjE8) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Capitano](https://open.spotify.com/album/0IylAaIF8mMvcKCcDVaA1l) | 3:35 |
 | 75 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 |
 
-Snapshot ID: `AAAAAOsA1MheS8l7B0ShuaiKbmHnyVJN`
+Snapshot ID: `AAAAABsfFErB7PytJfq0FCcMD16OoIba`

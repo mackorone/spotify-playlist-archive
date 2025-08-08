@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> All the highlights from the world of indie! Cover: Hayley Williams
+> All the highlights from the world of indie! Cover: Hurula
 
 [Spotify](https://open.spotify.com/user/spotify) - 46,863 likes - 139 songs - 7 hr 51 min
 
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 138 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 |
 | 139 | [Lago Maggiore](https://open.spotify.com/track/2QGQO0H2bkgAvRfgfvnxbD) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Nordic Machine](https://open.spotify.com/album/4XHdvDlocx2Kd8VdXVmDpI) | 2:58 |
 
-Snapshot ID: `AAAAALWhU/3hNmXi0GkOaoUGO3me6hY/`
+Snapshot ID: `AAAAAFpYvUqo1FEUaoT84pl1M/6U2GKq`

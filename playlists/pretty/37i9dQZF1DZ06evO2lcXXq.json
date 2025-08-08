@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 366746,
+  "num_followers": 366766,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACVWiiU2B8qDL/ab0vr2A8H",
+  "snapshot_id": "aJKbAAAAAAD2qtsJJ6B8cSsmsBPnS3l9",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let It Be A Hallelujah",
+        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Let It Be A Hallelujah",
+      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Won't Let You Go",
         "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
@@ -227,26 +243,6 @@
       "duration_ms": 247422,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 319574,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
     },
     {
       "added_at": null,
@@ -283,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Be A Hallelujah",
-        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
       "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Let It Be A Hallelujah",
-      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
+      "duration_ms": 319574,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
     },
     {
       "added_at": null,

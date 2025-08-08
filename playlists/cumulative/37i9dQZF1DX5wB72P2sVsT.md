@@ -2,9 +2,9 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Trinix au top des bangers dance/electro du moment !
+> BLACKPINK au top des bangers dance/electro du moment !
 
-284 songs - 13 hr 4 min
+285 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2024-11-07 | 2025-04-18 |
 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 | 2025-01-30 | 2025-08-01 |
 | [A Girl Like You](https://open.spotify.com/track/0hh94JJOOvvgugZUWWQxcr) | [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl) | [A Girl Like You](https://open.spotify.com/album/1djjUIth4cI84ZmyvvGJUb) | 2:31 | 2025-03-20 |  |
+| [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2025-08-07 |  |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-04-25 | 2024-11-30 |
 | [Akon's Beautiful Day \- David Guetta & Hypaton Remix](https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Akon's Beautiful Day \(David Guetta & Hypaton Remix\)](https://open.spotify.com/album/1jXTJXYCsFXQ5cdHEPgE06) | 2:55 | 2025-01-23 | 2025-02-28 |
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-02-15 | 2024-09-20 |
@@ -75,7 +76,7 @@
 | [Disconnected](https://open.spotify.com/track/0elPKqkYWPPuhpaKAj1fPP) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Disconnected](https://open.spotify.com/album/4VQAVGBcC2gPvo3CyLlgrT) | 2:42 | 2023-11-09 | 2023-12-01 |
 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 | 2023-12-21 | 2024-06-15 |
 | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/track/0GaelwSoQDKjwoE16jxwNo) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/album/0CjeKexsHa6yFv7X43qJ4d) | 2:39 | 2024-12-12 | 2025-03-14 |
-| [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-04-17 |  |
+| [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-04-17 | 2025-08-08 |
 | [Dream A Little Dream](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Dream A Little Dream](https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B) | 2:56 | 2025-06-26 |  |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-09-28 | 2024-01-26 |
 | [Drink And Shout](https://open.spotify.com/track/6V5LMAIGNd7qMjco5JjUSa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Drink And Shout](https://open.spotify.com/album/3osV0Sq28dZop5Db7ugcwi) | 2:18 | 2023-09-28 | 2024-06-01 |

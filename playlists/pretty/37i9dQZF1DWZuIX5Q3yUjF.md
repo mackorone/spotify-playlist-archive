@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Shablo in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,978 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,982 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 99 | [Non è fortuna](https://open.spotify.com/track/4anVhqcUQ6meMRdz8PYFUy) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:57 |
 | 100 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 |
 
-Snapshot ID: `AAAAANys6TS8sR8AOQNh1PvFm9/7ZvWW`
+Snapshot ID: `AAAAAOsd72s9JeGKWvfVHEG2AI+FAzSG`

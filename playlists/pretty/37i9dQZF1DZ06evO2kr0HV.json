@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 40019,
+  "num_followers": 40028,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAACHZ19PnOxh6Tds4argWTyR",
+  "snapshot_id": "aJKbAAAAAAB0gPlcMv9SoShoEhULqEgX",
   "tracks": [
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUALIDAD",
-        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 201499,
-      "name": "DUALIDAD - feat. Esteman",
-      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
+      "duration_ms": 212066,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
     },
     {
       "added_at": null,
@@ -871,18 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "DUALIDAD",
+        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
       },
       "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 212066,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
+      "duration_ms": 201499,
+      "name": "DUALIDAD - feat. Esteman",
+      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
     },
     {
       "added_at": null,

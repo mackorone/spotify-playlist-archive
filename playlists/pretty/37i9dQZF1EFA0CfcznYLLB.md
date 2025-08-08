@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,792 likes - 302 songs - 15 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,793 likes - 302 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 97 | [HUNCHO DREAMS](https://open.spotify.com/track/7pVzUPjJ83QojsVcOthmxP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:31 |
 | 98 | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/track/2AQHxIuLPdPGrvTtgHFASi) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/album/1TZIM1JxgnT70zR84YmM57) | 3:27 |
 | 99 | [Mad Russian \(feat\. Lil Skies\)](https://open.spotify.com/track/764OUqC5YJuYJ9wazz9LtP) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Evil Genius](https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX) | 2:21 |
-| 100 | [Keep Your Head Up](https://open.spotify.com/track/139C1eNXDfqJ3EFy6SgZAf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [!](https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y) | 3:23 |
-| 101 | [DOCTORS](https://open.spotify.com/track/4skjbY4ZWLhgMrEq6FNsFN) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 3:01 |
+| 100 | [DOCTORS](https://open.spotify.com/track/4skjbY4ZWLhgMrEq6FNsFN) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 3:01 |
+| 101 | [Keep Your Head Up](https://open.spotify.com/track/139C1eNXDfqJ3EFy6SgZAf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [!](https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y) | 3:23 |
 | 102 | [Big League \(Yo Gotti, Moneybagg Yo feat\. Mozzy, Lil Poppa\)](https://open.spotify.com/track/36TN3GcQlBwl4HB1vx9xMi) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Gangsta Art](https://open.spotify.com/album/662ITvCGsuxgtsDf5JJF8f) | 2:43 |
 | 103 | [Running Outta Love](https://open.spotify.com/track/1aSTn7F9RUijD31mAzjlQx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heart Break Kodak \(HBK\)](https://open.spotify.com/album/0U578dQAanKmYDKCvqk2P3) | 3:45 |
 | 104 | [No Budget \(feat\. Rich The Kid\)](https://open.spotify.com/track/5EW6akmTVku8RFAqfV6FpY) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Missed Calls](https://open.spotify.com/album/3xqJtp0XRdgFuvipOOCKX9) | 3:17 |
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 301 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 302 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `Ab4z0AAAAABvJTUvWB4TEVGjJaUGInz/`
+Snapshot ID: `Ab45ZgAAAACgE+1AuiRiA+AqG32FZp8+`

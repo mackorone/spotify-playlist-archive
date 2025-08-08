@@ -4,7 +4,7 @@
 
 > 
 
-20 songs - 1 hr 2 min
+21 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Need to know \(interlude\)](https://open.spotify.com/track/4pQghLNZWaZGGRYjd9z0Fq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Tell me!! with Need to know \(interlude\)](https://open.spotify.com/album/6sNO1w7Zpng9whJLeSiHQs) | 2:17 | 2024-12-06 |  |
 | [Need to know \- interlude](https://open.spotify.com/track/2lCCGZn7AVqAF36VKx9mlR) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:12 | 2025-03-20 |  |
 | [Out of stock \(Do what you gotta!\)](https://open.spotify.com/track/5qDDpvcDmO4oqlkp5H2xab) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:44 | 2025-03-20 |  |
+| [RUSH.](https://open.spotify.com/track/4uwkafvVxUWQF4tY0szToe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [RUSH.](https://open.spotify.com/album/6xxcZKAWFVtvFoyEIBpHKi) | 4:01 | 2025-08-07 |  |
 | [secrets](https://open.spotify.com/track/2PSuXiDUKWNBrsNBJegXF2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 | 2024-12-06 |  |
 | [secrets \- instrumental](https://open.spotify.com/track/5DN9xEZw2BKshKCTYkokba) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 | 2024-12-06 |  |
 | [secrets \- natural accent version](https://open.spotify.com/track/0n0NOHtckswKyJWlP3r7aj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 | 2024-12-06 |  |

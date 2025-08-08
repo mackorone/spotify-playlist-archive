@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 428857,
+  "num_followers": 428868,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 302280,
       "name": "Sigo Caminando",
       "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Artificio",
-        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Tan temperamental",
-      "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
         "name": "Quiero Mejor",
         "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 264053,
       "name": "Cu\u00eddame",
       "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Tan temperamental",
+      "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Tardes de Melancol\u00eda",
-      "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
         "name": "Un Amor Que Se Termina",
         "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 195346,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Tardes de Melancol\u00eda",
+      "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Es Broma, En Serio",
-        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Es Broma, En Serio",
-      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
         "name": "BOLERo LIBRA",
         "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 172687,
       "name": "BOLERo LIBRA",
       "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
+        "name": "Es Broma, En Serio",
+        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Es Broma, En Serio",
+      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1371,34 +1371,18 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB"
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
         }
       ],
-      "duration_ms": 369000,
-      "name": "Sonhos",
-      "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"
-    },
-    {
-      "added_at": "2025-08-01 15:27:21",
-      "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 291008,
-      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2025-08-01 15:27:21",
@@ -1419,18 +1403,34 @@
     {
       "added_at": "2025-08-01 15:27:21",
       "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+      "duration_ms": 291008,
+      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
+    },
+    {
+      "added_at": "2025-08-01 15:27:21",
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 369000,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"
     },
     {
       "added_at": "2025-08-01 15:27:21",

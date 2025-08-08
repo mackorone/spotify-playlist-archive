@@ -1663,6 +1663,28 @@
     },
     {
       "album": {
+        "name": "HEARTBROKEN",
+        "url": "https://open.spotify.com/album/6KwJEV8Z9Zy4HtAHqy6jKV"
+      },
+      "artists": [
+        {
+          "name": "Achtabahn",
+          "url": "https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5"
+        },
+        {
+          "name": "ART",
+          "url": "https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116065,
+      "name": "HEARTBROKEN",
+      "url": "https://open.spotify.com/track/6RiVW19zzZYS1N9Z2F1IM0"
+    },
+    {
+      "album": {
         "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
         "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
       },
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 167889,
       "name": "Let me love you",
       "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
@@ -2602,6 +2624,24 @@
       "duration_ms": 177123,
       "name": "Liebst du mich",
       "url": "https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY"
+    },
+    {
+      "album": {
+        "name": "Ljubim te",
+        "url": "https://open.spotify.com/album/2zzuR8Lo7vAQa1BIOv56dt"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125807,
+      "name": "Ljubim te",
+      "url": "https://open.spotify.com/track/5eei53cPg1Q8m3LMuO3ydu"
     },
     {
       "album": {
@@ -4457,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Was war das",
+        "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
+      },
+      "artists": [
+        {
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160448,
+      "name": "Was war das",
+      "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
+    },
+    {
+      "album": {
         "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
         "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
       },
@@ -4530,7 +4588,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 150880,
       "name": "Wegen dir",
       "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
@@ -4742,7 +4800,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 169360,
       "name": "Wo willst du hin",
       "url": "https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5"

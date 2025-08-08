@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Team Paiya
+> African dance party music from the continent to Paris\. Photo : Serge Beynaud
 
-243 songs - 13 hr 28 min
+244 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Blô blô](https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Blô blô](https://open.spotify.com/album/5yuQacRLQLbtFRlDhaJM0t) | 3:30 | 2021-12-20 | 2022-05-27 |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2021-12-20 | 2023-04-07 |
 | [C'est Dieu](https://open.spotify.com/track/0lzg8WWNBXrp6IAcMNGU54) | [Confirmé Manadja](https://open.spotify.com/artist/0Ay3wxcNxGlLwwZe6KOcpY), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'est Dieu](https://open.spotify.com/album/5pDcPJPOZzUkE4dPqoxHzV) | 3:22 | 2023-02-16 | 2023-06-16 |
-| [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 |  |
+| [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 | 2025-08-08 |
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 | 2023-11-17 |
 | [C'est le moment](https://open.spotify.com/track/2MOlw94ecEZ2ZfaXstl3KG) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [C'est le moment](https://open.spotify.com/album/7KfEmS33up7GwkaeGi5wLx) | 4:34 | 2025-05-01 |  |
 | [C'est pour les grands](https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm) | [Lionell](https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe) | [C'est pour les grands](https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc) | 3:36 | 2024-04-11 | 2024-05-03 |
@@ -61,6 +61,7 @@
 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 | 2023-12-21 | 2025-05-30 |
 | [Coupé Décalé SuperSonic](https://open.spotify.com/track/3WaX1ciQMCAuI9kAD8xpTQ) | [David Tayorault](https://open.spotify.com/artist/5fGgmiJ78nMM0AnnbdqBcO), [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Coupé Décalé SuperSonic](https://open.spotify.com/album/2zj72TEqodhRAAPb4ngQ0q) | 3:26 | 2023-01-26 | 2023-03-25 |
 | [CPLM](https://open.spotify.com/track/1nMW4kWWNlCdZ5YWoUURm8) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Mozard Letagnroter](https://open.spotify.com/artist/6gpi6KpAKEKb5YBHLKxOEo) | [OMNI](https://open.spotify.com/album/7IdUJMA4X3IzzrQeWfMJJ4) | 3:07 | 2022-12-01 | 2023-06-16 |
+| [Créatair \(Dokui\)](https://open.spotify.com/track/3icNhDoAQVBPtBe8NcoQnt) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Créatair](https://open.spotify.com/album/6NLn3piJhLvA01cVl6Ytk0) | 2:53 | 2025-08-07 |  |
 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/2FHdjSKM2QJ4S1LJIaWHH1) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5I4B1XJgKp8k6HLm6RADCS) | 2:46 | 2023-11-09 | 2023-12-22 |
 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5oT182GLec59tXn1Glc3hI) | 2:46 | 2023-11-09 | 2023-11-12 |
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |

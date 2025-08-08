@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 120341,
+  "num_followers": 120370,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJFJgAAAAAA/tUd1X/Nz6AEJc8kintWe",
+  "snapshot_id": "aJKbAAAAAABVmoWFeOSRr6SmHTkqssst",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 321243,
-      "name": "'Tis Autumn - Mono",
-      "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
+      "duration_ms": 319092,
+      "name": "If You Could See Me Now - Mono",
+      "url": "https://open.spotify.com/track/2d1rjlkbvXPET5Rf4Ovl1r"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 319092,
-      "name": "If You Could See Me Now - Mono",
-      "url": "https://open.spotify.com/track/2d1rjlkbvXPET5Rf4Ovl1r"
+      "duration_ms": 321243,
+      "name": "'Tis Autumn - Mono",
+      "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riverside Profiles: Chet Baker",
-        "url": "https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet (Mono)",
         "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 276827,
       "name": "You'd Be So Nice To Come Home To - Mono",
       "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riverside Profiles: Chet Baker",
+        "url": "https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome Back",
         "url": "https://open.spotify.com/album/64oKnsbQfhkpmjACvSvKUM"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 232293,
       "name": "Welcome Back",
       "url": "https://open.spotify.com/track/3Qs8OE0dIjAq4TQRnUWuEI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": null,

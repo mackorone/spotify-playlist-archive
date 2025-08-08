@@ -4,7 +4,7 @@
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! ©臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2025
 
-43 songs - 2 hr 42 min
+44 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [少年よ 嘘をつけ!](https://open.spotify.com/track/0vS2O49M0kUZCHQIyI10KA) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [少年よ 嘘をつけ!](https://open.spotify.com/album/0CvqNTdZMZbW5b5pQ0R6jo) | 4:38 | 2023-08-03 |  |
 | [希望山脈](https://open.spotify.com/track/4qznC3GkC2Tr1VBXKPg0lz) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [希望山脈](https://open.spotify.com/album/2oZzO3qIV95g6SHzOuFl5I) | 3:55 | 2023-08-03 |  |
 | [思い出をかけぬけて](https://open.spotify.com/track/6tJFjFarvig3AqDNqeH8Yy) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [ghosts](https://open.spotify.com/album/56Vj2K6rfWoPwLHnF9KUWv) | 3:51 | 2024-08-01 |  |
+| [映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ](https://open.spotify.com/track/2GYVhVkXc4UADWWi9f4qRc) | [クレヨンしんちゃん／Saucy Dog](https://open.spotify.com/artist/154ZGlUsIFIhsqV5bPTfDw) | [映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ](https://open.spotify.com/album/7DjjJbp9LDDIEqiMYyT31p) | 1:09 | 2025-08-07 |  |
 | [笑一笑　～シャオイーシャオ！～](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 ～シャオイーシャオ!～](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 | 2023-07-30 |  |
 | [陽はまた昇るから](https://open.spotify.com/track/1dRpScsBwVPG7c57gx5dSY) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/2UFCuaFyUfOuudIuzQRNeB) | 4:26 | 2023-07-30 |  |
 

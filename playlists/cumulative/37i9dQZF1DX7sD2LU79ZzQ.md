@@ -2,7 +2,7 @@
 
 ### [Naik Daun](https://open.spotify.com/playlist/37i9dQZF1DX7sD2LU79ZzQ)
 
-> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Deborah Hanna
+> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Xeva Al Gazel
 
 1,027 songs - 2 day 18 hr 10 min
 

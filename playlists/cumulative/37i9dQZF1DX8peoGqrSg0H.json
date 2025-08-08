@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 256363,
       "name": "224 - 11 Version",
       "url": "https://open.spotify.com/track/3n5MLDvuUqHv9szooWnr2B"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 270026,
       "name": "BOSS IN THE BUILDING",
       "url": "https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn"
@@ -1745,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "BEST FRIEND OF THE YEAR",
+        "url": "https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213391,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/24Q8dCjtxjw1TWEKLmtmed"
+    },
+    {
+      "album": {
         "name": "IWBYBF (Original Soundtrack from \"BE MY BOYFRIENDS 2 - ROSE IN DA HOUSE\")",
         "url": "https://open.spotify.com/album/0MaIRb1qHAY6EWPS1pIEVn"
       },
@@ -1852,6 +1874,24 @@
       "duration_ms": 130231,
       "name": "Keep a Secret",
       "url": "https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei"
+    },
+    {
+      "album": {
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/2m66Q3umrj3DiZphk8HpbQ"
+      },
+      "artists": [
+        {
+          "name": "Wizzle",
+          "url": "https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238113,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/7pACeDeY7q0eom7sFfiVHy"
     },
     {
       "album": {
@@ -2316,7 +2356,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 229859,
       "name": "Moonlight - From \"\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d Only You\"",
       "url": "https://open.spotify.com/track/1RoQ4rXuqDcRRD317ZzIuO"
@@ -2490,7 +2530,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 189575,
       "name": "No, Thanks",
       "url": "https://open.spotify.com/track/1xWL6T7rMwIxw39tv8JGVp"
@@ -2638,7 +2678,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 177999,
       "name": "Our Night - Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
       "url": "https://open.spotify.com/track/0zWwwgSpuCyNMqUwy4EzjE"
@@ -7895,6 +7935,28 @@
     },
     {
       "album": {
+        "name": "\u0e1f\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d (Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series)",
+        "url": "https://open.spotify.com/album/6e6Aj5vUrDPwsoKnzqbF0M"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        },
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "\u0e1f\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d - Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
+      "url": "https://open.spotify.com/track/4LkHHXt7IztCMK14LL82aI"
+    },
+    {
+      "album": {
         "name": "\u0e20\u0e32\u0e1e\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
         "url": "https://open.spotify.com/album/1luvtdN66wc9HZXNxJQTAk"
       },
@@ -9241,6 +9303,28 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e32\u0e21\u0e1b\u0e32\u0e21 (circus)",
+        "url": "https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296040,
+      "name": "\u0e25\u0e32\u0e21\u0e1b\u0e32\u0e21 (circus)",
+      "url": "https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
         "url": "https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6"
       },
@@ -10208,6 +10292,24 @@
       "duration_ms": 211826,
       "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/5jniDwjvBr0L70gvtLoLE5"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e49\u0e32\u0e21\u0e02\u0e22\u0e31\u0e1a\u0e08\u0e31\u0e1a\u0e19\u0e30 (FREEZE)",
+        "url": "https://open.spotify.com/album/1yrlL8pBuPqzFA2Uvgs5aY"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "\u0e2b\u0e49\u0e32\u0e21\u0e02\u0e22\u0e31\u0e1a\u0e08\u0e31\u0e1a\u0e19\u0e30 (FREEZE)",
+      "url": "https://open.spotify.com/track/5NYqpEONWzzHhM6hAj63W1"
     },
     {
       "album": {
@@ -12208,7 +12310,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 188125,
       "name": "\u0e40\u0e2d\u0e32\u0e2d\u0e22\u0e39\u0e48 - FROM \"PIT BABE THE SERIES 2\"",
       "url": "https://open.spotify.com/track/71ygLDw3mWpArn7T5SObIZ"
@@ -13546,7 +13648,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-08",
       "duration_ms": 178153,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e48\u0e2d\u0e21 (MA OM)",
       "url": "https://open.spotify.com/track/5UN9Yme7Z4kDGNGxA6bYWY"

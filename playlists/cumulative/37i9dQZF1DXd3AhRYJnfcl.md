@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  عمرو دياب
 
-390 songs - 22 hr 46 min
+391 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Balbata](https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Balbata](https://open.spotify.com/album/6peahsqt5fShCKRvSqm6U7) | 2:46 | 2023-07-19 | 2023-10-03 |
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-04-13 | 2022-09-27 |
 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2022-10-03 | 2024-05-08 |
-| [Batmana Ansak بتمنى أنساك](https://open.spotify.com/track/0xGpxSVUIdV7KDuerD8bRA) | [Asma Nour](https://open.spotify.com/artist/124XssaocuYccXwQzZpIXE) | [Batmana Ansak بتمنى أنساك](https://open.spotify.com/album/1FkzvL0LlIlXSGeOIFN93r) | 2:58 | 2024-09-09 |  |
+| [Batmana Ansak بتمنى أنساك](https://open.spotify.com/track/0xGpxSVUIdV7KDuerD8bRA) | [Asma Nour](https://open.spotify.com/artist/124XssaocuYccXwQzZpIXE) | [Batmana Ansak بتمنى أنساك](https://open.spotify.com/album/1FkzvL0LlIlXSGeOIFN93r) | 2:58 | 2024-09-09 | 2025-08-08 |
 | [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 | 2023-05-05 | 2023-06-07 |
 | [Beat بتمايل على ال](https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Beat بتمايل على ال](https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I) | 4:07 | 2023-07-04 | 2023-07-27 |
 | [Bel Ayam](https://open.spotify.com/track/0Qgz51ULTJYW2WM9BIkOCZ) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bel Ayam](https://open.spotify.com/album/2g5ojm2tJGOifaly1tD3UT) | 3:45 | 2024-10-02 | 2025-03-13 |
@@ -293,6 +293,7 @@
 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [هناء يسري](https://open.spotify.com/artist/21mycRtvhUO077yAXgb9H3) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 | 2023-02-07 | 2024-03-19 |
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-06 | 2023-02-14 |
 | [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 | 2024-04-30 |  |
+| [تاني](https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل "الوش الاول"](https://open.spotify.com/album/6R6Mt6nS9EOMUwbxi5FADY) | 2:38 | 2025-08-07 |  |
 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 | 2025-05-13 |  |
 | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/2GbSrRs5VUoKTbnEiqoa4v) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/2om5xx9EYHCw8NPFIP9tnD) | 3:55 | 2024-06-21 | 2024-09-10 |
 | [تيجي نتصور](https://open.spotify.com/track/1nyylMku4Hlheim1suER3t) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 2:46 | 2025-07-18 |  |

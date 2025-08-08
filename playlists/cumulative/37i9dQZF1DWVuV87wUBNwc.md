@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> TRIANGLE DES BERMUDES au sommet de la première playlist de France.
+> J Balvin au sommet de la première playlist de France.
 
 362 songs - 18 hr 24 min
 

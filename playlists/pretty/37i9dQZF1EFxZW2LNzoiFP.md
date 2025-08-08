@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 251 songs - 14 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 252 songs - 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,16 +145,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 135 | [Wilinout](https://open.spotify.com/track/07bVfkubeWBRUFLzKcvqMB) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Wilinout](https://open.spotify.com/album/1tUewhkamOHq1hlREvo4kG) | 3:20 |
 | 136 | [Silly Rabbit](https://open.spotify.com/track/7xEl5JBUiuEmaMxRCFkFGs) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/6hg7Mo8TilEHqwclUD8q9O) | 2:39 |
 | 137 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
-| 138 | [How'd It Get So Real?](https://open.spotify.com/track/4uMLXkEuzsRTcHd4JjwaqX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
-| 139 | [Route 44](https://open.spotify.com/track/0W10s9dFD9kQF6FpuCkVuv) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:34 |
+| 138 | [Route 44](https://open.spotify.com/track/0W10s9dFD9kQF6FpuCkVuv) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:34 |
+| 139 | [How'd It Get So Real?](https://open.spotify.com/track/4uMLXkEuzsRTcHd4JjwaqX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
 | 140 | [Who Do You Love?!](https://open.spotify.com/track/755IXb7BtCjg75SdrMRor7) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Who Do You Love?! // Insecure](https://open.spotify.com/album/5F61DPyTgH4BYALUawqUVD) | 3:31 |
 | 141 | [Wildfire](https://open.spotify.com/track/0a2J1ldF52r3veAXui3MJL) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:40 |
 | 142 | [Summer Sadness](https://open.spotify.com/track/4C75bptwmKumfNf655piPr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:29 |
 | 143 | [Jackie](https://open.spotify.com/track/1pwDBJXeVPRUpdmaHbbV0I) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:01 |
 | 144 | [Charlie](https://open.spotify.com/track/7fkPjpfCAMudsbluRgWXXG) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Charlie](https://open.spotify.com/album/6VqHNOtp3CJlj9ZBDTN9ZU) | 3:40 |
 | 145 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 |
-| 146 | [Prom Dress](https://open.spotify.com/track/07RKsrgVVYNuHjJeI1EVpa) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Prom Dress](https://open.spotify.com/album/4tx8bkWjPjYLNNyzJfqFUq) | 3:07 |
-| 147 | [Spinning Around](https://open.spotify.com/track/351gVsgUdQGkWk1RdlvB9S) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:22 |
+| 146 | [Spinning Around](https://open.spotify.com/track/351gVsgUdQGkWk1RdlvB9S) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:22 |
+| 147 | [Prom Dress](https://open.spotify.com/track/07RKsrgVVYNuHjJeI1EVpa) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Prom Dress](https://open.spotify.com/album/4tx8bkWjPjYLNNyzJfqFUq) | 3:07 |
 | 148 | [See Through](https://open.spotify.com/track/1CwIS81AZJxLQW5ELMKMxS) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [See Through](https://open.spotify.com/album/0MfQcq73bpBV2SxxlKBfnl) | 3:45 |
 | 149 | [Dawn](https://open.spotify.com/track/3CdLGLS43fjWVGjZhipOz7) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:42 |
 | 150 | [Open House](https://open.spotify.com/track/1JDkCStrVPtg6Ni8Z1L3TR) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:52 |
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 172 | [Quiet](https://open.spotify.com/track/4ojR83QBW57NgmFnCgR9gT) | [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Quiet](https://open.spotify.com/album/2A1wpSpxxMBo1VNWRB4eeN) | 3:58 |
 | 173 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 |
 | 174 | [Like a Dream](https://open.spotify.com/track/0pmq1cjqHDBT87pJabXhq1) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Like a Dream](https://open.spotify.com/album/4P7xlrlQlV7Urlf3yZLoOt) | 3:32 |
-| 175 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
-| 176 | [Marigold](https://open.spotify.com/track/4CpewcqnF27xgFe4LWJebp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:03 |
+| 175 | [Marigold](https://open.spotify.com/track/4CpewcqnF27xgFe4LWJebp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:03 |
+| 176 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
 | 177 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
 | 178 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
 | 179 | [Hideaway](https://open.spotify.com/track/26JG8US8oI3U3sdfL6OeA5) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Hideaway](https://open.spotify.com/album/2etUxQYwcWRglGBTSGKYCY) | 4:02 |
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 186 | [Let me down easy](https://open.spotify.com/track/3cpblYc6m7XTXPjvXiEUkt) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:17 |
 | 187 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
 | 188 | [A Wish](https://open.spotify.com/track/03xEUiZCkvWTnDTn737HQ8) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:27 |
-| 189 | [Freak Dreams](https://open.spotify.com/track/49F51032pRZNtEXO92KImJ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:46 |
-| 190 | [Pretty Words](https://open.spotify.com/track/3A6rIUd9uq9ZaEaHkXF7wK) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:38 |
+| 189 | [Pretty Words](https://open.spotify.com/track/3A6rIUd9uq9ZaEaHkXF7wK) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:38 |
+| 190 | [Freak Dreams](https://open.spotify.com/track/49F51032pRZNtEXO92KImJ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:46 |
 | 191 | [Time Glows](https://open.spotify.com/track/2uZ2Od68eVgL0FnuHgXyyD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:59 |
 | 192 | [You and I Dig](https://open.spotify.com/track/6yYC9tYC0hGd6DUdr6PeKW) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:30 |
 | 193 | [ibrokethecode](https://open.spotify.com/track/4xRrD5boVo7KkzJYnrRfxy) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Rage And Purity](https://open.spotify.com/album/4hTyOxDLEtlhgans5HvLyP) | 3:31 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 196 | [Flights](https://open.spotify.com/track/2MMOlxNXHlTescNEAlRGRH) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [London Safari](https://open.spotify.com/album/3wwCsZvjI8VrdS21n5HPdQ) | 3:14 |
 | 197 | [Coda](https://open.spotify.com/track/1Nk4O287pOo9TUYQicHw0v) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:22 |
 | 198 | [<shine>](https://open.spotify.com/track/5CwjYBkkOkhxGIrA6KrTpS) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:33 |
-| 199 | ['small miracles'](https://open.spotify.com/track/0XhGZDlgA4S0XMvfiDtWIZ) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 1:24 |
-| 200 | [Elementary](https://open.spotify.com/track/3vURAji5B56s4euPDZXK3c) | [Ray Silvers](https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa) | [Elementary](https://open.spotify.com/album/3NsxMjzFvE27raagsJ2b8e) | 3:09 |
+| 199 | [Elementary](https://open.spotify.com/track/3vURAji5B56s4euPDZXK3c) | [Ray Silvers](https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa) | [Elementary](https://open.spotify.com/album/3NsxMjzFvE27raagsJ2b8e) | 3:09 |
+| 200 | ['small miracles'](https://open.spotify.com/track/0XhGZDlgA4S0XMvfiDtWIZ) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 1:24 |
 | 201 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 |
 | 202 | [Reputation](https://open.spotify.com/track/45yZ8n3y9Exx0uB1a7weqA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 2:57 |
 | 203 | [</shine>](https://open.spotify.com/track/2bDhSTvWdrdly3soXgfo9M) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:36 |
@@ -255,9 +255,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 245 | [Stop at Nothing](https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:30 |
 | 246 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
 | 247 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
-| 248 | [Untie](https://open.spotify.com/track/6kHf7BrUO1RfxfvJ53D6Zq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:35 |
-| 249 | [Laurente Rebeque](https://open.spotify.com/track/68SfDTp9yitF2D8qwLgmcv) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:57 |
-| 250 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
-| 251 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
+| 248 | [That's Being You](https://open.spotify.com/track/5hKkEEiLxz5kJSMZblMOep) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [That's Being You](https://open.spotify.com/album/2XUDKyZObzSKbR0TmBtBlC) | 3:50 |
+| 249 | [Untie](https://open.spotify.com/track/6kHf7BrUO1RfxfvJ53D6Zq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:35 |
+| 250 | [Laurente Rebeque](https://open.spotify.com/track/68SfDTp9yitF2D8qwLgmcv) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:57 |
+| 251 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
+| 252 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Ab4zxgAAAAABSa7568svJPkrrFtoXW9b`
+Snapshot ID: `Ab45SAAAAAD7P4Rtk1TFti9RiSHHRkxB`

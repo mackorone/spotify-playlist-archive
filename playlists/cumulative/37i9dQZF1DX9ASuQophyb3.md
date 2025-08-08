@@ -2,7 +2,7 @@
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Afra
+> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Amo 988
 
 307 songs - 15 hr 33 min
 
